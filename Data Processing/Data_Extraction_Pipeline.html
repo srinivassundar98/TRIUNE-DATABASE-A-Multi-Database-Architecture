@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.40">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>data_extraction_pipeline</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-d4be639c637f3db3c684c66cefad7e0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+<div id="cell-0" class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> json</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="cell-1" class="cell" data-execution_count="2">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># this code block allows you to inspect 2 tweets and 2 retweets in the dataset</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="co"># it also saves all the unique tweets/retweets in the dictionary tweets</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co"># this code will help you to understand the data</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co"># feel free to print out more fields</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>lines<span class="op">=</span><span class="dv">0</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>num_tweets<span class="op">=</span><span class="dv">0</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>num_retweets<span class="op">=</span><span class="dv">0</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>print_tweet <span class="op">=</span> <span class="dv">0</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>print_retweet <span class="op">=</span> <span class="dv">0</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>tweets <span class="op">=</span> {}</span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a><span class="co">#insert path and replace name of the file below as needed</span></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> <span class="bu">open</span>(<span class="st">"corona-out-2/corona-out-2"</span>, <span class="st">"r"</span>) <span class="im">as</span> f1:</span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> line <span class="kw">in</span> f1:</span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>        <span class="cf">try</span>:</span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>            data <span class="op">=</span> json.loads(line)</span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>            lines <span class="op">=</span> lines <span class="op">+</span> <span class="dv">1</span></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>            <span class="cf">if</span> ( data[<span class="st">'text'</span>].startswith(<span class="st">'RT'</span>) ):</span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>                num_retweets <span class="op">+=</span> <span class="dv">1</span></span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>                <span class="co">#print out some fields of one retweet </span></span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>                <span class="co">#note that you should look at other fields too</span></span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>                <span class="cf">if</span> (print_retweet <span class="op">&lt;</span> <span class="dv">2</span>):</span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>                    print_retweet <span class="op">+=</span> <span class="dv">1</span></span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a>                    <span class="bu">print</span>(<span class="st">'RETWEET</span><span class="ch">\n</span><span class="st">'</span>,<span class="st">'id--'</span>,data[<span class="st">'id'</span>],<span class="st">'text--'</span>,data[<span class="st">'text'</span>],<span class="st">'</span><span class="ch">\n</span><span class="st">'</span>)</span>
+<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a>                    </span>
+<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a>                    <span class="bu">print</span>(<span class="st">'User-- '</span>,data[<span class="st">'user'</span>],<span class="st">'</span><span class="ch">\n</span><span class="st">'</span>)</span>
+<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a>                  </span>
+<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>                    <span class="bu">print</span>(<span class="st">'retweetstatus--'</span>,data[<span class="st">'retweeted_status'</span>],<span class="st">'</span><span class="ch">\n</span><span class="st">'</span>)</span>
+<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>                  </span>
+<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>            <span class="cf">else</span>:</span>
+<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a>                num_tweets <span class="op">+=</span> <span class="dv">1</span></span>
+<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a>                <span class="co">#print out some fields of one tweet </span></span>
+<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a>                <span class="co">#note that you should look at other fields too</span></span>
+<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a>                <span class="cf">if</span> (print_tweet <span class="op">&lt;</span> <span class="dv">2</span>):</span>
+<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a>                    print_tweet <span class="op">+=</span> <span class="dv">1</span></span>
+<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a>                    <span class="bu">print</span>(<span class="st">'TWEET</span><span class="ch">\n</span><span class="st">'</span>,<span class="st">'id--'</span>,data[<span class="st">'id'</span>],<span class="st">'text--'</span>,data[<span class="st">'text'</span>],<span class="st">'</span><span class="ch">\n</span><span class="st">'</span>)</span>
+<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a>                    <span class="bu">print</span>(<span class="st">'User-- '</span>,data[<span class="st">'user'</span>],<span class="st">'</span><span class="ch">\n</span><span class="st">'</span>)</span>
+<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a>                    </span>
+<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a>            <span class="cf">if</span> (data[<span class="st">'id_str'</span>] <span class="kw">not</span> <span class="kw">in</span> tweets):</span>
+<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a>                tweets[data[<span class="st">'id_str'</span>]] <span class="op">=</span> data</span>
+<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a>            </span>
+<span id="cb2-46"><a href="#cb2-46" aria-hidden="true" tabindex="-1"></a>        <span class="cf">except</span>:</span>
+<span id="cb2-47"><a href="#cb2-47" aria-hidden="true" tabindex="-1"></a>            <span class="co"># if there is an error loading the json of the tweet, skip</span></span>
+<span id="cb2-48"><a href="#cb2-48" aria-hidden="true" tabindex="-1"></a>            <span class="cf">continue</span></span>
+<span id="cb2-49"><a href="#cb2-49" aria-hidden="true" tabindex="-1"></a>            </span>
+<span id="cb2-50"><a href="#cb2-50" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">'num of lines='</span>,lines, <span class="st">'num of tweets='</span>,num_tweets, <span class="st">'num of retweets='</span>,num_retweets)</span>
+<span id="cb2-51"><a href="#cb2-51" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">'num of unique tweets/retweets='</span>,<span class="bu">len</span>(tweets.keys()))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>RETWEET
+ id-- 1249403767180668930 text-- RT @nuffsaidny: wishing death on people is weirdo behavior. 
+
+User--  {'id': 1242817830946508801, 'id_str': '1242817830946508801', 'name': 'juwelz v', 'screen_name': 'juwelz_v', 'location': 'Lower East Side, Manhattan', 'url': 'https://linktr.ee/juwelzv', 'description': 'Event Lyfe LLC .. Brand Ambassador: #visionarysociety Music Manager: @ssizzzlee &amp; @tmoneybeatsbang Production🎥📸 #BringNyCultureBack 🌊🌊🌊 !!', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 43, 'friends_count': 118, 'listed_count': 0, 'favourites_count': 722, 'statuses_count': 906, 'created_at': 'Wed Mar 25 14:17:28 +0000 2020', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'F5F8FA', 'profile_background_image_url': '', 'profile_background_image_url_https': '', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1246253579805089797/Ks1MrEDW_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1246253579805089797/Ks1MrEDW_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/1242817830946508801/1585146985', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None} 
+
+retweetstatus-- {'created_at': 'Sun Apr 12 16:48:01 +0000 2020', 'id': 1249378751349231616, 'id_str': '1249378751349231616', 'text': 'wishing death on people is weirdo behavior.', 'source': '&lt;a href="http://twitter.com/download/iphone" rel="nofollow"&gt;Twitter for iPhone&lt;/a&gt;', 'truncated': False, 'in_reply_to_status_id': None, 'in_reply_to_status_id_str': None, 'in_reply_to_user_id': None, 'in_reply_to_user_id_str': None, 'in_reply_to_screen_name': None, 'user': {'id': 16144221, 'id_str': '16144221', 'name': 'NUFF', 'screen_name': 'nuffsaidny', 'location': None, 'url': None, 'description': 'instagram: @nuffsaidny 🇹🇹', 'translator_type': 'regular', 'protected': False, 'verified': False, 'followers_count': 17112, 'friends_count': 1515, 'listed_count': 874, 'favourites_count': 15790, 'statuses_count': 2599, 'created_at': 'Fri Sep 05 14:28:41 +0000 2008', 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': True, 'profile_link_color': 'E81C4F', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1240511913152282624/I024wGWG_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1240511913152282624/I024wGWG_normal.jpg', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}, 'geo': None, 'coordinates': None, 'place': None, 'contributors': None, 'quoted_status_id': 1249315454797168641, 'quoted_status_id_str': '1249315454797168641', 'quoted_status': {'created_at': 'Sun Apr 12 12:36:30 +0000 2020', 'id': 1249315454797168641, 'id_str': '1249315454797168641', 'text': 'I pray my haters die of corona virus 😷', 'source': '&lt;a href="http://twitter.com/download/iphone" rel="nofollow"&gt;Twitter for iPhone&lt;/a&gt;', 'truncated': False, 'in_reply_to_status_id': None, 'in_reply_to_status_id_str': None, 'in_reply_to_user_id': None, 'in_reply_to_user_id_str': None, 'in_reply_to_screen_name': None, 'user': {'id': 46769281, 'id_str': '46769281', 'name': 'Gucci Mane', 'screen_name': 'gucci1017', 'location': 'EAST ATLANTA', 'url': 'https://guccimane.lnk.to/Woptober2', 'description': 'Major Label Recording Artist, signed to Atlantic Records. | wizopbooking@gmail.com', 'translator_type': 'none', 'protected': False, 'verified': True, 'followers_count': 8483937, 'friends_count': 1, 'listed_count': 10366, 'favourites_count': 11016, 'statuses_count': 21123, 'created_at': 'Fri Jun 12 22:52:05 +0000 2009', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme14/bg.gif', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme14/bg.gif', 'profile_background_tile': False, 'profile_link_color': '009999', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': 'EFEFEF', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1236396637284700161/cq6xECoN_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1236396637284700161/cq6xECoN_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/46769281/1583614905', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}, 'geo': None, 'coordinates': None, 'place': None, 'contributors': None, 'is_quote_status': False, 'quote_count': 3376, 'reply_count': 1956, 'retweet_count': 9246, 'favorite_count': 33006, 'entities': {'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}, 'favorited': False, 'retweeted': False, 'filter_level': 'low', 'lang': 'en'}, 'quoted_status_permalink': {'url': 'https://t.co/FdZ3Hxzfwl', 'expanded': 'https://twitter.com/gucci1017/status/1249315454797168641', 'display': 'twitter.com/gucci1017/stat…'}, 'is_quote_status': True, 'quote_count': 1, 'reply_count': 1, 'retweet_count': 24, 'favorite_count': 50, 'entities': {'hashtags': [], 'urls': [], 'user_mentions': [], 'symbols': []}, 'favorited': False, 'retweeted': False, 'filter_level': 'low', 'lang': 'en'} 
+
+RETWEET
+ id-- 1249403768023678982 text-- RT @lale_karanfil: In Turkey, there are 300 thousand prisoners and 150 thousand prison employees in prisons. 
+Prisons are the most risky pl… 
+
+User--  {'id': 1225145123920588805, 'id_str': '1225145123920588805', 'name': 'efe09', 'screen_name': 'efe0927183508', 'location': None, 'url': None, 'description': "Allah'ın en değerli eseri insandır.\nCanı yanan sabretsin.\nCan yakan, canının yanacağı günü beklesin..\n677 khk\nRT düşüncem olduğu anlamına gelmez bilgi amaçlıdır", 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 653, 'friends_count': 983, 'listed_count': 0, 'favourites_count': 1255, 'statuses_count': 4177, 'created_at': 'Wed Feb 05 19:52:38 +0000 2020', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'F5F8FA', 'profile_background_image_url': '', 'profile_background_image_url_https': '', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1243137514665361409/95Mv0oRS_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1243137514665361409/95Mv0oRS_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/1225145123920588805/1585222614', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None} 
+
+retweetstatus-- {'created_at': 'Sun Apr 12 18:02:41 +0000 2020', 'id': 1249397541596286979, 'id_str': '1249397541596286979', 'text': 'In Turkey, there are 300 thousand prisoners and 150 thousand prison employees in prisons. \nPrisons are the most ris… https://t.co/GogsgfUxkE', 'source': '&lt;a href="http://twitter.com/download/android" rel="nofollow"&gt;Twitter for Android&lt;/a&gt;', 'truncated': True, 'in_reply_to_status_id': None, 'in_reply_to_status_id_str': None, 'in_reply_to_user_id': None, 'in_reply_to_user_id_str': None, 'in_reply_to_screen_name': None, 'user': {'id': 1087735689091928064, 'id_str': '1087735689091928064', 'name': 'Karanfil Lale', 'screen_name': 'lale_karanfil', 'location': None, 'url': None, 'description': None, 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 897, 'friends_count': 1120, 'listed_count': 1, 'favourites_count': 2776, 'statuses_count': 7986, 'created_at': 'Tue Jan 22 15:36:12 +0000 2019', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'F5F8FA', 'profile_background_image_url': '', 'profile_background_image_url_https': '', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1248313542387757057/see_F0uX_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1248313542387757057/see_F0uX_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/1087735689091928064/1571123765', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None}, 'geo': None, 'coordinates': None, 'place': None, 'contributors': None, 'is_quote_status': False, 'extended_tweet': {'full_text': 'In Turkey, there are 300 thousand prisoners and 150 thousand prison employees in prisons. \nPrisons are the most risky places in case of corona virus.\nThe lives of thousands of people are at risk.\n\n#COVID19InTurkeysPrisons\n\n@SusannaCeccardi', 'display_text_range': [0, 239], 'entities': {'hashtags': [{'text': 'COVID19InTurkeysPrisons', 'indices': [197, 221]}], 'urls': [], 'user_mentions': [{'screen_name': 'SusannaCeccardi', 'name': 'Susanna Ceccardi', 'id': 406110645, 'id_str': '406110645', 'indices': [223, 239]}], 'symbols': []}}, 'quote_count': 0, 'reply_count': 1, 'retweet_count': 14, 'favorite_count': 6, 'entities': {'hashtags': [], 'urls': [{'url': 'https://t.co/GogsgfUxkE', 'expanded_url': 'https://twitter.com/i/web/status/1249397541596286979', 'display_url': 'twitter.com/i/web/status/1…', 'indices': [117, 140]}], 'user_mentions': [], 'symbols': []}, 'favorited': False, 'retweeted': False, 'filter_level': 'low', 'lang': 'en'} 
+
+TWEET
+ id-- 1249403770360016896 text-- SERÁ APENAS COINCIDÊNCIA?
+
+Após escudo do Remo aparecer em prédio, Prefeitura divulgou que 33 pessoas com corona se… https://t.co/lCcwYH2eg5 
+
+User--  {'id': 988174833849634816, 'id_str': '988174833849634816', 'name': 'TV Conservador / Metró', 'screen_name': 'TVConservador', 'location': 'Belém, Brasil', 'url': None, 'description': 'Emissora afiliada a Rede Metrópole (@cnt_pr) no estado do Pará. As notícias aqui dadas são FICTÍCIAS, não pegue corda ok 👍\n\n© Sistema O Conservador Ltda.', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 7240, 'friends_count': 566, 'listed_count': 17, 'favourites_count': 18417, 'statuses_count': 22665, 'created_at': 'Sun Apr 22 21:56:54 +0000 2018', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '000000', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_link_color': '1B95E0', 'profile_sidebar_border_color': '000000', 'profile_sidebar_fill_color': '000000', 'profile_text_color': '000000', 'profile_use_background_image': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1245501760518701057/zUWjkVz__normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1245501760518701057/zUWjkVz__normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/988174833849634816/1585783589', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None} 
+
+TWEET
+ id-- 1249403771261722624 text-- #Bo der Osterhase hat nicht Corona, er ist gekommen. 
+
+User--  {'id': 1171484224244744198, 'id_str': '1171484224244744198', 'name': 'Elfpunkt', 'screen_name': 'meElfpunkt', 'location': None, 'url': None, 'description': 'Mal 1 mal 0 mal Tilt', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 3, 'friends_count': 53, 'listed_count': 0, 'favourites_count': 72, 'statuses_count': 60, 'created_at': 'Tue Sep 10 18:03:17 +0000 2019', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'F5F8FA', 'profile_background_image_url': '', 'profile_background_image_url_https': '', 'profile_background_tile': False, 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png', 'profile_image_url_https': 'https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png', 'default_profile': True, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None} 
+
+num of lines= 18518 num of tweets= 7356 num of retweets= 11162
+num of unique tweets/retweets= 18506</code></pre>
+</div>
+</div>
+<div id="cell-2" class="cell" data-execution_count="3">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># print the last data item</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>data</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="3">
+<pre><code>{'created_at': 'Sun Apr 12 18:47:53 +0000 2020',
+ 'id': 1249408918196871168,
+ 'id_str': '1249408918196871168',
+ 'text': 'RT @liputan6dotcom: Lagi, 2 Dokter Senior Meninggal karena Corona Covid-19 https://t.co/eDbMsxFA84',
+ 'source': '&lt;a href="http://twitter.com/download/android" rel="nofollow"&gt;Twitter for Android&lt;/a&gt;',
+ 'truncated': False,
+ 'in_reply_to_status_id': None,
+ 'in_reply_to_status_id_str': None,
+ 'in_reply_to_user_id': None,
+ 'in_reply_to_user_id_str': None,
+ 'in_reply_to_screen_name': None,
+ 'user': {'id': 2283278160,
+  'id_str': '2283278160',
+  'name': 'Mr rius',
+  'screen_name': 'AwhexWibowo',
+  'location': 'Yogyakarta, Indonesia',
+  'url': None,
+  'description': 'have fun go mad',
+  'translator_type': 'none',
+  'protected': False,
+  'verified': False,
+  'followers_count': 451,
+  'friends_count': 608,
+  'listed_count': 2,
+  'favourites_count': 4625,
+  'statuses_count': 31160,
+  'created_at': 'Thu Jan 09 08:34:03 +0000 2014',
+  'utc_offset': None,
+  'time_zone': None,
+  'geo_enabled': True,
+  'lang': None,
+  'contributors_enabled': False,
+  'is_translator': False,
+  'profile_background_color': 'C0DEED',
+  'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png',
+  'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png',
+  'profile_background_tile': False,
+  'profile_link_color': '1DA1F2',
+  'profile_sidebar_border_color': 'C0DEED',
+  'profile_sidebar_fill_color': 'DDEEF6',
+  'profile_text_color': '333333',
+  'profile_use_background_image': True,
+  'profile_image_url': 'http://pbs.twimg.com/profile_images/1045333930910482432/9T4eZEsi_normal.jpg',
+  'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1045333930910482432/9T4eZEsi_normal.jpg',
+  'profile_banner_url': 'https://pbs.twimg.com/profile_banners/2283278160/1585672135',
+  'default_profile': True,
+  'default_profile_image': False,
+  'following': None,
+  'follow_request_sent': None,
+  'notifications': None},
+ 'geo': None,
+ 'coordinates': None,
+ 'place': None,
+ 'contributors': None,
+ 'retweeted_status': {'created_at': 'Sun Apr 12 17:22:04 +0000 2020',
+  'id': 1249387319229988865,
+  'id_str': '1249387319229988865',
+  'text': 'Lagi, 2 Dokter Senior Meninggal karena Corona Covid-19 https://t.co/eDbMsxFA84',
+  'source': '&lt;a href="https://dlvrit.com/" rel="nofollow"&gt;dlvr.it&lt;/a&gt;',
+  'truncated': False,
+  'in_reply_to_status_id': None,
+  'in_reply_to_status_id_str': None,
+  'in_reply_to_user_id': None,
+  'in_reply_to_user_id_str': None,
+  'in_reply_to_screen_name': None,
+  'user': {'id': 47596019,
+   'id_str': '47596019',
+   'name': 'Liputan6.com',
+   'screen_name': 'liputan6dotcom',
+   'location': 'Jakarta Indonesia',
+   'url': None,
+   'description': 'Download Apps https://t.co/Tg70sLl3Dc di sini https://t.co/DkBRaoqgmX \nWebsite : https://t.co/Tg70sLl3Dc                                   \nContact us: Liputan6Socmed@gmail.com',
+   'translator_type': 'regular',
+   'protected': False,
+   'verified': True,
+   'followers_count': 3675977,
+   'friends_count': 693,
+   'listed_count': 4806,
+   'favourites_count': 7055,
+   'statuses_count': 1375342,
+   'created_at': 'Tue Jun 16 10:48:24 +0000 2009',
+   'utc_offset': None,
+   'time_zone': None,
+   'geo_enabled': True,
+   'lang': None,
+   'contributors_enabled': False,
+   'is_translator': False,
+   'profile_background_color': 'E88317',
+   'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme16/bg.gif',
+   'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme16/bg.gif',
+   'profile_background_tile': False,
+   'profile_link_color': 'E88317',
+   'profile_sidebar_border_color': 'FFFFFF',
+   'profile_sidebar_fill_color': 'F05A31',
+   'profile_text_color': '0099CC',
+   'profile_use_background_image': False,
+   'profile_image_url': 'http://pbs.twimg.com/profile_images/1196221192916439041/SuL7oIar_normal.jpg',
+   'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1196221192916439041/SuL7oIar_normal.jpg',
+   'profile_banner_url': 'https://pbs.twimg.com/profile_banners/47596019/1585833284',
+   'default_profile': False,
+   'default_profile_image': False,
+   'following': None,
+   'follow_request_sent': None,
+   'notifications': None},
+  'geo': None,
+  'coordinates': None,
+  'place': None,
+  'contributors': None,
+  'is_quote_status': False,
+  'quote_count': 7,
+  'reply_count': 12,
+  'retweet_count': 86,
+  'favorite_count': 108,
+  'entities': {'hashtags': [],
+   'urls': [{'url': 'https://t.co/eDbMsxFA84',
+     'expanded_url': 'http://dlvr.it/RTf5SD',
+     'display_url': 'dlvr.it/RTf5SD',
+     'indices': [55, 78]}],
+   'user_mentions': [],
+   'symbols': []},
+  'favorited': False,
+  'retweeted': False,
+  'possibly_sensitive': False,
+  'filter_level': 'low',
+  'lang': 'in'},
+ 'is_quote_status': False,
+ 'quote_count': 0,
+ 'reply_count': 0,
+ 'retweet_count': 0,
+ 'favorite_count': 0,
+ 'entities': {'hashtags': [],
+  'urls': [{'url': 'https://t.co/eDbMsxFA84',
+    'expanded_url': 'http://dlvr.it/RTf5SD',
+    'display_url': 'dlvr.it/RTf5SD',
+    'indices': [75, 98]}],
+  'user_mentions': [{'screen_name': 'liputan6dotcom',
+    'name': 'Liputan6.com',
+    'id': 47596019,
+    'id_str': '47596019',
+    'indices': [3, 18]}],
+  'symbols': []},
+ 'favorited': False,
+ 'retweeted': False,
+ 'possibly_sensitive': False,
+ 'filter_level': 'low',
+ 'lang': 'in',
+ 'timestamp_ms': '1586717273650'}</code></pre>
+</div>
+</div>
+<div id="cell-3" class="cell" data-execution_count="4">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>data[<span class="st">'user'</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="4">
+<pre><code>{'id': 2283278160,
+ 'id_str': '2283278160',
+ 'name': 'Mr rius',
+ 'screen_name': 'AwhexWibowo',
+ 'location': 'Yogyakarta, Indonesia',
+ 'url': None,
+ 'description': 'have fun go mad',
+ 'translator_type': 'none',
+ 'protected': False,
+ 'verified': False,
+ 'followers_count': 451,
+ 'friends_count': 608,
+ 'listed_count': 2,
+ 'favourites_count': 4625,
+ 'statuses_count': 31160,
+ 'created_at': 'Thu Jan 09 08:34:03 +0000 2014',
+ 'utc_offset': None,
+ 'time_zone': None,
+ 'geo_enabled': True,
+ 'lang': None,
+ 'contributors_enabled': False,
+ 'is_translator': False,
+ 'profile_background_color': 'C0DEED',
+ 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png',
+ 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png',
+ 'profile_background_tile': False,
+ 'profile_link_color': '1DA1F2',
+ 'profile_sidebar_border_color': 'C0DEED',
+ 'profile_sidebar_fill_color': 'DDEEF6',
+ 'profile_text_color': '333333',
+ 'profile_use_background_image': True,
+ 'profile_image_url': 'http://pbs.twimg.com/profile_images/1045333930910482432/9T4eZEsi_normal.jpg',
+ 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1045333930910482432/9T4eZEsi_normal.jpg',
+ 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/2283278160/1585672135',
+ 'default_profile': True,
+ 'default_profile_image': False,
+ 'following': None,
+ 'follow_request_sent': None,
+ 'notifications': None}</code></pre>
+</div>
+</div>
+<div id="cell-4" class="cell" data-execution_count="7">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co">##MAINS</span></span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> json</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> datetime <span class="im">import</span> datetime</span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Placeholder sets for tracking seen tweets and users</span></span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>seen_tweets <span class="op">=</span> <span class="bu">set</span>()</span>
+<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a>seen_users <span class="op">=</span> <span class="bu">set</span>()</span>
+<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a>output_directory <span class="op">=</span> <span class="st">"corona/"</span>  <span class="co"># Set the output directory to 'corona'</span></span>
+<span id="cb8-11"><a href="#cb8-11" aria-hidden="true" tabindex="-1"></a>os.makedirs(output_directory, exist_ok<span class="op">=</span><span class="va">True</span>)  <span class="co"># Create the directory if it doesn't exist</span></span>
+<span id="cb8-12"><a href="#cb8-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-13"><a href="#cb8-13" aria-hidden="true" tabindex="-1"></a>file_paths <span class="op">=</span> [<span class="st">"corona-out-2/corona-out-2"</span>, <span class="st">"corona-out-3/corona-out-3"</span>]  <span class="co"># List of file paths to process</span></span>
+<span id="cb8-14"><a href="#cb8-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-15"><a href="#cb8-15" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> format_timestamp(date_str):</span>
+<span id="cb8-16"><a href="#cb8-16" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> datetime.strptime(date_str, <span class="st">'%a %b </span><span class="sc">%d</span><span class="st"> %H:%M:%S +0000 %Y'</span>).strftime(<span class="st">'%Y%m</span><span class="sc">%d</span><span class="st">%H%M%S'</span>)</span>
+<span id="cb8-17"><a href="#cb8-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-18"><a href="#cb8-18" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> file_path <span class="kw">in</span> file_paths:</span>
+<span id="cb8-19"><a href="#cb8-19" aria-hidden="true" tabindex="-1"></a>    <span class="cf">with</span> <span class="bu">open</span>(file_path, <span class="st">"r"</span>, encoding<span class="op">=</span><span class="st">'utf-8'</span>) <span class="im">as</span> f1:</span>
+<span id="cb8-20"><a href="#cb8-20" aria-hidden="true" tabindex="-1"></a>        <span class="cf">for</span> line <span class="kw">in</span> f1:</span>
+<span id="cb8-21"><a href="#cb8-21" aria-hidden="true" tabindex="-1"></a>            line <span class="op">=</span> line.strip()</span>
+<span id="cb8-22"><a href="#cb8-22" aria-hidden="true" tabindex="-1"></a>            <span class="cf">if</span> <span class="kw">not</span> line:</span>
+<span id="cb8-23"><a href="#cb8-23" aria-hidden="true" tabindex="-1"></a>                <span class="cf">continue</span></span>
+<span id="cb8-24"><a href="#cb8-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-25"><a href="#cb8-25" aria-hidden="true" tabindex="-1"></a>            <span class="cf">try</span>:</span>
+<span id="cb8-26"><a href="#cb8-26" aria-hidden="true" tabindex="-1"></a>                data <span class="op">=</span> json.loads(line)</span>
+<span id="cb8-27"><a href="#cb8-27" aria-hidden="true" tabindex="-1"></a>            <span class="cf">except</span> json.JSONDecodeError <span class="im">as</span> e:</span>
+<span id="cb8-28"><a href="#cb8-28" aria-hidden="true" tabindex="-1"></a>                <span class="bu">print</span>(<span class="ss">f"Error decoding JSON for line: </span><span class="sc">{</span>line[:<span class="dv">40</span>]<span class="sc">}</span><span class="ss">... Error: </span><span class="sc">{</span>e<span class="sc">}</span><span class="ss">"</span>)</span>
+<span id="cb8-29"><a href="#cb8-29" aria-hidden="true" tabindex="-1"></a>                <span class="cf">continue</span></span>
+<span id="cb8-30"><a href="#cb8-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-31"><a href="#cb8-31" aria-hidden="true" tabindex="-1"></a>            tweet_id <span class="op">=</span> data[<span class="st">'id_str'</span>]</span>
+<span id="cb8-32"><a href="#cb8-32" aria-hidden="true" tabindex="-1"></a>            timestamp <span class="op">=</span> format_timestamp(data[<span class="st">'created_at'</span>])</span>
+<span id="cb8-33"><a href="#cb8-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-34"><a href="#cb8-34" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Check if the tweet has been seen before</span></span>
+<span id="cb8-35"><a href="#cb8-35" aria-hidden="true" tabindex="-1"></a>            <span class="cf">if</span> tweet_id <span class="kw">in</span> seen_tweets:</span>
+<span id="cb8-36"><a href="#cb8-36" aria-hidden="true" tabindex="-1"></a>                <span class="cf">continue</span></span>
+<span id="cb8-37"><a href="#cb8-37" aria-hidden="true" tabindex="-1"></a>            seen_tweets.add(tweet_id)</span>
+<span id="cb8-38"><a href="#cb8-38" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-39"><a href="#cb8-39" aria-hidden="true" tabindex="-1"></a>            user <span class="op">=</span> data[<span class="st">'user'</span>]</span>
+<span id="cb8-40"><a href="#cb8-40" aria-hidden="true" tabindex="-1"></a>            user_id <span class="op">=</span> user[<span class="st">'id_str'</span>]</span>
+<span id="cb8-41"><a href="#cb8-41" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-42"><a href="#cb8-42" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Check if the user has been seen before</span></span>
+<span id="cb8-43"><a href="#cb8-43" aria-hidden="true" tabindex="-1"></a>            <span class="cf">if</span> user_id <span class="kw">not</span> <span class="kw">in</span> seen_users:</span>
+<span id="cb8-44"><a href="#cb8-44" aria-hidden="true" tabindex="-1"></a>                seen_users.add(user_id)</span>
+<span id="cb8-45"><a href="#cb8-45" aria-hidden="true" tabindex="-1"></a>                <span class="co"># Add user to user table (or any other datastore you are using)</span></span>
+<span id="cb8-46"><a href="#cb8-46" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-47"><a href="#cb8-47" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Determine the prefix based on whether it's a tweet or retweet</span></span>
+<span id="cb8-48"><a href="#cb8-48" aria-hidden="true" tabindex="-1"></a>            prefix <span class="op">=</span> <span class="st">'RT'</span> <span class="cf">if</span> data[<span class="st">'text'</span>].startswith(<span class="st">'RT'</span>) <span class="cf">else</span> <span class="st">'T'</span></span>
+<span id="cb8-49"><a href="#cb8-49" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-50"><a href="#cb8-50" aria-hidden="true" tabindex="-1"></a>            <span class="co"># Save the tweet or retweet as a JSON file</span></span>
+<span id="cb8-51"><a href="#cb8-51" aria-hidden="true" tabindex="-1"></a>            file_name <span class="op">=</span> <span class="ss">f"</span><span class="sc">{</span>prefix<span class="sc">}</span><span class="ss">_</span><span class="sc">{</span>tweet_id<span class="sc">}</span><span class="ss">_</span><span class="sc">{</span>timestamp<span class="sc">}</span><span class="ss">.json"</span></span>
+<span id="cb8-52"><a href="#cb8-52" aria-hidden="true" tabindex="-1"></a>            <span class="cf">with</span> <span class="bu">open</span>(os.path.join(output_directory, file_name), <span class="st">'w'</span>, encoding<span class="op">=</span><span class="st">'utf-8'</span>) <span class="im">as</span> outfile:</span>
+<span id="cb8-53"><a href="#cb8-53" aria-hidden="true" tabindex="-1"></a>                json.dump(data, outfile, ensure_ascii<span class="op">=</span><span class="va">False</span>, indent<span class="op">=</span><span class="dv">4</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
