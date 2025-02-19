@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:47:44 +0000 2020",
+    "id": 1254059524106981378,
+    "id_str": "1254059524106981378",
+    "text": "@MickHC2 @peede87 @BILD Corona-Kartell, ich hab grad gesehen das du Vater bist tue mir nen gefallen und lösche dich… https://t.co/QTxHYtqUWO",
+    "display_text_range": [
+        24,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254038496920195075,
+    "in_reply_to_status_id_str": "1254038496920195075",
+    "in_reply_to_user_id": 1231900387063586821,
+    "in_reply_to_user_id_str": "1231900387063586821",
+    "in_reply_to_screen_name": "MickHC2",
+    "user": {
+        "id": 824599958410199041,
+        "id_str": "824599958410199041",
+        "name": "Maskenhaft",
+        "screen_name": "Maskenhaft",
+        "location": "Deutschland",
+        "url": null,
+        "description": "nothing to see here",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 61,
+        "listed_count": 0,
+        "favourites_count": 2563,
+        "statuses_count": 3929,
+        "created_at": "Thu Jan 26 12:48:45 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "44DDCC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/961657374061879302/Im0K2ZuX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/961657374061879302/Im0K2ZuX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/824599958410199041/1553692422",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@MickHC2 @peede87 @BILD Corona-Kartell, ich hab grad gesehen das du Vater bist tue mir nen gefallen und lösche dich hier und spar deinen Kinder diese Peinlichkeit. jetzt mal ehrlich wie hart muss man auf den Kopf gefallen sein um so ein Stuss zu schreiben",
+        "display_text_range": [
+            24,
+            255
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MickHC2",
+                    "name": "MickHC",
+                    "id": 1231900387063586821,
+                    "id_str": "1231900387063586821",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "peede87",
+                    "name": "Peter Schnell",
+                    "id": 1329800887,
+                    "id_str": "1329800887",
+                    "indices": [
+                        9,
+                        17
+                    ]
+                },
+                {
+                    "screen_name": "BILD",
+                    "name": "BILD",
+                    "id": 9204502,
+                    "id_str": "9204502",
+                    "indices": [
+                        18,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/QTxHYtqUWO",
+                "expanded_url": "https://twitter.com/i/web/status/1254059524106981378",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MickHC2",
+                "name": "MickHC",
+                "id": 1231900387063586821,
+                "id_str": "1231900387063586821",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "peede87",
+                "name": "Peter Schnell",
+                "id": 1329800887,
+                "id_str": "1329800887",
+                "indices": [
+                    9,
+                    17
+                ]
+            },
+            {
+                "screen_name": "BILD",
+                "name": "BILD",
+                "id": 9204502,
+                "id_str": "9204502",
+                "indices": [
+                    18,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587826064503"
+}

@@ -1,0 +1,761 @@
+{
+    "created_at": "Sat Apr 25 14:26:18 +0000 2020",
+    "id": 1254054129418338304,
+    "id_str": "1254054129418338304",
+    "text": "RT @CroftonBooks: Buy the @TheCriticMag to see new (brilliant) work by @Miriamelia1 Miriam Elia, author of We Go to the Gallery #Covid_19 #…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1161023629058088960,
+        "id_str": "1161023629058088960",
+        "name": "Michael Mosbacher - The Critic",
+        "screen_name": "MossyTheCritic",
+        "location": "Pimlico",
+        "url": "http://www.thecritic.co.uk",
+        "description": "http://thecritic.co.uk Subscribe: http://thecritic.imbmsubscriptions.com\nApp: http://pocketmags.com/the-critic-magazine\nContact: omichaelmosbacher@gmail.com",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 953,
+        "friends_count": 2288,
+        "listed_count": 7,
+        "favourites_count": 211,
+        "statuses_count": 763,
+        "created_at": "Mon Aug 12 21:16:18 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253408341633773571/bgGbkCTZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253408341633773571/bgGbkCTZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161023629058088960/1587740947",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 10:49:01 +0000 2020",
+        "id": 1253999451024297984,
+        "id_str": "1253999451024297984",
+        "text": "Buy the @TheCriticMag to see new (brilliant) work by @Miriamelia1 Miriam Elia, author of We Go to the Gallery… https://t.co/KGAmGT5r9w",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3196873228,
+            "id_str": "3196873228",
+            "name": "Crofton Books",
+            "screen_name": "CroftonBooks",
+            "location": "Lewisham, London",
+            "url": "http://www.croftonbooks.co.uk",
+            "description": "We are a used bookshop and you can visit us through appointment during #Covid. Also, please email or DM us for home deliveries Or telephone 📞 📚",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1386,
+            "friends_count": 1037,
+            "listed_count": 39,
+            "favourites_count": 5608,
+            "statuses_count": 5855,
+            "created_at": "Thu Apr 23 05:19:41 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1243472999115821056/7pqvy6La_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243472999115821056/7pqvy6La_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3196873228/1585901420",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "58f909abfd95e133",
+            "url": "https://api.twitter.com/1.1/geo/id/58f909abfd95e133.json",
+            "place_type": "city",
+            "name": "Lewisham",
+            "full_name": "Lewisham, London",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.074547,
+                            51.414087
+                        ],
+                        [
+                            -0.074547,
+                            51.494127
+                        ],
+                        [
+                            0.038567,
+                            51.494127
+                        ],
+                        [
+                            0.038567,
+                            51.414087
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253703155432423425,
+        "quoted_status_id_str": "1253703155432423425",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 15:11:39 +0000 2020",
+            "id": 1253703155432423425,
+            "id_str": "1253703155432423425",
+            "text": "Corona lockdown &amp; the missing lemongrass... @Miriamelia1's take on our current predicament - in May's @TheCriticMag… https://t.co/kpljkiWfz4",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1161023629058088960,
+                "id_str": "1161023629058088960",
+                "name": "Michael Mosbacher - The Critic",
+                "screen_name": "MossyTheCritic",
+                "location": "Pimlico",
+                "url": "http://www.thecritic.co.uk",
+                "description": "http://thecritic.co.uk Subscribe: http://thecritic.imbmsubscriptions.com\nApp: http://pocketmags.com/the-critic-magazine\nContact: omichaelmosbacher@gmail.com",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 953,
+                "friends_count": 2288,
+                "listed_count": 7,
+                "favourites_count": 211,
+                "statuses_count": 762,
+                "created_at": "Mon Aug 12 21:16:18 +0000 2019",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1253408341633773571/bgGbkCTZ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253408341633773571/bgGbkCTZ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161023629058088960/1587740947",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Corona lockdown &amp; the missing lemongrass... @Miriamelia1's take on our current predicament - in May's @TheCriticMag, on sale next week https://t.co/CwiLAzDY19",
+                "display_text_range": [
+                    0,
+                    138
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Miriamelia1",
+                            "name": "Miriam",
+                            "id": 210911524,
+                            "id_str": "210911524",
+                            "indices": [
+                                48,
+                                60
+                            ]
+                        },
+                        {
+                            "screen_name": "TheCriticMag",
+                            "name": "The Critic",
+                            "id": 1163549906243588097,
+                            "id_str": "1163549906243588097",
+                            "indices": [
+                                106,
+                                119
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253703136235192320,
+                            "id_str": "1253703136235192320",
+                            "indices": [
+                                139,
+                                162
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWYMXCkXgAAriSr.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWYMXCkXgAAriSr.jpg",
+                            "url": "https://t.co/CwiLAzDY19",
+                            "display_url": "pic.twitter.com/CwiLAzDY19",
+                            "expanded_url": "https://twitter.com/MossyTheCritic/status/1253703155432423425/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 928,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 526,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1417,
+                                    "h": 1832,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253703136235192320,
+                            "id_str": "1253703136235192320",
+                            "indices": [
+                                139,
+                                162
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWYMXCkXgAAriSr.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWYMXCkXgAAriSr.jpg",
+                            "url": "https://t.co/CwiLAzDY19",
+                            "display_url": "pic.twitter.com/CwiLAzDY19",
+                            "expanded_url": "https://twitter.com/MossyTheCritic/status/1253703155432423425/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 928,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 526,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1417,
+                                    "h": 1832,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 6,
+            "favorite_count": 4,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/kpljkiWfz4",
+                        "expanded_url": "https://twitter.com/i/web/status/1253703155432423425",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "Miriamelia1",
+                        "name": "Miriam",
+                        "id": 210911524,
+                        "id_str": "210911524",
+                        "indices": [
+                            48,
+                            60
+                        ]
+                    },
+                    {
+                        "screen_name": "TheCriticMag",
+                        "name": "The Critic",
+                        "id": 1163549906243588097,
+                        "id_str": "1163549906243588097",
+                        "indices": [
+                            106,
+                            119
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/JKnc16A7FB",
+            "expanded": "https://twitter.com/mossythecritic/status/1253703155432423425",
+            "display": "twitter.com/mossythecritic…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Buy the @TheCriticMag to see new (brilliant) work by @Miriamelia1 Miriam Elia, author of We Go to the Gallery #Covid_19 #covidart \n(We can stock The Critic Mag here #watchthisspace )",
+            "display_text_range": [
+                0,
+                182
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Covid_19",
+                        "indices": [
+                            110,
+                            119
+                        ]
+                    },
+                    {
+                        "text": "covidart",
+                        "indices": [
+                            120,
+                            129
+                        ]
+                    },
+                    {
+                        "text": "watchthisspace",
+                        "indices": [
+                            165,
+                            180
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "TheCriticMag",
+                        "name": "The Critic",
+                        "id": 1163549906243588097,
+                        "id_str": "1163549906243588097",
+                        "indices": [
+                            8,
+                            21
+                        ]
+                    },
+                    {
+                        "screen_name": "Miriamelia1",
+                        "name": "Miriam",
+                        "id": 210911524,
+                        "id_str": "210911524",
+                        "indices": [
+                            53,
+                            65
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KGAmGT5r9w",
+                    "expanded_url": "https://twitter.com/i/web/status/1253999451024297984",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        111,
+                        134
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "TheCriticMag",
+                    "name": "The Critic",
+                    "id": 1163549906243588097,
+                    "id_str": "1163549906243588097",
+                    "indices": [
+                        8,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "Miriamelia1",
+                    "name": "Miriam",
+                    "id": 210911524,
+                    "id_str": "210911524",
+                    "indices": [
+                        53,
+                        65
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1253703155432423425,
+    "quoted_status_id_str": "1253703155432423425",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 15:11:39 +0000 2020",
+        "id": 1253703155432423425,
+        "id_str": "1253703155432423425",
+        "text": "Corona lockdown &amp; the missing lemongrass... @Miriamelia1's take on our current predicament - in May's @TheCriticMag… https://t.co/kpljkiWfz4",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1161023629058088960,
+            "id_str": "1161023629058088960",
+            "name": "Michael Mosbacher - The Critic",
+            "screen_name": "MossyTheCritic",
+            "location": "Pimlico",
+            "url": "http://www.thecritic.co.uk",
+            "description": "http://thecritic.co.uk Subscribe: http://thecritic.imbmsubscriptions.com\nApp: http://pocketmags.com/the-critic-magazine\nContact: omichaelmosbacher@gmail.com",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 953,
+            "friends_count": 2288,
+            "listed_count": 7,
+            "favourites_count": 211,
+            "statuses_count": 762,
+            "created_at": "Mon Aug 12 21:16:18 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253408341633773571/bgGbkCTZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253408341633773571/bgGbkCTZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161023629058088960/1587740947",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Corona lockdown &amp; the missing lemongrass... @Miriamelia1's take on our current predicament - in May's @TheCriticMag, on sale next week https://t.co/CwiLAzDY19",
+            "display_text_range": [
+                0,
+                138
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Miriamelia1",
+                        "name": "Miriam",
+                        "id": 210911524,
+                        "id_str": "210911524",
+                        "indices": [
+                            48,
+                            60
+                        ]
+                    },
+                    {
+                        "screen_name": "TheCriticMag",
+                        "name": "The Critic",
+                        "id": 1163549906243588097,
+                        "id_str": "1163549906243588097",
+                        "indices": [
+                            106,
+                            119
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253703136235192320,
+                        "id_str": "1253703136235192320",
+                        "indices": [
+                            139,
+                            162
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWYMXCkXgAAriSr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWYMXCkXgAAriSr.jpg",
+                        "url": "https://t.co/CwiLAzDY19",
+                        "display_url": "pic.twitter.com/CwiLAzDY19",
+                        "expanded_url": "https://twitter.com/MossyTheCritic/status/1253703155432423425/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 928,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 526,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1417,
+                                "h": 1832,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253703136235192320,
+                        "id_str": "1253703136235192320",
+                        "indices": [
+                            139,
+                            162
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWYMXCkXgAAriSr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWYMXCkXgAAriSr.jpg",
+                        "url": "https://t.co/CwiLAzDY19",
+                        "display_url": "pic.twitter.com/CwiLAzDY19",
+                        "expanded_url": "https://twitter.com/MossyTheCritic/status/1253703155432423425/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 928,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 526,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1417,
+                                "h": 1832,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 6,
+        "favorite_count": 4,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/kpljkiWfz4",
+                    "expanded_url": "https://twitter.com/i/web/status/1253703155432423425",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "Miriamelia1",
+                    "name": "Miriam",
+                    "id": 210911524,
+                    "id_str": "210911524",
+                    "indices": [
+                        48,
+                        60
+                    ]
+                },
+                {
+                    "screen_name": "TheCriticMag",
+                    "name": "The Critic",
+                    "id": 1163549906243588097,
+                    "id_str": "1163549906243588097",
+                    "indices": [
+                        106,
+                        119
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/JKnc16A7FB",
+        "expanded": "https://twitter.com/mossythecritic/status/1253703155432423425",
+        "display": "twitter.com/mossythecritic…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Covid_19",
+                "indices": [
+                    128,
+                    137
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "CroftonBooks",
+                "name": "Crofton Books",
+                "id": 3196873228,
+                "id_str": "3196873228",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "TheCriticMag",
+                "name": "The Critic",
+                "id": 1163549906243588097,
+                "id_str": "1163549906243588097",
+                "indices": [
+                    26,
+                    39
+                ]
+            },
+            {
+                "screen_name": "Miriamelia1",
+                "name": "Miriam",
+                "id": 210911524,
+                "id_str": "210911524",
+                "indices": [
+                    71,
+                    83
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824778309"
+}

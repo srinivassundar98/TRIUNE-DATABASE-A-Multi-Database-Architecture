@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 14:39:46 +0000 2020",
+    "id": 1254057518709514240,
+    "id_str": "1254057518709514240",
+    "text": "@Eddie200173 https://t.co/vStoidtKtC",
+    "display_text_range": [
+        13,
+        36
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254057044686131200,
+    "in_reply_to_status_id_str": "1254057044686131200",
+    "in_reply_to_user_id": 240566766,
+    "in_reply_to_user_id_str": "240566766",
+    "in_reply_to_screen_name": "BarIsBackAgain",
+    "user": {
+        "id": 240566766,
+        "id_str": "240566766",
+        "name": "Alan B'Stard ♂ 👫",
+        "screen_name": "BarIsBackAgain",
+        "location": null,
+        "url": null,
+        "description": "Ik ben blank. Deal with it.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 451,
+        "friends_count": 570,
+        "listed_count": 13,
+        "favourites_count": 4212,
+        "statuses_count": 18943,
+        "created_at": "Thu Jan 20 06:31:30 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195720167394881536/5F-ibPV0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195720167394881536/5F-ibPV0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240566766/1587319869",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/vStoidtKtC",
+                "expanded_url": "https://duitslandinstituut.nl/artikel/36312/corona-in-duitsland-veelgestelde-vragen",
+                "display_url": "duitslandinstituut.nl/artikel/36312/…",
+                "indices": [
+                    13,
+                    36
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Eddie200173",
+                "name": "Eddie Rieswijk🐷🇳🇱🏴‍☠️",
+                "id": 1200315688541458433,
+                "id_str": "1200315688541458433",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587825586379"
+}

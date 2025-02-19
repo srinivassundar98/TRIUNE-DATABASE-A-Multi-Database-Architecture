@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun Apr 12 18:39:09 +0000 2020",
+    "id": 1249406718649434114,
+    "id_str": "1249406718649434114",
+    "text": "@suleymansoylu Corona değil gidişiniz acıtır, yapmayın bakanım.. @RTErdogan",
+    "display_text_range": [
+        15,
+        75
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249403093151887362,
+    "in_reply_to_status_id_str": "1249403093151887362",
+    "in_reply_to_user_id": 18971997,
+    "in_reply_to_user_id_str": "18971997",
+    "in_reply_to_screen_name": "suleymansoylu",
+    "user": {
+        "id": 2205087813,
+        "id_str": "2205087813",
+        "name": "🇹🇷Türkiyem🇹🇷",
+        "screen_name": "ylnyzntrhutnsn",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1041,
+        "friends_count": 82,
+        "listed_count": 1,
+        "favourites_count": 1547,
+        "statuses_count": 2370,
+        "created_at": "Mon Dec 02 20:47:33 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1028376026508873730/zqBuUM14_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028376026508873730/zqBuUM14_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2205087813/1534018926",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "suleymansoylu",
+                "name": "Süleyman Soylu",
+                "id": 18971997,
+                "id_str": "18971997",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "RTErdogan",
+                "name": "Recep Tayyip Erdoğan",
+                "id": 68034431,
+                "id_str": "68034431",
+                "indices": [
+                    65,
+                    75
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586716749237"
+}

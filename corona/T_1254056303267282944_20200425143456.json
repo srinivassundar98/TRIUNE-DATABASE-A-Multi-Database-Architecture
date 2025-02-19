@@ -1,0 +1,173 @@
+{
+    "created_at": "Sat Apr 25 14:34:56 +0000 2020",
+    "id": 1254056303267282944,
+    "id_str": "1254056303267282944",
+    "text": "@RealJohnDennis @realDonaldTrump @GavinNewsom The age limit just keeps getting lower, doesn't it. Base the reopenin… https://t.co/rzsVYBSUj7",
+    "display_text_range": [
+        46,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254055200156868610,
+    "in_reply_to_status_id_str": "1254055200156868610",
+    "in_reply_to_user_id": 44774107,
+    "in_reply_to_user_id_str": "44774107",
+    "in_reply_to_screen_name": "RealJohnDennis",
+    "user": {
+        "id": 4849419671,
+        "id_str": "4849419671",
+        "name": "Caniacs",
+        "screen_name": "LetsGoCaniacs",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 43,
+        "friends_count": 67,
+        "listed_count": 0,
+        "favourites_count": 873,
+        "statuses_count": 739,
+        "created_at": "Tue Jan 26 11:34:03 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213224577985318914/ltu84HlQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213224577985318914/ltu84HlQ_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@RealJohnDennis @realDonaldTrump @GavinNewsom The age limit just keeps getting lower, doesn't it. Base the reopening by county and region. NYC and large cities shouldn't dictate rural policy\n\nhttps://t.co/r8Bdut2TtS",
+        "display_text_range": [
+            46,
+            215
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/r8Bdut2TtS",
+                    "expanded_url": "https://time.com/5825485/coronavirus-risk-factors/?xid=tcoshare",
+                    "display_url": "time.com/5825485/corona…",
+                    "indices": [
+                        192,
+                        215
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "RealJohnDennis",
+                    "name": "John Dennis for Congress",
+                    "id": 44774107,
+                    "id_str": "44774107",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "GavinNewsom",
+                    "name": "Gavin Newsom",
+                    "id": 11347122,
+                    "id_str": "11347122",
+                    "indices": [
+                        33,
+                        45
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/rzsVYBSUj7",
+                "expanded_url": "https://twitter.com/i/web/status/1254056303267282944",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RealJohnDennis",
+                "name": "John Dennis for Congress",
+                "id": 44774107,
+                "id_str": "44774107",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    16,
+                    32
+                ]
+            },
+            {
+                "screen_name": "GavinNewsom",
+                "name": "Gavin Newsom",
+                "id": 11347122,
+                "id_str": "11347122",
+                "indices": [
+                    33,
+                    45
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825296595"
+}

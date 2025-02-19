@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:25:18 +0000 2020",
+    "id": 1254053878473031680,
+    "id_str": "1254053878473031680",
+    "text": "@maxwiesenbach Kinos sind nicht erst seit Corona in der Krise. 3D ist nicht sonderlich beliebt, die Preise sind ent… https://t.co/mkf5IvFDhJ",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254053378818289667,
+    "in_reply_to_status_id_str": "1254053378818289667",
+    "in_reply_to_user_id": 954505152303648771,
+    "in_reply_to_user_id_str": "954505152303648771",
+    "in_reply_to_screen_name": "maxwiesenbach",
+    "user": {
+        "id": 1005448796820656128,
+        "id_str": "1005448796820656128",
+        "name": "Der nicht-habeckende Robert™",
+        "screen_name": "atheistsplained",
+        "location": "Südöstl. Eifel",
+        "url": null,
+        "description": "Parteilos, #NoAfD, #NoLinke | Eifelbewohner, der Klartext mag | Hier und überall sonst privat | Nur meine Ansichten, andere kann ich nicht anbieten. #Fotografie",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1988,
+        "friends_count": 683,
+        "listed_count": 5,
+        "favourites_count": 27746,
+        "statuses_count": 23544,
+        "created_at": "Sat Jun 09 13:57:28 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249849498614075393/Z-Nk1Y9__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249849498614075393/Z-Nk1Y9__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005448796820656128/1587516966",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@maxwiesenbach Kinos sind nicht erst seit Corona in der Krise. 3D ist nicht sonderlich beliebt, die Preise sind entgegen der Lebensrealität der Menschen explodiert (bin bald umgekippt, als ich letztes Jahr den Joker-Film schauen wollte), die Filme zunehmend schlecht.",
+        "display_text_range": [
+            15,
+            267
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "maxwiesenbach",
+                    "name": "Maximilian Wiesenbach",
+                    "id": 954505152303648771,
+                    "id_str": "954505152303648771",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/mkf5IvFDhJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254053878473031680",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "maxwiesenbach",
+                "name": "Maximilian Wiesenbach",
+                "id": 954505152303648771,
+                "id_str": "954505152303648771",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824718479"
+}

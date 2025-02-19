@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 13:52:02 +0000 2020",
+    "id": 1254045506327597061,
+    "id_str": "1254045506327597061",
+    "text": "@DrOz @meisshaily So, 1 out of 5 test positive \nfor Corona. Especially, in a Hospital or Gym type environment of lo… https://t.co/TW9ciI4f1b",
+    "display_text_range": [
+        18,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254041367589904391,
+    "in_reply_to_status_id_str": "1254041367589904391",
+    "in_reply_to_user_id": 38531995,
+    "in_reply_to_user_id_str": "38531995",
+    "in_reply_to_screen_name": "DrOz",
+    "user": {
+        "id": 195915697,
+        "id_str": "195915697",
+        "name": "inkjetblue",
+        "screen_name": "inkjetblue",
+        "location": "United States",
+        "url": "http://inkjetblue.com",
+        "description": "Global Humanitarian. Malaria Prevention. Inspired 8 African Countries to Start Prevention Programs.\nArt Works Hanging in Africa's Largest Museum.Commercial R/E.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1455,
+        "friends_count": 3109,
+        "listed_count": 16,
+        "favourites_count": 6867,
+        "statuses_count": 61834,
+        "created_at": "Mon Sep 27 22:00:59 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1157239893849858049/IVjBYtYB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157239893849858049/IVjBYtYB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/195915697/1585887051",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@DrOz @meisshaily So, 1 out of 5 test positive \nfor Corona. Especially, in a Hospital or Gym type environment of loose saliva...\n\nCan you honestly describe as COVID19 vs CORONA.",
+        "display_text_range": [
+            18,
+            177
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrOz",
+                    "name": "Dr. Mehmet Oz",
+                    "id": 38531995,
+                    "id_str": "38531995",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                },
+                {
+                    "screen_name": "meisshaily",
+                    "name": "Shailendra Kumar",
+                    "id": 4153160533,
+                    "id_str": "4153160533",
+                    "indices": [
+                        6,
+                        17
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/TW9ciI4f1b",
+                "expanded_url": "https://twitter.com/i/web/status/1254045506327597061",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DrOz",
+                "name": "Dr. Mehmet Oz",
+                "id": 38531995,
+                "id_str": "38531995",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "screen_name": "meisshaily",
+                "name": "Shailendra Kumar",
+                "id": 4153160533,
+                "id_str": "4153160533",
+                "indices": [
+                    6,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822722404"
+}

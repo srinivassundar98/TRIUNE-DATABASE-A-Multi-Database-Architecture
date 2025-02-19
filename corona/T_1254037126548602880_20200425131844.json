@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:18:44 +0000 2020",
+    "id": 1254037126548602880,
+    "id_str": "1254037126548602880",
+    "text": "@jk_rowling It’s behind a paywall. I think the New York Times has lifted their paywall for all corona virus article… https://t.co/GKGXaAWpaa",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254034810231717889,
+    "in_reply_to_status_id_str": "1254034810231717889",
+    "in_reply_to_user_id": 62513246,
+    "in_reply_to_user_id_str": "62513246",
+    "in_reply_to_screen_name": "jk_rowling",
+    "user": {
+        "id": 17552342,
+        "id_str": "17552342",
+        "name": "Marjorie Alma Dimmitt",
+        "screen_name": "joannewcomb",
+        "location": "Seattle",
+        "url": "http://www.joan-newcomb.com",
+        "description": "Thoroughly modern mystic adventuring in Density &amp; Effortland.\n\nRadio Show/podcaster YouTube vlogger",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 662,
+        "friends_count": 334,
+        "listed_count": 30,
+        "favourites_count": 28761,
+        "statuses_count": 35221,
+        "created_at": "Sat Nov 22 03:52:34 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/426016358296322048/fd8EsvCn_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/426016358296322048/fd8EsvCn_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17552342/1389952064",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@jk_rowling It’s behind a paywall. I think the New York Times has lifted their paywall for all corona virus articles, too bad the Times of London hasn’t",
+        "display_text_range": [
+            12,
+            152
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jk_rowling",
+                    "name": "J.K. Rowling",
+                    "id": 62513246,
+                    "id_str": "62513246",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/GKGXaAWpaa",
+                "expanded_url": "https://twitter.com/i/web/status/1254037126548602880",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jk_rowling",
+                "name": "J.K. Rowling",
+                "id": 62513246,
+                "id_str": "62513246",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820724509"
+}

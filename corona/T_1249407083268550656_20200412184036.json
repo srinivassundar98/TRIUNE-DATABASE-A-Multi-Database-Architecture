@@ -1,0 +1,106 @@
+{
+    "created_at": "Sun Apr 12 18:40:36 +0000 2020",
+    "id": 1249407083268550656,
+    "id_str": "1249407083268550656",
+    "text": "@akasshagupta @Azaa_shahh Sorry I can't come to your house. Corona lockdown\n#UnitedAsimSqaud",
+    "display_text_range": [
+        26,
+        92
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249362958192271362,
+    "in_reply_to_status_id_str": "1249362958192271362",
+    "in_reply_to_user_id": 923517742770032640,
+    "in_reply_to_user_id_str": "923517742770032640",
+    "in_reply_to_screen_name": "akasshagupta",
+    "user": {
+        "id": 1249396115515912192,
+        "id_str": "1249396115515912192",
+        "name": "Blue Whale",
+        "screen_name": "BlueWha90290702",
+        "location": null,
+        "url": null,
+        "description": "Mind your business",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 11,
+        "listed_count": 0,
+        "favourites_count": 13,
+        "statuses_count": 70,
+        "created_at": "Sun Apr 12 17:57:10 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249398456105365504/9R2NQmFq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249398456105365504/9R2NQmFq_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "UnitedAsimSqaud",
+                "indices": [
+                    76,
+                    92
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "akasshagupta",
+                "name": "Akassh Ashok Gupta",
+                "id": 923517742770032640,
+                "id_str": "923517742770032640",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Azaa_shahh",
+                "name": "Aazan Shahh 🇵🇰 ✨",
+                "id": 4352212816,
+                "id_str": "4352212816",
+                "indices": [
+                    14,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716836169"
+}

@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Apr 25 12:26:01 +0000 2020",
+    "id": 1254023858023211008,
+    "id_str": "1254023858023211008",
+    "text": "@YvetteLuhrs @ShotOfWhiskeyNL In Utrecht schijnt wel een regeling te zijn. Maar hoe dat precies zit leert dit artik… https://t.co/V1mxUxhbtn",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254022068003364866,
+    "in_reply_to_status_id_str": "1254022068003364866",
+    "in_reply_to_user_id": 92610112,
+    "in_reply_to_user_id_str": "92610112",
+    "in_reply_to_screen_name": "YvetteLuhrs",
+    "user": {
+        "id": 4921033299,
+        "id_str": "4921033299",
+        "name": "Mevrouw de Advocaat",
+        "screen_name": "mevrouwadvocaat",
+        "location": "Rotterdam",
+        "url": "http://www.mevrouwdeadvocaat.nl",
+        "description": "Simone ten Haaf | houdt van oplossen en pret maken | recht | kattenwat, vooral daar waar het @meneeradvokat betreft",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4489,
+        "friends_count": 4274,
+        "listed_count": 36,
+        "favourites_count": 35574,
+        "statuses_count": 28649,
+        "created_at": "Tue Feb 16 21:30:20 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217901443879002118/WeS0nqNL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217901443879002118/WeS0nqNL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4921033299/1577481251",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@YvetteLuhrs @ShotOfWhiskeyNL In Utrecht schijnt wel een regeling te zijn. Maar hoe dat precies zit leert dit artikel me niet.\n\nhttps://t.co/huxNBqlnr8",
+        "display_text_range": [
+            30,
+            151
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/huxNBqlnr8",
+                    "expanded_url": "https://www.ad.nl/utrecht/gemeente-schiet-sekswerkers-europalaan-die-vanwege-corona-niets-verdienen-te-hulp~aacc1aa3/",
+                    "display_url": "ad.nl/utrecht/gemeen…",
+                    "indices": [
+                        128,
+                        151
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "YvetteLuhrs",
+                    "name": "Yvette Luhrs",
+                    "id": 92610112,
+                    "id_str": "92610112",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "ShotOfWhiskeyNL",
+                    "name": "Ilse",
+                    "id": 1214122012534173696,
+                    "id_str": "1214122012534173696",
+                    "indices": [
+                        13,
+                        29
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/V1mxUxhbtn",
+                "expanded_url": "https://twitter.com/i/web/status/1254023858023211008",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "YvetteLuhrs",
+                "name": "Yvette Luhrs",
+                "id": 92610112,
+                "id_str": "92610112",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "ShotOfWhiskeyNL",
+                "name": "Ilse",
+                "id": 1214122012534173696,
+                "id_str": "1214122012534173696",
+                "indices": [
+                    13,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587817561046"
+}

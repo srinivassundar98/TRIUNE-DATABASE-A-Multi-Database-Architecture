@@ -1,0 +1,156 @@
+{
+    "created_at": "Sat Apr 25 13:49:53 +0000 2020",
+    "id": 1254044967485538305,
+    "id_str": "1254044967485538305",
+    "text": "Don't play with Uncle Corona oo!!! https://t.co/PUsKCvF8xb",
+    "display_text_range": [
+        0,
+        34
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1153949098095067136,
+        "id_str": "1153949098095067136",
+        "name": "Angelo Sarkcess.",
+        "screen_name": "AngeloE48903832",
+        "location": null,
+        "url": null,
+        "description": "industrious and very wise",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 78,
+        "friends_count": 982,
+        "listed_count": 0,
+        "favourites_count": 320,
+        "statuses_count": 725,
+        "created_at": "Wed Jul 24 08:44:39 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238006719571165184/KOBqPED3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238006719571165184/KOBqPED3_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254044934459600897,
+                "id_str": "1254044934459600897",
+                "indices": [
+                    35,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdDOULXsAE6nm9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdDOULXsAE6nm9.jpg",
+                "url": "https://t.co/PUsKCvF8xb",
+                "display_url": "pic.twitter.com/PUsKCvF8xb",
+                "expanded_url": "https://twitter.com/AngeloE48903832/status/1254044967485538305/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1200,
+                        "h": 1600,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254044934459600897,
+                "id_str": "1254044934459600897",
+                "indices": [
+                    35,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdDOULXsAE6nm9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdDOULXsAE6nm9.jpg",
+                "url": "https://t.co/PUsKCvF8xb",
+                "display_url": "pic.twitter.com/PUsKCvF8xb",
+                "expanded_url": "https://twitter.com/AngeloE48903832/status/1254044967485538305/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1200,
+                        "h": 1600,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822593934"
+}

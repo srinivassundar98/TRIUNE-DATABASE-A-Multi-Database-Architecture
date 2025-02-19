@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 13:46:15 +0000 2020",
+    "id": 1254044049771806720,
+    "id_str": "1254044049771806720",
+    "text": "@RadiumHoxcy @RemiChiri @Conflits_FR Se baser sur les autres Corona est ce qu'il y a de plus raisonnable face à un… https://t.co/5Qpx11El7A",
+    "display_text_range": [
+        37,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254041506664591361,
+    "in_reply_to_status_id_str": "1254041506664591361",
+    "in_reply_to_user_id": 1162051959454613504,
+    "in_reply_to_user_id_str": "1162051959454613504",
+    "in_reply_to_screen_name": "RadiumHoxcy",
+    "user": {
+        "id": 997184353653460992,
+        "id_str": "997184353653460992",
+        "name": "Juvvct",
+        "screen_name": "juvvct",
+        "location": null,
+        "url": null,
+        "description": "Je suis Julien. Ça fait court certe.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 12,
+        "friends_count": 212,
+        "listed_count": 0,
+        "favourites_count": 31,
+        "statuses_count": 185,
+        "created_at": "Thu May 17 18:37:31 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020963583549747200/a1jmIVgu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020963583549747200/a1jmIVgu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/997184353653460992/1527012102",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@RadiumHoxcy @RemiChiri @Conflits_FR Se baser sur les autres Corona est ce qu'il y a de plus raisonnable face à un virus inconnu. C'est d'ailleurs ce qui nous permet d'en savoir déjà autant sur celui-ci et d'être déjà en phases de tests cliniques sur un vaccin en Angleterre, Allemagne, USA et Chine",
+        "display_text_range": [
+            37,
+            299
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RadiumHoxcy",
+                    "name": "Hoxcy",
+                    "id": 1162051959454613504,
+                    "id_str": "1162051959454613504",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "RemiChiri",
+                    "name": "Rémi",
+                    "id": 1127638539385098241,
+                    "id_str": "1127638539385098241",
+                    "indices": [
+                        13,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "Conflits_FR",
+                    "name": "Conflits",
+                    "id": 1214315619031478272,
+                    "id_str": "1214315619031478272",
+                    "indices": [
+                        24,
+                        36
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/5Qpx11El7A",
+                "expanded_url": "https://twitter.com/i/web/status/1254044049771806720",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RadiumHoxcy",
+                "name": "Hoxcy",
+                "id": 1162051959454613504,
+                "id_str": "1162051959454613504",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "RemiChiri",
+                "name": "Rémi",
+                "id": 1127638539385098241,
+                "id_str": "1127638539385098241",
+                "indices": [
+                    13,
+                    23
+                ]
+            },
+            {
+                "screen_name": "Conflits_FR",
+                "name": "Conflits",
+                "id": 1214315619031478272,
+                "id_str": "1214315619031478272",
+                "indices": [
+                    24,
+                    36
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587822375134"
+}

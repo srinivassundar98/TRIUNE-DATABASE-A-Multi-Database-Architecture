@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:23:28 +0000 2020",
+    "id": 1254053416952832000,
+    "id_str": "1254053416952832000",
+    "text": "@aksmalaklisi Corona var aman haaaa yolda polis bekçi çevirir bir de ceza yer arkana baka baka dönersin 😃",
+    "display_text_range": [
+        14,
+        105
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254052001538809863,
+    "in_reply_to_status_id_str": "1254052001538809863",
+    "in_reply_to_user_id": 951381213087969280,
+    "in_reply_to_user_id_str": "951381213087969280",
+    "in_reply_to_screen_name": "aksmalaklisi",
+    "user": {
+        "id": 4875183017,
+        "id_str": "4875183017",
+        "name": "saffet alkan",
+        "screen_name": "alkan_saffet",
+        "location": "Aksaray Merkez, Aksaray",
+        "url": null,
+        "description": "Coğrafya Öğretmeni \nCoğrafyasını bilmeyenlerin tarihini başkaları yazar...\nHayat müsvettesiz yazılır...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 213,
+        "friends_count": 435,
+        "listed_count": 0,
+        "favourites_count": 6896,
+        "statuses_count": 1412,
+        "created_at": "Wed Feb 03 23:36:48 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241824082011869184/CX8W0cLx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241824082011869184/CX8W0cLx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4875183017/1584908782",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00fdc1d92c86913a",
+        "url": "https://api.twitter.com/1.1/geo/id/00fdc1d92c86913a.json",
+        "place_type": "city",
+        "name": "Aksaray",
+        "full_name": "Aksaray, Türkiye",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        33.972935,
+                        38.329987
+                    ],
+                    [
+                        33.972935,
+                        38.399219
+                    ],
+                    [
+                        34.04603,
+                        38.399219
+                    ],
+                    [
+                        34.04603,
+                        38.329987
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "aksmalaklisi",
+                "name": "Aksaray Malaklısı #EvdeKal",
+                "id": 951381213087969280,
+                "id_str": "951381213087969280",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587824608444"
+}

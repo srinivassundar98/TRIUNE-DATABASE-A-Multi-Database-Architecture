@@ -1,0 +1,172 @@
+{
+    "created_at": "Sat Apr 25 14:36:34 +0000 2020",
+    "id": 1254056712358760450,
+    "id_str": "1254056712358760450",
+    "text": "Corona what? Sending some #GoodVibes to all and wish you a calm weekend - and stay healthy! #Saturday https://t.co/xfy0tBvEap",
+    "display_text_range": [
+        0,
+        101
+    ],
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 249209470,
+        "id_str": "249209470",
+        "name": "Stefan Schulte Strathaus",
+        "screen_name": "stefanschulte",
+        "location": "Long/ Lat as 42dg 39 min 32.4 sec / - 43dg 08 min  19.2 sec",
+        "url": null,
+        "description": "Customer Support Manager @InterSystems, passionate about problem-solving and avoiding comfort zones, Extremecarving & Running, *views and opinions are my own*",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 312,
+        "friends_count": 599,
+        "listed_count": 73,
+        "favourites_count": 1709,
+        "statuses_count": 1619,
+        "created_at": "Tue Feb 08 16:04:54 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1118594069234618370/ovSEqbI8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118594069234618370/ovSEqbI8_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249209470/1583495751",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "GoodVibes",
+                "indices": [
+                    26,
+                    36
+                ]
+            },
+            {
+                "text": "Saturday",
+                "indices": [
+                    92,
+                    101
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254056706759438337,
+                "id_str": "1254056706759438337",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdN7jaXsAE8WKK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdN7jaXsAE8WKK.jpg",
+                "url": "https://t.co/xfy0tBvEap",
+                "display_url": "pic.twitter.com/xfy0tBvEap",
+                "expanded_url": "https://twitter.com/stefanschulte/status/1254056712358760450/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 505,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1337,
+                        "h": 1801,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 891,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254056706759438337,
+                "id_str": "1254056706759438337",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdN7jaXsAE8WKK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdN7jaXsAE8WKK.jpg",
+                "url": "https://t.co/xfy0tBvEap",
+                "display_url": "pic.twitter.com/xfy0tBvEap",
+                "expanded_url": "https://twitter.com/stefanschulte/status/1254056712358760450/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 505,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1337,
+                        "h": 1801,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 891,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825394130"
+}

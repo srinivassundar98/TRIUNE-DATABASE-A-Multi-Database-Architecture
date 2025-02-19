@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:45:52 +0000 2020",
+    "id": 1254059052465893378,
+    "id_str": "1254059052465893378",
+    "text": "@tagesschau Achso solche Tests werden komischerweise infrage gestellt und könnten sich als mangelhaft erweisen. Doc… https://t.co/OJf63XU7Pp",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254012732208275456,
+    "in_reply_to_status_id_str": "1254012732208275456",
+    "in_reply_to_user_id": 5734902,
+    "in_reply_to_user_id_str": "5734902",
+    "in_reply_to_screen_name": "tagesschau",
+    "user": {
+        "id": 522714700,
+        "id_str": "522714700",
+        "name": "Jeremiah Ofori",
+        "screen_name": "BiglipslikeEarl",
+        "location": "Munich",
+        "url": null,
+        "description": "Instagram: Gymjeremiah",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 41,
+        "friends_count": 159,
+        "listed_count": 0,
+        "favourites_count": 4126,
+        "statuses_count": 1624,
+        "created_at": "Tue Mar 13 00:27:52 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1106597900975570945/M0mu4JDh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106597900975570945/M0mu4JDh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/522714700/1552668475",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@tagesschau Achso solche Tests werden komischerweise infrage gestellt und könnten sich als mangelhaft erweisen. Doch eure Tests und Zählungen der Corona Fälle/Toten sind absolut legitim und die erschreckende “Dunkelziffer” erst.....boa die Welt kotzt mich an",
+        "display_text_range": [
+            12,
+            258
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "tagesschau",
+                    "name": "tagesschau",
+                    "id": 5734902,
+                    "id_str": "5734902",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/OJf63XU7Pp",
+                "expanded_url": "https://twitter.com/i/web/status/1254059052465893378",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "tagesschau",
+                "name": "tagesschau",
+                "id": 5734902,
+                "id_str": "5734902",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587825952055"
+}

@@ -1,0 +1,361 @@
+{
+    "created_at": "Sat Apr 25 13:54:59 +0000 2020",
+    "id": 1254046248937623552,
+    "id_str": "1254046248937623552",
+    "text": "#nichtohneuns  Demo #Berlin verlagert sich in den Seitenstraßen , der Rosa Luxemburg Platz ist abgeriegelt (Nur 20… https://t.co/gvTn5hJgK0",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 71091580,
+        "id_str": "71091580",
+        "name": "mike",
+        "screen_name": "Berlin_Freak",
+        "location": "Berlin",
+        "url": null,
+        "description": "Für eine Welt ohne Kriege und Unterdrückung.               Für Frieden Freiheit und Gerechtigkeit",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 241,
+        "friends_count": 304,
+        "listed_count": 59,
+        "favourites_count": 11528,
+        "statuses_count": 14643,
+        "created_at": "Wed Sep 02 22:13:34 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3235453694/4934eef320025b4ea7d5af30d785dfcf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3235453694/4934eef320025b4ea7d5af30d785dfcf_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/71091580/1411280055",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "#nichtohneuns  Demo #Berlin verlagert sich in den Seitenstraßen , der Rosa Luxemburg Platz ist abgeriegelt (Nur 20 drauf nach Notstandsgesetz #Corona) https://t.co/Qink9lW70k",
+        "display_text_range": [
+            0,
+            150
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nichtohneuns",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "text": "Berlin",
+                    "indices": [
+                        20,
+                        27
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        142,
+                        149
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254046204251582465,
+                    "id_str": "1254046204251582465",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdEYOhXsAEEs6o.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdEYOhXsAEEs6o.jpg",
+                    "url": "https://t.co/Qink9lW70k",
+                    "display_url": "pic.twitter.com/Qink9lW70k",
+                    "expanded_url": "https://twitter.com/Berlin_Freak/status/1254046248937623552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046221985107969,
+                    "id_str": "1254046221985107969",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdEZQlX0AEuXum.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdEZQlX0AEuXum.jpg",
+                    "url": "https://t.co/Qink9lW70k",
+                    "display_url": "pic.twitter.com/Qink9lW70k",
+                    "expanded_url": "https://twitter.com/Berlin_Freak/status/1254046248937623552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046237969580036,
+                    "id_str": "1254046237969580036",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdEaMIXgAQfrI9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdEaMIXgAQfrI9.jpg",
+                    "url": "https://t.co/Qink9lW70k",
+                    "display_url": "pic.twitter.com/Qink9lW70k",
+                    "expanded_url": "https://twitter.com/Berlin_Freak/status/1254046248937623552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254046204251582465,
+                    "id_str": "1254046204251582465",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdEYOhXsAEEs6o.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdEYOhXsAEEs6o.jpg",
+                    "url": "https://t.co/Qink9lW70k",
+                    "display_url": "pic.twitter.com/Qink9lW70k",
+                    "expanded_url": "https://twitter.com/Berlin_Freak/status/1254046248937623552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046221985107969,
+                    "id_str": "1254046221985107969",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdEZQlX0AEuXum.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdEZQlX0AEuXum.jpg",
+                    "url": "https://t.co/Qink9lW70k",
+                    "display_url": "pic.twitter.com/Qink9lW70k",
+                    "expanded_url": "https://twitter.com/Berlin_Freak/status/1254046248937623552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046237969580036,
+                    "id_str": "1254046237969580036",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdEaMIXgAQfrI9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdEaMIXgAQfrI9.jpg",
+                    "url": "https://t.co/Qink9lW70k",
+                    "display_url": "pic.twitter.com/Qink9lW70k",
+                    "expanded_url": "https://twitter.com/Berlin_Freak/status/1254046248937623552/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nichtohneuns",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "text": "Berlin",
+                "indices": [
+                    20,
+                    27
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/gvTn5hJgK0",
+                "expanded_url": "https://twitter.com/i/web/status/1254046248937623552",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822899456"
+}

@@ -1,0 +1,124 @@
+{
+    "created_at": "Sat Apr 25 13:03:09 +0000 2020",
+    "id": 1254033204773900290,
+    "id_str": "1254033204773900290",
+    "text": "Endlich geht was in Sachen #Verkehrswende: @Felix_Weisbrich #PopupBikelanes #Berlin #Kreuzberg https://t.co/eNmhhHhZUX",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1208431900047659008,
+        "id_str": "1208431900047659008",
+        "name": "Michael Truckenbrodt",
+        "screen_name": "m_truckenbrodt",
+        "location": "Berlin",
+        "url": "http://www.timeprints.de",
+        "description": "Medien für die Guten bei @timeprints.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 23,
+        "friends_count": 92,
+        "listed_count": 0,
+        "favourites_count": 385,
+        "statuses_count": 29,
+        "created_at": "Sat Dec 21 17:00:10 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1208432672474882048/hQx_InDk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208432672474882048/hQx_InDk_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Verkehrswende",
+                "indices": [
+                    27,
+                    41
+                ]
+            },
+            {
+                "text": "PopupBikelanes",
+                "indices": [
+                    60,
+                    75
+                ]
+            },
+            {
+                "text": "Berlin",
+                "indices": [
+                    76,
+                    83
+                ]
+            },
+            {
+                "text": "Kreuzberg",
+                "indices": [
+                    84,
+                    94
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/eNmhhHhZUX",
+                "expanded_url": "https://www.tagesspiegel.de/berlin/verkehrswende-in-berlin-durch-corona-der-mann-hinter-den-pop-up-radwegen/25770062.html",
+                "display_url": "tagesspiegel.de/berlin/verkehr…",
+                "indices": [
+                    95,
+                    118
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Felix_Weisbrich",
+                "name": "Felix Weisbrich",
+                "id": 51187446,
+                "id_str": "51187446",
+                "indices": [
+                    43,
+                    59
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819789485"
+}

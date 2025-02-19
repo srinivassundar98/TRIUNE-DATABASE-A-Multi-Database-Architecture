@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:11:36 +0000 2020",
+    "id": 1254050430209921024,
+    "id_str": "1254050430209921024",
+    "text": "FACT: Malaria is still killing more people in tropical Africa than the dreaded Corona virus. \n\n#LetsTalkMalaria #WorldMalariaDay",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 333483308,
+        "id_str": "333483308",
+        "name": "Adams “Daddy” Abo’nu ◽️",
+        "screen_name": "adamsabonu",
+        "location": "Africa ",
+        "url": null,
+        "description": "Adams is an award-winning Essayist committed to civil & political rights advocacy.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1477,
+        "friends_count": 991,
+        "listed_count": 10,
+        "favourites_count": 2439,
+        "statuses_count": 12646,
+        "created_at": "Mon Jul 11 16:19:37 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251541315394965511/SOJ1p2HM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251541315394965511/SOJ1p2HM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/333483308/1369161836",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00e55e2b4c491c5f",
+        "url": "https://api.twitter.com/1.1/geo/id/00e55e2b4c491c5f.json",
+        "place_type": "city",
+        "name": "Abuja",
+        "full_name": "Abuja, Nigeria",
+        "country_code": "NG",
+        "country": "Nigeria",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        7.304554,
+                        8.961887
+                    ],
+                    [
+                        7.304554,
+                        9.185441
+                    ],
+                    [
+                        7.543634,
+                        9.185441
+                    ],
+                    [
+                        7.543634,
+                        8.961887
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "LetsTalkMalaria",
+                "indices": [
+                    95,
+                    111
+                ]
+            },
+            {
+                "text": "WorldMalariaDay",
+                "indices": [
+                    112,
+                    128
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823896349"
+}

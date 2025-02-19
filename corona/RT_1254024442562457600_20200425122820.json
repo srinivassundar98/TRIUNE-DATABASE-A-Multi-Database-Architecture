@@ -1,0 +1,564 @@
+{
+    "created_at": "Sat Apr 25 12:28:20 +0000 2020",
+    "id": 1254024442562457600,
+    "id_str": "1254024442562457600",
+    "text": "RT @eugenioproto: Comparing Sweden and the other Scandinavian countries is the best natural experiment I know on the effect of the lockdown…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 392054645,
+        "id_str": "392054645",
+        "name": "alex njeshi",
+        "screen_name": "OCCUPY_ALB_PARL",
+        "location": "Kukes, Albania ",
+        "url": null,
+        "description": "Oj Shqypni e mjera Shqypni kush te ka çite me krye n'hii , ti pas ki qen nje zonje e rand trimat e dheut te thirshin nanë !!!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 34,
+        "friends_count": 99,
+        "listed_count": 0,
+        "favourites_count": 1995,
+        "statuses_count": 2806,
+        "created_at": "Sun Oct 16 13:57:45 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1223931481569079296/kYxNU1dk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223931481569079296/kYxNU1dk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/392054645/1580643426",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 07:43:06 +0000 2020",
+        "id": 1253952659817730048,
+        "id_str": "1253952659817730048",
+        "text": "Comparing Sweden and the other Scandinavian countries is the best natural experiment I know on the effect of the lo… https://t.co/poCAkCNPaK",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 167049305,
+            "id_str": "167049305",
+            "name": "Eugenio Proto",
+            "screen_name": "eugenioproto",
+            "location": "University of Glasgow",
+            "url": "https://sites.google.com/view/eugenioproto-research/home",
+            "description": "Alec Cairncross Professor of Economics @UofGAsbs @UofGlasgow. @cepr_org, @iza_bonn and @CESifoGroup. #BehavioralEconomics, #Development, Politica Italiana",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1612,
+            "friends_count": 681,
+            "listed_count": 65,
+            "favourites_count": 6784,
+            "statuses_count": 7018,
+            "created_at": "Thu Jul 15 16:45:10 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "050505",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/845547390841110528/rKVUVidU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/845547390841110528/rKVUVidU_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/167049305/1407334056",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253902217095942145,
+        "quoted_status_id_str": "1253902217095942145",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 04:22:39 +0000 2020",
+            "id": 1253902217095942145,
+            "id_str": "1253902217095942145",
+            "text": "Use of care and mortality due to corona in Finland, Sweden, Norway, Denmark, Iceland and Estonia; data from yesterd… https://t.co/Z1y5UmFCbe",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 332106651,
+                "id_str": "332106651",
+                "name": "Markku Peltonen",
+                "screen_name": "MarkkuPeltonen",
+                "location": "Helsinki",
+                "url": null,
+                "description": "Epidemiologi, tilastotieteilijä, tutkimusprofessori, kansanterveys. THL. Omat mielipiteet.  / Epidemiologist, statistician, professor, public health.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 10735,
+                "friends_count": 959,
+                "listed_count": 73,
+                "favourites_count": 2698,
+                "statuses_count": 2536,
+                "created_at": "Sat Jul 09 06:56:27 +0000 2011",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1249898220991533063/KD0YMHv3_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249898220991533063/KD0YMHv3_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/332106651/1423152042",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Use of care and mortality due to corona in Finland, Sweden, Norway, Denmark, Iceland and Estonia; data from yesterday 24.4. \n\nRead the whole thread. (English)\n\nFig 1. Number of persons in intensive care per day. Measures the burden on intensive care capacity. 1/x https://t.co/w5rBbuoBzJ",
+                "display_text_range": [
+                    0,
+                    263
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253902207273091073,
+                            "id_str": "1253902207273091073",
+                            "indices": [
+                                264,
+                                287
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWbBaf-XQAEwEcz.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWbBaf-XQAEwEcz.jpg",
+                            "url": "https://t.co/w5rBbuoBzJ",
+                            "display_url": "pic.twitter.com/w5rBbuoBzJ",
+                            "expanded_url": "https://twitter.com/MarkkuPeltonen/status/1253902217095942145/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 931,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 873,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 495,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253902207273091073,
+                            "id_str": "1253902207273091073",
+                            "indices": [
+                                264,
+                                287
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWbBaf-XQAEwEcz.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWbBaf-XQAEwEcz.jpg",
+                            "url": "https://t.co/w5rBbuoBzJ",
+                            "display_url": "pic.twitter.com/w5rBbuoBzJ",
+                            "expanded_url": "https://twitter.com/MarkkuPeltonen/status/1253902217095942145/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 931,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 873,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 495,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 24,
+            "reply_count": 4,
+            "retweet_count": 56,
+            "favorite_count": 138,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Z1y5UmFCbe",
+                        "expanded_url": "https://twitter.com/i/web/status/1253902217095942145",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/YCBqCnsZ70",
+            "expanded": "https://twitter.com/markkupeltonen/status/1253902217095942145",
+            "display": "twitter.com/markkupeltonen…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Comparing Sweden and the other Scandinavian countries is the best natural experiment I know on the effect of the lockdown \n\nIt will be important to compare the GDP variations of the next quarters \n\n@FabbioSabatini",
+            "display_text_range": [
+                0,
+                213
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FabbioSabatini",
+                        "name": "Fabio Sabatini",
+                        "id": 143590548,
+                        "id_str": "143590548",
+                        "indices": [
+                            198,
+                            213
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 8,
+        "favorite_count": 9,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/poCAkCNPaK",
+                    "expanded_url": "https://twitter.com/i/web/status/1253952659817730048",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1253902217095942145,
+    "quoted_status_id_str": "1253902217095942145",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 04:22:39 +0000 2020",
+        "id": 1253902217095942145,
+        "id_str": "1253902217095942145",
+        "text": "Use of care and mortality due to corona in Finland, Sweden, Norway, Denmark, Iceland and Estonia; data from yesterd… https://t.co/Z1y5UmFCbe",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 332106651,
+            "id_str": "332106651",
+            "name": "Markku Peltonen",
+            "screen_name": "MarkkuPeltonen",
+            "location": "Helsinki",
+            "url": null,
+            "description": "Epidemiologi, tilastotieteilijä, tutkimusprofessori, kansanterveys. THL. Omat mielipiteet.  / Epidemiologist, statistician, professor, public health.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 10735,
+            "friends_count": 959,
+            "listed_count": 73,
+            "favourites_count": 2698,
+            "statuses_count": 2536,
+            "created_at": "Sat Jul 09 06:56:27 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249898220991533063/KD0YMHv3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249898220991533063/KD0YMHv3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/332106651/1423152042",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Use of care and mortality due to corona in Finland, Sweden, Norway, Denmark, Iceland and Estonia; data from yesterday 24.4. \n\nRead the whole thread. (English)\n\nFig 1. Number of persons in intensive care per day. Measures the burden on intensive care capacity. 1/x https://t.co/w5rBbuoBzJ",
+            "display_text_range": [
+                0,
+                263
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253902207273091073,
+                        "id_str": "1253902207273091073",
+                        "indices": [
+                            264,
+                            287
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWbBaf-XQAEwEcz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWbBaf-XQAEwEcz.jpg",
+                        "url": "https://t.co/w5rBbuoBzJ",
+                        "display_url": "pic.twitter.com/w5rBbuoBzJ",
+                        "expanded_url": "https://twitter.com/MarkkuPeltonen/status/1253902217095942145/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 931,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 873,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 495,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253902207273091073,
+                        "id_str": "1253902207273091073",
+                        "indices": [
+                            264,
+                            287
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWbBaf-XQAEwEcz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWbBaf-XQAEwEcz.jpg",
+                        "url": "https://t.co/w5rBbuoBzJ",
+                        "display_url": "pic.twitter.com/w5rBbuoBzJ",
+                        "expanded_url": "https://twitter.com/MarkkuPeltonen/status/1253902217095942145/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 931,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 873,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 495,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 24,
+        "reply_count": 4,
+        "retweet_count": 56,
+        "favorite_count": 138,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Z1y5UmFCbe",
+                    "expanded_url": "https://twitter.com/i/web/status/1253902217095942145",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/YCBqCnsZ70",
+        "expanded": "https://twitter.com/markkupeltonen/status/1253902217095942145",
+        "display": "twitter.com/markkupeltonen…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "eugenioproto",
+                "name": "Eugenio Proto",
+                "id": 167049305,
+                "id_str": "167049305",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817700411"
+}

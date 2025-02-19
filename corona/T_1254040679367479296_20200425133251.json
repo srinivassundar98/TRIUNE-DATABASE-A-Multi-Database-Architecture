@@ -1,0 +1,197 @@
+{
+    "created_at": "Sat Apr 25 13:32:51 +0000 2020",
+    "id": 1254040679367479296,
+    "id_str": "1254040679367479296",
+    "text": "#2020WasFunUntil Corona Virus arrived then I didn't get enough time to serve students SRC 2019/20 https://t.co/CiTwZUGDtm",
+    "display_text_range": [
+        0,
+        97
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 834490619309412352,
+        "id_str": "834490619309412352",
+        "name": "Sabelo Celukwanda",
+        "screen_name": "Sabza_Ngcolosi",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 38,
+        "friends_count": 117,
+        "listed_count": 0,
+        "favourites_count": 57,
+        "statuses_count": 62,
+        "created_at": "Wed Feb 22 19:50:42 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252914052927537152/RS1Dsowz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252914052927537152/RS1Dsowz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/834490619309412352/1487966293",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0fc29f3f64146001",
+        "url": "https://api.twitter.com/1.1/geo/id/0fc29f3f64146001.json",
+        "place_type": "poi",
+        "name": "Central University Of Technology, Free State",
+        "full_name": "Central University Of Technology, Free State",
+        "country_code": "ZA",
+        "country": "South Africa",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        26.217476,
+                        -29.114252
+                    ],
+                    [
+                        26.217476,
+                        -29.114252
+                    ],
+                    [
+                        26.217476,
+                        -29.114252
+                    ],
+                    [
+                        26.217476,
+                        -29.114252
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "2020WasFunUntil",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254040656068186112,
+                "id_str": "1254040656068186112",
+                "indices": [
+                    98,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_VR7XkAAIxyT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_VR7XkAAIxyT.jpg",
+                "url": "https://t.co/CiTwZUGDtm",
+                "display_url": "pic.twitter.com/CiTwZUGDtm",
+                "expanded_url": "https://twitter.com/Sabza_Ngcolosi/status/1254040679367479296/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1200,
+                        "h": 1600,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254040656068186112,
+                "id_str": "1254040656068186112",
+                "indices": [
+                    98,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_VR7XkAAIxyT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_VR7XkAAIxyT.jpg",
+                "url": "https://t.co/CiTwZUGDtm",
+                "display_url": "pic.twitter.com/CiTwZUGDtm",
+                "expanded_url": "https://twitter.com/Sabza_Ngcolosi/status/1254040679367479296/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1200,
+                        "h": 1600,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821571567"
+}

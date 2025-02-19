@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 12:22:50 +0000 2020",
+    "id": 1254023058861576193,
+    "id_str": "1254023058861576193",
+    "text": "@DSteenbakkers @fvdemocratie @thierrybaudet Griep en corona vergelijking maak jij dus leg uit. Hele wereld op zn ko… https://t.co/7xDnYOrsGx",
+    "display_text_range": [
+        44,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254019425004654592,
+    "in_reply_to_status_id_str": "1254019425004654592",
+    "in_reply_to_user_id": 99469943,
+    "in_reply_to_user_id_str": "99469943",
+    "in_reply_to_screen_name": "DSteenbakkers",
+    "user": {
+        "id": 1245801576092045315,
+        "id_str": "1245801576092045315",
+        "name": "Justice",
+        "screen_name": "tuana_justice",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 24,
+        "friends_count": 11,
+        "listed_count": 0,
+        "favourites_count": 871,
+        "statuses_count": 505,
+        "created_at": "Thu Apr 02 19:53:44 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250512513491402753/f5dindxD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250512513491402753/f5dindxD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245801576092045315/1586980392",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@DSteenbakkers @fvdemocratie @thierrybaudet Griep en corona vergelijking maak jij dus leg uit. Hele wereld op zn kop en de economieën onderuit doordat griep hetzelfde is als corona. Ja heel geloofwaardig.",
+        "display_text_range": [
+            44,
+            204
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DSteenbakkers",
+                    "name": "Dennis Steenbakkers",
+                    "id": 99469943,
+                    "id_str": "99469943",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "fvdemocratie",
+                    "name": "Forum voor Democratie",
+                    "id": 2822530175,
+                    "id_str": "2822530175",
+                    "indices": [
+                        15,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "thierrybaudet",
+                    "name": "Thierry Baudet",
+                    "id": 367703310,
+                    "id_str": "367703310",
+                    "indices": [
+                        29,
+                        43
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/7xDnYOrsGx",
+                "expanded_url": "https://twitter.com/i/web/status/1254023058861576193",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DSteenbakkers",
+                "name": "Dennis Steenbakkers",
+                "id": 99469943,
+                "id_str": "99469943",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "fvdemocratie",
+                "name": "Forum voor Democratie",
+                "id": 2822530175,
+                "id_str": "2822530175",
+                "indices": [
+                    15,
+                    28
+                ]
+            },
+            {
+                "screen_name": "thierrybaudet",
+                "name": "Thierry Baudet",
+                "id": 367703310,
+                "id_str": "367703310",
+                "indices": [
+                    29,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587817370511"
+}

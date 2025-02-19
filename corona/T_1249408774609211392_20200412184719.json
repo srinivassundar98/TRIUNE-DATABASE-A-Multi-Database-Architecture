@@ -1,0 +1,165 @@
+{
+    "created_at": "Sun Apr 12 18:47:19 +0000 2020",
+    "id": 1249408774609211392,
+    "id_str": "1249408774609211392",
+    "text": "Wear your PPE #corona https://t.co/3kY9zAyBBj",
+    "display_text_range": [
+        0,
+        21
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2303906162,
+        "id_str": "2303906162",
+        "name": "Brian Stofiel",
+        "screen_name": "NecromanceRaven",
+        "location": "St Louis, MO",
+        "url": null,
+        "description": "\"We are space cowboys and we aim to misbehave...\"There is an infinite expanse to explore, let's get on with business @stofielaero #newspacerace #newspace #space",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 753,
+        "friends_count": 546,
+        "listed_count": 23,
+        "favourites_count": 30324,
+        "statuses_count": 10309,
+        "created_at": "Wed Jan 22 00:18:29 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F6FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247634544926371843/LZw1qMsc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247634544926371843/LZw1qMsc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2303906162/1511933602",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    14,
+                    21
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249408731424620544,
+                "id_str": "1249408731424620544",
+                "indices": [
+                    22,
+                    45
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKnx_WAAAyT38.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKnx_WAAAyT38.jpg",
+                "url": "https://t.co/3kY9zAyBBj",
+                "display_url": "pic.twitter.com/3kY9zAyBBj",
+                "expanded_url": "https://twitter.com/NecromanceRaven/status/1249408774609211392/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249408731424620544,
+                "id_str": "1249408731424620544",
+                "indices": [
+                    22,
+                    45
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKnx_WAAAyT38.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKnx_WAAAyT38.jpg",
+                "url": "https://t.co/3kY9zAyBBj",
+                "display_url": "pic.twitter.com/3kY9zAyBBj",
+                "expanded_url": "https://twitter.com/NecromanceRaven/status/1249408774609211392/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717239416"
+}

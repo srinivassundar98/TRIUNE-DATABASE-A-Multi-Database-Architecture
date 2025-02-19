@@ -1,0 +1,120 @@
+{
+    "created_at": "Sat Apr 25 13:17:28 +0000 2020",
+    "id": 1254036807957831680,
+    "id_str": "1254036807957831680",
+    "text": "@che99_mike @kwnet_at @florianklenk Danke war leider nicht so schnell!\nhttps://t.co/ALLcdbheEB",
+    "display_text_range": [
+        36,
+        94
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254035767896223747,
+    "in_reply_to_status_id_str": "1254035767896223747",
+    "in_reply_to_user_id": 619010112,
+    "in_reply_to_user_id_str": "619010112",
+    "in_reply_to_screen_name": "che99_mike",
+    "user": {
+        "id": 1247206880881061889,
+        "id_str": "1247206880881061889",
+        "name": "LePetitSot",
+        "screen_name": "SotPetit",
+        "location": "Wien, Österreich",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 9,
+        "friends_count": 11,
+        "listed_count": 0,
+        "favourites_count": 233,
+        "statuses_count": 436,
+        "created_at": "Mon Apr 06 16:58:05 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247257003208122368/jpPGvW9A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247257003208122368/jpPGvW9A_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247206880881061889/1586219053",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ALLcdbheEB",
+                "expanded_url": "https://m.oe24.at/coronavirus/Corona-Anzeige-500-Euro-Strafe-fuer-alleine-auf-Parkbank-sitzenden-Mann/424833028",
+                "display_url": "m.oe24.at/coronavirus/Co…",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "che99_mike",
+                "name": "Mike",
+                "id": 619010112,
+                "id_str": "619010112",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "kwnet_at",
+                "name": "Kurt Weiß",
+                "id": 98822497,
+                "id_str": "98822497",
+                "indices": [
+                    12,
+                    21
+                ]
+            },
+            {
+                "screen_name": "florianklenk",
+                "name": "Florian Klenk",
+                "id": 221508795,
+                "id_str": "221508795",
+                "indices": [
+                    22,
+                    35
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820648551"
+}

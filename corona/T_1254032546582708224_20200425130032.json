@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:00:32 +0000 2020",
+    "id": 1254032546582708224,
+    "id_str": "1254032546582708224",
+    "text": "@chrisklomp Als NL deze dingen had gekocht... Baudet in de kamer: \"Deze regering speelt met mensenlevens... willens… https://t.co/SyeyO8eVeV",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254024777897041952,
+    "in_reply_to_status_id_str": "1254024777897041952",
+    "in_reply_to_user_id": 26979830,
+    "in_reply_to_user_id_str": "26979830",
+    "in_reply_to_screen_name": "chrisklomp",
+    "user": {
+        "id": 3144387713,
+        "id_str": "3144387713",
+        "name": "Marco Heemskerk",
+        "screen_name": "MarcoHeemskerk7",
+        "location": null,
+        "url": "http://www.facebook.com/marcoheemskerkfotografie",
+        "description": "Inderdaad; ik vind daar iets van",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 30,
+        "friends_count": 78,
+        "listed_count": 1,
+        "favourites_count": 1630,
+        "statuses_count": 850,
+        "created_at": "Tue Apr 07 16:03:34 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585473899275558912/c9ynMmcd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585473899275558912/c9ynMmcd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3144387713/1435649785",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@chrisklomp Als NL deze dingen had gekocht... Baudet in de kamer: \"Deze regering speelt met mensenlevens... willens en wetens wordt de zorg met slecht materiaal de hel van corona i gestuurd... schande! Schande! Stem op mij dan komt alles goed!!!\"",
+        "display_text_range": [
+            12,
+            246
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "chrisklomp",
+                    "name": "Chris Klomp",
+                    "id": 26979830,
+                    "id_str": "26979830",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/SyeyO8eVeV",
+                "expanded_url": "https://twitter.com/i/web/status/1254032546582708224",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "chrisklomp",
+                "name": "Chris Klomp",
+                "id": 26979830,
+                "id_str": "26979830",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587819632560"
+}

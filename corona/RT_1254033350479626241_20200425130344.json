@@ -1,0 +1,554 @@
+{
+    "created_at": "Sat Apr 25 13:03:44 +0000 2020",
+    "id": 1254033350479626241,
+    "id_str": "1254033350479626241",
+    "text": "RT @ishafoundation: ...because hunger cannot wait\nJoin us in our mission to protect vulnerable groups. \n\nDonate at https://t.co/gDZVTZNj7A …",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1196688453045379073,
+        "id_str": "1196688453045379073",
+        "name": "YOGINI PAI",
+        "screen_name": "PaiYogini",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 5,
+        "listed_count": 0,
+        "favourites_count": 233,
+        "statuses_count": 233,
+        "created_at": "Tue Nov 19 07:15:46 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Apr 16 09:21:50 +0000 2020",
+        "id": 1250716016285368323,
+        "id_str": "1250716016285368323",
+        "text": "...because hunger cannot wait\nJoin us in our mission to protect vulnerable groups. \n\nDonate at … https://t.co/XnkOhbIrbf",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 19190337,
+            "id_str": "19190337",
+            "name": "Isha Foundation",
+            "screen_name": "ishafoundation",
+            "location": "India",
+            "url": "http://isha.sadhguru.org/",
+            "description": "Isha Foundation is a non-religious, non-profit, public service organization, which addresses all aspects of human wellbeing through Yoga & Outreach programs.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 321561,
+            "friends_count": 9,
+            "listed_count": 649,
+            "favourites_count": 463,
+            "statuses_count": 24042,
+            "created_at": "Mon Jan 19 16:49:53 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "001027",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "DE6D21",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F5F3DB",
+            "profile_text_color": "807D4D",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1155862093385486337/zMCHAtqX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155862093385486337/zMCHAtqX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19190337/1584854300",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "7a8b600fe5f170bc",
+            "url": "https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json",
+            "place_type": "city",
+            "name": "Rajendra Nagar",
+            "full_name": "Rajendra Nagar, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            78.233173,
+                            17.237106
+                        ],
+                        [
+                            78.233173,
+                            17.552969
+                        ],
+                        [
+                            78.537398,
+                            17.552969
+                        ],
+                        [
+                            78.537398,
+                            17.237106
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "...because hunger cannot wait\nJoin us in our mission to protect vulnerable groups. \n\nDonate at https://t.co/gDZVTZNj7A \n\n#BeatTheVirus #COVID19 #CoronaRelief https://t.co/yNSpOjj5ER",
+            "display_text_range": [
+                0,
+                157
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "BeatTheVirus",
+                        "indices": [
+                            121,
+                            134
+                        ]
+                    },
+                    {
+                        "text": "COVID19",
+                        "indices": [
+                            135,
+                            143
+                        ]
+                    },
+                    {
+                        "text": "CoronaRelief",
+                        "indices": [
+                            144,
+                            157
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/gDZVTZNj7A",
+                        "expanded_url": "https://ishaoutreach.org/corona-relief",
+                        "display_url": "ishaoutreach.org/corona-relief",
+                        "indices": [
+                            95,
+                            118
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1250715974451380226,
+                        "id_str": "1250715974451380226",
+                        "indices": [
+                            158,
+                            181
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVtvjVwUwAIeD2e.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVtvjVwUwAIeD2e.jpg",
+                        "url": "https://t.co/yNSpOjj5ER",
+                        "display_url": "pic.twitter.com/yNSpOjj5ER",
+                        "expanded_url": "https://twitter.com/ishafoundation/status/1250716016285368323/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 853,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1250715983859249152,
+                        "id_str": "1250715983859249152",
+                        "indices": [
+                            158,
+                            181
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVtvj4zVcAACWHT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVtvj4zVcAACWHT.jpg",
+                        "url": "https://t.co/yNSpOjj5ER",
+                        "display_url": "pic.twitter.com/yNSpOjj5ER",
+                        "expanded_url": "https://twitter.com/ishafoundation/status/1250716016285368323/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 853,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1250715995301273602,
+                        "id_str": "1250715995301273602",
+                        "indices": [
+                            158,
+                            181
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVtvkjbU4AIkNJ5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVtvkjbU4AIkNJ5.jpg",
+                        "url": "https://t.co/yNSpOjj5ER",
+                        "display_url": "pic.twitter.com/yNSpOjj5ER",
+                        "expanded_url": "https://twitter.com/ishafoundation/status/1250716016285368323/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 454,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 854,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 801,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1250716005656977408,
+                        "id_str": "1250716005656977408",
+                        "indices": [
+                            158,
+                            181
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVtvlKAUYAA9k-N.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVtvlKAUYAA9k-N.jpg",
+                        "url": "https://t.co/yNSpOjj5ER",
+                        "display_url": "pic.twitter.com/yNSpOjj5ER",
+                        "expanded_url": "https://twitter.com/ishafoundation/status/1250716016285368323/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 853,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1250715974451380226,
+                        "id_str": "1250715974451380226",
+                        "indices": [
+                            158,
+                            181
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVtvjVwUwAIeD2e.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVtvjVwUwAIeD2e.jpg",
+                        "url": "https://t.co/yNSpOjj5ER",
+                        "display_url": "pic.twitter.com/yNSpOjj5ER",
+                        "expanded_url": "https://twitter.com/ishafoundation/status/1250716016285368323/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 853,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1250715983859249152,
+                        "id_str": "1250715983859249152",
+                        "indices": [
+                            158,
+                            181
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVtvj4zVcAACWHT.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVtvj4zVcAACWHT.jpg",
+                        "url": "https://t.co/yNSpOjj5ER",
+                        "display_url": "pic.twitter.com/yNSpOjj5ER",
+                        "expanded_url": "https://twitter.com/ishafoundation/status/1250716016285368323/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 853,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1250715995301273602,
+                        "id_str": "1250715995301273602",
+                        "indices": [
+                            158,
+                            181
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVtvkjbU4AIkNJ5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVtvkjbU4AIkNJ5.jpg",
+                        "url": "https://t.co/yNSpOjj5ER",
+                        "display_url": "pic.twitter.com/yNSpOjj5ER",
+                        "expanded_url": "https://twitter.com/ishafoundation/status/1250716016285368323/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 454,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 854,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 801,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1250716005656977408,
+                        "id_str": "1250716005656977408",
+                        "indices": [
+                            158,
+                            181
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVtvlKAUYAA9k-N.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVtvlKAUYAA9k-N.jpg",
+                        "url": "https://t.co/yNSpOjj5ER",
+                        "display_url": "pic.twitter.com/yNSpOjj5ER",
+                        "expanded_url": "https://twitter.com/ishafoundation/status/1250716016285368323/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 853,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 99,
+        "reply_count": 210,
+        "retweet_count": 3879,
+        "favorite_count": 4126,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XnkOhbIrbf",
+                    "expanded_url": "https://twitter.com/i/web/status/1250716016285368323",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gDZVTZNj7A",
+                "expanded_url": "https://ishaoutreach.org/corona-relief",
+                "display_url": "ishaoutreach.org/corona-relief",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ishafoundation",
+                "name": "Isha Foundation",
+                "id": 19190337,
+                "id_str": "19190337",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819824224"
+}

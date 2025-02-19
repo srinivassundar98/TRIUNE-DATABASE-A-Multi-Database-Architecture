@@ -1,0 +1,171 @@
+{
+    "created_at": "Sat Apr 25 12:27:55 +0000 2020",
+    "id": 1254024338279247874,
+    "id_str": "1254024338279247874",
+    "text": "@bigbasket_com @Grofers I am a resident of Ranchi which has a population of more than a million. Because of corona… https://t.co/4RwGrW5mSa",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 618790274,
+    "in_reply_to_user_id_str": "618790274",
+    "in_reply_to_screen_name": "bigbasket_com",
+    "user": {
+        "id": 128231871,
+        "id_str": "128231871",
+        "name": "Suresh bhagat",
+        "screen_name": "bhagat_sureshkr",
+        "location": "Jharkhand, India",
+        "url": null,
+        "description": "student at IIM BODHGAYA.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 8,
+        "friends_count": 60,
+        "listed_count": 0,
+        "favourites_count": 315,
+        "statuses_count": 224,
+        "created_at": "Wed Mar 31 14:20:36 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1163406391794470912/-BmKKnNB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163406391794470912/-BmKKnNB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128231871/1566212675",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "042b5e87acf40437",
+        "url": "https://api.twitter.com/1.1/geo/id/042b5e87acf40437.json",
+        "place_type": "city",
+        "name": "Ranchi",
+        "full_name": "Ranchi, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        84.869323,
+                        23.00583
+                    ],
+                    [
+                        84.869323,
+                        23.715039
+                    ],
+                    [
+                        85.902043,
+                        23.715039
+                    ],
+                    [
+                        85.902043,
+                        23.00583
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@bigbasket_com @Grofers I am a resident of Ranchi which has a population of more than a million. Because of corona pandemic, people here are now getting habituated to online vegetables/fruit ordering. With few BTL and ATL activities one can easily have the first mover advantage.",
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "bigbasket_com",
+                    "name": "bigbasket",
+                    "id": 618790274,
+                    "id_str": "618790274",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "Grofers",
+                    "name": "Grofers",
+                    "id": 2357514276,
+                    "id_str": "2357514276",
+                    "indices": [
+                        15,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/4RwGrW5mSa",
+                "expanded_url": "https://twitter.com/i/web/status/1254024338279247874",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "bigbasket_com",
+                "name": "bigbasket",
+                "id": 618790274,
+                "id_str": "618790274",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Grofers",
+                "name": "Grofers",
+                "id": 2357514276,
+                "id_str": "2357514276",
+                "indices": [
+                    15,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817675548"
+}

@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 12:57:30 +0000 2020",
+    "id": 1254031780971253760,
+    "id_str": "1254031780971253760",
+    "text": "People making dalgona,cakes, momos etc.. nowadays.\n\nCorona: https://t.co/YzQLFsTLgr",
+    "display_text_range": [
+        0,
+        59
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1242418864509468672,
+        "id_str": "1242418864509468672",
+        "name": "شبر شبیر خواجہ🍁",
+        "screen_name": "shabar_khaja1",
+        "location": "Jammu And Kashmir",
+        "url": "https://instagram.com/shabar_khaja?igshid=olfzgjr2cfa4",
+        "description": "Aggressively unfancy.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 75,
+        "friends_count": 82,
+        "listed_count": 0,
+        "favourites_count": 241,
+        "statuses_count": 52,
+        "created_at": "Tue Mar 24 11:52:06 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254010571055345668/Ll_oTxUi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254010571055345668/Ll_oTxUi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242418864509468672/1587814393",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254031777452220416,
+                "id_str": "1254031777452220416",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc3QegXYAA9TKO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc3QegXYAA9TKO.jpg",
+                "url": "https://t.co/YzQLFsTLgr",
+                "display_url": "pic.twitter.com/YzQLFsTLgr",
+                "expanded_url": "https://twitter.com/shabar_khaja1/status/1254031780971253760/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 568,
+                        "h": 305,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 568,
+                        "h": 305,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 568,
+                        "h": 305,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254031777452220416,
+                "id_str": "1254031777452220416",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc3QegXYAA9TKO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc3QegXYAA9TKO.jpg",
+                "url": "https://t.co/YzQLFsTLgr",
+                "display_url": "pic.twitter.com/YzQLFsTLgr",
+                "expanded_url": "https://twitter.com/shabar_khaja1/status/1254031780971253760/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 568,
+                        "h": 305,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 568,
+                        "h": 305,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 568,
+                        "h": 305,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819450024"
+}

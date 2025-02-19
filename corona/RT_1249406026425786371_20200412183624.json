@@ -1,0 +1,546 @@
+{
+    "created_at": "Sun Apr 12 18:36:24 +0000 2020",
+    "id": 1249406026425786371,
+    "id_str": "1249406026425786371",
+    "text": "RT @niggi: #Corona-Clickbait bei @ntvde: Einen vorläufigen und aller Voraussicht nach vorübergehenden Zwischenstand zu einer irreführenden…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 345370566,
+        "id_str": "345370566",
+        "name": "Snafets",
+        "screen_name": "Grundsaetzlich",
+        "location": "Tik Tok, Whats App, Snapchat",
+        "url": "https://soundcloud.com/grundsaetzlich",
+        "description": "Wer Lesen kann is hier genau richtig. Retweten und Faven wäre auch noch sinnvoll, der Rest ergibt sich oder auch nicht!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 26,
+        "friends_count": 120,
+        "listed_count": 77,
+        "favourites_count": 87715,
+        "statuses_count": 242519,
+        "created_at": "Sat Jul 30 13:48:50 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "990088",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "990088",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "3A5700",
+        "profile_text_color": "5DE304",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1219297454669139968/MevcXf-K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219297454669139968/MevcXf-K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/345370566/1555078461",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 10:22:57 +0000 2020",
+        "id": 1249281847475015681,
+        "id_str": "1249281847475015681",
+        "text": "#Corona-Clickbait bei @ntvde: Einen vorläufigen und aller Voraussicht nach vorübergehenden Zwischenstand zu einer i… https://t.co/JtXImFeIwz",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14247715,
+            "id_str": "14247715",
+            "name": "Stefan Niggemeier",
+            "screen_name": "niggi",
+            "location": "Berlin",
+            "url": "http://uebermedien.de",
+            "description": "freier Medienjournalist und Blogger",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 299040,
+            "friends_count": 1013,
+            "listed_count": 1816,
+            "favourites_count": 13518,
+            "statuses_count": 18191,
+            "created_at": "Fri Mar 28 22:57:46 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "323232",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "323232",
+            "profile_sidebar_fill_color": "323232",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/743375669028065280/-4l1JAGe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/743375669028065280/-4l1JAGe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14247715/1562530924",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#Corona-Clickbait bei @ntvde: Einen vorläufigen und aller Voraussicht nach vorübergehenden Zwischenstand zu einer irreführenden Geschichte über eine erreichte „wichtige Wegmarke“ aufblasen. /via @lorz https://t.co/bvpG0Bwois",
+            "display_text_range": [
+                0,
+                200
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            0,
+                            7
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ntvde",
+                        "name": "ntv Nachrichten",
+                        "id": 19232587,
+                        "id_str": "19232587",
+                        "indices": [
+                            22,
+                            28
+                        ]
+                    },
+                    {
+                        "screen_name": "lorz",
+                        "name": "Lorenz Matzat",
+                        "id": 15167742,
+                        "id_str": "15167742",
+                        "indices": [
+                            195,
+                            200
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1249281826130145280,
+                        "id_str": "1249281826130145280",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVZXM67WsAAyuIy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVZXM67WsAAyuIy.jpg",
+                        "url": "https://t.co/bvpG0Bwois",
+                        "display_url": "pic.twitter.com/bvpG0Bwois",
+                        "expanded_url": "https://twitter.com/niggi/status/1249281847475015681/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 878,
+                                "h": 412,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 878,
+                                "h": 412,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 319,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1249281827208138753,
+                        "id_str": "1249281827208138753",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVZXM-8XkAEkLIe.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVZXM-8XkAEkLIe.jpg",
+                        "url": "https://t.co/bvpG0Bwois",
+                        "display_url": "pic.twitter.com/bvpG0Bwois",
+                        "expanded_url": "https://twitter.com/niggi/status/1249281847475015681/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1176,
+                                "h": 581,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1176,
+                                "h": 581,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 336,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1249281822510514176,
+                        "id_str": "1249281822510514176",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVZXMtcXgAAyDkW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVZXMtcXgAAyDkW.jpg",
+                        "url": "https://t.co/bvpG0Bwois",
+                        "display_url": "pic.twitter.com/bvpG0Bwois",
+                        "expanded_url": "https://twitter.com/niggi/status/1249281847475015681/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 106,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1076,
+                                "h": 168,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1076,
+                                "h": 168,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1249281823768707077,
+                        "id_str": "1249281823768707077",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVZXMyIWAAUCuOx.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVZXMyIWAAUCuOx.jpg",
+                        "url": "https://t.co/bvpG0Bwois",
+                        "display_url": "pic.twitter.com/bvpG0Bwois",
+                        "expanded_url": "https://twitter.com/niggi/status/1249281847475015681/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1175,
+                                "h": 307,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1175,
+                                "h": 307,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 178,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1249281826130145280,
+                        "id_str": "1249281826130145280",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVZXM67WsAAyuIy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVZXM67WsAAyuIy.jpg",
+                        "url": "https://t.co/bvpG0Bwois",
+                        "display_url": "pic.twitter.com/bvpG0Bwois",
+                        "expanded_url": "https://twitter.com/niggi/status/1249281847475015681/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 878,
+                                "h": 412,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 878,
+                                "h": 412,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 319,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1249281827208138753,
+                        "id_str": "1249281827208138753",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVZXM-8XkAEkLIe.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVZXM-8XkAEkLIe.jpg",
+                        "url": "https://t.co/bvpG0Bwois",
+                        "display_url": "pic.twitter.com/bvpG0Bwois",
+                        "expanded_url": "https://twitter.com/niggi/status/1249281847475015681/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1176,
+                                "h": 581,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1176,
+                                "h": 581,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 336,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1249281822510514176,
+                        "id_str": "1249281822510514176",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVZXMtcXgAAyDkW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVZXMtcXgAAyDkW.jpg",
+                        "url": "https://t.co/bvpG0Bwois",
+                        "display_url": "pic.twitter.com/bvpG0Bwois",
+                        "expanded_url": "https://twitter.com/niggi/status/1249281847475015681/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 106,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1076,
+                                "h": 168,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1076,
+                                "h": 168,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1249281823768707077,
+                        "id_str": "1249281823768707077",
+                        "indices": [
+                            201,
+                            224
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVZXMyIWAAUCuOx.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVZXMyIWAAUCuOx.jpg",
+                        "url": "https://t.co/bvpG0Bwois",
+                        "display_url": "pic.twitter.com/bvpG0Bwois",
+                        "expanded_url": "https://twitter.com/niggi/status/1249281847475015681/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1175,
+                                "h": 307,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1175,
+                                "h": 307,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 178,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 37,
+        "favorite_count": 144,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/JtXImFeIwz",
+                    "expanded_url": "https://twitter.com/i/web/status/1249281847475015681",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "ntvde",
+                    "name": "ntv Nachrichten",
+                    "id": 19232587,
+                    "id_str": "19232587",
+                    "indices": [
+                        22,
+                        28
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    11,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "niggi",
+                "name": "Stefan Niggemeier",
+                "id": 14247715,
+                "id_str": "14247715",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "ntvde",
+                "name": "ntv Nachrichten",
+                "id": 19232587,
+                "id_str": "19232587",
+                "indices": [
+                    33,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716584198"
+}

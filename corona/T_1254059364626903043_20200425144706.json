@@ -1,0 +1,183 @@
+{
+    "created_at": "Sat Apr 25 14:47:06 +0000 2020",
+    "id": 1254059364626903043,
+    "id_str": "1254059364626903043",
+    "text": "@HetUntermensch @HildeKalthoff @JoKer33817736 @rivm Je haalt 'corona getest' en met 'corona verschijnselen' door el… https://t.co/Fb8v8hlM6c",
+    "display_text_range": [
+        52,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254052203389730816,
+    "in_reply_to_status_id_str": "1254052203389730816",
+    "in_reply_to_user_id": 3688624534,
+    "in_reply_to_user_id_str": "3688624534",
+    "in_reply_to_screen_name": "HetUntermensch",
+    "user": {
+        "id": 3870665908,
+        "id_str": "3870665908",
+        "name": "Dirk",
+        "screen_name": "Dirk0123456",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 8,
+        "listed_count": 1,
+        "favourites_count": 223,
+        "statuses_count": 302,
+        "created_at": "Mon Oct 05 11:25:48 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958834400208347137/3FMXB9Ph_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958834400208347137/3FMXB9Ph_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3870665908/1517438942",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@HetUntermensch @HildeKalthoff @JoKer33817736 @rivm Je haalt 'corona getest' en met 'corona verschijnselen' door elkaar.... maar dit weet je zelf denk ik al wel ;-)",
+        "display_text_range": [
+            52,
+            164
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HetUntermensch",
+                    "name": "Kick out RIVM 💜",
+                    "id": 3688624534,
+                    "id_str": "3688624534",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "HildeKalthoff",
+                    "name": "Hilde Kalthoff",
+                    "id": 259288996,
+                    "id_str": "259288996",
+                    "indices": [
+                        16,
+                        30
+                    ]
+                },
+                {
+                    "screen_name": "JoKer33817736",
+                    "name": "Jo Kerp ™️😷",
+                    "id": 3807368123,
+                    "id_str": "3807368123",
+                    "indices": [
+                        31,
+                        45
+                    ]
+                },
+                {
+                    "screen_name": "rivm",
+                    "name": "RIVM",
+                    "id": 35527415,
+                    "id_str": "35527415",
+                    "indices": [
+                        46,
+                        51
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Fb8v8hlM6c",
+                "expanded_url": "https://twitter.com/i/web/status/1254059364626903043",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "HetUntermensch",
+                "name": "Kick out RIVM 💜",
+                "id": 3688624534,
+                "id_str": "3688624534",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "HildeKalthoff",
+                "name": "Hilde Kalthoff",
+                "id": 259288996,
+                "id_str": "259288996",
+                "indices": [
+                    16,
+                    30
+                ]
+            },
+            {
+                "screen_name": "JoKer33817736",
+                "name": "Jo Kerp ™️😷",
+                "id": 3807368123,
+                "id_str": "3807368123",
+                "indices": [
+                    31,
+                    45
+                ]
+            },
+            {
+                "screen_name": "rivm",
+                "name": "RIVM",
+                "id": 35527415,
+                "id_str": "35527415",
+                "indices": [
+                    46,
+                    51
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587826026480"
+}

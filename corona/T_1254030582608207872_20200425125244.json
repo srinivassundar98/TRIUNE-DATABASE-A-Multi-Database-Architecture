@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:52:44 +0000 2020",
+    "id": 1254030582608207872,
+    "id_str": "1254030582608207872",
+    "text": "@Klaus_Maxbauer @LadyMariaNapier Der war doch vor Tagen schon mal da, in der TL.\n Todesursache: Corona.",
+    "display_text_range": [
+        33,
+        103
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254008903920123905,
+    "in_reply_to_status_id_str": "1254008903920123905",
+    "in_reply_to_user_id": 1198524176535040001,
+    "in_reply_to_user_id_str": "1198524176535040001",
+    "in_reply_to_screen_name": "Klaus_Maxbauer",
+    "user": {
+        "id": 1920761671,
+        "id_str": "1920761671",
+        "name": "Heike",
+        "screen_name": "Ruhrmaus",
+        "location": "Großraum Ruhrgebiet",
+        "url": null,
+        "description": "Und dann ist da dieses Leben, dieses eine...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 229,
+        "friends_count": 1497,
+        "listed_count": 7,
+        "favourites_count": 3916,
+        "statuses_count": 5115,
+        "created_at": "Mon Sep 30 17:20:34 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/417614604785569792/NGWW_RC6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/417614604785569792/NGWW_RC6_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1920761671/1439881445",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Klaus_Maxbauer",
+                "name": "Klaus Maxbauer 🏠",
+                "id": 1198524176535040001,
+                "id_str": "1198524176535040001",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "LadyMariaNapier",
+                "name": "Cassie allein Zuhaus",
+                "id": 1628086633,
+                "id_str": "1628086633",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819164312"
+}

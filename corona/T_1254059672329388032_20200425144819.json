@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 14:48:19 +0000 2020",
+    "id": 1254059672329388032,
+    "id_str": "1254059672329388032",
+    "text": "Dallas heat is back and Corona Virus on its way out!\nSo ready for Big D to get Rockin again! https://t.co/jn3apBHBv4",
+    "display_text_range": [
+        0,
+        92
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 95811523,
+        "id_str": "95811523",
+        "name": "Troy Bentley",
+        "screen_name": "tbentley08",
+        "location": "Dallas, Tx",
+        "url": null,
+        "description": "TX Native, Army Vet, Cowboy Fan, Atlanta Braves, MMA/UFC Freak, Nascar! Music & Movie Buff! ACDC #1, Laughter Rocks!! Hookem Horns, Single Dad, #Cancersucks!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1703,
+        "friends_count": 2949,
+        "listed_count": 3,
+        "favourites_count": 42815,
+        "statuses_count": 31016,
+        "created_at": "Thu Dec 10 03:20:29 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250607851313213441/txmhR4UG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250607851313213441/txmhR4UG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/95811523/1577483064",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254059212507959297,
+                "id_str": "1254059212507959297",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdQNaDX0AE4Rji.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdQNaDX0AE4Rji.jpg",
+                "url": "https://t.co/jn3apBHBv4",
+                "display_url": "pic.twitter.com/jn3apBHBv4",
+                "expanded_url": "https://twitter.com/tbentley08/status/1254059672329388032/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254059212507959297,
+                "id_str": "1254059212507959297",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdQNaDX0AE4Rji.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdQNaDX0AE4Rji.jpg",
+                "url": "https://t.co/jn3apBHBv4",
+                "display_url": "pic.twitter.com/jn3apBHBv4",
+                "expanded_url": "https://twitter.com/tbentley08/status/1254059672329388032/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1366,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587826099842"
+}

@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 12:41:20 +0000 2020",
+    "id": 1254027714044071936,
+    "id_str": "1254027714044071936",
+    "text": "@linksgruen27 @spdbt @hubertus_heil Corona. Ok sein Argument fand ich ätzend. Das Geld ist nicht deswegen da weil s… https://t.co/45V9yWcKnX",
+    "display_text_range": [
+        36,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254027160349741057,
+    "in_reply_to_status_id_str": "1254027160349741057",
+    "in_reply_to_user_id": 1055383247893467142,
+    "in_reply_to_user_id_str": "1055383247893467142",
+    "in_reply_to_screen_name": "JanaM_2018",
+    "user": {
+        "id": 1055383247893467142,
+        "id_str": "1055383247893467142",
+        "name": "Jana bleibt Zuhause",
+        "screen_name": "JanaM_2018",
+        "location": "#StayAtHome",
+        "url": null,
+        "description": "#ichbinhier und schwer daran interessiert das die Demokratie erhalten bleibt in der ich aufgewachsen bin.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 548,
+        "friends_count": 959,
+        "listed_count": 1,
+        "favourites_count": 33599,
+        "statuses_count": 19516,
+        "created_at": "Thu Oct 25 08:59:09 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190591236278755328/ArhnPDyH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190591236278755328/ArhnPDyH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055383247893467142/1556199721",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@linksgruen27 @spdbt @hubertus_heil Corona. Ok sein Argument fand ich ätzend. Das Geld ist nicht deswegen da weil solide Gewirtschaftet wurde sondern weil an den Ärmsten gespart wurde. Das muß man der Partei auch so vermitteln. Es gibt die 150 Euro damit finanziell schwache sich zumindest ein günstiges",
+        "display_text_range": [
+            36,
+            303
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "linksgruen27",
+                    "name": "Oliver J. 🌻 🇪🇺 💚🐨💚",
+                    "id": 822509791859929088,
+                    "id_str": "822509791859929088",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "spdbt",
+                    "name": "SPD-Fraktion im Bundestag",
+                    "id": 347792540,
+                    "id_str": "347792540",
+                    "indices": [
+                        14,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "hubertus_heil",
+                    "name": "Hubertus Heil",
+                    "id": 15943222,
+                    "id_str": "15943222",
+                    "indices": [
+                        21,
+                        35
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/45V9yWcKnX",
+                "expanded_url": "https://twitter.com/i/web/status/1254027714044071936",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "linksgruen27",
+                "name": "Oliver J. 🌻 🇪🇺 💚🐨💚",
+                "id": 822509791859929088,
+                "id_str": "822509791859929088",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "spdbt",
+                "name": "SPD-Fraktion im Bundestag",
+                "id": 347792540,
+                "id_str": "347792540",
+                "indices": [
+                    14,
+                    20
+                ]
+            },
+            {
+                "screen_name": "hubertus_heil",
+                "name": "Hubertus Heil",
+                "id": 15943222,
+                "id_str": "15943222",
+                "indices": [
+                    21,
+                    35
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818480393"
+}

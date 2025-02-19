@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:27:26 +0000 2020",
+    "id": 1254054415109103618,
+    "id_str": "1254054415109103618",
+    "text": "@dutch2g @FredKlooster @DonArturito ik raad u aan een bedrijf te beginnen. en zelf lekker thuis te blijven. Veel su… https://t.co/774hb3OCbS",
+    "display_text_range": [
+        36,
+        140
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254043283719847942,
+    "in_reply_to_status_id_str": "1254043283719847942",
+    "in_reply_to_user_id": 2850255627,
+    "in_reply_to_user_id_str": "2850255627",
+    "in_reply_to_screen_name": "dutch2g",
+    "user": {
+        "id": 133249609,
+        "id_str": "133249609",
+        "name": "henk westbroek",
+        "screen_name": "henkwestbroek",
+        "location": "Utrecht, Nederland",
+        "url": null,
+        "description": "Waarschuwing. Ik gebruik ironie en ik zing.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 38934,
+        "friends_count": 348,
+        "listed_count": 433,
+        "favourites_count": 2736,
+        "statuses_count": 11789,
+        "created_at": "Thu Apr 15 11:28:54 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1106594320189145088/RDAkAVCt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106594320189145088/RDAkAVCt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133249609/1431685908",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@dutch2g @FredKlooster @DonArturito ik raad u aan een bedrijf te beginnen. en zelf lekker thuis te blijven. Veel succes met uw faillissement. Ongeveer 15 procent van de horeca exploitanten is trouwens boven de zestig. Wellicht verdient Jacco een plaats in de task force Corona. Naast Arie Boomsma.",
+        "display_text_range": [
+            36,
+            297
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "dutch2g",
+                    "name": "Dutch2g",
+                    "id": 2850255627,
+                    "id_str": "2850255627",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "FredKlooster",
+                    "name": "Fred Klooster",
+                    "id": 898003668,
+                    "id_str": "898003668",
+                    "indices": [
+                        9,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "DonArturito",
+                    "name": "Arthur van Amerongen",
+                    "id": 92018099,
+                    "id_str": "92018099",
+                    "indices": [
+                        23,
+                        35
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/774hb3OCbS",
+                "expanded_url": "https://twitter.com/i/web/status/1254054415109103618",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "dutch2g",
+                "name": "Dutch2g",
+                "id": 2850255627,
+                "id_str": "2850255627",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "FredKlooster",
+                "name": "Fred Klooster",
+                "id": 898003668,
+                "id_str": "898003668",
+                "indices": [
+                    9,
+                    22
+                ]
+            },
+            {
+                "screen_name": "DonArturito",
+                "name": "Arthur van Amerongen",
+                "id": 92018099,
+                "id_str": "92018099",
+                "indices": [
+                    23,
+                    35
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587824846423"
+}

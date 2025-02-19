@@ -1,0 +1,168 @@
+{
+    "created_at": "Sat Apr 25 12:51:15 +0000 2020",
+    "id": 1254030211374440448,
+    "id_str": "1254030211374440448",
+    "text": "@rakhaciptam anjay. aing boga kantong nikotin. aing bebas dr corona uhuy https://t.co/jg04YpLzS7",
+    "display_text_range": [
+        13,
+        72
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253686856140521473,
+    "in_reply_to_status_id_str": "1253686856140521473",
+    "in_reply_to_user_id": 233130603,
+    "in_reply_to_user_id_str": "233130603",
+    "in_reply_to_screen_name": "rakhaciptam",
+    "user": {
+        "id": 1029638767320084480,
+        "id_str": "1029638767320084480",
+        "name": "Isyadema Effendi",
+        "screen_name": "isyadema",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 56,
+        "friends_count": 117,
+        "listed_count": 0,
+        "favourites_count": 1624,
+        "statuses_count": 946,
+        "created_at": "Wed Aug 15 07:59:46 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253273381824151552/CbKX-_YI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253273381824151552/CbKX-_YI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029638767320084480/1569126282",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "rakhaciptam",
+                "name": "Rakha",
+                "id": 233130603,
+                "id_str": "233130603",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254030192076439555,
+                "id_str": "1254030192076439555",
+                "indices": [
+                    73,
+                    96
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc10MhUwAMy0aW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc10MhUwAMy0aW.jpg",
+                "url": "https://t.co/jg04YpLzS7",
+                "display_url": "pic.twitter.com/jg04YpLzS7",
+                "expanded_url": "https://twitter.com/isyadema/status/1254030211374440448/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254030192076439555,
+                "id_str": "1254030192076439555",
+                "indices": [
+                    73,
+                    96
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc10MhUwAMy0aW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc10MhUwAMy0aW.jpg",
+                "url": "https://t.co/jg04YpLzS7",
+                "display_url": "pic.twitter.com/jg04YpLzS7",
+                "expanded_url": "https://twitter.com/isyadema/status/1254030211374440448/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819075803"
+}

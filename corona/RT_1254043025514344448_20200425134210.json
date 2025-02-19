@@ -1,0 +1,344 @@
+{
+    "created_at": "Sat Apr 25 13:42:10 +0000 2020",
+    "id": 1254043025514344448,
+    "id_str": "1254043025514344448",
+    "text": "RT @st_aubrun: \"Women in short sleeves caused the corona pandemic\" - #MolanaTariqJameel https://t.co/EgYsjcWRzM",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 17730485,
+        "id_str": "17730485",
+        "name": "St. Aubrun",
+        "screen_name": "st_aubrun",
+        "location": "Karachi, Pakistan",
+        "url": null,
+        "description": "My one request for PM @ImranKhanPTI is for Pakistani pitches to be the world's fastest and bounciest. Not too much grass though, so it reverses\n\n💚Murree Beer💚",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1145,
+        "friends_count": 755,
+        "listed_count": 13,
+        "favourites_count": 22180,
+        "statuses_count": 32470,
+        "created_at": "Sat Nov 29 07:46:16 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "FA1105",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1163394204892110848/lymdpjxV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163394204892110848/lymdpjxV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17730485/1367793857",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 10:36:54 +0000 2020",
+        "id": 1253996398141472769,
+        "id_str": "1253996398141472769",
+        "text": "\"Women in short sleeves caused the corona pandemic\" - #MolanaTariqJameel https://t.co/EgYsjcWRzM",
+        "display_text_range": [
+            0,
+            72
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 17730485,
+            "id_str": "17730485",
+            "name": "St. Aubrun",
+            "screen_name": "st_aubrun",
+            "location": "Karachi, Pakistan",
+            "url": null,
+            "description": "My one request for PM @ImranKhanPTI is for Pakistani pitches to be the world's fastest and bounciest. Not too much grass though, so it reverses\n\n💚Murree Beer💚",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1145,
+            "friends_count": 755,
+            "listed_count": 13,
+            "favourites_count": 22180,
+            "statuses_count": 32469,
+            "created_at": "Sat Nov 29 07:46:16 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "FA1105",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1163394204892110848/lymdpjxV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163394204892110848/lymdpjxV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17730485/1367793857",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MolanaTariqJameel",
+                    "indices": [
+                        54,
+                        72
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1253996097275596802,
+                    "id_str": "1253996097275596802",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcWznfWkAIhl-g.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcWznfWkAIhl-g.png",
+                    "url": "https://t.co/EgYsjcWRzM",
+                    "display_url": "pic.twitter.com/EgYsjcWRzM",
+                    "expanded_url": "https://twitter.com/st_aubrun/status/1253996398141472769/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 612,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 612,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 612,
+                            "h": 354,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1253996097275596802,
+                    "id_str": "1253996097275596802",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcWznfWkAIhl-g.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcWznfWkAIhl-g.png",
+                    "url": "https://t.co/EgYsjcWRzM",
+                    "display_url": "pic.twitter.com/EgYsjcWRzM",
+                    "expanded_url": "https://twitter.com/st_aubrun/status/1253996398141472769/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 612,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 612,
+                            "h": 354,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 612,
+                            "h": 354,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MolanaTariqJameel",
+                "indices": [
+                    69,
+                    87
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "st_aubrun",
+                "name": "St. Aubrun",
+                "id": 17730485,
+                "id_str": "17730485",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1253996097275596802,
+                "id_str": "1253996097275596802",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcWznfWkAIhl-g.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWcWznfWkAIhl-g.png",
+                "url": "https://t.co/EgYsjcWRzM",
+                "display_url": "pic.twitter.com/EgYsjcWRzM",
+                "expanded_url": "https://twitter.com/st_aubrun/status/1253996398141472769/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 612,
+                        "h": 354,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 612,
+                        "h": 354,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 612,
+                        "h": 354,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1253996398141472769,
+                "source_status_id_str": "1253996398141472769",
+                "source_user_id": 17730485,
+                "source_user_id_str": "17730485"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1253996097275596802,
+                "id_str": "1253996097275596802",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcWznfWkAIhl-g.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWcWznfWkAIhl-g.png",
+                "url": "https://t.co/EgYsjcWRzM",
+                "display_url": "pic.twitter.com/EgYsjcWRzM",
+                "expanded_url": "https://twitter.com/st_aubrun/status/1253996398141472769/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 612,
+                        "h": 354,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 612,
+                        "h": 354,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 612,
+                        "h": 354,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1253996398141472769,
+                "source_status_id_str": "1253996398141472769",
+                "source_user_id": 17730485,
+                "source_user_id_str": "17730485"
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822130932"
+}

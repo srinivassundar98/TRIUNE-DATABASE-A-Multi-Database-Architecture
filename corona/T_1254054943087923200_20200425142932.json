@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 14:29:32 +0000 2020",
+    "id": 1254054943087923200,
+    "id_str": "1254054943087923200",
+    "text": "@Baebaebebae @radenrauf Gak bole jalan corona, gak bole makan puasa",
+    "display_text_range": [
+        24,
+        67
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254051336556929025,
+    "in_reply_to_status_id_str": "1254051336556929025",
+    "in_reply_to_user_id": 459295626,
+    "in_reply_to_user_id_str": "459295626",
+    "in_reply_to_screen_name": "Baebaebebae",
+    "user": {
+        "id": 1223648246783889408,
+        "id_str": "1223648246783889408",
+        "name": "bukansiapasiapa",
+        "screen_name": "latifanum_",
+        "location": "Tangerang, Banten",
+        "url": null,
+        "description": "Alergi kesendirian, suka berpetualang, suka jajan dan tidak suka dipermainkan",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 24,
+        "listed_count": 0,
+        "favourites_count": 13,
+        "statuses_count": 19,
+        "created_at": "Sat Feb 01 16:44:20 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1223648462702428161/W1x_e4Ly_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223648462702428161/W1x_e4Ly_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Baebaebebae",
+                "name": "MINION",
+                "id": 459295626,
+                "id_str": "459295626",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "radenrauf",
+                "name": "Raden Rauf AM",
+                "id": 26970305,
+                "id_str": "26970305",
+                "indices": [
+                    13,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587824972303"
+}

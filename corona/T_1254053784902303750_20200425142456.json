@@ -1,0 +1,168 @@
+{
+    "created_at": "Sat Apr 25 14:24:56 +0000 2020",
+    "id": 1254053784902303750,
+    "id_str": "1254053784902303750",
+    "text": "@McDonaaald he is not happy y’all spreading corona! 😂 https://t.co/Hrtfj7oyl2",
+    "display_text_range": [
+        12,
+        53
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253418533205110786,
+    "in_reply_to_status_id_str": "1253418533205110786",
+    "in_reply_to_user_id": 501046053,
+    "in_reply_to_user_id_str": "501046053",
+    "in_reply_to_screen_name": "McDonaaald",
+    "user": {
+        "id": 781562292211183617,
+        "id_str": "781562292211183617",
+        "name": "Gem💛",
+        "screen_name": "1GemmaRoseB",
+        "location": "Glasgow, Scotland",
+        "url": null,
+        "description": "she/her 🌹 clouds n kitties keep me sane✨",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 217,
+        "friends_count": 86,
+        "listed_count": 0,
+        "favourites_count": 184,
+        "statuses_count": 122,
+        "created_at": "Thu Sep 29 18:32:26 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245030651096715265/usQTzytP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245030651096715265/usQTzytP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/781562292211183617/1585691805",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "McDonaaald",
+                "name": "Martin.",
+                "id": 501046053,
+                "id_str": "501046053",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254053601267404801,
+                "id_str": "1254053601267404801",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdLGyjX0AEfk2F.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdLGyjX0AEfk2F.jpg",
+                "url": "https://t.co/Hrtfj7oyl2",
+                "display_url": "pic.twitter.com/Hrtfj7oyl2",
+                "expanded_url": "https://twitter.com/1GemmaRoseB/status/1254053784902303750/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 395,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 395,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 358,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254053601267404801,
+                "id_str": "1254053601267404801",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdLGyjX0AEfk2F.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdLGyjX0AEfk2F.jpg",
+                "url": "https://t.co/Hrtfj7oyl2",
+                "display_url": "pic.twitter.com/Hrtfj7oyl2",
+                "expanded_url": "https://twitter.com/1GemmaRoseB/status/1254053784902303750/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 395,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 395,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 358,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824696170"
+}

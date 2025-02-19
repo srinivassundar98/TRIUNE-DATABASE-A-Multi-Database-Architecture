@@ -1,0 +1,462 @@
+{
+    "created_at": "Sat Apr 25 12:35:48 +0000 2020",
+    "id": 1254026321346338816,
+    "id_str": "1254026321346338816",
+    "text": "@AkramShahBJP",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2270469355,
+    "in_reply_to_user_id_str": "2270469355",
+    "in_reply_to_screen_name": "AkramShahBJP",
+    "user": {
+        "id": 163055734,
+        "id_str": "163055734",
+        "name": "Corona Warrior Dhaval",
+        "screen_name": "Dhaval000",
+        "location": "Surat",
+        "url": null,
+        "description": "india First. By profession Engineer",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 37,
+        "friends_count": 1514,
+        "listed_count": 0,
+        "favourites_count": 565,
+        "statuses_count": 643,
+        "created_at": "Mon Jul 05 12:38:55 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250308015695097856/2elgwjsb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250308015695097856/2elgwjsb_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3ab4b5d49dff04fb",
+        "url": "https://api.twitter.com/1.1/geo/id/3ab4b5d49dff04fb.json",
+        "place_type": "city",
+        "name": "Ankleshwar",
+        "full_name": "Ankleshwar, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        72.83099,
+                        21.464945
+                    ],
+                    [
+                        72.83099,
+                        21.713067
+                    ],
+                    [
+                        73.136568,
+                        21.713067
+                    ],
+                    [
+                        73.136568,
+                        21.464945
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "quoted_status_id": 1253521854121140224,
+    "quoted_status_id_str": "1253521854121140224",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 03:11:13 +0000 2020",
+        "id": 1253521854121140224,
+        "id_str": "1253521854121140224",
+        "text": "#proudhusband in the #PandemicCovid19 my wife joins the war against #Corona at Jayaben Modi Hospital #ankleshwar… https://t.co/ETTfRrKNiz",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 163055734,
+            "id_str": "163055734",
+            "name": "Corona Warrior Dhaval",
+            "screen_name": "Dhaval000",
+            "location": "Surat",
+            "url": null,
+            "description": "india First. By profession Engineer",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 37,
+            "friends_count": 1514,
+            "listed_count": 0,
+            "favourites_count": 565,
+            "statuses_count": 642,
+            "created_at": "Mon Jul 05 12:38:55 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250308015695097856/2elgwjsb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250308015695097856/2elgwjsb_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "69d8d9f0fd0ddc8e",
+            "url": "https://api.twitter.com/1.1/geo/id/69d8d9f0fd0ddc8e.json",
+            "place_type": "admin",
+            "name": "Gujarat",
+            "full_name": "Gujarat, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            68.106114,
+                            20.120943
+                        ],
+                        [
+                            68.106114,
+                            24.708482
+                        ],
+                        [
+                            74.47663,
+                            24.708482
+                        ],
+                        [
+                            74.47663,
+                            20.120943
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#proudhusband in the #PandemicCovid19 my wife joins the war against #Corona at Jayaben Modi Hospital #ankleshwar @narendramodi @vijayrupanibjp @Zee24Kalak @ZeeNews @indiatvnews @sudhirchaudhary @RajatSharmaLive https://t.co/VqgZe9SWX7",
+            "display_text_range": [
+                0,
+                210
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "proudhusband",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "text": "PandemicCovid19",
+                        "indices": [
+                            21,
+                            37
+                        ]
+                    },
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            68,
+                            75
+                        ]
+                    },
+                    {
+                        "text": "ankleshwar",
+                        "indices": [
+                            101,
+                            112
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "narendramodi",
+                        "name": "Narendra Modi",
+                        "id": 18839785,
+                        "id_str": "18839785",
+                        "indices": [
+                            113,
+                            126
+                        ]
+                    },
+                    {
+                        "screen_name": "vijayrupanibjp",
+                        "name": "Vijay Rupani",
+                        "id": 627355202,
+                        "id_str": "627355202",
+                        "indices": [
+                            127,
+                            142
+                        ]
+                    },
+                    {
+                        "screen_name": "Zee24Kalak",
+                        "name": "Zee 24 Kalak",
+                        "id": 861560902260281344,
+                        "id_str": "861560902260281344",
+                        "indices": [
+                            143,
+                            154
+                        ]
+                    },
+                    {
+                        "screen_name": "ZeeNews",
+                        "name": "Zee News",
+                        "id": 461841349,
+                        "id_str": "461841349",
+                        "indices": [
+                            155,
+                            163
+                        ]
+                    },
+                    {
+                        "screen_name": "indiatvnews",
+                        "name": "India TV",
+                        "id": 34245009,
+                        "id_str": "34245009",
+                        "indices": [
+                            164,
+                            176
+                        ]
+                    },
+                    {
+                        "screen_name": "sudhirchaudhary",
+                        "name": "Sudhir Chaudhary",
+                        "id": 75246346,
+                        "id_str": "75246346",
+                        "indices": [
+                            177,
+                            193
+                        ]
+                    },
+                    {
+                        "screen_name": "RajatSharmaLive",
+                        "name": "Rajat Sharma",
+                        "id": 122658025,
+                        "id_str": "122658025",
+                        "indices": [
+                            194,
+                            210
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253521851193741312,
+                        "id_str": "1253521851193741312",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWVne3KX0AAmXbw.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWVne3KX0AAmXbw.jpg",
+                        "url": "https://t.co/VqgZe9SWX7",
+                        "display_url": "pic.twitter.com/VqgZe9SWX7",
+                        "expanded_url": "https://twitter.com/Dhaval000/status/1253521854121140224/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 544,
+                                "h": 1152,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 544,
+                                "h": 1152,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 321,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253521851193741312,
+                        "id_str": "1253521851193741312",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWVne3KX0AAmXbw.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWVne3KX0AAmXbw.jpg",
+                        "url": "https://t.co/VqgZe9SWX7",
+                        "display_url": "pic.twitter.com/VqgZe9SWX7",
+                        "expanded_url": "https://twitter.com/Dhaval000/status/1253521854121140224/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 544,
+                                "h": 1152,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 544,
+                                "h": 1152,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 321,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "proudhusband",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "text": "PandemicCovid19",
+                    "indices": [
+                        21,
+                        37
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        68,
+                        75
+                    ]
+                },
+                {
+                    "text": "ankleshwar",
+                    "indices": [
+                        101,
+                        112
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ETTfRrKNiz",
+                    "expanded_url": "https://twitter.com/i/web/status/1253521854121140224",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        114,
+                        137
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/dFGj330MNI",
+        "expanded": "https://twitter.com/Dhaval000/status/1253521854121140224",
+        "display": "twitter.com/Dhaval000/stat…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AkramShahBJP",
+                "name": "Akram Shah (Hindustani)",
+                "id": 2270469355,
+                "id_str": "2270469355",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587818148348"
+}

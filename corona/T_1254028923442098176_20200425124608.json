@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 12:46:08 +0000 2020",
+    "id": 1254028923442098176,
+    "id_str": "1254028923442098176",
+    "text": "@nikiteshmathur Hi Nikitesh, we hope your father has recovered and is doing well. We are hopeful that the Corona Vi… https://t.co/ghnmnBug6L",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254011102700109825,
+    "in_reply_to_status_id_str": "1254011102700109825",
+    "in_reply_to_user_id": 1252917980503121920,
+    "in_reply_to_user_id_str": "1252917980503121920",
+    "in_reply_to_screen_name": "nikiteshmathur",
+    "user": {
+        "id": 63665995,
+        "id_str": "63665995",
+        "name": "Thomas Cook India",
+        "screen_name": "tcookin",
+        "location": "Mumbai, India",
+        "url": "http://www.thomascook.in",
+        "description": "The official twitter account of Thomas Cook India. https://www.facebook.com/ThomasCookIndiaLimited",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 18371,
+        "friends_count": 367,
+        "listed_count": 100,
+        "favourites_count": 1135,
+        "statuses_count": 14347,
+        "created_at": "Fri Aug 07 07:39:45 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F2F208",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "9D592E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/886903971704586240/GhtCoIqe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/886903971704586240/GhtCoIqe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63665995/1566449835",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@nikiteshmathur Hi Nikitesh, we hope your father has recovered and is doing well. We are hopeful that the Corona Virus impact will eventually settle down and you would travel again with us. Please DM your contact and booking id details.Our service quality member will connect with you.",
+        "display_text_range": [
+            16,
+            285
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nikiteshmathur",
+                    "name": "nikiteshmathur@gmail.com",
+                    "id": 1252917980503121920,
+                    "id_str": "1252917980503121920",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ghnmnBug6L",
+                "expanded_url": "https://twitter.com/i/web/status/1254028923442098176",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "nikiteshmathur",
+                "name": "nikiteshmathur@gmail.com",
+                "id": 1252917980503121920,
+                "id_str": "1252917980503121920",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818768736"
+}

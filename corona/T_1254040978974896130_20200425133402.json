@@ -1,0 +1,155 @@
+{
+    "created_at": "Sat Apr 25 13:34:02 +0000 2020",
+    "id": 1254040978974896130,
+    "id_str": "1254040978974896130",
+    "text": "@nitin_gadkari You spoke frankly and quite clearly on many issues like you always do . Good you clarified the issue… https://t.co/lAs5tN9mjk",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254032905833025536,
+    "in_reply_to_status_id_str": "1254032905833025536",
+    "in_reply_to_user_id": 97217966,
+    "in_reply_to_user_id_str": "97217966",
+    "in_reply_to_screen_name": "nitin_gadkari",
+    "user": {
+        "id": 2582072892,
+        "id_str": "2582072892",
+        "name": "Ankur Bisen",
+        "screen_name": "AnkurBisen1",
+        "location": "Gurgaon, India",
+        "url": null,
+        "description": "Nullius in verba                      Author of WASTED",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 181,
+        "friends_count": 156,
+        "listed_count": 18,
+        "favourites_count": 1205,
+        "statuses_count": 2264,
+        "created_at": "Sun Jun 22 11:37:34 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/809266086218608640/1MsKsLJ6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/809266086218608640/1MsKsLJ6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2582072892/1572885001",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "64231a922dea526e",
+        "url": "https://api.twitter.com/1.1/geo/id/64231a922dea526e.json",
+        "place_type": "city",
+        "name": "Gurgaon",
+        "full_name": "Gurgaon, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        76.707671,
+                        28.199529
+                    ],
+                    [
+                        76.707671,
+                        28.537521
+                    ],
+                    [
+                        77.241711,
+                        28.537521
+                    ],
+                    [
+                        77.241711,
+                        28.199529
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@nitin_gadkari You spoke frankly and quite clearly on many issues like you always do . Good you clarified the issue of making ethanol from rice over food distribution. My take away is that govt is in reactionary mode and you see corona issue post lock-down is an uncharted territory.",
+        "display_text_range": [
+            15,
+            283
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nitin_gadkari",
+                    "name": "Nitin Gadkari",
+                    "id": 97217966,
+                    "id_str": "97217966",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/lAs5tN9mjk",
+                "expanded_url": "https://twitter.com/i/web/status/1254040978974896130",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "nitin_gadkari",
+                "name": "Nitin Gadkari",
+                "id": 97217966,
+                "id_str": "97217966",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821642999"
+}

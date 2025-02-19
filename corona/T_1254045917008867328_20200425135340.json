@@ -1,0 +1,130 @@
+{
+    "created_at": "Sat Apr 25 13:53:40 +0000 2020",
+    "id": 1254045917008867328,
+    "id_str": "1254045917008867328",
+    "text": "@MDRAktuell @mdrde @WillingmannA Himmelfahrt klingt gut #corona #Deutschland #coronavirusdeutschland",
+    "display_text_range": [
+        33,
+        100
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254042269029740545,
+    "in_reply_to_status_id_str": "1254042269029740545",
+    "in_reply_to_user_id": 19228733,
+    "in_reply_to_user_id_str": "19228733",
+    "in_reply_to_screen_name": "MDRAktuell",
+    "user": {
+        "id": 3230305641,
+        "id_str": "3230305641",
+        "name": "Hans Maulwurf",
+        "screen_name": "JackMole23",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 10,
+        "friends_count": 99,
+        "listed_count": 0,
+        "favourites_count": 2033,
+        "statuses_count": 1180,
+        "created_at": "Sun May 03 11:50:38 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    56,
+                    63
+                ]
+            },
+            {
+                "text": "Deutschland",
+                "indices": [
+                    64,
+                    76
+                ]
+            },
+            {
+                "text": "coronavirusdeutschland",
+                "indices": [
+                    77,
+                    100
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "MDRAktuell",
+                "name": "MDR AKTUELL",
+                "id": 19228733,
+                "id_str": "19228733",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "mdrde",
+                "name": "MDR",
+                "id": 370662476,
+                "id_str": "370662476",
+                "indices": [
+                    12,
+                    18
+                ]
+            },
+            {
+                "screen_name": "WillingmannA",
+                "name": "Armin Willingmann",
+                "id": 842367041940119552,
+                "id_str": "842367041940119552",
+                "indices": [
+                    19,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822820318"
+}

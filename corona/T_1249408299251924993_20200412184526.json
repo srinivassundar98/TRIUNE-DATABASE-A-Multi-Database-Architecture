@@ -1,0 +1,186 @@
+{
+    "created_at": "Sun Apr 12 18:45:26 +0000 2020",
+    "id": 1249408299251924993,
+    "id_str": "1249408299251924993",
+    "text": "Update status #covid19 for Spain\n#corona #data #spain https://t.co/LkyPaqwTLN",
+    "display_text_range": [
+        0,
+        53
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2842517351,
+        "id_str": "2842517351",
+        "name": "Datagraver",
+        "screen_name": "Datagraver",
+        "location": "Utrecht, Nederland",
+        "url": "http://datagraver.com",
+        "description": "Helps organizations getting value out of (their) (open) data. Supplies rest of world with dry facts and figures whenever possible. Fact checker. Dutch/English",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 11291,
+        "friends_count": 5143,
+        "listed_count": 233,
+        "favourites_count": 2209,
+        "statuses_count": 6874,
+        "created_at": "Fri Oct 24 09:59:21 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "191970",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "00AEEF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/605315164506890241/CC_ryCJb_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/605315164506890241/CC_ryCJb_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842517351/1562610087",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "covid19",
+                "indices": [
+                    14,
+                    22
+                ]
+            },
+            {
+                "text": "corona",
+                "indices": [
+                    33,
+                    40
+                ]
+            },
+            {
+                "text": "data",
+                "indices": [
+                    41,
+                    46
+                ]
+            },
+            {
+                "text": "spain",
+                "indices": [
+                    47,
+                    53
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249408292750864384,
+                "id_str": "1249408292750864384",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKOPzXsAALRiG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKOPzXsAALRiG.jpg",
+                "url": "https://t.co/LkyPaqwTLN",
+                "display_url": "pic.twitter.com/LkyPaqwTLN",
+                "expanded_url": "https://twitter.com/Datagraver/status/1249408299251924993/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1932,
+                        "h": 1094,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 385,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249408292750864384,
+                "id_str": "1249408292750864384",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKOPzXsAALRiG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKOPzXsAALRiG.jpg",
+                "url": "https://t.co/LkyPaqwTLN",
+                "display_url": "pic.twitter.com/LkyPaqwTLN",
+                "expanded_url": "https://twitter.com/Datagraver/status/1249408299251924993/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1932,
+                        "h": 1094,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 385,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717126082"
+}

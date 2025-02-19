@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:29:53 +0000 2020",
+    "id": 1254055032162529280,
+    "id_str": "1254055032162529280",
+    "text": "@hunterw @RepThomasMassie The top story on yahoo news besides the corona banner says \"Trump floats treating coronav… https://t.co/JDjrMXlmQU",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253825452185137154,
+    "in_reply_to_status_id_str": "1253825452185137154",
+    "in_reply_to_user_id": 18967418,
+    "in_reply_to_user_id_str": "18967418",
+    "in_reply_to_screen_name": "hunterw",
+    "user": {
+        "id": 117462256,
+        "id_str": "117462256",
+        "name": "Danalyst",
+        "screen_name": "DavidAnalyst",
+        "location": null,
+        "url": null,
+        "description": "A slightly snarky Data Analyst! I enjoy the small screen, music of any decade/century, and funny youtube clips...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 145,
+        "friends_count": 192,
+        "listed_count": 0,
+        "favourites_count": 26577,
+        "statuses_count": 17677,
+        "created_at": "Thu Feb 25 16:54:40 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244132946698698752/URr6hsYQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244132946698698752/URr6hsYQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117462256/1575696596",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@hunterw @RepThomasMassie The top story on yahoo news besides the corona banner says \"Trump floats treating coronavirus patients with light and disinfectant\"  If you wanted to be taken seriously, you sure have a strange way going about it.",
+        "display_text_range": [
+            26,
+            239
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hunterw",
+                    "name": "Hunter Walker",
+                    "id": 18967418,
+                    "id_str": "18967418",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "RepThomasMassie",
+                    "name": "Thomas Massie",
+                    "id": 975200486,
+                    "id_str": "975200486",
+                    "indices": [
+                        9,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/JDjrMXlmQU",
+                "expanded_url": "https://twitter.com/i/web/status/1254055032162529280",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "hunterw",
+                "name": "Hunter Walker",
+                "id": 18967418,
+                "id_str": "18967418",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "RepThomasMassie",
+                "name": "Thomas Massie",
+                "id": 975200486,
+                "id_str": "975200486",
+                "indices": [
+                    9,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824993540"
+}

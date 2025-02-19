@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 13:49:56 +0000 2020",
+    "id": 1254044980005527553,
+    "id_str": "1254044980005527553",
+    "text": "LIVE: Protest gegen Corona-Maßnahmen in Berlin https://t.co/XnWrXRwHXu https://t.co/HkbdDSPWyy",
+    "display_text_range": [
+        0,
+        70
+    ],
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1914175069,
+        "id_str": "1914175069",
+        "name": "Opposition24",
+        "screen_name": "0pposition24com",
+        "location": null,
+        "url": "http://opposition24.com",
+        "description": "Hier twittert die Redaktion",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7077,
+        "friends_count": 5908,
+        "listed_count": 73,
+        "favourites_count": 9291,
+        "statuses_count": 24183,
+        "created_at": "Sat Sep 28 13:19:40 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102699714523336704/sHAyZmQK_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102699714523336704/sHAyZmQK_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914175069/1586551181",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/XnWrXRwHXu",
+                "expanded_url": "https://opposition24.com/live-protest-gegen-corona-massnahmen-in-berlin/",
+                "display_url": "opposition24.com/live-protest-g…",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254044978428489731,
+                "id_str": "1254044978428489731",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdDQ3-XsAMKgWj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdDQ3-XsAMKgWj.jpg",
+                "url": "https://t.co/HkbdDSPWyy",
+                "display_url": "pic.twitter.com/HkbdDSPWyy",
+                "expanded_url": "https://twitter.com/0pposition24com/status/1254044980005527553/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254044978428489731,
+                "id_str": "1254044978428489731",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdDQ3-XsAMKgWj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdDQ3-XsAMKgWj.jpg",
+                "url": "https://t.co/HkbdDSPWyy",
+                "display_url": "pic.twitter.com/HkbdDSPWyy",
+                "expanded_url": "https://twitter.com/0pposition24com/status/1254044980005527553/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822596919"
+}

@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:06:32 +0000 2020",
+    "id": 1254034055554883584,
+    "id_str": "1254034055554883584",
+    "text": "@IzyButNtSleazy @jairbolsonaro O doom cadê você na outerspace ?\nPessoal tá preocupado. Se falou que Moro só ia dar… https://t.co/A2NIwkg4FH",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254025344052584448,
+    "in_reply_to_status_id_str": "1254025344052584448",
+    "in_reply_to_user_id": 1009235456620408833,
+    "in_reply_to_user_id_str": "1009235456620408833",
+    "in_reply_to_screen_name": "IzyButNtSleazy",
+    "user": {
+        "id": 1217303065344299008,
+        "id_str": "1217303065344299008",
+        "name": "Madao",
+        "screen_name": "Kularapidou",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 0,
+        "listed_count": 0,
+        "favourites_count": 40,
+        "statuses_count": 4,
+        "created_at": "Wed Jan 15 04:31:01 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230844157213708293/0pk0l25x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230844157213708293/0pk0l25x_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@IzyButNtSleazy @jairbolsonaro O doom cadê você na outerspace ?\nPessoal tá preocupado. Se falou que Moro só ia dar uma coletiva sobre ações do corona e não voltou mais",
+        "display_text_range": [
+            31,
+            167
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "IzyButNtSleazy",
+                    "name": "Manolo",
+                    "id": 1009235456620408833,
+                    "id_str": "1009235456620408833",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "jairbolsonaro",
+                    "name": "Jair M. Bolsonaro",
+                    "id": 128372940,
+                    "id_str": "128372940",
+                    "indices": [
+                        16,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/A2NIwkg4FH",
+                "expanded_url": "https://twitter.com/i/web/status/1254034055554883584",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "IzyButNtSleazy",
+                "name": "Manolo",
+                "id": 1009235456620408833,
+                "id_str": "1009235456620408833",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "jairbolsonaro",
+                "name": "Jair M. Bolsonaro",
+                "id": 128372940,
+                "id_str": "128372940",
+                "indices": [
+                    16,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587819992327"
+}

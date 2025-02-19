@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 13:20:22 +0000 2020",
+    "id": 1254037537091452936,
+    "id_str": "1254037537091452936",
+    "text": "@hessenschau https://t.co/jdbCbhKTNA",
+    "display_text_range": [
+        13,
+        36
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254002102994718720,
+    "in_reply_to_status_id_str": "1254002102994718720",
+    "in_reply_to_user_id": 17360630,
+    "in_reply_to_user_id_str": "17360630",
+    "in_reply_to_screen_name": "hessenschau",
+    "user": {
+        "id": 247025827,
+        "id_str": "247025827",
+        "name": "P. StayAtHome, WashYourHands, KEEP A DISTANCE 😷",
+        "screen_name": "AnorakFrankfurt",
+        "location": "Frankfurt am NEIN",
+        "url": null,
+        "description": "Autist. Triskaidekaphob. Likes onomatopoeia and PokémonGo (4759 1239 8867)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 158,
+        "friends_count": 113,
+        "listed_count": 8,
+        "favourites_count": 12898,
+        "statuses_count": 48838,
+        "created_at": "Thu Feb 03 23:09:16 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253357353166143488/ZzysjnhN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253357353166143488/ZzysjnhN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/247025827/1586277110",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/jdbCbhKTNA",
+                "expanded_url": "https://www.hessenschau.de/panorama/coronavirus--8257-infizierte-325-tote--verbraucherzentrale-warnt-vor-masken-betruegern--lufthansa-chef-10000-stellen-zu-viel-,corona-hessen-ticker-100.html#Verbraucherzentrale",
+                "display_url": "hessenschau.de/panorama/coron…",
+                "indices": [
+                    13,
+                    36
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "hessenschau",
+                "name": "hessenschau",
+                "id": 17360630,
+                "id_str": "17360630",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587820822390"
+}

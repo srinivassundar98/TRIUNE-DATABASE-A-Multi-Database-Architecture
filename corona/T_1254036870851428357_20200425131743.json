@@ -1,0 +1,137 @@
+{
+    "created_at": "Sat Apr 25 13:17:43 +0000 2020",
+    "id": 1254036870851428357,
+    "id_str": "1254036870851428357",
+    "text": "Confession: ik ben verliefd op Dwayne the Rock Johnson, Micheal Buble en Justin Timberlake. Dus mocht je een goede… https://t.co/bLTQQ2n4vO",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 121415317,
+        "id_str": "121415317",
+        "name": "Sigrid Huisman",
+        "screen_name": "ZiggySieg",
+        "location": "Zwolle-Netherlands",
+        "url": null,
+        "description": "- Single-mams van superdochter\n- Zwolle\n- Reizen ♡♡♡\n- Blogger bij verschillende sites \n- https://t.co/LYS6QBppde staat in de steigers♡\n- Bakfiets\n- MH17",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 682,
+        "friends_count": 848,
+        "listed_count": 14,
+        "favourites_count": 2298,
+        "statuses_count": 14414,
+        "created_at": "Tue Mar 09 12:35:34 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588362846892904449/Nsjcmp2b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588362846892904449/Nsjcmp2b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/121415317/1429111722",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "b8cc2be57a43469f",
+        "url": "https://api.twitter.com/1.1/geo/id/b8cc2be57a43469f.json",
+        "place_type": "city",
+        "name": "Zwolle",
+        "full_name": "Zwolle, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        6.003306,
+                        52.440491
+                    ],
+                    [
+                        6.003306,
+                        52.587938
+                    ],
+                    [
+                        6.210567,
+                        52.587938
+                    ],
+                    [
+                        6.210567,
+                        52.440491
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Confession: ik ben verliefd op Dwayne the Rock Johnson, Micheal Buble en Justin Timberlake. Dus mocht je een goede combi zonder witte sportsokken zijn, laat van je horen...\nTjees..  Corona slaat toe in mijn hersenpannetje. #singlelife",
+        "display_text_range": [
+            0,
+            234
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "singlelife",
+                    "indices": [
+                        223,
+                        234
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/bLTQQ2n4vO",
+                "expanded_url": "https://twitter.com/i/web/status/1254036870851428357",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587820663546"
+}

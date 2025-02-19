@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun Apr 12 18:35:52 +0000 2020",
+    "id": 1249405893084618752,
+    "id_str": "1249405893084618752",
+    "text": "@BrentToderian @OikosDenktank can you get corona by driving a car ? or is the risk greater when using the bus/train/tram/metro ?",
+    "display_text_range": [
+        30,
+        128
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249189726625714182,
+    "in_reply_to_status_id_str": "1249189726625714182",
+    "in_reply_to_user_id": 480196886,
+    "in_reply_to_user_id_str": "480196886",
+    "in_reply_to_screen_name": "BrentToderian",
+    "user": {
+        "id": 47565527,
+        "id_str": "47565527",
+        "name": "paul larmuseau : geef mij een coronaire afstand",
+        "screen_name": "plarmuseau",
+        "location": "Harelbeke, België",
+        "url": "http://www.gaverapotheek.be",
+        "description": "hé ik ben zelfbenoemd: ecomodernist 🤖 #pythonexpert 🐍\n #klimaatoplossingsexpert ☢️☀️🌳, #COVIDexpert 💖#renovatieexpert 🏠 #racismeexpert #A_I_expert 🧠",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 392,
+        "friends_count": 797,
+        "listed_count": 4,
+        "favourites_count": 8284,
+        "statuses_count": 22518,
+        "created_at": "Tue Jun 16 07:01:32 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105875263387250694/wp8p5x5S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105875263387250694/wp8p5x5S_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47565527/1533633758",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "BrentToderian",
+                "name": "Brent Toderian",
+                "id": 480196886,
+                "id_str": "480196886",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "OikosDenktank",
+                "name": "Oikos",
+                "id": 538909256,
+                "id_str": "538909256",
+                "indices": [
+                    15,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716552407"
+}

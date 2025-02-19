@@ -1,0 +1,725 @@
+{
+    "created_at": "Sat Apr 25 13:27:41 +0000 2020",
+    "id": 1254039377988247552,
+    "id_str": "1254039377988247552",
+    "text": "RT @ipaus: #Corona #Poll der @VF_Stiftung zeigt: Es fehlt nicht nur an Technik und Know-how wie man Unterricht digital jenseits des Klassen…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1240658393850884098,
+        "id_str": "1240658393850884098",
+        "name": "Prof Birgit Eickelmann",
+        "screen_name": "prof_birgit",
+        "location": null,
+        "url": "http://upb.de/eickelmann",
+        "description": "Universität Paderborn, Lehrstuhl Schulpädagogik",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 441,
+        "friends_count": 185,
+        "listed_count": 2,
+        "favourites_count": 72,
+        "statuses_count": 102,
+        "created_at": "Thu Mar 19 15:16:32 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240658565314088967/gQUZGRPl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240658565314088967/gQUZGRPl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240658393850884098/1586936466",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 07:05:14 +0000 2020",
+        "id": 1253580745806839809,
+        "id_str": "1253580745806839809",
+        "text": "#Corona #Poll der @VF_Stiftung zeigt: Es fehlt nicht nur an Technik und Know-how wie man Unterricht digital jenseit… https://t.co/m8Aki3qdEn",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18943687,
+            "id_str": "18943687",
+            "name": "Inger Paus",
+            "screen_name": "ipaus",
+            "location": "Berlin",
+            "url": "http://www.linkedin.com/in/ingerpaus",
+            "description": "Heading @VF_Stiftung & @VF_Institute | Policy Strategist | Tech Enthusiast | Philanthropist | Viewsaremyown | RT is not endorsement",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 877,
+            "friends_count": 617,
+            "listed_count": 29,
+            "favourites_count": 747,
+            "statuses_count": 1550,
+            "created_at": "Tue Jan 13 16:51:01 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/843853463427698689/MHpXI8JX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/843853463427698689/MHpXI8JX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18943687/1516468881",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253572131885121537,
+        "quoted_status_id_str": "1253572131885121537",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 06:31:01 +0000 2020",
+            "id": 1253572131885121537,
+            "id_str": "1253572131885121537",
+            "text": "Während bundesweit über #Schulöffnungen diskutiert wird, fühlt sich die Mehrheit der Eltern in Deutschland dem… https://t.co/jFbJCSk4ZF",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 579664870,
+                "id_str": "579664870",
+                "name": "Vodafone Stiftung",
+                "screen_name": "VF_Stiftung",
+                "location": "Berlin/Düsseldorf",
+                "url": "http://www.vodafone-stiftung.de",
+                "description": "Wir denken Bildung für die digitale Gesellschaft neu. Initiativen: @CFT_Hub, @Klickwinkel_, @Lehrerpreis",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 3196,
+                "friends_count": 410,
+                "listed_count": 143,
+                "favourites_count": 2330,
+                "statuses_count": 4732,
+                "created_at": "Mon May 14 07:57:46 +0000 2012",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "EBEBEB",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "990000",
+                "profile_sidebar_border_color": "DFDFDF",
+                "profile_sidebar_fill_color": "F3F3F3",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/919935681367027712/xqOYizl7_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/919935681367027712/xqOYizl7_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/579664870/1532170451",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Während bundesweit über #Schulöffnungen diskutiert wird, fühlt sich die Mehrheit der Eltern in Deutschland dem #Homeschooling auf Dauer nicht gewachsen. Das ist ein Ergebnis unserer heute veröffentlichten Befragung von 1.067 Eltern mit @infratestdimap 👇 https://t.co/ZXhf2DYe7n https://t.co/PdPDiuD1X1",
+                "display_text_range": [
+                    0,
+                    277
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Schulöffnungen",
+                            "indices": [
+                                24,
+                                39
+                            ]
+                        },
+                        {
+                            "text": "Homeschooling",
+                            "indices": [
+                                111,
+                                125
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZXhf2DYe7n",
+                            "expanded_url": "https://www.vodafone-stiftung.de/umfrage-homeschooling-eltern/",
+                            "display_url": "vodafone-stiftung.de/umfrage-homesc…",
+                            "indices": [
+                                254,
+                                277
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "infratestdimap",
+                            "name": "infratest dimap",
+                            "id": 74997243,
+                            "id_str": "74997243",
+                            "indices": [
+                                236,
+                                251
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253572129657958400,
+                            "id_str": "1253572129657958400",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWWVNdCXsAAucEl.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWWVNdCXsAAucEl.jpg",
+                            "url": "https://t.co/PdPDiuD1X1",
+                            "display_url": "pic.twitter.com/PdPDiuD1X1",
+                            "expanded_url": "https://twitter.com/VF_Stiftung/status/1253572131885121537/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1024,
+                                    "h": 512,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 340,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1024,
+                                    "h": 512,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253572129657958400,
+                            "id_str": "1253572129657958400",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWWVNdCXsAAucEl.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWWVNdCXsAAucEl.jpg",
+                            "url": "https://t.co/PdPDiuD1X1",
+                            "display_url": "pic.twitter.com/PdPDiuD1X1",
+                            "expanded_url": "https://twitter.com/VF_Stiftung/status/1253572131885121537/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1024,
+                                    "h": 512,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 340,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1024,
+                                    "h": 512,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 8,
+            "favorite_count": 18,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Schulöffnungen",
+                        "indices": [
+                            24,
+                            39
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/jFbJCSk4ZF",
+                        "expanded_url": "https://twitter.com/i/web/status/1253572131885121537",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/6FmIOosV8G",
+            "expanded": "https://twitter.com/vf_stiftung/status/1253572131885121537",
+            "display": "twitter.com/vf_stiftung/st…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "#Corona #Poll der @VF_Stiftung zeigt: Es fehlt nicht nur an Technik und Know-how wie man Unterricht digital jenseits des Klassenzimmers gestalten kann, sondern auch an Unterstützung für die Eltern, die die Hauptlast von #homeschooling schultern müssen",
+            "display_text_range": [
+                0,
+                251
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            0,
+                            7
+                        ]
+                    },
+                    {
+                        "text": "Poll",
+                        "indices": [
+                            8,
+                            13
+                        ]
+                    },
+                    {
+                        "text": "homeschooling",
+                        "indices": [
+                            220,
+                            234
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "VF_Stiftung",
+                        "name": "Vodafone Stiftung",
+                        "id": 579664870,
+                        "id_str": "579664870",
+                        "indices": [
+                            18,
+                            30
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5,
+        "favorite_count": 13,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "text": "Poll",
+                    "indices": [
+                        8,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/m8Aki3qdEn",
+                    "expanded_url": "https://twitter.com/i/web/status/1253580745806839809",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "VF_Stiftung",
+                    "name": "Vodafone Stiftung",
+                    "id": 579664870,
+                    "id_str": "579664870",
+                    "indices": [
+                        18,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1253572131885121537,
+    "quoted_status_id_str": "1253572131885121537",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 06:31:01 +0000 2020",
+        "id": 1253572131885121537,
+        "id_str": "1253572131885121537",
+        "text": "Während bundesweit über #Schulöffnungen diskutiert wird, fühlt sich die Mehrheit der Eltern in Deutschland dem… https://t.co/jFbJCSk4ZF",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 579664870,
+            "id_str": "579664870",
+            "name": "Vodafone Stiftung",
+            "screen_name": "VF_Stiftung",
+            "location": "Berlin/Düsseldorf",
+            "url": "http://www.vodafone-stiftung.de",
+            "description": "Wir denken Bildung für die digitale Gesellschaft neu. Initiativen: @CFT_Hub, @Klickwinkel_, @Lehrerpreis",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3196,
+            "friends_count": 410,
+            "listed_count": 143,
+            "favourites_count": 2330,
+            "statuses_count": 4732,
+            "created_at": "Mon May 14 07:57:46 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "990000",
+            "profile_sidebar_border_color": "DFDFDF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/919935681367027712/xqOYizl7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/919935681367027712/xqOYizl7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/579664870/1532170451",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Während bundesweit über #Schulöffnungen diskutiert wird, fühlt sich die Mehrheit der Eltern in Deutschland dem #Homeschooling auf Dauer nicht gewachsen. Das ist ein Ergebnis unserer heute veröffentlichten Befragung von 1.067 Eltern mit @infratestdimap 👇 https://t.co/ZXhf2DYe7n https://t.co/PdPDiuD1X1",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Schulöffnungen",
+                        "indices": [
+                            24,
+                            39
+                        ]
+                    },
+                    {
+                        "text": "Homeschooling",
+                        "indices": [
+                            111,
+                            125
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/ZXhf2DYe7n",
+                        "expanded_url": "https://www.vodafone-stiftung.de/umfrage-homeschooling-eltern/",
+                        "display_url": "vodafone-stiftung.de/umfrage-homesc…",
+                        "indices": [
+                            254,
+                            277
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "infratestdimap",
+                        "name": "infratest dimap",
+                        "id": 74997243,
+                        "id_str": "74997243",
+                        "indices": [
+                            236,
+                            251
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253572129657958400,
+                        "id_str": "1253572129657958400",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWWVNdCXsAAucEl.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWWVNdCXsAAucEl.jpg",
+                        "url": "https://t.co/PdPDiuD1X1",
+                        "display_url": "pic.twitter.com/PdPDiuD1X1",
+                        "expanded_url": "https://twitter.com/VF_Stiftung/status/1253572131885121537/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 340,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253572129657958400,
+                        "id_str": "1253572129657958400",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWWVNdCXsAAucEl.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWWVNdCXsAAucEl.jpg",
+                        "url": "https://t.co/PdPDiuD1X1",
+                        "display_url": "pic.twitter.com/PdPDiuD1X1",
+                        "expanded_url": "https://twitter.com/VF_Stiftung/status/1253572131885121537/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 340,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 512,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 2,
+        "reply_count": 0,
+        "retweet_count": 8,
+        "favorite_count": 18,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Schulöffnungen",
+                    "indices": [
+                        24,
+                        39
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/jFbJCSk4ZF",
+                    "expanded_url": "https://twitter.com/i/web/status/1253572131885121537",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        112,
+                        135
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/6FmIOosV8G",
+        "expanded": "https://twitter.com/vf_stiftung/status/1253572131885121537",
+        "display": "twitter.com/vf_stiftung/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    11,
+                    18
+                ]
+            },
+            {
+                "text": "Poll",
+                "indices": [
+                    19,
+                    24
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ipaus",
+                "name": "Inger Paus",
+                "id": 18943687,
+                "id_str": "18943687",
+                "indices": [
+                    3,
+                    9
+                ]
+            },
+            {
+                "screen_name": "VF_Stiftung",
+                "name": "Vodafone Stiftung",
+                "id": 579664870,
+                "id_str": "579664870",
+                "indices": [
+                    29,
+                    41
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821261294"
+}

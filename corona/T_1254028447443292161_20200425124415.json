@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 12:44:15 +0000 2020",
+    "id": 1254028447443292161,
+    "id_str": "1254028447443292161",
+    "text": "go corona go\n\ngo corona go https://t.co/oiqZUQbhsK",
+    "display_text_range": [
+        0,
+        26
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 46657445,
+        "id_str": "46657445",
+        "name": "Naeem Sarwar",
+        "screen_name": "Jamhooriat",
+        "location": "Jupiter",
+        "url": null,
+        "description": "Smile, because it confuses people. Smile, because it's easier than explaining what is killing you inside.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 738,
+        "friends_count": 96,
+        "listed_count": 7,
+        "favourites_count": 13732,
+        "statuses_count": 24865,
+        "created_at": "Fri Jun 12 14:04:40 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250395374960992257/mC06y1cl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250395374960992257/mC06y1cl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46657445/1586732320",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254028341985923073,
+                "id_str": "1254028341985923073",
+                "indices": [
+                    27,
+                    50
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc0IgZX0AEDWq4.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWc0IgZX0AEDWq4.png",
+                "url": "https://t.co/oiqZUQbhsK",
+                "display_url": "pic.twitter.com/oiqZUQbhsK",
+                "expanded_url": "https://twitter.com/Jamhooriat/status/1254028447443292161/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254028341985923073,
+                "id_str": "1254028341985923073",
+                "indices": [
+                    27,
+                    50
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc0IgZX0AEDWq4.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWc0IgZX0AEDWq4.png",
+                "url": "https://t.co/oiqZUQbhsK",
+                "display_url": "pic.twitter.com/oiqZUQbhsK",
+                "expanded_url": "https://twitter.com/Jamhooriat/status/1254028447443292161/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pl",
+    "timestamp_ms": "1587818655249"
+}

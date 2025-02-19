@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 14:27:45 +0000 2020",
+    "id": 1254054493345460224,
+    "id_str": "1254054493345460224",
+    "text": "@piersmorgan @realDonaldTrump @DailyMail You deserved it. You've been one of the most annoying corona stooges I've seen recently..",
+    "display_text_range": [
+        41,
+        130
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253974419132887040,
+    "in_reply_to_status_id_str": "1253974419132887040",
+    "in_reply_to_user_id": 216299334,
+    "in_reply_to_user_id_str": "216299334",
+    "in_reply_to_screen_name": "piersmorgan",
+    "user": {
+        "id": 163008875,
+        "id_str": "163008875",
+        "name": "Steve 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "screen_name": "Zoomertron",
+        "location": "Watching stuff in the distance",
+        "url": null,
+        "description": "I love to wave my arms about and shout..",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 86,
+        "friends_count": 262,
+        "listed_count": 0,
+        "favourites_count": 1505,
+        "statuses_count": 3950,
+        "created_at": "Mon Jul 05 08:54:57 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/438951002780499968/LP3B1prH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/438951002780499968/LP3B1prH_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163008875/1585515705",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "piersmorgan",
+                "name": "Piers Morgan",
+                "id": 216299334,
+                "id_str": "216299334",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    13,
+                    29
+                ]
+            },
+            {
+                "screen_name": "DailyMail",
+                "name": "Daily Mail US",
+                "id": 380285402,
+                "id_str": "380285402",
+                "indices": [
+                    30,
+                    40
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824865076"
+}

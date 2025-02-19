@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 12:37:11 +0000 2020",
+    "id": 1254026671755268098,
+    "id_str": "1254026671755268098",
+    "text": "@mc_christianne @volkskrant Misschien zien u (en ik ook)er ook wel 'erg ongezond' uit na een aantal dagen in coma g… https://t.co/b2tpLHfP2A",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253968162644652032,
+    "in_reply_to_status_id_str": "1253968162644652032",
+    "in_reply_to_user_id": 965307738099200004,
+    "in_reply_to_user_id_str": "965307738099200004",
+    "in_reply_to_screen_name": "mc_christianne",
+    "user": {
+        "id": 703984473411608576,
+        "id_str": "703984473411608576",
+        "name": "Isadorus",
+        "screen_name": "IsadoorParadijs",
+        "location": "Amsterdam, Nederland",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 18,
+        "listed_count": 0,
+        "favourites_count": 257,
+        "statuses_count": 1760,
+        "created_at": "Sun Feb 28 16:45:52 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/703988443362119680/NqzZimLK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/703988443362119680/NqzZimLK_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@mc_christianne @volkskrant Misschien zien u (en ik ook)er ook wel 'erg ongezond' uit na een aantal dagen in coma gelegen te hebben vanwege Corona.",
+        "display_text_range": [
+            28,
+            147
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mc_christianne",
+                    "name": "Christianne Visser",
+                    "id": 965307738099200004,
+                    "id_str": "965307738099200004",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "volkskrant",
+                    "name": "de Volkskrant",
+                    "id": 3103261,
+                    "id_str": "3103261",
+                    "indices": [
+                        16,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/b2tpLHfP2A",
+                "expanded_url": "https://twitter.com/i/web/status/1254026671755268098",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "mc_christianne",
+                "name": "Christianne Visser",
+                "id": 965307738099200004,
+                "id_str": "965307738099200004",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "volkskrant",
+                "name": "de Volkskrant",
+                "id": 3103261,
+                "id_str": "3103261",
+                "indices": [
+                    16,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587818231892"
+}

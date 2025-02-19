@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 14:03:13 +0000 2020",
+    "id": 1254048320407945218,
+    "id_str": "1254048320407945218",
+    "text": "Nu online: Boetes op #Kaapseplein in #DenHaag voor overtreden corona regels https://t.co/ABPHyRgHSe https://t.co/LqewN8s33z",
+    "display_text_range": [
+        0,
+        99
+    ],
+    "source": "<a href=\"http://www.regio15.nl\" rel=\"nofollow\">DBgallery</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 28526900,
+        "id_str": "28526900",
+        "name": "Redactie Regio15.nl",
+        "screen_name": "regio15",
+        "location": "Haaglanden",
+        "url": "https://www.regio15.nl/",
+        "description": "Nieuws uit de regio Haaglanden.\n\nHeeft u een nieuwstip? 📲 Bel of WhatsApp naar 0615151502.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 168657,
+        "friends_count": 241,
+        "listed_count": 660,
+        "favourites_count": 1,
+        "statuses_count": 76442,
+        "created_at": "Fri Apr 03 08:16:44 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "555555",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FF8844",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/995767071253385216/SBxUGrnn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/995767071253385216/SBxUGrnn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28526900/1546960774",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Kaapseplein",
+                "indices": [
+                    21,
+                    33
+                ]
+            },
+            {
+                "text": "DenHaag",
+                "indices": [
+                    37,
+                    45
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ABPHyRgHSe",
+                "expanded_url": "https://www.regio15.nl/corona/31630-boetes-op-kaapseplein-voor-overtreden-corona-regels",
+                "display_url": "regio15.nl/corona/31630-b…",
+                "indices": [
+                    76,
+                    99
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254048317706776578,
+                "id_str": "1254048317706776578",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdGTPwWsAIIL1m.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdGTPwWsAIIL1m.jpg",
+                "url": "https://t.co/LqewN8s33z",
+                "display_url": "pic.twitter.com/LqewN8s33z",
+                "expanded_url": "https://twitter.com/regio15/status/1254048320407945218/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1150,
+                        "h": 767,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1150,
+                        "h": 767,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254048317706776578,
+                "id_str": "1254048317706776578",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdGTPwWsAIIL1m.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdGTPwWsAIIL1m.jpg",
+                "url": "https://t.co/LqewN8s33z",
+                "display_url": "pic.twitter.com/LqewN8s33z",
+                "expanded_url": "https://twitter.com/regio15/status/1254048320407945218/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 454,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1150,
+                        "h": 767,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1150,
+                        "h": 767,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587823393333"
+}

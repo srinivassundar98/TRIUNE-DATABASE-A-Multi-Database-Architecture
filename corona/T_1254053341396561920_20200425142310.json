@@ -1,0 +1,176 @@
+{
+    "created_at": "Sat Apr 25 14:23:10 +0000 2020",
+    "id": 1254053341396561920,
+    "id_str": "1254053341396561920",
+    "text": "@twitpos Rakyat susah karena CoVid-19 tapi TKA Cina yg notabene asal muasal virus Corona terus berdatangan dan peme… https://t.co/eNGEkHKV1o",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253999323873808384,
+    "in_reply_to_status_id_str": "1253999323873808384",
+    "in_reply_to_user_id": 2325801354,
+    "in_reply_to_user_id_str": "2325801354",
+    "in_reply_to_screen_name": "twitpos",
+    "user": {
+        "id": 786818570814562304,
+        "id_str": "786818570814562304",
+        "name": "Suwito Abdullah",
+        "screen_name": "suwito_abdullah",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 512,
+        "friends_count": 1269,
+        "listed_count": 0,
+        "favourites_count": 15472,
+        "statuses_count": 17779,
+        "created_at": "Fri Oct 14 06:39:00 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158823816690167808/cxKJlOky_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158823816690167808/cxKJlOky_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786818570814562304/1499772449",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "b72dfb0f47a32ccb",
+        "url": "https://api.twitter.com/1.1/geo/id/b72dfb0f47a32ccb.json",
+        "place_type": "city",
+        "name": "Baki",
+        "full_name": "Baki, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        110.750127,
+                        -7.642612
+                    ],
+                    [
+                        110.750127,
+                        -7.569396
+                    ],
+                    [
+                        110.819113,
+                        -7.569396
+                    ],
+                    [
+                        110.819113,
+                        -7.642612
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@twitpos Rakyat susah karena CoVid-19 tapi TKA Cina yg notabene asal muasal virus Corona terus berdatangan dan pemerintah membiarkan saja, apa pemerintah tdk dzalim terhadap rakyatnya klo seperti ini pak @mohmahfudmd \nhttps://t.co/Ym0IeB9BCc",
+        "display_text_range": [
+            9,
+            241
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Ym0IeB9BCc",
+                    "expanded_url": "https://m.liputan6.com/bisnis/read/4193038/meski-dilarang-akibat-corona-811-warga-china-masih-transit-di-indonesia?utm_source=Mobile&utm_medium=whatsapp&utm_campaign=Share_Top",
+                    "display_url": "m.liputan6.com/bisnis/read/41…",
+                    "indices": [
+                        218,
+                        241
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "twitpos",
+                    "name": "twitpos🔅™",
+                    "id": 2325801354,
+                    "id_str": "2325801354",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "mohmahfudmd",
+                    "name": "Mahfud MD",
+                    "id": 282006208,
+                    "id_str": "282006208",
+                    "indices": [
+                        204,
+                        216
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/eNGEkHKV1o",
+                "expanded_url": "https://twitter.com/i/web/status/1254053341396561920",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "twitpos",
+                "name": "twitpos🔅™",
+                "id": 2325801354,
+                "id_str": "2325801354",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587824590430"
+}

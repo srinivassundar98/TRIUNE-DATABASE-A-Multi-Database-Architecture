@@ -1,0 +1,632 @@
+{
+    "created_at": "Sat Apr 25 14:29:31 +0000 2020",
+    "id": 1254054940357492736,
+    "id_str": "1254054940357492736",
+    "text": "RT @EconomicEthics: Etwas verspätet, aber immerhin: Ich habe mich außerordentlich gefreut, @ThorstenHild hier auf Twitter zu finden. Vielle…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 45802625,
+        "id_str": "45802625",
+        "name": "Thorsten Hild",
+        "screen_name": "ThorstenHild",
+        "location": "Berlin",
+        "url": null,
+        "description": "Volkswirt. Referent für Arbeitsmarktpolitik im Deutschen Bundestag für Fraktion DIE LINKE. Hier privat.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 92,
+        "listed_count": 1,
+        "favourites_count": 106,
+        "statuses_count": 213,
+        "created_at": "Tue Jun 09 09:32:48 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253746487856713728/DYYf-m4y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253746487856713728/DYYf-m4y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45802625/1587450005",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 14:23:48 +0000 2020",
+        "id": 1254053501149339649,
+        "id_str": "1254053501149339649",
+        "text": "Etwas verspätet, aber immerhin: Ich habe mich außerordentlich gefreut, @ThorstenHild hier auf Twitter zu finden. Vi… https://t.co/IhS5JZDUZQ",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2981738470,
+            "id_str": "2981738470",
+            "name": "SeTh",
+            "screen_name": "EconomicEthics",
+            "location": "Wien, Österreich",
+            "url": "http://economicethics.blogspot.de/",
+            "description": "Ökonom mit Faible für Fragen zur #Heterodoxie, #Sozialökonomik, #Wirtschaftsethik, ökonomischen #Ideengeschichte & Misanthropie. Twittert privat.🙂rt≠endorsement",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1655,
+            "friends_count": 406,
+            "listed_count": 49,
+            "favourites_count": 11762,
+            "statuses_count": 31930,
+            "created_at": "Fri Jan 16 20:43:37 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "3B94D9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/995635836527022081/2ap1zIhG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/995635836527022081/2ap1zIhG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2981738470/1561648359",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253665109764907008,
+        "quoted_status_id_str": "1253665109764907008",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 12:40:28 +0000 2020",
+            "id": 1253665109764907008,
+            "id_str": "1253665109764907008",
+            "text": "So sieht in #Corona - Zeiten meine Mittagspause aus. Aus dem home office heraus in den Park mit meinen beiden wisse… https://t.co/NSfx7xaaBX",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 45802625,
+                "id_str": "45802625",
+                "name": "Thorsten Hild",
+                "screen_name": "ThorstenHild",
+                "location": "Berlin",
+                "url": null,
+                "description": "Volkswirt. Referent für Arbeitsmarktpolitik im Deutschen Bundestag für Fraktion DIE LINKE. Hier privat.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 14,
+                "friends_count": 92,
+                "listed_count": 1,
+                "favourites_count": 106,
+                "statuses_count": 212,
+                "created_at": "Tue Jun 09 09:32:48 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1253746487856713728/DYYf-m4y_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253746487856713728/DYYf-m4y_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/45802625/1587450005",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "So sieht in #Corona - Zeiten meine Mittagspause aus. Aus dem home office heraus in den Park mit meinen beiden wissenschaftlichen Mitarbeiterinnen. Und gleich mal die Sandalen aus dem Schrank geholt. https://t.co/npmGKetLYj",
+                "display_text_range": [
+                    0,
+                    198
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Corona",
+                            "indices": [
+                                12,
+                                19
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253664902134333440,
+                            "id_str": "1253664902134333440",
+                            "indices": [
+                                199,
+                                222
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWXplhcXgAAtlyP.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWXplhcXgAAtlyP.jpg",
+                            "url": "https://t.co/npmGKetLYj",
+                            "display_url": "pic.twitter.com/npmGKetLYj",
+                            "expanded_url": "https://twitter.com/ThorstenHild/status/1253665109764907008/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253664902134333440,
+                            "id_str": "1253664902134333440",
+                            "indices": [
+                                199,
+                                222
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWXplhcXgAAtlyP.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWXplhcXgAAtlyP.jpg",
+                            "url": "https://t.co/npmGKetLYj",
+                            "display_url": "pic.twitter.com/npmGKetLYj",
+                            "expanded_url": "https://twitter.com/ThorstenHild/status/1253665109764907008/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            12,
+                            19
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/NSfx7xaaBX",
+                        "expanded_url": "https://twitter.com/i/web/status/1253665109764907008",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/rVwjJa6JCC",
+            "expanded": "https://twitter.com/ThorstenHild/status/1253665109764907008",
+            "display": "twitter.com/ThorstenHild/s…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Etwas verspätet, aber immerhin: Ich habe mich außerordentlich gefreut, @ThorstenHild hier auf Twitter zu finden. Vielleicht kennt noch jemand seinen damaligen Blog \"Wirtschaft und Gesellschaft – Analyse &amp; Meinung\". Habe ich gerne gelesen. Also, wer ihm noch nicht folgt, folgen!🙂 https://t.co/rVwjJa6JCC",
+            "display_text_range": [
+                0,
+                283
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/rVwjJa6JCC",
+                        "expanded_url": "https://twitter.com/ThorstenHild/status/1253665109764907008",
+                        "display_url": "twitter.com/ThorstenHild/s…",
+                        "indices": [
+                            284,
+                            307
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ThorstenHild",
+                        "name": "Thorsten Hild",
+                        "id": 45802625,
+                        "id_str": "45802625",
+                        "indices": [
+                            71,
+                            84
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IhS5JZDUZQ",
+                    "expanded_url": "https://twitter.com/i/web/status/1254053501149339649",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "ThorstenHild",
+                    "name": "Thorsten Hild",
+                    "id": 45802625,
+                    "id_str": "45802625",
+                    "indices": [
+                        71,
+                        84
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1253665109764907008,
+    "quoted_status_id_str": "1253665109764907008",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 12:40:28 +0000 2020",
+        "id": 1253665109764907008,
+        "id_str": "1253665109764907008",
+        "text": "So sieht in #Corona - Zeiten meine Mittagspause aus. Aus dem home office heraus in den Park mit meinen beiden wisse… https://t.co/NSfx7xaaBX",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 45802625,
+            "id_str": "45802625",
+            "name": "Thorsten Hild",
+            "screen_name": "ThorstenHild",
+            "location": "Berlin",
+            "url": null,
+            "description": "Volkswirt. Referent für Arbeitsmarktpolitik im Deutschen Bundestag für Fraktion DIE LINKE. Hier privat.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 14,
+            "friends_count": 92,
+            "listed_count": 1,
+            "favourites_count": 106,
+            "statuses_count": 212,
+            "created_at": "Tue Jun 09 09:32:48 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253746487856713728/DYYf-m4y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253746487856713728/DYYf-m4y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/45802625/1587450005",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "So sieht in #Corona - Zeiten meine Mittagspause aus. Aus dem home office heraus in den Park mit meinen beiden wissenschaftlichen Mitarbeiterinnen. Und gleich mal die Sandalen aus dem Schrank geholt. https://t.co/npmGKetLYj",
+            "display_text_range": [
+                0,
+                198
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            12,
+                            19
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253664902134333440,
+                        "id_str": "1253664902134333440",
+                        "indices": [
+                            199,
+                            222
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXplhcXgAAtlyP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXplhcXgAAtlyP.jpg",
+                        "url": "https://t.co/npmGKetLYj",
+                        "display_url": "pic.twitter.com/npmGKetLYj",
+                        "expanded_url": "https://twitter.com/ThorstenHild/status/1253665109764907008/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253664902134333440,
+                        "id_str": "1253664902134333440",
+                        "indices": [
+                            199,
+                            222
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXplhcXgAAtlyP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXplhcXgAAtlyP.jpg",
+                        "url": "https://t.co/npmGKetLYj",
+                        "display_url": "pic.twitter.com/npmGKetLYj",
+                        "expanded_url": "https://twitter.com/ThorstenHild/status/1253665109764907008/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        12,
+                        19
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/NSfx7xaaBX",
+                    "expanded_url": "https://twitter.com/i/web/status/1253665109764907008",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/rVwjJa6JCC",
+        "expanded": "https://twitter.com/ThorstenHild/status/1253665109764907008",
+        "display": "twitter.com/ThorstenHild/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "EconomicEthics",
+                "name": "SeTh",
+                "id": 2981738470,
+                "id_str": "2981738470",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "ThorstenHild",
+                "name": "Thorsten Hild",
+                "id": 45802625,
+                "id_str": "45802625",
+                "indices": [
+                    91,
+                    104
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824971652"
+}

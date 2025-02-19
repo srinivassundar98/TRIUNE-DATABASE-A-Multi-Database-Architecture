@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Apr 25 12:42:25 +0000 2020",
+    "id": 1254027988355735553,
+    "id_str": "1254027988355735553",
+    "text": "Özlemenin bin bir boyutu varmış eriştik, corona senin ben yedi geçmişini...",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 952993057678544896,
+        "id_str": "952993057678544896",
+        "name": "Dilek✨",
+        "screen_name": "dilekakbuz55",
+        "location": "Samsunspor ❤️",
+        "url": "https://www.instagram.com/dakbuz19/",
+        "description": "Mustafa Kemal Atatürk 💪🏻 Samsunspor ❤️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 529,
+        "friends_count": 166,
+        "listed_count": 1,
+        "favourites_count": 26357,
+        "statuses_count": 10466,
+        "created_at": "Mon Jan 15 19:57:05 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247998368581709824/TL3jOTz4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247998368581709824/TL3jOTz4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/952993057678544896/1520515411",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "23f2998fb75faf7d",
+        "url": "https://api.twitter.com/1.1/geo/id/23f2998fb75faf7d.json",
+        "place_type": "city",
+        "name": "Samsun",
+        "full_name": "Samsun, Türkiye",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        36.167579,
+                        41.205787
+                    ],
+                    [
+                        36.167579,
+                        41.420515
+                    ],
+                    [
+                        36.51372,
+                        41.420515
+                    ],
+                    [
+                        36.51372,
+                        41.205787
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587818545794"
+}

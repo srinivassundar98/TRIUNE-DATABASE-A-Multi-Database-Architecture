@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:32:31 +0000 2020",
+    "id": 1254040594814513153,
+    "id_str": "1254040594814513153",
+    "text": "@CapPopcorn Ça avait déjà été annoncé depuis longtemps et là la nouvelle annonce c'est pour dire que c'est retardé… https://t.co/RssPg8S4Mt",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253817009135108099,
+    "in_reply_to_status_id_str": "1253817009135108099",
+    "in_reply_to_user_id": 1088639359,
+    "in_reply_to_user_id_str": "1088639359",
+    "in_reply_to_screen_name": "CapPopcorn",
+    "user": {
+        "id": 1027173073,
+        "id_str": "1027173073",
+        "name": "Pisces no Amor",
+        "screen_name": "Trunks117",
+        "location": null,
+        "url": null,
+        "description": "Si vous saviez ...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 173,
+        "friends_count": 320,
+        "listed_count": 11,
+        "favourites_count": 16032,
+        "statuses_count": 56648,
+        "created_at": "Fri Dec 21 21:12:32 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "111111",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/816742793053880321/pvW0ua9F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/816742793053880321/pvW0ua9F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1027173073/1526421704",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CapPopcorn Ça avait déjà été annoncé depuis longtemps et là la nouvelle annonce c'est pour dire que c'est retardé à cause du Corona virus :/ du coup c'est plus une mauvaise nouvelle qu'une bonne 😅",
+        "display_text_range": [
+            12,
+            197
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CapPopcorn",
+                    "name": "Captain Popcorn",
+                    "id": 1088639359,
+                    "id_str": "1088639359",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/RssPg8S4Mt",
+                "expanded_url": "https://twitter.com/i/web/status/1254040594814513153",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CapPopcorn",
+                "name": "Captain Popcorn",
+                "id": 1088639359,
+                "id_str": "1088639359",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587821551408"
+}

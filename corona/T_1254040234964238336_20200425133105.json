@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 13:31:05 +0000 2020",
+    "id": 1254040234964238336,
+    "id_str": "1254040234964238336",
+    "text": "#Blockchain vs. #Corona: Fünf potenzielle Game Changer https://t.co/ftUPw5taOS https://t.co/1hZRmglrw4",
+    "display_text_range": [
+        0,
+        78
+    ],
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 11060982,
+        "id_str": "11060982",
+        "name": "t3n Magazin",
+        "screen_name": "t3n",
+        "location": "Hannover, Germany",
+        "url": "http://t3n.de",
+        "description": "Netzwerk & Magazin für digitale Zukunft.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 159819,
+        "friends_count": 220,
+        "listed_count": 4188,
+        "favourites_count": 6416,
+        "statuses_count": 80450,
+        "created_at": "Tue Dec 11 20:18:56 +0000 2007",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "CC0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "444444",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/964072513679581184/4YV1Q0mR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/964072513679581184/4YV1Q0mR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11060982/1518687761",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Blockchain",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    16,
+                    23
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ftUPw5taOS",
+                "expanded_url": "https://t3n.de/news/blockchain-vs-corona-5-game-1273005/",
+                "display_url": "t3n.de/news/blockchai…",
+                "indices": [
+                    55,
+                    78
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254040233513009152,
+                "id_str": "1254040233513009152",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc-8ryXQAAOWLf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc-8ryXQAAOWLf.jpg",
+                "url": "https://t.co/1hZRmglrw4",
+                "display_url": "pic.twitter.com/1hZRmglrw4",
+                "expanded_url": "https://twitter.com/t3n/status/1254040234964238336/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254040233513009152,
+                "id_str": "1254040233513009152",
+                "indices": [
+                    79,
+                    102
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc-8ryXQAAOWLf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc-8ryXQAAOWLf.jpg",
+                "url": "https://t.co/1hZRmglrw4",
+                "display_url": "pic.twitter.com/1hZRmglrw4",
+                "expanded_url": "https://twitter.com/t3n/status/1254040234964238336/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 800,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821465613"
+}

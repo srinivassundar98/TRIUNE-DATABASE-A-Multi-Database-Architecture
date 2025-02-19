@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Apr 25 13:59:15 +0000 2020",
+    "id": 1254047322083819520,
+    "id_str": "1254047322083819520",
+    "text": "1 mês pro meu aniversário, corona vírus tu ja pode começar as fazer as malaaaaasssss",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2267554064,
+        "id_str": "2267554064",
+        "name": "Polichinelo",
+        "screen_name": "polianaspohr",
+        "location": "São Pedro do Butiá",
+        "url": "http://instagram.com/poliana_spohr",
+        "description": "18y, louca das ideia, acadêmica de arquitetura e eu amo o @Gremio 💙",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 659,
+        "friends_count": 451,
+        "listed_count": 0,
+        "favourites_count": 8602,
+        "statuses_count": 9269,
+        "created_at": "Sun Dec 29 15:41:25 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246928662907236352/0q1h5ydy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246928662907236352/0q1h5ydy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2267554064/1575342485",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7bfd6760f8a8873f",
+        "url": "https://api.twitter.com/1.1/geo/id/7bfd6760f8a8873f.json",
+        "place_type": "city",
+        "name": "São Pedro do Butiá",
+        "full_name": "São Pedro do Butiá, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -54.944427,
+                        -28.202162
+                    ],
+                    [
+                        -54.944427,
+                        -28.046143
+                    ],
+                    [
+                        -54.854879,
+                        -28.046143
+                    ],
+                    [
+                        -54.854879,
+                        -28.202162
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587823155314"
+}

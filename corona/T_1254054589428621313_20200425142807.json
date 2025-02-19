@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:28:07 +0000 2020",
+    "id": 1254054589428621313,
+    "id_str": "1254054589428621313",
+    "text": "@SJames39662583 Only copped it 3.9 percentage as well , thought it was regular corona",
+    "display_text_range": [
+        16,
+        85
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254054340412805120,
+    "in_reply_to_status_id_str": "1254054340412805120",
+    "in_reply_to_user_id": 1253644218238742528,
+    "in_reply_to_user_id_str": "1253644218238742528",
+    "in_reply_to_screen_name": "SJames39662583",
+    "user": {
+        "id": 1255663472,
+        "id_str": "1255663472",
+        "name": "LJ",
+        "screen_name": "covidlj",
+        "location": null,
+        "url": null,
+        "description": "Carl Froch Cobraed me outside a Chinese before 🥊",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 263,
+        "friends_count": 515,
+        "listed_count": 5,
+        "favourites_count": 4903,
+        "statuses_count": 699,
+        "created_at": "Sat Mar 09 23:55:31 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230886437941391363/b4103XjV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230886437941391363/b4103XjV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255663472/1582301171",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "73a5d83329504007",
+        "url": "https://api.twitter.com/1.1/geo/id/73a5d83329504007.json",
+        "place_type": "city",
+        "name": "Fingal",
+        "full_name": "Fingal, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -6.475708,
+                        53.350862
+                    ],
+                    [
+                        -6.475708,
+                        53.638334
+                    ],
+                    [
+                        -5.995732,
+                        53.638334
+                    ],
+                    [
+                        -5.995732,
+                        53.350862
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "SJames39662583",
+                "name": "S.James",
+                "id": 1253644218238742528,
+                "id_str": "1253644218238742528",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824887984"
+}

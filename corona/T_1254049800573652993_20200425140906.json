@@ -1,0 +1,181 @@
+{
+    "created_at": "Sat Apr 25 14:09:06 +0000 2020",
+    "id": 1254049800573652993,
+    "id_str": "1254049800573652993",
+    "text": "@emhjr Corona vírus pode entrar https://t.co/rwQbgHdHQb",
+    "display_text_range": [
+        7,
+        31
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254048565309079552,
+    "in_reply_to_status_id_str": "1254048565309079552",
+    "in_reply_to_user_id": 55423819,
+    "in_reply_to_user_id_str": "55423819",
+    "in_reply_to_screen_name": "emhjr",
+    "user": {
+        "id": 825154525363306496,
+        "id_str": "825154525363306496",
+        "name": "Caícone",
+        "screen_name": "realcaicone",
+        "location": "Alagoas, Brasil",
+        "url": "http://www.instagram.com/realcaique",
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 989,
+        "friends_count": 290,
+        "listed_count": 0,
+        "favourites_count": 7421,
+        "statuses_count": 6748,
+        "created_at": "Sat Jan 28 01:32:24 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193593167842549761/igMEdyH9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193593167842549761/igMEdyH9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/825154525363306496/1511355652",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "emhjr",
+                "name": "Edinho",
+                "id": 55423819,
+                "id_str": "55423819",
+                "indices": [
+                    0,
+                    6
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254049792084381697,
+                "id_str": "1254049792084381697",
+                "indices": [
+                    32,
+                    55
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdHpEPXkAEQkCf.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdHpEPXkAEQkCf.jpg",
+                "url": "https://t.co/rwQbgHdHQb",
+                "display_url": "pic.twitter.com/rwQbgHdHQb",
+                "expanded_url": "https://twitter.com/realcaicone/status/1254049800573652993/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254049792084381697,
+                "id_str": "1254049792084381697",
+                "indices": [
+                    32,
+                    55
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdHpEPXkAEQkCf.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdHpEPXkAEQkCf.jpg",
+                "url": "https://t.co/rwQbgHdHQb",
+                "display_url": "pic.twitter.com/rwQbgHdHQb",
+                "expanded_url": "https://twitter.com/realcaicone/status/1254049800573652993/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EWdHpEPXkAEQkCf.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 200,
+                        "h": 200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587823746232"
+}

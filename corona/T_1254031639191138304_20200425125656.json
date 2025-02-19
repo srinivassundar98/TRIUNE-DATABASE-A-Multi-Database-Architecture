@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:56:56 +0000 2020",
+    "id": 1254031639191138304,
+    "id_str": "1254031639191138304",
+    "text": "@Maymunatou2 @NCDCgov Kuma sun sani.\nA kusa damu akwai wanda Corona ta kashe wlh",
+    "display_text_range": [
+        22,
+        80
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254031061933346817,
+    "in_reply_to_status_id_str": "1254031061933346817",
+    "in_reply_to_user_id": 1157203572825710593,
+    "in_reply_to_user_id_str": "1157203572825710593",
+    "in_reply_to_screen_name": "Maymunatou2",
+    "user": {
+        "id": 928761037138137088,
+        "id_str": "928761037138137088",
+        "name": "Advocate",
+        "screen_name": "anwvr1",
+        "location": "Abuja 🔄 Kano",
+        "url": null,
+        "description": "Treat people as if they were what they ought to be\n#operationhelpthenorth\nLLB⚖",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 816,
+        "friends_count": 843,
+        "listed_count": 0,
+        "favourites_count": 5961,
+        "statuses_count": 8473,
+        "created_at": "Thu Nov 09 23:07:41 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1173160498801631232/sVhJTYjI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173160498801631232/sVhJTYjI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/928761037138137088/1585382952",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Maymunatou2",
+                "name": "Ummy🌙",
+                "id": 1157203572825710593,
+                "id_str": "1157203572825710593",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "NCDCgov",
+                "name": "NCDC",
+                "id": 705694814612938752,
+                "id_str": "705694814612938752",
+                "indices": [
+                    13,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819416221"
+}

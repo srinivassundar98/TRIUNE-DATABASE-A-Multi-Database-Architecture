@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 13:58:04 +0000 2020",
+    "id": 1254047024321753090,
+    "id_str": "1254047024321753090",
+    "text": "@nyong_ipunk @PBDjarum @rokok_indonesia Kudu mas, mikir corona wae ra nyandak utek.e, wkwk",
+    "display_text_range": [
+        40,
+        90
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254046622662590470,
+    "in_reply_to_status_id_str": "1254046622662590470",
+    "in_reply_to_user_id": 605438388,
+    "in_reply_to_user_id_str": "605438388",
+    "in_reply_to_screen_name": "nyong_ipunk",
+    "user": {
+        "id": 1246691336993951747,
+        "id_str": "1246691336993951747",
+        "name": "jebresmu_05",
+        "screen_name": "EkoSaputro05",
+        "location": "Temanggung",
+        "url": null,
+        "description": "Hargailah proses maka proses akan menghargaimu\n\nIg : ekodanang_05",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 34,
+        "friends_count": 89,
+        "listed_count": 0,
+        "favourites_count": 60,
+        "statuses_count": 365,
+        "created_at": "Sun Apr 05 06:49:22 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249480030977011712/CvUbo7yl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249480030977011712/CvUbo7yl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246691336993951747/1587176805",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "nyong_ipunk",
+                "name": "Ipunk",
+                "id": 605438388,
+                "id_str": "605438388",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "PBDjarum",
+                "name": "PB Djarum",
+                "id": 198355044,
+                "id_str": "198355044",
+                "indices": [
+                    13,
+                    22
+                ]
+            },
+            {
+                "screen_name": "rokok_indonesia",
+                "name": "Rokok Indonesia",
+                "id": 986837832,
+                "id_str": "986837832",
+                "indices": [
+                    23,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587823084322"
+}

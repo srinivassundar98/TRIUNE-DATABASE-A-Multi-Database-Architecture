@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 13:31:49 +0000 2020",
+    "id": 1254040417500200960,
+    "id_str": "1254040417500200960",
+    "text": "@guilaenricka @_franseeen @TheChristineOng Potah corona layas na",
+    "display_text_range": [
+        43,
+        64
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254040240714465281,
+    "in_reply_to_status_id_str": "1254040240714465281",
+    "in_reply_to_user_id": 553264072,
+    "in_reply_to_user_id_str": "553264072",
+    "in_reply_to_screen_name": "guilaenricka",
+    "user": {
+        "id": 3562470312,
+        "id_str": "3562470312",
+        "name": "gráe",
+        "screen_name": "graecabase",
+        "location": "etivac // bicol ",
+        "url": "https://youtu.be/UtFlnNMXQuI",
+        "description": "i am the danger",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2717,
+        "friends_count": 122,
+        "listed_count": 2,
+        "favourites_count": 512,
+        "statuses_count": 15576,
+        "created_at": "Mon Sep 14 17:34:28 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252283658083287049/SuaExC0M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252283658083287049/SuaExC0M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3562470312/1587312376",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "guilaenricka",
+                "name": "guila",
+                "id": 553264072,
+                "id_str": "553264072",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "_franseeen",
+                "name": "𝐟𝐫𝐧𝐳",
+                "id": 538227350,
+                "id_str": "538227350",
+                "indices": [
+                    14,
+                    25
+                ]
+            },
+            {
+                "screen_name": "TheChristineOng",
+                "name": "c.",
+                "id": 482757289,
+                "id_str": "482757289",
+                "indices": [
+                    26,
+                    42
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587821509133"
+}

@@ -1,0 +1,158 @@
+{
+    "created_at": "Sat Apr 25 12:45:09 +0000 2020",
+    "id": 1254028675638603776,
+    "id_str": "1254028675638603776",
+    "text": "China put the whole world to work in Corona, and then went on to buy fake testing kits, fake masks, and buy a devol… https://t.co/v8tV0YEEay",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 972351260,
+        "id_str": "972351260",
+        "name": "jugal vishwakarma",
+        "screen_name": "Jugalvishwakarm",
+        "location": "Mumbai",
+        "url": "https://j-c-interior-constraction.ueniweb.com",
+        "description": "Hi' I'm 27year old,  I'm Furniture Contractor at mumbai...\nJ.C. Interior Construction",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 28,
+        "friends_count": 254,
+        "listed_count": 0,
+        "favourites_count": 362,
+        "statuses_count": 118,
+        "created_at": "Mon Nov 26 17:12:07 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710133544065048576/WEkTMUus_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710133544065048576/WEkTMUus_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972351260/1585884245",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "4cb2ce0379cf2d27",
+        "url": "https://api.twitter.com/1.1/geo/id/4cb2ce0379cf2d27.json",
+        "place_type": "city",
+        "name": "Hatpipalya",
+        "full_name": "Hatpipalya, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        76.296612,
+                        22.760038
+                    ],
+                    [
+                        76.296612,
+                        22.777712
+                    ],
+                    [
+                        76.31348,
+                        22.777712
+                    ],
+                    [
+                        76.31348,
+                        22.760038
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "China put the whole world to work in Corona, and then went on to buy fake testing kits, fake masks, and buy a devolution company. This time, if everyone did not do all the trick of China together, this world will never be recognized again.\n#IndiaFightsCorona @PMOIndia @HMOIndia",
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "IndiaFightsCorona",
+                    "indices": [
+                        240,
+                        258
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PMOIndia",
+                    "name": "PMO India",
+                    "id": 471741741,
+                    "id_str": "471741741",
+                    "indices": [
+                        259,
+                        268
+                    ]
+                },
+                {
+                    "screen_name": "HMOIndia",
+                    "name": "गृहमंत्री कार्यालय, HMO India",
+                    "id": 2541363451,
+                    "id_str": "2541363451",
+                    "indices": [
+                        269,
+                        278
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/v8tV0YEEay",
+                "expanded_url": "https://twitter.com/i/web/status/1254028675638603776",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818709655"
+}

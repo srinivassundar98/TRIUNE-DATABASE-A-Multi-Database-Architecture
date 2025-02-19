@@ -1,0 +1,95 @@
+{
+    "created_at": "Sat Apr 25 12:29:17 +0000 2020",
+    "id": 1254024681163718656,
+    "id_str": "1254024681163718656",
+    "text": "Wollt ihr alle nur kleine Pünktchen sein? https://t.co/4it26VTOfQ via @zeitonline",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 26546083,
+        "id_str": "26546083",
+        "name": "Soogle",
+        "screen_name": "Soogle42",
+        "location": "Germany",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 42,
+        "friends_count": 203,
+        "listed_count": 1,
+        "favourites_count": 540,
+        "statuses_count": 898,
+        "created_at": "Wed Mar 25 17:40:05 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/109785104/cathat_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/109785104/cathat_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/4it26VTOfQ",
+                "expanded_url": "https://www.zeit.de/wissen/2020-04/corona-pandemie-ausgangssperren-demokratie-staat-freiheit-alfred-nordmann?wt_zmc=sm.ext.zonaudev.twitter.ref.zeitde.share.link.x",
+                "display_url": "zeit.de/wissen/2020-04…",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "zeitonline",
+                "name": "ZEIT ONLINE",
+                "id": 5715752,
+                "id_str": "5715752",
+                "indices": [
+                    70,
+                    81
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587817757298"
+}

@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:49:59 +0000 2020",
+    "id": 1254044989769814019,
+    "id_str": "1254044989769814019",
+    "text": "@malumiessa Vc vai morre pô, corona vírus",
+    "display_text_range": [
+        12,
+        41
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253881878689583108,
+    "in_reply_to_status_id_str": "1253881878689583108",
+    "in_reply_to_user_id": 1249898868327747584,
+    "in_reply_to_user_id_str": "1249898868327747584",
+    "in_reply_to_screen_name": "malumiessa",
+    "user": {
+        "id": 1181867138564444160,
+        "id_str": "1181867138564444160",
+        "name": "Tuti.Farina",
+        "screen_name": "FarinaTuti",
+        "location": "São Paulo, Brasil",
+        "url": null,
+        "description": "Goodbye everybody, I've got to go.\nGotta leave you all behind and face the truth.\nMama, ooh.\nI don't want to die.\nI sometimes wish I'd never been born at all.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 30,
+        "friends_count": 300,
+        "listed_count": 0,
+        "favourites_count": 2577,
+        "statuses_count": 667,
+        "created_at": "Wed Oct 09 09:41:13 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236975252783222784/pfkp14ag_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236975252783222784/pfkp14ag_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1181867138564444160/1580379552",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "68e019afec7d0ba5",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json",
+        "place_type": "city",
+        "name": "São Paulo",
+        "full_name": "São Paulo, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "malumiessa",
+                "name": "ML",
+                "id": 1249898868327747584,
+                "id_str": "1249898868327747584",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587822599247"
+}

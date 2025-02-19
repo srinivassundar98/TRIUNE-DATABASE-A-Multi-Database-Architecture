@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:54:45 +0000 2020",
+    "id": 1254031092170067969,
+    "id_str": "1254031092170067969",
+    "text": "@zwitsal1908 @vitaenluc In Antwerpen zijn de tunnels zo overvol ( in pré corona tijden ) dat men terug boten heeft ingelast.",
+    "display_text_range": [
+        24,
+        124
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253942402710208512,
+    "in_reply_to_status_id_str": "1253942402710208512",
+    "in_reply_to_user_id": 1193481422771765248,
+    "in_reply_to_user_id_str": "1193481422771765248",
+    "in_reply_to_screen_name": "zwitsal1908",
+    "user": {
+        "id": 736465192545062912,
+        "id_str": "736465192545062912",
+        "name": "scripta manent",
+        "screen_name": "vrints_annemie",
+        "location": "Kontich, België",
+        "url": null,
+        "description": "Not the world,but homo stupidus.",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 506,
+        "friends_count": 905,
+        "listed_count": 2,
+        "favourites_count": 12236,
+        "statuses_count": 14828,
+        "created_at": "Sat May 28 07:52:39 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/811549328997228544/zIyYlPID_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/811549328997228544/zIyYlPID_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/736465192545062912/1495971533",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "zwitsal1908",
+                "name": "Ronald",
+                "id": 1193481422771765248,
+                "id_str": "1193481422771765248",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "vitaenluc",
+                "name": "Renee",
+                "id": 14982053,
+                "id_str": "14982053",
+                "indices": [
+                    13,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587819285801"
+}

@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 14:27:38 +0000 2020",
+    "id": 1254054466740989952,
+    "id_str": "1254054466740989952",
+    "text": "@schuerm1 @BaSchaffner @NZZ Touristen und Reisen = höhere Verbreitung von Corona. Darüber schonmal nachgedacht?",
+    "display_text_range": [
+        28,
+        111
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253742154758963201,
+    "in_reply_to_status_id_str": "1253742154758963201",
+    "in_reply_to_user_id": 815200226474606592,
+    "in_reply_to_user_id_str": "815200226474606592",
+    "in_reply_to_screen_name": "schuerm1",
+    "user": {
+        "id": 3299583934,
+        "id_str": "3299583934",
+        "name": "Konstantin",
+        "screen_name": "DerMalko",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 27,
+        "friends_count": 84,
+        "listed_count": 0,
+        "favourites_count": 6145,
+        "statuses_count": 1414,
+        "created_at": "Tue May 26 17:09:09 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079401090410520579/NbQi9RbB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079401090410520579/NbQi9RbB_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "schuerm1",
+                "name": "Gerhard Schuermann",
+                "id": 815200226474606592,
+                "id_str": "815200226474606592",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "BaSchaffner",
+                "name": "Barbara Schaffner",
+                "id": 217215723,
+                "id_str": "217215723",
+                "indices": [
+                    10,
+                    22
+                ]
+            },
+            {
+                "screen_name": "NZZ",
+                "name": "Neue Zürcher Zeitung",
+                "id": 14273050,
+                "id_str": "14273050",
+                "indices": [
+                    23,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824858733"
+}

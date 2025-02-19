@@ -1,0 +1,202 @@
+{
+    "created_at": "Sun Apr 12 18:41:05 +0000 2020",
+    "id": 1249407207508246529,
+    "id_str": "1249407207508246529",
+    "text": "@Mike_Pence @VP @realDonaldTrump @FLOTUS @SecondLady I saw that even lions do not hunt patients, but I am very sad… https://t.co/kpsZ7I5c8B",
+    "display_text_range": [
+        53,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1248414921080983552,
+    "in_reply_to_status_id_str": "1248414921080983552",
+    "in_reply_to_user_id": 22203756,
+    "in_reply_to_user_id_str": "22203756",
+    "in_reply_to_screen_name": "Mike_Pence",
+    "user": {
+        "id": 1244159558005805056,
+        "id_str": "1244159558005805056",
+        "name": "Samad ghorbani",
+        "screen_name": "ghorbani_samad",
+        "location": null,
+        "url": null,
+        "description": "Love",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 3,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 8,
+        "created_at": "Sun Mar 29 07:09:02 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244159878261809152/WJ7EHTse_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244159878261809152/WJ7EHTse_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Mike_Pence @VP @realDonaldTrump @FLOTUS @SecondLady I saw that even lions do not hunt patients, but I am very sad that at the time of Corona, sanctions against Iran are still in force.\nPhysicians, nurses and patients, are still dying due to deficiencies.\nWe are waiting for the voices of civilized people to lift the sanctions",
+        "display_text_range": [
+            53,
+            327
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Mike_Pence",
+                    "name": "Mike Pence",
+                    "id": 22203756,
+                    "id_str": "22203756",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "VP",
+                    "name": "Vice President Mike Pence",
+                    "id": 818910970567344128,
+                    "id_str": "818910970567344128",
+                    "indices": [
+                        12,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "FLOTUS",
+                    "name": "Melania Trump",
+                    "id": 818876014390603776,
+                    "id_str": "818876014390603776",
+                    "indices": [
+                        33,
+                        40
+                    ]
+                },
+                {
+                    "screen_name": "SecondLady",
+                    "name": "Second Lady Karen Pence",
+                    "id": 822127086194348032,
+                    "id_str": "822127086194348032",
+                    "indices": [
+                        41,
+                        52
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/kpsZ7I5c8B",
+                "expanded_url": "https://twitter.com/i/web/status/1249407207508246529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Mike_Pence",
+                "name": "Mike Pence",
+                "id": 22203756,
+                "id_str": "22203756",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "VP",
+                "name": "Vice President Mike Pence",
+                "id": 818910970567344128,
+                "id_str": "818910970567344128",
+                "indices": [
+                    12,
+                    15
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    16,
+                    32
+                ]
+            },
+            {
+                "screen_name": "FLOTUS",
+                "name": "Melania Trump",
+                "id": 818876014390603776,
+                "id_str": "818876014390603776",
+                "indices": [
+                    33,
+                    40
+                ]
+            },
+            {
+                "screen_name": "SecondLady",
+                "name": "Second Lady Karen Pence",
+                "id": 822127086194348032,
+                "id_str": "822127086194348032",
+                "indices": [
+                    41,
+                    52
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716865790"
+}

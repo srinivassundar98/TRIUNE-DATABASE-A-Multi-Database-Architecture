@@ -1,0 +1,159 @@
+{
+    "created_at": "Sun Apr 12 18:32:37 +0000 2020",
+    "id": 1249405077451952128,
+    "id_str": "1249405077451952128",
+    "text": "CORONAVIRUS: VACCINO anti Covid-19 forse PRONTO prima del previsto. Partita la SPERIMENTAZIONE sull'Uomo… https://t.co/gpjvTgGLbw",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2454559204,
+        "id_str": "2454559204",
+        "name": "simone graziosi",
+        "screen_name": "simonegraziosi2",
+        "location": "Bergamo",
+        "url": null,
+        "description": "Faccio il lavoro più bello del mondo\nIn un centro riabilitativo psichiatrico",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2592,
+        "friends_count": 4131,
+        "listed_count": 52,
+        "favourites_count": 80752,
+        "statuses_count": 61725,
+        "created_at": "Wed Apr 02 09:28:54 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081572324292395012/euoRLVRu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081572324292395012/euoRLVRu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2454559204/1466256948",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3f0b5e0668b2fd3c",
+        "url": "https://api.twitter.com/1.1/geo/id/3f0b5e0668b2fd3c.json",
+        "place_type": "city",
+        "name": "San Giovanni Bianco",
+        "full_name": "San Giovanni Bianco, Lombardia",
+        "country_code": "IT",
+        "country": "Italia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        9.607744,
+                        45.852904
+                    ],
+                    [
+                        9.607744,
+                        45.920015
+                    ],
+                    [
+                        9.68987,
+                        45.920015
+                    ],
+                    [
+                        9.68987,
+                        45.852904
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "CORONAVIRUS: VACCINO anti Covid-19 forse PRONTO prima del previsto. Partita la SPERIMENTAZIONE sull'Uomo https://t.co/wj9M4IpGuE #meteo via @ilmeteoit",
+        "display_text_range": [
+            0,
+            150
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "meteo",
+                    "indices": [
+                        129,
+                        135
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/wj9M4IpGuE",
+                    "expanded_url": "https://www.ilmeteo.it/notizie/coronavirus-vaccino-anti-covid19-forse-pronto-prima-del-previsto-partita-la-sperimentazione-sulluomo/amp?utm_campaign=pulsanti_social&utm_source=twitter&utm_medium=news_amp",
+                    "display_url": "ilmeteo.it/notizie/corona…",
+                    "indices": [
+                        105,
+                        128
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "ilmeteoit",
+                    "name": "IL METEO.it",
+                    "id": 54717228,
+                    "id_str": "54717228",
+                    "indices": [
+                        140,
+                        150
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gpjvTgGLbw",
+                "expanded_url": "https://twitter.com/i/web/status/1249405077451952128",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    106,
+                    129
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1586716357945"
+}

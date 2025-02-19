@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 12:56:13 +0000 2020",
+    "id": 1254031458093629440,
+    "id_str": "1254031458093629440",
+    "text": "@Marcelo56341858 @gustavoeloy635 @PatoBullrich @alferdez Un pais donde vivis vos , si tanto no te gusta, andate a E… https://t.co/5c26OvAfH0",
+    "display_text_range": [
+        57,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253844130339459079,
+    "in_reply_to_status_id_str": "1253844130339459079",
+    "in_reply_to_user_id": 1013279844518547456,
+    "in_reply_to_user_id_str": "1013279844518547456",
+    "in_reply_to_screen_name": "Marcelo56341858",
+    "user": {
+        "id": 1214495710634283008,
+        "id_str": "1214495710634283008",
+        "name": "GUSTAVO ADOLFO",
+        "screen_name": "GUSTAVO19030744",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 7,
+        "listed_count": 0,
+        "favourites_count": 11,
+        "statuses_count": 332,
+        "created_at": "Tue Jan 07 10:35:35 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214495969351544832/OoY9lWr0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214495969351544832/OoY9lWr0_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Marcelo56341858 @gustavoeloy635 @PatoBullrich @alferdez Un pais donde vivis vos , si tanto no te gusta, andate a EEUU asi te moris de corona, nos haces un favor VIEJO DE MIERDA",
+        "display_text_range": [
+            57,
+            177
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Marcelo56341858",
+                    "name": "MarceDuarte 🇦🇷🎩🎲",
+                    "id": 1013279844518547456,
+                    "id_str": "1013279844518547456",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "gustavoeloy635",
+                    "name": "GUSTAVO 🦊",
+                    "id": 938781767397511168,
+                    "id_str": "938781767397511168",
+                    "indices": [
+                        17,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "PatoBullrich",
+                    "name": "Patricia Bullrich",
+                    "id": 54414081,
+                    "id_str": "54414081",
+                    "indices": [
+                        33,
+                        46
+                    ]
+                },
+                {
+                    "screen_name": "alferdez",
+                    "name": "Alberto Fernández",
+                    "id": 149991703,
+                    "id_str": "149991703",
+                    "indices": [
+                        47,
+                        56
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/5c26OvAfH0",
+                "expanded_url": "https://twitter.com/i/web/status/1254031458093629440",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Marcelo56341858",
+                "name": "MarceDuarte 🇦🇷🎩🎲",
+                "id": 1013279844518547456,
+                "id_str": "1013279844518547456",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "gustavoeloy635",
+                "name": "GUSTAVO 🦊",
+                "id": 938781767397511168,
+                "id_str": "938781767397511168",
+                "indices": [
+                    17,
+                    32
+                ]
+            },
+            {
+                "screen_name": "PatoBullrich",
+                "name": "Patricia Bullrich",
+                "id": 54414081,
+                "id_str": "54414081",
+                "indices": [
+                    33,
+                    46
+                ]
+            },
+            {
+                "screen_name": "alferdez",
+                "name": "Alberto Fernández",
+                "id": 149991703,
+                "id_str": "149991703",
+                "indices": [
+                    47,
+                    56
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587819373044"
+}

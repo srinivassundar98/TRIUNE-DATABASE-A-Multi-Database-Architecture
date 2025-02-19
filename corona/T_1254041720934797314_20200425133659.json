@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 13:36:59 +0000 2020",
+    "id": 1254041720934797314,
+    "id_str": "1254041720934797314",
+    "text": "@zahidkhan_ind @anjanaomkashyap Desh m toh Modiji ka raj sab sahi! \nBaki corona toh puri duniya m h or sab lad rhe… https://t.co/Mq8DgvkvAZ",
+    "display_text_range": [
+        32,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254032995398430726,
+    "in_reply_to_status_id_str": "1254032995398430726",
+    "in_reply_to_user_id": 1191446757856575488,
+    "in_reply_to_user_id_str": "1191446757856575488",
+    "in_reply_to_screen_name": "zahidkhan_ind",
+    "user": {
+        "id": 1244923450621222912,
+        "id_str": "1244923450621222912",
+        "name": "Arjun Singh",
+        "screen_name": "ArjunSi74857282",
+        "location": null,
+        "url": null,
+        "description": "jai shree RAM jai ma bhawani\njai hind\ni love hindustan",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 17,
+        "friends_count": 85,
+        "listed_count": 0,
+        "favourites_count": 926,
+        "statuses_count": 218,
+        "created_at": "Tue Mar 31 09:44:36 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252557176025088000/xNUpfxuC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252557176025088000/xNUpfxuC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244923450621222912/1587625614",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@zahidkhan_ind @anjanaomkashyap Desh m toh Modiji ka raj sab sahi! \nBaki corona toh puri duniya m h or sab lad rhe h usse. \nU Don't worry about country conditions. \nNamo sir sab dekh lenge\nJai hind 🇮🇳",
+        "display_text_range": [
+            32,
+            200
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "zahidkhan_ind",
+                    "name": "Zahid Khan",
+                    "id": 1191446757856575488,
+                    "id_str": "1191446757856575488",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "anjanaomkashyap",
+                    "name": "Anjana Om Kashyap",
+                    "id": 101215084,
+                    "id_str": "101215084",
+                    "indices": [
+                        15,
+                        31
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Mq8DgvkvAZ",
+                "expanded_url": "https://twitter.com/i/web/status/1254041720934797314",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "zahidkhan_ind",
+                "name": "Zahid Khan",
+                "id": 1191446757856575488,
+                "id_str": "1191446757856575488",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "anjanaomkashyap",
+                "name": "Anjana Om Kashyap",
+                "id": 101215084,
+                "id_str": "101215084",
+                "indices": [
+                    15,
+                    31
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587821819896"
+}

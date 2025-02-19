@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 12:44:39 +0000 2020",
+    "id": 1254028551248109568,
+    "id_str": "1254028551248109568",
+    "text": "@LawrenceGostin This is currently, covid-19 is a \"novel\" or \"new\" type of corona, no enough research but I can see… https://t.co/hPWdrzT6ui",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254027459730825217,
+    "in_reply_to_status_id_str": "1254027459730825217",
+    "in_reply_to_user_id": 1270238612,
+    "in_reply_to_user_id_str": "1270238612",
+    "in_reply_to_screen_name": "LawrenceGostin",
+    "user": {
+        "id": 1154954247764623361,
+        "id_str": "1154954247764623361",
+        "name": "Hl_scientist",
+        "screen_name": "HlScientist",
+        "location": "Black Mesa, New mexico.",
+        "url": null,
+        "description": "Not a real scientist, but I am DAMN good at research!\nGaming is my hobby, debunking misinformation.\nrespectable, luvs a good informal talk.\n\nHello gordon...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 31,
+        "listed_count": 0,
+        "favourites_count": 420,
+        "statuses_count": 1281,
+        "created_at": "Sat Jul 27 03:18:45 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154954354820096000/-s6WXFxb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154954354820096000/-s6WXFxb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154954247764623361/1587818250",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@LawrenceGostin This is currently, covid-19 is a \"novel\" or \"new\" type of corona, no enough research but I can see this mistake being made. cheers!",
+        "display_text_range": [
+            16,
+            147
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LawrenceGostin",
+                    "name": "Lawrence Gostin",
+                    "id": 1270238612,
+                    "id_str": "1270238612",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/hPWdrzT6ui",
+                "expanded_url": "https://twitter.com/i/web/status/1254028551248109568",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "LawrenceGostin",
+                "name": "Lawrence Gostin",
+                "id": 1270238612,
+                "id_str": "1270238612",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818679998"
+}

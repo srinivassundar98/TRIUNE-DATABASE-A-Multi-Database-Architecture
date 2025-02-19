@@ -1,0 +1,285 @@
+{
+    "created_at": "Sat Apr 25 14:16:29 +0000 2020",
+    "id": 1254051658688081920,
+    "id_str": "1254051658688081920",
+    "text": "freut sich auf einen leckeren Kuchen zum Jubiläum „3 Monate Corona“.\n#FlattenTheCurve\n#KuchenAtHome\n#StayHome… https://t.co/FD5o103p0V",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://www.swarmapp.com\" rel=\"nofollow\">Foursquare Swarm</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 245009241,
+        "id_str": "245009241",
+        "name": "Jörg Eyerdam",
+        "screen_name": "Eyerdam",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 30,
+        "friends_count": 157,
+        "listed_count": 6,
+        "favourites_count": 0,
+        "statuses_count": 3597,
+        "created_at": "Sun Jan 30 17:20:43 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/812406648480399360/Xhj7nASE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/812406648480399360/Xhj7nASE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245009241/1482539876",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            48.63569385,
+            8.58361104
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            8.58361104,
+            48.63569385
+        ]
+    },
+    "place": {
+        "id": "085ef8615e4c7631",
+        "url": "https://api.twitter.com/1.1/geo/id/085ef8615e4c7631.json",
+        "place_type": "city",
+        "name": "Neuweiler",
+        "full_name": "Neuweiler, Deutschland",
+        "country_code": "DE",
+        "country": "Germany",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        8.543182,
+                        48.614582
+                    ],
+                    [
+                        8.543182,
+                        48.72854
+                    ],
+                    [
+                        8.663222,
+                        48.72854
+                    ],
+                    [
+                        8.663222,
+                        48.614582
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "freut sich auf einen leckeren Kuchen zum Jubiläum „3 Monate Corona“.\n#FlattenTheCurve\n#KuchenAtHome\n#StayHome\n#WirBleibenZuhause (@ Jörg's Home) https://t.co/fGWFrRYc4u https://t.co/cvpTUtlvEe",
+        "display_text_range": [
+            0,
+            168
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FlattenTheCurve",
+                    "indices": [
+                        69,
+                        85
+                    ]
+                },
+                {
+                    "text": "KuchenAtHome",
+                    "indices": [
+                        86,
+                        99
+                    ]
+                },
+                {
+                    "text": "StayHome",
+                    "indices": [
+                        100,
+                        109
+                    ]
+                },
+                {
+                    "text": "WirBleibenZuhause",
+                    "indices": [
+                        110,
+                        128
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/fGWFrRYc4u",
+                    "expanded_url": "https://www.swarmapp.com/c/idsnvtcBWGv",
+                    "display_url": "swarmapp.com/c/idsnvtcBWGv",
+                    "indices": [
+                        145,
+                        168
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254051656565764099,
+                    "id_str": "1254051656565764099",
+                    "indices": [
+                        169,
+                        192
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJVl-XsAMFGfi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJVl-XsAMFGfi.jpg",
+                    "url": "https://t.co/cvpTUtlvEe",
+                    "display_url": "pic.twitter.com/cvpTUtlvEe",
+                    "expanded_url": "https://twitter.com/Eyerdam/status/1254051658688081920/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1440,
+                            "h": 1920,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254051656565764099,
+                    "id_str": "1254051656565764099",
+                    "indices": [
+                        169,
+                        192
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJVl-XsAMFGfi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJVl-XsAMFGfi.jpg",
+                    "url": "https://t.co/cvpTUtlvEe",
+                    "display_url": "pic.twitter.com/cvpTUtlvEe",
+                    "expanded_url": "https://twitter.com/Eyerdam/status/1254051658688081920/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1440,
+                            "h": 1920,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FlattenTheCurve",
+                "indices": [
+                    69,
+                    85
+                ]
+            },
+            {
+                "text": "KuchenAtHome",
+                "indices": [
+                    86,
+                    99
+                ]
+            },
+            {
+                "text": "StayHome",
+                "indices": [
+                    100,
+                    109
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/FD5o103p0V",
+                "expanded_url": "https://twitter.com/i/web/status/1254051658688081920",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824189241"
+}

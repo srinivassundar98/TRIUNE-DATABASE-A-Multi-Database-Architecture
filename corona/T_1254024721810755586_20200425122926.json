@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 12:29:26 +0000 2020",
+    "id": 1254024721810755586,
+    "id_str": "1254024721810755586",
+    "text": "@Shortguy @tldtoday @PhillyD Yeah side effects are a thing with every medication. The article literally states that… https://t.co/xbPgpsRwc1",
+    "display_text_range": [
+        29,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253987504388096000,
+    "in_reply_to_status_id_str": "1253987504388096000",
+    "in_reply_to_user_id": 259972213,
+    "in_reply_to_user_id_str": "259972213",
+    "in_reply_to_screen_name": "Shortguy",
+    "user": {
+        "id": 939484290533986304,
+        "id_str": "939484290533986304",
+        "name": "James Richardson",
+        "screen_name": "PB_JamesR",
+        "location": "Waterbury, CT",
+        "url": null,
+        "description": "Just a guy.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 24,
+        "friends_count": 55,
+        "listed_count": 1,
+        "favourites_count": 5649,
+        "statuses_count": 1146,
+        "created_at": "Sat Dec 09 13:18:04 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233875503918014464/S6fkdleq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233875503918014464/S6fkdleq_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Shortguy @tldtoday @PhillyD Yeah side effects are a thing with every medication. The article literally states that it was a side effect with less than 24 patients. Considering thousands of ppl have been prescribed Hydroxychloroquine for corona virus treatment it’s an uncommon side effect.",
+        "display_text_range": [
+            29,
+            290
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Shortguy",
+                    "name": "kevshorty",
+                    "id": 259972213,
+                    "id_str": "259972213",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "tldtoday",
+                    "name": "Jonathan Morrison 🙋🏻‍♂️",
+                    "id": 126124275,
+                    "id_str": "126124275",
+                    "indices": [
+                        10,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "PhillyD",
+                    "name": "Philip DeFranco",
+                    "id": 6351572,
+                    "id_str": "6351572",
+                    "indices": [
+                        20,
+                        28
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/xbPgpsRwc1",
+                "expanded_url": "https://twitter.com/i/web/status/1254024721810755586",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Shortguy",
+                "name": "kevshorty",
+                "id": 259972213,
+                "id_str": "259972213",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "tldtoday",
+                "name": "Jonathan Morrison 🙋🏻‍♂️",
+                "id": 126124275,
+                "id_str": "126124275",
+                "indices": [
+                    10,
+                    19
+                ]
+            },
+            {
+                "screen_name": "PhillyD",
+                "name": "Philip DeFranco",
+                "id": 6351572,
+                "id_str": "6351572",
+                "indices": [
+                    20,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817766989"
+}

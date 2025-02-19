@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 13:20:42 +0000 2020",
+    "id": 1254037623066124289,
+    "id_str": "1254037623066124289",
+    "text": "Selama Corona ini semakin banyak orang Multi Talent bermunculan, mulai dari menjadi Chef dadakan , Beauty Vlogger d… https://t.co/G1vUDokFB4",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1107654702362058752,
+        "id_str": "1107654702362058752",
+        "name": "SangPecintapiSang",
+        "screen_name": "akucintapisang",
+        "location": "📍 Jakarta , Indonesia",
+        "url": "http://instagram.com/mfitriyaaan",
+        "description": "Apapun Pisangnya, Aku suka 🤤",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 22,
+        "friends_count": 86,
+        "listed_count": 0,
+        "favourites_count": 401,
+        "statuses_count": 623,
+        "created_at": "Mon Mar 18 14:47:15 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252231511333466112/lcdVJNJN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252231511333466112/lcdVJNJN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1107654702362058752/1585770990",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "bf01cad1aa4e7bed",
+        "url": "https://api.twitter.com/1.1/geo/id/bf01cad1aa4e7bed.json",
+        "place_type": "city",
+        "name": "Bekasi Selatan",
+        "full_name": "Bekasi Selatan, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.956558,
+                        -6.26807
+                    ],
+                    [
+                        106.956558,
+                        -6.203595
+                    ],
+                    [
+                        107.019722,
+                        -6.203595
+                    ],
+                    [
+                        107.019722,
+                        -6.26807
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Selama Corona ini semakin banyak orang Multi Talent bermunculan, mulai dari menjadi Chef dadakan , Beauty Vlogger dadakan , Workout Addict dadakan , dsb.\nBagus banget.",
+        "display_text_range": [
+            0,
+            167
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/G1vUDokFB4",
+                "expanded_url": "https://twitter.com/i/web/status/1254037623066124289",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587820842888"
+}

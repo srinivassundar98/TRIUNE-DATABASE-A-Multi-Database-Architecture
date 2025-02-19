@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 14:04:17 +0000 2020",
+    "id": 1254048588918927366,
+    "id_str": "1254048588918927366",
+    "text": "@RecursionError @BOFH72 @ThomasVerheugen @KolbaPeter Aber genau das können die.Rechtsmediziner eben nicht sagen. In… https://t.co/RYvZYdlCI5",
+    "display_text_range": [
+        53,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1252118005548490752,
+    "in_reply_to_status_id_str": "1252118005548490752",
+    "in_reply_to_user_id": 292562292,
+    "in_reply_to_user_id_str": "292562292",
+    "in_reply_to_screen_name": "RecursionError",
+    "user": {
+        "id": 1249485928193650688,
+        "id_str": "1249485928193650688",
+        "name": "CriticalCitizen",
+        "screen_name": "Russels_Tea_Pot",
+        "location": null,
+        "url": null,
+        "description": "Ni dieu, ni maître.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 20,
+        "listed_count": 0,
+        "favourites_count": 134,
+        "statuses_count": 235,
+        "created_at": "Sun Apr 12 23:54:20 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250525047955034113/pLRKL4cD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250525047955034113/pLRKL4cD_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@RecursionError @BOFH72 @ThomasVerheugen @KolbaPeter Aber genau das können die.Rechtsmediziner eben nicht sagen. In Hamburg konnte nicht bei einem einzigen Obduzierten nachgewiesen werden, dass Corona ursächlich für den Tod war.",
+        "display_text_range": [
+            53,
+            228
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RecursionError",
+                    "name": "AssertionError",
+                    "id": 292562292,
+                    "id_str": "292562292",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "BOFH72",
+                    "name": "B.O.f.H.",
+                    "id": 23298925,
+                    "id_str": "23298925",
+                    "indices": [
+                        16,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "ThomasVerheugen",
+                    "name": "Thomas Verheugen",
+                    "id": 1471991683,
+                    "id_str": "1471991683",
+                    "indices": [
+                        24,
+                        40
+                    ]
+                },
+                {
+                    "screen_name": "KolbaPeter",
+                    "name": "Peter Kolba",
+                    "id": 3170949297,
+                    "id_str": "3170949297",
+                    "indices": [
+                        41,
+                        52
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/RYvZYdlCI5",
+                "expanded_url": "https://twitter.com/i/web/status/1254048588918927366",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RecursionError",
+                "name": "AssertionError",
+                "id": 292562292,
+                "id_str": "292562292",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "BOFH72",
+                "name": "B.O.f.H.",
+                "id": 23298925,
+                "id_str": "23298925",
+                "indices": [
+                    16,
+                    23
+                ]
+            },
+            {
+                "screen_name": "ThomasVerheugen",
+                "name": "Thomas Verheugen",
+                "id": 1471991683,
+                "id_str": "1471991683",
+                "indices": [
+                    24,
+                    40
+                ]
+            },
+            {
+                "screen_name": "KolbaPeter",
+                "name": "Peter Kolba",
+                "id": 3170949297,
+                "id_str": "3170949297",
+                "indices": [
+                    41,
+                    52
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823457351"
+}

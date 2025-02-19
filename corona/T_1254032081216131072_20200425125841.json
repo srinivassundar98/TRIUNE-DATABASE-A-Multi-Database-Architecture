@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 12:58:41 +0000 2020",
+    "id": 1254032081216131072,
+    "id_str": "1254032081216131072",
+    "text": "@RaunakVerma18 @MontyPanesar @englandcricket Corona k mahaul mein pani sar k upar se jaa ria hai aur tumko panesar k bday ki padi hai",
+    "display_text_range": [
+        45,
+        133
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253856638219370496,
+    "in_reply_to_status_id_str": "1253856638219370496",
+    "in_reply_to_user_id": 2865672372,
+    "in_reply_to_user_id_str": "2865672372",
+    "in_reply_to_screen_name": "RaunakVerma18",
+    "user": {
+        "id": 1243746788089065472,
+        "id_str": "1243746788089065472",
+        "name": "Shreyans",
+        "screen_name": "Shreyan58065124",
+        "location": null,
+        "url": null,
+        "description": "passionate",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 10,
+        "listed_count": 0,
+        "favourites_count": 2,
+        "statuses_count": 33,
+        "created_at": "Sat Mar 28 03:48:51 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244583112144642048/jFY9WOPG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244583112144642048/jFY9WOPG_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "RaunakVerma18",
+                "name": "Raunak Verma",
+                "id": 2865672372,
+                "id_str": "2865672372",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "MontyPanesar",
+                "name": "Monty Panesar",
+                "id": 235900469,
+                "id_str": "235900469",
+                "indices": [
+                    15,
+                    28
+                ]
+            },
+            {
+                "screen_name": "englandcricket",
+                "name": "England Cricket",
+                "id": 3017241909,
+                "id_str": "3017241909",
+                "indices": [
+                    29,
+                    44
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587819521608"
+}

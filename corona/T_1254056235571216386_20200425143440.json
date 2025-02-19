@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Apr 25 14:34:40 +0000 2020",
+    "id": 1254056235571216386,
+    "id_str": "1254056235571216386",
+    "text": "@RBReich @MMViverito Underlying health conditions ...\n\n94% of NYC coronavirus hospital patients suffered from under… https://t.co/aE7xdbc3A8",
+    "display_text_range": [
+        21,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254050757504098304,
+    "in_reply_to_status_id_str": "1254050757504098304",
+    "in_reply_to_user_id": 148529707,
+    "in_reply_to_user_id_str": "148529707",
+    "in_reply_to_screen_name": "RBReich",
+    "user": {
+        "id": 2358140120,
+        "id_str": "2358140120",
+        "name": "Liza Smith",
+        "screen_name": "LizaSoho",
+        "location": "Manhattan, NY",
+        "url": null,
+        "description": "New Yorker, Independent Thinker, Editor, Book PR, Millennial ... WARNING: I block ignorance & hate.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1976,
+        "friends_count": 422,
+        "listed_count": 15,
+        "favourites_count": 2212,
+        "statuses_count": 31934,
+        "created_at": "Sun Feb 23 15:33:46 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/437615272862576640/p6XWq3R-_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/437615272862576640/p6XWq3R-_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2358140120/1393170663",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@RBReich @MMViverito Underlying health conditions ...\n\n94% of NYC coronavirus hospital patients suffered from underlying health condition: Study\nhttps://t.co/ayQ0jANUMm",
+        "display_text_range": [
+            21,
+            168
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ayQ0jANUMm",
+                    "expanded_url": "https://time.com/5825485/coronavirus-risk-factors/",
+                    "display_url": "time.com/5825485/corona…",
+                    "indices": [
+                        145,
+                        168
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "RBReich",
+                    "name": "Robert Reich",
+                    "id": 148529707,
+                    "id_str": "148529707",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "MMViverito",
+                    "name": "Melissa Mark-Viverito",
+                    "id": 94013297,
+                    "id_str": "94013297",
+                    "indices": [
+                        9,
+                        20
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/aE7xdbc3A8",
+                "expanded_url": "https://twitter.com/i/web/status/1254056235571216386",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RBReich",
+                "name": "Robert Reich",
+                "id": 148529707,
+                "id_str": "148529707",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "MMViverito",
+                "name": "Melissa Mark-Viverito",
+                "id": 94013297,
+                "id_str": "94013297",
+                "indices": [
+                    9,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825280455"
+}

@@ -1,0 +1,264 @@
+{
+    "created_at": "Sat Apr 25 14:11:56 +0000 2020",
+    "id": 1254050514033090566,
+    "id_str": "1254050514033090566",
+    "text": "@MaartenNauw @albertheijn @VegaSlager @WeekZonderVlees @GreenProteinAll @hetkanWel @ProVegNL Te gek! Misschien heef… https://t.co/CZygHJFdGg",
+    "display_text_range": [
+        93,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254045611063640066,
+    "in_reply_to_status_id_str": "1254045611063640066",
+    "in_reply_to_user_id": 20426768,
+    "in_reply_to_user_id_str": "20426768",
+    "in_reply_to_screen_name": "MaartenNauw",
+    "user": {
+        "id": 718789990826819584,
+        "id_str": "718789990826819584",
+        "name": "Even Geen Vlees",
+        "screen_name": "evengeenvlees",
+        "location": "Amsterdam, The Netherlands",
+        "url": "https://evengeenvlees.nl/link-in-bio/",
+        "description": "Beheerd door Armanda. Plantaardig eten is goed voor je gezondheid, het klimaat en de dieren.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1615,
+        "friends_count": 947,
+        "listed_count": 18,
+        "favourites_count": 3353,
+        "statuses_count": 4015,
+        "created_at": "Sat Apr 09 13:17:43 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/771314239067852800/iPTTDj34_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/771314239067852800/iPTTDj34_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/718789990826819584/1544194665",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@MaartenNauw @albertheijn @VegaSlager @WeekZonderVlees @GreenProteinAll @hetkanWel @ProVegNL Te gek! Misschien heeft @albertheijn inmiddels ook door dat dieren zo snel mogelijk de voedselketens uit moeten. https://t.co/3F8Tctvaxg",
+        "display_text_range": [
+            93,
+            229
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3F8Tctvaxg",
+                    "expanded_url": "https://www.oneworld.nl/lezen/opinie/waarom-vechten-we-tegen-corona-zonder-de-oorzaak-te-bespreken/",
+                    "display_url": "oneworld.nl/lezen/opinie/w…",
+                    "indices": [
+                        206,
+                        229
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "MaartenNauw",
+                    "name": "Maarten Nauw 🐰",
+                    "id": 20426768,
+                    "id_str": "20426768",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "albertheijn",
+                    "name": "Albert Heijn",
+                    "id": 279015870,
+                    "id_str": "279015870",
+                    "indices": [
+                        13,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "VegaSlager",
+                    "name": "De Vegetarische Slager",
+                    "id": 130801203,
+                    "id_str": "130801203",
+                    "indices": [
+                        26,
+                        37
+                    ]
+                },
+                {
+                    "screen_name": "WeekZonderVlees",
+                    "name": "Week Zonder Vlees",
+                    "id": 915302305980874752,
+                    "id_str": "915302305980874752",
+                    "indices": [
+                        38,
+                        54
+                    ]
+                },
+                {
+                    "screen_name": "GreenProteinAll",
+                    "name": "GreenProteinAlliance",
+                    "id": 734773262262108160,
+                    "id_str": "734773262262108160",
+                    "indices": [
+                        55,
+                        71
+                    ]
+                },
+                {
+                    "screen_name": "hetkanWel",
+                    "name": "HetkanWEL",
+                    "id": 42374737,
+                    "id_str": "42374737",
+                    "indices": [
+                        72,
+                        82
+                    ]
+                },
+                {
+                    "screen_name": "ProVegNL",
+                    "name": "ProVeg Nederland",
+                    "id": 252604300,
+                    "id_str": "252604300",
+                    "indices": [
+                        83,
+                        92
+                    ]
+                },
+                {
+                    "screen_name": "albertheijn",
+                    "name": "Albert Heijn",
+                    "id": 279015870,
+                    "id_str": "279015870",
+                    "indices": [
+                        117,
+                        129
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/CZygHJFdGg",
+                "expanded_url": "https://twitter.com/i/web/status/1254050514033090566",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MaartenNauw",
+                "name": "Maarten Nauw 🐰",
+                "id": 20426768,
+                "id_str": "20426768",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "albertheijn",
+                "name": "Albert Heijn",
+                "id": 279015870,
+                "id_str": "279015870",
+                "indices": [
+                    13,
+                    25
+                ]
+            },
+            {
+                "screen_name": "VegaSlager",
+                "name": "De Vegetarische Slager",
+                "id": 130801203,
+                "id_str": "130801203",
+                "indices": [
+                    26,
+                    37
+                ]
+            },
+            {
+                "screen_name": "WeekZonderVlees",
+                "name": "Week Zonder Vlees",
+                "id": 915302305980874752,
+                "id_str": "915302305980874752",
+                "indices": [
+                    38,
+                    54
+                ]
+            },
+            {
+                "screen_name": "GreenProteinAll",
+                "name": "GreenProteinAlliance",
+                "id": 734773262262108160,
+                "id_str": "734773262262108160",
+                "indices": [
+                    55,
+                    71
+                ]
+            },
+            {
+                "screen_name": "hetkanWel",
+                "name": "HetkanWEL",
+                "id": 42374737,
+                "id_str": "42374737",
+                "indices": [
+                    72,
+                    82
+                ]
+            },
+            {
+                "screen_name": "ProVegNL",
+                "name": "ProVeg Nederland",
+                "id": 252604300,
+                "id_str": "252604300",
+                "indices": [
+                    83,
+                    92
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587823916334"
+}

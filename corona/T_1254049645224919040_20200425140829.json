@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat Apr 25 14:08:29 +0000 2020",
+    "id": 1254049645224919040,
+    "id_str": "1254049645224919040",
+    "text": "@GamaelBen @tagarnews https://t.co/qARgaWBgNT\n\nDah gt ajah",
+    "display_text_range": [
+        22,
+        58
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253870927529402368,
+    "in_reply_to_status_id_str": "1253870927529402368",
+    "in_reply_to_user_id": 1190311633085591552,
+    "in_reply_to_user_id_str": "1190311633085591552",
+    "in_reply_to_screen_name": "GamaelBen",
+    "user": {
+        "id": 845165226,
+        "id_str": "845165226",
+        "name": "Danny ajah",
+        "screen_name": "dannyie23",
+        "location": "Jakarta",
+        "url": null,
+        "description": "TUHAN MEMBERKATI INDONESIA",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 508,
+        "friends_count": 710,
+        "listed_count": 0,
+        "favourites_count": 213,
+        "statuses_count": 6040,
+        "created_at": "Tue Sep 25 09:10:42 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201514957453451264/xGrjG5cG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201514957453451264/xGrjG5cG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845165226/1554256809",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/qARgaWBgNT",
+                "expanded_url": "https://m.cnnindonesia.com/nasional/20200424073954-20-496789/evaluasi-psbb-dki-positif-corona-bertambah-lebih-banyak",
+                "display_url": "m.cnnindonesia.com/nasional/20200…",
+                "indices": [
+                    22,
+                    45
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "GamaelBen",
+                "name": "Elang Dwipantara 🇲🇨",
+                "id": 1190311633085591552,
+                "id_str": "1190311633085591552",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "tagarnews",
+                "name": "Tagar.id",
+                "id": 819816384230260736,
+                "id_str": "819816384230260736",
+                "indices": [
+                    11,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587823709194"
+}

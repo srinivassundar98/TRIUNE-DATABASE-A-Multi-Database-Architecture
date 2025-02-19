@@ -1,0 +1,347 @@
+{
+    "created_at": "Sun Apr 12 18:37:42 +0000 2020",
+    "id": 1249406355003322376,
+    "id_str": "1249406355003322376",
+    "text": "RT @RTLnieuws: Kun je een tweede keer zieker worden van corona? https://t.co/sMbglqDqNn https://t.co/MQaZZMkuGb",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 843461279138418688,
+        "id_str": "843461279138418688",
+        "name": "Tweety",
+        "screen_name": "j85_tweety",
+        "location": "Nederland",
+        "url": null,
+        "description": "#blijfthuis #zorgvoorelkaar #testentestentesten",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 26,
+        "friends_count": 89,
+        "listed_count": 0,
+        "favourites_count": 2769,
+        "statuses_count": 3096,
+        "created_at": "Sun Mar 19 13:56:54 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/843473836758700034/Ir6K3IhZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/843473836758700034/Ir6K3IhZ_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 18:24:45 +0000 2020",
+        "id": 1249403096582762496,
+        "id_str": "1249403096582762496",
+        "text": "Kun je een tweede keer zieker worden van corona? https://t.co/sMbglqDqNn https://t.co/MQaZZMkuGb",
+        "display_text_range": [
+            0,
+            72
+        ],
+        "source": "<a href=\"http://www.rtlnieuws.nl\" rel=\"nofollow\">rtlnieuws.nl prod web</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 20968385,
+            "id_str": "20968385",
+            "name": "RTL Nieuws",
+            "screen_name": "RTLnieuws",
+            "location": "Nederland",
+            "url": "http://www.rtlnieuws.nl",
+            "description": "Volg het nieuws terwijl het gebeurt. De laatste berichten uit binnen- en buitenland. Politiek, sport, economie, opmerkelijk nieuws. Video.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 449073,
+            "friends_count": 596,
+            "listed_count": 3216,
+            "favourites_count": 130,
+            "statuses_count": 256479,
+            "created_at": "Mon Feb 16 07:17:30 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E1E1E1",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/948470929163800576/8yYXeZbK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/948470929163800576/8yYXeZbK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20968385/1514968058",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/sMbglqDqNn",
+                    "expanded_url": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5086076/corona-corona-update-lezersvraag-immuniteit-anti-stoffen",
+                    "display_url": "rtlnieuws.nl/nieuws/nederla…",
+                    "indices": [
+                        49,
+                        72
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1249403093197996043,
+                    "id_str": "1249403093197996043",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbFfl9XQAs0qP-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbFfl9XQAs0qP-.jpg",
+                    "url": "https://t.co/MQaZZMkuGb",
+                    "display_url": "pic.twitter.com/MQaZZMkuGb",
+                    "expanded_url": "https://twitter.com/RTLnieuws/status/1249403096582762496/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1249403093197996043,
+                    "id_str": "1249403093197996043",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbFfl9XQAs0qP-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbFfl9XQAs0qP-.jpg",
+                    "url": "https://t.co/MQaZZMkuGb",
+                    "display_url": "pic.twitter.com/MQaZZMkuGb",
+                    "expanded_url": "https://twitter.com/RTLnieuws/status/1249403096582762496/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sMbglqDqNn",
+                "expanded_url": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5086076/corona-corona-update-lezersvraag-immuniteit-anti-stoffen",
+                "display_url": "rtlnieuws.nl/nieuws/nederla…",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RTLnieuws",
+                "name": "RTL Nieuws",
+                "id": 20968385,
+                "id_str": "20968385",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249403093197996043,
+                "id_str": "1249403093197996043",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbFfl9XQAs0qP-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbFfl9XQAs0qP-.jpg",
+                "url": "https://t.co/MQaZZMkuGb",
+                "display_url": "pic.twitter.com/MQaZZMkuGb",
+                "expanded_url": "https://twitter.com/RTLnieuws/status/1249403096582762496/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1249403096582762496,
+                "source_status_id_str": "1249403096582762496",
+                "source_user_id": 20968385,
+                "source_user_id_str": "20968385"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249403093197996043,
+                "id_str": "1249403093197996043",
+                "indices": [
+                    88,
+                    111
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbFfl9XQAs0qP-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbFfl9XQAs0qP-.jpg",
+                "url": "https://t.co/MQaZZMkuGb",
+                "display_url": "pic.twitter.com/MQaZZMkuGb",
+                "expanded_url": "https://twitter.com/RTLnieuws/status/1249403096582762496/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1249403096582762496,
+                "source_status_id_str": "1249403096582762496",
+                "source_user_id": 20968385,
+                "source_user_id_str": "20968385"
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586716662537"
+}

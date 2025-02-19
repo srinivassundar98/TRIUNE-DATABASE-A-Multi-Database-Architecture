@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 12:45:01 +0000 2020",
+    "id": 1254028641534709761,
+    "id_str": "1254028641534709761",
+    "text": "UPDATE 56: +378 corona-doden en +3.995 positief geteste personen in Spanje https://t.co/bC7spJM81I https://t.co/fm0DUXI0RC",
+    "display_text_range": [
+        0,
+        98
+    ],
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 19389179,
+        "id_str": "19389179",
+        "name": "SpanjeVandaag",
+        "screen_name": "Spanjevandaag",
+        "location": "Spanje",
+        "url": "http://www.spanjevandaag.com",
+        "description": "Spanjevandaag, de verzamelplaats voor het laatste Spanje nieuws in het Nederlands. Volg ons ook op Facebook, via de nieuwsbrief en http://www.spanjevandaag.com",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3655,
+        "friends_count": 21,
+        "listed_count": 56,
+        "favourites_count": 3,
+        "statuses_count": 24020,
+        "created_at": "Fri Jan 23 10:27:49 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217160812458127361/FD9iTwXN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217160812458127361/FD9iTwXN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19389179/1579028727",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/bC7spJM81I",
+                "expanded_url": "https://buff.ly/3bFWGnw",
+                "display_url": "buff.ly/3bFWGnw",
+                "indices": [
+                    75,
+                    98
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254028639890522112,
+                "id_str": "1254028639890522112",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc0Z2LXQAArlqK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc0Z2LXQAArlqK.jpg",
+                "url": "https://t.co/fm0DUXI0RC",
+                "display_url": "pic.twitter.com/fm0DUXI0RC",
+                "expanded_url": "https://twitter.com/Spanjevandaag/status/1254028641534709761/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1024,
+                        "h": 650,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 650,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 432,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254028639890522112,
+                "id_str": "1254028639890522112",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc0Z2LXQAArlqK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc0Z2LXQAArlqK.jpg",
+                "url": "https://t.co/fm0DUXI0RC",
+                "display_url": "pic.twitter.com/fm0DUXI0RC",
+                "expanded_url": "https://twitter.com/Spanjevandaag/status/1254028641534709761/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1024,
+                        "h": 650,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 650,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 432,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587818701524"
+}

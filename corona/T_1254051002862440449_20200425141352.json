@@ -1,0 +1,156 @@
+{
+    "created_at": "Sat Apr 25 14:13:52 +0000 2020",
+    "id": 1254051002862440449,
+    "id_str": "1254051002862440449",
+    "text": "China ka Corona plan https://t.co/OyHyG0BsEM",
+    "display_text_range": [
+        0,
+        20
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 811524475284049920,
+        "id_str": "811524475284049920",
+        "name": "M S CHOUDHRY NLP",
+        "screen_name": "ChoudhrySuhail",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 33,
+        "friends_count": 776,
+        "listed_count": 0,
+        "favourites_count": 1305,
+        "statuses_count": 1365,
+        "created_at": "Wed Dec 21 10:51:27 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174578216629149696/gyPv8sHG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174578216629149696/gyPv8sHG_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254050992544415744,
+                "id_str": "1254050992544415744",
+                "indices": [
+                    21,
+                    44
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdIu8TWAAA97ve.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdIu8TWAAA97ve.jpg",
+                "url": "https://t.co/OyHyG0BsEM",
+                "display_url": "pic.twitter.com/OyHyG0BsEM",
+                "expanded_url": "https://twitter.com/ChoudhrySuhail/status/1254051002862440449/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 215,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 380,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 405,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254050992544415744,
+                "id_str": "1254050992544415744",
+                "indices": [
+                    21,
+                    44
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdIu8TWAAA97ve.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdIu8TWAAA97ve.jpg",
+                "url": "https://t.co/OyHyG0BsEM",
+                "display_url": "pic.twitter.com/OyHyG0BsEM",
+                "expanded_url": "https://twitter.com/ChoudhrySuhail/status/1254051002862440449/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 215,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 380,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 405,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1587824032880"
+}

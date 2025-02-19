@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:56:13 +0000 2020",
+    "id": 1254031459117142017,
+    "id_str": "1254031459117142017",
+    "text": "@sylviasverden @schish76 Det var ikke mye Corona-frykt å observere i Bogstadveien i dag, nei. Nytt kjøpesenter har… https://t.co/Yx4O2onZtJ",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254030032315584512,
+    "in_reply_to_status_id_str": "1254030032315584512",
+    "in_reply_to_user_id": 292240384,
+    "in_reply_to_user_id_str": "292240384",
+    "in_reply_to_screen_name": "sylviasverden",
+    "user": {
+        "id": 19140661,
+        "id_str": "19140661",
+        "name": "Adrian Pedersen",
+        "screen_name": "Adriansen",
+        "location": "Oslo",
+        "url": "https://www.folkogforsvar.no",
+        "description": "Administrasjon og kommunikasjon i Folk og Forsvar. Bokorm, fanboy og bon vivant. Avdanka rocker. Uinteressert i fotball. Medlem av Tankesmien Gubbe.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3464,
+        "friends_count": 3677,
+        "listed_count": 50,
+        "favourites_count": 124898,
+        "statuses_count": 73422,
+        "created_at": "Sun Jan 18 09:32:09 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/950402632295776256/pHtVd7nu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/950402632295776256/pHtVd7nu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19140661/1515567466",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@sylviasverden @schish76 Det var ikke mye Corona-frykt å observere i Bogstadveien i dag, nei. Nytt kjøpesenter har åpnet dørene, og der inne finnes visst ikke sykdommen. Så bra, da.",
+        "display_text_range": [
+            25,
+            181
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sylviasverden",
+                    "name": "Sylvia H. Gjerdsjø",
+                    "id": 292240384,
+                    "id_str": "292240384",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "schish76",
+                    "name": "Onkelix",
+                    "id": 462799987,
+                    "id_str": "462799987",
+                    "indices": [
+                        15,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Yx4O2onZtJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254031459117142017",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sylviasverden",
+                "name": "Sylvia H. Gjerdsjø",
+                "id": 292240384,
+                "id_str": "292240384",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "schish76",
+                "name": "Onkelix",
+                "id": 462799987,
+                "id_str": "462799987",
+                "indices": [
+                    15,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "no",
+    "timestamp_ms": "1587819373288"
+}

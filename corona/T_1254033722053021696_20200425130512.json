@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 13:05:12 +0000 2020",
+    "id": 1254033722053021696,
+    "id_str": "1254033722053021696",
+    "text": "@anjumgoole @DChaurasia2312 @myogiadityanath RAVISH KA KYA KAHNA PROFESAR B CORONA FAILA RAHA THA",
+    "display_text_range": [
+        45,
+        97
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253688103883194369,
+    "in_reply_to_status_id_str": "1253688103883194369",
+    "in_reply_to_user_id": 1090673631351398400,
+    "in_reply_to_user_id_str": "1090673631351398400",
+    "in_reply_to_screen_name": "anjumgoole",
+    "user": {
+        "id": 1233440084143116288,
+        "id_str": "1233440084143116288",
+        "name": "NATIONFIRST",
+        "screen_name": "svadnanij",
+        "location": "Mumbai, India",
+        "url": null,
+        "description": "Nation",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 14,
+        "listed_count": 0,
+        "favourites_count": 279,
+        "statuses_count": 420,
+        "created_at": "Fri Feb 28 17:16:13 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233440965953634304/HseUYRmb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233440965953634304/HseUYRmb_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "anjumgoole",
+                "name": "Anjum",
+                "id": 1090673631351398400,
+                "id_str": "1090673631351398400",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "DChaurasia2312",
+                "name": "Deepak Chaurasia",
+                "id": 74457733,
+                "id_str": "74457733",
+                "indices": [
+                    12,
+                    27
+                ]
+            },
+            {
+                "screen_name": "myogiadityanath",
+                "name": "Yogi Adityanath",
+                "id": 3437532637,
+                "id_str": "3437532637",
+                "indices": [
+                    28,
+                    44
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819912814"
+}

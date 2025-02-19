@@ -1,0 +1,157 @@
+{
+    "created_at": "Sun Apr 12 18:46:11 +0000 2020",
+    "id": 1249408488964489218,
+    "id_str": "1249408488964489218",
+    "text": "Tüm türkiye corona+survivor+istifa hakkında konuşurken wonum diye zırlamamak icin zor duruyorum YİNE https://t.co/KjWgVTF445",
+    "display_text_range": [
+        0,
+        100
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 973503851436310528,
+        "id_str": "973503851436310528",
+        "name": "[17's SiSi]",
+        "screen_name": "wonutachi",
+        "location": "JEONUM WONUM",
+        "url": null,
+        "description": "only SEVENTEEN can judge me",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 361,
+        "friends_count": 453,
+        "listed_count": 8,
+        "favourites_count": 15864,
+        "statuses_count": 8084,
+        "created_at": "Tue Mar 13 10:19:39 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248012677537869824/xKRl62aM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248012677537869824/xKRl62aM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/973503851436310528/1584607710",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249408480630407169,
+                "id_str": "1249408480630407169",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKZLtWAAEa-57.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKZLtWAAEa-57.jpg",
+                "url": "https://t.co/KjWgVTF445",
+                "display_url": "pic.twitter.com/KjWgVTF445",
+                "expanded_url": "https://twitter.com/wonutachi/status/1249408488964489218/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 689,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 550,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 689,
+                        "h": 557,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249408480630407169,
+                "id_str": "1249408480630407169",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKZLtWAAEa-57.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKZLtWAAEa-57.jpg",
+                "url": "https://t.co/KjWgVTF445",
+                "display_url": "pic.twitter.com/KjWgVTF445",
+                "expanded_url": "https://twitter.com/wonutachi/status/1249408488964489218/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 689,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 550,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 689,
+                        "h": 557,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586717171313"
+}

@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 13:19:45 +0000 2020",
+    "id": 1254037381029810176,
+    "id_str": "1254037381029810176",
+    "text": "Depois que tudo foi reaberto os casos de corona aumentaram, os de suspeita duplicaram e tem uma morte de um caso su… https://t.co/uYbSLS3XUs",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 457826854,
+        "id_str": "457826854",
+        "name": "Tai Werlang",
+        "screen_name": "taiwerlang",
+        "location": "Chapecó, Santa Catarina",
+        "url": "https://www.instagram.com/taiwerlang/",
+        "description": "Eu tenho a minha alma azul celeste @Gremio | 20 outonos ♈️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2169,
+        "friends_count": 636,
+        "listed_count": 8,
+        "favourites_count": 12442,
+        "statuses_count": 79989,
+        "created_at": "Sat Jan 07 21:32:49 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F7F7F7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245573759974563841/RYl6jUD1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245573759974563841/RYl6jUD1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/457826854/1580352008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "84f19b30bbc69b59",
+        "url": "https://api.twitter.com/1.1/geo/id/84f19b30bbc69b59.json",
+        "place_type": "city",
+        "name": "Chapecó",
+        "full_name": "Chapecó, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -52.840794,
+                        -27.284294
+                    ],
+                    [
+                        -52.840794,
+                        -26.937986
+                    ],
+                    [
+                        -52.481049,
+                        -26.937986
+                    ],
+                    [
+                        -52.481049,
+                        -27.284294
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Depois que tudo foi reaberto os casos de corona aumentaram, os de suspeita duplicaram e tem uma morte de um caso suspeito, vamo morre tudo, eu q trabalho em loja to fudida",
+        "display_text_range": [
+            0,
+            171
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/uYbSLS3XUs",
+                "expanded_url": "https://twitter.com/i/web/status/1254037381029810176",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587820785182"
+}

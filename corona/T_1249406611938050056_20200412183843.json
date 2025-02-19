@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun Apr 12 18:38:43 +0000 2020",
+    "id": 1249406611938050056,
+    "id_str": "1249406611938050056",
+    "text": "@ghaffarbaloch44 Ena jan, Corona  a geptag ame wasta.",
+    "display_text_range": [
+        17,
+        53
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249406188095188996,
+    "in_reply_to_status_id_str": "1249406188095188996",
+    "in_reply_to_user_id": 2197475677,
+    "in_reply_to_user_id_str": "2197475677",
+    "in_reply_to_screen_name": "ghaffarbaloch44",
+    "user": {
+        "id": 843381629309468672,
+        "id_str": "843381629309468672",
+        "name": "Shahdad Shaad",
+        "screen_name": "shahdadshaad",
+        "location": "Gwadar, Quetta,Pakistan",
+        "url": "http://shahdadshaad.blogspot.com",
+        "description": "Instead of dreams that i wove, i only found empty shadows.  جامعہ بلوچستان",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 492,
+        "friends_count": 337,
+        "listed_count": 0,
+        "favourites_count": 2098,
+        "statuses_count": 1509,
+        "created_at": "Sun Mar 19 08:40:24 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245746371682066432/rkbq2F___normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245746371682066432/rkbq2F___normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/843381629309468672/1585843847",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01178c1d2af9a5d1",
+        "url": "https://api.twitter.com/1.1/geo/id/01178c1d2af9a5d1.json",
+        "place_type": "admin",
+        "name": "Balochistan",
+        "full_name": "Balochistan, Pakistan",
+        "country_code": "PK",
+        "country": "Pakistan",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        60.878613,
+                        24.885104
+                    ],
+                    [
+                        60.878613,
+                        32.075554
+                    ],
+                    [
+                        70.248871,
+                        32.075554
+                    ],
+                    [
+                        70.248871,
+                        24.885104
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ghaffarbaloch44",
+                "name": "Ghaffar Nazar",
+                "id": 2197475677,
+                "id_str": "2197475677",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "ca",
+    "timestamp_ms": "1586716723795"
+}

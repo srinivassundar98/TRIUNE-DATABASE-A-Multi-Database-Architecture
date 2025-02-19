@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:14:28 +0000 2020",
+    "id": 1254051153433763840,
+    "id_str": "1254051153433763840",
+    "text": "@msdaisyspotless @sumu_cux @TinaMontelino Es ist sowieso schon manchmal sehr anstrengend mit Kunden. Wer das nicht… https://t.co/rtYqDbUAgS",
+    "display_text_range": [
+        42,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254049982509920257,
+    "in_reply_to_status_id_str": "1254049982509920257",
+    "in_reply_to_user_id": 3439696829,
+    "in_reply_to_user_id_str": "3439696829",
+    "in_reply_to_screen_name": "msdaisyspotless",
+    "user": {
+        "id": 1156589876734828545,
+        "id_str": "1156589876734828545",
+        "name": "Tori",
+        "screen_name": "nordlicht_tori",
+        "location": "🇩🇪, Schleswig-Holstein",
+        "url": null,
+        "description": "Gegenwind formt den Charakter. Deswegen sind wir Norddeutschen auch so unkomplizierte Zeitgenossen! Moin!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 110,
+        "friends_count": 214,
+        "listed_count": 0,
+        "favourites_count": 2858,
+        "statuses_count": 870,
+        "created_at": "Wed Jul 31 15:38:09 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1224314398694694913/nMJbI1iY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224314398694694913/nMJbI1iY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156589876734828545/1578316810",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@msdaisyspotless @sumu_cux @TinaMontelino Es ist sowieso schon manchmal sehr anstrengend mit Kunden. Wer das nicht kennt, kann sich das gar nicht vorstellen! Aber diese Situation, die wir derzeit durch Corona haben, ist schon eine Herausforderung! Man gut, wir machen die verkaufsoffenen Sonntage nicht mit!",
+        "display_text_range": [
+            42,
+            307
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "msdaisyspotless",
+                    "name": "Miss Daisy - Gela",
+                    "id": 3439696829,
+                    "id_str": "3439696829",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "sumu_cux",
+                    "name": "Sumu (ironische Abkürzung für *Supermutti*)",
+                    "id": 784469835161960450,
+                    "id_str": "784469835161960450",
+                    "indices": [
+                        17,
+                        26
+                    ]
+                },
+                {
+                    "screen_name": "TinaMontelino",
+                    "name": "Tina🌲",
+                    "id": 882176798213197824,
+                    "id_str": "882176798213197824",
+                    "indices": [
+                        27,
+                        41
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/rtYqDbUAgS",
+                "expanded_url": "https://twitter.com/i/web/status/1254051153433763840",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "msdaisyspotless",
+                "name": "Miss Daisy - Gela",
+                "id": 3439696829,
+                "id_str": "3439696829",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "sumu_cux",
+                "name": "Sumu (ironische Abkürzung für *Supermutti*)",
+                "id": 784469835161960450,
+                "id_str": "784469835161960450",
+                "indices": [
+                    17,
+                    26
+                ]
+            },
+            {
+                "screen_name": "TinaMontelino",
+                "name": "Tina🌲",
+                "id": 882176798213197824,
+                "id_str": "882176798213197824",
+                "indices": [
+                    27,
+                    41
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824068779"
+}

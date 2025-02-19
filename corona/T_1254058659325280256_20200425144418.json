@@ -1,0 +1,171 @@
+{
+    "created_at": "Sat Apr 25 14:44:18 +0000 2020",
+    "id": 1254058659325280256,
+    "id_str": "1254058659325280256",
+    "text": "@CMOMaharashtra @uddhavthackeray every heart in Maharashtra is praying for you and your team. In Sha Allah we will… https://t.co/Y1sBgSeOsr",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2597666894,
+    "in_reply_to_user_id_str": "2597666894",
+    "in_reply_to_screen_name": "CMOMaharashtra",
+    "user": {
+        "id": 852048865427681280,
+        "id_str": "852048865427681280",
+        "name": "immi",
+        "screen_name": "ideas_immi",
+        "location": "Leeds, England",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 18,
+        "friends_count": 257,
+        "listed_count": 0,
+        "favourites_count": 347,
+        "statuses_count": 80,
+        "created_at": "Wed Apr 12 06:40:54 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1132162681274691585/a5391V3Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132162681274691585/a5391V3Q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/852048865427681280/1558763594",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0a063651d547b2b9",
+        "url": "https://api.twitter.com/1.1/geo/id/0a063651d547b2b9.json",
+        "place_type": "city",
+        "name": "Haveli",
+        "full_name": "Haveli, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        73.624695,
+                        18.280103
+                    ],
+                    [
+                        73.624695,
+                        18.73622
+                    ],
+                    [
+                        74.195459,
+                        18.73622
+                    ],
+                    [
+                        74.195459,
+                        18.280103
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CMOMaharashtra @uddhavthackeray every heart in Maharashtra is praying for you and your team. In Sha Allah we will be successful in defeating this corona battle. Jai Hind, Jai Maharashtra",
+        "display_text_range": [
+            0,
+            187
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CMOMaharashtra",
+                    "name": "CMO Maharashtra",
+                    "id": 2597666894,
+                    "id_str": "2597666894",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "uddhavthackeray",
+                    "name": "Uddhav Thackeray",
+                    "id": 66475808,
+                    "id_str": "66475808",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Y1sBgSeOsr",
+                "expanded_url": "https://twitter.com/i/web/status/1254058659325280256",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CMOMaharashtra",
+                "name": "CMO Maharashtra",
+                "id": 2597666894,
+                "id_str": "2597666894",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "uddhavthackeray",
+                "name": "Uddhav Thackeray",
+                "id": 66475808,
+                "id_str": "66475808",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825858323"
+}

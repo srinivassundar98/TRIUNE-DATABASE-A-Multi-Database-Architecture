@@ -1,0 +1,110 @@
+{
+    "created_at": "Sun Apr 12 18:34:24 +0000 2020",
+    "id": 1249405523948118018,
+    "id_str": "1249405523948118018",
+    "text": "@al_cardiff1 @bopanc Check Heinsberg Sorona study.\n\nUse DeepL for translation.\n\nhttps://t.co/WdN9tx3xxH",
+    "display_text_range": [
+        21,
+        103
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249404497723633668,
+    "in_reply_to_status_id_str": "1249404497723633668",
+    "in_reply_to_user_id": 1676652944,
+    "in_reply_to_user_id_str": "1676652944",
+    "in_reply_to_screen_name": "al_cardiff1",
+    "user": {
+        "id": 822415310783414273,
+        "id_str": "822415310783414273",
+        "name": "Mark König",
+        "screen_name": "_markkoenig",
+        "location": "Berlin, Deutschland",
+        "url": "https://www.mark-koenig.de/",
+        "description": "\"Ich bin ein Berliner\" & early-digital, passion for social & global climate, love photography & wind, like philosophy & business, do transformation & change",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 179,
+        "friends_count": 185,
+        "listed_count": 3,
+        "favourites_count": 1313,
+        "statuses_count": 11017,
+        "created_at": "Fri Jan 20 12:07:44 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/892633752022724612/8gt6lPOG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/892633752022724612/8gt6lPOG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822415310783414273/1585807537",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/WdN9tx3xxH",
+                "expanded_url": "https://www.tagesschau.de/regional/nordrheinwestfalen/corona-studie-heinsberg-101.html",
+                "display_url": "tagesschau.de/regional/nordr…",
+                "indices": [
+                    80,
+                    103
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "al_cardiff1",
+                "name": "Al  🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+                "id": 1676652944,
+                "id_str": "1676652944",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "bopanc",
+                "name": "Bojan Pancevski",
+                "id": 207441433,
+                "id_str": "207441433",
+                "indices": [
+                    13,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716464398"
+}

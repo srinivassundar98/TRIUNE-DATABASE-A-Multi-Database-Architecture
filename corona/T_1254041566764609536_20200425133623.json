@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 13:36:23 +0000 2020",
+    "id": 1254041566764609536,
+    "id_str": "1254041566764609536",
+    "text": "@CDCgov @realDonaldTrump You asked if people could ingest or intravenously use disinfectant to treat the corona vir… https://t.co/Hlvo4BOmhY",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253742258853199872,
+    "in_reply_to_status_id_str": "1253742258853199872",
+    "in_reply_to_user_id": 146569971,
+    "in_reply_to_user_id_str": "146569971",
+    "in_reply_to_screen_name": "CDCgov",
+    "user": {
+        "id": 107346910,
+        "id_str": "107346910",
+        "name": "cory claygate",
+        "screen_name": "coryclaggett",
+        "location": "Seattle, WA",
+        "url": null,
+        "description": "proud owner of a “dad bod”, lover of donuts, passionate about cinnamon rolls, breakfast is king! Trumps a piece of shit.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 28,
+        "friends_count": 93,
+        "listed_count": 1,
+        "favourites_count": 3128,
+        "statuses_count": 620,
+        "created_at": "Fri Jan 22 07:57:26 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247218218084663296/7eUEB2by_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247218218084663296/7eUEB2by_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107346910/1586194971",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CDCgov @realDonaldTrump You asked if people could ingest or intravenously use disinfectant to treat the corona virus.  You are dumb.  Don’t try and make it sound like you were joking.  We know you meant it and that you’re dumb as hell.",
+        "display_text_range": [
+            25,
+            236
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CDCgov",
+                    "name": "CDC",
+                    "id": 146569971,
+                    "id_str": "146569971",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        8,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Hlvo4BOmhY",
+                "expanded_url": "https://twitter.com/i/web/status/1254041566764609536",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CDCgov",
+                "name": "CDC",
+                "id": 146569971,
+                "id_str": "146569971",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    8,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821783139"
+}

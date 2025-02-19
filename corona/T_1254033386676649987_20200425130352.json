@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 13:03:52 +0000 2020",
+    "id": 1254033386676649987,
+    "id_str": "1254033386676649987",
+    "text": "@Augstein Wenn in Deutschland in 2019 rund 980 Tausend Menschen gestorben sind, dann sind doch die rund 5500 Toten,… https://t.co/HVjf71MMk3",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253975457051131905,
+    "in_reply_to_status_id_str": "1253975457051131905",
+    "in_reply_to_user_id": 14619744,
+    "in_reply_to_user_id_str": "14619744",
+    "in_reply_to_screen_name": "Augstein",
+    "user": {
+        "id": 4835229736,
+        "id_str": "4835229736",
+        "name": "Hannes Wichard",
+        "screen_name": "WichardHannes",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 159,
+        "listed_count": 0,
+        "favourites_count": 10,
+        "statuses_count": 1184,
+        "created_at": "Fri Jan 22 13:28:07 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Augstein Wenn in Deutschland in 2019 rund 980 Tausend Menschen gestorben sind, dann sind doch die rund 5500 Toten, die mit Corona in den letzten 2 Monaten keine angsteinflössende Größe.\nJedenfalls kein Grund für diese Panik und Hysterie...",
+        "display_text_range": [
+            10,
+            240
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Augstein",
+                    "name": "Jakob Augstein",
+                    "id": 14619744,
+                    "id_str": "14619744",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/HVjf71MMk3",
+                "expanded_url": "https://twitter.com/i/web/status/1254033386676649987",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Augstein",
+                "name": "Jakob Augstein",
+                "id": 14619744,
+                "id_str": "14619744",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819832854"
+}

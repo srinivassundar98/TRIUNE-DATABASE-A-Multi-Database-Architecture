@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:28:46 +0000 2020",
+    "id": 1249404107305205765,
+    "id_str": "1249404107305205765",
+    "text": "@ElsaKekita @anablanca_susp Yo me pregunto en 1er lugar que necesidad teníamos de hacer una comparación odiosa con… https://t.co/7So6OeAyNG",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249399248778657792,
+    "in_reply_to_status_id_str": "1249399248778657792",
+    "in_reply_to_user_id": 2321317278,
+    "in_reply_to_user_id_str": "2321317278",
+    "in_reply_to_screen_name": "ElsaKekita",
+    "user": {
+        "id": 777595477,
+        "id_str": "777595477",
+        "name": "Jorge I. Andreotti",
+        "screen_name": "JorgeIAndreotti",
+        "location": "Córdoba, Argentina.",
+        "url": "http://www.ingenieroandreotti.blogspot.com.ar/",
+        "description": "Consultor de Telecomunicaciones y Electricidad (CTE).",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2937,
+        "friends_count": 2933,
+        "listed_count": 22,
+        "favourites_count": 2126,
+        "statuses_count": 15396,
+        "created_at": "Fri Aug 24 06:58:57 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2561355580/3a62kxnmcr8h03g1crw1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2561355580/3a62kxnmcr8h03g1crw1_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/777595477/1401361959",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ElsaKekita @anablanca_susp Yo me pregunto en 1er lugar que necesidad teníamos de hacer una comparación odiosa con Chile, Brasil, etc. ¿Queremos ganar el campeonato del Corona  - Virus?",
+        "display_text_range": [
+            28,
+            185
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ElsaKekita",
+                    "name": "kekita",
+                    "id": 2321317278,
+                    "id_str": "2321317278",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "anablanca_susp",
+                    "name": "AnaBlancaP 🇦🇷",
+                    "id": 1897997684,
+                    "id_str": "1897997684",
+                    "indices": [
+                        12,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/7So6OeAyNG",
+                "expanded_url": "https://twitter.com/i/web/status/1249404107305205765",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ElsaKekita",
+                "name": "kekita",
+                "id": 2321317278,
+                "id_str": "2321317278",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "anablanca_susp",
+                "name": "AnaBlancaP 🇦🇷",
+                "id": 1897997684,
+                "id_str": "1897997684",
+                "indices": [
+                    12,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1586716126644"
+}

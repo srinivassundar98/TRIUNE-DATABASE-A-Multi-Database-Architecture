@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:43:43 +0000 2020",
+    "id": 1249407868232536064,
+    "id_str": "1249407868232536064",
+    "text": "@davidqhog @MrsAitchBee They were together through the time he was developing Corona (prior to his going into isola… https://t.co/WMM99bEMHm",
+    "display_text_range": [
+        24,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249351325554487297,
+    "in_reply_to_status_id_str": "1249351325554487297",
+    "in_reply_to_user_id": 46369866,
+    "in_reply_to_user_id_str": "46369866",
+    "in_reply_to_screen_name": "davidqhog",
+    "user": {
+        "id": 126595745,
+        "id_str": "126595745",
+        "name": "Chaya",
+        "screen_name": "HispanaHebrea",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 9,
+        "friends_count": 45,
+        "listed_count": 0,
+        "favourites_count": 59,
+        "statuses_count": 60,
+        "created_at": "Fri Mar 26 11:06:49 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248818622392401931/cu2DBCdn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248818622392401931/cu2DBCdn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126595745/1586577337",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@davidqhog @MrsAitchBee They were together through the time he was developing Corona (prior to his going into isolation when he got symptoms).  I'm sure she's carrying the virus but has no symptoms.",
+        "display_text_range": [
+            24,
+            198
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "davidqhog",
+                    "name": "David Q #FBPE 🔶 #collaborator",
+                    "id": 46369866,
+                    "id_str": "46369866",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "MrsAitchBee",
+                    "name": "MrsAitchBee #stayhomesavelives",
+                    "id": 296804016,
+                    "id_str": "296804016",
+                    "indices": [
+                        11,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/WMM99bEMHm",
+                "expanded_url": "https://twitter.com/i/web/status/1249407868232536064",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "davidqhog",
+                "name": "David Q #FBPE 🔶 #collaborator",
+                "id": 46369866,
+                "id_str": "46369866",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "MrsAitchBee",
+                "name": "MrsAitchBee #stayhomesavelives",
+                "id": 296804016,
+                "id_str": "296804016",
+                "indices": [
+                    11,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717023319"
+}

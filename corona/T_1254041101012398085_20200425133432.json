@@ -1,0 +1,140 @@
+{
+    "created_at": "Sat Apr 25 13:34:32 +0000 2020",
+    "id": 1254041101012398085,
+    "id_str": "1254041101012398085",
+    "text": "Selama corona ini jadi di sisa waktu luang saya merilis EP berisi 4 lagu yang santai dan simpel mungkin cocok diden… https://t.co/60LTdniCHi",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 978278677824720898,
+        "id_str": "978278677824720898",
+        "name": "Dimas Jimbo",
+        "screen_name": "dimasjimbo",
+        "location": "Bekasi, Jawa Barat",
+        "url": "https://open.spotify.com/album/2127dwbuN69jn6sKJzQmw7?si=GwGpK-tDTxuBdNm1eax4-Q",
+        "description": "Click the link below to listen my new EP 'Weekly Shonen'",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 621,
+        "friends_count": 740,
+        "listed_count": 0,
+        "favourites_count": 250,
+        "statuses_count": 28683,
+        "created_at": "Mon Mar 26 14:33:07 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230485869150134273/uB1cjQjO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230485869150134273/uB1cjQjO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/978278677824720898/1581512577",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "dd111d5dd4287fd8",
+        "url": "https://api.twitter.com/1.1/geo/id/dd111d5dd4287fd8.json",
+        "place_type": "city",
+        "name": "Bojonggede",
+        "full_name": "Bojonggede, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.73903,
+                        -6.507029
+                    ],
+                    [
+                        106.73903,
+                        -6.414744
+                    ],
+                    [
+                        106.823905,
+                        -6.414744
+                    ],
+                    [
+                        106.823905,
+                        -6.507029
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Selama corona ini jadi di sisa waktu luang saya merilis EP berisi 4 lagu yang santai dan simpel mungkin cocok didengar saat di rumah ga kemana mana. Sila mampir dan dengarkan. Tapi, bantu share retweet juga sangat boleh. Thanks!\nhttps://t.co/o9ILefdWU4",
+        "display_text_range": [
+            0,
+            252
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/o9ILefdWU4",
+                    "expanded_url": "https://open.spotify.com/album/2127dwbuN69jn6sKJzQmw7?si=U0eeNRJIQ-C3rO6Z62jPZg",
+                    "display_url": "open.spotify.com/album/2127dwbu…",
+                    "indices": [
+                        229,
+                        252
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/60LTdniCHi",
+                "expanded_url": "https://twitter.com/i/web/status/1254041101012398085",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587821672095"
+}

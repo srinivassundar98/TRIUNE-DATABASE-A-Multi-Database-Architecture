@@ -1,0 +1,211 @@
+{
+    "created_at": "Sat Apr 25 13:53:26 +0000 2020",
+    "id": 1254045860360531969,
+    "id_str": "1254045860360531969",
+    "text": "#Covid_19 #ConfinementJour40 #enfants Le Corona en 3D. Il circule. https://t.co/j1LfbhBl1U",
+    "display_text_range": [
+        0,
+        66
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 830844890,
+        "id_str": "830844890",
+        "name": "Christine Jakob",
+        "screen_name": "christine_jakob",
+        "location": "Brussels",
+        "url": "https://www.facebook.com/christinemjakob",
+        "description": "Franco-Allemande à #Bruxelles.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 133,
+        "friends_count": 275,
+        "listed_count": 6,
+        "favourites_count": 170,
+        "statuses_count": 432,
+        "created_at": "Tue Sep 18 11:18:47 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241315104689475586/5n9_Wz0j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241315104689475586/5n9_Wz0j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/830844890/1573239921",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "c866291b5c89aa7a",
+        "url": "https://api.twitter.com/1.1/geo/id/c866291b5c89aa7a.json",
+        "place_type": "city",
+        "name": "Ukkel",
+        "full_name": "Ukkel, België",
+        "country_code": "BE",
+        "country": "Belgium",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        4.312228,
+                        50.763677
+                    ],
+                    [
+                        4.312228,
+                        50.816889
+                    ],
+                    [
+                        4.413329,
+                        50.816889
+                    ],
+                    [
+                        4.413329,
+                        50.763677
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Covid_19",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "text": "ConfinementJour40",
+                "indices": [
+                    10,
+                    28
+                ]
+            },
+            {
+                "text": "enfants",
+                "indices": [
+                    29,
+                    37
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254045846095749121,
+                "id_str": "1254045846095749121",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdEDYSXYAEXYIt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdEDYSXYAEXYIt.jpg",
+                "url": "https://t.co/j1LfbhBl1U",
+                "display_url": "pic.twitter.com/j1LfbhBl1U",
+                "expanded_url": "https://twitter.com/christine_jakob/status/1254045860360531969/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254045846095749121,
+                "id_str": "1254045846095749121",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdEDYSXYAEXYIt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdEDYSXYAEXYIt.jpg",
+                "url": "https://t.co/j1LfbhBl1U",
+                "display_url": "pic.twitter.com/j1LfbhBl1U",
+                "expanded_url": "https://twitter.com/christine_jakob/status/1254045860360531969/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ca",
+    "timestamp_ms": "1587822806812"
+}

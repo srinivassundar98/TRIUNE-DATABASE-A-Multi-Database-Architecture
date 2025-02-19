@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 14:28:22 +0000 2020",
+    "id": 1254054652380921859,
+    "id_str": "1254054652380921859",
+    "text": "@ChrisCuomo You test positive for the corona, then go out walking?\nNice one Fredo.\nhttps://t.co/KyXenYpyQu",
+    "display_text_range": [
+        12,
+        106
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254053476008701957,
+    "in_reply_to_status_id_str": "1254053476008701957",
+    "in_reply_to_user_id": 22799750,
+    "in_reply_to_user_id_str": "22799750",
+    "in_reply_to_screen_name": "ChrisCuomo",
+    "user": {
+        "id": 1218010842920374273,
+        "id_str": "1218010842920374273",
+        "name": "Ringer",
+        "screen_name": "famRinger",
+        "location": null,
+        "url": null,
+        "description": "18,750th generation homo sapien",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 24,
+        "friends_count": 1,
+        "listed_count": 5,
+        "favourites_count": 555,
+        "statuses_count": 4664,
+        "created_at": "Fri Jan 17 03:24:50 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1218012132404613120/U7s3xAEz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218012132404613120/U7s3xAEz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1218010842920374273/1579565234",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/KyXenYpyQu",
+                "expanded_url": "https://www.youtube.com/watch?v=P-rKGk8AhA0",
+                "display_url": "youtube.com/watch?v=P-rKGk…",
+                "indices": [
+                    83,
+                    106
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ChrisCuomo",
+                "name": "Christopher C. Cuomo",
+                "id": 22799750,
+                "id_str": "22799750",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824902993"
+}

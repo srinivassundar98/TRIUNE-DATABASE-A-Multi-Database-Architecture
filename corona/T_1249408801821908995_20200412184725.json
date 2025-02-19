@@ -1,0 +1,128 @@
+{
+    "created_at": "Sun Apr 12 18:47:25 +0000 2020",
+    "id": 1249408801821908995,
+    "id_str": "1249408801821908995",
+    "text": "CORONA bicim bicim\nÖlurum VİRÜSÜM icin\nAlem SS 'e dusmandir\nCORONA sevdigi icin oy\nHele loy loy loy kibar yarim VİR… https://t.co/kJ7rpBbam4",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 166194944,
+        "id_str": "166194944",
+        "name": "Turgay Kenziman",
+        "screen_name": "turgaykenziman",
+        "location": null,
+        "url": null,
+        "description": "1-2-1 Matematik-Geometri Öğretmeni. DO MATH...and you can do anything! LEAD ! DON'T FOLLOW. \nThe Mathematics Revolution of Turgay KENZİMAN.\nTeachers Teaching...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 180,
+        "friends_count": 68,
+        "listed_count": 3,
+        "favourites_count": 872,
+        "statuses_count": 7083,
+        "created_at": "Tue Jul 13 15:30:52 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F00E0E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "05F034",
+        "profile_sidebar_border_color": "EBEB17",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "4337E6",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/988256957298601984/UFWPE5tf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/988256957298601984/UFWPE5tf_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "1d0cdd9cde6de404",
+        "url": "https://api.twitter.com/1.1/geo/id/1d0cdd9cde6de404.json",
+        "place_type": "city",
+        "name": "Yenişehir",
+        "full_name": "Yenişehir, Türkiye",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        34.541579,
+                        36.762345
+                    ],
+                    [
+                        34.541579,
+                        36.819972
+                    ],
+                    [
+                        34.619993,
+                        36.819972
+                    ],
+                    [
+                        34.619993,
+                        36.762345
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "CORONA bicim bicim\nÖlurum VİRÜSÜM icin\nAlem SS 'e dusmandir\nCORONA sevdigi icin oy\nHele loy loy loy kibar yarim VİRÜSÜM oy\nHele loy loy loy guzel yarim VİRÜSÜM \nHele loy loy loy kibar yarim CORONA oy\nHele loy loy loy güzel yarim CORONA",
+        "display_text_range": [
+            0,
+            235
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/kJ7rpBbam4",
+                "expanded_url": "https://twitter.com/i/web/status/1249408801821908995",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586717245904"
+}

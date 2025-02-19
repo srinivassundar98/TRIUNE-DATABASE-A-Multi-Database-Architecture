@@ -1,0 +1,140 @@
+{
+    "created_at": "Sat Apr 25 14:19:46 +0000 2020",
+    "id": 1254052485620043776,
+    "id_str": "1254052485620043776",
+    "text": "Berangsur pulih dari pandemi virus Corona, China berupaya membangkitkan lagi ekonominya. Termasuk di industri otomo… https://t.co/BJ3DYJPhq8",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1239707952904200192,
+        "id_str": "1239707952904200192",
+        "name": "Zuraida Abdi",
+        "screen_name": "AbduZuraida",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 14,
+        "listed_count": 0,
+        "favourites_count": 197,
+        "statuses_count": 302,
+        "created_at": "Tue Mar 17 00:20:16 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239708544196173824/Dp246i4J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239708544196173824/Dp246i4J_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239707952904200192/1584580628",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "4e3aa54c2d9ddeb8",
+        "url": "https://api.twitter.com/1.1/geo/id/4e3aa54c2d9ddeb8.json",
+        "place_type": "city",
+        "name": "Peusangan",
+        "full_name": "Peusangan, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        96.684669,
+                        4.951169
+                    ],
+                    [
+                        96.684669,
+                        5.235995
+                    ],
+                    [
+                        96.814423,
+                        5.235995
+                    ],
+                    [
+                        96.814423,
+                        4.951169
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Berangsur pulih dari pandemi virus Corona, China berupaya membangkitkan lagi ekonominya. Termasuk di industri otomotif, dengan memberi uang ke warga yang mau beli mobil. https://t.co/b8jk7xIXrS",
+        "display_text_range": [
+            0,
+            193
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/b8jk7xIXrS",
+                    "expanded_url": "https://m.detik.com/oto/berita/d-4991067/pemerintah-china-beri-uang-ke-warganya-untuk-beli-mobil?_ga=2.51441641.1381979313.1587824198-845369051.1584412197",
+                    "display_url": "m.detik.com/oto/berita/d-4…",
+                    "indices": [
+                        170,
+                        193
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/BJ3DYJPhq8",
+                "expanded_url": "https://twitter.com/i/web/status/1254052485620043776",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587824386397"
+}

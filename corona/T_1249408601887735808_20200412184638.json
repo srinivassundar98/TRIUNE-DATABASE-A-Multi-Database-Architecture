@@ -1,0 +1,106 @@
+{
+    "created_at": "Sun Apr 12 18:46:38 +0000 2020",
+    "id": 1249408601887735808,
+    "id_str": "1249408601887735808",
+    "text": "I wouldn’t mind sitting shoulder to shoulder today in church if corona wasn’t going on 😩",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 862901193063968768,
+        "id_str": "862901193063968768",
+        "name": "BRITT",
+        "screen_name": "britt_tan_knee",
+        "location": "Atlanta, GA",
+        "url": "https://youtu.be/cEle24QokJY",
+        "description": "Apparel and Textile Technology Major✨ | KSU 💛",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 583,
+        "friends_count": 416,
+        "listed_count": 0,
+        "favourites_count": 7967,
+        "statuses_count": 2841,
+        "created_at": "Fri May 12 05:24:11 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245624518355202048/l3ZmUBrO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245624518355202048/l3ZmUBrO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/862901193063968768/1539049748",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7142eb97ae21e839",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json",
+        "place_type": "admin",
+        "name": "Georgia",
+        "full_name": "Georgia, USA",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717198236"
+}

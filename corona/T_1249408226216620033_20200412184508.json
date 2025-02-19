@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:45:08 +0000 2020",
+    "id": 1249408226216620033,
+    "id_str": "1249408226216620033",
+    "text": "Corona virüs ten ağır darbe, Bakan Sn Süleyman Soylu ilk siyasi kurban oldu malesef... Son kararda yanlış yönetim g… https://t.co/EgtwRDMSkk",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 335197733,
+        "id_str": "335197733",
+        "name": "Muhammet Altay",
+        "screen_name": "SertacAltay",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 61,
+        "friends_count": 105,
+        "listed_count": 0,
+        "favourites_count": 553,
+        "statuses_count": 604,
+        "created_at": "Thu Jul 14 09:19:24 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242082881763184640/5ui0j27r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242082881763184640/5ui0j27r_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "011ed06610449037",
+        "url": "https://api.twitter.com/1.1/geo/id/011ed06610449037.json",
+        "place_type": "city",
+        "name": "Van",
+        "full_name": "Van, Türkiye",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        43.269524,
+                        38.448983
+                    ],
+                    [
+                        43.269524,
+                        38.580314
+                    ],
+                    [
+                        43.449151,
+                        38.580314
+                    ],
+                    [
+                        43.449151,
+                        38.448983
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Corona virüs ten ağır darbe, Bakan Sn Süleyman Soylu ilk siyasi kurban oldu malesef... Son kararda yanlış yönetim gösterilmiş olsa bile yine de vatanperver bir bakan ve insandı, umarım istifası kabul görmez #SueleymanSoylu #sueleymansoyluyalnızdeğildir",
+        "display_text_range": [
+            0,
+            252
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SueleymanSoylu",
+                    "indices": [
+                        207,
+                        222
+                    ]
+                },
+                {
+                    "text": "sueleymansoyluyalnızdeğildir",
+                    "indices": [
+                        223,
+                        252
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/EgtwRDMSkk",
+                "expanded_url": "https://twitter.com/i/web/status/1249408226216620033",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586717108669"
+}

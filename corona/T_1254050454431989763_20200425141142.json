@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 14:11:42 +0000 2020",
+    "id": 1254050454431989763,
+    "id_str": "1254050454431989763",
+    "text": "@mfleischhacker1 naja, ist schon a bissi überholt das Interview, oder? https://t.co/jcFbtf4lKe",
+    "display_text_range": [
+        17,
+        94
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253690873491132419,
+    "in_reply_to_status_id_str": "1253690873491132419",
+    "in_reply_to_user_id": 1729571318,
+    "in_reply_to_user_id_str": "1729571318",
+    "in_reply_to_screen_name": "mfleischhacker1",
+    "user": {
+        "id": 62065089,
+        "id_str": "62065089",
+        "name": "Petra Ramsauer",
+        "screen_name": "petraramsauer",
+        "location": null,
+        "url": null,
+        "description": "reporter, writer, tweets about #syria, #iraq, #middleeast #astrophysics and sometimes even #austria.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4773,
+        "friends_count": 2503,
+        "listed_count": 100,
+        "favourites_count": 11191,
+        "statuses_count": 16424,
+        "created_at": "Sat Aug 01 16:24:30 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235275734224166912/v1RFb2dv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235275734224166912/v1RFb2dv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62065089/1567077383",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/jcFbtf4lKe",
+                "expanded_url": "https://www.welt.de/politik/ausland/article207488419/Corona-Massnahmen-Schwedens-Innenminister-verschaerft-seinen-Ton.html",
+                "display_url": "welt.de/politik/auslan…",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "mfleischhacker1",
+                "name": "MichaelFleischhacker",
+                "id": 1729571318,
+                "id_str": "1729571318",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823902124"
+}

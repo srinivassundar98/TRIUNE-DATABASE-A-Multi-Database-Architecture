@@ -1,0 +1,122 @@
+{
+    "created_at": "Sun Apr 12 18:31:41 +0000 2020",
+    "id": 1249404839169269761,
+    "id_str": "1249404839169269761",
+    "text": "@SvensTweet Wel vreemd dat dit binnen die muren gebeurd terwijl men geen kant op kan en me voor kan stellen dat als… https://t.co/aYNB2qGuX5",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249400916010287105,
+    "in_reply_to_status_id_str": "1249400916010287105",
+    "in_reply_to_user_id": 164090853,
+    "in_reply_to_user_id_str": "164090853",
+    "in_reply_to_screen_name": "SvensTweet",
+    "user": {
+        "id": 1220571854181687296,
+        "id_str": "1220571854181687296",
+        "name": "UNITED EUROPE ONE",
+        "screen_name": "UNITEDEUROPE1",
+        "location": "Nederland",
+        "url": null,
+        "description": "EUROPE FIRST! Power to the people! UNITED POWER!!!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 165,
+        "friends_count": 1910,
+        "listed_count": 0,
+        "favourites_count": 1946,
+        "statuses_count": 2009,
+        "created_at": "Fri Jan 24 04:59:57 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220572082280521730/6ZVYu1SO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220572082280521730/6ZVYu1SO_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@SvensTweet Wel vreemd dat dit binnen die muren gebeurd terwijl men geen kant op kan en me voor kan stellen dat als je al in regime met vooral maatregelen zit extra maatregelen onder mom van corona teveel kunnen worden en opstand in de hand werken terwijl ze slechts 70+ apart hoeven zetten..",
+        "display_text_range": [
+            12,
+            292
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SvensTweet",
+                    "name": "Svennus J. Max",
+                    "id": 164090853,
+                    "id_str": "164090853",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/aYNB2qGuX5",
+                "expanded_url": "https://twitter.com/i/web/status/1249404839169269761",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "SvensTweet",
+                "name": "Svennus J. Max",
+                "id": 164090853,
+                "id_str": "164090853",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586716301134"
+}

@@ -1,0 +1,795 @@
+{
+    "created_at": "Sat Apr 25 14:20:28 +0000 2020",
+    "id": 1254052660531118080,
+    "id_str": "1254052660531118080",
+    "text": "RT @___aqib___: #Ahmedabad #ramadankareem #Corona #Covid_19 @AjazkhanActor @ndtv",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2915331283,
+        "id_str": "2915331283",
+        "name": "Aqib_😎",
+        "screen_name": "___aqib___",
+        "location": "India",
+        "url": null,
+        "description": "✋.Don't Play With Me\n😎.Coz I Can Play Better Than You💯",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 57,
+        "friends_count": 258,
+        "listed_count": 0,
+        "favourites_count": 745,
+        "statuses_count": 517,
+        "created_at": "Mon Dec 01 05:42:33 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248563355020693504/xePNOSuD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248563355020693504/xePNOSuD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2915331283/1586515964",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 17:49:55 +0000 2020",
+        "id": 1253742984169959424,
+        "id_str": "1253742984169959424",
+        "text": "#Ahmedabad #ramadankareem #Corona #Covid_19 @AjazkhanActor @ndtv",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2915331283,
+            "id_str": "2915331283",
+            "name": "Aqib_😎",
+            "screen_name": "___aqib___",
+            "location": "India",
+            "url": null,
+            "description": "✋.Don't Play With Me\n😎.Coz I Can Play Better Than You💯",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 57,
+            "friends_count": 258,
+            "listed_count": 0,
+            "favourites_count": 745,
+            "statuses_count": 516,
+            "created_at": "Mon Dec 01 05:42:33 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248563355020693504/xePNOSuD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248563355020693504/xePNOSuD_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2915331283/1586515964",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "272983f6b52c196e",
+            "url": "https://api.twitter.com/1.1/geo/id/272983f6b52c196e.json",
+            "place_type": "city",
+            "name": "Ahmadabad City",
+            "full_name": "Ahmadabad City, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            72.436739,
+                            22.923256
+                        ],
+                        [
+                            72.436739,
+                            23.104662
+                        ],
+                        [
+                            72.703725,
+                            23.104662
+                        ],
+                        [
+                            72.703725,
+                            22.923256
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253714600308158468,
+        "quoted_status_id_str": "1253714600308158468",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 15:57:08 +0000 2020",
+            "id": 1253714600308158468,
+            "id_str": "1253714600308158468",
+            "text": "अहमदाबाद के खानपुर इलाके में हिंदू-मुस्लिम भाईचारे की एक बहतरीन मिसाल सामने आई, \n \n75 वर्षीय मन्दाकिनी बेन का कोई… https://t.co/V1iX69vOpn",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1216412222760443904,
+                "id_str": "1216412222760443904",
+                "name": "Zainab Ajaz ⏺️",
+                "screen_name": "ZainabAjaz2",
+                "location": "India",
+                "url": null,
+                "description": "I Am Indian Muslim .",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 30753,
+                "friends_count": 1095,
+                "listed_count": 1,
+                "favourites_count": 5982,
+                "statuses_count": 8895,
+                "created_at": "Sun Jan 12 17:31:36 +0000 2020",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1217208718464602124/7ItmfT0R_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217208718464602124/7ItmfT0R_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216412222760443904/1586970526",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "अहमदाबाद के खानपुर इलाके में हिंदू-मुस्लिम भाईचारे की एक बहतरीन मिसाल सामने आई, \n \n75 वर्षीय मन्दाकिनी बेन का कोई भी रिश्तेदार पास न होने के कारण, मुस्लिम समुदाय के लोगों ने ही उनका अंतिम संस्कार किया।\n\nCc: @DrMonikaSingh_\n\n https://t.co/thmNuoVxtt",
+                "display_text_range": [
+                    0,
+                    248
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "DrMonikaSingh_",
+                            "name": "Dr Monika Singh",
+                            "id": 1180044176836059137,
+                            "id_str": "1180044176836059137",
+                            "indices": [
+                                207,
+                                222
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253702563121311744,
+                            "id_str": "1253702563121311744",
+                            "indices": [
+                                225,
+                                248
+                            ],
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253702563121311744/pu/img/4zGmBR0DrFtw4j-Y.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253702563121311744/pu/img/4zGmBR0DrFtw4j-Y.jpg",
+                            "url": "https://t.co/thmNuoVxtt",
+                            "display_url": "pic.twitter.com/thmNuoVxtt",
+                            "expanded_url": "https://twitter.com/DrMonikaSingh_/status/1253703078018256896/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    20,
+                                    11
+                                ],
+                                "duration_millis": 58520,
+                                "variants": [
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/vid/640x352/7P1JDq3RHGPdroJA.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/vid/490x270/al6v7KvGyZ1G7C6F.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/pl/EWD1Tx3P-nE-WLTJ.m3u8?tag=10"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                }
+                            },
+                            "source_status_id": 1253703078018256896,
+                            "source_status_id_str": "1253703078018256896",
+                            "source_user_id": 1180044176836059137,
+                            "source_user_id_str": "1180044176836059137"
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253702563121311744,
+                            "id_str": "1253702563121311744",
+                            "indices": [
+                                225,
+                                248
+                            ],
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253702563121311744/pu/img/4zGmBR0DrFtw4j-Y.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253702563121311744/pu/img/4zGmBR0DrFtw4j-Y.jpg",
+                            "url": "https://t.co/thmNuoVxtt",
+                            "display_url": "pic.twitter.com/thmNuoVxtt",
+                            "expanded_url": "https://twitter.com/DrMonikaSingh_/status/1253703078018256896/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    20,
+                                    11
+                                ],
+                                "duration_millis": 58520,
+                                "variants": [
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/vid/640x352/7P1JDq3RHGPdroJA.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/vid/490x270/al6v7KvGyZ1G7C6F.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/pl/EWD1Tx3P-nE-WLTJ.m3u8?tag=10"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 640,
+                                    "h": 352,
+                                    "resize": "fit"
+                                }
+                            },
+                            "source_status_id": 1253703078018256896,
+                            "source_status_id_str": "1253703078018256896",
+                            "source_user_id": 1180044176836059137,
+                            "source_user_id_str": "1180044176836059137"
+                        }
+                    ]
+                }
+            },
+            "quote_count": 3,
+            "reply_count": 5,
+            "retweet_count": 53,
+            "favorite_count": 151,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/V1iX69vOpn",
+                        "expanded_url": "https://twitter.com/i/web/status/1253714600308158468",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "hi"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/TOi95hqTSo",
+            "expanded": "https://twitter.com/ZainabAjaz2/status/1253714600308158468",
+            "display": "twitter.com/ZainabAjaz2/st…"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Ahmedabad",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "text": "ramadankareem",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        26,
+                        33
+                    ]
+                },
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        34,
+                        43
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AjazkhanActor",
+                    "name": "Ajaz Khan",
+                    "id": 1490985685,
+                    "id_str": "1490985685",
+                    "indices": [
+                        44,
+                        58
+                    ]
+                },
+                {
+                    "screen_name": "ndtv",
+                    "name": "NDTV",
+                    "id": 37034483,
+                    "id_str": "37034483",
+                    "indices": [
+                        59,
+                        64
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "und"
+    },
+    "quoted_status_id": 1253714600308158468,
+    "quoted_status_id_str": "1253714600308158468",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 15:57:08 +0000 2020",
+        "id": 1253714600308158468,
+        "id_str": "1253714600308158468",
+        "text": "अहमदाबाद के खानपुर इलाके में हिंदू-मुस्लिम भाईचारे की एक बहतरीन मिसाल सामने आई, \n \n75 वर्षीय मन्दाकिनी बेन का कोई… https://t.co/V1iX69vOpn",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1216412222760443904,
+            "id_str": "1216412222760443904",
+            "name": "Zainab Ajaz ⏺️",
+            "screen_name": "ZainabAjaz2",
+            "location": "India",
+            "url": null,
+            "description": "I Am Indian Muslim .",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 30753,
+            "friends_count": 1095,
+            "listed_count": 1,
+            "favourites_count": 5982,
+            "statuses_count": 8895,
+            "created_at": "Sun Jan 12 17:31:36 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1217208718464602124/7ItmfT0R_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217208718464602124/7ItmfT0R_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216412222760443904/1586970526",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "अहमदाबाद के खानपुर इलाके में हिंदू-मुस्लिम भाईचारे की एक बहतरीन मिसाल सामने आई, \n \n75 वर्षीय मन्दाकिनी बेन का कोई भी रिश्तेदार पास न होने के कारण, मुस्लिम समुदाय के लोगों ने ही उनका अंतिम संस्कार किया।\n\nCc: @DrMonikaSingh_\n\n https://t.co/thmNuoVxtt",
+            "display_text_range": [
+                0,
+                248
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DrMonikaSingh_",
+                        "name": "Dr Monika Singh",
+                        "id": 1180044176836059137,
+                        "id_str": "1180044176836059137",
+                        "indices": [
+                            207,
+                            222
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253702563121311744,
+                        "id_str": "1253702563121311744",
+                        "indices": [
+                            225,
+                            248
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253702563121311744/pu/img/4zGmBR0DrFtw4j-Y.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253702563121311744/pu/img/4zGmBR0DrFtw4j-Y.jpg",
+                        "url": "https://t.co/thmNuoVxtt",
+                        "display_url": "pic.twitter.com/thmNuoVxtt",
+                        "expanded_url": "https://twitter.com/DrMonikaSingh_/status/1253703078018256896/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                20,
+                                11
+                            ],
+                            "duration_millis": 58520,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/vid/640x352/7P1JDq3RHGPdroJA.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/vid/490x270/al6v7KvGyZ1G7C6F.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/pl/EWD1Tx3P-nE-WLTJ.m3u8?tag=10"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1253703078018256896,
+                        "source_status_id_str": "1253703078018256896",
+                        "source_user_id": 1180044176836059137,
+                        "source_user_id_str": "1180044176836059137"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253702563121311744,
+                        "id_str": "1253702563121311744",
+                        "indices": [
+                            225,
+                            248
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253702563121311744/pu/img/4zGmBR0DrFtw4j-Y.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253702563121311744/pu/img/4zGmBR0DrFtw4j-Y.jpg",
+                        "url": "https://t.co/thmNuoVxtt",
+                        "display_url": "pic.twitter.com/thmNuoVxtt",
+                        "expanded_url": "https://twitter.com/DrMonikaSingh_/status/1253703078018256896/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                20,
+                                11
+                            ],
+                            "duration_millis": 58520,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/vid/640x352/7P1JDq3RHGPdroJA.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/vid/490x270/al6v7KvGyZ1G7C6F.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253702563121311744/pu/pl/EWD1Tx3P-nE-WLTJ.m3u8?tag=10"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 352,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1253703078018256896,
+                        "source_status_id_str": "1253703078018256896",
+                        "source_user_id": 1180044176836059137,
+                        "source_user_id_str": "1180044176836059137"
+                    }
+                ]
+            }
+        },
+        "quote_count": 3,
+        "reply_count": 5,
+        "retweet_count": 53,
+        "favorite_count": 151,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/V1iX69vOpn",
+                    "expanded_url": "https://twitter.com/i/web/status/1253714600308158468",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "hi"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/TOi95hqTSo",
+        "expanded": "https://twitter.com/ZainabAjaz2/status/1253714600308158468",
+        "display": "twitter.com/ZainabAjaz2/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Ahmedabad",
+                "indices": [
+                    16,
+                    26
+                ]
+            },
+            {
+                "text": "ramadankareem",
+                "indices": [
+                    27,
+                    41
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    42,
+                    49
+                ]
+            },
+            {
+                "text": "Covid_19",
+                "indices": [
+                    50,
+                    59
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "___aqib___",
+                "name": "Aqib_😎",
+                "id": 2915331283,
+                "id_str": "2915331283",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "AjazkhanActor",
+                "name": "Ajaz Khan",
+                "id": 1490985685,
+                "id_str": "1490985685",
+                "indices": [
+                    60,
+                    74
+                ]
+            },
+            {
+                "screen_name": "ndtv",
+                "name": "NDTV",
+                "id": 37034483,
+                "id_str": "37034483",
+                "indices": [
+                    75,
+                    80
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587824428099"
+}

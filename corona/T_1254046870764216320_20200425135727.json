@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 13:57:27 +0000 2020",
+    "id": 1254046870764216320,
+    "id_str": "1254046870764216320",
+    "text": "@AledDavies88 @danmctaggart84 @corona Got one of those Russian machines 😂😂",
+    "display_text_range": [
+        38,
+        74
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254046143446683648,
+    "in_reply_to_status_id_str": "1254046143446683648",
+    "in_reply_to_user_id": 706022096539938820,
+    "in_reply_to_user_id_str": "706022096539938820",
+    "in_reply_to_screen_name": "AledDavies88",
+    "user": {
+        "id": 416926233,
+        "id_str": "416926233",
+        "name": "Jason Clark 🏉📸",
+        "screen_name": "jayclark0106",
+        "location": "Llantrisant",
+        "url": null,
+        "description": "Linda, Linda, listen listen Linda!! Once a Badger always a Badger. Fan of grassroots Rugby",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1052,
+        "friends_count": 850,
+        "listed_count": 26,
+        "favourites_count": 20777,
+        "statuses_count": 23445,
+        "created_at": "Sun Nov 20 09:24:09 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/860982562193276929/X0KIVb1M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/860982562193276929/X0KIVb1M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/416926233/1493966493",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AledDavies88",
+                "name": "Aled Davies",
+                "id": 706022096539938820,
+                "id_str": "706022096539938820",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "danmctaggart84",
+                "name": "danmctaggart",
+                "id": 395802028,
+                "id_str": "395802028",
+                "indices": [
+                    14,
+                    29
+                ]
+            },
+            {
+                "screen_name": "corona",
+                "name": "Corona",
+                "id": 289900457,
+                "id_str": "289900457",
+                "indices": [
+                    30,
+                    37
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823047711"
+}

@@ -1,0 +1,366 @@
+{
+    "created_at": "Sat Apr 25 14:05:57 +0000 2020",
+    "id": 1254049009423003648,
+    "id_str": "1254049009423003648",
+    "text": "RT @robertdolci: Riflessioni sulla Noia, e sulla fame, da Corona @VeronelliD @editoreruggeri @signordirettore @giovanniproto67 @gmaddal3 ht…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1923567506,
+        "id_str": "1923567506",
+        "name": "aizoOn",
+        "screen_name": "aizoongroup",
+        "location": "Australia Europe USA",
+        "url": "http://www.aizoon.us",
+        "description": "We integrate smart technology to improve processes & systems in manufacturing https://t.co/UpHhidVxsI… #CyberSecurity #IIot #Industrie40 #craftbeer #robotics",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 845,
+        "friends_count": 1289,
+        "listed_count": 207,
+        "favourites_count": 4836,
+        "statuses_count": 3017,
+        "created_at": "Tue Oct 01 14:02:56 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "12628A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/598503613602746368/dbwgIF5U_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/598503613602746368/dbwgIF5U_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1923567506/1551209133",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 09:56:30 +0000 2020",
+        "id": 1253986232125792259,
+        "id_str": "1253986232125792259",
+        "text": "Riflessioni sulla Noia, e sulla fame, da Corona @VeronelliD @editoreruggeri @signordirettore @giovanniproto67… https://t.co/q2WLcYVFwa",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 245059814,
+            "id_str": "245059814",
+            "name": "Rob Dolci",
+            "screen_name": "robertdolci",
+            "location": "Boston, MA",
+            "url": "http://www.linkedin.com/in/robertodolci/",
+            "description": "Focused on #digitaltransformation, #AI, #IIOT, & also #ProudDad,  #Triathlete",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1559,
+            "friends_count": 1490,
+            "listed_count": 426,
+            "favourites_count": 27304,
+            "statuses_count": 13326,
+            "created_at": "Sun Jan 30 19:50:44 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/617674414973255680/mTmYqYzt_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/617674414973255680/mTmYqYzt_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/245059814/1377191589",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "463f5d9615d7d1be",
+            "url": "https://api.twitter.com/1.1/geo/id/463f5d9615d7d1be.json",
+            "place_type": "admin",
+            "name": "Maine",
+            "full_name": "Maine, USA",
+            "country_code": "US",
+            "country": "Stati Uniti",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.084335,
+                            42.917127
+                        ],
+                        [
+                            -71.084335,
+                            47.459687
+                        ],
+                        [
+                            -66.885075,
+                            47.459687
+                        ],
+                        [
+                            -66.885075,
+                            42.917127
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Riflessioni sulla Noia, e sulla fame, da Corona @VeronelliD @editoreruggeri @signordirettore @giovanniproto67 @gmaddal3 https://t.co/2BP9gpyqKn",
+            "display_text_range": [
+                0,
+                143
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/2BP9gpyqKn",
+                        "expanded_url": "https://zafferano.news/rubrica/notizie-dagli-usa/z57-la-noia-in-america?uid=245&aid=537&ch=twitter&data=587245d268517d9285397c3711ab0819#.XqQI9biw74Y.twitter",
+                        "display_url": "zafferano.news/rubrica/notizi…",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "VeronelliD",
+                        "name": "Diego Veronelli",
+                        "id": 2536996947,
+                        "id_str": "2536996947",
+                        "indices": [
+                            48,
+                            59
+                        ]
+                    },
+                    {
+                        "screen_name": "editoreruggeri",
+                        "name": "Riccardo Ruggeri",
+                        "id": 1161196922,
+                        "id_str": "1161196922",
+                        "indices": [
+                            60,
+                            75
+                        ]
+                    },
+                    {
+                        "screen_name": "signordirettore",
+                        "name": "Il Signor Direttore",
+                        "id": 1234765066702028800,
+                        "id_str": "1234765066702028800",
+                        "indices": [
+                            76,
+                            92
+                        ]
+                    },
+                    {
+                        "screen_name": "giovanniproto67",
+                        "name": "Giov.Proto🗼🌁🌌🏭🗼🌁",
+                        "id": 912225871238443008,
+                        "id_str": "912225871238443008",
+                        "indices": [
+                            93,
+                            109
+                        ]
+                    },
+                    {
+                        "screen_name": "gmaddal3",
+                        "name": "Giovanni Maddalena",
+                        "id": 2764903426,
+                        "id_str": "2764903426",
+                        "indices": [
+                            110,
+                            119
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/q2WLcYVFwa",
+                    "expanded_url": "https://twitter.com/i/web/status/1253986232125792259",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        111,
+                        134
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "VeronelliD",
+                    "name": "Diego Veronelli",
+                    "id": 2536996947,
+                    "id_str": "2536996947",
+                    "indices": [
+                        48,
+                        59
+                    ]
+                },
+                {
+                    "screen_name": "editoreruggeri",
+                    "name": "Riccardo Ruggeri",
+                    "id": 1161196922,
+                    "id_str": "1161196922",
+                    "indices": [
+                        60,
+                        75
+                    ]
+                },
+                {
+                    "screen_name": "signordirettore",
+                    "name": "Il Signor Direttore",
+                    "id": 1234765066702028800,
+                    "id_str": "1234765066702028800",
+                    "indices": [
+                        76,
+                        92
+                    ]
+                },
+                {
+                    "screen_name": "giovanniproto67",
+                    "name": "Giov.Proto🗼🌁🌌🏭🗼🌁",
+                    "id": 912225871238443008,
+                    "id_str": "912225871238443008",
+                    "indices": [
+                        93,
+                        109
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "it"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "robertdolci",
+                "name": "Rob Dolci",
+                "id": 245059814,
+                "id_str": "245059814",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "VeronelliD",
+                "name": "Diego Veronelli",
+                "id": 2536996947,
+                "id_str": "2536996947",
+                "indices": [
+                    65,
+                    76
+                ]
+            },
+            {
+                "screen_name": "editoreruggeri",
+                "name": "Riccardo Ruggeri",
+                "id": 1161196922,
+                "id_str": "1161196922",
+                "indices": [
+                    77,
+                    92
+                ]
+            },
+            {
+                "screen_name": "signordirettore",
+                "name": "Il Signor Direttore",
+                "id": 1234765066702028800,
+                "id_str": "1234765066702028800",
+                "indices": [
+                    93,
+                    109
+                ]
+            },
+            {
+                "screen_name": "giovanniproto67",
+                "name": "Giov.Proto🗼🌁🌌🏭🗼🌁",
+                "id": 912225871238443008,
+                "id_str": "912225871238443008",
+                "indices": [
+                    110,
+                    126
+                ]
+            },
+            {
+                "screen_name": "gmaddal3",
+                "name": "Giovanni Maddalena",
+                "id": 2764903426,
+                "id_str": "2764903426",
+                "indices": [
+                    127,
+                    136
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1587823557607"
+}

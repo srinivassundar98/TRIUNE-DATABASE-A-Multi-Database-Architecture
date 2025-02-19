@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 13:08:05 +0000 2020",
+    "id": 1254034444832260097,
+    "id_str": "1254034444832260097",
+    "text": "Bereits mehr als 120.000 Corona-Tote in Europa https://t.co/hdlIqafVo5 https://t.co/Co0ggWRMMq",
+    "display_text_range": [
+        0,
+        70
+    ],
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 26789158,
+        "id_str": "26789158",
+        "name": "SN aktuell",
+        "screen_name": "sn_aktuell",
+        "location": "Salzburg, Österreich",
+        "url": "http://www.sn.at",
+        "description": "Der offizielle Twitter Account der \"Salzburger Nachrichten\".",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 11761,
+        "friends_count": 398,
+        "listed_count": 410,
+        "favourites_count": 10,
+        "statuses_count": 112414,
+        "created_at": "Thu Mar 26 16:43:43 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "00509F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "DCCFAD",
+        "profile_sidebar_fill_color": "EBEDCD",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115231537849610245/jVWI2ro4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115231537849610245/jVWI2ro4_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26789158/1554726928",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/hdlIqafVo5",
+                "expanded_url": "https://www.sn.at/panorama/international/bereits-mehr-als-120-000-corona-tote-in-europa-86721187?utm_source=dlvr.it&utm_medium=twitter",
+                "display_url": "sn.at/panorama/inter…",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254034442978385921,
+                "id_str": "1254034442978385921",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc5roXU4AEMYHu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc5roXU4AEMYHu.jpg",
+                "url": "https://t.co/Co0ggWRMMq",
+                "display_url": "pic.twitter.com/Co0ggWRMMq",
+                "expanded_url": "https://twitter.com/sn_aktuell/status/1254034444832260097/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 717,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 381,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 672,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254034442978385921,
+                "id_str": "1254034442978385921",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc5roXU4AEMYHu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc5roXU4AEMYHu.jpg",
+                "url": "https://t.co/Co0ggWRMMq",
+                "display_url": "pic.twitter.com/Co0ggWRMMq",
+                "expanded_url": "https://twitter.com/sn_aktuell/status/1254034444832260097/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 717,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 381,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 672,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820085138"
+}

@@ -1,0 +1,96 @@
+{
+    "created_at": "Sun Apr 12 18:28:51 +0000 2020",
+    "id": 1249404128113147904,
+    "id_str": "1249404128113147904",
+    "text": "Capitão Corona https://t.co/emjSFipl2y via @YouTube",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 747844815203733504,
+        "id_str": "747844815203733504",
+        "name": "Leandro Garibaldi",
+        "screen_name": "garibaldiborges",
+        "location": "Anápolis, Brasil",
+        "url": null,
+        "description": "Consultor, palestrante, músico \n\ne um apaixonado pela vida.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 17,
+        "friends_count": 66,
+        "listed_count": 0,
+        "favourites_count": 425,
+        "statuses_count": 150,
+        "created_at": "Tue Jun 28 17:31:13 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243167314847170562/y9ecAZ-a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243167314847170562/y9ecAZ-a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/747844815203733504/1467136443",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/emjSFipl2y",
+                "expanded_url": "https://youtu.be/FXxFhvm-BvU",
+                "display_url": "youtu.be/FXxFhvm-BvU",
+                "indices": [
+                    15,
+                    38
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "YouTube",
+                "name": "YouTube at 🏠",
+                "id": 10228272,
+                "id_str": "10228272",
+                "indices": [
+                    43,
+                    51
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716131605"
+}

@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:10:07 +0000 2020",
+    "id": 1254050058179358728,
+    "id_str": "1254050058179358728",
+    "text": "@YedderInExile @certezamente Corona em destaque. Coincidência?",
+    "display_text_range": [
+        29,
+        62
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253801839830732802,
+    "in_reply_to_status_id_str": "1253801839830732802",
+    "in_reply_to_user_id": 1229869272391933952,
+    "in_reply_to_user_id_str": "1229869272391933952",
+    "in_reply_to_screen_name": "YedderInExile",
+    "user": {
+        "id": 3213890147,
+        "id_str": "3213890147",
+        "name": "Gonçalo",
+        "screen_name": "goncaloirl",
+        "location": null,
+        "url": null,
+        "description": "I’ll give you a choice. Either you put on these glasses or start eating that trash can.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 216,
+        "friends_count": 740,
+        "listed_count": 0,
+        "favourites_count": 24190,
+        "statuses_count": 5010,
+        "created_at": "Mon Apr 27 15:47:08 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/592717347821084674/7udPD3O4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/592717347821084674/7udPD3O4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3213890147/1537374103",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "YedderInExile",
+                "name": "portuguese that doesn't speak portuguese",
+                "id": 1229869272391933952,
+                "id_str": "1229869272391933952",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "certezamente",
+                "name": "joāo 🌹☭",
+                "id": 281225798,
+                "id_str": "281225798",
+                "indices": [
+                    15,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587823807650"
+}

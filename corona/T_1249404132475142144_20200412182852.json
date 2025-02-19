@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun Apr 12 18:28:52 +0000 2020",
+    "id": 1249404132475142144,
+    "id_str": "1249404132475142144",
+    "text": "@rennermonnerat O nome do Leandro Ávila é Leandro CORONA Ávila. https://t.co/31ZLMBA9XE\n\nkkkk",
+    "display_text_range": [
+        16,
+        93
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249376619799724034,
+    "in_reply_to_status_id_str": "1249376619799724034",
+    "in_reply_to_user_id": 168057016,
+    "in_reply_to_user_id_str": "168057016",
+    "in_reply_to_screen_name": "rennermonnerat",
+    "user": {
+        "id": 1434567565,
+        "id_str": "1434567565",
+        "name": "DANIEL ◤✠◢",
+        "screen_name": "danielfven",
+        "location": "Brasil",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 227,
+        "friends_count": 293,
+        "listed_count": 1,
+        "favourites_count": 1894,
+        "statuses_count": 10570,
+        "created_at": "Fri May 17 02:49:26 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105110475187109888/XRxZZKqo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105110475187109888/XRxZZKqo_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434567565/1552314104",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/31ZLMBA9XE",
+                "expanded_url": "https://en.wikipedia.org/wiki/Leandro_%C3%81vila",
+                "display_url": "en.wikipedia.org/wiki/Leandro_%…",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "rennermonnerat",
+                "name": "Renner Monnerat",
+                "id": 168057016,
+                "id_str": "168057016",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716132645"
+}

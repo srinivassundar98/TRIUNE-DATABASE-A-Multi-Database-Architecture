@@ -1,0 +1,124 @@
+{
+    "created_at": "Sat Apr 25 13:38:01 +0000 2020",
+    "id": 1254041979215917056,
+    "id_str": "1254041979215917056",
+    "text": "@MbalulaFikile Transport Management Plan should be done ngokwama Provinces #Corona Virus",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2382362052,
+    "in_reply_to_user_id_str": "2382362052",
+    "in_reply_to_screen_name": "MbalulaFikile",
+    "user": {
+        "id": 2746118429,
+        "id_str": "2746118429",
+        "name": "Ukhozifm Traffic Anchor",
+        "screen_name": "ayandamsweli46",
+        "location": "South Africa",
+        "url": "http://www.instagram.com/ayandamsweli46",
+        "description": "CEO/Founder of Qaph'eqolo Save The Rhino Race..Road Safety is My LifeStyle\nWhtsp Number..0627134129",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 81064,
+        "friends_count": 36580,
+        "listed_count": 70,
+        "favourites_count": 2738,
+        "statuses_count": 29903,
+        "created_at": "Mon Aug 18 07:25:06 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1224811810899025926/05_6OYaG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224811810899025926/05_6OYaG_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00f65b8ae8433d6f",
+        "url": "https://api.twitter.com/1.1/geo/id/00f65b8ae8433d6f.json",
+        "place_type": "city",
+        "name": "Phoenix",
+        "full_name": "Phoenix, South Africa",
+        "country_code": "ZA",
+        "country": "South Africa",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        30.975237,
+                        -29.738305
+                    ],
+                    [
+                        30.975237,
+                        -29.664913
+                    ],
+                    [
+                        31.037847,
+                        -29.664913
+                    ],
+                    [
+                        31.037847,
+                        -29.738305
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    75,
+                    82
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "MbalulaFikile",
+                "name": "Minister of Transport |Mr Fix",
+                "id": 2382362052,
+                "id_str": "2382362052",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821881475"
+}

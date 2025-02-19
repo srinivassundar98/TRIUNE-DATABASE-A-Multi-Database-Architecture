@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 13:28:26 +0000 2020",
+    "id": 1254039567344287746,
+    "id_str": "1254039567344287746",
+    "text": "@Telekom_hilft Jetzt kann ich zwar wieder bestellen, aber warum gibt es bei Bezahlung lediglich die Option Nachnahm… https://t.co/WKDxKH7FQW",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253983111731429377,
+    "in_reply_to_status_id_str": "1253983111731429377",
+    "in_reply_to_user_id": 230510363,
+    "in_reply_to_user_id_str": "230510363",
+    "in_reply_to_screen_name": "DocTomTom",
+    "user": {
+        "id": 230510363,
+        "id_str": "230510363",
+        "name": "Thomas Winter",
+        "screen_name": "DocTomTom",
+        "location": "Niederrhein",
+        "url": "http://www.soloart.de",
+        "description": "👨‍👩‍👧‍👦 Familie 📷 Fotografie🍺Brauen 🚧 Lego 🧭 Geocaching",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 48,
+        "friends_count": 144,
+        "listed_count": 4,
+        "favourites_count": 1323,
+        "statuses_count": 760,
+        "created_at": "Sat Dec 25 20:17:45 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/424589350576615424/cFw-iz1o_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/424589350576615424/cFw-iz1o_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/230510363/1420917779",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Telekom_hilft Jetzt kann ich zwar wieder bestellen, aber warum gibt es bei Bezahlung lediglich die Option Nachnahme? Finde ich eh doof und zu Corona-Zeiten doppelt doof.",
+        "display_text_range": [
+            0,
+            170
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Telekom_hilft",
+                    "name": "Telekom hilft",
+                    "id": 123675232,
+                    "id_str": "123675232",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/WKDxKH7FQW",
+                "expanded_url": "https://twitter.com/i/web/status/1254039567344287746",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Telekom_hilft",
+                "name": "Telekom hilft",
+                "id": 123675232,
+                "id_str": "123675232",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821306440"
+}

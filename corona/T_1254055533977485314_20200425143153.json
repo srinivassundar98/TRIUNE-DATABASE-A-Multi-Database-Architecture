@@ -1,0 +1,253 @@
+{
+    "created_at": "Sat Apr 25 14:31:53 +0000 2020",
+    "id": 1254055533977485314,
+    "id_str": "1254055533977485314",
+    "text": "I know it’s mad, but just been craving corona beer for the past two weekends! Got a box of 24. #coronabeer… https://t.co/Yuwv7AkY3s",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 837415263171723266,
+        "id_str": "837415263171723266",
+        "name": "Ann Quinn",
+        "screen_name": "ann_quinn85",
+        "location": "Glasgow, Scotland",
+        "url": null,
+        "description": "Any tweets I do occasionally tweet are just my own views 🍀💚",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 67,
+        "friends_count": 427,
+        "listed_count": 1,
+        "favourites_count": 1326,
+        "statuses_count": 444,
+        "created_at": "Thu Mar 02 21:32:11 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246735556559736832/unvzItVK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246735556559736832/unvzItVK_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            55.88884475,
+            -4.27354156
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -4.27354156,
+            55.88884475
+        ]
+    },
+    "place": {
+        "id": "791e00bcadc4615f",
+        "url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json",
+        "place_type": "city",
+        "name": "Glasgow",
+        "full_name": "Glasgow, Scotland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -4.393285,
+                        55.796184
+                    ],
+                    [
+                        -4.393285,
+                        55.920421
+                    ],
+                    [
+                        -4.090218,
+                        55.920421
+                    ],
+                    [
+                        -4.090218,
+                        55.796184
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "I know it’s mad, but just been craving corona beer for the past two weekends! Got a box of 24. #coronabeer #StayHome #backgarden https://t.co/NODUdXab4z",
+        "display_text_range": [
+            0,
+            128
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "coronabeer",
+                    "indices": [
+                        95,
+                        106
+                    ]
+                },
+                {
+                    "text": "StayHome",
+                    "indices": [
+                        107,
+                        116
+                    ]
+                },
+                {
+                    "text": "backgarden",
+                    "indices": [
+                        117,
+                        128
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254055528126447616,
+                    "id_str": "1254055528126447616",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdM28qXgAA_dho.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdM28qXgAA_dho.jpg",
+                    "url": "https://t.co/NODUdXab4z",
+                    "display_url": "pic.twitter.com/NODUdXab4z",
+                    "expanded_url": "https://twitter.com/ann_quinn85/status/1254055533977485314/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1152,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254055528126447616,
+                    "id_str": "1254055528126447616",
+                    "indices": [
+                        129,
+                        152
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdM28qXgAA_dho.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdM28qXgAA_dho.jpg",
+                    "url": "https://t.co/NODUdXab4z",
+                    "display_url": "pic.twitter.com/NODUdXab4z",
+                    "expanded_url": "https://twitter.com/ann_quinn85/status/1254055533977485314/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1152,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "coronabeer",
+                "indices": [
+                    95,
+                    106
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Yuwv7AkY3s",
+                "expanded_url": "https://twitter.com/i/web/status/1254055533977485314",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825113182"
+}

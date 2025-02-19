@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:00:18 +0000 2020",
+    "id": 1254047585842663424,
+    "id_str": "1254047585842663424",
+    "text": "@heikeflemming Ich bin da ein bisschen in der Klemme, weil meine SuS schon in der Schule sehr ungern ihre Texte zei… https://t.co/aeTwMHgNSq",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254042666314194944,
+    "in_reply_to_status_id_str": "1254042666314194944",
+    "in_reply_to_user_id": 2431955491,
+    "in_reply_to_user_id_str": "2431955491",
+    "in_reply_to_screen_name": "heikeflemming",
+    "user": {
+        "id": 2312138514,
+        "id_str": "2312138514",
+        "name": "Danebensitzerin NRW",
+        "screen_name": "MaraKolumna",
+        "location": "Märchendorf",
+        "url": "http://nochmehrzwillingsblog.wordpress.co",
+        "description": "Hauptberufliche Danebensitzerin * Live-Berichte aus der Brennpunktschule * Verdacht auf Alienismus * Wärmflaschenliebhaberin * Lieblingshormon: Oxytocin",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1976,
+        "friends_count": 468,
+        "listed_count": 44,
+        "favourites_count": 69230,
+        "statuses_count": 42176,
+        "created_at": "Sun Jan 26 16:49:16 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/888355610512773120/pILncdvX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/888355610512773120/pILncdvX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2312138514/1429470843",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@heikeflemming Ich bin da ein bisschen in der Klemme, weil meine SuS schon in der Schule sehr ungern ihre Texte zeigen; ich mag das jetzt gerade nicht fordern; ich lese aber ihre Texte (Corona-Tagebuch) und gebe so schnell wie möglich Feedback (geheine Dinge dürfen mit Blatt abgedeckt werden).",
+        "display_text_range": [
+            15,
+            294
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "heikeflemming",
+                    "name": "Heike Flemming",
+                    "id": 2431955491,
+                    "id_str": "2431955491",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/aeTwMHgNSq",
+                "expanded_url": "https://twitter.com/i/web/status/1254047585842663424",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "heikeflemming",
+                "name": "Heike Flemming",
+                "id": 2431955491,
+                "id_str": "2431955491",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823218199"
+}

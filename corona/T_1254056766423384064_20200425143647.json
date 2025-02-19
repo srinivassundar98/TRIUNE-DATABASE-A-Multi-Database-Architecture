@@ -1,0 +1,116 @@
+{
+    "created_at": "Sat Apr 25 14:36:47 +0000 2020",
+    "id": 1254056766423384064,
+    "id_str": "1254056766423384064",
+    "text": "Chennai lockdown news: Today's updates from your city | Chennai News - Times of India https://t.co/mW6S8E5d4J",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 988147783700918272,
+        "id_str": "988147783700918272",
+        "name": "Herin Tamang",
+        "screen_name": "tamang_herin",
+        "location": "darjeeling",
+        "url": null,
+        "description": "Passionate Hotelier inAhyattworld. \nfood and beverage Team Leader. \n@hyatt",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 18,
+        "friends_count": 237,
+        "listed_count": 0,
+        "favourites_count": 159,
+        "statuses_count": 84,
+        "created_at": "Sun Apr 22 20:09:25 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162700970024767491/vdNKuyvf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162700970024767491/vdNKuyvf_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "38ac902a28ee86da",
+        "url": "https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json",
+        "place_type": "city",
+        "name": "Chennai",
+        "full_name": "Chennai, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        80.183081,
+                        12.965942
+                    ],
+                    [
+                        80.183081,
+                        13.060495
+                    ],
+                    [
+                        80.252142,
+                        13.060495
+                    ],
+                    [
+                        80.252142,
+                        12.965942
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/mW6S8E5d4J",
+                "expanded_url": "https://timesofindia.indiatimes.com/city/chennai/coronavirus-in-chennai-latest-news-updates-on-chennai-corona-cases-deaths-25-april-2020/articleshow/75367034.cms",
+                "display_url": "timesofindia.indiatimes.com/city/chennai/c…",
+                "indices": [
+                    86,
+                    109
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825407020"
+}

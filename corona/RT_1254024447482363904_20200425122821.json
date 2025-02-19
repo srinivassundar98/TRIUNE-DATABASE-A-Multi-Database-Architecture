@@ -1,0 +1,212 @@
+{
+    "created_at": "Sat Apr 25 12:28:21 +0000 2020",
+    "id": 1254024447482363904,
+    "id_str": "1254024447482363904",
+    "text": "RT @seema_amble: anyone else missing unplanned social interaction with strangers (i.e. chatting w/a barista, holding the door open for a st…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 80267089,
+        "id_str": "80267089",
+        "name": "Mike Smith",
+        "screen_name": "MrMikeSmith",
+        "location": "New York, NY",
+        "url": "http://professionallyhelpful.com",
+        "description": "Entrepreneur, Consultant & Investor 🌅:@Applico 🌃: @ScrappyCapital | Prev. (& future) lead vol @AndrewYang | ❤️ 🚴🏽,🕺🏽,🛫,📚, underdogs & road less traveled",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3046,
+        "friends_count": 413,
+        "listed_count": 215,
+        "favourites_count": 9841,
+        "statuses_count": 30705,
+        "created_at": "Tue Oct 06 10:13:17 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149408633576402944/fPAy6Ofl_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149408633576402944/fPAy6Ofl_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80267089/1416624012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 22:13:44 +0000 2020",
+        "id": 1253809376772542464,
+        "id_str": "1253809376772542464",
+        "text": "anyone else missing unplanned social interaction with strangers (i.e. chatting w/a barista, holding the door open f… https://t.co/F7Fqm8f72x",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 324403141,
+            "id_str": "324403141",
+            "name": "Seema Amble",
+            "screen_name": "seema_amble",
+            "location": "San Francisco, CA",
+            "url": null,
+            "description": "fintech vc @a16z // previously @goldmansachs @blackstone @harvard // 🍕 lover // all views are my own",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2271,
+            "friends_count": 1088,
+            "listed_count": 35,
+            "favourites_count": 2839,
+            "statuses_count": 954,
+            "created_at": "Sun Jun 26 15:12:28 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "FA743E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/522244264797806592/-1cb9ZtN_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/522244264797806592/-1cb9ZtN_normal.png",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "5a110d312052166f",
+            "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+            "place_type": "city",
+            "name": "San Francisco",
+            "full_name": "San Francisco, CA",
+            "country_code": "US",
+            "country": "United States",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.514926,
+                            37.708075
+                        ],
+                        [
+                            -122.514926,
+                            37.833238
+                        ],
+                        [
+                            -122.357031,
+                            37.833238
+                        ],
+                        [
+                            -122.357031,
+                            37.708075
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "anyone else missing unplanned social interaction with strangers (i.e. chatting w/a barista, holding the door open for a stranger, smiling as you walk by someone)? corona communication is very “efficient,” but lacks the joys of randomness",
+            "display_text_range": [
+                0,
+                237
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 4,
+        "favorite_count": 77,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/F7Fqm8f72x",
+                    "expanded_url": "https://twitter.com/i/web/status/1253809376772542464",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "seema_amble",
+                "name": "Seema Amble",
+                "id": 324403141,
+                "id_str": "324403141",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817701584"
+}

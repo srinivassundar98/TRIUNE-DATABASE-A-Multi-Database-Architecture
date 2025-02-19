@@ -1,0 +1,197 @@
+{
+    "created_at": "Sat Apr 25 12:52:24 +0000 2020",
+    "id": 1254030500798369792,
+    "id_str": "1254030500798369792",
+    "text": "I miss Life 😭  #throwback \nGo away Corona Virus 🚫 https://t.co/GOlYE2tiSS",
+    "display_text_range": [
+        0,
+        49
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1035976243571765249,
+        "id_str": "1035976243571765249",
+        "name": "Eyad Safi",
+        "screen_name": "EyadSafi",
+        "location": "Lebanon",
+        "url": "http://Instagram.com/Eyadsafi1",
+        "description": "International Criminal Law - IUP |\nMasters of Law - IUL 📃 |\nLaw Degree - LU ⚖️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 118,
+        "friends_count": 302,
+        "listed_count": 0,
+        "favourites_count": 2009,
+        "statuses_count": 88,
+        "created_at": "Sat Sep 01 19:42:38 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250534078258065408/BlpiieDC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250534078258065408/BlpiieDC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035976243571765249/1581361700",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "583bd538eb3129d1",
+        "url": "https://api.twitter.com/1.1/geo/id/583bd538eb3129d1.json",
+        "place_type": "country",
+        "name": "Lebanon",
+        "full_name": "Lebanon",
+        "country_code": "LB",
+        "country": "Lebanon",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        35.075771,
+                        33.054742
+                    ],
+                    [
+                        35.075771,
+                        34.691989
+                    ],
+                    [
+                        36.623258,
+                        34.691989
+                    ],
+                    [
+                        36.623258,
+                        33.054742
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "throwback",
+                "indices": [
+                    15,
+                    25
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254030487619854336,
+                "id_str": "1254030487619854336",
+                "indices": [
+                    50,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc2FZgXYAAFBDc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc2FZgXYAAFBDc.jpg",
+                "url": "https://t.co/GOlYE2tiSS",
+                "display_url": "pic.twitter.com/GOlYE2tiSS",
+                "expanded_url": "https://twitter.com/EyadSafi/status/1254030500798369792/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1065,
+                        "h": 1065,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1065,
+                        "h": 1065,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254030487619854336,
+                "id_str": "1254030487619854336",
+                "indices": [
+                    50,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc2FZgXYAAFBDc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc2FZgXYAAFBDc.jpg",
+                "url": "https://t.co/GOlYE2tiSS",
+                "display_url": "pic.twitter.com/GOlYE2tiSS",
+                "expanded_url": "https://twitter.com/EyadSafi/status/1254030500798369792/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1065,
+                        "h": 1065,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1065,
+                        "h": 1065,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819144807"
+}

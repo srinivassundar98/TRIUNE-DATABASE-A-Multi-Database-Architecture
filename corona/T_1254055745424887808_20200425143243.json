@@ -1,0 +1,93 @@
+{
+    "created_at": "Sat Apr 25 14:32:43 +0000 2020",
+    "id": 1254055745424887808,
+    "id_str": "1254055745424887808",
+    "text": "#RememberInNovember \n\nhttps://t.co/u8Fb4mdyrj",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 188533027,
+        "id_str": "188533027",
+        "name": "RAMON O. ESCARFULLET",
+        "screen_name": "RAOCES",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2599,
+        "friends_count": 4987,
+        "listed_count": 42,
+        "favourites_count": 206490,
+        "statuses_count": 237381,
+        "created_at": "Wed Sep 08 23:33:20 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/906963006826930178/hLAmiru6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/906963006826930178/hLAmiru6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/188533027/1505071805",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RememberInNovember",
+                "indices": [
+                    0,
+                    19
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/u8Fb4mdyrj",
+                "expanded_url": "https://www.wuwm.com/post/40-coronavirus-cases-milwaukee-county-linked-wisconsin-election-health-official-says#stream/0",
+                "display_url": "wuwm.com/post/40-corona…",
+                "indices": [
+                    22,
+                    45
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587825163595"
+}

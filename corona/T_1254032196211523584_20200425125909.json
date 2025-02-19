@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 12:59:09 +0000 2020",
+    "id": 1254032196211523584,
+    "id_str": "1254032196211523584",
+    "text": "@Buchimpression @spasskultur @BEXGuN Die jetzt Gefährdeten waren also schon vor Corona gefährdet an Corona zu erkra… https://t.co/4Wz1CErRgu",
+    "display_text_range": [
+        37,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254030835189190658,
+    "in_reply_to_status_id_str": "1254030835189190658",
+    "in_reply_to_user_id": 3389186669,
+    "in_reply_to_user_id_str": "3389186669",
+    "in_reply_to_screen_name": "Buchimpression",
+    "user": {
+        "id": 52164348,
+        "id_str": "52164348",
+        "name": "nezzram",
+        "screen_name": "nezzram",
+        "location": "Ich weiß es!",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 10,
+        "friends_count": 28,
+        "listed_count": 2,
+        "favourites_count": 2683,
+        "statuses_count": 3015,
+        "created_at": "Mon Jun 29 19:43:42 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217509770606841857/m1qZua_W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217509770606841857/m1qZua_W_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Buchimpression @spasskultur @BEXGuN Die jetzt Gefährdeten waren also schon vor Corona gefährdet an Corona zu erkranken/sterben?\nDavon ab dass der Kreis der potentiell Gefährdeten immernoch nicht hunderprozentig klar ist.",
+        "display_text_range": [
+            37,
+            221
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Buchimpression",
+                    "name": "Frau Kretschmann",
+                    "id": 3389186669,
+                    "id_str": "3389186669",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "spasskultur",
+                    "name": "spasskultur, systemrelevant",
+                    "id": 67412123,
+                    "id_str": "67412123",
+                    "indices": [
+                        16,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "BEXGuN",
+                    "name": "Nero",
+                    "id": 708569634518261760,
+                    "id_str": "708569634518261760",
+                    "indices": [
+                        29,
+                        36
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/4Wz1CErRgu",
+                "expanded_url": "https://twitter.com/i/web/status/1254032196211523584",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Buchimpression",
+                "name": "Frau Kretschmann",
+                "id": 3389186669,
+                "id_str": "3389186669",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "spasskultur",
+                "name": "spasskultur, systemrelevant",
+                "id": 67412123,
+                "id_str": "67412123",
+                "indices": [
+                    16,
+                    28
+                ]
+            },
+            {
+                "screen_name": "BEXGuN",
+                "name": "Nero",
+                "id": 708569634518261760,
+                "id_str": "708569634518261760",
+                "indices": [
+                    29,
+                    36
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819549025"
+}

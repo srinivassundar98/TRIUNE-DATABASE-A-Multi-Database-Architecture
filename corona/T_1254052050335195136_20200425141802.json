@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 14:18:02 +0000 2020",
+    "id": 1254052050335195136,
+    "id_str": "1254052050335195136",
+    "text": "Ini Peta Sebaran Penambahan Jumlah Positif Corona di Tiap Provinsi https://t.co/ib3H0XQJEB https://t.co/EGgoWBcqY5",
+    "display_text_range": [
+        0,
+        90
+    ],
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 816927974406569986,
+        "id_str": "816927974406569986",
+        "name": "News24XX",
+        "screen_name": "News24Xx",
+        "location": "Indonesia",
+        "url": "http://www.news24xx.com/",
+        "description": "News24xx are news sites that proclaim the events that happened in the world and inform to all corners of the world",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 150,
+        "friends_count": 94,
+        "listed_count": 2,
+        "favourites_count": 0,
+        "statuses_count": 19830,
+        "created_at": "Thu Jan 05 08:43:01 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/816929086081597440/H2kX-ZVk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/816929086081597440/H2kX-ZVk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816927974406569986/1483606088",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ib3H0XQJEB",
+                "expanded_url": "http://dlvr.it/RVRPhN",
+                "display_url": "dlvr.it/RVRPhN",
+                "indices": [
+                    67,
+                    90
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254052048829440002,
+                "id_str": "1254052048829440002",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdJsbRUYAIWXgI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdJsbRUYAIWXgI.jpg",
+                "url": "https://t.co/EGgoWBcqY5",
+                "display_url": "pic.twitter.com/EGgoWBcqY5",
+                "expanded_url": "https://twitter.com/News24Xx/status/1254052050335195136/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 604,
+                        "h": 341,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 604,
+                        "h": 341,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 604,
+                        "h": 341,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254052048829440002,
+                "id_str": "1254052048829440002",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdJsbRUYAIWXgI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdJsbRUYAIWXgI.jpg",
+                "url": "https://t.co/EGgoWBcqY5",
+                "display_url": "pic.twitter.com/EGgoWBcqY5",
+                "expanded_url": "https://twitter.com/News24Xx/status/1254052050335195136/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 604,
+                        "h": 341,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 604,
+                        "h": 341,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 604,
+                        "h": 341,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587824282617"
+}

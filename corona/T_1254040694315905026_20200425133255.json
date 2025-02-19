@@ -1,0 +1,155 @@
+{
+    "created_at": "Sat Apr 25 13:32:55 +0000 2020",
+    "id": 1254040694315905026,
+    "id_str": "1254040694315905026",
+    "text": "@JeromePolin Mau ngumpulin orang orang yang ga suka duren, terus diajak nyusun meses seres bikin lukisan atta halil… https://t.co/zyhkLajpdz",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253935022630825984,
+    "in_reply_to_status_id_str": "1253935022630825984",
+    "in_reply_to_user_id": 1043820778519580672,
+    "in_reply_to_user_id_str": "1043820778519580672",
+    "in_reply_to_screen_name": "JeromePolin",
+    "user": {
+        "id": 1093953681743958016,
+        "id_str": "1093953681743958016",
+        "name": "Vincent",
+        "screen_name": "GeBasian",
+        "location": "di kasur kurang kerjaan",
+        "url": null,
+        "description": "Jual domba Hago buat akikah, contact me on dm.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 264,
+        "friends_count": 263,
+        "listed_count": 0,
+        "favourites_count": 429,
+        "statuses_count": 10278,
+        "created_at": "Fri Feb 08 19:24:17 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253745521253969920/OfvTvLdQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253745521253969920/OfvTvLdQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093953681743958016/1587752240",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "59fc0b2781b25311",
+        "url": "https://api.twitter.com/1.1/geo/id/59fc0b2781b25311.json",
+        "place_type": "city",
+        "name": "Bogor Utara 2",
+        "full_name": "Bogor Utara 2, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.800265,
+                        -6.587983
+                    ],
+                    [
+                        106.800265,
+                        -6.518947
+                    ],
+                    [
+                        106.830687,
+                        -6.518947
+                    ],
+                    [
+                        106.830687,
+                        -6.587983
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@JeromePolin Mau ngumpulin orang orang yang ga suka duren, terus diajak nyusun meses seres bikin lukisan atta halilintar di bunderan HI waktu CFD setelah corona selesai",
+        "display_text_range": [
+            13,
+            168
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JeromePolin",
+                    "name": "Jerome Polin Sijabat",
+                    "id": 1043820778519580672,
+                    "id_str": "1043820778519580672",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/zyhkLajpdz",
+                "expanded_url": "https://twitter.com/i/web/status/1254040694315905026",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "JeromePolin",
+                "name": "Jerome Polin Sijabat",
+                "id": 1043820778519580672,
+                "id_str": "1043820778519580672",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587821575131"
+}

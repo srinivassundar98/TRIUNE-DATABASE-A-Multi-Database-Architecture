@@ -1,0 +1,137 @@
+{
+    "created_at": "Sat Apr 25 13:26:40 +0000 2020",
+    "id": 1254039122911641602,
+    "id_str": "1254039122911641602",
+    "text": "\"... der Präsident der Gesellschaft für Informatik, bezeichnet den dezentralen Ansatz als attraktiv, weil es schwer… https://t.co/RHqHxf4trm",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 349599848,
+        "id_str": "349599848",
+        "name": "Thorsten Lieder",
+        "screen_name": "ThorstenLieder",
+        "location": "Hannover",
+        "url": "http://www.tensai.de",
+        "description": "Business Analyst, twittert über regionales & soziales (Hannover und die Welt), ist besorgt über die Vermüllung der Erde",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 82,
+        "friends_count": 214,
+        "listed_count": 15,
+        "favourites_count": 420,
+        "statuses_count": 1073,
+        "created_at": "Sat Aug 06 10:59:07 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2E2C87",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244606931278409730/3K6TLWBt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244606931278409730/3K6TLWBt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/349599848/1457693554",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "\"... der Präsident der Gesellschaft für Informatik, bezeichnet den dezentralen Ansatz als attraktiv, weil es schwerer sei, mit den Daten Missbrauch zu betreiben...\"\n#Datenspende #DatenspendeApp #CCC #handytracking \n\nhttps://t.co/AktpVdDyCi",
+        "display_text_range": [
+            0,
+            239
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Datenspende",
+                    "indices": [
+                        165,
+                        177
+                    ]
+                },
+                {
+                    "text": "DatenspendeApp",
+                    "indices": [
+                        178,
+                        193
+                    ]
+                },
+                {
+                    "text": "CCC",
+                    "indices": [
+                        194,
+                        198
+                    ]
+                },
+                {
+                    "text": "handytracking",
+                    "indices": [
+                        199,
+                        213
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/AktpVdDyCi",
+                    "expanded_url": "http://www.tagesschau.de/inland/corona-app-spahn-103.html",
+                    "display_url": "tagesschau.de/inland/corona-…",
+                    "indices": [
+                        216,
+                        239
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/RHqHxf4trm",
+                "expanded_url": "https://twitter.com/i/web/status/1254039122911641602",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821200479"
+}

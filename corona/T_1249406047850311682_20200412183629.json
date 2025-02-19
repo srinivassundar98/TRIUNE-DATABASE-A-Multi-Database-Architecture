@@ -1,0 +1,106 @@
+{
+    "created_at": "Sun Apr 12 18:36:29 +0000 2020",
+    "id": 1249406047850311682,
+    "id_str": "1249406047850311682",
+    "text": "Sosyalistlerin yıllardır yapamadığını Corona yaptı.",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 194605057,
+        "id_str": "194605057",
+        "name": "Serkan Kurt📽️",
+        "screen_name": "skartuklu",
+        "location": "Kızıltepe, Türkiye",
+        "url": null,
+        "description": "Mardin, Kızıltepe📸",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2166,
+        "friends_count": 782,
+        "listed_count": 9,
+        "favourites_count": 1489,
+        "statuses_count": 2895,
+        "created_at": "Fri Sep 24 15:06:12 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1127306518917976064/mwaRGBJC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127306518917976064/mwaRGBJC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/194605057/1562773072",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "122d7dbf3540188d",
+        "url": "https://api.twitter.com/1.1/geo/id/122d7dbf3540188d.json",
+        "place_type": "admin",
+        "name": "Kızıltepe",
+        "full_name": "Kızıltepe, Mardin",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        40.135512,
+                        36.914257
+                    ],
+                    [
+                        40.135512,
+                        37.329927
+                    ],
+                    [
+                        40.730348,
+                        37.329927
+                    ],
+                    [
+                        40.730348,
+                        36.914257
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586716589306"
+}

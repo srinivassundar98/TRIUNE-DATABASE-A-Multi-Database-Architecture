@@ -1,0 +1,135 @@
+{
+    "created_at": "Sat Apr 25 14:05:24 +0000 2020",
+    "id": 1254048869161328642,
+    "id_str": "1254048869161328642",
+    "text": "Snowden: Corona dient den Regierungen zur Überwachung und Unterdrückung des Volkes https://t.co/6z7gSg3OiZ #anonymousnews via @anoynews",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1084403723303092224,
+        "id_str": "1084403723303092224",
+        "name": "A.H.A.H.Seeger",
+        "screen_name": "seeger_h",
+        "location": "Deutschland",
+        "url": null,
+        "description": "Interessen:\nPolit.Zeitgeschehen-Deut-Geschichte Deut-Verfassungsrecht-GG-\nDemokratie-Raumfahrt-Fliegen- Musik-Natur-Projekte f Kids-\nElement.Pädagogik-Englisch.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 53,
+        "friends_count": 398,
+        "listed_count": 0,
+        "favourites_count": 1606,
+        "statuses_count": 2115,
+        "created_at": "Sun Jan 13 10:56:09 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084506914078240769/bGf5UcvA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084506914078240769/bGf5UcvA_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "6e502a997730f2b9",
+        "url": "https://api.twitter.com/1.1/geo/id/6e502a997730f2b9.json",
+        "place_type": "city",
+        "name": "Hildesheim",
+        "full_name": "Hildesheim, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        9.84655,
+                        52.093669
+                    ],
+                    [
+                        9.84655,
+                        52.19376
+                    ],
+                    [
+                        10.042241,
+                        52.19376
+                    ],
+                    [
+                        10.042241,
+                        52.093669
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "anonymousnews",
+                "indices": [
+                    107,
+                    121
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/6z7gSg3OiZ",
+                "expanded_url": "https://www.anonymousnews.ru/2020/04/21/snowden-corona-unterdrueckung-volk/",
+                "display_url": "anonymousnews.ru/2020/04/21/sno…",
+                "indices": [
+                    83,
+                    106
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "anoynews",
+                "name": "anonymousnews.ru",
+                "id": 970156783850414081,
+                "id_str": "970156783850414081",
+                "indices": [
+                    126,
+                    135
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823524166"
+}

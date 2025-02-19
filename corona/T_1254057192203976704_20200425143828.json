@@ -1,0 +1,172 @@
+{
+    "created_at": "Sat Apr 25 14:38:28 +0000 2020",
+    "id": 1254057192203976704,
+    "id_str": "1254057192203976704",
+    "text": "Ben yapmadım demiyeyim #lol #Corona https://t.co/nV6U6S5me7",
+    "display_text_range": [
+        0,
+        35
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1253619856479576064,
+        "id_str": "1253619856479576064",
+        "name": "KolsuzGamerrr",
+        "screen_name": "GamerrrKolsuz",
+        "location": null,
+        "url": "https://www.instagram.com/kolsuzgamerrr/?hl=tr",
+        "description": "LOL AĞIRLIKLI GÜNCEL OYUNLAR İÇİN TAKİPTE KALIN",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 2,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 25,
+        "created_at": "Fri Apr 24 09:40:57 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253621803882360832/vThYEH0I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253621803882360832/vThYEH0I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253619856479576064/1587723782",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "lol",
+                "indices": [
+                    23,
+                    27
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    28,
+                    35
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254057181412016128,
+                "id_str": "1254057181412016128",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdOXLoXQAA2Et8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdOXLoXQAA2Et8.jpg",
+                "url": "https://t.co/nV6U6S5me7",
+                "display_url": "pic.twitter.com/nV6U6S5me7",
+                "expanded_url": "https://twitter.com/GamerrrKolsuz/status/1254057192203976704/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 556,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 613,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 613,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254057181412016128,
+                "id_str": "1254057181412016128",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdOXLoXQAA2Et8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdOXLoXQAA2Et8.jpg",
+                "url": "https://t.co/nV6U6S5me7",
+                "display_url": "pic.twitter.com/nV6U6S5me7",
+                "expanded_url": "https://twitter.com/GamerrrKolsuz/status/1254057192203976704/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 556,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 613,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 613,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587825508534"
+}

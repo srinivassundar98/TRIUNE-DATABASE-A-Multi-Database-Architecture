@@ -1,0 +1,136 @@
+{
+    "created_at": "Sat Apr 25 12:50:57 +0000 2020",
+    "id": 1254030135205994497,
+    "id_str": "1254030135205994497",
+    "text": "#nowplaying Jikinge Na Corona ( Covid-19) by shadracksinkamba feat: Lilian ft George - via the @audiomack app https://t.co/yKXrbNKl5L",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2907840201,
+        "id_str": "2907840201",
+        "name": "shadrack sinkamba",
+        "screen_name": "sheddy_fx",
+        "location": "Dar es Salaam, Tanzania",
+        "url": null,
+        "description": "Arts|GFX Motion | Gfx Designer | Photographer | @TaxedoStudiosTZ\n http://taxedostudios.co.tz",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 12,
+        "friends_count": 411,
+        "listed_count": 0,
+        "favourites_count": 53,
+        "statuses_count": 30,
+        "created_at": "Sat Dec 06 15:29:53 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1146709865081053184/-M3k85iL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146709865081053184/-M3k85iL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2907840201/1562231910",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00d9827647c0ff5a",
+        "url": "https://api.twitter.com/1.1/geo/id/00d9827647c0ff5a.json",
+        "place_type": "admin",
+        "name": "Dar es Salaam",
+        "full_name": "Dar es Salaam, Tanzania",
+        "country_code": "TZ",
+        "country": "Tanzania",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        39.008111,
+                        -7.190649
+                    ],
+                    [
+                        39.008111,
+                        -6.566974
+                    ],
+                    [
+                        39.55667,
+                        -6.566974
+                    ],
+                    [
+                        39.55667,
+                        -7.190649
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "nowplaying",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/yKXrbNKl5L",
+                "expanded_url": "https://audiomack.com/song/shadracksinkamba/jikinge-na-corona-covid-19",
+                "display_url": "audiomack.com/song/shadracks…",
+                "indices": [
+                    110,
+                    133
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "audiomack",
+                "name": "Audiomack",
+                "id": 395443213,
+                "id_str": "395443213",
+                "indices": [
+                    95,
+                    105
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819057643"
+}

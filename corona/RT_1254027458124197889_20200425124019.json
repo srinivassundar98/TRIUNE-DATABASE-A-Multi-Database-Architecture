@@ -1,0 +1,534 @@
+{
+    "created_at": "Sat Apr 25 12:40:19 +0000 2020",
+    "id": 1254027458124197889,
+    "id_str": "1254027458124197889",
+    "text": "RT @pmi_tangerangct: Untuk memutus rantai penyebaran virus corona (Covid-19), Palang Merah Indonesia (PMI) Kota Tangerang melakukan penyemp…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 785635814147395584,
+        "id_str": "785635814147395584",
+        "name": "Lisa_isnindar ❤17",
+        "screen_name": "Lisaisnind1712",
+        "location": "Banten, Indonesia",
+        "url": null,
+        "description": "Says alhamdulillah everyday, how I thank god for all day's favors😇🤲",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 24,
+        "friends_count": 484,
+        "listed_count": 0,
+        "favourites_count": 1136,
+        "statuses_count": 1077,
+        "created_at": "Tue Oct 11 00:19:09 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249299950657097728/9KRg8gKd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249299950657097728/9KRg8gKd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/785635814147395584/1587204834",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 11:49:18 +0000 2020",
+        "id": 1254014620781641729,
+        "id_str": "1254014620781641729",
+        "text": "Untuk memutus rantai penyebaran virus corona (Covid-19), Palang Merah Indonesia (PMI) Kota Tangerang melakukan peny… https://t.co/GvQQ8JXIbk",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3259565822,
+            "id_str": "3259565822",
+            "name": "PMI Kota Tangerang",
+            "screen_name": "pmi_tangerangct",
+            "location": "Tangerang, Indonesia",
+            "url": null,
+            "description": "Palang Merah Indonesia Kota Tangerang\njl. Mayjen Sutoyo No 15 Sukarasa, Tangerang\nCall Center  021-5524521\nEmail : humas_kotatangerang@pmi.or.id",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 890,
+            "friends_count": 146,
+            "listed_count": 3,
+            "favourites_count": 70,
+            "statuses_count": 704,
+            "created_at": "Mon Jun 29 04:47:56 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/761147870384750592/UCu4tO1D_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/761147870384750592/UCu4tO1D_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3259565822/1583741906",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "a0ab46b927a3431d",
+            "url": "https://api.twitter.com/1.1/geo/id/a0ab46b927a3431d.json",
+            "place_type": "city",
+            "name": "Tangerang",
+            "full_name": "Tangerang, Indonesia",
+            "country_code": "ID",
+            "country": "Indonesia",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            106.608503,
+                            -6.219068
+                        ],
+                        [
+                            106.608503,
+                            -6.153376
+                        ],
+                        [
+                            106.664916,
+                            -6.153376
+                        ],
+                        [
+                            106.664916,
+                            -6.219068
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Untuk memutus rantai penyebaran virus corona (Covid-19), Palang Merah Indonesia (PMI) Kota Tangerang melakukan penyemprotan cairan disinfektan di jalan protokol yang ada di wilayah Kota Tangerang, Sabtu,( 25/04/2020 )\n#cegahcovid19 #pmisiapbantu #tanyapmi https://t.co/Jkp7BumcCT",
+            "display_text_range": [
+                0,
+                255
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "cegahcovid19",
+                        "indices": [
+                            218,
+                            231
+                        ]
+                    },
+                    {
+                        "text": "pmisiapbantu",
+                        "indices": [
+                            232,
+                            245
+                        ]
+                    },
+                    {
+                        "text": "tanyapmi",
+                        "indices": [
+                            246,
+                            255
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1254014542448922624,
+                        "id_str": "1254014542448922624",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcnlRHXkAAmdCh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcnlRHXkAAmdCh.jpg",
+                        "url": "https://t.co/Jkp7BumcCT",
+                        "display_url": "pic.twitter.com/Jkp7BumcCT",
+                        "expanded_url": "https://twitter.com/pmi_tangerangct/status/1254014620781641729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1254014568168374275,
+                        "id_str": "1254014568168374275",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcnmw7XQAM1h3I.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcnmw7XQAM1h3I.jpg",
+                        "url": "https://t.co/Jkp7BumcCT",
+                        "display_url": "pic.twitter.com/Jkp7BumcCT",
+                        "expanded_url": "https://twitter.com/pmi_tangerangct/status/1254014620781641729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1254014584614277120,
+                        "id_str": "1254014584614277120",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcnnuMX0AAW0GP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcnnuMX0AAW0GP.jpg",
+                        "url": "https://t.co/Jkp7BumcCT",
+                        "display_url": "pic.twitter.com/Jkp7BumcCT",
+                        "expanded_url": "https://twitter.com/pmi_tangerangct/status/1254014620781641729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1254014600791678976,
+                        "id_str": "1254014600791678976",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcnoqdXYAANVom.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcnoqdXYAANVom.jpg",
+                        "url": "https://t.co/Jkp7BumcCT",
+                        "display_url": "pic.twitter.com/Jkp7BumcCT",
+                        "expanded_url": "https://twitter.com/pmi_tangerangct/status/1254014620781641729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1254014542448922624,
+                        "id_str": "1254014542448922624",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcnlRHXkAAmdCh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcnlRHXkAAmdCh.jpg",
+                        "url": "https://t.co/Jkp7BumcCT",
+                        "display_url": "pic.twitter.com/Jkp7BumcCT",
+                        "expanded_url": "https://twitter.com/pmi_tangerangct/status/1254014620781641729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1254014568168374275,
+                        "id_str": "1254014568168374275",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcnmw7XQAM1h3I.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcnmw7XQAM1h3I.jpg",
+                        "url": "https://t.co/Jkp7BumcCT",
+                        "display_url": "pic.twitter.com/Jkp7BumcCT",
+                        "expanded_url": "https://twitter.com/pmi_tangerangct/status/1254014620781641729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1254014584614277120,
+                        "id_str": "1254014584614277120",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcnnuMX0AAW0GP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcnnuMX0AAW0GP.jpg",
+                        "url": "https://t.co/Jkp7BumcCT",
+                        "display_url": "pic.twitter.com/Jkp7BumcCT",
+                        "expanded_url": "https://twitter.com/pmi_tangerangct/status/1254014620781641729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1254014600791678976,
+                        "id_str": "1254014600791678976",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcnoqdXYAANVom.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcnoqdXYAANVom.jpg",
+                        "url": "https://t.co/Jkp7BumcCT",
+                        "display_url": "pic.twitter.com/Jkp7BumcCT",
+                        "expanded_url": "https://twitter.com/pmi_tangerangct/status/1254014620781641729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 453,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1620,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 800,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/GvQQ8JXIbk",
+                    "expanded_url": "https://twitter.com/i/web/status/1254014620781641729",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "in"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "pmi_tangerangct",
+                "name": "PMI Kota Tangerang",
+                "id": 3259565822,
+                "id_str": "3259565822",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587818419377"
+}

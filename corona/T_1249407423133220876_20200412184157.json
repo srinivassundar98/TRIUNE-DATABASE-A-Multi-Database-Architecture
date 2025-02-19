@@ -1,0 +1,229 @@
+{
+    "created_at": "Sun Apr 12 18:41:57 +0000 2020",
+    "id": 1249407423133220876,
+    "id_str": "1249407423133220876",
+    "text": "Soylunun istifa etmesi durumun çok kötü olduğunu göstermiyor mu ? #soyluistifa #soyluistifaetti #korona #türkiye… https://t.co/NTZ6PuFBJ1",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1139193523071344647,
+        "id_str": "1139193523071344647",
+        "name": "Adanalı Gonzales",
+        "screen_name": "Serhatbasci",
+        "location": "İstanbul, Türkiye",
+        "url": null,
+        "description": "🏫 Biruni Üniversty 🏫 İstanbul üniversty",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 48,
+        "friends_count": 143,
+        "listed_count": 0,
+        "favourites_count": 427,
+        "statuses_count": 291,
+        "created_at": "Thu Jun 13 15:31:15 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139193681087488000/euJPgrak_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139193681087488000/euJPgrak_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1139193523071344647/1572128363",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "30a17644861c68d7",
+        "url": "https://api.twitter.com/1.1/geo/id/30a17644861c68d7.json",
+        "place_type": "city",
+        "name": "Adana",
+        "full_name": "Adana, Türkiye",
+        "country_code": "TR",
+        "country": "Turkey",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        35.235367,
+                        36.939744
+                    ],
+                    [
+                        35.235367,
+                        37.065909
+                    ],
+                    [
+                        35.334393,
+                        37.065909
+                    ],
+                    [
+                        35.334393,
+                        36.939744
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Soylunun istifa etmesi durumun çok kötü olduğunu göstermiyor mu ? #soyluistifa #soyluistifaetti #korona #türkiye #corona #Covid_19 #evdekal #StayHome #StayAtHome #SOKAĞACIKMAYASAĞI",
+        "display_text_range": [
+            0,
+            180
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "soyluistifa",
+                    "indices": [
+                        66,
+                        78
+                    ]
+                },
+                {
+                    "text": "soyluistifaetti",
+                    "indices": [
+                        79,
+                        95
+                    ]
+                },
+                {
+                    "text": "korona",
+                    "indices": [
+                        96,
+                        103
+                    ]
+                },
+                {
+                    "text": "türkiye",
+                    "indices": [
+                        104,
+                        112
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        113,
+                        120
+                    ]
+                },
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        121,
+                        130
+                    ]
+                },
+                {
+                    "text": "evdekal",
+                    "indices": [
+                        131,
+                        139
+                    ]
+                },
+                {
+                    "text": "StayHome",
+                    "indices": [
+                        140,
+                        149
+                    ]
+                },
+                {
+                    "text": "StayAtHome",
+                    "indices": [
+                        150,
+                        161
+                    ]
+                },
+                {
+                    "text": "SOKAĞACIKMAYASAĞI",
+                    "indices": [
+                        162,
+                        180
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "soyluistifa",
+                "indices": [
+                    66,
+                    78
+                ]
+            },
+            {
+                "text": "soyluistifaetti",
+                "indices": [
+                    79,
+                    95
+                ]
+            },
+            {
+                "text": "korona",
+                "indices": [
+                    96,
+                    103
+                ]
+            },
+            {
+                "text": "türkiye",
+                "indices": [
+                    104,
+                    112
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/NTZ6PuFBJ1",
+                "expanded_url": "https://twitter.com/i/web/status/1249407423133220876",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586716917199"
+}

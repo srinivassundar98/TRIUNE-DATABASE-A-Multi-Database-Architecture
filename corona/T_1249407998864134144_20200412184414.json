@@ -1,0 +1,129 @@
+{
+    "created_at": "Sun Apr 12 18:44:14 +0000 2020",
+    "id": 1249407998864134144,
+    "id_str": "1249407998864134144",
+    "text": "Udah janji sama diri sendiri untuk ga ngomongin corona virus, tetep ajaaa kepikiran, nerjemahin artikel lah, dll\nEm… https://t.co/ORHUbtcF9M",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 33153416,
+        "id_str": "33153416",
+        "name": "deyang",
+        "screen_name": "deyang",
+        "location": "Moi homey",
+        "url": null,
+        "description": "Ambitchous (striving to be more of a bitch than the everage bitch)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2814,
+        "friends_count": 890,
+        "listed_count": 10,
+        "favourites_count": 2693,
+        "statuses_count": 39553,
+        "created_at": "Sun Apr 19 07:02:37 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248125433360482306/cVppteYc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248125433360482306/cVppteYc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33153416/1560902612",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "6c8aa00f3ecfda7f",
+        "url": "https://api.twitter.com/1.1/geo/id/6c8aa00f3ecfda7f.json",
+        "place_type": "admin",
+        "name": "Banten",
+        "full_name": "Banten, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        105.099716,
+                        -6.9997
+                    ],
+                    [
+                        105.099716,
+                        -5.875858
+                    ],
+                    [
+                        106.7778,
+                        -5.875858
+                    ],
+                    [
+                        106.7778,
+                        -6.9997
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Udah janji sama diri sendiri untuk ga ngomongin corona virus, tetep ajaaa kepikiran, nerjemahin artikel lah, dll\nEmanglah seringkali rasional ku ini terbajak oleh otak emosi. Musti latihan focus focus focus hhhhh",
+        "display_text_range": [
+            0,
+            212
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ORHUbtcF9M",
+                "expanded_url": "https://twitter.com/i/web/status/1249407998864134144",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1586717054464"
+}

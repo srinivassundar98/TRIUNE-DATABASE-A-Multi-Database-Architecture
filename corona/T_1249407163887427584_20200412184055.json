@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:40:55 +0000 2020",
+    "id": 1249407163887427584,
+    "id_str": "1249407163887427584",
+    "text": "@Grard05542415 @PubliekeOmroep Oké,  ik heb ook nog geen bouwvakker gehoord die geveld is door het  corona virus. A… https://t.co/tD0upNUg2O",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249383510152040455,
+    "in_reply_to_status_id_str": "1249383510152040455",
+    "in_reply_to_user_id": 1110986629177634816,
+    "in_reply_to_user_id_str": "1110986629177634816",
+    "in_reply_to_screen_name": "Grard05542415",
+    "user": {
+        "id": 1035877570242326528,
+        "id_str": "1035877570242326528",
+        "name": "gebroeders bever",
+        "screen_name": "GebroedersB",
+        "location": "The Netherlands",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1118,
+        "friends_count": 671,
+        "listed_count": 1,
+        "favourites_count": 7847,
+        "statuses_count": 51268,
+        "created_at": "Sat Sep 01 13:10:33 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1035878779405692930/qkWos2fA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035878779405692930/qkWos2fA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035877570242326528/1546188480",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Grard05542415 @PubliekeOmroep Oké,  ik heb ook nog geen bouwvakker gehoord die geveld is door het  corona virus. Al die over hygiënische types zijn vaak het snelst ziek.",
+        "display_text_range": [
+            31,
+            170
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Grard05542415",
+                    "name": "Gérard",
+                    "id": 1110986629177634816,
+                    "id_str": "1110986629177634816",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "PubliekeOmroep",
+                    "name": "NPO",
+                    "id": 19657223,
+                    "id_str": "19657223",
+                    "indices": [
+                        15,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/tD0upNUg2O",
+                "expanded_url": "https://twitter.com/i/web/status/1249407163887427584",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Grard05542415",
+                "name": "Gérard",
+                "id": 1110986629177634816,
+                "id_str": "1110986629177634816",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "PubliekeOmroep",
+                "name": "NPO",
+                "id": 19657223,
+                "id_str": "19657223",
+                "indices": [
+                    15,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586716855390"
+}

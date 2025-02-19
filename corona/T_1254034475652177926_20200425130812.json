@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 13:08:12 +0000 2020",
+    "id": 1254034475652177926,
+    "id_str": "1254034475652177926",
+    "text": "إصابات #كورونا في #هولندا تتجاوز 37 ألفًا\n\nhttps://t.co/eQDbzezX1o",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2473674486,
+        "id_str": "2473674486",
+        "name": "IMLebanonNews",
+        "screen_name": "IMLebanonNews",
+        "location": "Lebanon",
+        "url": "http://www.imlebanon.org",
+        "description": "We Cover 24/7 Local, Regional and International News | Download IMLebanon App For Breaking News | Find Us On Facebook: https://www.facebook.com/imlebanon",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6935,
+        "friends_count": 117,
+        "listed_count": 91,
+        "favourites_count": 0,
+        "statuses_count": 564009,
+        "created_at": "Fri May 02 08:31:38 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "B30000",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562547208310890496/GehqsInc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562547208310890496/GehqsInc_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2473674486/1515406957",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "كورونا",
+                "indices": [
+                    7,
+                    14
+                ]
+            },
+            {
+                "text": "هولندا",
+                "indices": [
+                    18,
+                    25
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/eQDbzezX1o",
+                "expanded_url": "https://www.imlebanon.org/2020/04/25/netherlands-corona-virus/",
+                "display_url": "imlebanon.org/2020/04/25/net…",
+                "indices": [
+                    43,
+                    66
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ar",
+    "timestamp_ms": "1587820092486"
+}

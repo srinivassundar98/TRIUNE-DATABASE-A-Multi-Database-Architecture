@@ -1,0 +1,152 @@
+{
+    "created_at": "Sat Apr 25 12:34:43 +0000 2020",
+    "id": 1254026047885991936,
+    "id_str": "1254026047885991936",
+    "text": "4/24現在の情報更新しました！\n#人形町\n#水天宮前\n#テイクアウト\n#持ち帰り\n#グルメ\nこれからGW(ゴールデンウィーク)週間に入るので休業のお店も出てくるかと思いますが、その際はまた改めて更新します！\n\nhttps://t.co/sNE5ZUv4S3",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1250269025990397955,
+    "in_reply_to_status_id_str": "1250269025990397955",
+    "in_reply_to_user_id": 1150769815721611264,
+    "in_reply_to_user_id_str": "1150769815721611264",
+    "in_reply_to_screen_name": "ningyocho_info",
+    "user": {
+        "id": 1150769815721611264,
+        "id_str": "1150769815721611264",
+        "name": "人形町界隈の人",
+        "screen_name": "ningyocho_info",
+        "location": "東京 中央区",
+        "url": "https://ningyocho.info/",
+        "description": "東京都中央区日本橋人形町住み。オープン情報などもお伝えします！！ANA上級会員SFC保有、趣味はゴルフ #人形町 #水天宮 #水天宮前 #浜町 #ランチ #ディナー #ningyocho #suitengu #suitengumae #hamacho #lunch #dinner",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 56,
+        "friends_count": 37,
+        "listed_count": 1,
+        "favourites_count": 4,
+        "statuses_count": 175,
+        "created_at": "Mon Jul 15 14:11:19 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237058126026702850/QBAhLyhR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237058126026702850/QBAhLyhR_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "735b6f2b933efaf6",
+        "url": "https://api.twitter.com/1.1/geo/id/735b6f2b933efaf6.json",
+        "place_type": "city",
+        "name": "中央区",
+        "full_name": "東京 中央区",
+        "country_code": "JP",
+        "country": "日本",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        139.758528,
+                        35.644646
+                    ],
+                    [
+                        139.758528,
+                        35.69663
+                    ],
+                    [
+                        139.793196,
+                        35.69663
+                    ],
+                    [
+                        139.793196,
+                        35.644646
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "人形町",
+                "indices": [
+                    17,
+                    21
+                ]
+            },
+            {
+                "text": "水天宮前",
+                "indices": [
+                    22,
+                    27
+                ]
+            },
+            {
+                "text": "テイクアウト",
+                "indices": [
+                    28,
+                    35
+                ]
+            },
+            {
+                "text": "持ち帰り",
+                "indices": [
+                    36,
+                    41
+                ]
+            },
+            {
+                "text": "グルメ",
+                "indices": [
+                    42,
+                    46
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/sNE5ZUv4S3",
+                "expanded_url": "https://ningyocho.info/corona-takeout/",
+                "display_url": "ningyocho.info/corona-takeout/",
+                "indices": [
+                    106,
+                    129
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja",
+    "timestamp_ms": "1587818083150"
+}

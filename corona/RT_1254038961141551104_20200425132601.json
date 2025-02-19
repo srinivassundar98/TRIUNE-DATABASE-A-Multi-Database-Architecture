@@ -1,0 +1,512 @@
+{
+    "created_at": "Sat Apr 25 13:26:01 +0000 2020",
+    "id": 1254038961141551104,
+    "id_str": "1254038961141551104",
+    "text": "RT @nichoan: For the fight against Community/National Spread of the deadly Corona virus..... for more information on delivery and productio…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 219957307,
+        "id_str": "219957307",
+        "name": "DEKU",
+        "screen_name": "nichoan",
+        "location": "Abuja",
+        "url": null,
+        "description": "Fear shouldn't paralyze us but Energize 🥜.... Executive Managing Partner: BlvckCollar| .@blvck_collar .. |SC:nichoan #ManchesterUnited 🔴 #Cr7 🐐",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1128,
+        "friends_count": 1173,
+        "listed_count": 1,
+        "favourites_count": 2149,
+        "statuses_count": 35595,
+        "created_at": "Fri Nov 26 11:09:28 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253393840129683457/SS0yYYlb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253393840129683457/SS0yYYlb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/219957307/1555420553",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 13:12:33 +0000 2020",
+        "id": 1253673183049367553,
+        "id_str": "1253673183049367553",
+        "text": "For the fight against Community/National Spread of the deadly Corona virus..... for more information on delivery an… https://t.co/KLpc4wlzX1",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 219957307,
+            "id_str": "219957307",
+            "name": "DEKU",
+            "screen_name": "nichoan",
+            "location": "Abuja",
+            "url": null,
+            "description": "Fear shouldn't paralyze us but Energize 🥜.... Executive Managing Partner: BlvckCollar| .@blvck_collar .. |SC:nichoan #ManchesterUnited 🔴 #Cr7 🐐",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1128,
+            "friends_count": 1173,
+            "listed_count": 1,
+            "favourites_count": 2149,
+            "statuses_count": 35594,
+            "created_at": "Fri Nov 26 11:09:28 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253393840129683457/SS0yYYlb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253393840129683457/SS0yYYlb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/219957307/1555420553",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "00e55e2b4c491c5f",
+            "url": "https://api.twitter.com/1.1/geo/id/00e55e2b4c491c5f.json",
+            "place_type": "city",
+            "name": "Abuja",
+            "full_name": "Abuja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.304554,
+                            8.961887
+                        ],
+                        [
+                            7.304554,
+                            9.185441
+                        ],
+                        [
+                            7.543634,
+                            9.185441
+                        ],
+                        [
+                            7.543634,
+                            8.961887
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "For the fight against Community/National Spread of the deadly Corona virus..... for more information on delivery and production HMU https://t.co/2okNGQWfJM",
+            "display_text_range": [
+                0,
+                131
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253673169304649729,
+                        "id_str": "1253673169304649729",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXxGvDXgAEF-JJ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXxGvDXgAEF-JJ.jpg",
+                        "url": "https://t.co/2okNGQWfJM",
+                        "display_url": "pic.twitter.com/2okNGQWfJM",
+                        "expanded_url": "https://twitter.com/nichoan/status/1253673183049367553/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 810,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 810,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1253673169296199680,
+                        "id_str": "1253673169296199680",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXxGvBWkAA1BU-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXxGvBWkAA1BU-.jpg",
+                        "url": "https://t.co/2okNGQWfJM",
+                        "display_url": "pic.twitter.com/2okNGQWfJM",
+                        "expanded_url": "https://twitter.com/nichoan/status/1253673183049367553/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1253673169275236352,
+                        "id_str": "1253673169275236352",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXxGu8WsAANvPZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXxGu8WsAANvPZ.jpg",
+                        "url": "https://t.co/2okNGQWfJM",
+                        "display_url": "pic.twitter.com/2okNGQWfJM",
+                        "expanded_url": "https://twitter.com/nichoan/status/1253673183049367553/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1253673169304596482,
+                        "id_str": "1253673169304596482",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXxGvDWsAI2p-h.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXxGvDWsAI2p-h.jpg",
+                        "url": "https://t.co/2okNGQWfJM",
+                        "display_url": "pic.twitter.com/2okNGQWfJM",
+                        "expanded_url": "https://twitter.com/nichoan/status/1253673183049367553/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253673169304649729,
+                        "id_str": "1253673169304649729",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXxGvDXgAEF-JJ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXxGvDXgAEF-JJ.jpg",
+                        "url": "https://t.co/2okNGQWfJM",
+                        "display_url": "pic.twitter.com/2okNGQWfJM",
+                        "expanded_url": "https://twitter.com/nichoan/status/1253673183049367553/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 810,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 810,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1253673169296199680,
+                        "id_str": "1253673169296199680",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXxGvBWkAA1BU-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXxGvBWkAA1BU-.jpg",
+                        "url": "https://t.co/2okNGQWfJM",
+                        "display_url": "pic.twitter.com/2okNGQWfJM",
+                        "expanded_url": "https://twitter.com/nichoan/status/1253673183049367553/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1253673169275236352,
+                        "id_str": "1253673169275236352",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXxGu8WsAANvPZ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXxGu8WsAANvPZ.jpg",
+                        "url": "https://t.co/2okNGQWfJM",
+                        "display_url": "pic.twitter.com/2okNGQWfJM",
+                        "expanded_url": "https://twitter.com/nichoan/status/1253673183049367553/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1253673169304596482,
+                        "id_str": "1253673169304596482",
+                        "indices": [
+                            132,
+                            155
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXxGvDWsAI2p-h.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXxGvDWsAI2p-h.jpg",
+                        "url": "https://t.co/2okNGQWfJM",
+                        "display_url": "pic.twitter.com/2okNGQWfJM",
+                        "expanded_url": "https://twitter.com/nichoan/status/1253673183049367553/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/KLpc4wlzX1",
+                    "expanded_url": "https://twitter.com/i/web/status/1253673183049367553",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "nichoan",
+                "name": "DEKU",
+                "id": 219957307,
+                "id_str": "219957307",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821161910"
+}

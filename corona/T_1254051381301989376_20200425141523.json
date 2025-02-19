@@ -1,0 +1,191 @@
+{
+    "created_at": "Sat Apr 25 14:15:23 +0000 2020",
+    "id": 1254051381301989376,
+    "id_str": "1254051381301989376",
+    "text": "@memories2019_12 @chrisdisturl corona high five https://t.co/Zpzft1ifNM",
+    "display_text_range": [
+        31,
+        47
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254049071016431616,
+    "in_reply_to_status_id_str": "1254049071016431616",
+    "in_reply_to_user_id": 825276523741585413,
+    "in_reply_to_user_id_str": "825276523741585413",
+    "in_reply_to_screen_name": "memories2019_12",
+    "user": {
+        "id": 825049267064696832,
+        "id_str": "825049267064696832",
+        "name": "n8schattengeschwätz",
+        "screen_name": "teeeeeequila",
+        "location": "köln",
+        "url": null,
+        "description": "[aka sir-hate-a-lot][meta meta hackepet*ra][teilt das bett mit @mona_steria][nazis blocken mich meist vorsorglich (danke dafür)]",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 963,
+        "friends_count": 883,
+        "listed_count": 9,
+        "favourites_count": 49579,
+        "statuses_count": 24868,
+        "created_at": "Fri Jan 27 18:34:08 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245272242830925825/Xe7-IkjB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245272242830925825/Xe7-IkjB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/825049267064696832/1584873682",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "memories2019_12",
+                "name": "iris",
+                "id": 825276523741585413,
+                "id_str": "825276523741585413",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "chrisdisturl",
+                "name": "Excite ᗰike 🇪🇺",
+                "id": 1422559754,
+                "id_str": "1422559754",
+                "indices": [
+                    17,
+                    30
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254051372800135170,
+                "id_str": "1254051372800135170",
+                "indices": [
+                    48,
+                    71
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdJFE3X0AIH5Cn.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdJFE3X0AIH5Cn.jpg",
+                "url": "https://t.co/Zpzft1ifNM",
+                "display_url": "pic.twitter.com/Zpzft1ifNM",
+                "expanded_url": "https://twitter.com/teeeeeequila/status/1254051381301989376/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 450,
+                        "h": 262,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 450,
+                        "h": 262,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 450,
+                        "h": 262,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254051372800135170,
+                "id_str": "1254051372800135170",
+                "indices": [
+                    48,
+                    71
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdJFE3X0AIH5Cn.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdJFE3X0AIH5Cn.jpg",
+                "url": "https://t.co/Zpzft1ifNM",
+                "display_url": "pic.twitter.com/Zpzft1ifNM",
+                "expanded_url": "https://twitter.com/teeeeeequila/status/1254051381301989376/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        225,
+                        131
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EWdJFE3X0AIH5Cn.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 450,
+                        "h": 262,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 450,
+                        "h": 262,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 450,
+                        "h": 262,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824123107"
+}

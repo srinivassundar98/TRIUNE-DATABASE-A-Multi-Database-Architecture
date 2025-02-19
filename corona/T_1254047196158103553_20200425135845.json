@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 13:58:45 +0000 2020",
+    "id": 1254047196158103553,
+    "id_str": "1254047196158103553",
+    "text": "@simple_heart68 @tagarnews @TheArieAir Yg bahaya itu bukan virus Corona\nTapi VIRUS PANIC 2024\n@TheArieAir",
+    "display_text_range": [
+        39,
+        105
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254046819543179265,
+    "in_reply_to_status_id_str": "1254046819543179265",
+    "in_reply_to_user_id": 800518524045168640,
+    "in_reply_to_user_id_str": "800518524045168640",
+    "in_reply_to_screen_name": "simple_heart68",
+    "user": {
+        "id": 3034207700,
+        "id_str": "3034207700",
+        "name": "yudianto yudi",
+        "screen_name": "yudianto99",
+        "location": "JKt",
+        "url": null,
+        "description": "Masa yg besar adalah momemtum utk membantu PRO NKRI.\nikhlas saling follow satu suara satu misi.\n#programfollback",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 198,
+        "friends_count": 541,
+        "listed_count": 0,
+        "favourites_count": 162,
+        "statuses_count": 1494,
+        "created_at": "Sat Feb 21 07:42:59 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664632234410930176/igUI7jXM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664632234410930176/igUI7jXM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3034207700/1444694705",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0c8ce023e0d5ae81",
+        "url": "https://api.twitter.com/1.1/geo/id/0c8ce023e0d5ae81.json",
+        "place_type": "city",
+        "name": "Ciputat",
+        "full_name": "Ciputat, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.692731,
+                        -6.339093
+                    ],
+                    [
+                        106.692731,
+                        -6.267669
+                    ],
+                    [
+                        106.761455,
+                        -6.267669
+                    ],
+                    [
+                        106.761455,
+                        -6.339093
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "simple_heart68",
+                "name": "Kamu, sontoloyo🅱🅾🅱‼!",
+                "id": 800518524045168640,
+                "id_str": "800518524045168640",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "tagarnews",
+                "name": "Tagar.id",
+                "id": 819816384230260736,
+                "id_str": "819816384230260736",
+                "indices": [
+                    16,
+                    26
+                ]
+            },
+            {
+                "screen_name": "TheArieAir",
+                "name": "Arie Dirgantara",
+                "id": 164604281,
+                "id_str": "164604281",
+                "indices": [
+                    27,
+                    38
+                ]
+            },
+            {
+                "screen_name": "TheArieAir",
+                "name": "Arie Dirgantara",
+                "id": 164604281,
+                "id_str": "164604281",
+                "indices": [
+                    94,
+                    105
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587823125291"
+}

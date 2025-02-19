@@ -1,0 +1,164 @@
+{
+    "created_at": "Sun Apr 12 18:38:26 +0000 2020",
+    "id": 1249406538038431745,
+    "id_str": "1249406538038431745",
+    "text": "Return of #coronavirus\n\n99 new corona patients found in China in last 24 hours. https://t.co/VzbEB5bOhX",
+    "display_text_range": [
+        0,
+        79
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 919142022350495744,
+        "id_str": "919142022350495744",
+        "name": "Nihar Ranjan Sarkar",
+        "screen_name": "NiharRa9026843",
+        "location": "Kolkata, Bharat",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 340,
+        "friends_count": 527,
+        "listed_count": 3,
+        "favourites_count": 9459,
+        "statuses_count": 20377,
+        "created_at": "Sat Oct 14 10:05:09 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013331765245734913/2NZRNxTU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013331765245734913/2NZRNxTU_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "coronavirus",
+                "indices": [
+                    10,
+                    22
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249406525036249088,
+                "id_str": "1249406525036249088",
+                "indices": [
+                    80,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbInWjXQAA6kiW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbInWjXQAA6kiW.jpg",
+                "url": "https://t.co/VzbEB5bOhX",
+                "display_url": "pic.twitter.com/VzbEB5bOhX",
+                "expanded_url": "https://twitter.com/NiharRa9026843/status/1249406538038431745/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 719,
+                        "h": 964,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 964,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 507,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249406525036249088,
+                "id_str": "1249406525036249088",
+                "indices": [
+                    80,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbInWjXQAA6kiW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbInWjXQAA6kiW.jpg",
+                "url": "https://t.co/VzbEB5bOhX",
+                "display_url": "pic.twitter.com/VzbEB5bOhX",
+                "expanded_url": "https://twitter.com/NiharRa9026843/status/1249406538038431745/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 719,
+                        "h": 964,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 964,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 507,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716706176"
+}

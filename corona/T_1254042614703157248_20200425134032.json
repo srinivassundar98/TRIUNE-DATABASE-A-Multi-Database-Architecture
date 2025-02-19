@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:40:32 +0000 2020",
+    "id": 1254042614703157248,
+    "id_str": "1254042614703157248",
+    "text": "@gubuknetijen IT'S JUST BECAUSE THE CORONA VIRUSSSSSSSSS, A REAL THINK",
+    "display_text_range": [
+        14,
+        70
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254014801585545216,
+    "in_reply_to_status_id_str": "1254014801585545216",
+    "in_reply_to_user_id": 819191230273765376,
+    "in_reply_to_user_id_str": "819191230273765376",
+    "in_reply_to_screen_name": "gubuknetijen",
+    "user": {
+        "id": 1237934383,
+        "id_str": "1237934383",
+        "name": "Juniar",
+        "screen_name": "FatharaniJuniar",
+        "location": "Bandung, Jawa Barat, Indonesia",
+        "url": "http://www.purwacarakamusicstudio.com",
+        "description": "Balance and do it now. Be grateful for everything✨ Movie addict and my strange obsession is singing.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 710,
+        "friends_count": 152,
+        "listed_count": 0,
+        "favourites_count": 1507,
+        "statuses_count": 24098,
+        "created_at": "Sun Mar 03 05:43:59 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236690181727477760/4_cN97jb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236690181727477760/4_cN97jb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1237934383/1571752031",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "b0f1e0022c9f810a",
+        "url": "https://api.twitter.com/1.1/geo/id/b0f1e0022c9f810a.json",
+        "place_type": "city",
+        "name": "Cileunyi",
+        "full_name": "Cileunyi, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        107.705029,
+                        -6.973058
+                    ],
+                    [
+                        107.705029,
+                        -6.886605
+                    ],
+                    [
+                        107.760813,
+                        -6.886605
+                    ],
+                    [
+                        107.760813,
+                        -6.973058
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "gubuknetijen",
+                "name": "folkative",
+                "id": 819191230273765376,
+                "id_str": "819191230273765376",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822032987"
+}

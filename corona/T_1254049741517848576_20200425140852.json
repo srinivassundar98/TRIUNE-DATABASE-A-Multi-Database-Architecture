@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:08:52 +0000 2020",
+    "id": 1254049741517848576,
+    "id_str": "1254049741517848576",
+    "text": "@cher I feel comfort when I listen to your music and your voice. My application to grad school was denied. I’m a CN… https://t.co/Zf2OGe8Ir2",
+    "display_text_range": [
+        6,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253140848885129217,
+    "in_reply_to_status_id_str": "1253140848885129217",
+    "in_reply_to_user_id": 124003770,
+    "in_reply_to_user_id_str": "124003770",
+    "in_reply_to_screen_name": "cher",
+    "user": {
+        "id": 1187947393616109570,
+        "id_str": "1187947393616109570",
+        "name": "Mabon Prater",
+        "screen_name": "MabonPrater",
+        "location": null,
+        "url": null,
+        "description": "Historian and CNA crammed into one little homo 🏳️‍🌈🏳️‍🌈🤷🏻‍♂️♥️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 9,
+        "friends_count": 110,
+        "listed_count": 0,
+        "favourites_count": 189,
+        "statuses_count": 242,
+        "created_at": "Sat Oct 26 04:21:56 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233213896426524672/9osZmWP8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233213896426524672/9osZmWP8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1187947393616109570/1575547465",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@cher I feel comfort when I listen to your music and your voice. My application to grad school was denied. I’m a CNA working in a facility with 43 patients with corona. I spend 12-16 hours a day watching people slowly die and cry on me. This place is out of PPE.",
+        "display_text_range": [
+            6,
+            262
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "cher",
+                    "name": "Cher",
+                    "id": 124003770,
+                    "id_str": "124003770",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Zf2OGe8Ir2",
+                "expanded_url": "https://twitter.com/i/web/status/1254049741517848576",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "cher",
+                "name": "Cher",
+                "id": 124003770,
+                "id_str": "124003770",
+                "indices": [
+                    0,
+                    5
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823732152"
+}

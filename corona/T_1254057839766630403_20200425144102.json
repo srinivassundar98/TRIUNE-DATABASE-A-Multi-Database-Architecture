@@ -1,0 +1,156 @@
+{
+    "created_at": "Sat Apr 25 14:41:02 +0000 2020",
+    "id": 1254057839766630403,
+    "id_str": "1254057839766630403",
+    "text": "When you know corona can't \ncancel your exams https://t.co/ipQEmQrR9Y",
+    "display_text_range": [
+        0,
+        45
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1133029080905920512,
+        "id_str": "1133029080905920512",
+        "name": "@meme_se_marunga",
+        "screen_name": "Memewala11",
+        "location": null,
+        "url": null,
+        "description": "Meme se marunga 😂",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 27,
+        "listed_count": 0,
+        "favourites_count": 8,
+        "statuses_count": 367,
+        "created_at": "Mon May 27 15:15:58 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133051984339013637/pX4ZVMU-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133051984339013637/pX4ZVMU-_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254057832040652802,
+                "id_str": "1254057832040652802",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdO9DaUYAI5qkj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdO9DaUYAI5qkj.jpg",
+                "url": "https://t.co/ipQEmQrR9Y",
+                "display_url": "pic.twitter.com/ipQEmQrR9Y",
+                "expanded_url": "https://twitter.com/Memewala11/status/1254057839766630403/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 716,
+                        "h": 550,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 522,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 716,
+                        "h": 550,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254057832040652802,
+                "id_str": "1254057832040652802",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdO9DaUYAI5qkj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdO9DaUYAI5qkj.jpg",
+                "url": "https://t.co/ipQEmQrR9Y",
+                "display_url": "pic.twitter.com/ipQEmQrR9Y",
+                "expanded_url": "https://twitter.com/Memewala11/status/1254057839766630403/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 716,
+                        "h": 550,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 522,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 716,
+                        "h": 550,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825662925"
+}

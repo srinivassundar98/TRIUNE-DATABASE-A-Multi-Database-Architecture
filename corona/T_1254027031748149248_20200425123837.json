@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:38:37 +0000 2020",
+    "id": 1254027031748149248,
+    "id_str": "1254027031748149248",
+    "text": "@syamgalang1 @pwepee Abs corona ini akan kupeluk kalian",
+    "display_text_range": [
+        21,
+        55
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254020577578242051,
+    "in_reply_to_status_id_str": "1254020577578242051",
+    "in_reply_to_user_id": 1067566730,
+    "in_reply_to_user_id_str": "1067566730",
+    "in_reply_to_screen_name": "syamgalang1",
+    "user": {
+        "id": 280899788,
+        "id_str": "280899788",
+        "name": "bele",
+        "screen_name": "nadyabelason",
+        "location": null,
+        "url": null,
+        "description": "simple",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 645,
+        "friends_count": 347,
+        "listed_count": 0,
+        "favourites_count": 69,
+        "statuses_count": 19591,
+        "created_at": "Tue Apr 12 07:23:14 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249211658276188160/60L8136Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249211658276188160/60L8136Z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/280899788/1401894817",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "syamgalang1",
+                "name": "Geleng",
+                "id": 1067566730,
+                "id_str": "1067566730",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "pwepee",
+                "name": "putri.",
+                "id": 1660438304,
+                "id_str": "1660438304",
+                "indices": [
+                    13,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587818317721"
+}

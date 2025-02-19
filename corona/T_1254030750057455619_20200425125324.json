@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:53:24 +0000 2020",
+    "id": 1254030750057455619,
+    "id_str": "1254030750057455619",
+    "text": "@Jeroen1903 @VrouwtjeRutten Hallo Sabrina idd ik heb ook een hondje die mag je ook wel uitlaten alleen graag met 2h… https://t.co/JVce4e1Q7U",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254027533630279682,
+    "in_reply_to_status_id_str": "1254027533630279682",
+    "in_reply_to_user_id": 1242214021572501510,
+    "in_reply_to_user_id_str": "1242214021572501510",
+    "in_reply_to_screen_name": "Jeroen1903",
+    "user": {
+        "id": 1251447131988201473,
+        "id_str": "1251447131988201473",
+        "name": "Jeroen",
+        "screen_name": "Jeroen67303698",
+        "location": "Rhenen, Nederland",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 7,
+        "listed_count": 1,
+        "favourites_count": 10,
+        "statuses_count": 83,
+        "created_at": "Sat Apr 18 09:47:21 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253421658339065856/iKIz76iI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253421658339065856/iKIz76iI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251447131988201473/1587673986",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Jeroen1903 @VrouwtjeRutten Hallo Sabrina idd ik heb ook een hondje die mag je ook wel uitlaten alleen graag met 2handen snap je. Ow wacht s ik zie Brabant staan kutzooi corona toevallig???",
+        "display_text_range": [
+            28,
+            189
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Jeroen1903",
+                    "name": "Jeroen2020",
+                    "id": 1242214021572501510,
+                    "id_str": "1242214021572501510",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "VrouwtjeRutten",
+                    "name": "Sabrina",
+                    "id": 846699206647730176,
+                    "id_str": "846699206647730176",
+                    "indices": [
+                        12,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/JVce4e1Q7U",
+                "expanded_url": "https://twitter.com/i/web/status/1254030750057455619",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Jeroen1903",
+                "name": "Jeroen2020",
+                "id": 1242214021572501510,
+                "id_str": "1242214021572501510",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "VrouwtjeRutten",
+                "name": "Sabrina",
+                "id": 846699206647730176,
+                "id_str": "846699206647730176",
+                "indices": [
+                    12,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587819204235"
+}

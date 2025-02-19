@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 12:39:03 +0000 2020",
+    "id": 1254027139902562305,
+    "id_str": "1254027139902562305",
+    "text": "@geertwilderspvv Weet je in denk dat als we nu gaan testen we ons dood gaan schrikken dat we dan best eens boven it… https://t.co/3edsiCWOOi",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254015837553508353,
+    "in_reply_to_status_id_str": "1254015837553508353",
+    "in_reply_to_user_id": 41778159,
+    "in_reply_to_user_id_str": "41778159",
+    "in_reply_to_screen_name": "geertwilderspvv",
+    "user": {
+        "id": 3684214755,
+        "id_str": "3684214755",
+        "name": "Paulina de boer",
+        "screen_name": "PaulinaBoer",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 43,
+        "friends_count": 21,
+        "listed_count": 1,
+        "favourites_count": 1794,
+        "statuses_count": 11540,
+        "created_at": "Thu Sep 17 09:31:03 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@geertwilderspvv Weet je in denk dat als we nu gaan testen we ons dood gaan schrikken dat we dan best eens boven italie met corona gevallen uit kunnen komen. Niet het aantal doden maar wel de zieken",
+        "display_text_range": [
+            17,
+            198
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "geertwilderspvv",
+                    "name": "Geert Wilders",
+                    "id": 41778159,
+                    "id_str": "41778159",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/3edsiCWOOi",
+                "expanded_url": "https://twitter.com/i/web/status/1254027139902562305",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "geertwilderspvv",
+                "name": "Geert Wilders",
+                "id": 41778159,
+                "id_str": "41778159",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587818343507"
+}

@@ -1,0 +1,200 @@
+{
+    "created_at": "Sun Apr 12 18:37:22 +0000 2020",
+    "id": 1249406271310057474,
+    "id_str": "1249406271310057474",
+    "text": "@DevinNunes I hear drinking bleach cures Corona virus. Go for it Dev the Dud! https://t.co/yJtZyyWfQ0",
+    "display_text_range": [
+        12,
+        77
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249397942399537152,
+    "in_reply_to_status_id_str": "1249397942399537152",
+    "in_reply_to_user_id": 54412900,
+    "in_reply_to_user_id_str": "54412900",
+    "in_reply_to_screen_name": "DevinNunes",
+    "user": {
+        "id": 2564170872,
+        "id_str": "2564170872",
+        "name": "johnnybriefs27",
+        "screen_name": "johnnybriefs27",
+        "location": "PDX",
+        "url": "http://www.radblackout.com",
+        "description": "Life is the sum of all your choices.\n-Camus",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 119,
+        "friends_count": 328,
+        "listed_count": 5,
+        "favourites_count": 6436,
+        "statuses_count": 4337,
+        "created_at": "Thu Jun 12 22:37:31 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236103620359155713/oqlFaPeV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236103620359155713/oqlFaPeV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2564170872/1582966833",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "ac88a4f17a51c7fc",
+        "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json",
+        "place_type": "city",
+        "name": "Portland",
+        "full_name": "Portland, OR",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -122.790065,
+                        45.421863
+                    ],
+                    [
+                        -122.790065,
+                        45.650941
+                    ],
+                    [
+                        -122.471751,
+                        45.650941
+                    ],
+                    [
+                        -122.471751,
+                        45.421863
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "DevinNunes",
+                "name": "Devin Nunes",
+                "id": 54412900,
+                "id_str": "54412900",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249406268843782149,
+                "id_str": "1249406268843782149",
+                "indices": [
+                    78,
+                    101
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbIYcKUcAUKC8m.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbIYcKUcAUKC8m.jpg",
+                "url": "https://t.co/yJtZyyWfQ0",
+                "display_url": "pic.twitter.com/yJtZyyWfQ0",
+                "expanded_url": "https://twitter.com/johnnybriefs27/status/1249406271310057474/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 717,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1242,
+                        "h": 742,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 406,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249406268843782149,
+                "id_str": "1249406268843782149",
+                "indices": [
+                    78,
+                    101
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbIYcKUcAUKC8m.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbIYcKUcAUKC8m.jpg",
+                "url": "https://t.co/yJtZyyWfQ0",
+                "display_url": "pic.twitter.com/yJtZyyWfQ0",
+                "expanded_url": "https://twitter.com/johnnybriefs27/status/1249406271310057474/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 717,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1242,
+                        "h": 742,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 406,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716642583"
+}

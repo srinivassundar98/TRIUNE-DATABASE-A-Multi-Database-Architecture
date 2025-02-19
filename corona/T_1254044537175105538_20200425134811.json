@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:48:11 +0000 2020",
+    "id": 1254044537175105538,
+    "id_str": "1254044537175105538",
+    "text": "Was it a Smith-Corona? https://t.co/nvnoggHXks",
+    "display_text_range": [
+        0,
+        22
+    ],
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 25841581,
+        "id_str": "25841581",
+        "name": "Alan Monaghan Writer",
+        "screen_name": "apmonaghan",
+        "location": "Dublin, Ireland",
+        "url": "http://www.alanmonaghan.net",
+        "description": "Writer, misanthrope, climber of things. Author of The Soldier's Song Trilogy.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 258,
+        "friends_count": 154,
+        "listed_count": 12,
+        "favourites_count": 64,
+        "statuses_count": 14255,
+        "created_at": "Sun Mar 22 16:50:39 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646379226308849664/nkpdZiMe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646379226308849664/nkpdZiMe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25841581/1442944287",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254044532867547137,
+                "id_str": "1254044532867547137",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdC28IXQAEh3_J.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdC28IXQAEh3_J.jpg",
+                "url": "https://t.co/nvnoggHXks",
+                "display_url": "pic.twitter.com/nvnoggHXks",
+                "expanded_url": "https://twitter.com/apmonaghan/status/1254044537175105538/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 968,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 150,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 968,
+                        "h": 214,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254044532867547137,
+                "id_str": "1254044532867547137",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdC28IXQAEh3_J.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdC28IXQAEh3_J.jpg",
+                "url": "https://t.co/nvnoggHXks",
+                "display_url": "pic.twitter.com/nvnoggHXks",
+                "expanded_url": "https://twitter.com/apmonaghan/status/1254044537175105538/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 968,
+                        "h": 214,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 150,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 968,
+                        "h": 214,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822491340"
+}

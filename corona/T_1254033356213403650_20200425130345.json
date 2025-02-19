@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 13:03:45 +0000 2020",
+    "id": 1254033356213403650,
+    "id_str": "1254033356213403650",
+    "text": "@SteffV9 @OxGroover @theblogcat @TeamKenFM https://t.co/EGhN6AeOxK\nAb min. 17 geht es um sars-cov2 und wie sich Corona Viren verändern",
+    "display_text_range": [
+        43,
+        134
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253722561696935937,
+    "in_reply_to_status_id_str": "1253722561696935937",
+    "in_reply_to_user_id": 1150858740100423680,
+    "in_reply_to_user_id_str": "1150858740100423680",
+    "in_reply_to_screen_name": "SteffV9",
+    "user": {
+        "id": 19157811,
+        "id_str": "19157811",
+        "name": "crat 🇪🇺🇩🇪🇺🇳🌌🌍🌼🌱🐦👩‍🔬🔬😷",
+        "screen_name": "craty",
+        "location": null,
+        "url": null,
+        "description": "science ➡️ facts. politics ➡️ decisions based on facts",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 34,
+        "friends_count": 1043,
+        "listed_count": 0,
+        "favourites_count": 3591,
+        "statuses_count": 709,
+        "created_at": "Sun Jan 18 21:05:05 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251089729250119682/0M96sk3F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251089729250119682/0M96sk3F_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/EGhN6AeOxK",
+                "expanded_url": "https://tvthek.orf.at/profile/Additional-Content/1670/Langfassung-Interview-mit-Virologe-Christian-Drosten/14049580",
+                "display_url": "tvthek.orf.at/profile/Additi…",
+                "indices": [
+                    43,
+                    66
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "SteffV9",
+                "name": "SteffV",
+                "id": 1150858740100423680,
+                "id_str": "1150858740100423680",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "OxGroover",
+                "name": "🐺 Wolf 🐺",
+                "id": 995186428450615296,
+                "id_str": "995186428450615296",
+                "indices": [
+                    9,
+                    19
+                ]
+            },
+            {
+                "screen_name": "theblogcat",
+                "name": "FritztheCat",
+                "id": 915907801146380288,
+                "id_str": "915907801146380288",
+                "indices": [
+                    20,
+                    31
+                ]
+            },
+            {
+                "screen_name": "TeamKenFM",
+                "name": "KenFM.de",
+                "id": 2391765882,
+                "id_str": "2391765882",
+                "indices": [
+                    32,
+                    42
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819825591"
+}

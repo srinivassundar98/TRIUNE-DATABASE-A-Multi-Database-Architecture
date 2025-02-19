@@ -1,0 +1,156 @@
+{
+    "created_at": "Sun Apr 12 18:32:41 +0000 2020",
+    "id": 1249405093448826880,
+    "id_str": "1249405093448826880",
+    "text": "Me:kal se pakka study krungi Corona ki kasam\n\n*Corona* https://t.co/xh5ongqRPq",
+    "display_text_range": [
+        0,
+        54
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1219196253956763649,
+        "id_str": "1219196253956763649",
+        "name": "Pixie ♥️",
+        "screen_name": "Pixie82922694",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 7,
+        "listed_count": 0,
+        "favourites_count": 5,
+        "statuses_count": 1,
+        "created_at": "Mon Jan 20 09:53:46 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244316643695738882/2H7Ad_pW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244316643695738882/2H7Ad_pW_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249405089489416192,
+                "id_str": "1249405089489416192",
+                "indices": [
+                    55,
+                    78
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbHTyuU8AA9KdO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbHTyuU8AA9KdO.jpg",
+                "url": "https://t.co/xh5ongqRPq",
+                "display_url": "pic.twitter.com/xh5ongqRPq",
+                "expanded_url": "https://twitter.com/Pixie82922694/status/1249405093448826880/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 939,
+                        "h": 625,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 939,
+                        "h": 625,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249405089489416192,
+                "id_str": "1249405089489416192",
+                "indices": [
+                    55,
+                    78
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbHTyuU8AA9KdO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbHTyuU8AA9KdO.jpg",
+                "url": "https://t.co/xh5ongqRPq",
+                "display_url": "pic.twitter.com/xh5ongqRPq",
+                "expanded_url": "https://twitter.com/Pixie82922694/status/1249405093448826880/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 939,
+                        "h": 625,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 939,
+                        "h": 625,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1586716361759"
+}

@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 14:37:28 +0000 2020",
+    "id": 1254056938557456384,
+    "id_str": "1254056938557456384",
+    "text": "@DrANKURPANDEY5 @rssurjewala Modi ji ne bhi abhi tak un santo ki hatya pe koi byan nhi diya isliye kyuki abhi desh… https://t.co/fkuadJV3OB",
+    "display_text_range": [
+        29,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254041276925775874,
+    "in_reply_to_status_id_str": "1254041276925775874",
+    "in_reply_to_user_id": 1131531180598108161,
+    "in_reply_to_user_id_str": "1131531180598108161",
+    "in_reply_to_screen_name": "DrANKURPANDEY5",
+    "user": {
+        "id": 1246162855231029248,
+        "id_str": "1246162855231029248",
+        "name": "Sumi",
+        "screen_name": "Sumi50415767",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 145,
+        "listed_count": 0,
+        "favourites_count": 15,
+        "statuses_count": 48,
+        "created_at": "Fri Apr 03 19:49:24 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253844673388441601/0xH2cCM1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253844673388441601/0xH2cCM1_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@DrANKURPANDEY5 @rssurjewala Modi ji ne bhi abhi tak un santo ki hatya pe koi byan nhi diya isliye kyuki abhi desh ek bahot badi mahamri se lad raha hai is baat ko samjho sonia ji ne isliye kuch nhi bola kyuki ye sahi samay nhi hai ..abhi desh ko ek saath rehkar corona ko harana na hi aapas me ladna jai hind",
+        "display_text_range": [
+            29,
+            309
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrANKURPANDEY5",
+                    "name": "Dr ANKUR PANDEY",
+                    "id": 1131531180598108161,
+                    "id_str": "1131531180598108161",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "rssurjewala",
+                    "name": "Randeep Singh Surjewala",
+                    "id": 3066787711,
+                    "id_str": "3066787711",
+                    "indices": [
+                        16,
+                        28
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/fkuadJV3OB",
+                "expanded_url": "https://twitter.com/i/web/status/1254056938557456384",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DrANKURPANDEY5",
+                "name": "Dr ANKUR PANDEY",
+                "id": 1131531180598108161,
+                "id_str": "1131531180598108161",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "rssurjewala",
+                "name": "Randeep Singh Surjewala",
+                "id": 3066787711,
+                "id_str": "3066787711",
+                "indices": [
+                    16,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587825448060"
+}

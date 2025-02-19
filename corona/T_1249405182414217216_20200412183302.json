@@ -1,0 +1,297 @@
+{
+    "created_at": "Sun Apr 12 18:33:02 +0000 2020",
+    "id": 1249405182414217216,
+    "id_str": "1249405182414217216",
+    "text": "@paterimon \nMaking the video\n#corona #style \n#hit #rock #punch #argentina \n#pandemia2020 #mequedoencasa… https://t.co/54DPIE3lXP",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 214630795,
+    "in_reply_to_user_id_str": "214630795",
+    "in_reply_to_screen_name": "PATERIMON",
+    "user": {
+        "id": 2467607109,
+        "id_str": "2467607109",
+        "name": "Pollkontos",
+        "screen_name": "pollkontos",
+        "location": null,
+        "url": "http://www.pablokontos.com",
+        "description": "Artista",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 55,
+        "friends_count": 236,
+        "listed_count": 7,
+        "favourites_count": 217,
+        "statuses_count": 765,
+        "created_at": "Mon Apr 07 15:49:37 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453405017119404032/Tiepn36x_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453405017119404032/Tiepn36x_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2467607109/1462238252",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            -34.6089,
+            -58.4397
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -58.4397,
+            -34.6089
+        ]
+    },
+    "place": {
+        "id": "018f1cde6bad9747",
+        "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+        "place_type": "city",
+        "name": "Ciudad Autónoma de Buenos Aires",
+        "full_name": "Ciudad Autónoma de Buenos Aires, Argentina",
+        "country_code": "AR",
+        "country": "Argentina",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -58.531792,
+                        -34.674453
+                    ],
+                    [
+                        -58.531792,
+                        -34.534177
+                    ],
+                    [
+                        -58.353494,
+                        -34.534177
+                    ],
+                    [
+                        -58.353494,
+                        -34.674453
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@paterimon \nMaking the video\n#corona #style \n#hit #rock #punch #argentina \n#pandemia2020 #mequedoencasa\n\nhttps://t.co/R8nWHfHYbU en Ciudad Autónoma de Buenos Aires https://t.co/Krn8bplStL",
+        "display_text_range": [
+            0,
+            187
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "corona",
+                    "indices": [
+                        29,
+                        36
+                    ]
+                },
+                {
+                    "text": "style",
+                    "indices": [
+                        37,
+                        43
+                    ]
+                },
+                {
+                    "text": "hit",
+                    "indices": [
+                        45,
+                        49
+                    ]
+                },
+                {
+                    "text": "rock",
+                    "indices": [
+                        50,
+                        55
+                    ]
+                },
+                {
+                    "text": "punch",
+                    "indices": [
+                        56,
+                        62
+                    ]
+                },
+                {
+                    "text": "argentina",
+                    "indices": [
+                        63,
+                        73
+                    ]
+                },
+                {
+                    "text": "pandemia2020",
+                    "indices": [
+                        75,
+                        88
+                    ]
+                },
+                {
+                    "text": "mequedoencasa",
+                    "indices": [
+                        89,
+                        103
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/R8nWHfHYbU",
+                    "expanded_url": "https://youtu.be/P8mOsl2WkEQ",
+                    "display_url": "youtu.be/P8mOsl2WkEQ",
+                    "indices": [
+                        105,
+                        128
+                    ]
+                },
+                {
+                    "url": "https://t.co/Krn8bplStL",
+                    "expanded_url": "https://www.instagram.com/p/B-5BKzxgEir/?igshid=1f476jcoq21n0",
+                    "display_url": "instagram.com/p/B-5BKzxgEir/…",
+                    "indices": [
+                        164,
+                        187
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "PATERIMON",
+                    "name": "Paterimon",
+                    "id": 214630795,
+                    "id_str": "214630795",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    29,
+                    36
+                ]
+            },
+            {
+                "text": "style",
+                "indices": [
+                    37,
+                    43
+                ]
+            },
+            {
+                "text": "hit",
+                "indices": [
+                    45,
+                    49
+                ]
+            },
+            {
+                "text": "rock",
+                "indices": [
+                    50,
+                    55
+                ]
+            },
+            {
+                "text": "punch",
+                "indices": [
+                    56,
+                    62
+                ]
+            },
+            {
+                "text": "argentina",
+                "indices": [
+                    63,
+                    73
+                ]
+            },
+            {
+                "text": "pandemia2020",
+                "indices": [
+                    75,
+                    88
+                ]
+            },
+            {
+                "text": "mequedoencasa",
+                "indices": [
+                    89,
+                    103
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/54DPIE3lXP",
+                "expanded_url": "https://twitter.com/i/web/status/1249405182414217216",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    105,
+                    128
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "PATERIMON",
+                "name": "Paterimon",
+                "id": 214630795,
+                "id_str": "214630795",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1586716382970"
+}

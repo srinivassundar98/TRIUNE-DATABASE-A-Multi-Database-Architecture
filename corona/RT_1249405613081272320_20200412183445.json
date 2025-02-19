@@ -1,0 +1,232 @@
+{
+    "created_at": "Sun Apr 12 18:34:45 +0000 2020",
+    "id": 1249405613081272320,
+    "id_str": "1249405613081272320",
+    "text": "RT @TimDemisch: Tilman Kuban, der Bundesvorsitzende der Jungen Union, fordert nun, eine staatliche App automatisch auf die Geräte aller Men…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 719585736,
+        "id_str": "719585736",
+        "name": "Matthias Baenz",
+        "screen_name": "MatthiasBaenz",
+        "location": "Schwerin",
+        "url": null,
+        "description": "Love Free / Open Source Software, Debian GNU/Linux, Open Knowledge.\n/I'm not going down. Not today./\n*42.* (D.Adams). ;-) . \nRTs do not imply endorsement.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 33,
+        "friends_count": 227,
+        "listed_count": 2,
+        "favourites_count": 4438,
+        "statuses_count": 2347,
+        "created_at": "Fri Jul 27 06:27:44 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093992976282513409/Kz9bTuA-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093992976282513409/Kz9bTuA-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/719585736/1549663943",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 11 23:24:31 +0000 2020",
+        "id": 1249116146042834945,
+        "id_str": "1249116146042834945",
+        "text": "Tilman Kuban, der Bundesvorsitzende der Jungen Union, fordert nun, eine staatliche App automatisch auf die Geräte a… https://t.co/0RQUQex1wT",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2180199006,
+            "id_str": "2180199006",
+            "name": "Tim Demisch",
+            "screen_name": "TimDemisch",
+            "location": "Berlin, Germany",
+            "url": "https://www.tim-demisch.de",
+            "description": "Sozialliberaler @Die_Gruenen • @Netzwerk_SozLib • Europa-, Außen- und Digitalpolitik • selbstständiger Entwickler • Politikwissenschaftsstudent @FU_Berlin",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2699,
+            "friends_count": 719,
+            "listed_count": 11,
+            "favourites_count": 22592,
+            "statuses_count": 5332,
+            "created_at": "Thu Nov 07 14:24:51 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1173348316735770640/awZemCGk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173348316735770640/awZemCGk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2180199006/1586705545",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "3078869807f9dd36",
+            "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+            "place_type": "city",
+            "name": "Berlin",
+            "full_name": "Berlin, Deutschland",
+            "country_code": "DE",
+            "country": "Deutschland",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.088304,
+                            52.338079
+                        ],
+                        [
+                            13.088304,
+                            52.675323
+                        ],
+                        [
+                            13.760909,
+                            52.675323
+                        ],
+                        [
+                            13.760909,
+                            52.338079
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Tilman Kuban, der Bundesvorsitzende der Jungen Union, fordert nun, eine staatliche App automatisch auf die Geräte aller Menschen installieren zu lassen. Er zeigt damit sowohl technisches Unwissen als auch ein sehr erschreckendes Staatsverständnis. #Kuban\nhttps://t.co/RC55f9i7GI",
+            "display_text_range": [
+                0,
+                278
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Kuban",
+                        "indices": [
+                            248,
+                            254
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/RC55f9i7GI",
+                        "expanded_url": "https://www.welt.de/politik/deutschland/article207209897/Tilman-Kuban-JU-Chef-fordert-Corona-App-automatisch-zu-installieren.html",
+                        "display_url": "welt.de/politik/deutsc…",
+                        "indices": [
+                            255,
+                            278
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 25,
+        "reply_count": 48,
+        "retweet_count": 162,
+        "favorite_count": 889,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0RQUQex1wT",
+                    "expanded_url": "https://twitter.com/i/web/status/1249116146042834945",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "TimDemisch",
+                "name": "Tim Demisch",
+                "id": 2180199006,
+                "id_str": "2180199006",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716485649"
+}

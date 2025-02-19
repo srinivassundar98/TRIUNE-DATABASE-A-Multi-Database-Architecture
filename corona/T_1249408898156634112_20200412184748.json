@@ -1,0 +1,428 @@
+{
+    "created_at": "Sun Apr 12 18:47:48 +0000 2020",
+    "id": 1249408898156634112,
+    "id_str": "1249408898156634112",
+    "text": "Sri Lanka’s symbolic landmark, Lotus Tower in Colombo was lit up Saturday, 11th April 2020 night to honor and pay t… https://t.co/DGxZSkXcOd",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 928120213,
+        "id_str": "928120213",
+        "name": "Lasantha Wijesekera",
+        "screen_name": "Lasanthaw1",
+        "location": "Sri Lanka",
+        "url": null,
+        "description": "Hi! Friends!! Welcome to my Twitter page.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 75,
+        "listed_count": 0,
+        "favourites_count": 4,
+        "statuses_count": 39,
+        "created_at": "Mon Nov 05 18:01:43 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "7F0202",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770260709867388928/fNPX9mhA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770260709867388928/fNPX9mhA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/928120213/1423324601",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "173c2bb9d42baaa5",
+        "url": "https://api.twitter.com/1.1/geo/id/173c2bb9d42baaa5.json",
+        "place_type": "country",
+        "name": "Sri Lanka",
+        "full_name": "Sri Lanka",
+        "country_code": "LK",
+        "country": "Sri Lanka",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        79.650526,
+                        5.921383
+                    ],
+                    [
+                        79.650526,
+                        9.835938
+                    ],
+                    [
+                        81.878782,
+                        9.835938
+                    ],
+                    [
+                        81.878782,
+                        5.921383
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Sri Lanka’s symbolic landmark, Lotus Tower in Colombo was lit up Saturday, 11th April 2020 night to honor and pay tribute to the Healthcare, Armed Forces, Police and all supporting personnel, who are leading the battle against COVID-19 Corona Virus Epidemic. https://t.co/OssRCtxY5j",
+        "display_text_range": [
+            0,
+            258
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1249408877457739777,
+                    "id_str": "1249408877457739777",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbKwSAWkAEdE9b.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbKwSAWkAEdE9b.jpg",
+                    "url": "https://t.co/OssRCtxY5j",
+                    "display_url": "pic.twitter.com/OssRCtxY5j",
+                    "expanded_url": "https://twitter.com/Lasanthaw1/status/1249408898156634112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 453,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 750,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 750,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1249408880922243074,
+                    "id_str": "1249408880922243074",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbKwe6WsAIr1xo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbKwe6WsAIr1xo.jpg",
+                    "url": "https://t.co/OssRCtxY5j",
+                    "display_url": "pic.twitter.com/OssRCtxY5j",
+                    "expanded_url": "https://twitter.com/Lasanthaw1/status/1249408898156634112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 853,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1249408891286405122,
+                    "id_str": "1249408891286405122",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbKxFhXQAIzpU6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbKxFhXQAIzpU6.jpg",
+                    "url": "https://t.co/OssRCtxY5j",
+                    "display_url": "pic.twitter.com/OssRCtxY5j",
+                    "expanded_url": "https://twitter.com/Lasanthaw1/status/1249408898156634112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 500,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 333,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1249408894973206529,
+                    "id_str": "1249408894973206529",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbKxTQXYAE9O3j.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbKxTQXYAE9O3j.jpg",
+                    "url": "https://t.co/OssRCtxY5j",
+                    "display_url": "pic.twitter.com/OssRCtxY5j",
+                    "expanded_url": "https://twitter.com/Lasanthaw1/status/1249408898156634112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1249408877457739777,
+                    "id_str": "1249408877457739777",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbKwSAWkAEdE9b.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbKwSAWkAEdE9b.jpg",
+                    "url": "https://t.co/OssRCtxY5j",
+                    "display_url": "pic.twitter.com/OssRCtxY5j",
+                    "expanded_url": "https://twitter.com/Lasanthaw1/status/1249408898156634112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 453,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 750,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 750,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1249408880922243074,
+                    "id_str": "1249408880922243074",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbKwe6WsAIr1xo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbKwe6WsAIr1xo.jpg",
+                    "url": "https://t.co/OssRCtxY5j",
+                    "display_url": "pic.twitter.com/OssRCtxY5j",
+                    "expanded_url": "https://twitter.com/Lasanthaw1/status/1249408898156634112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 453,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 800,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 853,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1249408891286405122,
+                    "id_str": "1249408891286405122",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbKxFhXQAIzpU6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbKxFhXQAIzpU6.jpg",
+                    "url": "https://t.co/OssRCtxY5j",
+                    "display_url": "pic.twitter.com/OssRCtxY5j",
+                    "expanded_url": "https://twitter.com/Lasanthaw1/status/1249408898156634112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 500,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 500,
+                            "h": 333,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 333,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1249408894973206529,
+                    "id_str": "1249408894973206529",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbKxTQXYAE9O3j.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbKxTQXYAE9O3j.jpg",
+                    "url": "https://t.co/OssRCtxY5j",
+                    "display_url": "pic.twitter.com/OssRCtxY5j",
+                    "expanded_url": "https://twitter.com/Lasanthaw1/status/1249408898156634112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 800,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/DGxZSkXcOd",
+                "expanded_url": "https://twitter.com/i/web/status/1249408898156634112",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717268872"
+}

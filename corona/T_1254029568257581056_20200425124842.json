@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 12:48:42 +0000 2020",
+    "id": 1254029568257581056,
+    "id_str": "1254029568257581056",
+    "text": "@richaanirudh @YRDeshmukh @maliniawasthi Accha inse bhi Corona felta he?",
+    "display_text_range": [
+        41,
+        72
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253872819626110977,
+    "in_reply_to_status_id_str": "1253872819626110977",
+    "in_reply_to_user_id": 108538423,
+    "in_reply_to_user_id_str": "108538423",
+    "in_reply_to_screen_name": "richaanirudh",
+    "user": {
+        "id": 715660062,
+        "id_str": "715660062",
+        "name": "Manish rajpurohit",
+        "screen_name": "Manish4599Singh",
+        "location": "navi mumbai",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 15,
+        "listed_count": 0,
+        "favourites_count": 65,
+        "statuses_count": 378,
+        "created_at": "Wed Jul 25 07:29:15 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/989744494860877825/ZLhk-xQJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/989744494860877825/ZLhk-xQJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/715660062/1545296400",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "richaanirudh",
+                "name": "richa anirudh",
+                "id": 108538423,
+                "id_str": "108538423",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "YRDeshmukh",
+                "name": "Yashwant Deshmukh 🇮🇳",
+                "id": 103849564,
+                "id_str": "103849564",
+                "indices": [
+                    14,
+                    25
+                ]
+            },
+            {
+                "screen_name": "maliniawasthi",
+                "name": "मालिनी अवस्थी",
+                "id": 144083031,
+                "id_str": "144083031",
+                "indices": [
+                    26,
+                    40
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587818922472"
+}

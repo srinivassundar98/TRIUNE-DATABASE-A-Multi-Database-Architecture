@@ -1,0 +1,193 @@
+{
+    "created_at": "Sun Apr 12 18:28:41 +0000 2020",
+    "id": 1249404084265910272,
+    "id_str": "1249404084265910272",
+    "text": "@Merypoppinsss @martabdc Hay gente q se corona sin ser reina https://t.co/0d8VSQq3Zr",
+    "display_text_range": [
+        25,
+        60
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249402842718355456,
+    "in_reply_to_status_id_str": "1249402842718355456",
+    "in_reply_to_user_id": 492105589,
+    "in_reply_to_user_id_str": "492105589",
+    "in_reply_to_screen_name": "Merypoppinsss",
+    "user": {
+        "id": 1219952702714785799,
+        "id_str": "1219952702714785799",
+        "name": "Pilu👑💚islak kulüp 👍",
+        "screen_name": "Piluca1378",
+        "location": null,
+        "url": null,
+        "description": "fans canyaman",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 169,
+        "friends_count": 185,
+        "listed_count": 0,
+        "favourites_count": 6807,
+        "statuses_count": 10151,
+        "created_at": "Wed Jan 22 11:59:51 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247217582928691207/OzeIk42i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247217582928691207/OzeIk42i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219952702714785799/1583452694",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Merypoppinsss",
+                "name": "María💛PrivacyForCan",
+                "id": 492105589,
+                "id_str": "492105589",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "martabdc",
+                "name": "Marta",
+                "id": 546036287,
+                "id_str": "546036287",
+                "indices": [
+                    15,
+                    24
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249404075717939213,
+                "id_str": "1249404075717939213",
+                "indices": [
+                    61,
+                    84
+                ],
+                "description": "fiesta cerveza GIF",
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EVbGYyIX0A0N5J2.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVbGYyIX0A0N5J2.jpg",
+                "url": "https://t.co/0d8VSQq3Zr",
+                "display_url": "pic.twitter.com/0d8VSQq3Zr",
+                "expanded_url": "https://twitter.com/Piluca1378/status/1249404084265910272/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249404075717939213,
+                "id_str": "1249404075717939213",
+                "indices": [
+                    61,
+                    84
+                ],
+                "description": "fiesta cerveza GIF",
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EVbGYyIX0A0N5J2.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVbGYyIX0A0N5J2.jpg",
+                "url": "https://t.co/0d8VSQq3Zr",
+                "display_url": "pic.twitter.com/0d8VSQq3Zr",
+                "expanded_url": "https://twitter.com/Piluca1378/status/1249404084265910272/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        4,
+                        3
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EVbGYyIX0A0N5J2.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1586716121151"
+}

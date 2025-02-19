@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 14:23:24 +0000 2020",
+    "id": 1254053400892903424,
+    "id_str": "1254053400892903424",
+    "text": "@jaanjaan65 @daiya_dwarka @Dr_Uditraj Aur corona felaya vo sub kon the",
+    "display_text_range": [
+        38,
+        70
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254050219156791298,
+    "in_reply_to_status_id_str": "1254050219156791298",
+    "in_reply_to_user_id": 1173137480259796993,
+    "in_reply_to_user_id_str": "1173137480259796993",
+    "in_reply_to_screen_name": "jaanjaan65",
+    "user": {
+        "id": 1251528389791371265,
+        "id_str": "1251528389791371265",
+        "name": "prakash",
+        "screen_name": "Prakash12334355",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 18,
+        "friends_count": 67,
+        "listed_count": 0,
+        "favourites_count": 388,
+        "statuses_count": 243,
+        "created_at": "Sat Apr 18 15:10:11 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251538331336241153/U9NS0Vie_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251538331336241153/U9NS0Vie_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "jaanjaan65",
+                "name": "jak jak",
+                "id": 1173137480259796993,
+                "id_str": "1173137480259796993",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "daiya_dwarka",
+                "name": "द्वारका दैया",
+                "id": 1132210066004692993,
+                "id_str": "1132210066004692993",
+                "indices": [
+                    12,
+                    25
+                ]
+            },
+            {
+                "screen_name": "Dr_Uditraj",
+                "name": "Dr. Udit Raj",
+                "id": 397566887,
+                "id_str": "397566887",
+                "indices": [
+                    26,
+                    37
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587824604615"
+}

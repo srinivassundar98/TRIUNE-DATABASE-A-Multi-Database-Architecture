@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:44:41 +0000 2020",
+    "id": 1254058755249094658,
+    "id_str": "1254058755249094658",
+    "text": "@BILDblog @marcozahn @PPTBenni Meine Flatulenzen lösen bei anderen definitiv gesundheitliche Probleme aus. Ob Covid… https://t.co/FOtvJ9I5rz",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254054162620391425,
+    "in_reply_to_status_id_str": "1254054162620391425",
+    "in_reply_to_user_id": 68511500,
+    "in_reply_to_user_id_str": "68511500",
+    "in_reply_to_screen_name": "BILDblog",
+    "user": {
+        "id": 944496240917610496,
+        "id_str": "944496240917610496",
+        "name": "Joe Kolade",
+        "screen_name": "Joe_Colade",
+        "location": "Home interior, Germany",
+        "url": null,
+        "description": "Zutritt nur für Unbefugte!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 157,
+        "friends_count": 148,
+        "listed_count": 0,
+        "favourites_count": 7144,
+        "statuses_count": 5230,
+        "created_at": "Sat Dec 23 09:13:46 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230179595510525954/golQPc4l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230179595510525954/golQPc4l_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/944496240917610496/1586761036",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@BILDblog @marcozahn @PPTBenni Meine Flatulenzen lösen bei anderen definitiv gesundheitliche Probleme aus. Ob Covid auch übertragen wird, weiß ich nicht. Wurde ja trotz Todeshusten nicht auf Corona getestet.",
+        "display_text_range": [
+            31,
+            207
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BILDblog",
+                    "name": "BILDblog",
+                    "id": 68511500,
+                    "id_str": "68511500",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "marcozahn",
+                    "name": "Marco Zahn",
+                    "id": 21517879,
+                    "id_str": "21517879",
+                    "indices": [
+                        10,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "PPTBenni",
+                    "name": "Benjamin Probst",
+                    "id": 4881493097,
+                    "id_str": "4881493097",
+                    "indices": [
+                        21,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/FOtvJ9I5rz",
+                "expanded_url": "https://twitter.com/i/web/status/1254058755249094658",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "BILDblog",
+                "name": "BILDblog",
+                "id": 68511500,
+                "id_str": "68511500",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "marcozahn",
+                "name": "Marco Zahn",
+                "id": 21517879,
+                "id_str": "21517879",
+                "indices": [
+                    10,
+                    20
+                ]
+            },
+            {
+                "screen_name": "PPTBenni",
+                "name": "Benjamin Probst",
+                "id": 4881493097,
+                "id_str": "4881493097",
+                "indices": [
+                    21,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587825881193"
+}

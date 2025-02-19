@@ -1,0 +1,165 @@
+{
+    "created_at": "Sat Apr 25 14:06:18 +0000 2020",
+    "id": 1254049097776082945,
+    "id_str": "1254049097776082945",
+    "text": "Many young and old men and women have begun their efforts to defeat Corona by attending mosques\n\n#Covid19InIran https://t.co/U6VaNIGof3",
+    "display_text_range": [
+        0,
+        111
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1247177445326958592,
+        "id_str": "1247177445326958592",
+        "name": "mohammad",
+        "screen_name": "mohamma86785960",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 59,
+        "friends_count": 97,
+        "listed_count": 0,
+        "favourites_count": 789,
+        "statuses_count": 114,
+        "created_at": "Mon Apr 06 15:01:27 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247389779110617088/sjTOHgat_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247389779110617088/sjTOHgat_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247177445326958592/1586871757",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Covid19InIran",
+                "indices": [
+                    97,
+                    111
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254049079795101697,
+                "id_str": "1254049079795101697",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdG_mwXsAE1b-w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdG_mwXsAE1b-w.jpg",
+                "url": "https://t.co/U6VaNIGof3",
+                "display_url": "pic.twitter.com/U6VaNIGof3",
+                "expanded_url": "https://twitter.com/mohamma86785960/status/1254049097776082945/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 652,
+                        "h": 869,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 652,
+                        "h": 869,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254049079795101697,
+                "id_str": "1254049079795101697",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdG_mwXsAE1b-w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdG_mwXsAE1b-w.jpg",
+                "url": "https://t.co/U6VaNIGof3",
+                "display_url": "pic.twitter.com/U6VaNIGof3",
+                "expanded_url": "https://twitter.com/mohamma86785960/status/1254049097776082945/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 652,
+                        "h": 869,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 652,
+                        "h": 869,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823578672"
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Sat Apr 25 13:30:02 +0000 2020",
+    "id": 1254039971947741188,
+    "id_str": "1254039971947741188",
+    "text": "@ercumentovali hocam şu corona laneti geçsin bir on yıl falan uçağa helikoptere binme derim.🙏🏻🇹🇷Sen daha lazımsın bu memlekete",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 952299252,
+    "in_reply_to_user_id_str": "952299252",
+    "in_reply_to_screen_name": "ercumentovali",
+    "user": {
+        "id": 559302584,
+        "id_str": "559302584",
+        "name": "10urFB",
+        "screen_name": "onurkahraman11",
+        "location": "Kadıköy, İstanbul",
+        "url": null,
+        "description": "Çok konuşmak faydalı olsaydı eğer Allah iki ağız bir kulak verirdi.Onun için çok dinleyip az konuşmak gerek!!!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 93,
+        "friends_count": 137,
+        "listed_count": 1,
+        "favourites_count": 4284,
+        "statuses_count": 2669,
+        "created_at": "Sat Apr 21 07:46:07 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185596571360092161/5KOECH4l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185596571360092161/5KOECH4l_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/559302584/1498363400",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5e02a0f0d91c76d2",
+        "url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+        "place_type": "city",
+        "name": "İstanbul",
+        "full_name": "İstanbul, Türkiye",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        28.632104,
+                        40.802734
+                    ],
+                    [
+                        28.632104,
+                        41.239907
+                    ],
+                    [
+                        29.378341,
+                        41.239907
+                    ],
+                    [
+                        29.378341,
+                        40.802734
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ercumentovali",
+                "name": "Ercüment Ovalı",
+                "id": 952299252,
+                "id_str": "952299252",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587821402905"
+}

@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 12:36:45 +0000 2020",
+    "id": 1254026560694345728,
+    "id_str": "1254026560694345728",
+    "text": "@Klauschers @mitchellreports @JoyAnnReid @KeishaBottoms \"Corona-related\" deaths are up 37.23%...not the total numbe… https://t.co/Nhp1fp2rf7",
+    "display_text_range": [
+        56,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253811175898390529,
+    "in_reply_to_status_id_str": "1253811175898390529",
+    "in_reply_to_user_id": 2792771462,
+    "in_reply_to_user_id_str": "2792771462",
+    "in_reply_to_screen_name": "Klauschers",
+    "user": {
+        "id": 529727711,
+        "id_str": "529727711",
+        "name": "McFire",
+        "screen_name": "Mcfyre",
+        "location": "USA",
+        "url": null,
+        "description": "America First!  Common sense, perspective, \"follow the money\"",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 171,
+        "friends_count": 224,
+        "listed_count": 10,
+        "favourites_count": 4439,
+        "statuses_count": 36942,
+        "created_at": "Mon Mar 19 21:04:30 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996554614064300032/KPIbZOdq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996554614064300032/KPIbZOdq_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Klauschers @mitchellreports @JoyAnnReid @KeishaBottoms \"Corona-related\" deaths are up 37.23%...not the total number of deaths from all causes.\n\nYou do know that people die every day don't you?\n\nBefore the Coronavirus, 145 people died every day in NYC.",
+        "display_text_range": [
+            56,
+            252
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Klauschers",
+                    "name": "Valerie Klauscher",
+                    "id": 2792771462,
+                    "id_str": "2792771462",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "mitchellreports",
+                    "name": "Andrea Mitchell",
+                    "id": 89820928,
+                    "id_str": "89820928",
+                    "indices": [
+                        12,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "JoyAnnReid",
+                    "name": "Joy Reid",
+                    "id": 49698134,
+                    "id_str": "49698134",
+                    "indices": [
+                        29,
+                        40
+                    ]
+                },
+                {
+                    "screen_name": "KeishaBottoms",
+                    "name": "Keisha Lance Bottoms",
+                    "id": 305818748,
+                    "id_str": "305818748",
+                    "indices": [
+                        41,
+                        55
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Nhp1fp2rf7",
+                "expanded_url": "https://twitter.com/i/web/status/1254026560694345728",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Klauschers",
+                "name": "Valerie Klauscher",
+                "id": 2792771462,
+                "id_str": "2792771462",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "mitchellreports",
+                "name": "Andrea Mitchell",
+                "id": 89820928,
+                "id_str": "89820928",
+                "indices": [
+                    12,
+                    28
+                ]
+            },
+            {
+                "screen_name": "JoyAnnReid",
+                "name": "Joy Reid",
+                "id": 49698134,
+                "id_str": "49698134",
+                "indices": [
+                    29,
+                    40
+                ]
+            },
+            {
+                "screen_name": "KeishaBottoms",
+                "name": "Keisha Lance Bottoms",
+                "id": 305818748,
+                "id_str": "305818748",
+                "indices": [
+                    41,
+                    55
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818205413"
+}

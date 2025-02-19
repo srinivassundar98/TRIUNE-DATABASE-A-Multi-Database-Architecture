@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 13:03:13 +0000 2020",
+    "id": 1254033220443742208,
+    "id_str": "1254033220443742208",
+    "text": "Ankara’da 175 sağlık çalışanının corona virüsü testi pozitif çıktı https://t.co/sRJeXOEniz https://t.co/pPKHVwiKLt",
+    "display_text_range": [
+        0,
+        90
+    ],
+    "source": "<a href=\"http://www.nayn.co/\" rel=\"nofollow\">NaynCo</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2892578901,
+        "id_str": "2892578901",
+        "name": "NAYN.CO",
+        "screen_name": "Nayn_Co",
+        "location": null,
+        "url": "http://www.nayn.co",
+        "description": "Az aslında çoktur.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 23152,
+        "friends_count": 1,
+        "listed_count": 88,
+        "favourites_count": 859,
+        "statuses_count": 100963,
+        "created_at": "Tue Nov 25 22:25:04 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174727011849428993/bTribw3q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174727011849428993/bTribw3q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2892578901/1549831862",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sRJeXOEniz",
+                "expanded_url": "https://nayn.co/ankarada-175-saglik-calisaninin-corona-virusu-testi-pozitif-cikti/",
+                "display_url": "nayn.co/ankarada-175-s…",
+                "indices": [
+                    67,
+                    90
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254033218480877569,
+                "id_str": "1254033218480877569",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc4kWwXsAEPwjV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc4kWwXsAEPwjV.jpg",
+                "url": "https://t.co/pPKHVwiKLt",
+                "display_url": "pic.twitter.com/pPKHVwiKLt",
+                "expanded_url": "https://twitter.com/Nayn_Co/status/1254033220443742208/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254033218480877569,
+                "id_str": "1254033218480877569",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc4kWwXsAEPwjV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc4kWwXsAEPwjV.jpg",
+                "url": "https://t.co/pPKHVwiKLt",
+                "display_url": "pic.twitter.com/pPKHVwiKLt",
+                "expanded_url": "https://twitter.com/Nayn_Co/status/1254033220443742208/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 768,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587819793221"
+}

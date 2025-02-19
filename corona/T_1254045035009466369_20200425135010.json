@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:50:10 +0000 2020",
+    "id": 1254045035009466369,
+    "id_str": "1254045035009466369",
+    "text": "@arif_nasich @Capt_Rizaldi wkwk corona aja tak bisa menghalanginya",
+    "display_text_range": [
+        27,
+        66
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254044539737616392,
+    "in_reply_to_status_id_str": "1254044539737616392",
+    "in_reply_to_user_id": 780221472,
+    "in_reply_to_user_id_str": "780221472",
+    "in_reply_to_screen_name": "arif_nasich",
+    "user": {
+        "id": 1056765188731334656,
+        "id_str": "1056765188731334656",
+        "name": "Aditya Rizky",
+        "screen_name": "adityarzky10",
+        "location": "Malang, Jawa Timur",
+        "url": null,
+        "description": "All from smartphone",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 17,
+        "friends_count": 48,
+        "listed_count": 0,
+        "favourites_count": 54,
+        "statuses_count": 90,
+        "created_at": "Mon Oct 29 04:30:29 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1172186691777380352/rDtrdH_C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172186691777380352/rDtrdH_C_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056765188731334656/1540788228",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "arif_nasich",
+                "name": "ayip",
+                "id": 780221472,
+                "id_str": "780221472",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Capt_Rizaldi",
+                "name": "Muhamad Rizaldi",
+                "id": 1228215168061952002,
+                "id_str": "1228215168061952002",
+                "indices": [
+                    13,
+                    26
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822610033"
+}

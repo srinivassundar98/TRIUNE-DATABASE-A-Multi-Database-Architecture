@@ -1,0 +1,128 @@
+{
+    "created_at": "Sat Apr 25 13:49:25 +0000 2020",
+    "id": 1254044849185193985,
+    "id_str": "1254044849185193985",
+    "text": "Keeping Kids Busy During Corona! https://t.co/eaTCwhM23l via @YouTube",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 52493415,
+        "id_str": "52493415",
+        "name": "Wonder Woman",
+        "screen_name": "wdwdisneyland7",
+        "location": "Erie IL",
+        "url": "http://www.instagram.com/iluvmusicwdw",
+        "description": "I love music/movies/travel/makeup/kitty @amanda_shaw tv/books/phone/family/friends/pink nails @LindseyStirling @lidobeachresort @GwenStefani",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2266,
+        "friends_count": 5001,
+        "listed_count": 71,
+        "favourites_count": 23249,
+        "statuses_count": 441222,
+        "created_at": "Tue Jun 30 19:32:33 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242263766668062723/5rVBjqTS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242263766668062723/5rVBjqTS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52493415/1587759239",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "f54a2170ff4b15f7",
+        "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+        "place_type": "admin",
+        "name": "Illinois",
+        "full_name": "Illinois, USA",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -91.51308,
+                        36.970298
+                    ],
+                    [
+                        -91.51308,
+                        42.508303
+                    ],
+                    [
+                        -87.019935,
+                        42.508303
+                    ],
+                    [
+                        -87.019935,
+                        36.970298
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/eaTCwhM23l",
+                "expanded_url": "https://youtu.be/JH_O55UNmQw",
+                "display_url": "youtu.be/JH_O55UNmQw",
+                "indices": [
+                    33,
+                    56
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "YouTube",
+                "name": "YouTube at 🏠",
+                "id": 10228272,
+                "id_str": "10228272",
+                "indices": [
+                    61,
+                    69
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822565729"
+}

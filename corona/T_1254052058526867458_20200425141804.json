@@ -1,0 +1,193 @@
+{
+    "created_at": "Sat Apr 25 14:18:04 +0000 2020",
+    "id": 1254052058526867458,
+    "id_str": "1254052058526867458",
+    "text": "@JasminSchlecht1 @jensteuber1 @c_drosten @ArminWolf Dann bilde dich mal außerhalb der Panikmaschinerie Dr Drosten w… https://t.co/hti4nTBxAh",
+    "display_text_range": [
+        52,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254051427615420420,
+    "in_reply_to_status_id_str": "1254051427615420420",
+    "in_reply_to_user_id": 1239693698289610754,
+    "in_reply_to_user_id_str": "1239693698289610754",
+    "in_reply_to_screen_name": "JasminSchlecht1",
+    "user": {
+        "id": 1240548056900292609,
+        "id_str": "1240548056900292609",
+        "name": "Babeloony",
+        "screen_name": "babeloony",
+        "location": null,
+        "url": null,
+        "description": "Mensch, ML-Engineer, Data-Analyst",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 12,
+        "listed_count": 0,
+        "favourites_count": 419,
+        "statuses_count": 414,
+        "created_at": "Thu Mar 19 07:58:05 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@JasminSchlecht1 @jensteuber1 @c_drosten @ArminWolf Dann bilde dich mal außerhalb der Panikmaschinerie Dr Drosten weiter: \nhttps://t.co/w74NR06TGb",
+        "display_text_range": [
+            52,
+            146
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/w74NR06TGb",
+                    "expanded_url": "https://scilogs.spektrum.de/menschen-bilder/von-der-fehlenden-wissenschaftlichen-begruendung-der-corona-massnahmen/",
+                    "display_url": "scilogs.spektrum.de/menschen-bilde…",
+                    "indices": [
+                        123,
+                        146
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "JasminSchlecht1",
+                    "name": "Jasmin Schlechter",
+                    "id": 1239693698289610754,
+                    "id_str": "1239693698289610754",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "jensteuber1",
+                    "name": "jens teuber 🏳️‍🌈 🇪🇺🇩🇪",
+                    "id": 2207002796,
+                    "id_str": "2207002796",
+                    "indices": [
+                        17,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "c_drosten",
+                    "name": "Christian Drosten",
+                    "id": 2804548467,
+                    "id_str": "2804548467",
+                    "indices": [
+                        30,
+                        40
+                    ]
+                },
+                {
+                    "screen_name": "ArminWolf",
+                    "name": "Armin Wolf",
+                    "id": 20694291,
+                    "id_str": "20694291",
+                    "indices": [
+                        41,
+                        51
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/hti4nTBxAh",
+                "expanded_url": "https://twitter.com/i/web/status/1254052058526867458",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "JasminSchlecht1",
+                "name": "Jasmin Schlechter",
+                "id": 1239693698289610754,
+                "id_str": "1239693698289610754",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "jensteuber1",
+                "name": "jens teuber 🏳️‍🌈 🇪🇺🇩🇪",
+                "id": 2207002796,
+                "id_str": "2207002796",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "screen_name": "c_drosten",
+                "name": "Christian Drosten",
+                "id": 2804548467,
+                "id_str": "2804548467",
+                "indices": [
+                    30,
+                    40
+                ]
+            },
+            {
+                "screen_name": "ArminWolf",
+                "name": "Armin Wolf",
+                "id": 20694291,
+                "id_str": "20694291",
+                "indices": [
+                    41,
+                    51
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824284570"
+}

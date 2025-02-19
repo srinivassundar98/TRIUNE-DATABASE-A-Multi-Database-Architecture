@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 12:27:32 +0000 2020",
+    "id": 1254024239742701570,
+    "id_str": "1254024239742701570",
+    "text": "@MatsErikson Är det så vuxet att driva igenom förslag som man lovat väljarna att inte genomföra när vi befinner oss… https://t.co/GKNcy3wA5i",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253998195191033856,
+    "in_reply_to_status_id_str": "1253998195191033856",
+    "in_reply_to_user_id": 22126557,
+    "in_reply_to_user_id_str": "22126557",
+    "in_reply_to_screen_name": "MatsErikson",
+    "user": {
+        "id": 1217542701715001348,
+        "id_str": "1217542701715001348",
+        "name": "TheChrille",
+        "screen_name": "TheChrille1",
+        "location": null,
+        "url": null,
+        "description": "Chill kille som är nyfiken på det mesta",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 8,
+        "friends_count": 32,
+        "listed_count": 0,
+        "favourites_count": 230,
+        "statuses_count": 489,
+        "created_at": "Wed Jan 15 20:23:20 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217542948147077122/xwJbY7LC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217542948147077122/xwJbY7LC_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@MatsErikson Är det så vuxet att driva igenom förslag som man lovat väljarna att inte genomföra när vi befinner oss i en kris ? Sossarna hade hoppats att det skulle försvinna i Corona nyheterna",
+        "display_text_range": [
+            13,
+            193
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MatsErikson",
+                    "name": "Mats Erikson",
+                    "id": 22126557,
+                    "id_str": "22126557",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/GKNcy3wA5i",
+                "expanded_url": "https://twitter.com/i/web/status/1254024239742701570",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MatsErikson",
+                "name": "Mats Erikson",
+                "id": 22126557,
+                "id_str": "22126557",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587817652055"
+}

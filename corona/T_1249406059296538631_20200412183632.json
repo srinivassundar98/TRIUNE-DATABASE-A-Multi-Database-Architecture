@@ -1,0 +1,157 @@
+{
+    "created_at": "Sun Apr 12 18:36:32 +0000 2020",
+    "id": 1249406059296538631,
+    "id_str": "1249406059296538631",
+    "text": "Vamos nos previnir do corona? https://t.co/xWmTemBFWI",
+    "display_text_range": [
+        0,
+        29
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1248287805907898375,
+        "id_str": "1248287805907898375",
+        "name": "FrasesdeOtario",
+        "screen_name": "frasesde_otario",
+        "location": null,
+        "url": null,
+        "description": "Frases que com certeza você não vai gostar",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 5,
+        "listed_count": 0,
+        "favourites_count": 7,
+        "statuses_count": 24,
+        "created_at": "Thu Apr 09 16:33:10 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248296468462501888/qWi03JsX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248296468462501888/qWi03JsX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248287805907898375/1586452067",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249406052568829953,
+                "id_str": "1249406052568829953",
+                "indices": [
+                    30,
+                    53
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbIL2eWkAE7CFP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbIL2eWkAE7CFP.jpg",
+                "url": "https://t.co/xWmTemBFWI",
+                "display_url": "pic.twitter.com/xWmTemBFWI",
+                "expanded_url": "https://twitter.com/frasesde_otario/status/1249406059296538631/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 598,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 598,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 598,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249406052568829953,
+                "id_str": "1249406052568829953",
+                "indices": [
+                    30,
+                    53
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbIL2eWkAE7CFP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbIL2eWkAE7CFP.jpg",
+                "url": "https://t.co/xWmTemBFWI",
+                "display_url": "pic.twitter.com/xWmTemBFWI",
+                "expanded_url": "https://twitter.com/frasesde_otario/status/1249406059296538631/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 598,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 598,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 598,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716592035"
+}

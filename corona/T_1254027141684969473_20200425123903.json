@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 12:39:03 +0000 2020",
+    "id": 1254027141684969473,
+    "id_str": "1254027141684969473",
+    "text": "Info Kasus Corona di Kepri Pada Ramadhan Kedua https://t.co/nvaA4Y9abL https://t.co/Ip0CUW53wI",
+    "display_text_range": [
+        0,
+        70
+    ],
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 786546554,
+        "id_str": "786546554",
+        "name": "Mia dwi jayanti",
+        "screen_name": "1922Mia",
+        "location": ".batam kepulauan riau",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 86,
+        "friends_count": 93,
+        "listed_count": 0,
+        "favourites_count": 8,
+        "statuses_count": 5844,
+        "created_at": "Tue Aug 28 08:41:55 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "E5C1EB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "B300AD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664765087207579649/a3rENF5l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664765087207579649/a3rENF5l_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786546554/1443610606",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/nvaA4Y9abL",
+                "expanded_url": "http://dlvr.it/RVRDM0",
+                "display_url": "dlvr.it/RVRDM0",
+                "indices": [
+                    47,
+                    70
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254027140007247873,
+                "id_str": "1254027140007247873",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWczCirUwAEFeml.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWczCirUwAEFeml.jpg",
+                "url": "https://t.co/Ip0CUW53wI",
+                "display_url": "pic.twitter.com/Ip0CUW53wI",
+                "expanded_url": "https://twitter.com/1922Mia/status/1254027141684969473/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254027140007247873,
+                "id_str": "1254027140007247873",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWczCirUwAEFeml.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWczCirUwAEFeml.jpg",
+                "url": "https://t.co/Ip0CUW53wI",
+                "display_url": "pic.twitter.com/Ip0CUW53wI",
+                "expanded_url": "https://twitter.com/1922Mia/status/1254027141684969473/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587818343932"
+}

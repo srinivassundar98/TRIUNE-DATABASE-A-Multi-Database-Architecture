@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:45:25 +0000 2020",
+    "id": 1254058942381953024,
+    "id_str": "1254058942381953024",
+    "text": "@MuhadklyAcho Heran betdah sma rangorang ada Corona pada Bingung ga bisa ke masjid,giliran corona hilang pada Bingu… https://t.co/l6myt309E9",
+    "display_text_range": [
+        14,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253898047412559872,
+    "in_reply_to_status_id_str": "1253898047412559872",
+    "in_reply_to_user_id": 873127705138520064,
+    "in_reply_to_user_id_str": "873127705138520064",
+    "in_reply_to_screen_name": "MuhadklyAcho",
+    "user": {
+        "id": 743173153942208512,
+        "id_str": "743173153942208512",
+        "name": "AKUA",
+        "screen_name": "thorroys",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 21,
+        "friends_count": 161,
+        "listed_count": 0,
+        "favourites_count": 1608,
+        "statuses_count": 2636,
+        "created_at": "Wed Jun 15 20:07:42 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204669079132393472/WaJ_Ny5F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204669079132393472/WaJ_Ny5F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/743173153942208512/1557201057",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@MuhadklyAcho Heran betdah sma rangorang ada Corona pada Bingung ga bisa ke masjid,giliran corona hilang pada Bingung Masjid ga ada jamaahnya,,",
+        "display_text_range": [
+            14,
+            143
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MuhadklyAcho",
+                    "name": "Muhadkly Acho",
+                    "id": 873127705138520064,
+                    "id_str": "873127705138520064",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/l6myt309E9",
+                "expanded_url": "https://twitter.com/i/web/status/1254058942381953024",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MuhadklyAcho",
+                "name": "Muhadkly Acho",
+                "id": 873127705138520064,
+                "id_str": "873127705138520064",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587825925809"
+}

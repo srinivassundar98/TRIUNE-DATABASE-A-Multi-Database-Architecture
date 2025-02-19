@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 12:22:43 +0000 2020",
+    "id": 1254023030554198022,
+    "id_str": "1254023030554198022",
+    "text": "@Louisedotter_ Fin idé! Lockande pitch.Tror detta skulle funka väldigt bra, förutsatt att det finns en marknad även… https://t.co/hh7G7Gaddh",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254014248252030977,
+    "in_reply_to_status_id_str": "1254014248252030977",
+    "in_reply_to_user_id": 336453387,
+    "in_reply_to_user_id_str": "336453387",
+    "in_reply_to_screen_name": "Louisedotter_",
+    "user": {
+        "id": 922025353324978176,
+        "id_str": "922025353324978176",
+        "name": "J R Karlsson",
+        "screen_name": "AjrKarlsson",
+        "location": null,
+        "url": null,
+        "description": "Swedish citizen interested in #socialmediatism. Amused by the twitter spectacle, satire and facts. Father, Brother, Man.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 17,
+        "friends_count": 62,
+        "listed_count": 0,
+        "favourites_count": 2963,
+        "statuses_count": 2784,
+        "created_at": "Sun Oct 22 09:02:29 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994548127997874176/E1D6kaZQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994548127997874176/E1D6kaZQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/922025353324978176/1525953725",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Louisedotter_ Fin idé! Lockande pitch.Tror detta skulle funka väldigt bra, förutsatt att det finns en marknad även efter corona. Alltså om Staten nu, inte sen, börjar stötta alla nuvarande små arbetsgivare så att de kan öppna igen efter krisen. Annars blir vi alla akasseberoende.",
+        "display_text_range": [
+            15,
+            281
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Louisedotter_",
+                    "name": "Louisedotter",
+                    "id": 336453387,
+                    "id_str": "336453387",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/hh7G7Gaddh",
+                "expanded_url": "https://twitter.com/i/web/status/1254023030554198022",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Louisedotter_",
+                "name": "Louisedotter",
+                "id": 336453387,
+                "id_str": "336453387",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587817363762"
+}

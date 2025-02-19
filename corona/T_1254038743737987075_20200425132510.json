@@ -1,0 +1,165 @@
+{
+    "created_at": "Sat Apr 25 13:25:10 +0000 2020",
+    "id": 1254038743737987075,
+    "id_str": "1254038743737987075",
+    "text": "சித்திரை கொண்டாட்டம் இல்லாத மதுரை.\n\n#Corona https://t.co/u868AtQvoh",
+    "display_text_range": [
+        0,
+        43
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1186603928630124544,
+        "id_str": "1186603928630124544",
+        "name": "Muniasamy Sakthivel",
+        "screen_name": "Munis_AMMK",
+        "location": "Madurai South, India",
+        "url": null,
+        "description": "#AMMK",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 999,
+        "friends_count": 935,
+        "listed_count": 0,
+        "favourites_count": 18460,
+        "statuses_count": 13246,
+        "created_at": "Tue Oct 22 11:23:33 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1219235701763362816/5iBkjS9Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219235701763362816/5iBkjS9Y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186603928630124544/1571743925",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    36,
+                    43
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254038740361609218,
+                "id_str": "1254038740361609218",
+                "indices": [
+                    44,
+                    67
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc9lxXVAAIEro8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc9lxXVAAIEro8.jpg",
+                "url": "https://t.co/u868AtQvoh",
+                "display_url": "pic.twitter.com/u868AtQvoh",
+                "expanded_url": "https://twitter.com/Munis_AMMK/status/1254038743737987075/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 709,
+                        "h": 398,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 709,
+                        "h": 398,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254038740361609218,
+                "id_str": "1254038740361609218",
+                "indices": [
+                    44,
+                    67
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc9lxXVAAIEro8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc9lxXVAAIEro8.jpg",
+                "url": "https://t.co/u868AtQvoh",
+                "display_url": "pic.twitter.com/u868AtQvoh",
+                "expanded_url": "https://twitter.com/Munis_AMMK/status/1254038743737987075/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 709,
+                        "h": 398,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 709,
+                        "h": 398,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ta",
+    "timestamp_ms": "1587821110077"
+}

@@ -1,0 +1,152 @@
+{
+    "created_at": "Sat Apr 25 13:18:38 +0000 2020",
+    "id": 1254037099642265600,
+    "id_str": "1254037099642265600",
+    "text": "Weekend mood change for climate also ...But for IT guys in these corona times also no change in weekend- Work from… https://t.co/zC8HRLPtgR",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 229798897,
+        "id_str": "229798897",
+        "name": "kota.narendra",
+        "screen_name": "ursnarendra7",
+        "location": "Hyderabad",
+        "url": null,
+        "description": "working in tcs",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 89,
+        "friends_count": 273,
+        "listed_count": 0,
+        "favourites_count": 2969,
+        "statuses_count": 405,
+        "created_at": "Thu Dec 23 10:43:06 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167752376884662272/W6nvvkbQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167752376884662272/W6nvvkbQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229798897/1423718739",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            16.28979369,
+            80.45624576
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            80.45624576,
+            16.28979369
+        ]
+    },
+    "place": {
+        "id": "773a82ba9392a40d",
+        "url": "https://api.twitter.com/1.1/geo/id/773a82ba9392a40d.json",
+        "place_type": "city",
+        "name": "Guntur",
+        "full_name": "Guntur, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        80.241275,
+                        16.074502
+                    ],
+                    [
+                        80.241275,
+                        16.625798
+                    ],
+                    [
+                        80.689809,
+                        16.625798
+                    ],
+                    [
+                        80.689809,
+                        16.074502
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Weekend mood change for climate also ...But for IT guys in these corona times also no change in weekend- Work from home...(Weekend) @ Old Guntur https://t.co/dUDy43kYau",
+        "display_text_range": [
+            0,
+            168
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dUDy43kYau",
+                    "expanded_url": "https://www.instagram.com/p/B_Z76DWple5/?igshid=1d3bx1aeeuoit",
+                    "display_url": "instagram.com/p/B_Z76DWple5/…",
+                    "indices": [
+                        145,
+                        168
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/zC8HRLPtgR",
+                "expanded_url": "https://twitter.com/i/web/status/1254037099642265600",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820718094"
+}

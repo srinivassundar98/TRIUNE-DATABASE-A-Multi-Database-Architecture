@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:42:32 +0000 2020",
+    "id": 1249407572546932737,
+    "id_str": "1249407572546932737",
+    "text": "@Vcharger1 @realDonaldTrump You do know that these graphics show only that the US tests a lot more than other count… https://t.co/zMiz8VtpKK",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249378577809920004,
+    "in_reply_to_status_id_str": "1249378577809920004",
+    "in_reply_to_user_id": 942692678969552896,
+    "in_reply_to_user_id_str": "942692678969552896",
+    "in_reply_to_screen_name": "Vcharger1",
+    "user": {
+        "id": 1241145328117731332,
+        "id_str": "1241145328117731332",
+        "name": "Rafael Glau",
+        "screen_name": "RFGlau",
+        "location": null,
+        "url": "http://youtube.com/legendagem",
+        "description": "Deus abençoe nossa pátria querida.\nGod bless our beloved homeland.\nLegendo vídeos sobre política para informar de verdade, sem distorção.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3861,
+        "friends_count": 221,
+        "listed_count": 6,
+        "favourites_count": 1406,
+        "statuses_count": 1738,
+        "created_at": "Fri Mar 20 23:31:28 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241489124231729153/2ZFf-hnU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241489124231729153/2ZFf-hnU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241145328117731332/1584748790",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Vcharger1 @realDonaldTrump You do know that these graphics show only that the US tests a lot more than other countries, therefore, has more cases, right?\n\nAnd for what I'm seeing on the news, you guys are doing what our guys are doing here in Brazil. Person gets shot; Coronavírus. Run over by a car: Corona",
+        "display_text_range": [
+            28,
+            308
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Vcharger1",
+                    "name": "Val4Now",
+                    "id": 942692678969552896,
+                    "id_str": "942692678969552896",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        11,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/zMiz8VtpKK",
+                "expanded_url": "https://twitter.com/i/web/status/1249407572546932737",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Vcharger1",
+                "name": "Val4Now",
+                "id": 942692678969552896,
+                "id_str": "942692678969552896",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    11,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716952822"
+}

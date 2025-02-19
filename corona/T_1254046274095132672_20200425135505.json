@@ -1,0 +1,183 @@
+{
+    "created_at": "Sat Apr 25 13:55:05 +0000 2020",
+    "id": 1254046274095132672,
+    "id_str": "1254046274095132672",
+    "text": "@smalltownandrew Check out No coronas inside! Available for the next 3 jours via @Teespring:… https://t.co/gZik85R3CV",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1251249292091760640,
+    "in_reply_to_status_id_str": "1251249292091760640",
+    "in_reply_to_user_id": 266237495,
+    "in_reply_to_user_id_str": "266237495",
+    "in_reply_to_screen_name": "smalltownandrew",
+    "user": {
+        "id": 2661149324,
+        "id_str": "2661149324",
+        "name": "the divine bean",
+        "screen_name": "VSourcecode",
+        "location": null,
+        "url": "https://teespring.com/fr/no-coronas-inside-signe",
+        "description": "winner winner chiken dinner",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 26,
+        "friends_count": 330,
+        "listed_count": 0,
+        "favourites_count": 224,
+        "statuses_count": 179,
+        "created_at": "Sun Jul 20 00:59:06 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1095798849858387977/MZEIeHdU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095798849858387977/MZEIeHdU_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2661149324/1550093762",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@smalltownandrew Check out No coronas inside! Available for the next 3 jours via @Teespring: https://t.co/QO8pnMIGod\n\n#tshirt #corona #virus #covid-19",
+        "display_text_range": [
+            17,
+            150
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "tshirt",
+                    "indices": [
+                        118,
+                        125
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        126,
+                        133
+                    ]
+                },
+                {
+                    "text": "virus",
+                    "indices": [
+                        134,
+                        140
+                    ]
+                },
+                {
+                    "text": "covid",
+                    "indices": [
+                        141,
+                        147
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/QO8pnMIGod",
+                    "expanded_url": "https://tspr.ng/c/no-coronas-inside-signe",
+                    "display_url": "tspr.ng/c/no-coronas-i…",
+                    "indices": [
+                        93,
+                        116
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "smalltownandrew",
+                    "name": "Andrew",
+                    "id": 266237495,
+                    "id_str": "266237495",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "teespring",
+                    "name": "Teespring",
+                    "id": 273515759,
+                    "id_str": "273515759",
+                    "indices": [
+                        81,
+                        91
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gZik85R3CV",
+                "expanded_url": "https://twitter.com/i/web/status/1254046274095132672",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    94,
+                    117
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "smalltownandrew",
+                "name": "Andrew",
+                "id": 266237495,
+                "id_str": "266237495",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "teespring",
+                "name": "Teespring",
+                "id": 273515759,
+                "id_str": "273515759",
+                "indices": [
+                    81,
+                    91
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822905454"
+}

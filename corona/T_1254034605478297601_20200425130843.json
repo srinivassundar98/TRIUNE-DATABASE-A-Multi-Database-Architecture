@@ -1,0 +1,355 @@
+{
+    "created_at": "Sat Apr 25 13:08:43 +0000 2020",
+    "id": 1254034605478297601,
+    "id_str": "1254034605478297601",
+    "text": "@CeoNoida @CMOfficeUP @PMOIndia @myogiadityanath @UPGovt @ChiefSecyUP @PTI_News @BBCIndia @DDNewslive @PIB_India… https://t.co/vuP2Vo6AU6",
+    "display_text_range": [
+        117,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254030585506349057,
+    "in_reply_to_status_id_str": "1254030585506349057",
+    "in_reply_to_user_id": 1151347817627078657,
+    "in_reply_to_user_id_str": "1151347817627078657",
+    "in_reply_to_screen_name": "CeoNoida",
+    "user": {
+        "id": 785909441434562560,
+        "id_str": "785909441434562560",
+        "name": "sanwar_ca",
+        "screen_name": "jeetsanwar",
+        "location": "नोएडा, भारत",
+        "url": null,
+        "description": "CA Traveller Foodie n putting efforts for social environmental awarness",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 155,
+        "friends_count": 327,
+        "listed_count": 0,
+        "favourites_count": 2686,
+        "statuses_count": 2175,
+        "created_at": "Tue Oct 11 18:26:27 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1031983579390242817/-2FqFh2t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031983579390242817/-2FqFh2t_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/785909441434562560/1534879031",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "2e6064382c71b343",
+        "url": "https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json",
+        "place_type": "city",
+        "name": "Noida",
+        "full_name": "Noida, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.302126,
+                        28.443981
+                    ],
+                    [
+                        77.302126,
+                        28.647131
+                    ],
+                    [
+                        77.695326,
+                        28.647131
+                    ],
+                    [
+                        77.695326,
+                        28.443981
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CeoNoida @CMOfficeUP @PMOIndia @myogiadityanath @UPGovt @ChiefSecyUP @PTI_News @BBCIndia @DDNewslive @PIB_India @PibLucknow Thanks to all @noida_authority corona warriors \nworking 24*7  to feed the needies &amp; to Sanitize whole Noida to break the chain.",
+        "display_text_range": [
+            125,
+            256
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CeoNoida",
+                    "name": "CEO, NOIDA Authority #IndiaFightsCorona",
+                    "id": 1151347817627078657,
+                    "id_str": "1151347817627078657",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "CMOfficeUP",
+                    "name": "CM Office, GoUP",
+                    "id": 2587240482,
+                    "id_str": "2587240482",
+                    "indices": [
+                        10,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "PMOIndia",
+                    "name": "PMO India",
+                    "id": 471741741,
+                    "id_str": "471741741",
+                    "indices": [
+                        22,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "myogiadityanath",
+                    "name": "Yogi Adityanath",
+                    "id": 3437532637,
+                    "id_str": "3437532637",
+                    "indices": [
+                        32,
+                        48
+                    ]
+                },
+                {
+                    "screen_name": "UPGovt",
+                    "name": "Government of UP",
+                    "id": 2588841246,
+                    "id_str": "2588841246",
+                    "indices": [
+                        49,
+                        56
+                    ]
+                },
+                {
+                    "screen_name": "ChiefSecyUP",
+                    "name": "Chief Secretary,GoUP",
+                    "id": 2587265450,
+                    "id_str": "2587265450",
+                    "indices": [
+                        57,
+                        69
+                    ]
+                },
+                {
+                    "screen_name": "PTI_News",
+                    "name": "Press Trust of India",
+                    "id": 245687754,
+                    "id_str": "245687754",
+                    "indices": [
+                        70,
+                        79
+                    ]
+                },
+                {
+                    "screen_name": "BBCIndia",
+                    "name": "BBC News India",
+                    "id": 442782547,
+                    "id_str": "442782547",
+                    "indices": [
+                        80,
+                        89
+                    ]
+                },
+                {
+                    "screen_name": "DDNewslive",
+                    "name": "DD News",
+                    "id": 1100927498,
+                    "id_str": "1100927498",
+                    "indices": [
+                        90,
+                        101
+                    ]
+                },
+                {
+                    "screen_name": "PIB_India",
+                    "name": "PIB India #StayHome #StaySafe",
+                    "id": 231033118,
+                    "id_str": "231033118",
+                    "indices": [
+                        102,
+                        112
+                    ]
+                },
+                {
+                    "screen_name": "PibLucknow",
+                    "name": "PIB in Uttar Pradesh",
+                    "id": 1060151454,
+                    "id_str": "1060151454",
+                    "indices": [
+                        113,
+                        124
+                    ]
+                },
+                {
+                    "screen_name": "noida_authority",
+                    "name": "NOIDA Authority #StayHomeStaySafe",
+                    "id": 867722440301883392,
+                    "id_str": "867722440301883392",
+                    "indices": [
+                        139,
+                        155
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/vuP2Vo6AU6",
+                "expanded_url": "https://twitter.com/i/web/status/1254034605478297601",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CeoNoida",
+                "name": "CEO, NOIDA Authority #IndiaFightsCorona",
+                "id": 1151347817627078657,
+                "id_str": "1151347817627078657",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "CMOfficeUP",
+                "name": "CM Office, GoUP",
+                "id": 2587240482,
+                "id_str": "2587240482",
+                "indices": [
+                    10,
+                    21
+                ]
+            },
+            {
+                "screen_name": "PMOIndia",
+                "name": "PMO India",
+                "id": 471741741,
+                "id_str": "471741741",
+                "indices": [
+                    22,
+                    31
+                ]
+            },
+            {
+                "screen_name": "myogiadityanath",
+                "name": "Yogi Adityanath",
+                "id": 3437532637,
+                "id_str": "3437532637",
+                "indices": [
+                    32,
+                    48
+                ]
+            },
+            {
+                "screen_name": "UPGovt",
+                "name": "Government of UP",
+                "id": 2588841246,
+                "id_str": "2588841246",
+                "indices": [
+                    49,
+                    56
+                ]
+            },
+            {
+                "screen_name": "ChiefSecyUP",
+                "name": "Chief Secretary,GoUP",
+                "id": 2587265450,
+                "id_str": "2587265450",
+                "indices": [
+                    57,
+                    69
+                ]
+            },
+            {
+                "screen_name": "PTI_News",
+                "name": "Press Trust of India",
+                "id": 245687754,
+                "id_str": "245687754",
+                "indices": [
+                    70,
+                    79
+                ]
+            },
+            {
+                "screen_name": "BBCIndia",
+                "name": "BBC News India",
+                "id": 442782547,
+                "id_str": "442782547",
+                "indices": [
+                    80,
+                    89
+                ]
+            },
+            {
+                "screen_name": "DDNewslive",
+                "name": "DD News",
+                "id": 1100927498,
+                "id_str": "1100927498",
+                "indices": [
+                    90,
+                    101
+                ]
+            },
+            {
+                "screen_name": "PIB_India",
+                "name": "PIB India #StayHome #StaySafe",
+                "id": 231033118,
+                "id_str": "231033118",
+                "indices": [
+                    102,
+                    112
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820123439"
+}

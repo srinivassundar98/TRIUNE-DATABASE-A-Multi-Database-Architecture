@@ -1,0 +1,202 @@
+{
+    "created_at": "Sat Apr 25 14:03:44 +0000 2020",
+    "id": 1254048450758316032,
+    "id_str": "1254048450758316032",
+    "text": "@VarshaEGaikwad @CMOMaharashtra @INCIndia @RahulGandhi @SATAVRAJEEV Another thought since may is considered to be v… https://t.co/KAY0kjRj1b",
+    "display_text_range": [
+        68,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249318004430643203,
+    "in_reply_to_status_id_str": "1249318004430643203",
+    "in_reply_to_user_id": 2605164164,
+    "in_reply_to_user_id_str": "2605164164",
+    "in_reply_to_screen_name": "VarshaEGaikwad",
+    "user": {
+        "id": 1253242104731459586,
+        "id_str": "1253242104731459586",
+        "name": "Harmeet",
+        "screen_name": "Harmeet57888823",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 16,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 4,
+        "created_at": "Thu Apr 23 08:39:46 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@VarshaEGaikwad @CMOMaharashtra @INCIndia @RahulGandhi @SATAVRAJEEV Another thought since may is considered to be vacation time...would we be having online classes in may? I am aware that in Corona we have missed from mid march to mid april and also there wont be any travelling...but just a thought",
+        "display_text_range": [
+            68,
+            299
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VarshaEGaikwad",
+                    "name": "Varsha Gaikwad",
+                    "id": 2605164164,
+                    "id_str": "2605164164",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "CMOMaharashtra",
+                    "name": "CMO Maharashtra",
+                    "id": 2597666894,
+                    "id_str": "2597666894",
+                    "indices": [
+                        16,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "INCIndia",
+                    "name": "Congress",
+                    "id": 1153045459,
+                    "id_str": "1153045459",
+                    "indices": [
+                        32,
+                        41
+                    ]
+                },
+                {
+                    "screen_name": "RahulGandhi",
+                    "name": "Rahul Gandhi",
+                    "id": 3171712086,
+                    "id_str": "3171712086",
+                    "indices": [
+                        42,
+                        54
+                    ]
+                },
+                {
+                    "screen_name": "SATAVRAJEEV",
+                    "name": "Rajeev Satav",
+                    "id": 2239518500,
+                    "id_str": "2239518500",
+                    "indices": [
+                        55,
+                        67
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/KAY0kjRj1b",
+                "expanded_url": "https://twitter.com/i/web/status/1254048450758316032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "VarshaEGaikwad",
+                "name": "Varsha Gaikwad",
+                "id": 2605164164,
+                "id_str": "2605164164",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "CMOMaharashtra",
+                "name": "CMO Maharashtra",
+                "id": 2597666894,
+                "id_str": "2597666894",
+                "indices": [
+                    16,
+                    31
+                ]
+            },
+            {
+                "screen_name": "INCIndia",
+                "name": "Congress",
+                "id": 1153045459,
+                "id_str": "1153045459",
+                "indices": [
+                    32,
+                    41
+                ]
+            },
+            {
+                "screen_name": "RahulGandhi",
+                "name": "Rahul Gandhi",
+                "id": 3171712086,
+                "id_str": "3171712086",
+                "indices": [
+                    42,
+                    54
+                ]
+            },
+            {
+                "screen_name": "SATAVRAJEEV",
+                "name": "Rajeev Satav",
+                "id": 2239518500,
+                "id_str": "2239518500",
+                "indices": [
+                    55,
+                    67
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823424411"
+}

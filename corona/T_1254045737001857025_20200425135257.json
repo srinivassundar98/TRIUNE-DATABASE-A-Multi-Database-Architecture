@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 13:52:57 +0000 2020",
+    "id": 1254045737001857025,
+    "id_str": "1254045737001857025",
+    "text": "@Netzkucker @DietmarBartsch @dieLinke @focusonline Achso. Und vor Corona tat sie das nicht?",
+    "display_text_range": [
+        51,
+        91
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254043622787473408,
+    "in_reply_to_status_id_str": "1254043622787473408",
+    "in_reply_to_user_id": 197234726,
+    "in_reply_to_user_id_str": "197234726",
+    "in_reply_to_screen_name": "Netzkucker",
+    "user": {
+        "id": 1031892061707005953,
+        "id_str": "1031892061707005953",
+        "name": "Mr. Bigglesworth",
+        "screen_name": "EvilsNakedCat",
+        "location": "Düsseldorf, Deutschland",
+        "url": null,
+        "description": "Atheist und Gegner von jeder Form des Extremismus.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 55,
+        "friends_count": 177,
+        "listed_count": 0,
+        "favourites_count": 972,
+        "statuses_count": 2437,
+        "created_at": "Tue Aug 21 13:13:33 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1031893539913965572/0oeDkpdk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031893539913965572/0oeDkpdk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031892061707005953/1570386964",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Netzkucker",
+                "name": "Ökosphäro",
+                "id": 197234726,
+                "id_str": "197234726",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "DietmarBartsch",
+                "name": "Dietmar Bartsch",
+                "id": 2320519958,
+                "id_str": "2320519958",
+                "indices": [
+                    12,
+                    27
+                ]
+            },
+            {
+                "screen_name": "dieLinke",
+                "name": "DIE LINKE",
+                "id": 44101578,
+                "id_str": "44101578",
+                "indices": [
+                    28,
+                    37
+                ]
+            },
+            {
+                "screen_name": "focusonline",
+                "name": "FOCUS Online",
+                "id": 5494392,
+                "id_str": "5494392",
+                "indices": [
+                    38,
+                    50
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822777401"
+}

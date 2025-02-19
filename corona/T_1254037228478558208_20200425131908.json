@@ -1,0 +1,113 @@
+{
+    "created_at": "Sat Apr 25 13:19:08 +0000 2020",
+    "id": 1254037228478558208,
+    "id_str": "1254037228478558208",
+    "text": "https://t.co/8BngtESqNt\n\n@FirhadHakim \n@DilipGhoshBJP \n#controversy",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1211958923080552449,
+        "id_str": "1211958923080552449",
+        "name": "Khas Khobor",
+        "screen_name": "khaskhobor2020",
+        "location": "Kolkata",
+        "url": "https://khaskhobor.com/",
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 324,
+        "friends_count": 2056,
+        "listed_count": 0,
+        "favourites_count": 9,
+        "statuses_count": 812,
+        "created_at": "Tue Dec 31 10:35:55 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1211959239662456833/3NOSw19O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211959239662456833/3NOSw19O_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "controversy",
+                "indices": [
+                    55,
+                    67
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/8BngtESqNt",
+                "expanded_url": "https://khaskhobor.com/blog/2020/04/25/in-the-corona-firhad-called-dilip-a-bad-son/",
+                "display_url": "khaskhobor.com/blog/2020/04/2…",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "FirhadHakim",
+                "name": "FIRHAD HAKIM",
+                "id": 922806342137479168,
+                "id_str": "922806342137479168",
+                "indices": [
+                    25,
+                    37
+                ]
+            },
+            {
+                "screen_name": "DilipGhoshBJP",
+                "name": "Dilip Ghosh",
+                "id": 4743651972,
+                "id_str": "4743651972",
+                "indices": [
+                    39,
+                    53
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587820748811"
+}

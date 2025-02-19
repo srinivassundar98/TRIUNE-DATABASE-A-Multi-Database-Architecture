@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:23:38 +0000 2020",
+    "id": 1254053459747356672,
+    "id_str": "1254053459747356672",
+    "text": "@jaipo @NicolaSturgeon @bcd_dundee Our policy does not mean shit to our government. They r the 1s that tell lies ab… https://t.co/BZN4Qc5X6r",
+    "display_text_range": [
+        35,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253734014260781056,
+    "in_reply_to_status_id_str": "1253734014260781056",
+    "in_reply_to_user_id": 21197265,
+    "in_reply_to_user_id_str": "21197265",
+    "in_reply_to_screen_name": "jaipo",
+    "user": {
+        "id": 820570605632290816,
+        "id_str": "820570605632290816",
+        "name": "steven chambers",
+        "screen_name": "stevenc35227497",
+        "location": "Glasgow, Scotland",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 132,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 57,
+        "created_at": "Sun Jan 15 09:57:32 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820570605632290816/1484820686",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@jaipo @NicolaSturgeon @bcd_dundee Our policy does not mean shit to our government. They r the 1s that tell lies about this corona. Just give it time before something else happens. This lockdown will go on until people take the biscuite and relies. What wee r up against England Devon Plymouth. Etc seem to be bad.",
+        "display_text_range": [
+            35,
+            314
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jaipo",
+                    "name": "John Porter",
+                    "id": 21197265,
+                    "id_str": "21197265",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "screen_name": "NicolaSturgeon",
+                    "name": "Nicola Sturgeon",
+                    "id": 160952087,
+                    "id_str": "160952087",
+                    "indices": [
+                        7,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "bcd_dundee",
+                    "name": "Brian Davidson 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺",
+                    "id": 23246577,
+                    "id_str": "23246577",
+                    "indices": [
+                        23,
+                        34
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/BZN4Qc5X6r",
+                "expanded_url": "https://twitter.com/i/web/status/1254053459747356672",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jaipo",
+                "name": "John Porter",
+                "id": 21197265,
+                "id_str": "21197265",
+                "indices": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "screen_name": "NicolaSturgeon",
+                "name": "Nicola Sturgeon",
+                "id": 160952087,
+                "id_str": "160952087",
+                "indices": [
+                    7,
+                    22
+                ]
+            },
+            {
+                "screen_name": "bcd_dundee",
+                "name": "Brian Davidson 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺",
+                "id": 23246577,
+                "id_str": "23246577",
+                "indices": [
+                    23,
+                    34
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824618647"
+}

@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 12:43:11 +0000 2020",
+    "id": 1254028179301380096,
+    "id_str": "1254028179301380096",
+    "text": "@Sangita32620162 World corona meter https://t.co/i7Zt4uw28B",
+    "display_text_range": [
+        17,
+        35
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254014047642583040,
+    "in_reply_to_status_id_str": "1254014047642583040",
+    "in_reply_to_user_id": 978252270943940608,
+    "in_reply_to_user_id_str": "978252270943940608",
+    "in_reply_to_screen_name": "Sangita32620162",
+    "user": {
+        "id": 1249170376854134784,
+        "id_str": "1249170376854134784",
+        "name": "Rahul",
+        "screen_name": "Rahul15375228",
+        "location": "kota Rajasthan",
+        "url": null,
+        "description": "please follow me my old friend because my twitter old id suspend",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 36,
+        "friends_count": 130,
+        "listed_count": 0,
+        "favourites_count": 431,
+        "statuses_count": 196,
+        "created_at": "Sun Apr 12 03:00:14 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254019757617156096/XXICuvbT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254019757617156096/XXICuvbT_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Sangita32620162",
+                "name": "Sangita Yadav(stay home, stay safe)",
+                "id": 978252270943940608,
+                "id_str": "978252270943940608",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254028162410983425,
+                "id_str": "1254028162410983425",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcz-DbXsAEKtJl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcz-DbXsAEKtJl.jpg",
+                "url": "https://t.co/i7Zt4uw28B",
+                "display_url": "pic.twitter.com/i7Zt4uw28B",
+                "expanded_url": "https://twitter.com/Rahul15375228/status/1254028179301380096/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 568,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1520,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 322,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254028162410983425,
+                "id_str": "1254028162410983425",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcz-DbXsAEKtJl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcz-DbXsAEKtJl.jpg",
+                "url": "https://t.co/i7Zt4uw28B",
+                "display_url": "pic.twitter.com/i7Zt4uw28B",
+                "expanded_url": "https://twitter.com/Rahul15375228/status/1254028179301380096/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 568,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1520,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 322,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818591319"
+}

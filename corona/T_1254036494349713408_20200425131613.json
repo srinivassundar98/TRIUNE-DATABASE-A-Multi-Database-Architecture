@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 13:16:13 +0000 2020",
+    "id": 1254036494349713408,
+    "id_str": "1254036494349713408",
+    "text": "@thuerwatch @SozialesTH @thueringende Gute Frage. Corona hat gezeigt, dass einzelne Länder überfordert sind und von… https://t.co/8moo8Hhf7m",
+    "display_text_range": [
+        38,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253998538842951684,
+    "in_reply_to_status_id_str": "1253998538842951684",
+    "in_reply_to_user_id": 1194904770999402496,
+    "in_reply_to_user_id_str": "1194904770999402496",
+    "in_reply_to_screen_name": "thuerwatch",
+    "user": {
+        "id": 3345263357,
+        "id_str": "3345263357",
+        "name": "BARMER Thüringen",
+        "screen_name": "BARMER_TH",
+        "location": "Erfurt, Thüringen",
+        "url": "https://www.barmer.de/presse/bundeslaender-aktuell/thueringen",
+        "description": "Hier twittert die Pressestelle der BARMER Thüringen Neues aus den Bereichen Gesundheit und Lebensqualität.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 443,
+        "friends_count": 411,
+        "listed_count": 16,
+        "favourites_count": 762,
+        "statuses_count": 2073,
+        "created_at": "Thu Jun 25 08:52:00 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1E9ECB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "84BD00",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/809671489767280640/vSfiwMoa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/809671489767280640/vSfiwMoa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3345263357/1435222668",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@thuerwatch @SozialesTH @thueringende Gute Frage. Corona hat gezeigt, dass einzelne Länder überfordert sind und von Solidarität alle profitieren.",
+        "display_text_range": [
+            38,
+            145
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "thuerwatch",
+                    "name": "thuerwatch",
+                    "id": 1194904770999402496,
+                    "id_str": "1194904770999402496",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "SozialesTH",
+                    "name": "TMASGFF",
+                    "id": 940240948092686336,
+                    "id_str": "940240948092686336",
+                    "indices": [
+                        12,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "thueringende",
+                    "name": "Staatskanzlei Thüringen",
+                    "id": 1212310728,
+                    "id_str": "1212310728",
+                    "indices": [
+                        24,
+                        37
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/8moo8Hhf7m",
+                "expanded_url": "https://twitter.com/i/web/status/1254036494349713408",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "thuerwatch",
+                "name": "thuerwatch",
+                "id": 1194904770999402496,
+                "id_str": "1194904770999402496",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "SozialesTH",
+                "name": "TMASGFF",
+                "id": 940240948092686336,
+                "id_str": "940240948092686336",
+                "indices": [
+                    12,
+                    23
+                ]
+            },
+            {
+                "screen_name": "thueringende",
+                "name": "Staatskanzlei Thüringen",
+                "id": 1212310728,
+                "id_str": "1212310728",
+                "indices": [
+                    24,
+                    37
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820573781"
+}

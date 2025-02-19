@@ -1,0 +1,282 @@
+{
+    "created_at": "Sat Apr 25 13:23:30 +0000 2020",
+    "id": 1254038327860183040,
+    "id_str": "1254038327860183040",
+    "text": "Rajesh Raj dd news Talks with Mos Home Kishan Reddy on Corona.@narendramodi\n@AmitShah\n@nityanandraibjp\n@dpradhanbjp… https://t.co/4wjXXAqtkk",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1857524024,
+        "id_str": "1857524024",
+        "name": "Rajesh Raj",
+        "screen_name": "RajeshRajDD",
+        "location": "New Delhi",
+        "url": "http://jaimangla.org",
+        "description": "Sr.Political Journalist working @DDnewsLive. #Prasarbharti#Publicbroadcaster of India.\n#Covering #BJP#Politics#Parliament#Govt.Affairs",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1397,
+        "friends_count": 1435,
+        "listed_count": 0,
+        "favourites_count": 1549,
+        "statuses_count": 975,
+        "created_at": "Thu Sep 12 14:10:06 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1001758056030572544/ff2lS1a4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001758056030572544/ff2lS1a4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857524024/1584598546",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "317fcc4b21a604d5",
+        "url": "https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json",
+        "place_type": "city",
+        "name": "New Delhi",
+        "full_name": "New Delhi, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        76.84252,
+                        28.397657
+                    ],
+                    [
+                        76.84252,
+                        28.879322
+                    ],
+                    [
+                        77.347652,
+                        28.879322
+                    ],
+                    [
+                        77.347652,
+                        28.397657
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Rajesh Raj dd news Talks with Mos Home Kishan Reddy on Corona.@narendramodi\n@AmitShah\n@nityanandraibjp\n@dpradhanbjp\n@girirajsinghbjp\n@SushilModi\n@yadavtejashwi\n@BJP4India\n@DDNewsHindi\n@DDNewslive\nhttps://t.co/FVGjH121BO",
+        "display_text_range": [
+            0,
+            219
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/FVGjH121BO",
+                    "expanded_url": "https://youtu.be/cV616AEmc1g",
+                    "display_url": "youtu.be/cV616AEmc1g",
+                    "indices": [
+                        196,
+                        219
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "narendramodi",
+                    "name": "Narendra Modi",
+                    "id": 18839785,
+                    "id_str": "18839785",
+                    "indices": [
+                        62,
+                        75
+                    ]
+                },
+                {
+                    "screen_name": "AmitShah",
+                    "name": "Amit Shah",
+                    "id": 1447949844,
+                    "id_str": "1447949844",
+                    "indices": [
+                        76,
+                        85
+                    ]
+                },
+                {
+                    "screen_name": "nityanandraibjp",
+                    "name": "Nityanand Rai",
+                    "id": 3098336425,
+                    "id_str": "3098336425",
+                    "indices": [
+                        86,
+                        102
+                    ]
+                },
+                {
+                    "screen_name": "dpradhanbjp",
+                    "name": "Dharmendra Pradhan",
+                    "id": 1897514666,
+                    "id_str": "1897514666",
+                    "indices": [
+                        103,
+                        115
+                    ]
+                },
+                {
+                    "screen_name": "girirajsinghbjp",
+                    "name": "Shandilya Giriraj Singh",
+                    "id": 1642669674,
+                    "id_str": "1642669674",
+                    "indices": [
+                        116,
+                        132
+                    ]
+                },
+                {
+                    "screen_name": "SushilModi",
+                    "name": "Sushil Kumar Modi",
+                    "id": 295251095,
+                    "id_str": "295251095",
+                    "indices": [
+                        133,
+                        144
+                    ]
+                },
+                {
+                    "screen_name": "yadavtejashwi",
+                    "name": "Tejashwi Yadav",
+                    "id": 2253148681,
+                    "id_str": "2253148681",
+                    "indices": [
+                        145,
+                        159
+                    ]
+                },
+                {
+                    "screen_name": "BJP4India",
+                    "name": "BJP",
+                    "id": 207809313,
+                    "id_str": "207809313",
+                    "indices": [
+                        160,
+                        170
+                    ]
+                },
+                {
+                    "screen_name": "DDNewsHindi",
+                    "name": "डीडी न्यूज़",
+                    "id": 1966507722,
+                    "id_str": "1966507722",
+                    "indices": [
+                        171,
+                        183
+                    ]
+                },
+                {
+                    "screen_name": "DDNewslive",
+                    "name": "DD News",
+                    "id": 1100927498,
+                    "id_str": "1100927498",
+                    "indices": [
+                        184,
+                        195
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/4wjXXAqtkk",
+                "expanded_url": "https://twitter.com/i/web/status/1254038327860183040",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "narendramodi",
+                "name": "Narendra Modi",
+                "id": 18839785,
+                "id_str": "18839785",
+                "indices": [
+                    62,
+                    75
+                ]
+            },
+            {
+                "screen_name": "AmitShah",
+                "name": "Amit Shah",
+                "id": 1447949844,
+                "id_str": "1447949844",
+                "indices": [
+                    76,
+                    85
+                ]
+            },
+            {
+                "screen_name": "nityanandraibjp",
+                "name": "Nityanand Rai",
+                "id": 3098336425,
+                "id_str": "3098336425",
+                "indices": [
+                    86,
+                    102
+                ]
+            },
+            {
+                "screen_name": "dpradhanbjp",
+                "name": "Dharmendra Pradhan",
+                "id": 1897514666,
+                "id_str": "1897514666",
+                "indices": [
+                    103,
+                    115
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821010924"
+}

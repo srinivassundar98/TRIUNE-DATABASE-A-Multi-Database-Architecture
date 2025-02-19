@@ -1,0 +1,141 @@
+{
+    "created_at": "Sat Apr 25 13:43:30 +0000 2020",
+    "id": 1254043359569682432,
+    "id_str": "1254043359569682432",
+    "text": "@jlilmoes @adlaramse @Slyngel Ja for satan- når der ikke er Corona😊",
+    "display_text_range": [
+        30,
+        67
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254041531545157633,
+    "in_reply_to_status_id_str": "1254041531545157633",
+    "in_reply_to_user_id": 35196964,
+    "in_reply_to_user_id_str": "35196964",
+    "in_reply_to_screen_name": "jlilmoes",
+    "user": {
+        "id": 471782799,
+        "id_str": "471782799",
+        "name": "Freddy Kirszner 🇩🇰",
+        "screen_name": "FreddyKirszner",
+        "location": "Aarhus",
+        "url": "http://agf.dk",
+        "description": "Gift og far:-) Twitter om lidt af hvert-især AGF, West Ham, St. Pauli 🏴‍☠️og dkpol #Tossehjørnet #ultratwitteragf",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 759,
+        "friends_count": 1198,
+        "listed_count": 28,
+        "favourites_count": 56987,
+        "statuses_count": 28526,
+        "created_at": "Mon Jan 23 07:47:47 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228352799152508928/CD1e2PVO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228352799152508928/CD1e2PVO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/471782799/1472113780",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "55a020e74abc073f",
+        "url": "https://api.twitter.com/1.1/geo/id/55a020e74abc073f.json",
+        "place_type": "city",
+        "name": "Aarhus",
+        "full_name": "Aarhus, Danmark",
+        "country_code": "DK",
+        "country": "Danmark",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        9.949081,
+                        55.995771
+                    ],
+                    [
+                        9.949081,
+                        56.330316
+                    ],
+                    [
+                        10.389157,
+                        56.330316
+                    ],
+                    [
+                        10.389157,
+                        55.995771
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "jlilmoes",
+                "name": "Jonathan Lilmoes",
+                "id": 35196964,
+                "id_str": "35196964",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "adlaramse",
+                "name": "Esma",
+                "id": 880784064,
+                "id_str": "880784064",
+                "indices": [
+                    10,
+                    20
+                ]
+            },
+            {
+                "screen_name": "Slyngel",
+                "name": "Slyngel™ 🇩🇰",
+                "id": 116473547,
+                "id_str": "116473547",
+                "indices": [
+                    21,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "da",
+    "timestamp_ms": "1587822210577"
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat Apr 25 14:21:27 +0000 2020",
+    "id": 1254052908506796032,
+    "id_str": "1254052908506796032",
+    "text": "@MollyBeck @repvos https://t.co/EXQRaRAzs2",
+    "display_text_range": [
+        19,
+        42
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253764974696005632,
+    "in_reply_to_status_id_str": "1253764974696005632",
+    "in_reply_to_user_id": 494263580,
+    "in_reply_to_user_id_str": "494263580",
+    "in_reply_to_screen_name": "MollyBeck",
+    "user": {
+        "id": 366006614,
+        "id_str": "366006614",
+        "name": "Stay at Home Elizabeth Jayne ☮️",
+        "screen_name": "ee_Jayne",
+        "location": "Maryland, USA",
+        "url": null,
+        "description": "engineer, volunteer, cat person, vegetarian, gardener, RPCV, ❤ organ donor, wife, & mom. #resist 🌎 supporter of local journalism",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 637,
+        "friends_count": 1306,
+        "listed_count": 8,
+        "favourites_count": 59951,
+        "statuses_count": 16934,
+        "created_at": "Thu Sep 01 12:07:44 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1135608927234736129/YJg6ZLkf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1135608927234736129/YJg6ZLkf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/366006614/1587553456",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/EXQRaRAzs2",
+                "expanded_url": "https://www.wuwm.com/post/40-coronavirus-cases-milwaukee-county-linked-wisconsin-election-health-official-says",
+                "display_url": "wuwm.com/post/40-corona…",
+                "indices": [
+                    19,
+                    42
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MollyBeck",
+                "name": "Molly Beck",
+                "id": 494263580,
+                "id_str": "494263580",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "repvos",
+                "name": "Robin Vos",
+                "id": 26078159,
+                "id_str": "26078159",
+                "indices": [
+                    11,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587824487221"
+}

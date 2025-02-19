@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 12:48:55 +0000 2020",
+    "id": 1254029622066413569,
+    "id_str": "1254029622066413569",
+    "text": "@itsJeffTiedrich @realDonaldTrump @TripleH He didn’t kill them , corona did",
+    "display_text_range": [
+        43,
+        75
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254022733165453312,
+    "in_reply_to_status_id_str": "1254022733165453312",
+    "in_reply_to_user_id": 1009577803304656896,
+    "in_reply_to_user_id_str": "1009577803304656896",
+    "in_reply_to_screen_name": "itsJeffTiedrich",
+    "user": {
+        "id": 862832659,
+        "id_str": "862832659",
+        "name": "Fabulous 1852",
+        "screen_name": "FabulousLonzo",
+        "location": "Worldwide ",
+        "url": null,
+        "description": "Nothing last forever",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1870,
+        "friends_count": 4160,
+        "listed_count": 3,
+        "favourites_count": 5191,
+        "statuses_count": 4504,
+        "created_at": "Fri Oct 05 10:19:51 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190713632449073156/Rhyk3blo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190713632449073156/Rhyk3blo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/862832659/1566121212",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "itsJeffTiedrich",
+                "name": "Jeff Tiedrich",
+                "id": 1009577803304656896,
+                "id_str": "1009577803304656896",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    17,
+                    33
+                ]
+            },
+            {
+                "screen_name": "TripleH",
+                "name": "Triple H",
+                "id": 355708717,
+                "id_str": "355708717",
+                "indices": [
+                    34,
+                    42
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818935301"
+}

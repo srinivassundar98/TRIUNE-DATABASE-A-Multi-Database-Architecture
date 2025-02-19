@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:21:32 +0000 2020",
+    "id": 1254037830004813825,
+    "id_str": "1254037830004813825",
+    "text": "@JustMeAndMrJoe Wir haben das tatsächlich diese Woche mit der Familie meines Schwagers (Bruder vom Mann) angefangen… https://t.co/9NgaXlJAPs",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253986518810664961,
+    "in_reply_to_status_id_str": "1253986518810664961",
+    "in_reply_to_user_id": 2296147375,
+    "in_reply_to_user_id_str": "2296147375",
+    "in_reply_to_screen_name": "JustMeAndMrJoe",
+    "user": {
+        "id": 466707449,
+        "id_str": "466707449",
+        "name": "Caro Wepunkt 🏡",
+        "screen_name": "CaroWepunkt",
+        "location": "Nordrhein-Westfalen, Deutschland",
+        "url": null,
+        "description": "Mama (3‘18 und 2‘20). Ehefrau. Richterin. Reiterin. Läuferin. Glücklich. (Hier rein privat)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 962,
+        "friends_count": 490,
+        "listed_count": 3,
+        "favourites_count": 6143,
+        "statuses_count": 2341,
+        "created_at": "Tue Jan 17 18:11:21 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253440455141982208/Oja7J_sl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253440455141982208/Oja7J_sl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/466707449/1587678468",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@JustMeAndMrJoe Wir haben das tatsächlich diese Woche mit der Familie meines Schwagers (Bruder vom Mann) angefangen. Wir waren zusammen spazieren und im Garten spielen. Die Kinder haben verstanden, dass sie Abstand halten müssen - mein Neffe (4,5j) ruft immer „Corona“, wenn jemand zu nah kommt.",
+        "display_text_range": [
+            16,
+            295
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JustMeAndMrJoe",
+                    "name": "JustMeMrJoeAndAHalf",
+                    "id": 2296147375,
+                    "id_str": "2296147375",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/9NgaXlJAPs",
+                "expanded_url": "https://twitter.com/i/web/status/1254037830004813825",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "JustMeAndMrJoe",
+                "name": "JustMeMrJoeAndAHalf",
+                "id": 2296147375,
+                "id_str": "2296147375",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820892226"
+}

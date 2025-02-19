@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 13:57:42 +0000 2020",
+    "id": 1254046934395805697,
+    "id_str": "1254046934395805697",
+    "text": "@SonuSet56524883 @indiatvnews @IMinakshiJoshi What corona ka prakop hai ya nahi....",
+    "display_text_range": [
+        46,
+        83
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253941783584702467,
+    "in_reply_to_status_id_str": "1253941783584702467",
+    "in_reply_to_user_id": 1242335352095997952,
+    "in_reply_to_user_id_str": "1242335352095997952",
+    "in_reply_to_screen_name": "SonuSet56524883",
+    "user": {
+        "id": 1235018159377100802,
+        "id_str": "1235018159377100802",
+        "name": "Abhijit",
+        "screen_name": "Abhijit94212544",
+        "location": null,
+        "url": null,
+        "description": "it's me",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 103,
+        "listed_count": 0,
+        "favourites_count": 2938,
+        "statuses_count": 333,
+        "created_at": "Wed Mar 04 01:44:31 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "SonuSet56524883",
+                "name": "Sonu Seth",
+                "id": 1242335352095997952,
+                "id_str": "1242335352095997952",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "indiatvnews",
+                "name": "India TV",
+                "id": 34245009,
+                "id_str": "34245009",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "screen_name": "IMinakshiJoshi",
+                "name": "Meenakshi Joshi",
+                "id": 2512765266,
+                "id_str": "2512765266",
+                "indices": [
+                    30,
+                    45
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587823062882"
+}

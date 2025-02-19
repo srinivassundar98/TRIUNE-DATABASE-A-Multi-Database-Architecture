@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat Apr 25 13:54:17 +0000 2020",
+    "id": 1254046071476695040,
+    "id_str": "1254046071476695040",
+    "text": "@MollyBeck @repvos We'll see. Data should be finalized in about a week. https://t.co/H2TA0X10VO",
+    "display_text_range": [
+        19,
+        95
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253764974696005632,
+    "in_reply_to_status_id_str": "1253764974696005632",
+    "in_reply_to_user_id": 494263580,
+    "in_reply_to_user_id_str": "494263580",
+    "in_reply_to_screen_name": "MollyBeck",
+    "user": {
+        "id": 6819772,
+        "id_str": "6819772",
+        "name": "LOU",
+        "screen_name": "lindseybelle",
+        "location": "Raleigh, NC",
+        "url": null,
+        "description": "dog mom of two, ecommerce marketer, supporter of #CriminalJusticeReform.\n\nmilwaukee to raleigh",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 326,
+        "friends_count": 338,
+        "listed_count": 18,
+        "favourites_count": 13356,
+        "statuses_count": 8318,
+        "created_at": "Thu Jun 14 20:40:00 +0000 2007",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F0B69A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "C97876",
+        "profile_sidebar_border_color": "211A2D",
+        "profile_sidebar_fill_color": "D8C9A3",
+        "profile_text_color": "EB9184",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249109955128332288/EVNFLKSl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249109955128332288/EVNFLKSl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6819772/1520619693",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/H2TA0X10VO",
+                "expanded_url": "https://www.wuwm.com/post/40-coronavirus-cases-milwaukee-county-linked-wisconsin-election-health-official-says#stream/0",
+                "display_url": "wuwm.com/post/40-corona…",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MollyBeck",
+                "name": "Molly Beck",
+                "id": 494263580,
+                "id_str": "494263580",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "repvos",
+                "name": "Robin Vos",
+                "id": 26078159,
+                "id_str": "26078159",
+                "indices": [
+                    11,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822857146"
+}

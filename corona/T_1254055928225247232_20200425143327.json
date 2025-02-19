@@ -1,0 +1,134 @@
+{
+    "created_at": "Sat Apr 25 14:33:27 +0000 2020",
+    "id": 1254055928225247232,
+    "id_str": "1254055928225247232",
+    "text": "@scotgov || Saturday 25 April  || I've been compiling the daily figures of corona virus in Scotland into a spreadsh… https://t.co/5yqVrFps9i",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254032415200178178,
+    "in_reply_to_status_id_str": "1254032415200178178",
+    "in_reply_to_user_id": 46650770,
+    "in_reply_to_user_id_str": "46650770",
+    "in_reply_to_screen_name": "scotgov",
+    "user": {
+        "id": 81701258,
+        "id_str": "81701258",
+        "name": "Fraser McFadyen",
+        "screen_name": "frasermcf",
+        "location": "Campbeltown, Scotland",
+        "url": null,
+        "description": "Tracking data from Covid-19 in Scotland on this link:\n https://docs.google.com/spreadsheets/u/0/d/1YuHUTB0HsE-rdOBDgwdt4DWfg8eFeW4YZBxp8QNmOcs/htmlview",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1127,
+        "friends_count": 93,
+        "listed_count": 9,
+        "favourites_count": 1821,
+        "statuses_count": 4320,
+        "created_at": "Sun Oct 11 22:36:47 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1E00FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3028724487/b6feb0a70807505522a3475aa2abb2c7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3028724487/b6feb0a70807505522a3475aa2abb2c7_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/81701258/1486514398",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@scotgov || Saturday 25 April  || I've been compiling the daily figures of corona virus in Scotland into a spreadsheet with charts so anyone interested can view historical trends etc \n\nLink below.\n\nhttps://t.co/SqrGQn5vVe",
+        "display_text_range": [
+            9,
+            221
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/SqrGQn5vVe",
+                    "expanded_url": "https://docs.google.com/spreadsheets/d/1YuHUTB0HsE-rdOBDgwdt4DWfg8eFeW4YZBxp8QNmOcs/edit?usp=sharing",
+                    "display_url": "docs.google.com/spreadsheets/d…",
+                    "indices": [
+                        198,
+                        221
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "scotgov",
+                    "name": "Scottish Government",
+                    "id": 46650770,
+                    "id_str": "46650770",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/5yqVrFps9i",
+                "expanded_url": "https://twitter.com/i/web/status/1254055928225247232",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "scotgov",
+                "name": "Scottish Government",
+                "id": 46650770,
+                "id_str": "46650770",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825207178"
+}

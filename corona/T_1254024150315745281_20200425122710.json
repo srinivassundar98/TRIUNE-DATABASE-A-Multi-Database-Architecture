@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:27:10 +0000 2020",
+    "id": 1254024150315745281,
+    "id_str": "1254024150315745281",
+    "text": "@KUMISTIPIS22 @Biima_ID CORONA",
+    "display_text_range": [
+        24,
+        30
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254023816889503744,
+    "in_reply_to_status_id_str": "1254023816889503744",
+    "in_reply_to_user_id": 996998876249841669,
+    "in_reply_to_user_id_str": "996998876249841669",
+    "in_reply_to_screen_name": "KUMISTIPIS22",
+    "user": {
+        "id": 729245929237139456,
+        "id_str": "729245929237139456",
+        "name": "Dimas Ansorudin",
+        "screen_name": "Mascuuu",
+        "location": "YK",
+        "url": null,
+        "description": "Eng.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 83,
+        "friends_count": 94,
+        "listed_count": 0,
+        "favourites_count": 79,
+        "statuses_count": 4232,
+        "created_at": "Sun May 08 09:45:53 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1209129472911261696/PtFanhud_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209129472911261696/PtFanhud_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/729245929237139456/1567598945",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "KUMISTIPIS22",
+                "name": "Gesang Lebdo Prayoga.",
+                "id": 996998876249841669,
+                "id_str": "996998876249841669",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Biima_ID",
+                "name": "Jual Sayur Asam",
+                "id": 352209699,
+                "id_str": "352209699",
+                "indices": [
+                    14,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587817630734"
+}

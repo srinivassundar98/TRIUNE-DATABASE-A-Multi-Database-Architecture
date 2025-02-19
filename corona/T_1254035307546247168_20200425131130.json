@@ -1,0 +1,414 @@
+{
+    "created_at": "Sat Apr 25 13:11:30 +0000 2020",
+    "id": 1254035307546247168,
+    "id_str": "1254035307546247168",
+    "text": "https://t.co/5AK9vIKczN #Fußball @fussball\n @artdubai\n @bonfoeygallery\n \n #detmold #guetersloh \n@owl\n @bielefeld… https://t.co/O660UUJi1K",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3104410913,
+        "id_str": "3104410913",
+        "name": "kunstweg",
+        "screen_name": "kunstweg",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 99,
+        "friends_count": 216,
+        "listed_count": 10,
+        "favourites_count": 207,
+        "statuses_count": 3992,
+        "created_at": "Sun Mar 22 11:49:19 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/579611250956587008/dg6oQ-Yd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/579611250956587008/dg6oQ-Yd_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "https://t.co/5AK9vIKczN #Fußball @fussball\n @artdubai\n @bonfoeygallery\n \n #detmold #guetersloh \n@owl\n @bielefeld\n @paderborn\n @lippstadt\n @minden\n @hoexter\n @herford\n @detmold\n @guetersloh\n POPART SALE Fight against Corona - charity https://t.co/Yrcqf8S4gL",
+        "display_text_range": [
+            0,
+            232
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Fußball",
+                    "indices": [
+                        24,
+                        32
+                    ]
+                },
+                {
+                    "text": "detmold",
+                    "indices": [
+                        74,
+                        82
+                    ]
+                },
+                {
+                    "text": "guetersloh",
+                    "indices": [
+                        83,
+                        94
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/5AK9vIKczN",
+                    "expanded_url": "https://www.ebay.de/itm/143587413508",
+                    "display_url": "ebay.de/itm/1435874135…",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "fussball",
+                    "name": "Fussball Deutschland",
+                    "id": 3144621,
+                    "id_str": "3144621",
+                    "indices": [
+                        33,
+                        42
+                    ]
+                },
+                {
+                    "screen_name": "artdubai",
+                    "name": "Art Dubai",
+                    "id": 22891802,
+                    "id_str": "22891802",
+                    "indices": [
+                        44,
+                        53
+                    ]
+                },
+                {
+                    "screen_name": "bonfoeygallery",
+                    "name": "Bonfoey Art Gallery",
+                    "id": 18219364,
+                    "id_str": "18219364",
+                    "indices": [
+                        55,
+                        70
+                    ]
+                },
+                {
+                    "screen_name": "owl",
+                    "name": "owl",
+                    "id": 4669261,
+                    "id_str": "4669261",
+                    "indices": [
+                        96,
+                        100
+                    ]
+                },
+                {
+                    "screen_name": "bielefeld",
+                    "name": "Bielefeld",
+                    "id": 14176506,
+                    "id_str": "14176506",
+                    "indices": [
+                        102,
+                        112
+                    ]
+                },
+                {
+                    "screen_name": "paderborn",
+                    "name": "paderborn",
+                    "id": 15928332,
+                    "id_str": "15928332",
+                    "indices": [
+                        114,
+                        124
+                    ]
+                },
+                {
+                    "screen_name": "lippstadt",
+                    "name": "köpping",
+                    "id": 49010798,
+                    "id_str": "49010798",
+                    "indices": [
+                        126,
+                        136
+                    ]
+                },
+                {
+                    "screen_name": "minden",
+                    "name": "minden",
+                    "id": 14534631,
+                    "id_str": "14534631",
+                    "indices": [
+                        138,
+                        145
+                    ]
+                },
+                {
+                    "screen_name": "Hoexter",
+                    "name": "Christian Roloff",
+                    "id": 35293294,
+                    "id_str": "35293294",
+                    "indices": [
+                        147,
+                        155
+                    ]
+                },
+                {
+                    "screen_name": "herford",
+                    "name": "James Herford",
+                    "id": 18191602,
+                    "id_str": "18191602",
+                    "indices": [
+                        157,
+                        165
+                    ]
+                },
+                {
+                    "screen_name": "detmold",
+                    "name": "emre",
+                    "id": 19407462,
+                    "id_str": "19407462",
+                    "indices": [
+                        167,
+                        175
+                    ]
+                },
+                {
+                    "screen_name": "guetersloh",
+                    "name": "Kim Guetersloh",
+                    "id": 948304080019116032,
+                    "id_str": "948304080019116032",
+                    "indices": [
+                        177,
+                        188
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254035301447741441,
+                    "id_str": "1254035301447741441",
+                    "indices": [
+                        233,
+                        256
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc6dmaXsAEsQeA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc6dmaXsAEsQeA.jpg",
+                    "url": "https://t.co/Yrcqf8S4gL",
+                    "display_url": "pic.twitter.com/Yrcqf8S4gL",
+                    "expanded_url": "https://twitter.com/kunstweg/status/1254035307546247168/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 893,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 972,
+                            "h": 1306,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254035301447741441,
+                    "id_str": "1254035301447741441",
+                    "indices": [
+                        233,
+                        256
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc6dmaXsAEsQeA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc6dmaXsAEsQeA.jpg",
+                    "url": "https://t.co/Yrcqf8S4gL",
+                    "display_url": "pic.twitter.com/Yrcqf8S4gL",
+                    "expanded_url": "https://twitter.com/kunstweg/status/1254035307546247168/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 506,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 893,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 972,
+                            "h": 1306,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Fußball",
+                "indices": [
+                    24,
+                    32
+                ]
+            },
+            {
+                "text": "detmold",
+                "indices": [
+                    74,
+                    82
+                ]
+            },
+            {
+                "text": "guetersloh",
+                "indices": [
+                    83,
+                    94
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/5AK9vIKczN",
+                "expanded_url": "https://www.ebay.de/itm/143587413508",
+                "display_url": "ebay.de/itm/1435874135…",
+                "indices": [
+                    0,
+                    23
+                ]
+            },
+            {
+                "url": "https://t.co/O660UUJi1K",
+                "expanded_url": "https://twitter.com/i/web/status/1254035307546247168",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "fussball",
+                "name": "Fussball Deutschland",
+                "id": 3144621,
+                "id_str": "3144621",
+                "indices": [
+                    33,
+                    42
+                ]
+            },
+            {
+                "screen_name": "artdubai",
+                "name": "Art Dubai",
+                "id": 22891802,
+                "id_str": "22891802",
+                "indices": [
+                    44,
+                    53
+                ]
+            },
+            {
+                "screen_name": "bonfoeygallery",
+                "name": "Bonfoey Art Gallery",
+                "id": 18219364,
+                "id_str": "18219364",
+                "indices": [
+                    55,
+                    70
+                ]
+            },
+            {
+                "screen_name": "owl",
+                "name": "owl",
+                "id": 4669261,
+                "id_str": "4669261",
+                "indices": [
+                    96,
+                    100
+                ]
+            },
+            {
+                "screen_name": "bielefeld",
+                "name": "Bielefeld",
+                "id": 14176506,
+                "id_str": "14176506",
+                "indices": [
+                    102,
+                    112
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820290825"
+}

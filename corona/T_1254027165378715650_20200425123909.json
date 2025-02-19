@@ -1,0 +1,232 @@
+{
+    "created_at": "Sat Apr 25 12:39:09 +0000 2020",
+    "id": 1254027165378715650,
+    "id_str": "1254027165378715650",
+    "text": "Null ist Null !",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 802484561598881792,
+        "id_str": "802484561598881792",
+        "name": "Mäxchen",
+        "screen_name": "IundeMaexchen",
+        "location": "Deutschland",
+        "url": null,
+        "description": "Mut zur Wahrheit",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 230,
+        "friends_count": 248,
+        "listed_count": 2,
+        "favourites_count": 6361,
+        "statuses_count": 9738,
+        "created_at": "Sat Nov 26 12:10:03 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/805073024542277632/map314tC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/805073024542277632/map314tC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/802484561598881792/1480779510",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1253761251886469131,
+    "quoted_status_id_str": "1253761251886469131",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 19:02:30 +0000 2020",
+        "id": 1253761251886469131,
+        "id_str": "1253761251886469131",
+        "text": "Die Zahl kritisch erkrankter #COVID19-Patienten in der ehemaligen #Coronavirus-Hochburg #Wuhan ist laut den Behörde… https://t.co/U7aCnXWw0P",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2561586612,
+            "id_str": "2561586612",
+            "name": "RT Deutsch",
+            "screen_name": "RT_Deutsch",
+            "location": "Berlin, Germany",
+            "url": "http://deutsch.rt.com",
+            "description": "RT auf Deutsch: Der Fehlende Part",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 48241,
+            "friends_count": 405,
+            "listed_count": 664,
+            "favourites_count": 2340,
+            "statuses_count": 73449,
+            "created_at": "Wed Jun 11 15:54:00 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "6DC331",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1018827384689254405/2TCNPlSx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018827384689254405/2TCNPlSx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2561586612/1531742365",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Die Zahl kritisch erkrankter #COVID19-Patienten in der ehemaligen #Coronavirus-Hochburg #Wuhan ist laut den Behörden in Peking auf Null gesunken.\nhttps://t.co/8tKUaO4L8z",
+            "display_text_range": [
+                0,
+                169
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "COVID19",
+                        "indices": [
+                            29,
+                            37
+                        ]
+                    },
+                    {
+                        "text": "Coronavirus",
+                        "indices": [
+                            66,
+                            78
+                        ]
+                    },
+                    {
+                        "text": "Wuhan",
+                        "indices": [
+                            88,
+                            94
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/8tKUaO4L8z",
+                        "expanded_url": "https://deutsch.rt.com/asien/101629-corona-weiterhin-auf-ruckzug-in/",
+                        "display_url": "deutsch.rt.com/asien/101629-c…",
+                        "indices": [
+                            146,
+                            169
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 7,
+        "favorite_count": 9,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        29,
+                        37
+                    ]
+                },
+                {
+                    "text": "Coronavirus",
+                    "indices": [
+                        66,
+                        78
+                    ]
+                },
+                {
+                    "text": "Wuhan",
+                    "indices": [
+                        88,
+                        94
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/U7aCnXWw0P",
+                    "expanded_url": "https://twitter.com/i/web/status/1253761251886469131",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/ebz6ySUzgf",
+        "expanded": "https://twitter.com/RT_Deutsch/status/1253761251886469131",
+        "display": "twitter.com/RT_Deutsch/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587818349581"
+}

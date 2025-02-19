@@ -1,0 +1,201 @@
+{
+    "created_at": "Sat Apr 25 13:13:28 +0000 2020",
+    "id": 1254035801480015877,
+    "id_str": "1254035801480015877",
+    "text": "@INCIndia Antonia Maino is world's 4th richest politician, but c contributed Rs. 000 to fight against corona. Shame… https://t.co/2s3nqYnZAD",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254034833283534849,
+    "in_reply_to_status_id_str": "1254034833283534849",
+    "in_reply_to_user_id": 1153045459,
+    "in_reply_to_user_id_str": "1153045459",
+    "in_reply_to_screen_name": "INCIndia",
+    "user": {
+        "id": 1253858163960549378,
+        "id_str": "1253858163960549378",
+        "name": "Rahul kumar",
+        "screen_name": "Rahulku30379729",
+        "location": null,
+        "url": null,
+        "description": "Old is gold, support secular parties, against Godi media, youth congress zindabad",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 29,
+        "listed_count": 0,
+        "favourites_count": 13,
+        "statuses_count": 77,
+        "created_at": "Sat Apr 25 01:27:50 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253859536219312130/nVQ2ih9E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253859536219312130/nVQ2ih9E_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@INCIndia Antonia Maino is world's 4th richest politician, but c contributed Rs. 000 to fight against corona. Shame for congies https://t.co/tktr3RkbTK",
+        "display_text_range": [
+            10,
+            127
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "INCIndia",
+                    "name": "Congress",
+                    "id": 1153045459,
+                    "id_str": "1153045459",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254035328530341888,
+                    "id_str": "1254035328530341888",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc6fLTXYAA9jLm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc6fLTXYAA9jLm.jpg",
+                    "url": "https://t.co/tktr3RkbTK",
+                    "display_url": "pic.twitter.com/tktr3RkbTK",
+                    "expanded_url": "https://twitter.com/Rahulku30379729/status/1254035801480015877/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1079,
+                            "h": 751,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 473,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1079,
+                            "h": 751,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254035328530341888,
+                    "id_str": "1254035328530341888",
+                    "indices": [
+                        128,
+                        151
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc6fLTXYAA9jLm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc6fLTXYAA9jLm.jpg",
+                    "url": "https://t.co/tktr3RkbTK",
+                    "display_url": "pic.twitter.com/tktr3RkbTK",
+                    "expanded_url": "https://twitter.com/Rahulku30379729/status/1254035801480015877/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1079,
+                            "h": 751,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 473,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1079,
+                            "h": 751,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/2s3nqYnZAD",
+                "expanded_url": "https://twitter.com/i/web/status/1254035801480015877",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "INCIndia",
+                "name": "Congress",
+                "id": 1153045459,
+                "id_str": "1153045459",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820408588"
+}

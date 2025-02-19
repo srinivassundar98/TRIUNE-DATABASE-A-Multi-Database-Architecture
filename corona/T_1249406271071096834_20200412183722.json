@@ -1,0 +1,188 @@
+{
+    "created_at": "Sun Apr 12 18:37:22 +0000 2020",
+    "id": 1249406271071096834,
+    "id_str": "1249406271071096834",
+    "text": "https://t.co/fMpJvt4Lmo #corona #nritv #sharhaansingh #views #interview #home #quarantinelife @ Mumbai, Maharashtra https://t.co/D61B7e9oZK",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 113727733,
+        "id_str": "113727733",
+        "name": "sharhaan singh",
+        "screen_name": "sharhaansingh",
+        "location": "mumbai",
+        "url": null,
+        "description": "model/actor\n uttran kasam kumkum bhagya fame",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 541,
+        "friends_count": 294,
+        "listed_count": 2,
+        "favourites_count": 6,
+        "statuses_count": 589,
+        "created_at": "Fri Feb 12 20:54:36 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/893488112164261888/ntpOAY5z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/893488112164261888/ntpOAY5z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113727733/1501859242",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            19.0627,
+            72.8764
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            72.8764,
+            19.0627
+        ]
+    },
+    "place": {
+        "id": "7929cea6bd5b32bd",
+        "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+        "place_type": "city",
+        "name": "Mumbai",
+        "full_name": "Mumbai, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        72.74484,
+                        18.845343
+                    ],
+                    [
+                        72.74484,
+                        19.502937
+                    ],
+                    [
+                        73.003648,
+                        19.502937
+                    ],
+                    [
+                        73.003648,
+                        18.845343
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    24,
+                    31
+                ]
+            },
+            {
+                "text": "nritv",
+                "indices": [
+                    32,
+                    38
+                ]
+            },
+            {
+                "text": "sharhaansingh",
+                "indices": [
+                    39,
+                    53
+                ]
+            },
+            {
+                "text": "views",
+                "indices": [
+                    54,
+                    60
+                ]
+            },
+            {
+                "text": "interview",
+                "indices": [
+                    61,
+                    71
+                ]
+            },
+            {
+                "text": "home",
+                "indices": [
+                    72,
+                    77
+                ]
+            },
+            {
+                "text": "quarantinelife",
+                "indices": [
+                    78,
+                    93
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/fMpJvt4Lmo",
+                "expanded_url": "https://youtu.be/osOrPBnI0ZE",
+                "display_url": "youtu.be/osOrPBnI0ZE",
+                "indices": [
+                    0,
+                    23
+                ]
+            },
+            {
+                "url": "https://t.co/D61B7e9oZK",
+                "expanded_url": "https://www.instagram.com/p/B-5CDSjpfmy/?igshid=18rfd8a6x2avv",
+                "display_url": "instagram.com/p/B-5CDSjpfmy/…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1586716642526"
+}

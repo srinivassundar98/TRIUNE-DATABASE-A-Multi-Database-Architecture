@@ -1,0 +1,222 @@
+{
+    "created_at": "Sun Apr 12 18:38:22 +0000 2020",
+    "id": 1249406524432232449,
+    "id_str": "1249406524432232449",
+    "text": "Corona hat die Menschen in Leid, Schmerz und Panik versetzt, vielleicht so werden sie Buße tun und Gott allein dien… https://t.co/Of12he8pIA",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 825756790990241793,
+        "id_str": "825756790990241793",
+        "name": "seef eldeen",
+        "screen_name": "seefeldeen90",
+        "location": null,
+        "url": "https://www.nasser-yamani.com",
+        "description": "‏أنا من أنصار الإمام المهدي المنتظر ناصر محمد اليماني...\nI am supporter Of The Awaited Imam Mahdi (Nasser Mohammad Al Yamani)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 118,
+        "friends_count": 227,
+        "listed_count": 1,
+        "favourites_count": 1233,
+        "statuses_count": 2961,
+        "created_at": "Sun Jan 29 17:25:35 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1180088134626877441/cn6xrJ_5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180088134626877441/cn6xrJ_5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/825756790990241793/1486322512",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01d0cd182297354e",
+        "url": "https://api.twitter.com/1.1/geo/id/01d0cd182297354e.json",
+        "place_type": "admin",
+        "name": "Cairo",
+        "full_name": "Cairo, Egypt",
+        "country_code": "EG",
+        "country": "Egypt",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        31.200959,
+                        28.963851
+                    ],
+                    [
+                        31.200959,
+                        30.228647
+                    ],
+                    [
+                        31.940253,
+                        30.228647
+                    ],
+                    [
+                        31.940253,
+                        28.963851
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Corona hat die Menschen in Leid, Schmerz und Panik versetzt, vielleicht so werden sie Buße tun und Gott allein dienen und kein Partner neben ihm nehmen\"\n\nImam Nasser Mohammed El-Yemeni\n\n05.03.2020 AD\n\nhttps://t.co/1bJzWC2YW8\nHappy Easter\nYemen\nCOVID19\nCORONA\nعيد سعيد\nخليك بالبيت https://t.co/zWjRcZi0PL",
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1bJzWC2YW8",
+                    "expanded_url": "http://www.bushra-islamia.com/showthread.php?39360",
+                    "display_url": "bushra-islamia.com/showthread.php…",
+                    "indices": [
+                        201,
+                        224
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1249406517914341379,
+                    "id_str": "1249406517914341379",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbIm8BXkAMU_pM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbIm8BXkAMU_pM.jpg",
+                    "url": "https://t.co/zWjRcZi0PL",
+                    "display_url": "pic.twitter.com/zWjRcZi0PL",
+                    "expanded_url": "https://twitter.com/seefeldeen90/status/1249406524432232449/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1249406517914341379,
+                    "id_str": "1249406517914341379",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbIm8BXkAMU_pM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbIm8BXkAMU_pM.jpg",
+                    "url": "https://t.co/zWjRcZi0PL",
+                    "display_url": "pic.twitter.com/zWjRcZi0PL",
+                    "expanded_url": "https://twitter.com/seefeldeen90/status/1249406524432232449/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 480,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Of12he8pIA",
+                "expanded_url": "https://twitter.com/i/web/status/1249406524432232449",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716702932"
+}

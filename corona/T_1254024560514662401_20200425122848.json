@@ -1,0 +1,152 @@
+{
+    "created_at": "Sat Apr 25 12:28:48 +0000 2020",
+    "id": 1254024560514662401,
+    "id_str": "1254024560514662401",
+    "text": "Eccoci arrivati a sabato e pure festivo “Al tempo del corona Virus “ prima un giorno molto ambito tutti curati vest… https://t.co/cnwfJKGyky",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 75305035,
+        "id_str": "75305035",
+        "name": "Giancarlo Luna",
+        "screen_name": "gianluna65",
+        "location": "Monza ( MB ) ",
+        "url": null,
+        "description": "Avvocato,viaggiatore, mediterraneo,romantico,passionale,dolce, sempre positivo dinamico curioso,sportivo,amo scrivere,leggere,andare al cinema e al teatro",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 671,
+        "friends_count": 2540,
+        "listed_count": 8,
+        "favourites_count": 15122,
+        "statuses_count": 11048,
+        "created_at": "Fri Sep 18 15:20:01 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596351470871547904/5exlGbf3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596351470871547904/5exlGbf3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75305035/1431016201",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            45.5833,
+            9.26667
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            9.26667,
+            45.5833
+        ]
+    },
+    "place": {
+        "id": "7067a1473fe90df3",
+        "url": "https://api.twitter.com/1.1/geo/id/7067a1473fe90df3.json",
+        "place_type": "city",
+        "name": "Monza",
+        "full_name": "Monza, Lombardia",
+        "country_code": "IT",
+        "country": "Italia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        9.227141,
+                        45.553369
+                    ],
+                    [
+                        9.227141,
+                        45.632305
+                    ],
+                    [
+                        9.324445,
+                        45.632305
+                    ],
+                    [
+                        9.324445,
+                        45.553369
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Eccoci arrivati a sabato e pure festivo “Al tempo del corona Virus “ prima un giorno molto ambito tutti curati vestiti bene per organizzare eventi gite pranzi feste e oggi il massimo che si può fare è una… https://t.co/Ujf6FUehgc",
+        "display_text_range": [
+            0,
+            229
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Ujf6FUehgc",
+                    "expanded_url": "https://www.instagram.com/p/B_Z2M_NoAWV/?igshid=1o4juxwgkyf8e",
+                    "display_url": "instagram.com/p/B_Z2M_NoAWV/…",
+                    "indices": [
+                        206,
+                        229
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/cnwfJKGyky",
+                "expanded_url": "https://twitter.com/i/web/status/1254024560514662401",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1587817728533"
+}

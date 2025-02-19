@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 12:33:45 +0000 2020",
+    "id": 1254025808127164417,
+    "id_str": "1254025808127164417",
+    "text": "@straticotweet Or are proportional representation elected governments better at managing Corona virus. Maybe propor… https://t.co/aFEvscid31",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254014774406516737,
+    "in_reply_to_status_id_str": "1254014774406516737",
+    "in_reply_to_user_id": 85292901,
+    "in_reply_to_user_id_str": "85292901",
+    "in_reply_to_screen_name": "straticotweet",
+    "user": {
+        "id": 1173665822973337605,
+        "id_str": "1173665822973337605",
+        "name": "Fauxcanard #We'll meet again♥️",
+        "screen_name": "fauxcanard",
+        "location": "30 miles from Charing Cross",
+        "url": null,
+        "description": "Nobody special at all really just some bloke in the Park Lane. \n Jimmy Greaves, that's it enough said.\n♥️WE'LL MEET AGAIN!♥️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 59,
+        "friends_count": 50,
+        "listed_count": 0,
+        "favourites_count": 2386,
+        "statuses_count": 5348,
+        "created_at": "Mon Sep 16 18:32:25 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1212347869191122944/CA0-X2Ko_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212347869191122944/CA0-X2Ko_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1173665822973337605/1577358913",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@straticotweet Or are proportional representation elected governments better at managing Corona virus. Maybe proportional representation leads to grown up politics and maybe grown up politics leads women being taken seriously and getting elected.",
+        "display_text_range": [
+            15,
+            246
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "straticotweet",
+                    "name": "Chris Gamble",
+                    "id": 85292901,
+                    "id_str": "85292901",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/aFEvscid31",
+                "expanded_url": "https://twitter.com/i/web/status/1254025808127164417",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "straticotweet",
+                "name": "Chris Gamble",
+                "id": 85292901,
+                "id_str": "85292901",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818025987"
+}

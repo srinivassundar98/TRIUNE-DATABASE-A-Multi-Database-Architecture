@@ -1,0 +1,350 @@
+{
+    "created_at": "Sat Apr 25 12:24:34 +0000 2020",
+    "id": 1254023495094173696,
+    "id_str": "1254023495094173696",
+    "text": "RT @sat_sure: AgriTech firms fixing the food supply chain in India amidst #Covid19India #lockdown https://t.co/H0WQVT8Ko2 @hemendramathur @…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 292800351,
+        "id_str": "292800351",
+        "name": "Pradeep Shrivastava",
+        "screen_name": "Pradeeppuddy19",
+        "location": "New Delhi, India",
+        "url": null,
+        "description": "Proud Bharatiya! Proud Hindu! Proud Honest Tax Payer! Proud NaMo Follower! Humbled to be followed by @PiyushGoyalOffc @OfficeOfRKSingh @RayShandhya",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 773,
+        "friends_count": 1456,
+        "listed_count": 3,
+        "favourites_count": 54314,
+        "statuses_count": 25008,
+        "created_at": "Wed May 04 07:44:01 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/934780823919779841/tyXqDkmC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/934780823919779841/tyXqDkmC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/292800351/1576658890",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 09:27:03 +0000 2020",
+        "id": 1253978823504195584,
+        "id_str": "1253978823504195584",
+        "text": "AgriTech firms fixing the food supply chain in India amidst #Covid19India #lockdown https://t.co/H0WQVT8Ko2… https://t.co/9N6ZRnicUf",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 772682294804918272,
+            "id_str": "772682294804918272",
+            "name": "SatSure",
+            "screen_name": "sat_sure",
+            "location": "Bengaluru, India",
+            "url": "http://satsure.co",
+            "description": "SatSure in an Indo-EU company, serving financial clients in the agriculture, renewables, and infrastructure sectors, using satellite Big Data products",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 741,
+            "friends_count": 681,
+            "listed_count": 15,
+            "favourites_count": 438,
+            "statuses_count": 547,
+            "created_at": "Mon Sep 05 06:26:29 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1173799419302400001/cV2jY--X_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173799419302400001/cV2jY--X_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/772682294804918272/1568690904",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "1b8680cd52a711cb",
+            "url": "https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json",
+            "place_type": "city",
+            "name": "Bengaluru",
+            "full_name": "Bengaluru, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            77.373474,
+                            12.919037
+                        ],
+                        [
+                            77.373474,
+                            13.231381
+                        ],
+                        [
+                            77.739371,
+                            13.231381
+                        ],
+                        [
+                            77.739371,
+                            12.919037
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "AgriTech firms fixing the food supply chain in India amidst #Covid19India #lockdown https://t.co/H0WQVT8Ko2 @hemendramathur @devleenab @KuraneSarvesh @pbasu_space @jyotiska_nk",
+            "display_text_range": [
+                0,
+                175
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Covid19India",
+                        "indices": [
+                            60,
+                            73
+                        ]
+                    },
+                    {
+                        "text": "lockdown",
+                        "indices": [
+                            74,
+                            83
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/H0WQVT8Ko2",
+                        "expanded_url": "https://www.forbesindia.com/article/coronavirus/lockdown-how-agritech-ventures-are-trying-to-fix-the-food-supply-chain/58955/1",
+                        "display_url": "forbesindia.com/article/corona…",
+                        "indices": [
+                            84,
+                            107
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "hemendramathur",
+                        "name": "Hemendra Mathur",
+                        "id": 70650922,
+                        "id_str": "70650922",
+                        "indices": [
+                            108,
+                            123
+                        ]
+                    },
+                    {
+                        "screen_name": "devleenab",
+                        "name": "Devleena Bhattacharjee",
+                        "id": 815404225,
+                        "id_str": "815404225",
+                        "indices": [
+                            124,
+                            134
+                        ]
+                    },
+                    {
+                        "screen_name": "KuraneSarvesh",
+                        "name": "Sarvesh Kurane",
+                        "id": 1066368627484422144,
+                        "id_str": "1066368627484422144",
+                        "indices": [
+                            135,
+                            149
+                        ]
+                    },
+                    {
+                        "screen_name": "pbasu_space",
+                        "name": "Prateep Basu",
+                        "id": 3075532711,
+                        "id_str": "3075532711",
+                        "indices": [
+                            150,
+                            162
+                        ]
+                    },
+                    {
+                        "screen_name": "jyotiska_nk",
+                        "name": "Jyotiska Khasnabish",
+                        "id": 1157587458332119040,
+                        "id_str": "1157587458332119040",
+                        "indices": [
+                            163,
+                            175
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Covid19India",
+                    "indices": [
+                        60,
+                        73
+                    ]
+                },
+                {
+                    "text": "lockdown",
+                    "indices": [
+                        74,
+                        83
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/H0WQVT8Ko2",
+                    "expanded_url": "https://www.forbesindia.com/article/coronavirus/lockdown-how-agritech-ventures-are-trying-to-fix-the-food-supply-chain/58955/1",
+                    "display_url": "forbesindia.com/article/corona…",
+                    "indices": [
+                        84,
+                        107
+                    ]
+                },
+                {
+                    "url": "https://t.co/9N6ZRnicUf",
+                    "expanded_url": "https://twitter.com/i/web/status/1253978823504195584",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Covid19India",
+                "indices": [
+                    74,
+                    87
+                ]
+            },
+            {
+                "text": "lockdown",
+                "indices": [
+                    88,
+                    97
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/H0WQVT8Ko2",
+                "expanded_url": "https://www.forbesindia.com/article/coronavirus/lockdown-how-agritech-ventures-are-trying-to-fix-the-food-supply-chain/58955/1",
+                "display_url": "forbesindia.com/article/corona…",
+                "indices": [
+                    98,
+                    121
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sat_sure",
+                "name": "SatSure",
+                "id": 772682294804918272,
+                "id_str": "772682294804918272",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "hemendramathur",
+                "name": "Hemendra Mathur",
+                "id": 70650922,
+                "id_str": "70650922",
+                "indices": [
+                    122,
+                    137
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817474517"
+}

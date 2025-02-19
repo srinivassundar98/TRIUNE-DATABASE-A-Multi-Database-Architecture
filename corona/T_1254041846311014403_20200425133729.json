@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 13:37:29 +0000 2020",
+    "id": 1254041846311014403,
+    "id_str": "1254041846311014403",
+    "text": "@AngelMutabaruka @RwandaHealth Nyamara wasanga uvura iyi corona bakaba bawupinga",
+    "display_text_range": [
+        31,
+        80
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253770305551699978,
+    "in_reply_to_status_id_str": "1253770305551699978",
+    "in_reply_to_user_id": 1082551201626025984,
+    "in_reply_to_user_id_str": "1082551201626025984",
+    "in_reply_to_screen_name": "AngelMutabaruka",
+    "user": {
+        "id": 1593850698,
+        "id_str": "1593850698",
+        "name": "Mugabo Aime",
+        "screen_name": "MugaboAime",
+        "location": "Rwanda",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 12,
+        "friends_count": 211,
+        "listed_count": 0,
+        "favourites_count": 14,
+        "statuses_count": 39,
+        "created_at": "Sun Jul 14 17:28:17 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245390441375240197/aV2H9I3s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245390441375240197/aV2H9I3s_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AngelMutabaruka",
+                "name": "Mutabaruka Angeli",
+                "id": 1082551201626025984,
+                "id_str": "1082551201626025984",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "RwandaHealth",
+                "name": "Ministry of Health | Rwanda",
+                "id": 270434868,
+                "id_str": "270434868",
+                "indices": [
+                    17,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1587821849788"
+}

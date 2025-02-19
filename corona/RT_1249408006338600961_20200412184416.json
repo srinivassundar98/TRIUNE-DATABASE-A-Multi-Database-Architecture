@@ -1,0 +1,295 @@
+{
+    "created_at": "Sun Apr 12 18:44:16 +0000 2020",
+    "id": 1249408006338600961,
+    "id_str": "1249408006338600961",
+    "text": "RT @olletcellton: Så röd färg här innebär alltså att 0,91-3 personer har dött till följd av Corona per 100 000 invånare. I Sthlm stad bor d…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 109012937,
+        "id_str": "109012937",
+        "name": "Coach",
+        "screen_name": "Mac_malmberg",
+        "location": "Sweden - Malmö",
+        "url": null,
+        "description": "No ginger no party. Malmö FF\nskribent på Himmelriket. Pappa. Husägare",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1336,
+        "friends_count": 321,
+        "listed_count": 22,
+        "favourites_count": 18102,
+        "statuses_count": 109487,
+        "created_at": "Wed Jan 27 18:05:53 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229816475998924800/38-yhoLM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229816475998924800/38-yhoLM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109012937/1582054273",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 17:19:47 +0000 2020",
+        "id": 1249386745239670784,
+        "id_str": "1249386745239670784",
+        "text": "Så röd färg här innebär alltså att 0,91-3 personer har dött till följd av Corona per 100 000 invånare. I Sthlm stad… https://t.co/pJVsLraPdT",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 25265301,
+            "id_str": "25265301",
+            "name": "Olle T Cellton",
+            "screen_name": "olletcellton",
+            "location": "Beyond-the-suburbs",
+            "url": "http://www.bokus.com/bok/9789127143272",
+            "description": "Cook - soulster - openly straight - Malmö FF - Babette restaurant",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1335,
+            "friends_count": 908,
+            "listed_count": 46,
+            "favourites_count": 9712,
+            "statuses_count": 9476,
+            "created_at": "Thu Mar 19 10:01:00 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "EDECE9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "088253",
+            "profile_sidebar_border_color": "D3D2CF",
+            "profile_sidebar_fill_color": "E3E2DE",
+            "profile_text_color": "634047",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1123528714275426305/mqxBXIW4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123528714275426305/mqxBXIW4_normal.jpg",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "9ff4ce3afd55aade",
+            "url": "https://api.twitter.com/1.1/geo/id/9ff4ce3afd55aade.json",
+            "place_type": "city",
+            "name": "Haninge",
+            "full_name": "Haninge, Sverige",
+            "country_code": "SE",
+            "country": "Sverige",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            17.91437,
+                            58.618919
+                        ],
+                        [
+                            17.91437,
+                            59.219153
+                        ],
+                        [
+                            18.940336,
+                            59.219153
+                        ],
+                        [
+                            18.940336,
+                            58.618919
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Så röd färg här innebär alltså att 0,91-3 personer har dött till följd av Corona per 100 000 invånare. I Sthlm stad bor det 10 * 100 000, I Sthlm län 24* 100 000 och i hela Sverige 102 * 100 000. Känner att grafiken blir lite väl dramatisk. https://t.co/EClGkzwrRx",
+            "display_text_range": [
+                0,
+                240
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1249386727300571138,
+                        "id_str": "1249386727300571138",
+                        "indices": [
+                            241,
+                            264
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVa2m-PWoAIQbjG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVa2m-PWoAIQbjG.jpg",
+                        "url": "https://t.co/EClGkzwrRx",
+                        "display_url": "pic.twitter.com/EClGkzwrRx",
+                        "expanded_url": "https://twitter.com/olletcellton/status/1249386745239670784/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 314,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 554,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 828,
+                                "h": 1792,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1249386727300571138,
+                        "id_str": "1249386727300571138",
+                        "indices": [
+                            241,
+                            264
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVa2m-PWoAIQbjG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVa2m-PWoAIQbjG.jpg",
+                        "url": "https://t.co/EClGkzwrRx",
+                        "display_url": "pic.twitter.com/EClGkzwrRx",
+                        "expanded_url": "https://twitter.com/olletcellton/status/1249386745239670784/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 314,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 554,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 828,
+                                "h": 1792,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pJVsLraPdT",
+                    "expanded_url": "https://twitter.com/i/web/status/1249386745239670784",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "sv"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "olletcellton",
+                "name": "Olle T Cellton",
+                "id": 25265301,
+                "id_str": "25265301",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1586717056246"
+}

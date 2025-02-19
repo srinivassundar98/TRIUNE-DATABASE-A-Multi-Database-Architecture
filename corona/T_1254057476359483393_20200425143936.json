@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:39:36 +0000 2020",
+    "id": 1254057476359483393,
+    "id_str": "1254057476359483393",
+    "text": "@salwaauliani Tanda-tanda corona udah mau kelar sih kalau udah lo yang ngomong gini cc: @danielchrstvry",
+    "display_text_range": [
+        14,
+        103
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254056327187324934,
+    "in_reply_to_status_id_str": "1254056327187324934",
+    "in_reply_to_user_id": 123131707,
+    "in_reply_to_user_id_str": "123131707",
+    "in_reply_to_screen_name": "salwaauliani",
+    "user": {
+        "id": 116621728,
+        "id_str": "116621728",
+        "name": "Putu Ayu Widyastuti",
+        "screen_name": "ayuyuyuwi",
+        "location": null,
+        "url": null,
+        "description": "— @ayuwidya_putu",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 857,
+        "friends_count": 694,
+        "listed_count": 1,
+        "favourites_count": 663,
+        "statuses_count": 27432,
+        "created_at": "Tue Feb 23 03:14:12 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1094239865523195906/z2qXLqSf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094239865523195906/z2qXLqSf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116621728/1568807049",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "salwaauliani",
+                "name": "Salwa A Gautama",
+                "id": 123131707,
+                "id_str": "123131707",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "danielchrstvry",
+                "name": "#StayAtHome",
+                "id": 206174523,
+                "id_str": "206174523",
+                "indices": [
+                    88,
+                    103
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587825576282"
+}

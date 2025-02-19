@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 12:50:56 +0000 2020",
+    "id": 1254030130483212290,
+    "id_str": "1254030130483212290",
+    "text": "@SportTrading_UK @AcornerTurning I fully expect the Bundesliga and English Premier League to finish their seasons b… https://t.co/9oyKfHoV16",
+    "display_text_range": [
+        33,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254009477910728705,
+    "in_reply_to_status_id_str": "1254009477910728705",
+    "in_reply_to_user_id": 1048578744779194369,
+    "in_reply_to_user_id_str": "1048578744779194369",
+    "in_reply_to_screen_name": "SportTrading_UK",
+    "user": {
+        "id": 910588446510604289,
+        "id_str": "910588446510604289",
+        "name": "Sion Richards",
+        "screen_name": "SionyRich",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 8,
+        "friends_count": 37,
+        "listed_count": 0,
+        "favourites_count": 110,
+        "statuses_count": 71,
+        "created_at": "Wed Sep 20 19:36:18 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@SportTrading_UK @AcornerTurning I fully expect the Bundesliga and English Premier League to finish their seasons by any means they can. Bunde because they think they have a handle on corona and EPL because 80 odd percent of income is TV and Sponsors. La Liga might void and god knows for Serie A.",
+        "display_text_range": [
+            33,
+            297
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SportTrading_UK",
+                    "name": "James Garner",
+                    "id": 1048578744779194369,
+                    "id_str": "1048578744779194369",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "AcornerTurning",
+                    "name": "TurningAcorner",
+                    "id": 1131292360716038144,
+                    "id_str": "1131292360716038144",
+                    "indices": [
+                        17,
+                        32
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/9oyKfHoV16",
+                "expanded_url": "https://twitter.com/i/web/status/1254030130483212290",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "SportTrading_UK",
+                "name": "James Garner",
+                "id": 1048578744779194369,
+                "id_str": "1048578744779194369",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "AcornerTurning",
+                "name": "TurningAcorner",
+                "id": 1131292360716038144,
+                "id_str": "1131292360716038144",
+                "indices": [
+                    17,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819056517"
+}

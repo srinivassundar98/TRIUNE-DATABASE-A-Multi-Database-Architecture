@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:34:02 +0000 2020",
+    "id": 1254056074992160768,
+    "id_str": "1254056074992160768",
+    "text": "@FajarSatriaRam2 @sendiirian Sek ngenteni corona sek, baru mrunu melu pengajian",
+    "display_text_range": [
+        29,
+        79
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254055877050417153,
+    "in_reply_to_status_id_str": "1254055877050417153",
+    "in_reply_to_user_id": 1034738623378206727,
+    "in_reply_to_user_id_str": "1034738623378206727",
+    "in_reply_to_screen_name": "FajarSatriaRam2",
+    "user": {
+        "id": 1036869265998008320,
+        "id_str": "1036869265998008320",
+        "name": "WulanPutri",
+        "screen_name": "wulannputri21",
+        "location": "Jawa Timur, Indonesia",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 135,
+        "friends_count": 151,
+        "listed_count": 0,
+        "favourites_count": 570,
+        "statuses_count": 2611,
+        "created_at": "Tue Sep 04 06:51:11 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195570185471610881/dhzwjg6Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195570185471610881/dhzwjg6Q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036869265998008320/1536066700",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "FajarSatriaRam2",
+                "name": "Rawon Glowing",
+                "id": 1034738623378206727,
+                "id_str": "1034738623378206727",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "sendiirian",
+                "name": "Berjuang",
+                "id": 3243763112,
+                "id_str": "3243763112",
+                "indices": [
+                    17,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587825242170"
+}

@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 14:26:47 +0000 2020",
+    "id": 1254054253745840128,
+    "id_str": "1254054253745840128",
+    "text": "@ttborgtr Varda ne oluyo dandikler https://t.co/nqBTDPRHHzınızı bence corona istatistik birliği olarak değiştirin.s… https://t.co/SkyH618I22",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254051457483096064,
+    "in_reply_to_status_id_str": "1254051457483096064",
+    "in_reply_to_user_id": 293421226,
+    "in_reply_to_user_id_str": "293421226",
+    "in_reply_to_screen_name": "ttborgtr",
+    "user": {
+        "id": 1064218645432336384,
+        "id_str": "1064218645432336384",
+        "name": "mhls aydin 52",
+        "screen_name": "Aydin52Muhlis",
+        "location": "Berlin, Deutschland",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 28,
+        "friends_count": 100,
+        "listed_count": 0,
+        "favourites_count": 6664,
+        "statuses_count": 1836,
+        "created_at": "Sun Nov 18 18:07:52 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1064220243248201728/88g9-X5L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064220243248201728/88g9-X5L_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ttborgtr Varda ne oluyo dandikler https://t.co/nqBTDPRHHzınızı bence corona istatistik birliği olarak değiştirin.sizi ne kaşıyo acaba bu sayılar çok olsun istiyosunuz.benim bildiğim tabibler hastanede çalışıyo.siz ne ayaksınız",
+        "display_text_range": [
+            10,
+            227
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/nqBTDPRHHz",
+                    "expanded_url": "http://xn--birlii-75a.ad",
+                    "display_url": "birliği.ad",
+                    "indices": [
+                        35,
+                        58
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "ttborgtr",
+                    "name": "TürkTabipleriBirliği",
+                    "id": 293421226,
+                    "id_str": "293421226",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/nqBTDPRHHz",
+                "expanded_url": "http://xn--birlii-75a.ad",
+                "display_url": "birliği.ad",
+                "indices": [
+                    35,
+                    58
+                ]
+            },
+            {
+                "url": "https://t.co/SkyH618I22",
+                "expanded_url": "https://twitter.com/i/web/status/1254054253745840128",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ttborgtr",
+                "name": "TürkTabipleriBirliği",
+                "id": 293421226,
+                "id_str": "293421226",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587824807951"
+}

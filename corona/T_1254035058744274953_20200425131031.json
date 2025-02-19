@@ -1,0 +1,179 @@
+{
+    "created_at": "Sat Apr 25 13:10:31 +0000 2020",
+    "id": 1254035058744274953,
+    "id_str": "1254035058744274953",
+    "text": "Liebes #Corona Virus, den „Axel-Springer-Preis für junge Journalisten“ wegen dir absagen? Kannst du dir abschminken… https://t.co/w8EPJWiOnH",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 86726556,
+        "id_str": "86726556",
+        "name": "Marc Thomas Spahl",
+        "screen_name": "mtspahl",
+        "location": "Berlin, Germany",
+        "url": "http://www.axel-springer-akademie.de",
+        "description": "Journalist, Direktor der Axel Springer Akademie / Head of Axel Springer Academy, Germany's most progressive school of journalism @asakademie",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": true,
+        "followers_count": 2440,
+        "friends_count": 1487,
+        "listed_count": 116,
+        "favourites_count": 2133,
+        "statuses_count": 3262,
+        "created_at": "Sun Nov 01 13:59:06 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/608236514888318976/ffW47FDE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/608236514888318976/ffW47FDE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/86726556/1398245396",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            52.50029604,
+            13.31270184
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            13.31270184,
+            52.50029604
+        ]
+    },
+    "place": {
+        "id": "3078869807f9dd36",
+        "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+        "place_type": "city",
+        "name": "Berlin",
+        "full_name": "Berlin, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        13.088304,
+                        52.338079
+                    ],
+                    [
+                        13.088304,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.338079
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Liebes #Corona Virus, den „Axel-Springer-Preis für junge Journalisten“ wegen dir absagen? Kannst du dir abschminken. Dann machen wir von der @asakademie eben ein digitales Fest für den jungen Journalismus daraus!… https://t.co/UPpTuLWpX1",
+        "display_text_range": [
+            0,
+            237
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        7,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/UPpTuLWpX1",
+                    "expanded_url": "https://www.instagram.com/p/B_Z6-ZpKxBM/?igshid=1qb1jy91lomad",
+                    "display_url": "instagram.com/p/B_Z6-ZpKxBM/…",
+                    "indices": [
+                        214,
+                        237
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "asakademie",
+                    "name": "Springer Akademie",
+                    "id": 62806562,
+                    "id_str": "62806562",
+                    "indices": [
+                        141,
+                        152
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    7,
+                    14
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/w8EPJWiOnH",
+                "expanded_url": "https://twitter.com/i/web/status/1254035058744274953",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820231506"
+}

@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:33:01 +0000 2020",
+    "id": 1254055822432202753,
+    "id_str": "1254055822432202753",
+    "text": "@SumBalani @ismailfahmi @fadlizon tapi apakah bapak bisa menjamin semua orang yang datanng ke masjid tidak akan mem… https://t.co/GH5BXF4fDU",
+    "display_text_range": [
+        34,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253938735873265664,
+    "in_reply_to_status_id_str": "1253938735873265664",
+    "in_reply_to_user_id": 1241639175528386569,
+    "in_reply_to_user_id_str": "1241639175528386569",
+    "in_reply_to_screen_name": "SumBalani",
+    "user": {
+        "id": 1043078110764122112,
+        "id_str": "1043078110764122112",
+        "name": "Sukanulis",
+        "screen_name": "Mhdhan_",
+        "location": null,
+        "url": "https://www.youtube.com/channel/UC97GJWs_G8m713IobgyIYgA",
+        "description": "DEMIGOD",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 33,
+        "friends_count": 100,
+        "listed_count": 0,
+        "favourites_count": 540,
+        "statuses_count": 1412,
+        "created_at": "Fri Sep 21 10:02:55 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177874349883215877/OAO2p7cG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177874349883215877/OAO2p7cG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1043078110764122112/1581700280",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@SumBalani @ismailfahmi @fadlizon tapi apakah bapak bisa menjamin semua orang yang datanng ke masjid tidak akan membawa atau terjangkit virus corona...?\nkarena seperti yang kita tau sudah banyak berita yang ketika melaksanakan ibadah di mesjid dan ternyata ada beberapa mereka yang terkena virus corona pak",
+        "display_text_range": [
+            34,
+            306
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SumBalani",
+                    "name": "Ma'sum Amrullah Al Balani",
+                    "id": 1241639175528386569,
+                    "id_str": "1241639175528386569",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "ismailfahmi",
+                    "name": "Ismail Fahmi",
+                    "id": 34075325,
+                    "id_str": "34075325",
+                    "indices": [
+                        11,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "fadlizon",
+                    "name": "Fadli Zon",
+                    "id": 79139422,
+                    "id_str": "79139422",
+                    "indices": [
+                        24,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/GH5BXF4fDU",
+                "expanded_url": "https://twitter.com/i/web/status/1254055822432202753",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "SumBalani",
+                "name": "Ma'sum Amrullah Al Balani",
+                "id": 1241639175528386569,
+                "id_str": "1241639175528386569",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "ismailfahmi",
+                "name": "Ismail Fahmi",
+                "id": 34075325,
+                "id_str": "34075325",
+                "indices": [
+                    11,
+                    23
+                ]
+            },
+            {
+                "screen_name": "fadlizon",
+                "name": "Fadli Zon",
+                "id": 79139422,
+                "id_str": "79139422",
+                "indices": [
+                    24,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587825181955"
+}

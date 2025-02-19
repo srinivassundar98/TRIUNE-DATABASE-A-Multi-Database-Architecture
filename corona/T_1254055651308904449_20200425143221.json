@@ -1,0 +1,133 @@
+{
+    "created_at": "Sat Apr 25 14:32:21 +0000 2020",
+    "id": 1254055651308904449,
+    "id_str": "1254055651308904449",
+    "text": "@ROMEOLEMUSNews Chulada, que corona tienen estos inútiles, como por ellos no se pueden realizar las mismas pruebas… https://t.co/9Qb1ZJb5m6",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253811849310564352,
+    "in_reply_to_status_id_str": "1253811849310564352",
+    "in_reply_to_user_id": 89303960,
+    "in_reply_to_user_id_str": "89303960",
+    "in_reply_to_screen_name": "ROMEOLEMUSNews",
+    "user": {
+        "id": 1136387336701448192,
+        "id_str": "1136387336701448192",
+        "name": "Nancy López",
+        "screen_name": "lopez17_n",
+        "location": "San Salvador, El Salvador",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7,
+        "friends_count": 9,
+        "listed_count": 0,
+        "favourites_count": 5008,
+        "statuses_count": 291,
+        "created_at": "Wed Jun 05 21:40:28 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251499903223816192/0Kq8alnS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251499903223816192/0Kq8alnS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136387336701448192/1587215877",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ROMEOLEMUSNews Chulada, que corona tienen estos inútiles, como por ellos no se pueden realizar las mismas pruebas que se realiza el pueblo?! 🙄 Y todavia dice el amigo de mareros este @norman_quijano  que lo tendrían que platicar,  como que un favor nos van a hacer.",
+        "display_text_range": [
+            16,
+            266
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ROMEOLEMUSNews",
+                    "name": "ROMEOLEMUSNews ®",
+                    "id": 89303960,
+                    "id_str": "89303960",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "norman_quijano",
+                    "name": "Norman Quijano",
+                    "id": 384540796,
+                    "id_str": "384540796",
+                    "indices": [
+                        184,
+                        199
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/9Qb1ZJb5m6",
+                "expanded_url": "https://twitter.com/i/web/status/1254055651308904449",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ROMEOLEMUSNews",
+                "name": "ROMEOLEMUSNews ®",
+                "id": 89303960,
+                "id_str": "89303960",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587825141156"
+}

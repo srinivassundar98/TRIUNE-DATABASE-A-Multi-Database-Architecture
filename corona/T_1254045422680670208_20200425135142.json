@@ -1,0 +1,194 @@
+{
+    "created_at": "Sat Apr 25 13:51:42 +0000 2020",
+    "id": 1254045422680670208,
+    "id_str": "1254045422680670208",
+    "text": "@antofields @frieke72 @ad @rivm Goede vraag, dus ik ben er zelf even ingedoken. Waarschijnlijk telt RIVM alleen vas… https://t.co/o3hQytDlEO",
+    "display_text_range": [
+        32,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254020964725260293,
+    "in_reply_to_status_id_str": "1254020964725260293",
+    "in_reply_to_user_id": 248123019,
+    "in_reply_to_user_id_str": "248123019",
+    "in_reply_to_screen_name": "antofields",
+    "user": {
+        "id": 97918341,
+        "id_str": "97918341",
+        "name": "Marco Klerks",
+        "screen_name": "MarcoKlerks",
+        "location": "Tilburg",
+        "url": "http://nl.linkedin.com/in/marcoklerks",
+        "description": "Actief op het vlak van informatie- en recordmanagement, records manager bij gemeente Rotterdam, bestuurslid Stichting BREED.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 547,
+        "friends_count": 293,
+        "listed_count": 25,
+        "favourites_count": 1026,
+        "statuses_count": 7484,
+        "created_at": "Sat Dec 19 15:16:53 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "4866E0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "2A62D1",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "4771BA",
+        "profile_text_color": "AAB1F7",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/500179209218564097/5rxrzUXi_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/500179209218564097/5rxrzUXi_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/97918341/1398438427",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@antofields @frieke72 @ad @rivm Goede vraag, dus ik ben er zelf even ingedoken. Waarschijnlijk telt RIVM alleen vastgestelde Corona-patienten in hun cijfers mee, terwijl ROAZ ook alle verdachte  gevallen meetelt. Zie eerste grafiek, laatste staafje op https://t.co/i4ejkqEVFf",
+        "display_text_range": [
+            32,
+            275
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/i4ejkqEVFf",
+                    "expanded_url": "https://www.nazb.nl/nieuws/coronavirus-update-25-april",
+                    "display_url": "nazb.nl/nieuws/coronav…",
+                    "indices": [
+                        252,
+                        275
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "antofields",
+                    "name": "Anto",
+                    "id": 248123019,
+                    "id_str": "248123019",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "frieke72",
+                    "name": "frieke",
+                    "id": 235284295,
+                    "id_str": "235284295",
+                    "indices": [
+                        12,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "ad",
+                    "name": "Ad",
+                    "id": 16108157,
+                    "id_str": "16108157",
+                    "indices": [
+                        22,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "rivm",
+                    "name": "RIVM",
+                    "id": 35527415,
+                    "id_str": "35527415",
+                    "indices": [
+                        26,
+                        31
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/o3hQytDlEO",
+                "expanded_url": "https://twitter.com/i/web/status/1254045422680670208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "antofields",
+                "name": "Anto",
+                "id": 248123019,
+                "id_str": "248123019",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "frieke72",
+                "name": "frieke",
+                "id": 235284295,
+                "id_str": "235284295",
+                "indices": [
+                    12,
+                    21
+                ]
+            },
+            {
+                "screen_name": "ad",
+                "name": "Ad",
+                "id": 16108157,
+                "id_str": "16108157",
+                "indices": [
+                    22,
+                    25
+                ]
+            },
+            {
+                "screen_name": "rivm",
+                "name": "RIVM",
+                "id": 35527415,
+                "id_str": "35527415",
+                "indices": [
+                    26,
+                    31
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587822702461"
+}

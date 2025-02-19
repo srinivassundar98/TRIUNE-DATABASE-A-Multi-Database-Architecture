@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun Apr 12 18:43:54 +0000 2020",
+    "id": 1249407916307775488,
+    "id_str": "1249407916307775488",
+    "text": "@PKimatia They'll get Corona and start regretting",
+    "display_text_range": [
+        10,
+        49
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249407734392520711,
+    "in_reply_to_status_id_str": "1249407734392520711",
+    "in_reply_to_user_id": 1156525865230098432,
+    "in_reply_to_user_id_str": "1156525865230098432",
+    "in_reply_to_screen_name": "PKimatia",
+    "user": {
+        "id": 350181437,
+        "id_str": "350181437",
+        "name": "Senje 🐍",
+        "screen_name": "Miss_Khaimia",
+        "location": "Nairobi, Kenya",
+        "url": "http://instagram.com/miss_khaimia/",
+        "description": "I'm one in a melon | @ManUtd | I perform random acts of sharing | I was created as mosquito food |",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 12675,
+        "friends_count": 2962,
+        "listed_count": 159,
+        "favourites_count": 1607,
+        "statuses_count": 328180,
+        "created_at": "Sun Aug 07 10:14:05 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248299693483773952/Ag40Js75_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248299693483773952/Ag40Js75_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/350181437/1573712198",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01e215db7136a37e",
+        "url": "https://api.twitter.com/1.1/geo/id/01e215db7136a37e.json",
+        "place_type": "city",
+        "name": "Nairobi",
+        "full_name": "Nairobi, Kenya",
+        "country_code": "KE",
+        "country": "Kenya",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        36.664573,
+                        -1.389053
+                    ],
+                    [
+                        36.664573,
+                        -1.160674
+                    ],
+                    [
+                        37.062667,
+                        -1.160674
+                    ],
+                    [
+                        37.062667,
+                        -1.389053
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "PKimatia",
+                "name": "Peter Kimatia",
+                "id": 1156525865230098432,
+                "id_str": "1156525865230098432",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717034781"
+}

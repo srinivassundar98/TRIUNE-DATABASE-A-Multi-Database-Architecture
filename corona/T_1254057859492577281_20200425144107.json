@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:41:07 +0000 2020",
+    "id": 1254057859492577281,
+    "id_str": "1254057859492577281",
+    "text": "@QvortrupHenrik Egentlig er det jo ret fedt at i to udgyder jeres Corona holdninger i EB. Det giver mig en klar for… https://t.co/XHf9f6r7MC",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253945470172397568,
+    "in_reply_to_status_id_str": "1253945470172397568",
+    "in_reply_to_user_id": 28340432,
+    "in_reply_to_user_id_str": "28340432",
+    "in_reply_to_screen_name": "QvortrupHenrik",
+    "user": {
+        "id": 14819929,
+        "id_str": "14819929",
+        "name": "Jens Mogensen",
+        "screen_name": "jensmogensen",
+        "location": "Kastrup",
+        "url": null,
+        "description": null,
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 30,
+        "friends_count": 237,
+        "listed_count": 1,
+        "favourites_count": 679,
+        "statuses_count": 84,
+        "created_at": "Sun May 18 11:32:18 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3340985261/7c8ecef4c1c08559951bd71f50a74ebe_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3340985261/7c8ecef4c1c08559951bd71f50a74ebe_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14819929/1386759485",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@QvortrupHenrik Egentlig er det jo ret fedt at i to udgyder jeres Corona holdninger i EB. Det giver mig en klar fornemmelse af at jeg skal i den stik modsatte retning af jer. Tak.",
+        "display_text_range": [
+            16,
+            179
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "QvortrupHenrik",
+                    "name": "Henrik Qvortrup",
+                    "id": 28340432,
+                    "id_str": "28340432",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/XHf9f6r7MC",
+                "expanded_url": "https://twitter.com/i/web/status/1254057859492577281",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "QvortrupHenrik",
+                "name": "Henrik Qvortrup",
+                "id": 28340432,
+                "id_str": "28340432",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "da",
+    "timestamp_ms": "1587825667628"
+}

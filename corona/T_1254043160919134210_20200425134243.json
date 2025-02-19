@@ -1,0 +1,153 @@
+{
+    "created_at": "Sat Apr 25 13:42:43 +0000 2020",
+    "id": 1254043160919134210,
+    "id_str": "1254043160919134210",
+    "text": "@reformer_ron  Wegen #Corona: Keine Aufträge, kein Einkommen. Von den versprochenen Hilfen dürfen… https://t.co/e9pkpG8nNe",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 884130743148044289,
+    "in_reply_to_user_id_str": "884130743148044289",
+    "in_reply_to_screen_name": "reformer_ron",
+    "user": {
+        "id": 2703515360,
+        "id_str": "2703515360",
+        "name": "Dr. Stefan Holz",
+        "screen_name": "stefan_holz",
+        "location": "Berlin",
+        "url": null,
+        "description": "liebt Oper / (selbst-)kritischer Mediziner // Zahnarzt und Medizinhistoriker // verheiratet 👬 🌈",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 203,
+        "friends_count": 167,
+        "listed_count": 17,
+        "favourites_count": 6465,
+        "statuses_count": 20448,
+        "created_at": "Sun Aug 03 07:30:04 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "B30074",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543355147674734592/5beIoo_4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543355147674734592/5beIoo_4_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2703515360/1536528581",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@reformer_ron  Wegen #Corona: Keine Aufträge, kein Einkommen. Von den versprochenen Hilfen dürfen #Soloselbststaendige weder Miete noch Krankenversicherung bezahlen. Das muss sich ändern! Unterzeichne jetzt diese WeAct-Petition. https://t.co/Kza4cY2ahp",
+        "display_text_range": [
+            0,
+            252
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        21,
+                        28
+                    ]
+                },
+                {
+                    "text": "Soloselbststaendige",
+                    "indices": [
+                        98,
+                        118
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Kza4cY2ahp",
+                    "expanded_url": "https://weact.campact.de/petitions/corona-soforthilfen-beschrankungen-fur-soloselbstandige-und-freiberufler-andern?bucket=20200424-wae-hv-corona-soforthilfen-fuer-soloselbstaendige&share=89cb04a3-d781-47e7-84b7-1b89577f84fa&source=twitter-share-email-button&time=1587741354&utm_campaign=20200424-wae-hv-corona-soforthilfen-fuer-soloselbstaendige&utm_medium=recommendation&utm_source=rec-tw",
+                    "display_url": "weact.campact.de/petitions/coro…",
+                    "indices": [
+                        229,
+                        252
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "reformer_ron",
+                    "name": "Ronny Krüger ☔☮",
+                    "id": 884130743148044289,
+                    "id_str": "884130743148044289",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    21,
+                    28
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/e9pkpG8nNe",
+                "expanded_url": "https://twitter.com/i/web/status/1254043160919134210",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    99,
+                    122
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "reformer_ron",
+                "name": "Ronny Krüger ☔☮",
+                "id": 884130743148044289,
+                "id_str": "884130743148044289",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822163215"
+}

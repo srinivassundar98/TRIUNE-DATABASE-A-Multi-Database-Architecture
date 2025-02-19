@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 14:40:27 +0000 2020",
+    "id": 1254057693108555777,
+    "id_str": "1254057693108555777",
+    "text": "@PMOIndia During the epidemic of Corona, I wanted to check on your well being. \nHope you and your loved ones are do… https://t.co/InT0UcAnZL",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253564840469098496,
+    "in_reply_to_status_id_str": "1253564840469098496",
+    "in_reply_to_user_id": 471741741,
+    "in_reply_to_user_id_str": "471741741",
+    "in_reply_to_screen_name": "PMOIndia",
+    "user": {
+        "id": 1246007367981916160,
+        "id_str": "1246007367981916160",
+        "name": "Suneel Jain",
+        "screen_name": "SuneelJ22373671",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 26,
+        "listed_count": 0,
+        "favourites_count": 5,
+        "statuses_count": 9,
+        "created_at": "Fri Apr 03 09:31:45 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246007645980393473/ypYfFxGA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246007645980393473/ypYfFxGA_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@PMOIndia During the epidemic of Corona, I wanted to check on your well being. \nHope you and your loved ones are doing well and taking all necessary precautions.\n\nTake good care of yourself, your family and preferably stay isolated as far as possible. \n\nTake care &amp; Stay Safe..🌹",
+        "display_text_range": [
+            10,
+            282
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PMOIndia",
+                    "name": "PMO India",
+                    "id": 471741741,
+                    "id_str": "471741741",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/InT0UcAnZL",
+                "expanded_url": "https://twitter.com/i/web/status/1254057693108555777",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "PMOIndia",
+                "name": "PMO India",
+                "id": 471741741,
+                "id_str": "471741741",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825627959"
+}

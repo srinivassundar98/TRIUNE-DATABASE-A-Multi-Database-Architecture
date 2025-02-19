@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:47:28 +0000 2020",
+    "id": 1254029258818760706,
+    "id_str": "1254029258818760706",
+    "text": "@gurubert @schienenstrang Vorsicht Corona test PCR nicht mehr als 4 Täge alt ist notwendig.",
+    "display_text_range": [
+        26,
+        91
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253968906550685696,
+    "in_reply_to_status_id_str": "1253968906550685696",
+    "in_reply_to_user_id": 198622427,
+    "in_reply_to_user_id_str": "198622427",
+    "in_reply_to_screen_name": "gurubert",
+    "user": {
+        "id": 2747981523,
+        "id_str": "2747981523",
+        "name": "Jan Košťál",
+        "screen_name": "JanKostal",
+        "location": null,
+        "url": "http://www.kone-dobrany.cz/jan-kostal",
+        "description": "Sleduj #koneDobrany nebo #JanKostal a #horsesDobrany #horses",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 24,
+        "friends_count": 53,
+        "listed_count": 1,
+        "favourites_count": 58,
+        "statuses_count": 190,
+        "created_at": "Wed Aug 20 14:25:56 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1060401999232020480/8FapSm02_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060401999232020480/8FapSm02_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2747981523/1408905286",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "gurubert",
+                "name": "Robert Sander",
+                "id": 198622427,
+                "id_str": "198622427",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "schienenstrang",
+                "name": "Tom 🇪🇺",
+                "id": 3085956129,
+                "id_str": "3085956129",
+                "indices": [
+                    10,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818848696"
+}

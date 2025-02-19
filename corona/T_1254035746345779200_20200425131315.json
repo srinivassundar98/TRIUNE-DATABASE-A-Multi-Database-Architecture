@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:13:15 +0000 2020",
+    "id": 1254035746345779200,
+    "id_str": "1254035746345779200",
+    "text": "kalo ga corona enak juga lo spotnya https://t.co/QS8Cb8eN3M",
+    "display_text_range": [
+        0,
+        35
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1121373368979050497,
+        "id_str": "1121373368979050497",
+        "name": "'",
+        "screen_name": "alipakbr",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 224,
+        "friends_count": 239,
+        "listed_count": 0,
+        "favourites_count": 820,
+        "statuses_count": 4145,
+        "created_at": "Thu Apr 25 11:20:20 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253974861455581186/FRy0KzkA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253974861455581186/FRy0KzkA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1121373368979050497/1587222341",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254035730952646657,
+                "id_str": "1254035730952646657",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc62mcUcAEnY5G.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc62mcUcAEnY5G.jpg",
+                "url": "https://t.co/QS8Cb8eN3M",
+                "display_url": "pic.twitter.com/QS8Cb8eN3M",
+                "expanded_url": "https://twitter.com/alipakbr/status/1254035746345779200/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 568,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1520,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 322,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254035730952646657,
+                "id_str": "1254035730952646657",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc62mcUcAEnY5G.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc62mcUcAEnY5G.jpg",
+                "url": "https://t.co/QS8Cb8eN3M",
+                "display_url": "pic.twitter.com/QS8Cb8eN3M",
+                "expanded_url": "https://twitter.com/alipakbr/status/1254035746345779200/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 568,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1520,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 322,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587820395443"
+}

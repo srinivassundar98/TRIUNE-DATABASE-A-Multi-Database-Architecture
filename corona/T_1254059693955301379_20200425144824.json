@@ -1,0 +1,187 @@
+{
+    "created_at": "Sat Apr 25 14:48:24 +0000 2020",
+    "id": 1254059693955301379,
+    "id_str": "1254059693955301379",
+    "text": "In Belgie is het corona beleid nu duidelijk. Het openbaar leven in 3 fase uitgelicht. @RTLnieuws @RTV_Rijnmond @NUnl https://t.co/gnxwhGCm0w",
+    "display_text_range": [
+        0,
+        116
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1192151412031000586,
+        "id_str": "1192151412031000586",
+        "name": "QuickSecurity",
+        "screen_name": "security_quick",
+        "location": "Zuid-Holland, Nederland",
+        "url": "http://www.quicksecurity.nl",
+        "description": "Als u ogen te kort komt",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 9,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 10,
+        "created_at": "Wed Nov 06 18:47:20 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192151853225656320/winSLhQw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192151853225656320/winSLhQw_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "RTLnieuws",
+                "name": "RTL Nieuws",
+                "id": 20968385,
+                "id_str": "20968385",
+                "indices": [
+                    86,
+                    96
+                ]
+            },
+            {
+                "screen_name": "RTV_Rijnmond",
+                "name": "Rijnmond",
+                "id": 27606459,
+                "id_str": "27606459",
+                "indices": [
+                    97,
+                    110
+                ]
+            },
+            {
+                "screen_name": "NUnl",
+                "name": "NU.nl",
+                "id": 2493701,
+                "id_str": "2493701",
+                "indices": [
+                    111,
+                    116
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254059688100081664,
+                "id_str": "1254059688100081664",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdQpFxXsAAFj3C.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdQpFxXsAAFj3C.jpg",
+                "url": "https://t.co/gnxwhGCm0w",
+                "display_url": "pic.twitter.com/gnxwhGCm0w",
+                "expanded_url": "https://twitter.com/security_quick/status/1254059693955301379/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 686,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 686,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 486,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254059688100081664,
+                "id_str": "1254059688100081664",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdQpFxXsAAFj3C.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdQpFxXsAAFj3C.jpg",
+                "url": "https://t.co/gnxwhGCm0w",
+                "display_url": "pic.twitter.com/gnxwhGCm0w",
+                "expanded_url": "https://twitter.com/security_quick/status/1254059693955301379/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 686,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 686,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 486,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587826104998"
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Sat Apr 25 13:37:58 +0000 2020",
+    "id": 1254041966863699968,
+    "id_str": "1254041966863699968",
+    "text": "Lambrecht will europarechtskonforme Gutscheinlösung für Corona-Stornierungen - https://t.co/LqmwZjTvB3",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1552867297,
+        "id_str": "1552867297",
+        "name": "Roland Erdtmann",
+        "screen_name": "RErdtmann",
+        "location": "Thüringen, Deutschland",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1050,
+        "friends_count": 5000,
+        "listed_count": 78,
+        "favourites_count": 12472,
+        "statuses_count": 21380,
+        "created_at": "Fri Jun 28 11:12:32 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/754252646907797504/uc6polAJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/754252646907797504/uc6polAJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552867297/1468259742",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "c7c1d4c8258c1bad",
+        "url": "https://api.twitter.com/1.1/geo/id/c7c1d4c8258c1bad.json",
+        "place_type": "city",
+        "name": "Alperstedt",
+        "full_name": "Alperstedt, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        11.030034,
+                        51.077515
+                    ],
+                    [
+                        11.030034,
+                        51.117147
+                    ],
+                    [
+                        11.080671,
+                        51.117147
+                    ],
+                    [
+                        11.080671,
+                        51.077515
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/LqmwZjTvB3",
+                "expanded_url": "https://www.handelsblatt.com/25772876.html?share=twitter",
+                "display_url": "handelsblatt.com/25772876.html?…",
+                "indices": [
+                    79,
+                    102
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821878530"
+}

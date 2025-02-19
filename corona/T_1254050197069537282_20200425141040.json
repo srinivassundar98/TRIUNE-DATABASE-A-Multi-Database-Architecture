@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 14:10:40 +0000 2020",
+    "id": 1254050197069537282,
+    "id_str": "1254050197069537282",
+    "text": "@GallaMarcus @fr Ah ja, Demokratie adé wg Corona oder passt Ihnen einfach der Demogrund nicht?",
+    "display_text_range": [
+        17,
+        94
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254045750637592576,
+    "in_reply_to_status_id_str": "1254045750637592576",
+    "in_reply_to_user_id": 1156369229819650050,
+    "in_reply_to_user_id_str": "1156369229819650050",
+    "in_reply_to_screen_name": "GallaMarcus",
+    "user": {
+        "id": 1055827879882309632,
+        "id_str": "1055827879882309632",
+        "name": "Kai",
+        "screen_name": "KaiHomeCat",
+        "location": null,
+        "url": null,
+        "description": "Empathie statt Abwertung. Gemeinsam statt Getrennt. Liebe statt Hass.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 33,
+        "listed_count": 0,
+        "favourites_count": 852,
+        "statuses_count": 611,
+        "created_at": "Fri Oct 26 14:25:57 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "GallaMarcus",
+                "name": "Marcus Galla",
+                "id": 1156369229819650050,
+                "id_str": "1156369229819650050",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "fr",
+                "name": "FrankfurterRundschau",
+                "id": 17835938,
+                "id_str": "17835938",
+                "indices": [
+                    13,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823840764"
+}

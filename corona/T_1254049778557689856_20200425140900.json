@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 14:09:00 +0000 2020",
+    "id": 1254049778557689856,
+    "id_str": "1254049778557689856",
+    "text": "@MsOliviaBlake @litalita46 @etalkCTV This is why naming diseases/pandemics &amp; natural disasters after actual people… https://t.co/8ihFvdyyYO",
+    "display_text_range": [
+        37,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253690237726986240,
+    "in_reply_to_status_id_str": "1253690237726986240",
+    "in_reply_to_user_id": 1189506035259711494,
+    "in_reply_to_user_id_str": "1189506035259711494",
+    "in_reply_to_screen_name": "MsOliviaBlake",
+    "user": {
+        "id": 1239211718015885312,
+        "id_str": "1239211718015885312",
+        "name": "Rich Hannon",
+        "screen_name": "rich_hannon",
+        "location": "Kansas City, MO",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 10,
+        "friends_count": 108,
+        "listed_count": 0,
+        "favourites_count": 1507,
+        "statuses_count": 406,
+        "created_at": "Sun Mar 15 15:28:12 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239212768202547201/lhXddEmA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239212768202547201/lhXddEmA_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@MsOliviaBlake @litalita46 @etalkCTV This is why naming diseases/pandemics &amp; natural disasters after actual people and country/region names is not a good idea. It really impacts people &amp; businesses (e.g. ppl with Corona in their name or restaurants named Corona). Same goes for racism against Chinese/Asian people.",
+        "display_text_range": [
+            37,
+            322
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MsOliviaBlake",
+                    "name": "Olivia Blake",
+                    "id": 1189506035259711494,
+                    "id_str": "1189506035259711494",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "litalita46",
+                    "name": "Mita",
+                    "id": 2799990582,
+                    "id_str": "2799990582",
+                    "indices": [
+                        15,
+                        26
+                    ]
+                },
+                {
+                    "screen_name": "etalkCTV",
+                    "name": "etalk",
+                    "id": 26820715,
+                    "id_str": "26820715",
+                    "indices": [
+                        27,
+                        36
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/8ihFvdyyYO",
+                "expanded_url": "https://twitter.com/i/web/status/1254049778557689856",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    120,
+                    143
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MsOliviaBlake",
+                "name": "Olivia Blake",
+                "id": 1189506035259711494,
+                "id_str": "1189506035259711494",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "litalita46",
+                "name": "Mita",
+                "id": 2799990582,
+                "id_str": "2799990582",
+                "indices": [
+                    15,
+                    26
+                ]
+            },
+            {
+                "screen_name": "etalkCTV",
+                "name": "etalk",
+                "id": 26820715,
+                "id_str": "26820715",
+                "indices": [
+                    27,
+                    36
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823740983"
+}

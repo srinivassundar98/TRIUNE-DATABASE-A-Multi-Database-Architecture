@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:18:31 +0000 2020",
+    "id": 1254037073281064963,
+    "id_str": "1254037073281064963",
+    "text": "@the_door_opens Yep. **shakes fist at corona**",
+    "display_text_range": [
+        16,
+        46
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254036056598609922,
+    "in_reply_to_status_id_str": "1254036056598609922",
+    "in_reply_to_user_id": 1218342662060892160,
+    "in_reply_to_user_id_str": "1218342662060892160",
+    "in_reply_to_screen_name": "the_door_opens",
+    "user": {
+        "id": 892446158068559872,
+        "id_str": "892446158068559872",
+        "name": "The Struggling Linguist",
+        "screen_name": "LangStruggles",
+        "location": "Ottawa, Ontario",
+        "url": "http://www.langstruggles.com",
+        "description": "Linguist 📚 ESL Instructor 👩🏾‍🏫 Entrepreneur 👩🏾‍💼 Daily videos practicing speaking skills🇨🇦🇲🇽🇨🇵🇩🇪🇪🇦🇨🇳\n IG:@langstruggles YT:strugglinglinguist",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 278,
+        "friends_count": 151,
+        "listed_count": 2,
+        "favourites_count": 526,
+        "statuses_count": 1200,
+        "created_at": "Tue Aug 01 18:05:19 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1155655428761690113/gqexxbzM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155655428761690113/gqexxbzM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/892446158068559872/1564437718",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "38d5974e82ed1a6c",
+        "url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json",
+        "place_type": "city",
+        "name": "Ottawa",
+        "full_name": "Ottawa, Ontario",
+        "country_code": "CA",
+        "country": "Canada",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -76.353876,
+                        44.961937
+                    ],
+                    [
+                        -76.353876,
+                        45.535645
+                    ],
+                    [
+                        -75.246407,
+                        45.535645
+                    ],
+                    [
+                        -75.246407,
+                        44.961937
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "the_door_opens",
+                "name": "János",
+                "id": 1218342662060892160,
+                "id_str": "1218342662060892160",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820711809"
+}

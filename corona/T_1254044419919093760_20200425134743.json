@@ -1,0 +1,152 @@
+{
+    "created_at": "Sat Apr 25 13:47:43 +0000 2020",
+    "id": 1254044419919093760,
+    "id_str": "1254044419919093760",
+    "text": "Ontem foi dia do Projeto de educação infantil Mundo Encantado receberem o kit da L'Oréal com álcool gell. \nMais uma… https://t.co/0YzOaFqlgF",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 116463158,
+        "id_str": "116463158",
+        "name": "Instituto Mundo Novo",
+        "screen_name": "ONGMUNDONOVO",
+        "location": "Mesquita/Rio de Janeiro",
+        "url": "http://www.institutomundonovo.org.br",
+        "description": "O Instituto Mundo Novo é uma instituição sem fins lucrativos que beneficia crianças e adolescentes da Comunidade da Chatuba em Mesquita.",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 283,
+        "friends_count": 386,
+        "listed_count": 3,
+        "favourites_count": 11,
+        "statuses_count": 1350,
+        "created_at": "Mon Feb 22 14:58:20 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247995782050938882/Z-NVzJpt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247995782050938882/Z-NVzJpt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116463158/1586380356",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            -22.80130288,
+            -43.4327322
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -43.4327322,
+            -22.80130288
+        ]
+    },
+    "place": {
+        "id": "b1a5f3bbff698d24",
+        "url": "https://api.twitter.com/1.1/geo/id/b1a5f3bbff698d24.json",
+        "place_type": "city",
+        "name": "Mesquita",
+        "full_name": "Mesquita, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -43.496757,
+                        -22.840589
+                    ],
+                    [
+                        -43.496757,
+                        -22.764566
+                    ],
+                    [
+                        -43.397015,
+                        -22.764566
+                    ],
+                    [
+                        -43.397015,
+                        -22.840589
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Ontem foi dia do Projeto de educação infantil Mundo Encantado receberem o kit da L'Oréal com álcool gell. \nMais uma vez queremos agradecer ao movimento Rio Contra o Corona por todo apoio nesse momento tão difícil… https://t.co/8uBH5njMwc",
+        "display_text_range": [
+            0,
+            237
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/8uBH5njMwc",
+                    "expanded_url": "https://www.instagram.com/p/B_Z_N3tnUnp/?igshid=1suwq3u9qdbny",
+                    "display_url": "instagram.com/p/B_Z_N3tnUnp/…",
+                    "indices": [
+                        214,
+                        237
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/0YzOaFqlgF",
+                "expanded_url": "https://twitter.com/i/web/status/1254044419919093760",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587822463384"
+}

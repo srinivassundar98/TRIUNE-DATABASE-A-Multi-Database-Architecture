@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:12:49 +0000 2020",
+    "id": 1254035638258675712,
+    "id_str": "1254035638258675712",
+    "text": "@InitiativeFrei1 @lazerfunk Gibt es doch schon. Ich habe bereits an einer psychologischen Studie in Bezug auf Coron… https://t.co/JGDBxcaSr9",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254024002122780673,
+    "in_reply_to_status_id_str": "1254024002122780673",
+    "in_reply_to_user_id": 1036300838585675778,
+    "in_reply_to_user_id_str": "1036300838585675778",
+    "in_reply_to_screen_name": "InitiativeFrei1",
+    "user": {
+        "id": 1233176720435531777,
+        "id_str": "1233176720435531777",
+        "name": "Lil",
+        "screen_name": "Lil03272514",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 3,
+        "listed_count": 0,
+        "favourites_count": 264,
+        "statuses_count": 68,
+        "created_at": "Thu Feb 27 23:47:08 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@InitiativeFrei1 @lazerfunk Gibt es doch schon. Ich habe bereits an einer psychologischen Studie in Bezug auf Corona teilgenommen. Nur, weil du etwas nicht weißt, heißt es nicht, dass es das nicht gibt.",
+        "display_text_range": [
+            28,
+            202
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "InitiativeFrei1",
+                    "name": "Initiative Freiheit",
+                    "id": 1036300838585675778,
+                    "id_str": "1036300838585675778",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "lazerfunk",
+                    "name": "Lazerfunk",
+                    "id": 4821547919,
+                    "id_str": "4821547919",
+                    "indices": [
+                        17,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/JGDBxcaSr9",
+                "expanded_url": "https://twitter.com/i/web/status/1254035638258675712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "InitiativeFrei1",
+                "name": "Initiative Freiheit",
+                "id": 1036300838585675778,
+                "id_str": "1036300838585675778",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "lazerfunk",
+                "name": "Lazerfunk",
+                "id": 4821547919,
+                "id_str": "4821547919",
+                "indices": [
+                    17,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820369673"
+}

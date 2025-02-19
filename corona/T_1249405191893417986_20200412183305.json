@@ -1,0 +1,369 @@
+{
+    "created_at": "Sun Apr 12 18:33:05 +0000 2020",
+    "id": 1249405191893417986,
+    "id_str": "1249405191893417986",
+    "text": "@LukiaBabatv @felixadvise @GovUganda @semberasimon @BiryomumaishoB @Snduhukire @CanaryMugume corona virus does not… https://t.co/cjt1Evtj12",
+    "display_text_range": [
+        93,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249372567695241219,
+    "in_reply_to_status_id_str": "1249372567695241219",
+    "in_reply_to_user_id": 1183598458248351744,
+    "in_reply_to_user_id_str": "1183598458248351744",
+    "in_reply_to_screen_name": "LukiaBabatv",
+    "user": {
+        "id": 990890122383065088,
+        "id_str": "990890122383065088",
+        "name": "Beatrice Nyar Ugenya",
+        "screen_name": "MigunaTEAM",
+        "location": "Nairobi, Kenya",
+        "url": null,
+        "description": "A girl should be like a butterfly. pretty to see,hard to touch",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 845,
+        "friends_count": 31,
+        "listed_count": 1,
+        "favourites_count": 706,
+        "statuses_count": 5789,
+        "created_at": "Mon Apr 30 09:46:29 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202898038781566976/Rv9spSOP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202898038781566976/Rv9spSOP_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990890122383065088/1584452409",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01e215db7136a37e",
+        "url": "https://api.twitter.com/1.1/geo/id/01e215db7136a37e.json",
+        "place_type": "city",
+        "name": "Nairobi",
+        "full_name": "Nairobi, Kenya",
+        "country_code": "KE",
+        "country": "Kenya",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        36.664573,
+                        -1.389053
+                    ],
+                    [
+                        36.664573,
+                        -1.160674
+                    ],
+                    [
+                        37.062667,
+                        -1.160674
+                    ],
+                    [
+                        37.062667,
+                        -1.389053
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@LukiaBabatv @felixadvise @GovUganda @semberasimon @BiryomumaishoB @Snduhukire @CanaryMugume corona virus does not care about the weight of ones pocket.\n\n#BabaTvUpdates #SilentWaveKE https://t.co/u3IddrIhfk",
+        "display_text_range": [
+            93,
+            182
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BabaTvUpdates",
+                    "indices": [
+                        154,
+                        168
+                    ]
+                },
+                {
+                    "text": "SilentWaveKE",
+                    "indices": [
+                        169,
+                        182
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LukiaBabatv",
+                    "name": "Lukia Mpoza Official.",
+                    "id": 1183598458248351744,
+                    "id_str": "1183598458248351744",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "felixadvise",
+                    "name": "Felix Kyebanakolanga.",
+                    "id": 2512585022,
+                    "id_str": "2512585022",
+                    "indices": [
+                        13,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "GovUganda",
+                    "name": "Government of Uganda",
+                    "id": 1041882265,
+                    "id_str": "1041882265",
+                    "indices": [
+                        26,
+                        36
+                    ]
+                },
+                {
+                    "screen_name": "semberasimon",
+                    "name": "Omusenvuzi",
+                    "id": 492868383,
+                    "id_str": "492868383",
+                    "indices": [
+                        37,
+                        50
+                    ]
+                },
+                {
+                    "screen_name": "BiryomumaishoB",
+                    "name": "Sarah Biryomumaisho",
+                    "id": 390573917,
+                    "id_str": "390573917",
+                    "indices": [
+                        51,
+                        66
+                    ]
+                },
+                {
+                    "screen_name": "Snduhukire",
+                    "name": "Sheila Nduhukire 🇺🇬",
+                    "id": 274925909,
+                    "id_str": "274925909",
+                    "indices": [
+                        67,
+                        78
+                    ]
+                },
+                {
+                    "screen_name": "CanaryMugume",
+                    "name": "#CanaryReports",
+                    "id": 285577145,
+                    "id_str": "285577145",
+                    "indices": [
+                        79,
+                        92
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1249404881674416129,
+                    "id_str": "1249404881674416129",
+                    "indices": [
+                        183,
+                        206
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbHHsjXsAE4VeF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbHHsjXsAE4VeF.jpg",
+                    "url": "https://t.co/u3IddrIhfk",
+                    "display_url": "pic.twitter.com/u3IddrIhfk",
+                    "expanded_url": "https://twitter.com/MigunaTEAM/status/1249405191893417986/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 372,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 372,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 372,
+                            "h": 372,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1249404881674416129,
+                    "id_str": "1249404881674416129",
+                    "indices": [
+                        183,
+                        206
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbHHsjXsAE4VeF.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbHHsjXsAE4VeF.jpg",
+                    "url": "https://t.co/u3IddrIhfk",
+                    "display_url": "pic.twitter.com/u3IddrIhfk",
+                    "expanded_url": "https://twitter.com/MigunaTEAM/status/1249405191893417986/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 372,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 372,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 372,
+                            "h": 372,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/cjt1Evtj12",
+                "expanded_url": "https://twitter.com/i/web/status/1249405191893417986",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "LukiaBabatv",
+                "name": "Lukia Mpoza Official.",
+                "id": 1183598458248351744,
+                "id_str": "1183598458248351744",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "felixadvise",
+                "name": "Felix Kyebanakolanga.",
+                "id": 2512585022,
+                "id_str": "2512585022",
+                "indices": [
+                    13,
+                    25
+                ]
+            },
+            {
+                "screen_name": "GovUganda",
+                "name": "Government of Uganda",
+                "id": 1041882265,
+                "id_str": "1041882265",
+                "indices": [
+                    26,
+                    36
+                ]
+            },
+            {
+                "screen_name": "semberasimon",
+                "name": "Omusenvuzi",
+                "id": 492868383,
+                "id_str": "492868383",
+                "indices": [
+                    37,
+                    50
+                ]
+            },
+            {
+                "screen_name": "BiryomumaishoB",
+                "name": "Sarah Biryomumaisho",
+                "id": 390573917,
+                "id_str": "390573917",
+                "indices": [
+                    51,
+                    66
+                ]
+            },
+            {
+                "screen_name": "Snduhukire",
+                "name": "Sheila Nduhukire 🇺🇬",
+                "id": 274925909,
+                "id_str": "274925909",
+                "indices": [
+                    67,
+                    78
+                ]
+            },
+            {
+                "screen_name": "CanaryMugume",
+                "name": "#CanaryReports",
+                "id": 285577145,
+                "id_str": "285577145",
+                "indices": [
+                    79,
+                    92
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716385230"
+}

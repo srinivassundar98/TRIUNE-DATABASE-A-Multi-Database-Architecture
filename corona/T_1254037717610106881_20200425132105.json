@@ -1,0 +1,134 @@
+{
+    "created_at": "Sat Apr 25 13:21:05 +0000 2020",
+    "id": 1254037717610106881,
+    "id_str": "1254037717610106881",
+    "text": "@jensuwekrause \"Es gibt laut Dr. Glatt zumindest keinen dokumentierten Fall einer Virusübertragung durch Flatulenze… https://t.co/K1FdZvuS35",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254036389752168449,
+    "in_reply_to_status_id_str": "1254036389752168449",
+    "in_reply_to_user_id": 905743274,
+    "in_reply_to_user_id_str": "905743274",
+    "in_reply_to_screen_name": "jensuwekrause",
+    "user": {
+        "id": 826130613333811201,
+        "id_str": "826130613333811201",
+        "name": "K. (🏠 🛋👩🏼‍💻)",
+        "screen_name": "Katachyna",
+        "location": null,
+        "url": null,
+        "description": "🦉möchte abends einmal so müde sein, wie morgens😴/...life is a short trip...\n\n✒Header Checkpoint Charlie",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 430,
+        "friends_count": 362,
+        "listed_count": 4,
+        "favourites_count": 34126,
+        "statuses_count": 7282,
+        "created_at": "Mon Jan 30 18:11:01 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1058087532024467456/J_gQqaVS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058087532024467456/J_gQqaVS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/826130613333811201/1583091846",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@jensuwekrause \"Es gibt laut Dr. Glatt zumindest keinen dokumentierten Fall einer Virusübertragung durch Flatulenzen. Er kann aber auch das Gegenteil nicht beweisen.\"\n\nQuelle: https://t.co/DgX82FvYoA",
+        "display_text_range": [
+            15,
+            199
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/DgX82FvYoA",
+                    "expanded_url": "https://www.fitbook.de/health/sind-flatulenzen-von-corona-infizierten-ansteckend",
+                    "display_url": "fitbook.de/health/sind-fl…",
+                    "indices": [
+                        176,
+                        199
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "jensuwekrause",
+                    "name": "Jens-Uwe Krause 🐳",
+                    "id": 905743274,
+                    "id_str": "905743274",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/K1FdZvuS35",
+                "expanded_url": "https://twitter.com/i/web/status/1254037717610106881",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jensuwekrause",
+                "name": "Jens-Uwe Krause 🐳",
+                "id": 905743274,
+                "id_str": "905743274",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820865429"
+}

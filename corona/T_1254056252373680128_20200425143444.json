@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 14:34:44 +0000 2020",
+    "id": 1254056252373680128,
+    "id_str": "1254056252373680128",
+    "text": "Corona deaths in the UK hit 20k, daily death figure has risen again (markedly) and yet people are still flouting lo… https://t.co/xmvsrRLA0V",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 33192983,
+        "id_str": "33192983",
+        "name": "Bex",
+        "screen_name": "Bexybexxo",
+        "location": "North London",
+        "url": "http://www.mixcloud.com/bexxo",
+        "description": "Not taking life seriously one day at a time",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 195,
+        "friends_count": 106,
+        "listed_count": 10,
+        "favourites_count": 4142,
+        "statuses_count": 11462,
+        "created_at": "Sun Apr 19 12:55:27 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "005782",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "057816",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F09030",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3261926479/dbc3b11f57b73cb1e09de8090dfc50ed_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3261926479/dbc3b11f57b73cb1e09de8090dfc50ed_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33192983/1379089205",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7ef79c5ab17d518c",
+        "url": "https://api.twitter.com/1.1/geo/id/7ef79c5ab17d518c.json",
+        "place_type": "city",
+        "name": "Barnet",
+        "full_name": "Barnet, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -0.292579,
+                        51.555179
+                    ],
+                    [
+                        -0.292579,
+                        51.66859
+                    ],
+                    [
+                        -0.12921,
+                        51.66859
+                    ],
+                    [
+                        -0.12921,
+                        51.555179
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Corona deaths in the UK hit 20k, daily death figure has risen again (markedly) and yet people are still flouting lockdown rules. Honestly why 🤬",
+        "display_text_range": [
+            0,
+            143
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/xmvsrRLA0V",
+                "expanded_url": "https://twitter.com/i/web/status/1254056252373680128",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825284461"
+}

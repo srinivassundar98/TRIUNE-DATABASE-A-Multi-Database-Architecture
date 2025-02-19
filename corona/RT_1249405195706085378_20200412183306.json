@@ -1,0 +1,785 @@
+{
+    "created_at": "Sun Apr 12 18:33:06 +0000 2020",
+    "id": 1249405195706085378,
+    "id_str": "1249405195706085378",
+    "text": "RT @knuteng: That was fun. Thanks for having me as a guest, @kDolgner! #TalkingDigital podcast https://t.co/k1TcuF3omp",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 15466347,
+        "id_str": "15466347",
+        "name": "Timo Lommatzsch",
+        "screen_name": "tlom",
+        "location": "iPhone: 52.376999,9.738510",
+        "url": "http://mt-medien.com",
+        "description": "Kommunikationsarchitekt, Problemlöser, Digitaler Berater, Stratege, Sparringspartner und Coach - für Unternehmenskommunikation & Marketing.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2471,
+        "friends_count": 1684,
+        "listed_count": 189,
+        "favourites_count": 5739,
+        "statuses_count": 5416,
+        "created_at": "Thu Jul 17 10:33:16 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/201589994/Timotwit_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/201589994/Timotwit_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Apr 09 09:36:03 +0000 2020",
+        "id": 1248182881601585154,
+        "id_str": "1248182881601585154",
+        "text": "That was fun. Thanks for having me as a guest, @kDolgner! #TalkingDigital podcast https://t.co/k1TcuF3omp",
+        "display_text_range": [
+            0,
+            81
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 19823131,
+            "id_str": "19823131",
+            "name": "Knut Engelmann",
+            "screen_name": "knuteng",
+            "location": "Frankfurt",
+            "url": null,
+            "description": "Communications professional. Former journalist.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 851,
+            "friends_count": 588,
+            "listed_count": 75,
+            "favourites_count": 163,
+            "statuses_count": 769,
+            "created_at": "Sat Jan 31 17:32:24 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "223388",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1722582611/image_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1722582611/image_normal.jpg",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1248165212647284736,
+        "quoted_status_id_str": "1248165212647284736",
+        "quoted_status": {
+            "created_at": "Thu Apr 09 08:25:51 +0000 2020",
+            "id": 1248165212647284736,
+            "id_str": "1248165212647284736",
+            "text": "Wann bekommt man schon 3 \nComms Experten in einer Folge vors🎙️? Danke @knuteng, @mdier und @Chris_Buggisch! Sie hab… https://t.co/iMjm6EcN5Q",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 52680645,
+                "id_str": "52680645",
+                "name": "Kristin Dolgner",
+                "screen_name": "kDolgner",
+                "location": "Berlin",
+                "url": null,
+                "description": "Nordlicht | Heading Comms & Marketing @ BCG Digital Ventures @bcgdv | Host @ #TalkingDigital 🎙️ | former @zalando_press & press @ESMTberlin | digital by heart",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 625,
+                "friends_count": 459,
+                "listed_count": 38,
+                "favourites_count": 1960,
+                "statuses_count": 1399,
+                "created_at": "Wed Jul 01 09:36:53 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1172405249748815874/wO8LhAsL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172405249748815874/wO8LhAsL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/52680645/1554711866",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Wann bekommt man schon 3 \nComms Experten in einer Folge vors🎙️? Danke @knuteng, @mdier und @Chris_Buggisch! Sie haben ihre bisherigen Learnings aus der #corona Kommunikation mit @tlom und mir für eine Sonderfolge des #TalkingDigital Podcasts geteilt \n📲 🎧 https://t.co/smest7iqgw https://t.co/95rbmcc0gj",
+                "display_text_range": [
+                    0,
+                    278
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "corona",
+                            "indices": [
+                                152,
+                                159
+                            ]
+                        },
+                        {
+                            "text": "TalkingDigital",
+                            "indices": [
+                                217,
+                                232
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/smest7iqgw",
+                            "expanded_url": "https://bit.ly/2RmfOhW",
+                            "display_url": "bit.ly/2RmfOhW",
+                            "indices": [
+                                255,
+                                278
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "knuteng",
+                            "name": "Knut Engelmann",
+                            "id": 19823131,
+                            "id_str": "19823131",
+                            "indices": [
+                                70,
+                                78
+                            ]
+                        },
+                        {
+                            "screen_name": "mdier",
+                            "name": "Martina Dier",
+                            "id": 51453637,
+                            "id_str": "51453637",
+                            "indices": [
+                                80,
+                                86
+                            ]
+                        },
+                        {
+                            "screen_name": "Chris_Buggisch",
+                            "name": "Christian Buggisch",
+                            "id": 15340908,
+                            "id_str": "15340908",
+                            "indices": [
+                                91,
+                                106
+                            ]
+                        },
+                        {
+                            "screen_name": "tlom",
+                            "name": "Timo Lommatzsch",
+                            "id": 15466347,
+                            "id_str": "15466347",
+                            "indices": [
+                                178,
+                                183
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1248165199963545600,
+                            "id_str": "1248165199963545600",
+                            "indices": [
+                                279,
+                                302
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVJfouTU4AAAD05.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVJfouTU4AAAD05.jpg",
+                            "url": "https://t.co/95rbmcc0gj",
+                            "display_url": "pic.twitter.com/95rbmcc0gj",
+                            "expanded_url": "https://twitter.com/kDolgner/status/1248165212647284736/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1248165199963545600,
+                            "id_str": "1248165199963545600",
+                            "indices": [
+                                279,
+                                302
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVJfouTU4AAAD05.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVJfouTU4AAAD05.jpg",
+                            "url": "https://t.co/95rbmcc0gj",
+                            "display_url": "pic.twitter.com/95rbmcc0gj",
+                            "expanded_url": "https://twitter.com/kDolgner/status/1248165212647284736/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 1,
+            "favorite_count": 5,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/iMjm6EcN5Q",
+                        "expanded_url": "https://twitter.com/i/web/status/1248165212647284736",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "knuteng",
+                        "name": "Knut Engelmann",
+                        "id": 19823131,
+                        "id_str": "19823131",
+                        "indices": [
+                            70,
+                            78
+                        ]
+                    },
+                    {
+                        "screen_name": "mdier",
+                        "name": "Martina Dier",
+                        "id": 51453637,
+                        "id_str": "51453637",
+                        "indices": [
+                            80,
+                            86
+                        ]
+                    },
+                    {
+                        "screen_name": "Chris_Buggisch",
+                        "name": "Christian Buggisch",
+                        "id": 15340908,
+                        "id_str": "15340908",
+                        "indices": [
+                            91,
+                            106
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/k1TcuF3omp",
+            "expanded": "https://twitter.com/kDolgner/status/1248165212647284736",
+            "display": "twitter.com/kDolgner/statu…"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TalkingDigital",
+                    "indices": [
+                        58,
+                        73
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/k1TcuF3omp",
+                    "expanded_url": "https://twitter.com/kDolgner/status/1248165212647284736",
+                    "display_url": "twitter.com/kDolgner/statu…",
+                    "indices": [
+                        82,
+                        105
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "kDolgner",
+                    "name": "Kristin Dolgner",
+                    "id": 52680645,
+                    "id_str": "52680645",
+                    "indices": [
+                        47,
+                        56
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1248165212647284736,
+    "quoted_status_id_str": "1248165212647284736",
+    "quoted_status": {
+        "created_at": "Thu Apr 09 08:25:51 +0000 2020",
+        "id": 1248165212647284736,
+        "id_str": "1248165212647284736",
+        "text": "Wann bekommt man schon 3 \nComms Experten in einer Folge vors🎙️? Danke @knuteng, @mdier und @Chris_Buggisch! Sie hab… https://t.co/iMjm6EcN5Q",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 52680645,
+            "id_str": "52680645",
+            "name": "Kristin Dolgner",
+            "screen_name": "kDolgner",
+            "location": "Berlin",
+            "url": null,
+            "description": "Nordlicht | Heading Comms & Marketing @ BCG Digital Ventures @bcgdv | Host @ #TalkingDigital 🎙️ | former @zalando_press & press @ESMTberlin | digital by heart",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 625,
+            "friends_count": 459,
+            "listed_count": 38,
+            "favourites_count": 1960,
+            "statuses_count": 1399,
+            "created_at": "Wed Jul 01 09:36:53 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1172405249748815874/wO8LhAsL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172405249748815874/wO8LhAsL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52680645/1554711866",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Wann bekommt man schon 3 \nComms Experten in einer Folge vors🎙️? Danke @knuteng, @mdier und @Chris_Buggisch! Sie haben ihre bisherigen Learnings aus der #corona Kommunikation mit @tlom und mir für eine Sonderfolge des #TalkingDigital Podcasts geteilt \n📲 🎧 https://t.co/smest7iqgw https://t.co/95rbmcc0gj",
+            "display_text_range": [
+                0,
+                278
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "corona",
+                        "indices": [
+                            152,
+                            159
+                        ]
+                    },
+                    {
+                        "text": "TalkingDigital",
+                        "indices": [
+                            217,
+                            232
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/smest7iqgw",
+                        "expanded_url": "https://bit.ly/2RmfOhW",
+                        "display_url": "bit.ly/2RmfOhW",
+                        "indices": [
+                            255,
+                            278
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "knuteng",
+                        "name": "Knut Engelmann",
+                        "id": 19823131,
+                        "id_str": "19823131",
+                        "indices": [
+                            70,
+                            78
+                        ]
+                    },
+                    {
+                        "screen_name": "mdier",
+                        "name": "Martina Dier",
+                        "id": 51453637,
+                        "id_str": "51453637",
+                        "indices": [
+                            80,
+                            86
+                        ]
+                    },
+                    {
+                        "screen_name": "Chris_Buggisch",
+                        "name": "Christian Buggisch",
+                        "id": 15340908,
+                        "id_str": "15340908",
+                        "indices": [
+                            91,
+                            106
+                        ]
+                    },
+                    {
+                        "screen_name": "tlom",
+                        "name": "Timo Lommatzsch",
+                        "id": 15466347,
+                        "id_str": "15466347",
+                        "indices": [
+                            178,
+                            183
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1248165199963545600,
+                        "id_str": "1248165199963545600",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVJfouTU4AAAD05.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVJfouTU4AAAD05.jpg",
+                        "url": "https://t.co/95rbmcc0gj",
+                        "display_url": "pic.twitter.com/95rbmcc0gj",
+                        "expanded_url": "https://twitter.com/kDolgner/status/1248165212647284736/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1248165199963545600,
+                        "id_str": "1248165199963545600",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVJfouTU4AAAD05.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVJfouTU4AAAD05.jpg",
+                        "url": "https://t.co/95rbmcc0gj",
+                        "display_url": "pic.twitter.com/95rbmcc0gj",
+                        "expanded_url": "https://twitter.com/kDolgner/status/1248165212647284736/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/iMjm6EcN5Q",
+                    "expanded_url": "https://twitter.com/i/web/status/1248165212647284736",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "knuteng",
+                    "name": "Knut Engelmann",
+                    "id": 19823131,
+                    "id_str": "19823131",
+                    "indices": [
+                        70,
+                        78
+                    ]
+                },
+                {
+                    "screen_name": "mdier",
+                    "name": "Martina Dier",
+                    "id": 51453637,
+                    "id_str": "51453637",
+                    "indices": [
+                        80,
+                        86
+                    ]
+                },
+                {
+                    "screen_name": "Chris_Buggisch",
+                    "name": "Christian Buggisch",
+                    "id": 15340908,
+                    "id_str": "15340908",
+                    "indices": [
+                        91,
+                        106
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/k1TcuF3omp",
+        "expanded": "https://twitter.com/kDolgner/status/1248165212647284736",
+        "display": "twitter.com/kDolgner/statu…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "TalkingDigital",
+                "indices": [
+                    71,
+                    86
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/k1TcuF3omp",
+                "expanded_url": "https://twitter.com/kDolgner/status/1248165212647284736",
+                "display_url": "twitter.com/kDolgner/statu…",
+                "indices": [
+                    95,
+                    118
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "knuteng",
+                "name": "Knut Engelmann",
+                "id": 19823131,
+                "id_str": "19823131",
+                "indices": [
+                    3,
+                    11
+                ]
+            },
+            {
+                "screen_name": "kDolgner",
+                "name": "Kristin Dolgner",
+                "id": 52680645,
+                "id_str": "52680645",
+                "indices": [
+                    60,
+                    69
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716386139"
+}

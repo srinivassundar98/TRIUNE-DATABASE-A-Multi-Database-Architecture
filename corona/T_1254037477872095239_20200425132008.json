@@ -1,0 +1,217 @@
+{
+    "created_at": "Sat Apr 25 13:20:08 +0000 2020",
+    "id": 1254037477872095239,
+    "id_str": "1254037477872095239",
+    "text": "@ProfThun @BMG_Bund @jensspahn Der #ccc hat den Brief ans @BMG_Bund veröffentlicht, in dem die Kritik an der… https://t.co/ur0uIfIILk",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254033338395963392,
+    "in_reply_to_status_id_str": "1254033338395963392",
+    "in_reply_to_user_id": 2756805370,
+    "in_reply_to_user_id_str": "2756805370",
+    "in_reply_to_screen_name": "Pflege42",
+    "user": {
+        "id": 2756805370,
+        "id_str": "2756805370",
+        "name": "P. Flegegrade",
+        "screen_name": "Pflege42",
+        "location": null,
+        "url": "https://www.pflegegrad.info/",
+        "description": "Hier soll nix post faktisch. Bei Fragen gern Nachricht oder Tweet ...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 669,
+        "friends_count": 138,
+        "listed_count": 30,
+        "favourites_count": 19357,
+        "statuses_count": 14239,
+        "created_at": "Sun Aug 31 06:01:59 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "009900",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109054635791269888/0HRtEPgH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109054635791269888/0HRtEPgH_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2756805370/1409667863",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ProfThun @BMG_Bund @jensspahn Der #ccc hat den Brief ans @BMG_Bund veröffentlicht, in dem die Kritik an der #Corona APP Entscheidung formuliert wird:\nhttps://t.co/OSazBt31Uf",
+        "display_text_range": [
+            31,
+            174
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ccc",
+                    "indices": [
+                        35,
+                        39
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        109,
+                        116
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/OSazBt31Uf",
+                    "expanded_url": "https://www.ccc.de/system/uploads/300/original/Offener_Brief_Corona_App_BMG.pdf",
+                    "display_url": "ccc.de/system/uploads…",
+                    "indices": [
+                        151,
+                        174
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "ProfThun",
+                    "name": "Sylvia Thun",
+                    "id": 336455955,
+                    "id_str": "336455955",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "BMG_Bund",
+                    "name": "BMG",
+                    "id": 2478349112,
+                    "id_str": "2478349112",
+                    "indices": [
+                        10,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "jensspahn",
+                    "name": "Jens Spahn",
+                    "id": 299650387,
+                    "id_str": "299650387",
+                    "indices": [
+                        20,
+                        30
+                    ]
+                },
+                {
+                    "screen_name": "BMG_Bund",
+                    "name": "BMG",
+                    "id": 2478349112,
+                    "id_str": "2478349112",
+                    "indices": [
+                        58,
+                        67
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ccc",
+                "indices": [
+                    35,
+                    39
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ur0uIfIILk",
+                "expanded_url": "https://twitter.com/i/web/status/1254037477872095239",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    110,
+                    133
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ProfThun",
+                "name": "Sylvia Thun",
+                "id": 336455955,
+                "id_str": "336455955",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "BMG_Bund",
+                "name": "BMG",
+                "id": 2478349112,
+                "id_str": "2478349112",
+                "indices": [
+                    10,
+                    19
+                ]
+            },
+            {
+                "screen_name": "jensspahn",
+                "name": "Jens Spahn",
+                "id": 299650387,
+                "id_str": "299650387",
+                "indices": [
+                    20,
+                    30
+                ]
+            },
+            {
+                "screen_name": "BMG_Bund",
+                "name": "BMG",
+                "id": 2478349112,
+                "id_str": "2478349112",
+                "indices": [
+                    58,
+                    67
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820808271"
+}

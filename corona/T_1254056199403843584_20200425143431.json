@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:34:31 +0000 2020",
+    "id": 1254056199403843584,
+    "id_str": "1254056199403843584",
+    "text": "@Brandao_Lari10 Tudo depende do Corona kkkk",
+    "display_text_range": [
+        16,
+        43
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254046849058643973,
+    "in_reply_to_status_id_str": "1254046849058643973",
+    "in_reply_to_user_id": 1245698508713349122,
+    "in_reply_to_user_id_str": "1245698508713349122",
+    "in_reply_to_screen_name": "Brandao_Lari10",
+    "user": {
+        "id": 1078303558787842048,
+        "id_str": "1078303558787842048",
+        "name": "NAIRÃO 💕",
+        "screen_name": "Cunha_155",
+        "location": "Belford Roxo, Brasil",
+        "url": null,
+        "description": "Eu sou uma pessoa simples, com emoções e pensamentos complicados 😑 / Mamãe do Kauan 💙 / Meus Eternos Meninos Eduardo, Ariel e David 👼❤",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 229,
+        "friends_count": 178,
+        "listed_count": 0,
+        "favourites_count": 11231,
+        "statuses_count": 5692,
+        "created_at": "Thu Dec 27 14:56:17 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248941186884214785/5o5rX-Ng_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248941186884214785/5o5rX-Ng_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078303558787842048/1586376265",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7343e9c57b3427b5",
+        "url": "https://api.twitter.com/1.1/geo/id/7343e9c57b3427b5.json",
+        "place_type": "city",
+        "name": "Belford Roxo",
+        "full_name": "Belford Roxo, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -43.434094,
+                        -22.777657
+                    ],
+                    [
+                        -43.434094,
+                        -22.679759
+                    ],
+                    [
+                        -43.319562,
+                        -22.679759
+                    ],
+                    [
+                        -43.319562,
+                        -22.777657
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Brandao_Lari10",
+                "name": "Lari BRANDÃO💕",
+                "id": 1245698508713349122,
+                "id_str": "1245698508713349122",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587825271832"
+}

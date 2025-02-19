@@ -1,0 +1,118 @@
+{
+    "created_at": "Sat Apr 25 14:02:24 +0000 2020",
+    "id": 1254048113611939840,
+    "id_str": "1254048113611939840",
+    "text": "@simultorian @ultrabreit @JKraschl @jana_hensel Hoffentlich regelt Corona das Problem Walther nachhaltig.",
+    "display_text_range": [
+        48,
+        105
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254046282232061952,
+    "in_reply_to_status_id_str": "1254046282232061952",
+    "in_reply_to_user_id": 1147867482939711490,
+    "in_reply_to_user_id_str": "1147867482939711490",
+    "in_reply_to_screen_name": "simultorian",
+    "user": {
+        "id": 60906493,
+        "id_str": "60906493",
+        "name": "Negrorojoydorado",
+        "screen_name": "MaxE83",
+        "location": "Europa",
+        "url": null,
+        "description": "Alter weißer Mann knapp über 30. Flüchtlingskrisen- und genderfaschismusbedingter Steueroasenmigrant.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 7,
+        "listed_count": 1,
+        "favourites_count": 172,
+        "statuses_count": 627,
+        "created_at": "Tue Jul 28 13:44:04 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "simultorian",
+                "name": "Bianca Walther",
+                "id": 1147867482939711490,
+                "id_str": "1147867482939711490",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "ultrabreit",
+                "name": "Reinhard Breitner",
+                "id": 732175702078935040,
+                "id_str": "732175702078935040",
+                "indices": [
+                    13,
+                    24
+                ]
+            },
+            {
+                "screen_name": "JKraschl",
+                "name": "Dominikus J. Kraschl OFM",
+                "id": 1218608855321542656,
+                "id_str": "1218608855321542656",
+                "indices": [
+                    25,
+                    34
+                ]
+            },
+            {
+                "screen_name": "jana_hensel",
+                "name": "Jana Hensel",
+                "id": 2585450642,
+                "id_str": "2585450642",
+                "indices": [
+                    35,
+                    47
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823344029"
+}

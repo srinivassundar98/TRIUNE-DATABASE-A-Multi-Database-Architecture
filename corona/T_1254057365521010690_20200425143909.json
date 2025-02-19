@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 14:39:09 +0000 2020",
+    "id": 1254057365521010690,
+    "id_str": "1254057365521010690",
+    "text": "@SF_Moro A crítica que fica é: Por que não impediu que cidadãos de bem fossem presos como criminosos, simplesmente… https://t.co/QABlMfZVwJ",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254055900781973504,
+    "in_reply_to_status_id_str": "1254055900781973504",
+    "in_reply_to_user_id": 1113094855281008641,
+    "in_reply_to_user_id_str": "1113094855281008641",
+    "in_reply_to_screen_name": "SF_Moro",
+    "user": {
+        "id": 1115097487092613121,
+        "id_str": "1115097487092613121",
+        "name": "Renan do Val",
+        "screen_name": "Renan22380633",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 64,
+        "listed_count": 0,
+        "favourites_count": 128,
+        "statuses_count": 22,
+        "created_at": "Mon Apr 08 03:42:13 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115098174400663553/wWnXLNql_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115098174400663553/wWnXLNql_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@SF_Moro A crítica que fica é: Por que não impediu que cidadãos de bem fossem presos como criminosos, simplesmente por saírem de casa? Por que não criticou os governadores que liberaram presos de alta periculosidade sob a desculpa do corona?",
+        "display_text_range": [
+            9,
+            241
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SF_Moro",
+                    "name": "Sergio Moro",
+                    "id": 1113094855281008641,
+                    "id_str": "1113094855281008641",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/QABlMfZVwJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254057365521010690",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "SF_Moro",
+                "name": "Sergio Moro",
+                "id": 1113094855281008641,
+                "id_str": "1113094855281008641",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587825549856"
+}

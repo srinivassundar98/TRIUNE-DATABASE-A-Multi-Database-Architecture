@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 13:39:39 +0000 2020",
+    "id": 1254042389561384960,
+    "id_str": "1254042389561384960",
+    "text": "@envanliglarare @papandersson @motbilder Det är det väl ingen som sagt att det är heller.\nCorona drabbar många männ… https://t.co/8f9OWAOA7p",
+    "display_text_range": [
+        41,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254011748392321026,
+    "in_reply_to_status_id_str": "1254011748392321026",
+    "in_reply_to_user_id": 1074859179536351232,
+    "in_reply_to_user_id_str": "1074859179536351232",
+    "in_reply_to_screen_name": "envanliglarare",
+    "user": {
+        "id": 3087482853,
+        "id_str": "3087482853",
+        "name": "Slukhål",
+        "screen_name": "slukhal",
+        "location": null,
+        "url": "http://radio.alltatalla.se",
+        "description": "| MS PAINT! | Evolutionsbiologi | Vad sägs om lite gammal hederlig follow4follow? | Multinörd | Gör podd med @trojkan1337, lyssna på Eld och rörelse! |",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 326,
+        "friends_count": 421,
+        "listed_count": 1,
+        "favourites_count": 2404,
+        "statuses_count": 4281,
+        "created_at": "Wed Mar 11 21:16:06 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575767824339095552/olahVZ6Y_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575767824339095552/olahVZ6Y_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3087482853/1580056906",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@envanliglarare @papandersson @motbilder Det är det väl ingen som sagt att det är heller.\nCorona drabbar många människor på trista sätt.\n\nJust skattesmitarna är det dock inte synd om.",
+        "display_text_range": [
+            41,
+            183
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "envanliglarare",
+                    "name": "envanliglärare",
+                    "id": 1074859179536351232,
+                    "id_str": "1074859179536351232",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "papandersson",
+                    "name": "Pappa 'Pappa' Andersson",
+                    "id": 858047028,
+                    "id_str": "858047028",
+                    "indices": [
+                        16,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "motbilder",
+                    "name": "Hampus Eckerman",
+                    "id": 171591936,
+                    "id_str": "171591936",
+                    "indices": [
+                        30,
+                        40
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/8f9OWAOA7p",
+                "expanded_url": "https://twitter.com/i/web/status/1254042389561384960",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "envanliglarare",
+                "name": "envanliglärare",
+                "id": 1074859179536351232,
+                "id_str": "1074859179536351232",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "papandersson",
+                "name": "Pappa 'Pappa' Andersson",
+                "id": 858047028,
+                "id_str": "858047028",
+                "indices": [
+                    16,
+                    29
+                ]
+            },
+            {
+                "screen_name": "motbilder",
+                "name": "Hampus Eckerman",
+                "id": 171591936,
+                "id_str": "171591936",
+                "indices": [
+                    30,
+                    40
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587821979309"
+}

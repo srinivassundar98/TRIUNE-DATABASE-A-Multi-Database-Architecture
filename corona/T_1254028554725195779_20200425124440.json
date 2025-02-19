@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 12:44:40 +0000 2020",
+    "id": 1254028554725195779,
+    "id_str": "1254028554725195779",
+    "text": "Still no fans due to corona https://t.co/fHiuEWYPP7",
+    "display_text_range": [
+        0,
+        27
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1025092013077786624,
+        "id_str": "1025092013077786624",
+        "name": "Nikolai ₩ 🇩🇰 〽️",
+        "screen_name": "AFCNikolai",
+        "location": "Neverland, Samoa",
+        "url": "https://orcd.co/adhd",
+        "description": "│ ❤️@Jess_mufc_❤️ │ @Niklas_utd @AFCKylian7 @mendySZN23 @Essos_SZN\n│ @JoynerLucas #FNG @LilSkies, i have never taken an L before",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1250,
+        "friends_count": 3122,
+        "listed_count": 3,
+        "favourites_count": 12824,
+        "statuses_count": 8926,
+        "created_at": "Thu Aug 02 18:52:35 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251946535849545731/pc3SkAXq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251946535849545731/pc3SkAXq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025092013077786624/1587595949",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254028541244641280,
+                "id_str": "1254028541244641280",
+                "indices": [
+                    28,
+                    51
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc0UGsWkAAfdFV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc0UGsWkAAfdFV.jpg",
+                "url": "https://t.co/fHiuEWYPP7",
+                "display_url": "pic.twitter.com/fHiuEWYPP7",
+                "expanded_url": "https://twitter.com/AFCNikolai/status/1254028554725195779/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254028541244641280,
+                "id_str": "1254028541244641280",
+                "indices": [
+                    28,
+                    51
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc0UGsWkAAfdFV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc0UGsWkAAfdFV.jpg",
+                "url": "https://t.co/fHiuEWYPP7",
+                "display_url": "pic.twitter.com/fHiuEWYPP7",
+                "expanded_url": "https://twitter.com/AFCNikolai/status/1254028554725195779/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818680827"
+}

@@ -1,0 +1,139 @@
+{
+    "created_at": "Sun Apr 12 18:40:51 +0000 2020",
+    "id": 1249407146560835587,
+    "id_str": "1249407146560835587",
+    "text": "Corona hat die Menschen in Leid, Schmerz und Panik versetzt, vielleicht so werden sie Buße tun und Gott allein dien… https://t.co/3VDg1d4rjb",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1242510219604885505,
+        "id_str": "1242510219604885505",
+        "name": "Moataz El-Ansary",
+        "screen_name": "moataz_elAnsary",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 83,
+        "friends_count": 190,
+        "listed_count": 0,
+        "favourites_count": 494,
+        "statuses_count": 910,
+        "created_at": "Tue Mar 24 17:55:07 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242510571494391808/ZnUbohCe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242510571494391808/ZnUbohCe_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01d0cd182297354e",
+        "url": "https://api.twitter.com/1.1/geo/id/01d0cd182297354e.json",
+        "place_type": "admin",
+        "name": "Cairo",
+        "full_name": "Cairo, Egypt",
+        "country_code": "EG",
+        "country": "Egypt",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        31.200959,
+                        28.963851
+                    ],
+                    [
+                        31.200959,
+                        30.228647
+                    ],
+                    [
+                        31.940253,
+                        30.228647
+                    ],
+                    [
+                        31.940253,
+                        28.963851
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Corona hat die Menschen in Leid, Schmerz und Panik versetzt, vielleicht so werden sie Buße tun und Gott allein dienen und kein Partner neben ihm nehmen\".\n\nImam Nasser Mohammed El-Yemeni\n05.03.2020 AD\nhttps://t.co/y9DaLSBZs3…\nHappy Easter\nYemen\nCOVID19\nCORONA\nعيد سعيد\nخليك بالبيت",
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/y9DaLSBZs3",
+                    "expanded_url": "http://bushra-islamia.com/showthread.php",
+                    "display_url": "bushra-islamia.com/showthread.php",
+                    "indices": [
+                        200,
+                        223
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/3VDg1d4rjb",
+                "expanded_url": "https://twitter.com/i/web/status/1249407146560835587",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716851259"
+}

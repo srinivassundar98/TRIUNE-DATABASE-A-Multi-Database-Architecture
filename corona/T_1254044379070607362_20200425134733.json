@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:47:33 +0000 2020",
+    "id": 1254044379070607362,
+    "id_str": "1254044379070607362",
+    "text": "●Corona Breaking● https://t.co/NqQpYBtOSA",
+    "display_text_range": [
+        0,
+        17
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1231056321341984768,
+        "id_str": "1231056321341984768",
+        "name": "Ourdabhoi",
+        "screen_name": "ourdabhoi",
+        "location": "Dabhoi, India",
+        "url": null,
+        "description": "News | food | stories | advertising | Instagram : https://instagram.com/ourdabhoi?igshid=4ggdx86evyf3 Facebook : https://www.facebook.com/officialourdabhoi/",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 41,
+        "friends_count": 17,
+        "listed_count": 0,
+        "favourites_count": 79,
+        "statuses_count": 81,
+        "created_at": "Sat Feb 22 03:21:36 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247111853643198465/y-glcRkP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247111853643198465/y-glcRkP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231056321341984768/1586170259",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254044325542936576,
+                "id_str": "1254044325542936576",
+                "indices": [
+                    18,
+                    41
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdCq3yUwAAp5Rv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdCq3yUwAAp5Rv.jpg",
+                "url": "https://t.co/NqQpYBtOSA",
+                "display_url": "pic.twitter.com/NqQpYBtOSA",
+                "expanded_url": "https://twitter.com/ourdabhoi/status/1254044379070607362/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254044325542936576,
+                "id_str": "1254044325542936576",
+                "indices": [
+                    18,
+                    41
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdCq3yUwAAp5Rv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdCq3yUwAAp5Rv.jpg",
+                "url": "https://t.co/NqQpYBtOSA",
+                "display_url": "pic.twitter.com/NqQpYBtOSA",
+                "expanded_url": "https://twitter.com/ourdabhoi/status/1254044379070607362/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822453645"
+}

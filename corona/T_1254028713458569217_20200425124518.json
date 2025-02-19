@@ -1,0 +1,165 @@
+{
+    "created_at": "Sat Apr 25 12:45:18 +0000 2020",
+    "id": 1254028713458569217,
+    "id_str": "1254028713458569217",
+    "text": "@TB_Times This is such bullshit on so many levels— my husband has been unemployed because of Corona for over a mont… https://t.co/lPnEvuMsAB",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253995834259243008,
+    "in_reply_to_status_id_str": "1253995834259243008",
+    "in_reply_to_user_id": 14304462,
+    "in_reply_to_user_id_str": "14304462",
+    "in_reply_to_screen_name": "TB_Times",
+    "user": {
+        "id": 29556266,
+        "id_str": "29556266",
+        "name": "Melissa Ramsey",
+        "screen_name": "MissyCamp06",
+        "location": "Tampa Bay",
+        "url": null,
+        "description": "Notorious RT",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 96,
+        "friends_count": 205,
+        "listed_count": 5,
+        "favourites_count": 145,
+        "statuses_count": 1523,
+        "created_at": "Tue Apr 07 21:53:37 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "C12283",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2336766333/k66ugnnwj62an4k2n1u9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2336766333/k66ugnnwj62an4k2n1u9_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29556266/1474239832",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01b3cd14363fbf47",
+        "url": "https://api.twitter.com/1.1/geo/id/01b3cd14363fbf47.json",
+        "place_type": "city",
+        "name": "Odessa",
+        "full_name": "Odessa, FL",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -82.601125,
+                        28.17245
+                    ],
+                    [
+                        -82.601125,
+                        28.215289
+                    ],
+                    [
+                        -82.515685,
+                        28.215289
+                    ],
+                    [
+                        -82.515685,
+                        28.17245
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@TB_Times This is such bullshit on so many levels— my husband has been unemployed because of Corona for over a month &amp; unemployment is STILL PENDING thanks to a crap system this man implemented. Trust me he’d RATHER be working &amp; hates sitting at home. @SenRickScott",
+        "display_text_range": [
+            10,
+            273
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TB_Times",
+                    "name": "Tampa Bay Times",
+                    "id": 14304462,
+                    "id_str": "14304462",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "SenRickScott",
+                    "name": "Rick Scott",
+                    "id": 131546062,
+                    "id_str": "131546062",
+                    "indices": [
+                        260,
+                        273
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/lPnEvuMsAB",
+                "expanded_url": "https://twitter.com/i/web/status/1254028713458569217",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "TB_Times",
+                "name": "Tampa Bay Times",
+                "id": 14304462,
+                "id_str": "14304462",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818718672"
+}

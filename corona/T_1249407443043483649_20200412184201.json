@@ -1,0 +1,156 @@
+{
+    "created_at": "Sun Apr 12 18:42:01 +0000 2020",
+    "id": 1249407443043483649,
+    "id_str": "1249407443043483649",
+    "text": "\"Yo no quiero regresar a la vida diaria antes del #COVID19.\"¹\nSí al trabajo y al rendimiento con las competencias p… https://t.co/coo37obmFu",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1218881384598687745,
+        "id_str": "1218881384598687745",
+        "name": "Herr Guillen, Eduardo.",
+        "screen_name": "EGuillenInside",
+        "location": "🇩🇪Berlin, Deutschland",
+        "url": "https://www.linkedin.com/in/ing-eduardo-guillen",
+        "description": "All cancelled due 😷 #CONVID19/NoHateSpeech😷\nTweets geben meine rein persönliche Meinung wieder.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 38,
+        "friends_count": 367,
+        "listed_count": 0,
+        "favourites_count": 1517,
+        "statuses_count": 1485,
+        "created_at": "Sun Jan 19 13:02:56 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242053586080739330/8akk5S3i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242053586080739330/8akk5S3i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1218881384598687745/1585732398",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3078869807f9dd36",
+        "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+        "place_type": "city",
+        "name": "Berlin",
+        "full_name": "Berlin, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        13.088304,
+                        52.338079
+                    ],
+                    [
+                        13.088304,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.338079
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "\"Yo no quiero regresar a la vida diaria antes del #COVID19.\"¹\nSí al trabajo y al rendimiento con las competencias profesionales, personales, sociales y culturales.\nNo al \"yo, yo y yo primero\"; al poco solidarismo, al olvidarnos del mundo que nos rodea.\n\n ¹https://t.co/FQBWGR111F",
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        50,
+                        58
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/FQBWGR111F",
+                    "expanded_url": "https://amp.welt.de/politik/deutschland/article207175779/Corona-Krise-Ich-moechte-eigentlich-gar-nicht-den-Alltag-den-wir-vorher-hatten.html?__twitter_impression=true",
+                    "display_url": "amp.welt.de/politik/deutsc…",
+                    "indices": [
+                        256,
+                        279
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    50,
+                    58
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/coo37obmFu",
+                "expanded_url": "https://twitter.com/i/web/status/1249407443043483649",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1586716921946"
+}

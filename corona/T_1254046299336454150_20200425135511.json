@@ -1,0 +1,253 @@
+{
+    "created_at": "Sat Apr 25 13:55:11 +0000 2020",
+    "id": 1254046299336454150,
+    "id_str": "1254046299336454150",
+    "text": "Very sad news that As Cashier of #BISP program got #Corona test ±ve at Tando Allahayar. This was anticipated by the… https://t.co/u4aMqwxKNF",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1176866140427042817,
+        "id_str": "1176866140427042817",
+        "name": "Subhan Rind",
+        "screen_name": "rind_subhan",
+        "location": null,
+        "url": null,
+        "description": "Bhuttoism is a philosophy; an ideology that heals the wounds of sad & supressed humanity (NA208)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 170,
+        "friends_count": 396,
+        "listed_count": 0,
+        "favourites_count": 4535,
+        "statuses_count": 1462,
+        "created_at": "Wed Sep 25 14:29:21 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230410359003062272/WL9Jh6qc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230410359003062272/WL9Jh6qc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176866140427042817/1581615211",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0120615153b21abb",
+        "url": "https://api.twitter.com/1.1/geo/id/0120615153b21abb.json",
+        "place_type": "admin",
+        "name": "Sindh",
+        "full_name": "Sindh, Pakistan",
+        "country_code": "PK",
+        "country": "Pakistan",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        66.654132,
+                        23.703272
+                    ],
+                    [
+                        66.654132,
+                        28.529442
+                    ],
+                    [
+                        71.124185,
+                        28.529442
+                    ],
+                    [
+                        71.124185,
+                        23.703272
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Very sad news that As Cashier of #BISP program got #Corona test ±ve at Tando Allahayar. This was anticipated by the peoples party leadership a month before, Imran Govt has risked thousands of lives across Pakistan. 8n future such infections likely to take place.\n@ShahNafisa https://t.co/2xDRXMVoi6",
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BISP",
+                    "indices": [
+                        33,
+                        38
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        51,
+                        58
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ShahNafisa",
+                    "name": "Nafisa Shah",
+                    "id": 1582096902,
+                    "id_str": "1582096902",
+                    "indices": [
+                        263,
+                        274
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254046211650260993,
+                    "id_str": "1254046211650260993",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdEYqFWkAEsWVE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdEYqFWkAEsWVE.jpg",
+                    "url": "https://t.co/2xDRXMVoi6",
+                    "display_url": "pic.twitter.com/2xDRXMVoi6",
+                    "expanded_url": "https://twitter.com/rind_subhan/status/1254046299336454150/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 544,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254046211650260993,
+                    "id_str": "1254046211650260993",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdEYqFWkAEsWVE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdEYqFWkAEsWVE.jpg",
+                    "url": "https://t.co/2xDRXMVoi6",
+                    "display_url": "pic.twitter.com/2xDRXMVoi6",
+                    "expanded_url": "https://twitter.com/rind_subhan/status/1254046299336454150/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 544,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BISP",
+                "indices": [
+                    33,
+                    38
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    51,
+                    58
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/u4aMqwxKNF",
+                "expanded_url": "https://twitter.com/i/web/status/1254046299336454150",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822911472"
+}

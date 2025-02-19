@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:41:38 +0000 2020",
+    "id": 1249407346272501765,
+    "id_str": "1249407346272501765",
+    "text": "@MADDilette Ich hoffe, Frau @SeyranAtes hat Ertem reportet. \nWarum geht Fasel-Ertem nicht einfach in das Land, was… https://t.co/EYSmNBLbrQ",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1248632778863849472,
+    "in_reply_to_status_id_str": "1248632778863849472",
+    "in_reply_to_user_id": 1062664101015502849,
+    "in_reply_to_user_id_str": "1062664101015502849",
+    "in_reply_to_screen_name": "MADDilette",
+    "user": {
+        "id": 342314681,
+        "id_str": "342314681",
+        "name": "⚜ Jay-Jay Ledoux⚜   🇨🇦",
+        "screen_name": "JayJay85L",
+        "location": "Germany and Canada",
+        "url": null,
+        "description": "People may shape us or break us, but at the end they make us who we are. Canadian expat, severely disabled. Dr. med. sc. Psychology, University of Muenster, GER",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 321,
+        "friends_count": 266,
+        "listed_count": 18,
+        "favourites_count": 11738,
+        "statuses_count": 32042,
+        "created_at": "Mon Jul 25 20:28:32 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "5A5EE6",
+        "profile_sidebar_border_color": "474BBF",
+        "profile_sidebar_fill_color": "F0F0FF",
+        "profile_text_color": "0D1F85",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1086743100813443072/ovsQI8q6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086743100813443072/ovsQI8q6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342314681/1348277732",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@MADDilette Ich hoffe, Frau @SeyranAtes hat Ertem reportet. \nWarum geht Fasel-Ertem nicht einfach in das Land, was gerade gar keine Probleme mit Corona hat: Erdoletten-Land.",
+        "display_text_range": [
+            12,
+            173
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MADDilette",
+                    "name": "Μυrκs ιη Lειευηε 💬",
+                    "id": 1062664101015502849,
+                    "id_str": "1062664101015502849",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "SeyranAtes",
+                    "name": "Seyran Ates",
+                    "id": 1477599013,
+                    "id_str": "1477599013",
+                    "indices": [
+                        28,
+                        39
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/EYSmNBLbrQ",
+                "expanded_url": "https://twitter.com/i/web/status/1249407346272501765",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MADDilette",
+                "name": "Μυrκs ιη Lειευηε 💬",
+                "id": 1062664101015502849,
+                "id_str": "1062664101015502849",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "SeyranAtes",
+                "name": "Seyran Ates",
+                "id": 1477599013,
+                "id_str": "1477599013",
+                "indices": [
+                    28,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716898874"
+}

@@ -1,0 +1,96 @@
+{
+    "created_at": "Sat Apr 25 14:28:06 +0000 2020",
+    "id": 1254054584542277632,
+    "id_str": "1254054584542277632",
+    "text": "Mehrere Hundert Menschen nahmen an der verbotenen Demo in Berlin teil. https://t.co/49fh6Vyy9f via @focusonline",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1495938012,
+        "id_str": "1495938012",
+        "name": "wfischer",
+        "screen_name": "wofido",
+        "location": "Dortmund",
+        "url": null,
+        "description": "Jegliches hat seine Zeit",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 35,
+        "friends_count": 525,
+        "listed_count": 6,
+        "favourites_count": 3246,
+        "statuses_count": 10729,
+        "created_at": "Sun Jun 09 16:04:27 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "19CF86",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/887730308757565445/dlvYq-Ek_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/887730308757565445/dlvYq-Ek_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495938012/1587637275",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/49fh6Vyy9f",
+                "expanded_url": "https://www.focus.de/politik/deutschland/demos-nehmen-wieder-zu-der-aufstand-der-corona-wutbuerger-ploetzlich-bilden-linke-und-rechte-gemeinsame-front_id_11921895.html?pos=11921888",
+                "display_url": "focus.de/politik/deutsc…",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "focusonline",
+                "name": "FOCUS Online",
+                "id": 5494392,
+                "id_str": "5494392",
+                "indices": [
+                    99,
+                    111
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824886819"
+}

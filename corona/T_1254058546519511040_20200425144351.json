@@ -1,0 +1,289 @@
+{
+    "created_at": "Sat Apr 25 14:43:51 +0000 2020",
+    "id": 1254058546519511040,
+    "id_str": "1254058546519511040",
+    "text": "Saludamos desde @ucubusiness a @CENTRUMcatolica @CentrumThink    por la obtención de su triple corona en acreditaci… https://t.co/UCAGGyrmrt",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1560963438,
+        "id_str": "1560963438",
+        "name": "Marcos Soto",
+        "screen_name": "marcossotouy",
+        "location": "Montevideo, Uruguay",
+        "url": "http://www.csconsultores.com.uy",
+        "description": "Sócio @CSC_Uruguay. Director @UCUBusiness. Contador MBA. Mis opiniones son solo eso. No hay alegria sin dolor y todavía falta lo mejor. En todo amar y servir.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2175,
+        "friends_count": 1275,
+        "listed_count": 11,
+        "favourites_count": 8177,
+        "statuses_count": 5371,
+        "created_at": "Mon Jul 01 16:57:55 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174629893704994816/koklz0pW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174629893704994816/koklz0pW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560963438/1537711260",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01a9dbb9232f0fac",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+        "place_type": "admin",
+        "name": "Montevideo",
+        "full_name": "Montevideo, Uruguay",
+        "country_code": "UY",
+        "country": "Uruguay",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -56.430439,
+                        -34.937896
+                    ],
+                    [
+                        -56.430439,
+                        -34.701599
+                    ],
+                    [
+                        -56.029341,
+                        -34.701599
+                    ],
+                    [
+                        -56.029341,
+                        -34.937896
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Saludamos desde @ucubusiness a @CENTRUMcatolica @CentrumThink    por la obtención de su triple corona en acreditaciones internacionales. Hito histórico en la educación en #Peru. \n\nCon #Centrum nos une visión común como Escuelas de Negocios y proyectos de interacción académica. https://t.co/VtdFMxKObA",
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Peru",
+                    "indices": [
+                        171,
+                        176
+                    ]
+                },
+                {
+                    "text": "Centrum",
+                    "indices": [
+                        184,
+                        192
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ucubusiness",
+                    "name": "UCU Business School",
+                    "id": 391657028,
+                    "id_str": "391657028",
+                    "indices": [
+                        16,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "CENTRUMcatolica",
+                    "name": "CENTRUM PUCP",
+                    "id": 29757238,
+                    "id_str": "29757238",
+                    "indices": [
+                        31,
+                        47
+                    ]
+                },
+                {
+                    "screen_name": "CentrumThink",
+                    "name": "CENTRUM Think",
+                    "id": 1106246104985698304,
+                    "id_str": "1106246104985698304",
+                    "indices": [
+                        48,
+                        61
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254058539791900672,
+                    "id_str": "1254058539791900672",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdPmP_XYAAFHEL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdPmP_XYAAFHEL.jpg",
+                    "url": "https://t.co/VtdFMxKObA",
+                    "display_url": "pic.twitter.com/VtdFMxKObA",
+                    "expanded_url": "https://twitter.com/marcossotouy/status/1254058546519511040/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254058539791900672,
+                    "id_str": "1254058539791900672",
+                    "indices": [
+                        278,
+                        301
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdPmP_XYAAFHEL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdPmP_XYAAFHEL.jpg",
+                    "url": "https://t.co/VtdFMxKObA",
+                    "display_url": "pic.twitter.com/VtdFMxKObA",
+                    "expanded_url": "https://twitter.com/marcossotouy/status/1254058546519511040/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1600,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/UCAGGyrmrt",
+                "expanded_url": "https://twitter.com/i/web/status/1254058546519511040",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ucubusiness",
+                "name": "UCU Business School",
+                "id": 391657028,
+                "id_str": "391657028",
+                "indices": [
+                    16,
+                    28
+                ]
+            },
+            {
+                "screen_name": "CENTRUMcatolica",
+                "name": "CENTRUM PUCP",
+                "id": 29757238,
+                "id_str": "29757238",
+                "indices": [
+                    31,
+                    47
+                ]
+            },
+            {
+                "screen_name": "CentrumThink",
+                "name": "CENTRUM Think",
+                "id": 1106246104985698304,
+                "id_str": "1106246104985698304",
+                "indices": [
+                    48,
+                    61
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587825831428"
+}

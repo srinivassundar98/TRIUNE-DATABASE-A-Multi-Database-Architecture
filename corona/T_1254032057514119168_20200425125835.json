@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Apr 25 12:58:35 +0000 2020",
+    "id": 1254032057514119168,
+    "id_str": "1254032057514119168",
+    "text": "Kerjaan yg tdk kwatir gaji berkurang di masa pandemi corona?",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1556993534,
+        "id_str": "1556993534",
+        "name": "Muhammad Akhsan",
+        "screen_name": "m_akhsand",
+        "location": "Gunungkidul, Yogyakarta",
+        "url": null,
+        "description": "Nothing !!!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 129,
+        "friends_count": 155,
+        "listed_count": 1,
+        "favourites_count": 195,
+        "statuses_count": 2909,
+        "created_at": "Sun Jun 30 02:12:28 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFDF7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "EB0927",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/462623870663409664/FN7UPL13_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/462623870663409664/FN7UPL13_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556993534/1412772402",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "f48804e2e35d1099",
+        "url": "https://api.twitter.com/1.1/geo/id/f48804e2e35d1099.json",
+        "place_type": "city",
+        "name": "Pasar Minggu",
+        "full_name": "Pasar Minggu, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.812497,
+                        -6.324587
+                    ],
+                    [
+                        106.812497,
+                        -6.262399
+                    ],
+                    [
+                        106.863013,
+                        -6.262399
+                    ],
+                    [
+                        106.863013,
+                        -6.324587
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819515957"
+}

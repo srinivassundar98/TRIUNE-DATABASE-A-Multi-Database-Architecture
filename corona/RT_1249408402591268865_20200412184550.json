@@ -1,0 +1,723 @@
+{
+    "created_at": "Sun Apr 12 18:45:50 +0000 2020",
+    "id": 1249408402591268865,
+    "id_str": "1249408402591268865",
+    "text": "RT @Francolinie: @robertjensen @davidicke Zelfs verbannen van @Vimeo en dat is opmerkelijk want dat was het alternatief voor verwijderde @y…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 433346035,
+        "id_str": "433346035",
+        "name": "Ruben Helder",
+        "screen_name": "LagestreepRuben",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 256,
+        "friends_count": 15,
+        "listed_count": 0,
+        "favourites_count": 371,
+        "statuses_count": 9506,
+        "created_at": "Sat Dec 10 13:06:08 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240690718886199302/G3eMcCNp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240690718886199302/G3eMcCNp_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Apr 09 22:05:53 +0000 2020",
+        "id": 1248371581342158848,
+        "id_str": "1248371581342158848",
+        "text": "@robertjensen @davidicke Zelfs verbannen van @Vimeo en dat is opmerkelijk want dat was het alternatief voor verwijd… https://t.co/4qAIQP6nib",
+        "display_text_range": [
+            25,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1248351489560584194,
+        "in_reply_to_status_id_str": "1248351489560584194",
+        "in_reply_to_user_id": 121374117,
+        "in_reply_to_user_id_str": "121374117",
+        "in_reply_to_screen_name": "robertjensen",
+        "user": {
+            "id": 846068634,
+            "id_str": "846068634",
+            "name": "Frank - Фрэнк gab.ai 🚜",
+            "screen_name": "Francolinie",
+            "location": "Multiversum",
+            "url": null,
+            "description": "Linkse sprookjes, rechtse waarheden ©®™️",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3502,
+            "friends_count": 3297,
+            "listed_count": 37,
+            "favourites_count": 2519,
+            "statuses_count": 115138,
+            "created_at": "Tue Sep 25 19:13:43 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3103955343/413a881a6c63e36b3c8b222057e39806_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3103955343/413a881a6c63e36b3c8b222057e39806_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/846068634/1352058091",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1248350805826187265,
+        "quoted_status_id_str": "1248350805826187265",
+        "quoted_status": {
+            "created_at": "Thu Apr 09 20:43:20 +0000 2020",
+            "id": 1248350805826187265,
+            "id_str": "1248350805826187265",
+            "text": "\"Zuid korea: verband gevonden tussen Corona en 5g\".\n\nArtikel heeft enkele momenten op de #televaag gestaan, maar ie… https://t.co/smjZOYWbjG",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 846068634,
+                "id_str": "846068634",
+                "name": "Frank - Фрэнк gab.ai 🚜",
+                "screen_name": "Francolinie",
+                "location": "Multiversum",
+                "url": null,
+                "description": "Linkse sprookjes, rechtse waarheden ©®™️",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 3502,
+                "friends_count": 3297,
+                "listed_count": 37,
+                "favourites_count": 2519,
+                "statuses_count": 115138,
+                "created_at": "Tue Sep 25 19:13:43 +0000 2012",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3103955343/413a881a6c63e36b3c8b222057e39806_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3103955343/413a881a6c63e36b3c8b222057e39806_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/846068634/1352058091",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "\"Zuid korea: verband gevonden tussen Corona en 5g\".\n\nArtikel heeft enkele momenten op de #televaag gestaan, maar iemand had gelukkig al een screenshot gemaakt.\nPrecies ook wat @davidicke in zijn interview van 6 april jl. heeft verteld.\nDe puzzelstukjes vallen steeds meer samen. https://t.co/A9oJyI3WU3",
+                "display_text_range": [
+                    0,
+                    278
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "televaag",
+                            "indices": [
+                                89,
+                                98
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "davidicke",
+                            "name": "David Icke",
+                            "id": 66643970,
+                            "id_str": "66643970",
+                            "indices": [
+                                176,
+                                186
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1248350800109277184,
+                            "id_str": "1248350800109277184",
+                            "indices": [
+                                279,
+                                302
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVMIcEuWkAAp3-8.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVMIcEuWkAAp3-8.jpg",
+                            "url": "https://t.co/A9oJyI3WU3",
+                            "display_url": "pic.twitter.com/A9oJyI3WU3",
+                            "expanded_url": "https://twitter.com/Francolinie/status/1248350805826187265/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 960,
+                                    "h": 547,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 960,
+                                    "h": 547,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 387,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1248350800109277184,
+                            "id_str": "1248350800109277184",
+                            "indices": [
+                                279,
+                                302
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVMIcEuWkAAp3-8.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVMIcEuWkAAp3-8.jpg",
+                            "url": "https://t.co/A9oJyI3WU3",
+                            "display_url": "pic.twitter.com/A9oJyI3WU3",
+                            "expanded_url": "https://twitter.com/Francolinie/status/1248350805826187265/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 960,
+                                    "h": 547,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 960,
+                                    "h": 547,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 387,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 18,
+            "reply_count": 14,
+            "retweet_count": 37,
+            "favorite_count": 38,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "televaag",
+                        "indices": [
+                            89,
+                            98
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/smjZOYWbjG",
+                        "expanded_url": "https://twitter.com/i/web/status/1248350805826187265",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/ds2zwEq4nj",
+            "expanded": "https://twitter.com/Francolinie/status/1248350805826187265?s=19",
+            "display": "twitter.com/Francolinie/st…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "@robertjensen @davidicke Zelfs verbannen van @Vimeo en dat is opmerkelijk want dat was het alternatief voor verwijderde @youtube content. \nDe strijd om de Nieuwe Wereld Orde is zo lijkt het is volle gang.\n\nhttps://t.co/ds2zwEq4nj",
+            "display_text_range": [
+                25,
+                229
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ds2zwEq4nj",
+                        "expanded_url": "https://twitter.com/Francolinie/status/1248350805826187265?s=19",
+                        "display_url": "twitter.com/Francolinie/st…",
+                        "indices": [
+                            206,
+                            229
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "robertjensen",
+                        "name": "Robert Jensen",
+                        "id": 121374117,
+                        "id_str": "121374117",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "davidicke",
+                        "name": "David Icke",
+                        "id": 66643970,
+                        "id_str": "66643970",
+                        "indices": [
+                            14,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "Vimeo",
+                        "name": "Vimeo",
+                        "id": 14718218,
+                        "id_str": "14718218",
+                        "indices": [
+                            45,
+                            51
+                        ]
+                    },
+                    {
+                        "screen_name": "YouTube",
+                        "name": "YouTube at 🏠",
+                        "id": 10228272,
+                        "id_str": "10228272",
+                        "indices": [
+                            120,
+                            128
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 17,
+        "favorite_count": 26,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4qAIQP6nib",
+                    "expanded_url": "https://twitter.com/i/web/status/1248371581342158848",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "robertjensen",
+                    "name": "Robert Jensen",
+                    "id": 121374117,
+                    "id_str": "121374117",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "davidicke",
+                    "name": "David Icke",
+                    "id": 66643970,
+                    "id_str": "66643970",
+                    "indices": [
+                        14,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "Vimeo",
+                    "name": "Vimeo",
+                    "id": 14718218,
+                    "id_str": "14718218",
+                    "indices": [
+                        45,
+                        51
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_id": 1248350805826187265,
+    "quoted_status_id_str": "1248350805826187265",
+    "quoted_status": {
+        "created_at": "Thu Apr 09 20:43:20 +0000 2020",
+        "id": 1248350805826187265,
+        "id_str": "1248350805826187265",
+        "text": "\"Zuid korea: verband gevonden tussen Corona en 5g\".\n\nArtikel heeft enkele momenten op de #televaag gestaan, maar ie… https://t.co/smjZOYWbjG",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 846068634,
+            "id_str": "846068634",
+            "name": "Frank - Фрэнк gab.ai 🚜",
+            "screen_name": "Francolinie",
+            "location": "Multiversum",
+            "url": null,
+            "description": "Linkse sprookjes, rechtse waarheden ©®™️",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3502,
+            "friends_count": 3297,
+            "listed_count": 37,
+            "favourites_count": 2519,
+            "statuses_count": 115138,
+            "created_at": "Tue Sep 25 19:13:43 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3103955343/413a881a6c63e36b3c8b222057e39806_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3103955343/413a881a6c63e36b3c8b222057e39806_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/846068634/1352058091",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "\"Zuid korea: verband gevonden tussen Corona en 5g\".\n\nArtikel heeft enkele momenten op de #televaag gestaan, maar iemand had gelukkig al een screenshot gemaakt.\nPrecies ook wat @davidicke in zijn interview van 6 april jl. heeft verteld.\nDe puzzelstukjes vallen steeds meer samen. https://t.co/A9oJyI3WU3",
+            "display_text_range": [
+                0,
+                278
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "televaag",
+                        "indices": [
+                            89,
+                            98
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "davidicke",
+                        "name": "David Icke",
+                        "id": 66643970,
+                        "id_str": "66643970",
+                        "indices": [
+                            176,
+                            186
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1248350800109277184,
+                        "id_str": "1248350800109277184",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVMIcEuWkAAp3-8.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVMIcEuWkAAp3-8.jpg",
+                        "url": "https://t.co/A9oJyI3WU3",
+                        "display_url": "pic.twitter.com/A9oJyI3WU3",
+                        "expanded_url": "https://twitter.com/Francolinie/status/1248350805826187265/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 960,
+                                "h": 547,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 547,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 387,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1248350800109277184,
+                        "id_str": "1248350800109277184",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVMIcEuWkAAp3-8.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVMIcEuWkAAp3-8.jpg",
+                        "url": "https://t.co/A9oJyI3WU3",
+                        "display_url": "pic.twitter.com/A9oJyI3WU3",
+                        "expanded_url": "https://twitter.com/Francolinie/status/1248350805826187265/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 960,
+                                "h": 547,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 960,
+                                "h": 547,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 387,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 18,
+        "reply_count": 14,
+        "retweet_count": 37,
+        "favorite_count": 38,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "televaag",
+                    "indices": [
+                        89,
+                        98
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/smjZOYWbjG",
+                    "expanded_url": "https://twitter.com/i/web/status/1248350805826187265",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/ds2zwEq4nj",
+        "expanded": "https://twitter.com/Francolinie/status/1248350805826187265?s=19",
+        "display": "twitter.com/Francolinie/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Francolinie",
+                "name": "Frank - Фрэнк gab.ai 🚜",
+                "id": 846068634,
+                "id_str": "846068634",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "robertjensen",
+                "name": "Robert Jensen",
+                "id": 121374117,
+                "id_str": "121374117",
+                "indices": [
+                    17,
+                    30
+                ]
+            },
+            {
+                "screen_name": "davidicke",
+                "name": "David Icke",
+                "id": 66643970,
+                "id_str": "66643970",
+                "indices": [
+                    31,
+                    41
+                ]
+            },
+            {
+                "screen_name": "Vimeo",
+                "name": "Vimeo",
+                "id": 14718218,
+                "id_str": "14718218",
+                "indices": [
+                    62,
+                    68
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586717150720"
+}

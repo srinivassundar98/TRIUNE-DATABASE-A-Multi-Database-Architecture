@@ -1,0 +1,181 @@
+{
+    "created_at": "Sat Apr 25 14:20:14 +0000 2020",
+    "id": 1254052604742688769,
+    "id_str": "1254052604742688769",
+    "text": "@wahibhaq @vannsl Currently PEPP-PT is driven by almost only one person.\nDP3T and other solutions make much more se… https://t.co/pYGAY3e4yJ",
+    "display_text_range": [
+        18,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254051974053494784,
+    "in_reply_to_status_id_str": "1254051974053494784",
+    "in_reply_to_user_id": 115635864,
+    "in_reply_to_user_id_str": "115635864",
+    "in_reply_to_screen_name": "wahibhaq",
+    "user": {
+        "id": 1151291137,
+        "id_str": "1151291137",
+        "name": "Daniel Ruf",
+        "screen_name": "DanielRufde",
+        "location": "Germany",
+        "url": "https://daniel-ruf.de",
+        "description": "software developer @bitexpert, @hackerstolz and much more, see http://github.com/DanielRuf\nsoulmate: @YashimikiHanori",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2537,
+        "friends_count": 1343,
+        "listed_count": 504,
+        "favourites_count": 7263,
+        "statuses_count": 11905,
+        "created_at": "Tue Feb 05 15:55:46 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "499BEA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/920734674376384513/-6BIc4mB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/920734674376384513/-6BIc4mB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1151291137/1402597333",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@wahibhaq @vannsl Currently PEPP-PT is driven by almost only one person.\nDP3T and other solutions make much more sense.\n\nhttps://t.co/icr3g4joKy\nhttps://t.co/jdYSga1mfo\nhttps://t.co/T5LpTwtVQB\nhttps://t.co/4vzJicag2d",
+        "display_text_range": [
+            18,
+            216
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/icr3g4joKy",
+                    "expanded_url": "https://nadim.computer/posts/2020-04-17-pepppt.html",
+                    "display_url": "nadim.computer/posts/2020-04-…",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                },
+                {
+                    "url": "https://t.co/jdYSga1mfo",
+                    "expanded_url": "https://www.reporter-ohne-grenzen.de/pressemitteilungen/meldung/missbrauch-verhindern/",
+                    "display_url": "reporter-ohne-grenzen.de/pressemitteilu…",
+                    "indices": [
+                        145,
+                        168
+                    ]
+                },
+                {
+                    "url": "https://t.co/T5LpTwtVQB",
+                    "expanded_url": "https://www.ccc.de/de/updates/2020/corona-tracing-app-offener-brief-an-bundeskanzleramt-und-gesundheitsminister",
+                    "display_url": "ccc.de/de/updates/202…",
+                    "indices": [
+                        169,
+                        192
+                    ]
+                },
+                {
+                    "url": "https://t.co/4vzJicag2d",
+                    "expanded_url": "https://www.ccc.de/system/uploads/300/original/Offener_Brief_Corona_App_BMG.pdf",
+                    "display_url": "ccc.de/system/uploads…",
+                    "indices": [
+                        193,
+                        216
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "wahibhaq",
+                    "name": "Wahib",
+                    "id": 115635864,
+                    "id_str": "115635864",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "vannsl",
+                    "name": "Vanessa Böhner",
+                    "id": 1649921030,
+                    "id_str": "1649921030",
+                    "indices": [
+                        10,
+                        17
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/pYGAY3e4yJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254052604742688769",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "wahibhaq",
+                "name": "Wahib",
+                "id": 115635864,
+                "id_str": "115635864",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "vannsl",
+                "name": "Vanessa Böhner",
+                "id": 1649921030,
+                "id_str": "1649921030",
+                "indices": [
+                    10,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824414798"
+}

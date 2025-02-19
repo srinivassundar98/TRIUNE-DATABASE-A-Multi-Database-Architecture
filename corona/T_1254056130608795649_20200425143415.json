@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:34:15 +0000 2020",
+    "id": 1254056130608795649,
+    "id_str": "1254056130608795649",
+    "text": "@Gigi_Bianconero @faznet Das schon, meine Frau ist wegen Corona arbeitslos geworden das ist auch bitter! Ich glaube… https://t.co/KAJXdvsvgK",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254053566005772289,
+    "in_reply_to_status_id_str": "1254053566005772289",
+    "in_reply_to_user_id": 951243026,
+    "in_reply_to_user_id_str": "951243026",
+    "in_reply_to_screen_name": "Gigi_Bianconero",
+    "user": {
+        "id": 958014606051631111,
+        "id_str": "958014606051631111",
+        "name": "MajorTom🚀",
+        "screen_name": "spotifymusik1",
+        "location": "Hessen",
+        "url": null,
+        "description": "🚀This is Major Tom to Ground Control\nI'm stepping through the door\nAnd I'm floating in a most peculiar way\nAnd the stars look very different today",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 66,
+        "friends_count": 412,
+        "listed_count": 0,
+        "favourites_count": 5119,
+        "statuses_count": 7677,
+        "created_at": "Mon Jan 29 16:30:55 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971062936771973120/is9RNGsn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971062936771973120/is9RNGsn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/958014606051631111/1559989211",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Gigi_Bianconero @faznet Das schon, meine Frau ist wegen Corona arbeitslos geworden das ist auch bitter! Ich glaube die Welt wird nicht mehr so sein wie wir sie kannten.",
+        "display_text_range": [
+            25,
+            169
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Gigi_Bianconero",
+                    "name": "Gigi",
+                    "id": 951243026,
+                    "id_str": "951243026",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "faznet",
+                    "name": "Frankfurter Allgemeine",
+                    "id": 18047862,
+                    "id_str": "18047862",
+                    "indices": [
+                        17,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/KAJXdvsvgK",
+                "expanded_url": "https://twitter.com/i/web/status/1254056130608795649",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Gigi_Bianconero",
+                "name": "Gigi",
+                "id": 951243026,
+                "id_str": "951243026",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "faznet",
+                "name": "Frankfurter Allgemeine",
+                "id": 18047862,
+                "id_str": "18047862",
+                "indices": [
+                    17,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587825255430"
+}

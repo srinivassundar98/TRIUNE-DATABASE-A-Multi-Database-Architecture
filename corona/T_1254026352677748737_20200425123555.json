@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:35:55 +0000 2020",
+    "id": 1254026352677748737,
+    "id_str": "1254026352677748737",
+    "text": "@DLFNachrichten Das ist meines Erachtens keine so gute Idee: https://t.co/WttMOzuYXc",
+    "display_text_range": [
+        16,
+        84
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254020535199113216,
+    "in_reply_to_status_id_str": "1254020535199113216",
+    "in_reply_to_user_id": 4202151411,
+    "in_reply_to_user_id_str": "4202151411",
+    "in_reply_to_screen_name": "DLFNachrichten",
+    "user": {
+        "id": 1147440774788911105,
+        "id_str": "1147440774788911105",
+        "name": "MoEl",
+        "screen_name": "ElangoMohanara1",
+        "location": null,
+        "url": null,
+        "description": "Arzt, Allgemeine Innere Medizin, Arbeitsmedizin, Kardiologie, Herzchirurgie, Intensivmedizin, Notfallmedizin, ACLS, AHLS, Master MHC",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 132,
+        "listed_count": 0,
+        "favourites_count": 111,
+        "statuses_count": 608,
+        "created_at": "Sat Jul 06 09:42:53 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245586591113809920/zh1V1kJ0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245586591113809920/zh1V1kJ0_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/WttMOzuYXc",
+                "expanded_url": "https://www.tagesschau.de/investigativ/ndr/corona-zahlen-heime-103.html",
+                "display_url": "tagesschau.de/investigativ/n…",
+                "indices": [
+                    61,
+                    84
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DLFNachrichten",
+                "name": "Die Nachrichten",
+                "id": 4202151411,
+                "id_str": "4202151411",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818155818"
+}

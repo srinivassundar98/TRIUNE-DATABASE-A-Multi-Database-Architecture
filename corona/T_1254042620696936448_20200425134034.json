@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 13:40:34 +0000 2020",
+    "id": 1254042620696936448,
+    "id_str": "1254042620696936448",
+    "text": "@AnonTwitDude @GadSaad @realDonaldTrump And Hitler was also a human being. I guess we should all become dogs and we… https://t.co/WFAbjOqA7D",
+    "display_text_range": [
+        40,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254041463765241857,
+    "in_reply_to_status_id_str": "1254041463765241857",
+    "in_reply_to_user_id": 782696393005682688,
+    "in_reply_to_user_id_str": "782696393005682688",
+    "in_reply_to_screen_name": "AnonTwitDude",
+    "user": {
+        "id": 1252800557993070592,
+        "id_str": "1252800557993070592",
+        "name": "Danymite Kid",
+        "screen_name": "DanymiteKid",
+        "location": null,
+        "url": null,
+        "description": "My pronouns are Boom/Ka-Boom 🧨",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 44,
+        "listed_count": 0,
+        "favourites_count": 65,
+        "statuses_count": 41,
+        "created_at": "Wed Apr 22 03:25:15 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252801140732854272/-GyXWIMw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252801140732854272/-GyXWIMw_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@AnonTwitDude @GadSaad @realDonaldTrump And Hitler was also a human being. I guess we should all become dogs and wear a dress from now on. Plus, I heard dogs can't get the corona virus. I now identify as a dress wearing dog, and because I identify as such, that means I really am one.",
+        "display_text_range": [
+            40,
+            284
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AnonTwitDude",
+                    "name": "AverageGuy",
+                    "id": 782696393005682688,
+                    "id_str": "782696393005682688",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "GadSaad",
+                    "name": "Gad Saad",
+                    "id": 116579971,
+                    "id_str": "116579971",
+                    "indices": [
+                        14,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        23,
+                        39
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/WFAbjOqA7D",
+                "expanded_url": "https://twitter.com/i/web/status/1254042620696936448",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AnonTwitDude",
+                "name": "AverageGuy",
+                "id": 782696393005682688,
+                "id_str": "782696393005682688",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "GadSaad",
+                "name": "Gad Saad",
+                "id": 116579971,
+                "id_str": "116579971",
+                "indices": [
+                    14,
+                    22
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    23,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822034416"
+}

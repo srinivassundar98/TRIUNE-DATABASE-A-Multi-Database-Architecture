@@ -1,0 +1,150 @@
+{
+    "created_at": "Sat Apr 25 12:47:56 +0000 2020",
+    "id": 1254029376540282880,
+    "id_str": "1254029376540282880",
+    "text": "@Rakesh72574577 @rakeshpuri649 मजदूरों को सूचित किया जाता है कि उनकी गिनती इंसानो में नही होती है क्योंकि वो गरीब… https://t.co/U0ovh253Lw",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254019157923975168,
+    "in_reply_to_status_id_str": "1254019157923975168",
+    "in_reply_to_user_id": 1253275387561275392,
+    "in_reply_to_user_id_str": "1253275387561275392",
+    "in_reply_to_screen_name": "Rakesh72574577",
+    "user": {
+        "id": 1251876825896062977,
+        "id_str": "1251876825896062977",
+        "name": "Suresh choudhary Loroli",
+        "screen_name": "ChoudharyLoroli",
+        "location": "Karimnagar, India",
+        "url": null,
+        "description": "Suresh Choudhary",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 28,
+        "listed_count": 0,
+        "favourites_count": 22,
+        "statuses_count": 11,
+        "created_at": "Sun Apr 19 14:14:41 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251877069950078977/hrGrkXSe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251877069950078977/hrGrkXSe_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Rakesh72574577 @rakeshpuri649 मजदूरों को सूचित किया जाता है कि उनकी गिनती इंसानो में नही होती है क्योंकि वो गरीब के बच्चे है इसलिए जहां हो वही रहो जिंदा बचे तो पदयात्रा कर लेना, अभी देश की तमाम सरकारें अमीरजादों की सेवा में व्यस्त है। जब ट्रेन चलेगा तो आपको हुए असुविधा के लिए खेद व्यक्त कर लेंगे। #Corona",
+        "display_text_range": [
+            31,
+            306
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        299,
+                        306
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Rakesh72574577",
+                    "name": "Rakesh",
+                    "id": 1253275387561275392,
+                    "id_str": "1253275387561275392",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "rakeshpuri649",
+                    "name": "Rakesh Puri Goswami",
+                    "id": 2708615672,
+                    "id_str": "2708615672",
+                    "indices": [
+                        16,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/U0ovh253Lw",
+                "expanded_url": "https://twitter.com/i/web/status/1254029376540282880",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Rakesh72574577",
+                "name": "Rakesh",
+                "id": 1253275387561275392,
+                "id_str": "1253275387561275392",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "rakeshpuri649",
+                "name": "Rakesh Puri Goswami",
+                "id": 2708615672,
+                "id_str": "2708615672",
+                "indices": [
+                    16,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587818876763"
+}

@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 13:53:46 +0000 2020",
+    "id": 1254045943705538560,
+    "id_str": "1254045943705538560",
+    "text": "@ncortese99 @soupcivilian @danorlovsky7 Howie has Corona",
+    "display_text_range": [
+        40,
+        56
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254045795650764802,
+    "in_reply_to_status_id_str": "1254045795650764802",
+    "in_reply_to_user_id": 2615433484,
+    "in_reply_to_user_id_str": "2615433484",
+    "in_reply_to_screen_name": "ncortese99",
+    "user": {
+        "id": 425163077,
+        "id_str": "425163077",
+        "name": "Nicholas Knights",
+        "screen_name": "_Nick_Knights",
+        "location": "Washington Township, NJ",
+        "url": null,
+        "description": "BSN, RN",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 408,
+        "friends_count": 396,
+        "listed_count": 4,
+        "favourites_count": 3517,
+        "statuses_count": 15770,
+        "created_at": "Wed Nov 30 16:57:37 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148039974861836289/MEc_vdSp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148039974861836289/MEc_vdSp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/425163077/1578781590",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ncortese99",
+                "name": "Fat Mac",
+                "id": 2615433484,
+                "id_str": "2615433484",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "soupcivilian",
+                "name": "zachary",
+                "id": 137475920,
+                "id_str": "137475920",
+                "indices": [
+                    12,
+                    25
+                ]
+            },
+            {
+                "screen_name": "danorlovsky7",
+                "name": "Dan Orlovsky",
+                "id": 322826289,
+                "id_str": "322826289",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pl",
+    "timestamp_ms": "1587822826683"
+}

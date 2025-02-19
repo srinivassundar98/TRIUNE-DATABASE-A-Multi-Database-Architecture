@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 14:08:06 +0000 2020",
+    "id": 1254049549565468678,
+    "id_str": "1254049549565468678",
+    "text": "@AngelikaKnig9 Das ist überholt. Euromomo zeigt, dass die Mortalität auf das Zehnfache gestiegen ist https://t.co/KiZyi2rADd",
+    "display_text_range": [
+        15,
+        124
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1252158231746617344,
+    "in_reply_to_status_id_str": "1252158231746617344",
+    "in_reply_to_user_id": 1221012234241040389,
+    "in_reply_to_user_id_str": "1221012234241040389",
+    "in_reply_to_screen_name": "AngelikaKnig9",
+    "user": {
+        "id": 144271397,
+        "id_str": "144271397",
+        "name": "#SocialDistancing 🎼 Mo♫ika ♬aria",
+        "screen_name": "3mausimhaus",
+        "location": "Germany- Frankfurt/ Bergstraße",
+        "url": null,
+        "description": "Private tweets. Professor in Economics, Logistics & SCM; PhD of Scotland; Industry 4.0. Grandmom of Theo. Mom of @a0085913 and @JanineMTweets. Wife of Männe.",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7966,
+        "friends_count": 5944,
+        "listed_count": 242,
+        "favourites_count": 255722,
+        "statuses_count": 176688,
+        "created_at": "Sat May 15 20:17:34 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F2C6F1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DB63E6",
+        "profile_text_color": "2832A1",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230240803039186944/89g-edgk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230240803039186944/89g-edgk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/144271397/1582147240",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/KiZyi2rADd",
+                "expanded_url": "https://www.faz.net/2.1652/europaeische-statistik-corona-ist-toedlicher-als-die-grippe-16740477.html",
+                "display_url": "faz.net/2.1652/europae…",
+                "indices": [
+                    101,
+                    124
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AngelikaKnig9",
+                "name": "Angelika König",
+                "id": 1221012234241040389,
+                "id_str": "1221012234241040389",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823686387"
+}

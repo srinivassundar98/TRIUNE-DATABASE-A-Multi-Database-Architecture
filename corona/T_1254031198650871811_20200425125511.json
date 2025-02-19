@@ -1,0 +1,234 @@
+{
+    "created_at": "Sat Apr 25 12:55:11 +0000 2020",
+    "id": 1254031198650871811,
+    "id_str": "1254031198650871811",
+    "text": "@Tejas04718726 @Thedecentone3 @jamnagarrdx @sardesairajdeep @MumbaiPolice I have never seen any person asking relig… https://t.co/6nqJ7rmFUK",
+    "display_text_range": [
+        74,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254030383940694017,
+    "in_reply_to_status_id_str": "1254030383940694017",
+    "in_reply_to_user_id": 1199639367746080773,
+    "in_reply_to_user_id_str": "1199639367746080773",
+    "in_reply_to_screen_name": "Tejas04718726",
+    "user": {
+        "id": 3268330598,
+        "id_str": "3268330598",
+        "name": "Partha Narayan Dash",
+        "screen_name": "ParthaNarayan",
+        "location": "Mumbai, India",
+        "url": null,
+        "description": "Working Cost and Management Accountant",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 298,
+        "friends_count": 732,
+        "listed_count": 3,
+        "favourites_count": 27388,
+        "statuses_count": 13513,
+        "created_at": "Sat Jul 04 17:55:24 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/768889339610705920/dTND6s4B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/768889339610705920/dTND6s4B_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7929cea6bd5b32bd",
+        "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+        "place_type": "city",
+        "name": "Mumbai",
+        "full_name": "Mumbai, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        72.74484,
+                        18.845343
+                    ],
+                    [
+                        72.74484,
+                        19.502937
+                    ],
+                    [
+                        73.003648,
+                        19.502937
+                    ],
+                    [
+                        73.003648,
+                        18.845343
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Tejas04718726 @Thedecentone3 @jamnagarrdx @sardesairajdeep @MumbaiPolice I have never seen any person asking religion of any sales agent.Fact is that salesman in Delhi,Agra,Kanpur became spreader of Corona.Each person has right to live peacefully.",
+        "display_text_range": [
+            74,
+            248
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Tejas04718726",
+                    "name": "Name",
+                    "id": 1199639367746080773,
+                    "id_str": "1199639367746080773",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "Thedecentone3",
+                    "name": "Thedecent1🇮🇳",
+                    "id": 1103700003875254272,
+                    "id_str": "1103700003875254272",
+                    "indices": [
+                        15,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "jamnagarrdx",
+                    "name": "ruchir@home",
+                    "id": 2882490847,
+                    "id_str": "2882490847",
+                    "indices": [
+                        30,
+                        42
+                    ]
+                },
+                {
+                    "screen_name": "sardesairajdeep",
+                    "name": "Rajdeep Sardesai",
+                    "id": 56304605,
+                    "id_str": "56304605",
+                    "indices": [
+                        43,
+                        59
+                    ]
+                },
+                {
+                    "screen_name": "MumbaiPolice",
+                    "name": "Mumbai Police",
+                    "id": 4573405572,
+                    "id_str": "4573405572",
+                    "indices": [
+                        60,
+                        73
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/6nqJ7rmFUK",
+                "expanded_url": "https://twitter.com/i/web/status/1254031198650871811",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Tejas04718726",
+                "name": "Name",
+                "id": 1199639367746080773,
+                "id_str": "1199639367746080773",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Thedecentone3",
+                "name": "Thedecent1🇮🇳",
+                "id": 1103700003875254272,
+                "id_str": "1103700003875254272",
+                "indices": [
+                    15,
+                    29
+                ]
+            },
+            {
+                "screen_name": "jamnagarrdx",
+                "name": "ruchir@home",
+                "id": 2882490847,
+                "id_str": "2882490847",
+                "indices": [
+                    30,
+                    42
+                ]
+            },
+            {
+                "screen_name": "sardesairajdeep",
+                "name": "Rajdeep Sardesai",
+                "id": 56304605,
+                "id_str": "56304605",
+                "indices": [
+                    43,
+                    59
+                ]
+            },
+            {
+                "screen_name": "MumbaiPolice",
+                "name": "Mumbai Police",
+                "id": 4573405572,
+                "id_str": "4573405572",
+                "indices": [
+                    60,
+                    73
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819311188"
+}

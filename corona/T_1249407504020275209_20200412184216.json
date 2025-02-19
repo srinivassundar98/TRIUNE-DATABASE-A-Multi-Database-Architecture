@@ -1,0 +1,123 @@
+{
+    "created_at": "Sun Apr 12 18:42:16 +0000 2020",
+    "id": 1249407504020275209,
+    "id_str": "1249407504020275209",
+    "text": "@GVerdacht Neulich, vor Corona, auf einer internationalen Messe. Stand eines ungarischen Anbieters.\nFrage: „Wie bew… https://t.co/5M8AWxTopv",
+    "display_text_range": [
+        11,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249371261450489864,
+    "in_reply_to_status_id_str": "1249371261450489864",
+    "in_reply_to_user_id": 1188877326928547840,
+    "in_reply_to_user_id_str": "1188877326928547840",
+    "in_reply_to_screen_name": "GVerdacht",
+    "user": {
+        "id": 910513739547496448,
+        "id_str": "910513739547496448",
+        "name": "ThemRRRoc Klarname Botnetzki",
+        "screen_name": "Themrrroc",
+        "location": "Litauen",
+        "url": null,
+        "description": "Unternehmer, AWM, Liberaler im Wortsinne. Meint ständig den strengen Geruch Braunkohlebrand und Zweitaktabgasen in der Nase zu haben. http://gab.ai/themrrroc",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 633,
+        "friends_count": 973,
+        "listed_count": 6,
+        "favourites_count": 20009,
+        "statuses_count": 33226,
+        "created_at": "Wed Sep 20 14:39:26 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010112404682952704/C9iZ9D8o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010112404682952704/C9iZ9D8o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/910513739547496448/1582928481",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@GVerdacht Neulich, vor Corona, auf einer internationalen Messe. Stand eines ungarischen Anbieters.\nFrage: „Wie bewerten Sie denn die politische Situation in Ungarn?“\nAntwort: „Natürlich ist Orban ein bisschen komisch. Aber die ständige Dresche der westlichen Medien ist irre, er ist ./..",
+        "display_text_range": [
+            11,
+            288
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "GVerdacht",
+                    "name": "General Verdacht",
+                    "id": 1188877326928547840,
+                    "id_str": "1188877326928547840",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/5M8AWxTopv",
+                "expanded_url": "https://twitter.com/i/web/status/1249407504020275209",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "GVerdacht",
+                "name": "General Verdacht",
+                "id": 1188877326928547840,
+                "id_str": "1188877326928547840",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716936484"
+}

@@ -1,0 +1,165 @@
+{
+    "created_at": "Sat Apr 25 13:38:06 +0000 2020",
+    "id": 1254041999881076738,
+    "id_str": "1254041999881076738",
+    "text": "dgn displin menerapkan PSBB, yakin bs hentikan corona #DisiplinKunciHadapiCorona https://t.co/S4mD5WV0dY",
+    "display_text_range": [
+        0,
+        80
+    ],
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1236848031883915269,
+        "id_str": "1236848031883915269",
+        "name": "Bunga Nur Salihah",
+        "screen_name": "BungaSalihah",
+        "location": "sukabumi",
+        "url": null,
+        "description": "bodoamat gak perduli, dan ga mau mikirin",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 11,
+        "friends_count": 15,
+        "listed_count": 0,
+        "favourites_count": 9,
+        "statuses_count": 48,
+        "created_at": "Mon Mar 09 02:55:28 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236848253309575169/NISqVfuo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236848253309575169/NISqVfuo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236848031883915269/1583722728",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "DisiplinKunciHadapiCorona",
+                "indices": [
+                    54,
+                    80
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254041996278108161,
+                "id_str": "1254041996278108161",
+                "indices": [
+                    81,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdAjSmUEAEeOsi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdAjSmUEAEeOsi.jpg",
+                "url": "https://t.co/S4mD5WV0dY",
+                "display_url": "pic.twitter.com/S4mD5WV0dY",
+                "expanded_url": "https://twitter.com/BungaSalihah/status/1254041999881076738/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1062,
+                        "h": 1045,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 669,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1062,
+                        "h": 1045,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254041996278108161,
+                "id_str": "1254041996278108161",
+                "indices": [
+                    81,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdAjSmUEAEeOsi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdAjSmUEAEeOsi.jpg",
+                "url": "https://t.co/S4mD5WV0dY",
+                "display_url": "pic.twitter.com/S4mD5WV0dY",
+                "expanded_url": "https://twitter.com/BungaSalihah/status/1254041999881076738/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1062,
+                        "h": 1045,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 669,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1062,
+                        "h": 1045,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587821886402"
+}

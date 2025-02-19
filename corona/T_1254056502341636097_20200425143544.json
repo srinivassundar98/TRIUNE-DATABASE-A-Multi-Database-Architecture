@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 14:35:44 +0000 2020",
+    "id": 1254056502341636097,
+    "id_str": "1254056502341636097",
+    "text": "Murió otro vecino y ya son 53 los casos de coronavirus en Quilmes https://t.co/ZpVfh7cijt https://t.co/Tm26c1zZ9i",
+    "display_text_range": [
+        0,
+        89
+    ],
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2249544410,
+        "id_str": "2249544410",
+        "name": "El Progreso",
+        "screen_name": "ElProgresoBera",
+        "location": "Berazategui, Buenos Aires, Arg",
+        "url": "http://www.periodicoelprogreso.com",
+        "description": "Berazategui - Noticias - Información",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3159,
+        "friends_count": 636,
+        "listed_count": 20,
+        "favourites_count": 2750,
+        "statuses_count": 26494,
+        "created_at": "Tue Dec 17 00:38:29 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "CC5414",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238969680112599047/7ocptg0E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238969680112599047/7ocptg0E_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2249544410/1584615086",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ZpVfh7cijt",
+                "expanded_url": "https://www.periodicoelprogreso.com/quilmes-coronavirus-infectados/64610/2020/",
+                "display_url": "periodicoelprogreso.com/quilmes-corona…",
+                "indices": [
+                    66,
+                    89
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254056500428967936,
+                "id_str": "1254056500428967936",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdNvixWkAAqy4M.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdNvixWkAAqy4M.jpg",
+                "url": "https://t.co/Tm26c1zZ9i",
+                "display_url": "pic.twitter.com/Tm26c1zZ9i",
+                "expanded_url": "https://twitter.com/ElProgresoBera/status/1254056502341636097/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254056500428967936,
+                "id_str": "1254056500428967936",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdNvixWkAAqy4M.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdNvixWkAAqy4M.jpg",
+                "url": "https://t.co/Tm26c1zZ9i",
+                "display_url": "pic.twitter.com/Tm26c1zZ9i",
+                "expanded_url": "https://twitter.com/ElProgresoBera/status/1254056502341636097/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587825344058"
+}

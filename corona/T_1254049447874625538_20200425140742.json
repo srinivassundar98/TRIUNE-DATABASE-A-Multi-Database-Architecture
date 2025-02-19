@@ -1,0 +1,174 @@
+{
+    "created_at": "Sat Apr 25 14:07:42 +0000 2020",
+    "id": 1254049447874625538,
+    "id_str": "1254049447874625538",
+    "text": "@LiveToSustain @kaleekreider @MichaelEMann This has been disproven. Nature is quite capable of doing weird shit lik… https://t.co/W2WAEuuxWE",
+    "display_text_range": [
+        43,
+        140
+    ],
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253858269430349824,
+    "in_reply_to_status_id_str": "1253858269430349824",
+    "in_reply_to_user_id": 1034906080843718656,
+    "in_reply_to_user_id_str": "1034906080843718656",
+    "in_reply_to_screen_name": "LiveToSustain",
+    "user": {
+        "id": 238718627,
+        "id_str": "238718627",
+        "name": "Dr. Katiesci",
+        "screen_name": "katiesci",
+        "location": null,
+        "url": null,
+        "description": "Previously a neuroscientist, now I write stuff in industry. Most of my tweets are about science, some are personal and, hopefully, some are funny.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3132,
+        "friends_count": 500,
+        "listed_count": 166,
+        "favourites_count": 14373,
+        "statuses_count": 73430,
+        "created_at": "Sat Jan 15 21:39:19 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/439535431814619137/Tc-ZGuT1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/439535431814619137/Tc-ZGuT1_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/238718627/1380926971",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@LiveToSustain @kaleekreider @MichaelEMann This has been disproven. Nature is quite capable of doing weird shit like this. \n\n https://t.co/1jnX4rDmFN",
+        "display_text_range": [
+            43,
+            149
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1jnX4rDmFN",
+                    "expanded_url": "https://www.sciencenews.org/article/coronavirus-covid-19-not-human-made-lab-genetic-analysis-nature",
+                    "display_url": "sciencenews.org/article/corona…",
+                    "indices": [
+                        126,
+                        149
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "LiveToSustain",
+                    "name": "livetosustain",
+                    "id": 1034906080843718656,
+                    "id_str": "1034906080843718656",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "kaleekreider",
+                    "name": "Kalee Kreider",
+                    "id": 71832238,
+                    "id_str": "71832238",
+                    "indices": [
+                        15,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "MichaelEMann",
+                    "name": "Michael E. Mann",
+                    "id": 384923143,
+                    "id_str": "384923143",
+                    "indices": [
+                        29,
+                        42
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/W2WAEuuxWE",
+                "expanded_url": "https://twitter.com/i/web/status/1254049447874625538",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "LiveToSustain",
+                "name": "livetosustain",
+                "id": 1034906080843718656,
+                "id_str": "1034906080843718656",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "kaleekreider",
+                "name": "Kalee Kreider",
+                "id": 71832238,
+                "id_str": "71832238",
+                "indices": [
+                    15,
+                    28
+                ]
+            },
+            {
+                "screen_name": "MichaelEMann",
+                "name": "Michael E. Mann",
+                "id": 384923143,
+                "id_str": "384923143",
+                "indices": [
+                    29,
+                    42
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823662142"
+}

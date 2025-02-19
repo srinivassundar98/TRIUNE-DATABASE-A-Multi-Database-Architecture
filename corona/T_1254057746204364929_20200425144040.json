@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:40:40 +0000 2020",
+    "id": 1254057746204364929,
+    "id_str": "1254057746204364929",
+    "text": "@piersmorgan @FT Good old Boris Johnson , blustering in January and February and most of March because he wasn't co… https://t.co/Zk2DsKwHs5",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254040635348262912,
+    "in_reply_to_status_id_str": "1254040635348262912",
+    "in_reply_to_user_id": 216299334,
+    "in_reply_to_user_id_str": "216299334",
+    "in_reply_to_screen_name": "piersmorgan",
+    "user": {
+        "id": 154299738,
+        "id_str": "154299738",
+        "name": "Brent R Daggett",
+        "screen_name": "brent7272",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 43,
+        "listed_count": 0,
+        "favourites_count": 78,
+        "statuses_count": 33,
+        "created_at": "Thu Jun 10 22:12:02 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/579230865097682944/mscSew3N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/579230865097682944/mscSew3N_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/154299738/1383251302",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@piersmorgan @FT Good old Boris Johnson , blustering in January and February and most of March because he wasn't concentrating on his job , he went missing on the floods and then on the Corona virus until he thought about being Priministerial eventually after Cheltenham! Shocking.",
+        "display_text_range": [
+            17,
+            281
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "piersmorgan",
+                    "name": "Piers Morgan",
+                    "id": 216299334,
+                    "id_str": "216299334",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "FT",
+                    "name": "Financial Times",
+                    "id": 18949452,
+                    "id_str": "18949452",
+                    "indices": [
+                        13,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Zk2DsKwHs5",
+                "expanded_url": "https://twitter.com/i/web/status/1254057746204364929",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "piersmorgan",
+                "name": "Piers Morgan",
+                "id": 216299334,
+                "id_str": "216299334",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "FT",
+                "name": "Financial Times",
+                "id": 18949452,
+                "id_str": "18949452",
+                "indices": [
+                    13,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825640618"
+}

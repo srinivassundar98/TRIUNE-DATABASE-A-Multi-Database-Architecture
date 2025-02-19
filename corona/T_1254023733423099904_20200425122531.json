@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 12:25:31 +0000 2020",
+    "id": 1254023733423099904,
+    "id_str": "1254023733423099904",
+    "text": "@Babu_Bhaiyaa @realDonaldTrump @TripleH Ye corona ise le dubega aane wale election me..",
+    "display_text_range": [
+        40,
+        87
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254022887297576960,
+    "in_reply_to_status_id_str": "1254022887297576960",
+    "in_reply_to_user_id": 392773603,
+    "in_reply_to_user_id_str": "392773603",
+    "in_reply_to_screen_name": "Babu_Bhaiyaa",
+    "user": {
+        "id": 1612919701,
+        "id_str": "1612919701",
+        "name": "देव जी",
+        "screen_name": "DevCavaliers",
+        "location": "udaipur, Rajasthan",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 41,
+        "friends_count": 438,
+        "listed_count": 0,
+        "favourites_count": 2456,
+        "statuses_count": 445,
+        "created_at": "Mon Jul 22 13:58:38 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091000684453847040/lM2OdhEC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091000684453847040/lM2OdhEC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612919701/1454864085",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Babu_Bhaiyaa",
+                "name": "Paresh Rawal fan",
+                "id": 392773603,
+                "id_str": "392773603",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    14,
+                    30
+                ]
+            },
+            {
+                "screen_name": "TripleH",
+                "name": "Triple H",
+                "id": 355708717,
+                "id_str": "355708717",
+                "indices": [
+                    31,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817531339"
+}

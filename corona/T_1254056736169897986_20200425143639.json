@@ -1,0 +1,200 @@
+{
+    "created_at": "Sat Apr 25 14:36:39 +0000 2020",
+    "id": 1254056736169897986,
+    "id_str": "1254056736169897986",
+    "text": "@jeomaltd @fopara03 @iykimo Stop doing this to me. In this Corona time. That's totally unfair. https://t.co/gBWxh5QQN7",
+    "display_text_range": [
+        28,
+        94
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253956841714966534,
+    "in_reply_to_status_id_str": "1253956841714966534",
+    "in_reply_to_user_id": 813192637,
+    "in_reply_to_user_id_str": "813192637",
+    "in_reply_to_screen_name": "jeomaltd",
+    "user": {
+        "id": 140664141,
+        "id_str": "140664141",
+        "name": "Chimaobi Ugochukwu",
+        "screen_name": "CJ_Ugochukwu",
+        "location": "London, UK",
+        "url": null,
+        "description": "Take the Whole World and give me JESUS",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1187,
+        "friends_count": 1297,
+        "listed_count": 13,
+        "favourites_count": 6399,
+        "statuses_count": 12564,
+        "created_at": "Thu May 06 03:08:26 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251537095832883200/_v_hs2nO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251537095832883200/_v_hs2nO_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "jeomaltd",
+                "name": "Inyangaeze",
+                "id": 813192637,
+                "id_str": "813192637",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "fopara03",
+                "name": "Frank Opara",
+                "id": 2839642433,
+                "id_str": "2839642433",
+                "indices": [
+                    10,
+                    19
+                ]
+            },
+            {
+                "screen_name": "iykimo",
+                "name": "IKECHUKWU",
+                "id": 538049255,
+                "id_str": "538049255",
+                "indices": [
+                    20,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254056726652948481,
+                "id_str": "1254056726652948481",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdN8thWkAEw5UI.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdN8thWkAEw5UI.jpg",
+                "url": "https://t.co/gBWxh5QQN7",
+                "display_url": "pic.twitter.com/gBWxh5QQN7",
+                "expanded_url": "https://twitter.com/CJ_Ugochukwu/status/1254056736169897986/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 200,
+                        "h": 112,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 200,
+                        "h": 112,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 200,
+                        "h": 112,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 112,
+                        "h": 112,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254056726652948481,
+                "id_str": "1254056726652948481",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdN8thWkAEw5UI.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdN8thWkAEw5UI.jpg",
+                "url": "https://t.co/gBWxh5QQN7",
+                "display_url": "pic.twitter.com/gBWxh5QQN7",
+                "expanded_url": "https://twitter.com/CJ_Ugochukwu/status/1254056736169897986/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        25,
+                        14
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EWdN8thWkAEw5UI.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "medium": {
+                        "w": 200,
+                        "h": 112,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 200,
+                        "h": 112,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 200,
+                        "h": 112,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 112,
+                        "h": 112,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825399807"
+}

@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:30:24 +0000 2020",
+    "id": 1254024961381056512,
+    "id_str": "1254024961381056512",
+    "text": "@plantadeinterio No preocuparce, si fijo que ya pasasteis el corona cuando lo de la falta de olfato y eso (@SogaNoSoga style)",
+    "display_text_range": [
+        17,
+        125
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254023008408219650,
+    "in_reply_to_status_id_str": "1254023008408219650",
+    "in_reply_to_user_id": 887241624933326848,
+    "in_reply_to_user_id_str": "887241624933326848",
+    "in_reply_to_screen_name": "plantadeinterio",
+    "user": {
+        "id": 252192769,
+        "id_str": "252192769",
+        "name": "Arrakis",
+        "screen_name": "transgenica",
+        "location": "Cobrastan",
+        "url": null,
+        "description": "Me gusta el pisto y los boquerones en vinagre. Phil Fish supporter. Asexual.\n(Avatar by @cinthalvarez)",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 212,
+        "friends_count": 171,
+        "listed_count": 3,
+        "favourites_count": 48426,
+        "statuses_count": 21446,
+        "created_at": "Mon Feb 14 17:51:16 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "489E9E",
+        "profile_sidebar_border_color": "AD99FF",
+        "profile_sidebar_fill_color": "E9D0F5",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1038813647768825857/-XU1pE8O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038813647768825857/-XU1pE8O_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/252192769/1522009900",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "plantadeinterio",
+                "name": "Planta de interiores",
+                "id": 887241624933326848,
+                "id_str": "887241624933326848",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "SogaNoSoga",
+                "name": "SogaNoSoga",
+                "id": 2296734782,
+                "id_str": "2296734782",
+                "indices": [
+                    107,
+                    118
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587817824107"
+}

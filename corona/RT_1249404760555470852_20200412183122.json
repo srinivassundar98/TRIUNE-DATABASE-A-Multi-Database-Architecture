@@ -1,0 +1,224 @@
+{
+    "created_at": "Sun Apr 12 18:31:22 +0000 2020",
+    "id": 1249404760555470852,
+    "id_str": "1249404760555470852",
+    "text": "RT @ProfWoodward: When considering whether the new NHS corona app is the best exit strategy may I recommend you read @rossjanderson piece h…",
+    "source": "<a href=\"http://techmeme.com/about\" rel=\"nofollow\">Techmeme Editors</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 771810098025037824,
+        "id_str": "771810098025037824",
+        "name": "Techmeme Chatter",
+        "screen_name": "TechmemeChatter",
+        "location": "San Francisco, CA",
+        "url": "http://techmeme.com/",
+        "description": "This account retweets the tweets that Techmeme links to.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2475,
+        "friends_count": 1,
+        "listed_count": 172,
+        "favourites_count": 0,
+        "statuses_count": 92969,
+        "created_at": "Fri Sep 02 20:40:42 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1530B0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/774742521612087296/LHhg-vrL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/774742521612087296/LHhg-vrL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/771810098025037824/1472849617",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 17:11:45 +0000 2020",
+        "id": 1249384724948234242,
+        "id_str": "1249384724948234242",
+        "text": "When considering whether the new NHS corona app is the best exit strategy may I recommend you read @rossjanderson p… https://t.co/h14m635LOf",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 419780201,
+            "id_str": "419780201",
+            "name": "Alan Woodward",
+            "screen_name": "ProfWoodward",
+            "location": "University of Surrey",
+            "url": "https://www.surrey.ac.uk/people/alan-woodward",
+            "description": "Computer Scientist/Cyber Security Researcher",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 33701,
+            "friends_count": 720,
+            "listed_count": 605,
+            "favourites_count": 2046,
+            "statuses_count": 20088,
+            "created_at": "Wed Nov 23 19:43:11 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1094222285337231360/nfE9vlJr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094222285337231360/nfE9vlJr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/419780201/1495016531",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "When considering whether the new NHS corona app is the best exit strategy may I recommend you read @rossjanderson piece here https://t.co/LgjjZMBHPw especially what proper contact tracing requires.",
+            "display_text_range": [
+                0,
+                197
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/LgjjZMBHPw",
+                        "expanded_url": "https://www.lightbluetouchpaper.org/2020/04/12/contact-tracing-in-the-real-world/",
+                        "display_url": "lightbluetouchpaper.org/2020/04/12/con…",
+                        "indices": [
+                            125,
+                            148
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "rossjanderson",
+                        "name": "Ross Anderson",
+                        "id": 113470086,
+                        "id_str": "113470086",
+                        "indices": [
+                            99,
+                            113
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/h14m635LOf",
+                    "expanded_url": "https://twitter.com/i/web/status/1249384724948234242",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "rossjanderson",
+                    "name": "Ross Anderson",
+                    "id": 113470086,
+                    "id_str": "113470086",
+                    "indices": [
+                        99,
+                        113
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ProfWoodward",
+                "name": "Alan Woodward",
+                "id": 419780201,
+                "id_str": "419780201",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "rossjanderson",
+                "name": "Ross Anderson",
+                "id": 113470086,
+                "id_str": "113470086",
+                "indices": [
+                    117,
+                    131
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716282391"
+}

@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 14:07:03 +0000 2020",
+    "id": 1254049284225413120,
+    "id_str": "1254049284225413120",
+    "text": "@crpfindia drawing by Eashan Singh Son of Abha Singh, 6A, D.P.S Noida, Theme-Life During Corona https://t.co/6apDLNt4u8",
+    "display_text_range": [
+        0,
+        95
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 756505518420660225,
+    "in_reply_to_user_id_str": "756505518420660225",
+    "in_reply_to_screen_name": "crpfindia",
+    "user": {
+        "id": 76290171,
+        "id_str": "76290171",
+        "name": "abha singh",
+        "screen_name": "abhasingh",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 20,
+        "listed_count": 1,
+        "favourites_count": 1,
+        "statuses_count": 1,
+        "created_at": "Tue Sep 22 09:16:35 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "crpfindia",
+                "name": "🇮🇳CRPF🇮🇳",
+                "id": 756505518420660225,
+                "id_str": "756505518420660225",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254049255372787712,
+                "id_str": "1254049255372787712",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdHJ01WkAAN5yM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdHJ01WkAAN5yM.jpg",
+                "url": "https://t.co/6apDLNt4u8",
+                "display_url": "pic.twitter.com/6apDLNt4u8",
+                "expanded_url": "https://twitter.com/abhasingh/status/1254049284225413120/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1438,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 477,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 843,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254049255372787712,
+                "id_str": "1254049255372787712",
+                "indices": [
+                    96,
+                    119
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdHJ01WkAAN5yM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdHJ01WkAAN5yM.jpg",
+                "url": "https://t.co/6apDLNt4u8",
+                "display_url": "pic.twitter.com/6apDLNt4u8",
+                "expanded_url": "https://twitter.com/abhasingh/status/1254049284225413120/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1438,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 477,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 843,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823623125"
+}

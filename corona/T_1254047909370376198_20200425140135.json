@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 14:01:35 +0000 2020",
+    "id": 1254047909370376198,
+    "id_str": "1254047909370376198",
+    "text": "@Er_KamranAkmal @anjanaomkashyap Corona 786 ab to sambhal ja.",
+    "display_text_range": [
+        33,
+        61
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253874973455691776,
+    "in_reply_to_status_id_str": "1253874973455691776",
+    "in_reply_to_user_id": 1052495194459783169,
+    "in_reply_to_user_id_str": "1052495194459783169",
+    "in_reply_to_screen_name": "Er_KamranAkmal",
+    "user": {
+        "id": 1043657942862446593,
+        "id_str": "1043657942862446593",
+        "name": "Adwait Das",
+        "screen_name": "das_adwait",
+        "location": "Odisha, Bharat Varsh",
+        "url": null,
+        "description": "Farmer & social worker",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 104,
+        "friends_count": 101,
+        "listed_count": 0,
+        "favourites_count": 10665,
+        "statuses_count": 5806,
+        "created_at": "Sun Sep 23 00:26:58 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190619503882887168/2fov8mAM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190619503882887168/2fov8mAM_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Er_KamranAkmal",
+                "name": "Kamran Akmal",
+                "id": 1052495194459783169,
+                "id_str": "1052495194459783169",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "anjanaomkashyap",
+                "name": "Anjana Om Kashyap",
+                "id": 101215084,
+                "id_str": "101215084",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587823295334"
+}

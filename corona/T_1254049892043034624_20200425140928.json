@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 14:09:28 +0000 2020",
+    "id": 1254049892043034624,
+    "id_str": "1254049892043034624",
+    "text": "@salamachakzai9 @husainhaqqani @FT Bhutto nahi marey ga loag kha gaya Bhutto corona bhoak sy Leikin yh nahi merta",
+    "display_text_range": [
+        35,
+        113
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254041050001354758,
+    "in_reply_to_status_id_str": "1254041050001354758",
+    "in_reply_to_user_id": 1235067382856548353,
+    "in_reply_to_user_id_str": "1235067382856548353",
+    "in_reply_to_screen_name": "salamachakzai9",
+    "user": {
+        "id": 2313911614,
+        "id_str": "2313911614",
+        "name": "Irfan Naeem",
+        "screen_name": "irfannaeem84",
+        "location": "jeddah saudi arabia",
+        "url": null,
+        "description": "Must I restrict myself to a definition that fits into 160 characters?",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1062,
+        "friends_count": 1713,
+        "listed_count": 14,
+        "favourites_count": 21506,
+        "statuses_count": 50324,
+        "created_at": "Thu Jan 30 11:08:42 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1165175923538321409/qyjMGTs0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165175923538321409/qyjMGTs0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2313911614/1567092735",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "salamachakzai9",
+                "name": "salman achakzai",
+                "id": 1235067382856548353,
+                "id_str": "1235067382856548353",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "husainhaqqani",
+                "name": "Husain Haqqani",
+                "id": 80330381,
+                "id_str": "80330381",
+                "indices": [
+                    16,
+                    30
+                ]
+            },
+            {
+                "screen_name": "FT",
+                "name": "Financial Times",
+                "id": 18949452,
+                "id_str": "18949452",
+                "indices": [
+                    31,
+                    34
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587823768040"
+}

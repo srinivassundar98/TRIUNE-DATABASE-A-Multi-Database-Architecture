@@ -1,0 +1,120 @@
+{
+    "created_at": "Sat Apr 25 14:11:10 +0000 2020",
+    "id": 1254050322403581953,
+    "id_str": "1254050322403581953",
+    "text": "@Sivaji_sk Corona taught us people from all strata are badly needed to fight foreign invasion",
+    "display_text_range": [
+        11,
+        93
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253935974301618178,
+    "in_reply_to_status_id_str": "1253935974301618178",
+    "in_reply_to_user_id": 1004411665905942528,
+    "in_reply_to_user_id_str": "1004411665905942528",
+    "in_reply_to_screen_name": "Sivaji_sk",
+    "user": {
+        "id": 771192314,
+        "id_str": "771192314",
+        "name": "Rengasamy Subbiah",
+        "screen_name": "subbiahao2012",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 110,
+        "listed_count": 0,
+        "favourites_count": 28,
+        "statuses_count": 110,
+        "created_at": "Tue Aug 21 09:41:10 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685100107612565504/e4qhHvAp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685100107612565504/e4qhHvAp_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "79fe07a9a3658742",
+        "url": "https://api.twitter.com/1.1/geo/id/79fe07a9a3658742.json",
+        "place_type": "city",
+        "name": "Madurai South",
+        "full_name": "Madurai South, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.983077,
+                        9.754891
+                    ],
+                    [
+                        77.983077,
+                        9.982947
+                    ],
+                    [
+                        78.200703,
+                        9.982947
+                    ],
+                    [
+                        78.200703,
+                        9.754891
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Sivaji_sk",
+                "name": "Siva_KS ❤️🖤",
+                "id": 1004411665905942528,
+                "id_str": "1004411665905942528",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823870646"
+}

@@ -1,0 +1,117 @@
+{
+    "created_at": "Sat Apr 25 13:10:48 +0000 2020",
+    "id": 1254035131943305217,
+    "id_str": "1254035131943305217",
+    "text": "https://t.co/Hz1Tidfi7m",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 144275504,
+        "id_str": "144275504",
+        "name": "Basalt",
+        "screen_name": "BasaltZH",
+        "location": "Zuid-Holland, Nederland",
+        "url": "http://www.Basaltrevalidatie.nl",
+        "description": "Officieel twitteraccount | Revalidatiegeneeskunde | Kinderen, Jongeren en Volwassenen | Acht locaties",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2204,
+        "friends_count": 629,
+        "listed_count": 23,
+        "favourites_count": 279,
+        "statuses_count": 2044,
+        "created_at": "Sat May 15 20:34:39 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1076941949054173185/V36sGaZ5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076941949054173185/V36sGaZ5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/144275504/1545598729",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "8cb67e5457853086",
+        "url": "https://api.twitter.com/1.1/geo/id/8cb67e5457853086.json",
+        "place_type": "city",
+        "name": "Den Haag",
+        "full_name": "Den Haag, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        4.190347,
+                        52.014871
+                    ],
+                    [
+                        4.190347,
+                        52.138865
+                    ],
+                    [
+                        4.422444,
+                        52.138865
+                    ],
+                    [
+                        4.422444,
+                        52.014871
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Hz1Tidfi7m",
+                "expanded_url": "https://www.trouw.nl/zorg/jody-is-hersteld-van-corona-maar-nog-lang-niet-de-oude~b13764fb/?utm_campaign=shared_earned&utm_medium=social&utm_source=copylink",
+                "display_url": "trouw.nl/zorg/jody-is-h…",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587820248958"
+}

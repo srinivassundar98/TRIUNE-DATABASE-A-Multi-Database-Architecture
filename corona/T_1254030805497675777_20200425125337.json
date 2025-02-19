@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 12:53:37 +0000 2020",
+    "id": 1254030805497675777,
+    "id_str": "1254030805497675777",
+    "text": "@osmarycnn @NicolasMaduro Pero si eso estaba así no hayan q decir, inventan cada cuento diario, Venezuela está mal,… https://t.co/OoCZ2LDUob",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253854875840020481,
+    "in_reply_to_status_id_str": "1253854875840020481",
+    "in_reply_to_user_id": 242739974,
+    "in_reply_to_user_id_str": "242739974",
+    "in_reply_to_screen_name": "osmarycnn",
+    "user": {
+        "id": 138945817,
+        "id_str": "138945817",
+        "name": "Nathan Lopez",
+        "screen_name": "nathanlopez1975",
+        "location": "Maracaibo",
+        "url": null,
+        "description": "Amo a mi esposa mi hija mi flia Cristiano luchador y con mi Fe puesta en mi creador",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 177,
+        "friends_count": 1570,
+        "listed_count": 1,
+        "favourites_count": 27982,
+        "statuses_count": 7300,
+        "created_at": "Sat May 01 02:59:56 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1223023910633005056/Z6p0sEm8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223023910633005056/Z6p0sEm8_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@osmarycnn @NicolasMaduro Pero si eso estaba así no hayan q decir, inventan cada cuento diario, Venezuela está mal, y no solo es el corona virus, es esto q ha saqueado un País, para convertirlo en lo q hoy es, Dios nos ayude",
+        "display_text_range": [
+            26,
+            224
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "osmarycnn",
+                    "name": "Osmary Hernandez",
+                    "id": 242739974,
+                    "id_str": "242739974",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "NicolasMaduro",
+                    "name": "Nicolás Maduro",
+                    "id": 1252764865,
+                    "id_str": "1252764865",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/OoCZ2LDUob",
+                "expanded_url": "https://twitter.com/i/web/status/1254030805497675777",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "osmarycnn",
+                "name": "Osmary Hernandez",
+                "id": 242739974,
+                "id_str": "242739974",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "NicolasMaduro",
+                "name": "Nicolás Maduro",
+                "id": 1252764865,
+                "id_str": "1252764865",
+                "indices": [
+                    11,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587819217453"
+}

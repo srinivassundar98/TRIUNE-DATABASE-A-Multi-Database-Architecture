@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:47:02 +0000 2020",
+    "id": 1254044250171420672,
+    "id_str": "1254044250171420672",
+    "text": "@RachelNorline There was a couple down the road from us who got in the back of a car yesterday tea time, he had a c… https://t.co/sDGhL0bqCx",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254021969470803968,
+    "in_reply_to_status_id_str": "1254021969470803968",
+    "in_reply_to_user_id": 19728176,
+    "in_reply_to_user_id_str": "19728176",
+    "in_reply_to_screen_name": "RachelNorline",
+    "user": {
+        "id": 182147847,
+        "id_str": "182147847",
+        "name": "Jenny",
+        "screen_name": "Jenjen_23",
+        "location": "Liverpool",
+        "url": null,
+        "description": "I'm a disney, sock obsessed, bookworm.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 385,
+        "friends_count": 158,
+        "listed_count": 26,
+        "favourites_count": 6459,
+        "statuses_count": 16589,
+        "created_at": "Mon Aug 23 23:14:55 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553311964970360832/t_Y-9dVp_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553311964970360832/t_Y-9dVp_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/182147847/1358192290",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@RachelNorline There was a couple down the road from us who got in the back of a car yesterday tea time, he had a case of corona and she was dressed up for a bbq. His Mum constantly posts on our community group about everyone staying in and she's the first one out banging pots and pans for NHS",
+        "display_text_range": [
+            15,
+            294
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RachelNorline",
+                    "name": "Rachel",
+                    "id": 19728176,
+                    "id_str": "19728176",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sDGhL0bqCx",
+                "expanded_url": "https://twitter.com/i/web/status/1254044250171420672",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RachelNorline",
+                "name": "Rachel",
+                "id": 19728176,
+                "id_str": "19728176",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822422913"
+}

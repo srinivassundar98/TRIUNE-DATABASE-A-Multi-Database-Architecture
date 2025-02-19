@@ -1,0 +1,128 @@
+{
+    "created_at": "Sat Apr 25 12:51:46 +0000 2020",
+    "id": 1254030338436857857,
+    "id_str": "1254030338436857857",
+    "text": "Corona Virus Volume 1 Mix Tape @ Pensacola, Florida https://t.co/XGgRI9gUCN",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 857274456,
+        "id_str": "857274456",
+        "name": "BILLMARSHALL",
+        "screen_name": "BILLMARSHALL69",
+        "location": null,
+        "url": null,
+        "description": "CHRISTIAN,OWNER, VICE PRESIDENT, HUSTLER & STUDENT ALL IN PENSACOLA,FLORIDA..",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 936,
+        "friends_count": 912,
+        "listed_count": 1,
+        "favourites_count": 26,
+        "statuses_count": 4308,
+        "created_at": "Tue Oct 02 01:02:55 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2671542705/c3cc303ce91d479c0053deac28ed0966_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2671542705/c3cc303ce91d479c0053deac28ed0966_normal.jpeg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            30.437,
+            -87.2093
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -87.2093,
+            30.437
+        ]
+    },
+    "place": {
+        "id": "736e38a7d8ebe159",
+        "url": "https://api.twitter.com/1.1/geo/id/736e38a7d8ebe159.json",
+        "place_type": "city",
+        "name": "Pensacola",
+        "full_name": "Pensacola, FL",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -87.259577,
+                        30.399257
+                    ],
+                    [
+                        -87.259577,
+                        30.510326
+                    ],
+                    [
+                        -87.149742,
+                        30.510326
+                    ],
+                    [
+                        -87.149742,
+                        30.399257
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/XGgRI9gUCN",
+                "expanded_url": "https://www.instagram.com/p/B_Z4zUXJ9YO/?igshid=1wrft5je7yov5",
+                "display_url": "instagram.com/p/B_Z4zUXJ9YO/…",
+                "indices": [
+                    52,
+                    75
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587819106097"
+}

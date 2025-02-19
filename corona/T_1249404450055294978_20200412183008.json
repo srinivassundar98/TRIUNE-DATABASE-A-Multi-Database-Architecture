@@ -1,0 +1,162 @@
+{
+    "created_at": "Sun Apr 12 18:30:08 +0000 2020",
+    "id": 1249404450055294978,
+    "id_str": "1249404450055294978",
+    "text": "@noelle_lf @IracemaTel @folha Falou não sou de esquerda e direita é de esquerda e não admite. Outra a cloroquina é… https://t.co/ERYIOvkjqC",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249396591405993987,
+    "in_reply_to_status_id_str": "1249396591405993987",
+    "in_reply_to_user_id": 42477700,
+    "in_reply_to_user_id_str": "42477700",
+    "in_reply_to_screen_name": "noelle_lf",
+    "user": {
+        "id": 1170525806008963072,
+        "id_str": "1170525806008963072",
+        "name": "LuckeeFael",
+        "screen_name": "FaelLuckee",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 8,
+        "friends_count": 148,
+        "listed_count": 0,
+        "favourites_count": 1071,
+        "statuses_count": 460,
+        "created_at": "Sun Sep 08 02:36:07 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194388685946605568/k19ukXFn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194388685946605568/k19ukXFn_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@noelle_lf @IracemaTel @folha Falou não sou de esquerda e direita é de esquerda e não admite. Outra a cloroquina é usado a decadas pela ciência inclusive contra vírus do tipo corona oq não se tem é um estudo do covid9 q levará meses até anos e então é uma saída q não pode ser a melhor porem é a melhor q temos",
+        "display_text_range": [
+            30,
+            310
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "noelle_lf",
+                    "name": "Noelle",
+                    "id": 42477700,
+                    "id_str": "42477700",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "IracemaTel",
+                    "name": "iracema.andrade.tel@gmail.com",
+                    "id": 1103472086738190338,
+                    "id_str": "1103472086738190338",
+                    "indices": [
+                        11,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "folha",
+                    "name": "Folha de S.Paulo",
+                    "id": 14594813,
+                    "id_str": "14594813",
+                    "indices": [
+                        23,
+                        29
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ERYIOvkjqC",
+                "expanded_url": "https://twitter.com/i/web/status/1249404450055294978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "noelle_lf",
+                "name": "Noelle",
+                "id": 42477700,
+                "id_str": "42477700",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "IracemaTel",
+                "name": "iracema.andrade.tel@gmail.com",
+                "id": 1103472086738190338,
+                "id_str": "1103472086738190338",
+                "indices": [
+                    11,
+                    22
+                ]
+            },
+            {
+                "screen_name": "folha",
+                "name": "Folha de S.Paulo",
+                "id": 14594813,
+                "id_str": "14594813",
+                "indices": [
+                    23,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716208362"
+}

@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 12:42:19 +0000 2020",
+    "id": 1254027962845814785,
+    "id_str": "1254027962845814785",
+    "text": "Some meager people in the locality says \"Sab musalmamo ko Quarantine karo yehi corona faila raha hai\"\nI think those… https://t.co/hpVjOCCJyj",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 625355862,
+        "id_str": "625355862",
+        "name": "Choudhary Mohd Zafar",
+        "screen_name": "mrzafar123",
+        "location": "Punch, Jammu And Kashmir",
+        "url": "http://facebook.com/choudharyzfr",
+        "description": "| Hu Gujjar Da Gojri Meri Shaan | Civil Engineer | Bgsbian | Photographer | Poonch | Smmngo |",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 311,
+        "friends_count": 99,
+        "listed_count": 3,
+        "favourites_count": 957,
+        "statuses_count": 1876,
+        "created_at": "Tue Jul 03 05:11:12 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247785884667138048/EFmIovV7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247785884667138048/EFmIovV7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/625355862/1538290430",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "52b218c4efc64842",
+        "url": "https://api.twitter.com/1.1/geo/id/52b218c4efc64842.json",
+        "place_type": "city",
+        "name": "Punch",
+        "full_name": "Punch, Jammu And Kashmir",
+        "country_code": "",
+        "country": "",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        74.081448,
+                        33.762464
+                    ],
+                    [
+                        74.081448,
+                        33.776725
+                    ],
+                    [
+                        74.110315,
+                        33.776725
+                    ],
+                    [
+                        74.110315,
+                        33.762464
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Some meager people in the locality says \"Sab musalmamo ko Quarantine karo yehi corona faila raha hai\"\nI think those peoples which thoughts like this are those who used to go to school from the back side of the school 🚸\n#StayHomeStaySafe\n#CoronaVirus\n#Islamophobia\n@kour_aurpan",
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "StayHomeStaySafe",
+                    "indices": [
+                        219,
+                        236
+                    ]
+                },
+                {
+                    "text": "CoronaVirus",
+                    "indices": [
+                        237,
+                        249
+                    ]
+                },
+                {
+                    "text": "Islamophobia",
+                    "indices": [
+                        250,
+                        263
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kour_aurpan",
+                    "name": "Kutkuria🐾",
+                    "id": 951121279981051904,
+                    "id_str": "951121279981051904",
+                    "indices": [
+                        264,
+                        276
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/hpVjOCCJyj",
+                "expanded_url": "https://twitter.com/i/web/status/1254027962845814785",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818539712"
+}

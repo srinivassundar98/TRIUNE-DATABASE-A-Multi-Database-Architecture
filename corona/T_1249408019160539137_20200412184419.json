@@ -1,0 +1,138 @@
+{
+    "created_at": "Sun Apr 12 18:44:19 +0000 2020",
+    "id": 1249408019160539137,
+    "id_str": "1249408019160539137",
+    "text": "@Atomreisfleisch Vor ein paar Wochen las ich noch die Alten sollen sterben weil sie das Klima zerstören.\nDann freut… https://t.co/VaGIlNJ0kT",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249406406136082434,
+    "in_reply_to_status_id_str": "1249406406136082434",
+    "in_reply_to_user_id": 23831095,
+    "in_reply_to_user_id_str": "23831095",
+    "in_reply_to_screen_name": "Atomreisfleisch",
+    "user": {
+        "id": 4920993694,
+        "id_str": "4920993694",
+        "name": "Martin",
+        "screen_name": "wodanaz93",
+        "location": "Austria",
+        "url": null,
+        "description": "Braun ist auch nur verdrecktes Rot.\ntriggert alles und jeden - aus Prinzip",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 101,
+        "friends_count": 354,
+        "listed_count": 4,
+        "favourites_count": 11790,
+        "statuses_count": 2630,
+        "created_at": "Tue Feb 16 20:48:14 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205126424841129984/cHgaiBoM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205126424841129984/cHgaiBoM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4920993694/1576159208",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Atomreisfleisch Vor ein paar Wochen las ich noch die Alten sollen sterben weil sie das Klima zerstören.\nDann freuten sich die Corona-Party feiernden über den Virus #boomerflu #boomeremover \n\nLt. den sog. \"Progressiven\" also alles bestens.",
+        "display_text_range": [
+            17,
+            239
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "boomerflu",
+                    "indices": [
+                        165,
+                        175
+                    ]
+                },
+                {
+                    "text": "boomeremover",
+                    "indices": [
+                        176,
+                        189
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Atomreisfleisch",
+                    "name": "Dr. Atomreisfleisch",
+                    "id": 23831095,
+                    "id_str": "23831095",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/VaGIlNJ0kT",
+                "expanded_url": "https://twitter.com/i/web/status/1249408019160539137",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Atomreisfleisch",
+                "name": "Dr. Atomreisfleisch",
+                "id": 23831095,
+                "id_str": "23831095",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586717059303"
+}

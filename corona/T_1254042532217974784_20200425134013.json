@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 13:40:13 +0000 2020",
+    "id": 1254042532217974784,
+    "id_str": "1254042532217974784",
+    "text": "@HHSGov @realDonaldTrump @Surgeon_General I know he is taking  about how to use the bleach to kill the corona.",
+    "display_text_range": [
+        42,
+        110
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1252996460431507457,
+    "in_reply_to_status_id_str": "1252996460431507457",
+    "in_reply_to_user_id": 44783853,
+    "in_reply_to_user_id_str": "44783853",
+    "in_reply_to_screen_name": "HHSGov",
+    "user": {
+        "id": 798222456,
+        "id_str": "798222456",
+        "name": "holly",
+        "screen_name": "kwintongssc506",
+        "location": "Hong Kong",
+        "url": null,
+        "description": "食人雞髀笑呵呵, 請人食飯又如何! 如何!如何!大樹菠蘿!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7,
+        "friends_count": 29,
+        "listed_count": 0,
+        "favourites_count": 475,
+        "statuses_count": 497,
+        "created_at": "Sun Sep 02 13:04:04 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247463950289002496/5uuM37bZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247463950289002496/5uuM37bZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/798222456/1534923620",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "HHSGov",
+                "name": "HHS.gov",
+                "id": 44783853,
+                "id_str": "44783853",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    8,
+                    24
+                ]
+            },
+            {
+                "screen_name": "Surgeon_General",
+                "name": "U.S. Surgeon General",
+                "id": 455024343,
+                "id_str": "455024343",
+                "indices": [
+                    25,
+                    41
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822013321"
+}

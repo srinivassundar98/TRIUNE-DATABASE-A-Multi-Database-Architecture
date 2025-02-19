@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 12:23:13 +0000 2020",
+    "id": 1254023157033377792,
+    "id_str": "1254023157033377792",
+    "text": "Missing all the fun of the game. Both on the green fields and on the screen. \n\nWanna hit Corona out of boundaries o… https://t.co/sARWUOHSUg",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 370801221,
+        "id_str": "370801221",
+        "name": "Jagadeeswar Singam",
+        "screen_name": "SJagadeeswar",
+        "location": "Hyderabad, India",
+        "url": null,
+        "description": "#Analytics\n#Salesforce\n#Tableau \n#DataScience\n#Python\n#R\n\nA farmer by Birth, Mechanical Engineer by Degree, Data Analyst by Profession and Sportsman for Life.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 32,
+        "friends_count": 372,
+        "listed_count": 0,
+        "favourites_count": 261,
+        "statuses_count": 173,
+        "created_at": "Fri Sep 09 17:11:24 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241685822304206854/o7jBWQwT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241685822304206854/o7jBWQwT_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            17.36666667,
+            78.46666667
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            78.46666667,
+            17.36666667
+        ]
+    },
+    "place": {
+        "id": "243cc16f6417a167",
+        "url": "https://api.twitter.com/1.1/geo/id/243cc16f6417a167.json",
+        "place_type": "city",
+        "name": "Hyderabad",
+        "full_name": "Hyderabad, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        78.389772,
+                        17.301399
+                    ],
+                    [
+                        78.389772,
+                        17.4759
+                    ],
+                    [
+                        78.540417,
+                        17.4759
+                    ],
+                    [
+                        78.540417,
+                        17.301399
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Missing all the fun of the game. Both on the green fields and on the screen. \n\nWanna hit Corona out of boundaries on the 1st ball of my innings. Like virendersehwag\n\nWanna clean bowl at… https://t.co/oEgfbNkFCi",
+        "display_text_range": [
+            0,
+            210
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/oEgfbNkFCi",
+                    "expanded_url": "https://www.instagram.com/p/B_Z1kZFlC9zJGkjRqJyjmRrLIOYktDYACxXoxk0/?igshid=g48gol58ysb9",
+                    "display_url": "instagram.com/p/B_Z1kZFlC9zJ…",
+                    "indices": [
+                        187,
+                        210
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sARWUOHSUg",
+                "expanded_url": "https://twitter.com/i/web/status/1254023157033377792",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817393917"
+}

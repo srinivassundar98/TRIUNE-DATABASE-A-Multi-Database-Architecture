@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 14:02:56 +0000 2020",
+    "id": 1254048251365527553,
+    "id_str": "1254048251365527553",
+    "text": "@TiloJung Die Stopp-Corona App des Österr. Roten Kreuzes ist seit gestern nachmittag open source und dezentral https://t.co/vrN39dL6qH",
+    "display_text_range": [
+        10,
+        134
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254022105240387584,
+    "in_reply_to_status_id_str": "1254022105240387584",
+    "in_reply_to_user_id": 15903326,
+    "in_reply_to_user_id_str": "15903326",
+    "in_reply_to_screen_name": "TiloJung",
+    "user": {
+        "id": 3405303513,
+        "id_str": "3405303513",
+        "name": "Tanja Mally",
+        "screen_name": "TanjaMally",
+        "location": null,
+        "url": null,
+        "description": "Arm ist man nicht ohne Geld - arm ist man ohne Herz geschichtsbegeistert & friedenssüchtig, managing director http://epicenter.works",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 288,
+        "friends_count": 455,
+        "listed_count": 1,
+        "favourites_count": 5375,
+        "statuses_count": 1603,
+        "created_at": "Thu Aug 06 08:26:06 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1210221814267428864/uhiJ9aQp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210221814267428864/uhiJ9aQp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3405303513/1438850117",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/vrN39dL6qH",
+                "expanded_url": "https://github.com/austrianredcross/",
+                "display_url": "github.com/austrianredcro…",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "TiloJung",
+                "name": "Tilo Jung & Live @Home",
+                "id": 15903326,
+                "id_str": "15903326",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823376872"
+}

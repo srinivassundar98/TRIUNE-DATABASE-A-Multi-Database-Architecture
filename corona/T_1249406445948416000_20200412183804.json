@@ -1,0 +1,128 @@
+{
+    "created_at": "Sun Apr 12 18:38:04 +0000 2020",
+    "id": 1249406445948416000,
+    "id_str": "1249406445948416000",
+    "text": "@ScpnCommissaire @CCastaner @NunezLaurent Tiens et puis çà aussi pour faire bon poids... #trouduc\nhttps://t.co/5JQqQwmXeX",
+    "display_text_range": [
+        42,
+        121
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249053269139378176,
+    "in_reply_to_status_id_str": "1249053269139378176",
+    "in_reply_to_user_id": 948102937284431872,
+    "in_reply_to_user_id_str": "948102937284431872",
+    "in_reply_to_screen_name": "ScpnCommissaire",
+    "user": {
+        "id": 304295321,
+        "id_str": "304295321",
+        "name": "Olivier",
+        "screen_name": "JeanJau69",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 39,
+        "friends_count": 82,
+        "listed_count": 0,
+        "favourites_count": 3008,
+        "statuses_count": 4995,
+        "created_at": "Tue May 24 08:23:09 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/968255009099075584/w5WkBAbO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/968255009099075584/w5WkBAbO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/304295321/1584345788",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "trouduc",
+                "indices": [
+                    89,
+                    97
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/5JQqQwmXeX",
+                "expanded_url": "https://actu.fr/societe/coronavirus/coronavirus-infirmiere-brigade-gendarmerie-conjoint-loblige-quitter-caserne_32956123.html",
+                "display_url": "actu.fr/societe/corona…",
+                "indices": [
+                    98,
+                    121
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ScpnCommissaire",
+                "name": "Commissaires de la Police Nationale SCPN",
+                "id": 948102937284431872,
+                "id_str": "948102937284431872",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "CCastaner",
+                "name": "Christophe Castaner",
+                "id": 125727024,
+                "id_str": "125727024",
+                "indices": [
+                    17,
+                    27
+                ]
+            },
+            {
+                "screen_name": "NunezLaurent",
+                "name": "Laurent Nunez",
+                "id": 1051009358627307520,
+                "id_str": "1051009358627307520",
+                "indices": [
+                    28,
+                    41
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1586716684220"
+}

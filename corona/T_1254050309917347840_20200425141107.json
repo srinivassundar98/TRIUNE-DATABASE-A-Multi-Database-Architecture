@@ -1,0 +1,295 @@
+{
+    "created_at": "Sat Apr 25 14:11:07 +0000 2020",
+    "id": 1254050309917347840,
+    "id_str": "1254050309917347840",
+    "text": "@KSkarsholm @BibsenSkyt @TrineTorp @AnniMatthiesen @AdsbolAdsbl @Astridkrag @JerkelK @CamFabricius Trist der skal e… https://t.co/z5kgcphAll",
+    "display_text_range": [
+        99,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253941088282447872,
+    "in_reply_to_status_id_str": "1253941088282447872",
+    "in_reply_to_user_id": 2383312156,
+    "in_reply_to_user_id_str": "2383312156",
+    "in_reply_to_screen_name": "KSkarsholm",
+    "user": {
+        "id": 954328494955261952,
+        "id_str": "954328494955261952",
+        "name": "💛💙KatheBerry1952 🇩🇰🇪🇺",
+        "screen_name": "Berry1952K",
+        "location": "Denmark 🇩🇰",
+        "url": null,
+        "description": "#BIF 💛💙 #ManUtd 🔴🔴 #BVB 💛🖤 #juve #Barca #Eubevægelsen 🇪🇺 #Radikale",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 928,
+        "friends_count": 1072,
+        "listed_count": 9,
+        "favourites_count": 251319,
+        "statuses_count": 109453,
+        "created_at": "Fri Jan 19 12:23:38 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149245023298478080/mx2Qh2_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149245023298478080/mx2Qh2_n_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/954328494955261952/1585160368",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "19d25de1149b6307",
+        "url": "https://api.twitter.com/1.1/geo/id/19d25de1149b6307.json",
+        "place_type": "city",
+        "name": "Hjørring",
+        "full_name": "Hjørring, Danmark",
+        "country_code": "DK",
+        "country": "Danmark",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        9.689932,
+                        57.306886
+                    ],
+                    [
+                        9.689932,
+                        57.619323
+                    ],
+                    [
+                        10.412001,
+                        57.619323
+                    ],
+                    [
+                        10.412001,
+                        57.306886
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@KSkarsholm @BibsenSkyt @TrineTorp @AnniMatthiesen @AdsbolAdsbl @Astridkrag @JerkelK @CamFabricius Trist der skal en Corona krise til at gå penge op af lommen.",
+        "display_text_range": [
+            99,
+            159
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KSkarsholm",
+                    "name": "Kåre Skarsholm",
+                    "id": 2383312156,
+                    "id_str": "2383312156",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "BibsenSkyt",
+                    "name": "Bibsen 🍀🌿🍃🌱",
+                    "id": 1115527974567256064,
+                    "id_str": "1115527974567256064",
+                    "indices": [
+                        12,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "TrineTorp",
+                    "name": "Trine Schøning Torp",
+                    "id": 1667677735,
+                    "id_str": "1667677735",
+                    "indices": [
+                        24,
+                        34
+                    ]
+                },
+                {
+                    "screen_name": "AnniMatthiesen",
+                    "name": "Anni Matthiesen",
+                    "id": 2469669116,
+                    "id_str": "2469669116",
+                    "indices": [
+                        35,
+                        50
+                    ]
+                },
+                {
+                    "screen_name": "AdsbolAdsbl",
+                    "name": "Karina Adsbøl",
+                    "id": 827279426,
+                    "id_str": "827279426",
+                    "indices": [
+                        51,
+                        63
+                    ]
+                },
+                {
+                    "screen_name": "Astridkrag",
+                    "name": "Astrid Krag",
+                    "id": 61264905,
+                    "id_str": "61264905",
+                    "indices": [
+                        64,
+                        75
+                    ]
+                },
+                {
+                    "screen_name": "JerkelK",
+                    "name": "Brigitte K. Jerkel",
+                    "id": 2600310521,
+                    "id_str": "2600310521",
+                    "indices": [
+                        76,
+                        84
+                    ]
+                },
+                {
+                    "screen_name": "CamFabricius",
+                    "name": "Camilla Fabricius",
+                    "id": 2649896319,
+                    "id_str": "2649896319",
+                    "indices": [
+                        85,
+                        98
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/z5kgcphAll",
+                "expanded_url": "https://twitter.com/i/web/status/1254050309917347840",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "KSkarsholm",
+                "name": "Kåre Skarsholm",
+                "id": 2383312156,
+                "id_str": "2383312156",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "BibsenSkyt",
+                "name": "Bibsen 🍀🌿🍃🌱",
+                "id": 1115527974567256064,
+                "id_str": "1115527974567256064",
+                "indices": [
+                    12,
+                    23
+                ]
+            },
+            {
+                "screen_name": "TrineTorp",
+                "name": "Trine Schøning Torp",
+                "id": 1667677735,
+                "id_str": "1667677735",
+                "indices": [
+                    24,
+                    34
+                ]
+            },
+            {
+                "screen_name": "AnniMatthiesen",
+                "name": "Anni Matthiesen",
+                "id": 2469669116,
+                "id_str": "2469669116",
+                "indices": [
+                    35,
+                    50
+                ]
+            },
+            {
+                "screen_name": "AdsbolAdsbl",
+                "name": "Karina Adsbøl",
+                "id": 827279426,
+                "id_str": "827279426",
+                "indices": [
+                    51,
+                    63
+                ]
+            },
+            {
+                "screen_name": "Astridkrag",
+                "name": "Astrid Krag",
+                "id": 61264905,
+                "id_str": "61264905",
+                "indices": [
+                    64,
+                    75
+                ]
+            },
+            {
+                "screen_name": "JerkelK",
+                "name": "Brigitte K. Jerkel",
+                "id": 2600310521,
+                "id_str": "2600310521",
+                "indices": [
+                    76,
+                    84
+                ]
+            },
+            {
+                "screen_name": "CamFabricius",
+                "name": "Camilla Fabricius",
+                "id": 2649896319,
+                "id_str": "2649896319",
+                "indices": [
+                    85,
+                    98
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "da",
+    "timestamp_ms": "1587823867669"
+}

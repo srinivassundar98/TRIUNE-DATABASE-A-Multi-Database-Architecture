@@ -1,0 +1,133 @@
+{
+    "created_at": "Sat Apr 25 14:06:04 +0000 2020",
+    "id": 1254049037646471168,
+    "id_str": "1254049037646471168",
+    "text": "@kattaB4 Post corona-samhället kan säkert bli kärvt, men jag tror att det största hotet mot Sveriges framtid kommer… https://t.co/x0AqtzgNaq",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253988639610220544,
+    "in_reply_to_status_id_str": "1253988639610220544",
+    "in_reply_to_user_id": 333265493,
+    "in_reply_to_user_id_str": "333265493",
+    "in_reply_to_screen_name": "kattaB4",
+    "user": {
+        "id": 2653115376,
+        "id_str": "2653115376",
+        "name": "Mats Eriksson (Docent i Anestesi & Intensivvård)",
+        "screen_name": "uppsalamats",
+        "location": null,
+        "url": null,
+        "description": "Konservativ läkare, med förflutet bl.a. inom ”Swedish Armed Forces” i Mali. Röstade på Gösta Bohman. EU-migrant (n.b. ej tiggare). Foliehattsfiltret är aktivt!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1669,
+        "friends_count": 924,
+        "listed_count": 6,
+        "favourites_count": 46613,
+        "statuses_count": 9274,
+        "created_at": "Thu Jul 17 07:31:47 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232989541725855744/fo34PUMu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232989541725855744/fo34PUMu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2653115376/1531902535",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@kattaB4 Post corona-samhället kan säkert bli kärvt, men jag tror att det största hotet mot Sveriges framtid kommer från annat håll.\n\nDet är ingen hemlighet att @SAPOsverige identifierat ett antal religiösa celler i Sverige, som är beredda att slå till på given signal.",
+        "display_text_range": [
+            9,
+            269
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kattaB4",
+                    "name": "katarina broman",
+                    "id": 333265493,
+                    "id_str": "333265493",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "SAPOsverige",
+                    "name": "Säkerhetspolisen",
+                    "id": 2951198781,
+                    "id_str": "2951198781",
+                    "indices": [
+                        161,
+                        173
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/x0AqtzgNaq",
+                "expanded_url": "https://twitter.com/i/web/status/1254049037646471168",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "kattaB4",
+                "name": "katarina broman",
+                "id": 333265493,
+                "id_str": "333265493",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587823564336"
+}

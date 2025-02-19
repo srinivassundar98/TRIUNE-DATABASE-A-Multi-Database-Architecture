@@ -1,0 +1,132 @@
+{
+    "created_at": "Sat Apr 25 14:28:33 +0000 2020",
+    "id": 1254054696513228800,
+    "id_str": "1254054696513228800",
+    "text": "@anubhavsinha Show https://t.co/O1Y7qlgzXf to corona. Problem solved.",
+    "display_text_range": [
+        14,
+        69
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254053635983585280,
+    "in_reply_to_status_id_str": "1254053635983585280",
+    "in_reply_to_user_id": 57947582,
+    "in_reply_to_user_id_str": "57947582",
+    "in_reply_to_screen_name": "anubhavsinha",
+    "user": {
+        "id": 18626315,
+        "id_str": "18626315",
+        "name": "ಅಭಿಜೀತ ಗುರುನಾಥ ಚಿಂಚಣಿಕರ",
+        "screen_name": "gcabhijeet",
+        "location": "Bangalore",
+        "url": null,
+        "description": "Views are personal.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 461,
+        "friends_count": 1190,
+        "listed_count": 16,
+        "favourites_count": 5537,
+        "statuses_count": 12696,
+        "created_at": "Mon Jan 05 06:59:58 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1197835726936633344/A4xN1C4N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197835726936633344/A4xN1C4N_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18626315/1584625270",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "1b8680cd52a711cb",
+        "url": "https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json",
+        "place_type": "city",
+        "name": "Bengaluru",
+        "full_name": "Bengaluru, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.373474,
+                        12.919037
+                    ],
+                    [
+                        77.373474,
+                        13.231381
+                    ],
+                    [
+                        77.739371,
+                        13.231381
+                    ],
+                    [
+                        77.739371,
+                        12.919037
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/O1Y7qlgzXf",
+                "expanded_url": "http://Ra.One",
+                "display_url": "Ra.One",
+                "indices": [
+                    19,
+                    42
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "anubhavsinha",
+                "name": "Anubhav Sinha",
+                "id": 57947582,
+                "id_str": "57947582",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824913515"
+}

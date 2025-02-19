@@ -1,0 +1,142 @@
+{
+    "created_at": "Sun Apr 12 18:35:26 +0000 2020",
+    "id": 1249405784779182081,
+    "id_str": "1249405784779182081",
+    "text": "@VikhyataM @aajtak Nepal ke raaste Tabligi jamaat waale, Patna hote hue bheje hi gaye haina,\nIndia mai corona faila… https://t.co/yAi7PszOEv",
+    "display_text_range": [
+        19,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249398069323538435,
+    "in_reply_to_status_id_str": "1249398069323538435",
+    "in_reply_to_user_id": 1241974462519664640,
+    "in_reply_to_user_id_str": "1241974462519664640",
+    "in_reply_to_screen_name": "VikhyataM",
+    "user": {
+        "id": 1243187873131540480,
+        "id_str": "1243187873131540480",
+        "name": "SUDHiR BATRA",
+        "screen_name": "SudhirBatra_",
+        "location": "INDIA",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 492,
+        "listed_count": 0,
+        "favourites_count": 59,
+        "statuses_count": 260,
+        "created_at": "Thu Mar 26 14:47:55 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243188283087024128/HFCKJXDp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243188283087024128/HFCKJXDp_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@VikhyataM @aajtak Nepal ke raaste Tabligi jamaat waale, Patna hote hue bheje hi gaye haina,\nIndia mai corona failaane.\nJab ye saabit ho hi gaya.\n\nIndia mai reh ke jo log yaha ka National Anthem nahi gaate ho, \nIndian Flag ko nahi maante ho,\n\nWo Desh ka bhala chaahte hain ye ummeed unse theek nahi.",
+        "display_text_range": [
+            19,
+            299
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VikhyataM",
+                    "name": "Dr.Vikhyata Manchanda",
+                    "id": 1241974462519664640,
+                    "id_str": "1241974462519664640",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "aajtak",
+                    "name": "aajtak",
+                    "id": 42606652,
+                    "id_str": "42606652",
+                    "indices": [
+                        11,
+                        18
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/yAi7PszOEv",
+                "expanded_url": "https://twitter.com/i/web/status/1249405784779182081",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "VikhyataM",
+                "name": "Dr.Vikhyata Manchanda",
+                "id": 1241974462519664640,
+                "id_str": "1241974462519664640",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "aajtak",
+                "name": "aajtak",
+                "id": 42606652,
+                "id_str": "42606652",
+                "indices": [
+                    11,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1586716526585"
+}

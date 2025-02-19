@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 13:05:06 +0000 2020",
+    "id": 1254033697650737152,
+    "id_str": "1254033697650737152",
+    "text": "@skepteis Stand jetzt 91, und nicht 82, bestätigte Fälle. - Warum werden immer wieder 9 Fälle, die den Kantonen Fri… https://t.co/VivmbSpkbT",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 824525636719022080,
+    "in_reply_to_user_id_str": "824525636719022080",
+    "in_reply_to_screen_name": "skepteis",
+    "user": {
+        "id": 1246052477868392448,
+        "id_str": "1246052477868392448",
+        "name": "John Stratton",
+        "screen_name": "jstratton1960",
+        "location": null,
+        "url": null,
+        "description": "Geboren am 3. Oktober 1960. Jetzt im Ruehstand.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 15,
+        "listed_count": 0,
+        "favourites_count": 53,
+        "statuses_count": 37,
+        "created_at": "Fri Apr 03 12:30:52 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246053969236910080/uDdCFeUm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246053969236910080/uDdCFeUm_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@skepteis Stand jetzt 91, und nicht 82, bestätigte Fälle. - Warum werden immer wieder 9 Fälle, die den Kantonen Fribourg und Thurgau entsprechen zu wenig gezählt? -  Bitte auf der Website https://t.co/Tv69u0DAzU korrigieren. - Danke!",
+        "display_text_range": [
+            0,
+            233
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Tv69u0DAzU",
+                    "expanded_url": "http://corona-data.ch",
+                    "display_url": "corona-data.ch",
+                    "indices": [
+                        188,
+                        211
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "skepteis",
+                    "name": "Daniel Probst",
+                    "id": 824525636719022080,
+                    "id_str": "824525636719022080",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/VivmbSpkbT",
+                "expanded_url": "https://twitter.com/i/web/status/1254033697650737152",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "skepteis",
+                "name": "Daniel Probst",
+                "id": 824525636719022080,
+                "id_str": "824525636719022080",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819906996"
+}

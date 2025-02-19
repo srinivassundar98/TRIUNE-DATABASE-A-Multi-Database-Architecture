@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 13:39:45 +0000 2020",
+    "id": 1254042413489958912,
+    "id_str": "1254042413489958912",
+    "text": "@ie_seven @IndianExpress @ietrending Got any moves for corona, buddy",
+    "display_text_range": [
+        37,
+        68
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254033017011568642,
+    "in_reply_to_status_id_str": "1254033017011568642",
+    "in_reply_to_user_id": 963367366087380992,
+    "in_reply_to_user_id_str": "963367366087380992",
+    "in_reply_to_screen_name": "ie_seven",
+    "user": {
+        "id": 3383060773,
+        "id_str": "3383060773",
+        "name": "Priyanka MUDGAL",
+        "screen_name": "mudgal_vartika",
+        "location": "New Delhi, India",
+        "url": null,
+        "description": "Sitting in Delhi, watching the world and M.S.Dhoni",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 120,
+        "friends_count": 59,
+        "listed_count": 1,
+        "favourites_count": 32384,
+        "statuses_count": 6141,
+        "created_at": "Sat Aug 29 15:44:07 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253588622034571266/u-Edbct4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253588622034571266/u-Edbct4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3383060773/1587702216",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ie_seven",
+                "name": "Indian Express Seven",
+                "id": 963367366087380992,
+                "id_str": "963367366087380992",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "IndianExpress",
+                "name": "The Indian Express",
+                "id": 38647512,
+                "id_str": "38647512",
+                "indices": [
+                    10,
+                    24
+                ]
+            },
+            {
+                "screen_name": "ietrending",
+                "name": "Express Trending",
+                "id": 952815234682519553,
+                "id_str": "952815234682519553",
+                "indices": [
+                    25,
+                    36
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821985014"
+}

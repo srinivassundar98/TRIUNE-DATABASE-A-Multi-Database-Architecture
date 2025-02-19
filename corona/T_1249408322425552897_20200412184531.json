@@ -1,0 +1,165 @@
+{
+    "created_at": "Sun Apr 12 18:45:31 +0000 2020",
+    "id": 1249408322425552897,
+    "id_str": "1249408322425552897",
+    "text": "Ik die me tijdens Corona probeer bezig te houden. #demol https://t.co/O4DAEw8coC",
+    "display_text_range": [
+        0,
+        56
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 819304117906657281,
+        "id_str": "819304117906657281",
+        "name": "𝓷𝓮𝓵𝓮 💁‍♀️",
+        "screen_name": "purplepopster",
+        "location": "België",
+        "url": null,
+        "description": "/♫/☾/𓃠",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 166,
+        "friends_count": 289,
+        "listed_count": 0,
+        "favourites_count": 6147,
+        "statuses_count": 5311,
+        "created_at": "Wed Jan 11 22:04:58 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1215603704168091648/80oaafMJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215603704168091648/80oaafMJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/819304117906657281/1574727108",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "demol",
+                "indices": [
+                    50,
+                    56
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249408317392388101,
+                "id_str": "1249408317392388101",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKPrmXgAU3LOh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKPrmXgAU3LOh.jpg",
+                "url": "https://t.co/O4DAEw8coC",
+                "display_url": "pic.twitter.com/O4DAEw8coC",
+                "expanded_url": "https://twitter.com/purplepopster/status/1249408322425552897/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249408317392388101,
+                "id_str": "1249408317392388101",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKPrmXgAU3LOh.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKPrmXgAU3LOh.jpg",
+                "url": "https://t.co/O4DAEw8coC",
+                "display_url": "pic.twitter.com/O4DAEw8coC",
+                "expanded_url": "https://twitter.com/purplepopster/status/1249408322425552897/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586717131607"
+}

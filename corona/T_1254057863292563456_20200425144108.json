@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 14:41:08 +0000 2020",
+    "id": 1254057863292563456,
+    "id_str": "1254057863292563456",
+    "text": "Het nieuws is tegenwoordig corona voor en corona na. Ik ben het nu wel zat. (Of ben ik er zat van?) https://t.co/9ARnKidJLa",
+    "display_text_range": [
+        0,
+        99
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 904635424659922945,
+        "id_str": "904635424659922945",
+        "name": "René Bouwmeester",
+        "screen_name": "BouwmeesterRene",
+        "location": "Zaanstad, Nederland",
+        "url": null,
+        "description": "René Bouwmeester",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 3,
+        "listed_count": 0,
+        "favourites_count": 2,
+        "statuses_count": 10,
+        "created_at": "Mon Sep 04 09:21:07 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/904641801457459200/nYBLpDN1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/904641801457459200/nYBLpDN1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/904635424659922945/1504526665",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254057436249456641,
+                "id_str": "1254057436249456641",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdOmA-WAAEhwO7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdOmA-WAAEhwO7.jpg",
+                "url": "https://t.co/9ARnKidJLa",
+                "display_url": "pic.twitter.com/9ARnKidJLa",
+                "expanded_url": "https://twitter.com/BouwmeesterRene/status/1254057863292563456/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254057436249456641,
+                "id_str": "1254057436249456641",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdOmA-WAAEhwO7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdOmA-WAAEhwO7.jpg",
+                "url": "https://t.co/9ARnKidJLa",
+                "display_url": "pic.twitter.com/9ARnKidJLa",
+                "expanded_url": "https://twitter.com/BouwmeesterRene/status/1254057863292563456/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 360,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587825668534"
+}

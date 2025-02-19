@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 13:04:05 +0000 2020",
+    "id": 1254033438744723458,
+    "id_str": "1254033438744723458",
+    "text": "@brianschatz @danpfeiffer Trump is laying the groundwork for a new form of voter suppression in the age of corona.",
+    "display_text_range": [
+        26,
+        114
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253797470674403328,
+    "in_reply_to_status_id_str": "1253797470674403328",
+    "in_reply_to_user_id": 47747074,
+    "in_reply_to_user_id_str": "47747074",
+    "in_reply_to_screen_name": "brianschatz",
+    "user": {
+        "id": 18965055,
+        "id_str": "18965055",
+        "name": "Brad",
+        "screen_name": "Bradklyn",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 41,
+        "friends_count": 85,
+        "listed_count": 1,
+        "favourites_count": 557,
+        "statuses_count": 859,
+        "created_at": "Wed Jan 14 03:16:17 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137859596264136705/PVhtuDex_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137859596264136705/PVhtuDex_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "brianschatz",
+                "name": "Brian Schatz",
+                "id": 47747074,
+                "id_str": "47747074",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "danpfeiffer",
+                "name": "Dan Pfeiffer",
+                "id": 2922928743,
+                "id_str": "2922928743",
+                "indices": [
+                    13,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819845268"
+}

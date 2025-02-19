@@ -1,0 +1,183 @@
+{
+    "created_at": "Sat Apr 25 14:09:02 +0000 2020",
+    "id": 1254049783670595585,
+    "id_str": "1254049783670595585",
+    "text": "@Metropolitan73 @fjliebana @saez_tarre @_esther_sanz Solo se podría saber haciendo 3 test a la población, el rápido… https://t.co/4hAtxY8d3Y",
+    "display_text_range": [
+        53,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253973209139027968,
+    "in_reply_to_status_id_str": "1253973209139027968",
+    "in_reply_to_user_id": 2484590481,
+    "in_reply_to_user_id_str": "2484590481",
+    "in_reply_to_screen_name": "Metropolitan73",
+    "user": {
+        "id": 4157540236,
+        "id_str": "4157540236",
+        "name": "ivi para los amigos",
+        "screen_name": "isabel132132",
+        "location": "Mi casa",
+        "url": null,
+        "description": "Me gusta lo que me gusta.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 38,
+        "friends_count": 33,
+        "listed_count": 0,
+        "favourites_count": 5099,
+        "statuses_count": 1769,
+        "created_at": "Tue Nov 10 15:58:17 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247879456502489088/9z5zLap-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247879456502489088/9z5zLap-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4157540236/1558765277",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Metropolitan73 @fjliebana @saez_tarre @_esther_sanz Solo se podría saber haciendo 3 test a la población, el rápido de corona, el lento y el de anticuerpos",
+        "display_text_range": [
+            53,
+            155
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Metropolitan73",
+                    "name": "Metro 🇪🇺",
+                    "id": 2484590481,
+                    "id_str": "2484590481",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "fjliebana",
+                    "name": "Francisco",
+                    "id": 363020590,
+                    "id_str": "363020590",
+                    "indices": [
+                        16,
+                        26
+                    ]
+                },
+                {
+                    "screen_name": "saez_tarre",
+                    "name": "Francisco tarre saez",
+                    "id": 915141863719542784,
+                    "id_str": "915141863719542784",
+                    "indices": [
+                        27,
+                        38
+                    ]
+                },
+                {
+                    "screen_name": "_esther_sanz",
+                    "name": "⚫️ Esther Sanz",
+                    "id": 1000098956318269446,
+                    "id_str": "1000098956318269446",
+                    "indices": [
+                        39,
+                        52
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/4hAtxY8d3Y",
+                "expanded_url": "https://twitter.com/i/web/status/1254049783670595585",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Metropolitan73",
+                "name": "Metro 🇪🇺",
+                "id": 2484590481,
+                "id_str": "2484590481",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "fjliebana",
+                "name": "Francisco",
+                "id": 363020590,
+                "id_str": "363020590",
+                "indices": [
+                    16,
+                    26
+                ]
+            },
+            {
+                "screen_name": "saez_tarre",
+                "name": "Francisco tarre saez",
+                "id": 915141863719542784,
+                "id_str": "915141863719542784",
+                "indices": [
+                    27,
+                    38
+                ]
+            },
+            {
+                "screen_name": "_esther_sanz",
+                "name": "⚫️ Esther Sanz",
+                "id": 1000098956318269446,
+                "id_str": "1000098956318269446",
+                "indices": [
+                    39,
+                    52
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587823742202"
+}

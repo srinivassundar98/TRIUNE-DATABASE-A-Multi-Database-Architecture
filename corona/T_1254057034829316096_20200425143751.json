@@ -1,0 +1,195 @@
+{
+    "created_at": "Sat Apr 25 14:37:51 +0000 2020",
+    "id": 1254057034829316096,
+    "id_str": "1254057034829316096",
+    "text": "@KinraIce @JCetriolo @GavinNewsom I love my country I love my state and I pay my taxes but this homeless problems w… https://t.co/26DXa0VGra",
+    "display_text_range": [
+        34,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254053580710965248,
+    "in_reply_to_status_id_str": "1254053580710965248",
+    "in_reply_to_user_id": 835350386798026756,
+    "in_reply_to_user_id_str": "835350386798026756",
+    "in_reply_to_screen_name": "KinraIce",
+    "user": {
+        "id": 768344180,
+        "id_str": "768344180",
+        "name": "octavio",
+        "screen_name": "Ramirez90805ca",
+        "location": "California, USA",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 92,
+        "friends_count": 581,
+        "listed_count": 0,
+        "favourites_count": 5230,
+        "statuses_count": 1569,
+        "created_at": "Sun Aug 19 22:23:45 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/957665264379748352/Um6VSxVl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/957665264379748352/Um6VSxVl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/768344180/1529881235",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01c060cf466c6ce3",
+        "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json",
+        "place_type": "city",
+        "name": "Long Beach",
+        "full_name": "Long Beach, CA",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -118.250227,
+                        33.732905
+                    ],
+                    [
+                        -118.250227,
+                        33.885438
+                    ],
+                    [
+                        -118.063194,
+                        33.885438
+                    ],
+                    [
+                        -118.063194,
+                        33.732905
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@KinraIce @JCetriolo @GavinNewsom I love my country I love my state and I pay my taxes but this homeless problems was here long before corona virus . Democrats just take take take and where does it all go to . Pay to over funded pentions high salaries and they don’t care about me or you",
+        "display_text_range": [
+            34,
+            287
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KinraIce",
+                    "name": "Annabelle Lee",
+                    "id": 835350386798026756,
+                    "id_str": "835350386798026756",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "JCetriolo",
+                    "name": "Johnny Cetriolo",
+                    "id": 1252394510367236096,
+                    "id_str": "1252394510367236096",
+                    "indices": [
+                        10,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "GavinNewsom",
+                    "name": "Gavin Newsom",
+                    "id": 11347122,
+                    "id_str": "11347122",
+                    "indices": [
+                        21,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/26DXa0VGra",
+                "expanded_url": "https://twitter.com/i/web/status/1254057034829316096",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "KinraIce",
+                "name": "Annabelle Lee",
+                "id": 835350386798026756,
+                "id_str": "835350386798026756",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "JCetriolo",
+                "name": "Johnny Cetriolo",
+                "id": 1252394510367236096,
+                "id_str": "1252394510367236096",
+                "indices": [
+                    10,
+                    20
+                ]
+            },
+            {
+                "screen_name": "GavinNewsom",
+                "name": "Gavin Newsom",
+                "id": 11347122,
+                "id_str": "11347122",
+                "indices": [
+                    21,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825471013"
+}

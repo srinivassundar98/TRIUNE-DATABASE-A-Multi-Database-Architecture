@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun Apr 12 18:29:42 +0000 2020",
+    "id": 1249404342421065735,
+    "id_str": "1249404342421065735",
+    "text": "@Kar_Karrrr Corona taking over for 2019 and 2020 https://t.co/PogbyecV4T",
+    "display_text_range": [
+        12,
+        48
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249402929217404930,
+    "in_reply_to_status_id_str": "1249402929217404930",
+    "in_reply_to_user_id": 3245426166,
+    "in_reply_to_user_id_str": "3245426166",
+    "in_reply_to_screen_name": "Kar_Karrrr",
+    "user": {
+        "id": 321698681,
+        "id_str": "321698681",
+        "name": "booda",
+        "screen_name": "ay_booda",
+        "location": "baltimore",
+        "url": "http://onlyfans.com/ay_booda",
+        "description": "Single ASF hm📱",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 223,
+        "friends_count": 1636,
+        "listed_count": 2,
+        "favourites_count": 2819,
+        "statuses_count": 2225,
+        "created_at": "Wed Jun 22 00:24:18 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196958150584414208/jlsJNnDf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196958150584414208/jlsJNnDf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/321698681/1550409922",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Kar_Karrrr",
+                "name": "WACKSAUCE 🧚🏽‍♂️",
+                "id": 3245426166,
+                "id_str": "3245426166",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249404325677477891,
+                "id_str": "1249404325677477891",
+                "indices": [
+                    49,
+                    72
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EVbGnVTXsAMUcsz.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVbGnVTXsAMUcsz.jpg",
+                "url": "https://t.co/PogbyecV4T",
+                "display_url": "pic.twitter.com/PogbyecV4T",
+                "expanded_url": "https://twitter.com/ay_booda/status/1249404342421065735/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 378,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249404325677477891,
+                "id_str": "1249404325677477891",
+                "indices": [
+                    49,
+                    72
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EVbGnVTXsAMUcsz.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVbGnVTXsAMUcsz.jpg",
+                "url": "https://t.co/PogbyecV4T",
+                "display_url": "pic.twitter.com/PogbyecV4T",
+                "expanded_url": "https://twitter.com/ay_booda/status/1249404342421065735/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        83,
+                        63
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EVbGnVTXsAMUcsz.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 378,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716182700"
+}

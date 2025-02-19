@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 13:26:09 +0000 2020",
+    "id": 1254038994213634048,
+    "id_str": "1254038994213634048",
+    "text": "@AkitaOnRails Neste teclado que codificaram o Corona Vírus https://t.co/zmrh0AKELv",
+    "display_text_range": [
+        14,
+        58
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253805967973769218,
+    "in_reply_to_status_id_str": "1253805967973769218",
+    "in_reply_to_user_id": 3982931,
+    "in_reply_to_user_id_str": "3982931",
+    "in_reply_to_screen_name": "AkitaOnRails",
+    "user": {
+        "id": 1458154920,
+        "id_str": "1458154920",
+        "name": "Guri Graphics",
+        "screen_name": "GuriGraphics",
+        "location": null,
+        "url": null,
+        "description": "Indie Game Developer.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 58,
+        "friends_count": 90,
+        "listed_count": 12,
+        "favourites_count": 57,
+        "statuses_count": 192,
+        "created_at": "Sat May 25 22:20:29 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3710260402/3f71492c3f712e7f2702ae29c85b7b56_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3710260402/3f71492c3f712e7f2702ae29c85b7b56_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AkitaOnRails",
+                "name": "Akitando.com",
+                "id": 3982931,
+                "id_str": "3982931",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254030059188498434,
+                "id_str": "1254030059188498434",
+                "indices": [
+                    59,
+                    82
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc1sdeXsAI--tR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc1sdeXsAI--tR.jpg",
+                "url": "https://t.co/zmrh0AKELv",
+                "display_url": "pic.twitter.com/zmrh0AKELv",
+                "expanded_url": "https://twitter.com/GuriGraphics/status/1254038994213634048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 750,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 750,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254030059188498434,
+                "id_str": "1254030059188498434",
+                "indices": [
+                    59,
+                    82
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc1sdeXsAI--tR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc1sdeXsAI--tR.jpg",
+                "url": "https://t.co/zmrh0AKELv",
+                "display_url": "pic.twitter.com/zmrh0AKELv",
+                "expanded_url": "https://twitter.com/GuriGraphics/status/1254038994213634048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 750,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 750,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587821169795"
+}

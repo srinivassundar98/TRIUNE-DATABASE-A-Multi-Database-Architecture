@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:36:51 +0000 2020",
+    "id": 1254026585772081152,
+    "id_str": "1254026585772081152",
+    "text": "@katarinabarley @EU_Commission Ja. In DE laufen absurde Diskussionen zu der Corona-App, wo offensichtlich die Daten… https://t.co/toBTY7gpdy",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254004436416020481,
+    "in_reply_to_status_id_str": "1254004436416020481",
+    "in_reply_to_user_id": 4097559143,
+    "in_reply_to_user_id_str": "4097559143",
+    "in_reply_to_screen_name": "katarinabarley",
+    "user": {
+        "id": 211283627,
+        "id_str": "211283627",
+        "name": "Johannes Wobus",
+        "screen_name": "aufnahmen_",
+        "location": "Leipzig, Deutschland",
+        "url": "https://momente.org",
+        "description": "// ...analogfotografie mit eigenem labor und faible für fotografische experimente... // instagram  http://bit.ly/2Gx9lcN\nmanchmal bot, manchmal nix bot. ^^",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 837,
+        "friends_count": 81,
+        "listed_count": 9,
+        "favourites_count": 87336,
+        "statuses_count": 10379,
+        "created_at": "Tue Nov 02 20:47:23 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/977204302484787200/svJhh9bd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/977204302484787200/svJhh9bd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211283627/1521818675",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@katarinabarley @EU_Commission Ja. In DE laufen absurde Diskussionen zu der Corona-App, wo offensichtlich die Datenskandale der letzten Jahre \"vergessen\" wurden, man das Ding auf Basis v. Angst durchdrücken will u. Experten ignoriert werden. Der Schaden ist da auch entstanden. Schade.",
+        "display_text_range": [
+            31,
+            285
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "katarinabarley",
+                    "name": "Katarina Barley",
+                    "id": 4097559143,
+                    "id_str": "4097559143",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "EU_Commission",
+                    "name": "European Commission 🇪🇺",
+                    "id": 157981564,
+                    "id_str": "157981564",
+                    "indices": [
+                        16,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/toBTY7gpdy",
+                "expanded_url": "https://twitter.com/i/web/status/1254026585772081152",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "katarinabarley",
+                "name": "Katarina Barley",
+                "id": 4097559143,
+                "id_str": "4097559143",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "EU_Commission",
+                "name": "European Commission 🇪🇺",
+                "id": 157981564,
+                "id_str": "157981564",
+                "indices": [
+                    16,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818211392"
+}

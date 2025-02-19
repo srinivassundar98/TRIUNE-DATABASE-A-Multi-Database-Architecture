@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 13:53:11 +0000 2020",
+    "id": 1254045795583549440,
+    "id_str": "1254045795583549440",
+    "text": "@zlinuxguy @drsanjaygupta Yep.  I guess they are running out of related corona virus content, also trying to connec… https://t.co/wVpy0rWzw2",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254045443006160899,
+    "in_reply_to_status_id_str": "1254045443006160899",
+    "in_reply_to_user_id": 109262302,
+    "in_reply_to_user_id_str": "109262302",
+    "in_reply_to_screen_name": "zlinuxguy",
+    "user": {
+        "id": 4108188865,
+        "id_str": "4108188865",
+        "name": "Fake Ezzie ☕️ Moderately Caffeinated Centrist",
+        "screen_name": "fakeezzie",
+        "location": "Strathmore, Alberta",
+        "url": null,
+        "description": "Rural Albertan. Retired Farmer, Business Owner, Poli-Geek, Tech-Geek. Software design & deployment. Centrist. Market econ & Public Service to make things better",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1883,
+        "friends_count": 1355,
+        "listed_count": 42,
+        "favourites_count": 55441,
+        "statuses_count": 43438,
+        "created_at": "Tue Nov 03 02:20:43 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244427839258025985/hHPMR6HA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244427839258025985/hHPMR6HA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4108188865/1453393399",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@zlinuxguy @drsanjaygupta Yep.  I guess they are running out of related corona virus content, also trying to connect with kids, I guess.  It could be worse.  Fox is probably still talking about  the Benghazi hearings.",
+        "display_text_range": [
+            26,
+            217
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "zlinuxguy",
+                    "name": "Mark Spencer",
+                    "id": 109262302,
+                    "id_str": "109262302",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "drsanjaygupta",
+                    "name": "Dr. Sanjay Gupta",
+                    "id": 18170896,
+                    "id_str": "18170896",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/wVpy0rWzw2",
+                "expanded_url": "https://twitter.com/i/web/status/1254045795583549440",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "zlinuxguy",
+                "name": "Mark Spencer",
+                "id": 109262302,
+                "id_str": "109262302",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "drsanjaygupta",
+                "name": "Dr. Sanjay Gupta",
+                "id": 18170896,
+                "id_str": "18170896",
+                "indices": [
+                    11,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822791368"
+}

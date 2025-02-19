@@ -1,0 +1,175 @@
+{
+    "created_at": "Sat Apr 25 13:20:37 +0000 2020",
+    "id": 1254037599485820929,
+    "id_str": "1254037599485820929",
+    "text": "@GuidoTartarotti @IlzchenRumpelst bei HIV da ging es um retro-viren. die sind tricky. ich wette, es wird eines tage… https://t.co/fi6YlKal1r",
+    "display_text_range": [
+        34,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253803181634727944,
+    "in_reply_to_status_id_str": "1253803181634727944",
+    "in_reply_to_user_id": 1040179733139517440,
+    "in_reply_to_user_id_str": "1040179733139517440",
+    "in_reply_to_screen_name": "GuidoTartarotti",
+    "user": {
+        "id": 18530585,
+        "id_str": "18530585",
+        "name": "Thomas Seifert",
+        "screen_name": "thomasseifert",
+        "location": "Vienna, Austria",
+        "url": "http://about.me/thomasseifert",
+        "description": "Journalist trying to make sense of it all. Retweets, follows do not equal endorsements. / Dept. Editor in Chief @wienerzeitung / Opinions my own.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5402,
+        "friends_count": 3820,
+        "listed_count": 225,
+        "favourites_count": 10046,
+        "statuses_count": 15150,
+        "created_at": "Thu Jan 01 16:40:09 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FF1234",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/761831126/twitterthomas_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/761831126/twitterthomas_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18530585/1355658820",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "61f2a29a43f7538e",
+        "url": "https://api.twitter.com/1.1/geo/id/61f2a29a43f7538e.json",
+        "place_type": "city",
+        "name": "Raabs an der Thaya",
+        "full_name": "Raabs an der Thaya, Österreich",
+        "country_code": "AT",
+        "country": "Austria",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        15.395679,
+                        48.816833
+                    ],
+                    [
+                        15.395679,
+                        48.951793
+                    ],
+                    [
+                        15.609987,
+                        48.951793
+                    ],
+                    [
+                        15.609987,
+                        48.816833
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@GuidoTartarotti @IlzchenRumpelst bei HIV da ging es um retro-viren. die sind tricky. ich wette, es wird eines tages breitband-anti-viralale präparate geben, daran wird bereits intensiv geforscht. die meisten corona-viren waren bisher schlimmstenfalls lästig (ausnahme zB sars-coV-1, mers), da bringt impfen nix",
+        "display_text_range": [
+            34,
+            311
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "GuidoTartarotti",
+                    "name": "Guido Tartarotti",
+                    "id": 1040179733139517440,
+                    "id_str": "1040179733139517440",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "IlzchenRumpelst",
+                    "name": "Ilzchen rumpelst",
+                    "id": 514289818,
+                    "id_str": "514289818",
+                    "indices": [
+                        17,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/fi6YlKal1r",
+                "expanded_url": "https://twitter.com/i/web/status/1254037599485820929",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "GuidoTartarotti",
+                "name": "Guido Tartarotti",
+                "id": 1040179733139517440,
+                "id_str": "1040179733139517440",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "IlzchenRumpelst",
+                "name": "Ilzchen rumpelst",
+                "id": 514289818,
+                "id_str": "514289818",
+                "indices": [
+                    17,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820837266"
+}

@@ -1,0 +1,651 @@
+{
+    "created_at": "Sat Apr 25 13:58:21 +0000 2020",
+    "id": 1254047097025896448,
+    "id_str": "1254047097025896448",
+    "text": "RT @baerbelbas: Vielleicht kann dieser gemeinsame Appell der vier Jugendverbände Ministerin @AnjaKarliczek noch überzeugen. Unsere Unterstü…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 100816694,
+        "id_str": "100816694",
+        "name": "Torsten Rekewitz",
+        "screen_name": "torsten_hautnah",
+        "location": "Pulheim",
+        "url": "https://tellonym.me/Torstenhautnah",
+        "description": "Ich habe einen Führerschein und NRW-Abi. Oh, und ich habe den Hashtag „#Twütschenfest“ erfunden. Heiraten? 💍",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3012,
+        "friends_count": 2753,
+        "listed_count": 92,
+        "favourites_count": 223027,
+        "statuses_count": 148265,
+        "created_at": "Thu Dec 31 18:10:36 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "292929",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "B71C3E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239920445345927168/9Nlw8g9F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239920445345927168/9Nlw8g9F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/100816694/1587156717",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 09:43:48 +0000 2020",
+        "id": 1253983037844578304,
+        "id_str": "1253983037844578304",
+        "text": "Vielleicht kann dieser gemeinsame Appell der vier Jugendverbände Ministerin @AnjaKarliczek noch überzeugen. Unsere… https://t.co/PITT6493w2",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 19438957,
+            "id_str": "19438957",
+            "name": "Bärbel Bas",
+            "screen_name": "baerbelbas",
+            "location": "Germany",
+            "url": "http://www.baerbelbas.de",
+            "description": "Duisburgerin|Bundestagsabgeordnete|Gesundheitspolitikerin|Stellv.  Fraktionsvorsitzende @spdbt| Landesparteiratsvorsitzende @NRWSPD",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 5065,
+            "friends_count": 2247,
+            "listed_count": 271,
+            "favourites_count": 19574,
+            "statuses_count": 6516,
+            "created_at": "Sat Jan 24 09:39:46 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "ED1524",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C5344",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3685184246/d945f330c88d7952249ad132340b02e0_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3685184246/d945f330c88d7952249ad132340b02e0_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19438957/1381525675",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253966142420516864,
+        "quoted_status_id_str": "1253966142420516864",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 08:36:40 +0000 2020",
+            "id": 1253966142420516864,
+            "id_str": "1253966142420516864",
+            "text": "Ein starker Appell für echte #Solidarität mit Studierenden in Notlagen, den vier Partei-Jugendverbände unterschrieb… https://t.co/A4BxnLoy5p",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 231440493,
+                "id_str": "231440493",
+                "name": "Oliver Kaczmarek",
+                "screen_name": "KaczmarekOliver",
+                "location": "Kamen",
+                "url": "http://www.oliver-kaczmarek.de",
+                "description": "Bildungs- und forschungspolitischer Sprecher @spdbt, MdB Wahlkreis Unna I, Mitglied im SPD-Parteivorstand, Vorsitzender SPD Kreis Unna",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 3245,
+                "friends_count": 590,
+                "listed_count": 169,
+                "favourites_count": 479,
+                "statuses_count": 1982,
+                "created_at": "Tue Dec 28 14:43:48 +0000 2010",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/987652314075992064/QIEd2eYp_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/987652314075992064/QIEd2eYp_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/231440493/1349757427",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "55836a6e8d99f975",
+                "url": "https://api.twitter.com/1.1/geo/id/55836a6e8d99f975.json",
+                "place_type": "city",
+                "name": "Kamen",
+                "full_name": "Kamen, Deutschland",
+                "country_code": "DE",
+                "country": "Deutschland",
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                7.590302,
+                                51.548507
+                            ],
+                            [
+                                7.590302,
+                                51.614987
+                            ],
+                            [
+                                7.750522,
+                                51.614987
+                            ],
+                            [
+                                7.750522,
+                                51.548507
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Ein starker Appell für echte #Solidarität mit Studierenden in Notlagen, den vier Partei-Jugendverbände unterschrieben haben! Daran kann man nicht einfach vorbeigehen. #SPD #NothilfeBAfoeG #BAfoeG @jusos #jungeunion #gruenejugend #jungeliberale https://t.co/EpgePnFrHZ",
+                "display_text_range": [
+                    0,
+                    267
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Solidarität",
+                            "indices": [
+                                29,
+                                41
+                            ]
+                        },
+                        {
+                            "text": "SPD",
+                            "indices": [
+                                167,
+                                171
+                            ]
+                        },
+                        {
+                            "text": "NothilfeBAfoeG",
+                            "indices": [
+                                172,
+                                187
+                            ]
+                        },
+                        {
+                            "text": "BAfoeG",
+                            "indices": [
+                                188,
+                                195
+                            ]
+                        },
+                        {
+                            "text": "jungeunion",
+                            "indices": [
+                                203,
+                                214
+                            ]
+                        },
+                        {
+                            "text": "gruenejugend",
+                            "indices": [
+                                215,
+                                228
+                            ]
+                        },
+                        {
+                            "text": "jungeliberale",
+                            "indices": [
+                                229,
+                                243
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/EpgePnFrHZ",
+                            "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-junge-union-jusos-julis-und-junge-gruene-fordern-bafoeg-oeffnung-a-fc71bc71-d058-42f2-a73c-73e1a94c484d",
+                            "display_url": "spiegel.de/politik/deutsc…",
+                            "indices": [
+                                244,
+                                267
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "jusos",
+                            "name": "Jusos in der SPD",
+                            "id": 31087080,
+                            "id_str": "31087080",
+                            "indices": [
+                                196,
+                                202
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 8,
+            "favorite_count": 38,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Solidarität",
+                        "indices": [
+                            29,
+                            41
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/A4BxnLoy5p",
+                        "expanded_url": "https://twitter.com/i/web/status/1253966142420516864",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/GeIs5yIdvZ",
+            "expanded": "https://twitter.com/kaczmarekoliver/status/1253966142420516864",
+            "display": "twitter.com/kaczmarekolive…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Vielleicht kann dieser gemeinsame Appell der vier Jugendverbände Ministerin @AnjaKarliczek noch überzeugen. Unsere Unterstützung hätte sie. #Bafög",
+            "display_text_range": [
+                0,
+                146
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Bafög",
+                        "indices": [
+                            140,
+                            146
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AnjaKarliczek",
+                        "name": "Anja Karliczek",
+                        "id": 2521976694,
+                        "id_str": "2521976694",
+                        "indices": [
+                            76,
+                            90
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 20,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PITT6493w2",
+                    "expanded_url": "https://twitter.com/i/web/status/1253983037844578304",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "AnjaKarliczek",
+                    "name": "Anja Karliczek",
+                    "id": 2521976694,
+                    "id_str": "2521976694",
+                    "indices": [
+                        76,
+                        90
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1253966142420516864,
+    "quoted_status_id_str": "1253966142420516864",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 08:36:40 +0000 2020",
+        "id": 1253966142420516864,
+        "id_str": "1253966142420516864",
+        "text": "Ein starker Appell für echte #Solidarität mit Studierenden in Notlagen, den vier Partei-Jugendverbände unterschrieb… https://t.co/A4BxnLoy5p",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 231440493,
+            "id_str": "231440493",
+            "name": "Oliver Kaczmarek",
+            "screen_name": "KaczmarekOliver",
+            "location": "Kamen",
+            "url": "http://www.oliver-kaczmarek.de",
+            "description": "Bildungs- und forschungspolitischer Sprecher @spdbt, MdB Wahlkreis Unna I, Mitglied im SPD-Parteivorstand, Vorsitzender SPD Kreis Unna",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 3245,
+            "friends_count": 590,
+            "listed_count": 169,
+            "favourites_count": 479,
+            "statuses_count": 1982,
+            "created_at": "Tue Dec 28 14:43:48 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/987652314075992064/QIEd2eYp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/987652314075992064/QIEd2eYp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/231440493/1349757427",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "55836a6e8d99f975",
+            "url": "https://api.twitter.com/1.1/geo/id/55836a6e8d99f975.json",
+            "place_type": "city",
+            "name": "Kamen",
+            "full_name": "Kamen, Deutschland",
+            "country_code": "DE",
+            "country": "Deutschland",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            7.590302,
+                            51.548507
+                        ],
+                        [
+                            7.590302,
+                            51.614987
+                        ],
+                        [
+                            7.750522,
+                            51.614987
+                        ],
+                        [
+                            7.750522,
+                            51.548507
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Ein starker Appell für echte #Solidarität mit Studierenden in Notlagen, den vier Partei-Jugendverbände unterschrieben haben! Daran kann man nicht einfach vorbeigehen. #SPD #NothilfeBAfoeG #BAfoeG @jusos #jungeunion #gruenejugend #jungeliberale https://t.co/EpgePnFrHZ",
+            "display_text_range": [
+                0,
+                267
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Solidarität",
+                        "indices": [
+                            29,
+                            41
+                        ]
+                    },
+                    {
+                        "text": "SPD",
+                        "indices": [
+                            167,
+                            171
+                        ]
+                    },
+                    {
+                        "text": "NothilfeBAfoeG",
+                        "indices": [
+                            172,
+                            187
+                        ]
+                    },
+                    {
+                        "text": "BAfoeG",
+                        "indices": [
+                            188,
+                            195
+                        ]
+                    },
+                    {
+                        "text": "jungeunion",
+                        "indices": [
+                            203,
+                            214
+                        ]
+                    },
+                    {
+                        "text": "gruenejugend",
+                        "indices": [
+                            215,
+                            228
+                        ]
+                    },
+                    {
+                        "text": "jungeliberale",
+                        "indices": [
+                            229,
+                            243
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/EpgePnFrHZ",
+                        "expanded_url": "https://www.spiegel.de/politik/deutschland/corona-junge-union-jusos-julis-und-junge-gruene-fordern-bafoeg-oeffnung-a-fc71bc71-d058-42f2-a73c-73e1a94c484d",
+                        "display_url": "spiegel.de/politik/deutsc…",
+                        "indices": [
+                            244,
+                            267
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "jusos",
+                        "name": "Jusos in der SPD",
+                        "id": 31087080,
+                        "id_str": "31087080",
+                        "indices": [
+                            196,
+                            202
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 8,
+        "favorite_count": 38,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Solidarität",
+                    "indices": [
+                        29,
+                        41
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/A4BxnLoy5p",
+                    "expanded_url": "https://twitter.com/i/web/status/1253966142420516864",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/GeIs5yIdvZ",
+        "expanded": "https://twitter.com/kaczmarekoliver/status/1253966142420516864",
+        "display": "twitter.com/kaczmarekolive…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "baerbelbas",
+                "name": "Bärbel Bas",
+                "id": 19438957,
+                "id_str": "19438957",
+                "indices": [
+                    3,
+                    14
+                ]
+            },
+            {
+                "screen_name": "AnjaKarliczek",
+                "name": "Anja Karliczek",
+                "id": 2521976694,
+                "id_str": "2521976694",
+                "indices": [
+                    92,
+                    106
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823101656"
+}

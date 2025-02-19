@@ -1,0 +1,122 @@
+{
+    "created_at": "Sun Apr 12 18:36:13 +0000 2020",
+    "id": 1249405982427344896,
+    "id_str": "1249405982427344896",
+    "text": "@narendramodi Ap se anurodh hai k aap a c or cooler k baarey me bhi btaye k hum log chala sktey hai ya nahi corona… https://t.co/7axXYqcsn2",
+    "display_text_range": [
+        14,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249255433962831872,
+    "in_reply_to_status_id_str": "1249255433962831872",
+    "in_reply_to_user_id": 18839785,
+    "in_reply_to_user_id_str": "18839785",
+    "in_reply_to_screen_name": "narendramodi",
+    "user": {
+        "id": 1249044337419116544,
+        "id_str": "1249044337419116544",
+        "name": "Muneer",
+        "screen_name": "Muneer78125691",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 17,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 1,
+        "created_at": "Sat Apr 11 18:39:34 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@narendramodi Ap se anurodh hai k aap a c or cooler k baarey me bhi btaye k hum log chala sktey hai ya nahi corona virus k chaley kyu hme Sahi se pta nhi kya Sahi hai kya galat",
+        "display_text_range": [
+            14,
+            176
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "narendramodi",
+                    "name": "Narendra Modi",
+                    "id": 18839785,
+                    "id_str": "18839785",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/7axXYqcsn2",
+                "expanded_url": "https://twitter.com/i/web/status/1249405982427344896",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "narendramodi",
+                "name": "Narendra Modi",
+                "id": 18839785,
+                "id_str": "18839785",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1586716573708"
+}

@@ -1,0 +1,178 @@
+{
+    "created_at": "Sat Apr 25 12:37:59 +0000 2020",
+    "id": 1254026873375424512,
+    "id_str": "1254026873375424512",
+    "text": "El consejo del día de @nytimes\n\nPor favor, no comas desinfectante. https://t.co/aeyvJsg8fC https://t.co/fsv4n8u6cH",
+    "display_text_range": [
+        0,
+        90
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 15402806,
+        "id_str": "15402806",
+        "name": "José Manuel Blázquez",
+        "screen_name": "Elzo_",
+        "location": null,
+        "url": "http://elzo-meridianos.blogspot.com",
+        "description": "josE manueL blázqueZ alonsO creador del blog Meridianos, pescador de historias y escritor ocasional.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4184,
+        "friends_count": 1028,
+        "listed_count": 192,
+        "favourites_count": 38794,
+        "statuses_count": 120382,
+        "created_at": "Sat Jul 12 10:24:03 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229178426420006912/OCrTXpmr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229178426420006912/OCrTXpmr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15402806/1581897394",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/aeyvJsg8fC",
+                "expanded_url": "https://www.nytimes.com/article/coronavirus-disinfectant-inject-ingest.html",
+                "display_url": "nytimes.com/article/corona…",
+                "indices": [
+                    67,
+                    90
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "nytimes",
+                "name": "The New York Times",
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    22,
+                    30
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254026867771936769,
+                "id_str": "1254026867771936769",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcyyshXkAE88kN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcyyshXkAE88kN.jpg",
+                "url": "https://t.co/fsv4n8u6cH",
+                "display_url": "pic.twitter.com/fsv4n8u6cH",
+                "expanded_url": "https://twitter.com/Elzo_/status/1254026873375424512/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 452,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 1082,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 719,
+                        "h": 1082,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254026867771936769,
+                "id_str": "1254026867771936769",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcyyshXkAE88kN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcyyshXkAE88kN.jpg",
+                "url": "https://t.co/fsv4n8u6cH",
+                "display_url": "pic.twitter.com/fsv4n8u6cH",
+                "expanded_url": "https://twitter.com/Elzo_/status/1254026873375424512/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 452,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 1082,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 719,
+                        "h": 1082,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587818279962"
+}

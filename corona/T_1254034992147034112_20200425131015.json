@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 13:10:15 +0000 2020",
+    "id": 1254034992147034112,
+    "id_str": "1254034992147034112",
+    "text": "@burhanassiraj @faridrozaq @moccadmui @collegemenfess sip abis corona ya",
+    "display_text_range": [
+        54,
+        72
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253950903582773249,
+    "in_reply_to_status_id_str": "1253950903582773249",
+    "in_reply_to_user_id": 242279703,
+    "in_reply_to_user_id_str": "242279703",
+    "in_reply_to_screen_name": "burhanassiraj",
+    "user": {
+        "id": 483470396,
+        "id_str": "483470396",
+        "name": "Aldi Alfarizi",
+        "screen_name": "Alfarizi_Aldi",
+        "location": "Depok, Jawa Barat",
+        "url": "http://penabercahaya.wordpress.com",
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 444,
+        "friends_count": 481,
+        "listed_count": 1,
+        "favourites_count": 263,
+        "statuses_count": 2693,
+        "created_at": "Sun Feb 05 02:03:08 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "00CCFF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "8DFF00",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148205963087757312/e98TzkHM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148205963087757312/e98TzkHM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/483470396/1559614084",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "burhanassiraj",
+                "name": "Burhanuddin As-Siraj",
+                "id": 242279703,
+                "id_str": "242279703",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "faridrozaq",
+                "name": "Farid Miftahul Rozaq",
+                "id": 77912293,
+                "id_str": "77912293",
+                "indices": [
+                    15,
+                    26
+                ]
+            },
+            {
+                "screen_name": "moccadmui",
+                "name": "Mui",
+                "id": 1008700132529848321,
+                "id_str": "1008700132529848321",
+                "indices": [
+                    27,
+                    37
+                ]
+            },
+            {
+                "screen_name": "collegemenfess",
+                "name": "ON | CEK PINNED!",
+                "id": 1046084008742801408,
+                "id_str": "1046084008742801408",
+                "indices": [
+                    38,
+                    53
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587820215628"
+}

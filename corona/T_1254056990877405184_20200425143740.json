@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 14:37:40 +0000 2020",
+    "id": 1254056990877405184,
+    "id_str": "1254056990877405184",
+    "text": "@pablomckinney EL Dilema real lo tiene el Gobierno, tratar de balancear la dosis adecuada de Corona virus como para… https://t.co/CLxcTQ2HV0",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254054362634235905,
+    "in_reply_to_status_id_str": "1254054362634235905",
+    "in_reply_to_user_id": 143005028,
+    "in_reply_to_user_id_str": "143005028",
+    "in_reply_to_screen_name": "pablomckinney",
+    "user": {
+        "id": 70981991,
+        "id_str": "70981991",
+        "name": "Ramon Rojas",
+        "screen_name": "rrojas101775",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 19,
+        "friends_count": 94,
+        "listed_count": 0,
+        "favourites_count": 74,
+        "statuses_count": 146,
+        "created_at": "Wed Sep 02 14:47:43 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250447378857046017/qIfOWxk7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250447378857046017/qIfOWxk7_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@pablomckinney EL Dilema real lo tiene el Gobierno, tratar de balancear la dosis adecuada de Corona virus como para que la abstención le ayude a quizás una segunda vuelta, pero no lo suficiente como para que salga fuera de control y lo culpen a ellos y definitivamente pierdan en primera vuelta",
+        "display_text_range": [
+            15,
+            294
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "pablomckinney",
+                    "name": "Pablo McKinney",
+                    "id": 143005028,
+                    "id_str": "143005028",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/CLxcTQ2HV0",
+                "expanded_url": "https://twitter.com/i/web/status/1254056990877405184",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "pablomckinney",
+                "name": "Pablo McKinney",
+                "id": 143005028,
+                "id_str": "143005028",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587825460534"
+}

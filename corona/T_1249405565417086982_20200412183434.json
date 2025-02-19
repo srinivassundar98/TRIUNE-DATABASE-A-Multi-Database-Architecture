@@ -1,0 +1,163 @@
+{
+    "created_at": "Sun Apr 12 18:34:34 +0000 2020",
+    "id": 1249405565417086982,
+    "id_str": "1249405565417086982",
+    "text": "@sambajennifer @HoustonChron @TilmanJFertitta Probably finding some depressed valued property the poor are being ki… https://t.co/3m17GW4eUc",
+    "display_text_range": [
+        46,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249077472785764359,
+    "in_reply_to_status_id_str": "1249077472785764359",
+    "in_reply_to_user_id": 34654700,
+    "in_reply_to_user_id_str": "34654700",
+    "in_reply_to_screen_name": "sambajennifer",
+    "user": {
+        "id": 2384763384,
+        "id_str": "2384763384",
+        "name": "Doug",
+        "screen_name": "Doug8736",
+        "location": "America",
+        "url": null,
+        "description": "Houston, Texas",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 342,
+        "friends_count": 61,
+        "listed_count": 6,
+        "favourites_count": 7392,
+        "statuses_count": 1997,
+        "created_at": "Wed Mar 12 06:06:45 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081080819773513729/D8ZOhVOF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081080819773513729/D8ZOhVOF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2384763384/1581803044",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@sambajennifer @HoustonChron @TilmanJFertitta Probably finding some depressed valued property the poor are being kicked out because of the Corona and scooping it up while the iron's hot. Jesus, Jen. Didn't you read shut up and listen? SMH 😁 Fuck Fertitta",
+        "display_text_range": [
+            46,
+            254
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sambajennifer",
+                    "name": "Jennifer S",
+                    "id": 34654700,
+                    "id_str": "34654700",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "HoustonChron",
+                    "name": "Houston Chronicle",
+                    "id": 8940342,
+                    "id_str": "8940342",
+                    "indices": [
+                        15,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "TilmanJFertitta",
+                    "name": "Tilman Fertitta",
+                    "id": 1935087769,
+                    "id_str": "1935087769",
+                    "indices": [
+                        29,
+                        45
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/3m17GW4eUc",
+                "expanded_url": "https://twitter.com/i/web/status/1249405565417086982",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sambajennifer",
+                "name": "Jennifer S",
+                "id": 34654700,
+                "id_str": "34654700",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "HoustonChron",
+                "name": "Houston Chronicle",
+                "id": 8940342,
+                "id_str": "8940342",
+                "indices": [
+                    15,
+                    28
+                ]
+            },
+            {
+                "screen_name": "TilmanJFertitta",
+                "name": "Tilman Fertitta",
+                "id": 1935087769,
+                "id_str": "1935087769",
+                "indices": [
+                    29,
+                    45
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716474285"
+}

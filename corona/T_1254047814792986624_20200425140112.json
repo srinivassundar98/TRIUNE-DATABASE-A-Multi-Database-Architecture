@@ -1,0 +1,181 @@
+{
+    "created_at": "Sat Apr 25 14:01:12 +0000 2020",
+    "id": 1254047814792986624,
+    "id_str": "1254047814792986624",
+    "text": "Turkse corona-party https://t.co/8KditMJGGo",
+    "display_text_range": [
+        0,
+        19
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2257775340,
+        "id_str": "2257775340",
+        "name": "de Jonge Turken",
+        "screen_name": "deJongeTurken",
+        "location": null,
+        "url": "http://www.dejongeturken.com/",
+        "description": "Nieuws over #Turkije in het Nederlands\nFacebook: http://facebook.com/deJongeTurken/\nInsta: http://instagram.com/dejongeturken/\nSite: http://dejongeturken.com/",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1904,
+        "friends_count": 37,
+        "listed_count": 7,
+        "favourites_count": 276,
+        "statuses_count": 6490,
+        "created_at": "Sun Dec 22 14:22:54 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "E5E7E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/467989825074003968/4qcHIVwa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/467989825074003968/4qcHIVwa_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2257775340/1428762302",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254047777304317952,
+                "id_str": "1254047777304317952",
+                "indices": [
+                    20,
+                    43
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254047777304317952/pu/img/R74xyd7uxHc7F6yO.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254047777304317952/pu/img/R74xyd7uxHc7F6yO.jpg",
+                "url": "https://t.co/8KditMJGGo",
+                "display_url": "pic.twitter.com/8KditMJGGo",
+                "expanded_url": "https://twitter.com/deJongeTurken/status/1254047814792986624/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254047777304317952,
+                "id_str": "1254047777304317952",
+                "indices": [
+                    20,
+                    43
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254047777304317952/pu/img/R74xyd7uxHc7F6yO.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254047777304317952/pu/img/R74xyd7uxHc7F6yO.jpg",
+                "url": "https://t.co/8KditMJGGo",
+                "display_url": "pic.twitter.com/8KditMJGGo",
+                "expanded_url": "https://twitter.com/deJongeTurken/status/1254047814792986624/video/1",
+                "type": "video",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 27733,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1254047777304317952/pu/pl/nEJ8Mb784B_JmhU7.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254047777304317952/pu/vid/480x270/yULJcYHk8cQjZbqP.mp4?tag=10"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "medium": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 270,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1587823272785"
+}

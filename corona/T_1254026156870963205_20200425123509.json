@@ -1,0 +1,195 @@
+{
+    "created_at": "Sat Apr 25 12:35:09 +0000 2020",
+    "id": 1254026156870963205,
+    "id_str": "1254026156870963205",
+    "text": "Wedding in the age of corona https://t.co/9CBJHJxKFe",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 85412036,
+        "id_str": "85412036",
+        "name": "Bruno Zupan",
+        "screen_name": "komacore",
+        "location": null,
+        "url": null,
+        "description": "Content, communications & events / Art & beauty aficionado / Jacbri",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2529,
+        "friends_count": 1078,
+        "listed_count": 64,
+        "favourites_count": 0,
+        "statuses_count": 48176,
+        "created_at": "Mon Oct 26 20:52:33 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "D90000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6D6D6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/785907998673731588/Dplc-a5w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/785907998673731588/Dplc-a5w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85412036/1396957476",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1252348312511897600,
+                "id_str": "1252348312511897600",
+                "indices": [
+                    29,
+                    52
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1252348312511897600/img/oJEDS08gxsH1H29C.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1252348312511897600/img/oJEDS08gxsH1H29C.jpg",
+                "url": "https://t.co/9CBJHJxKFe",
+                "display_url": "pic.twitter.com/9CBJHJxKFe",
+                "expanded_url": "https://twitter.com/ABC/status/1254017368973590528/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1254017368973590528,
+                "source_status_id_str": "1254017368973590528",
+                "source_user_id": 28785486,
+                "source_user_id_str": "28785486"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1252348312511897600,
+                "id_str": "1252348312511897600",
+                "indices": [
+                    29,
+                    52
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1252348312511897600/img/oJEDS08gxsH1H29C.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1252348312511897600/img/oJEDS08gxsH1H29C.jpg",
+                "url": "https://t.co/9CBJHJxKFe",
+                "display_url": "pic.twitter.com/9CBJHJxKFe",
+                "expanded_url": "https://twitter.com/ABC/status/1254017368973590528/video/1",
+                "type": "video",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 61687,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1252348312511897600/vid/720x1280/i6rIkoYZn5btrhrn.mp4?tag=13"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1252348312511897600/pl/N4C1fL-GfEcgL6Nm.m3u8?tag=13"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1252348312511897600/vid/320x568/JV-dH2i3ie5sg5Ys.mp4?tag=13"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1252348312511897600/vid/360x640/CBd86G5O6SQVfpzi.mp4?tag=13"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1254017368973590528,
+                "source_status_id_str": "1254017368973590528",
+                "source_user_id": 28785486,
+                "source_user_id_str": "28785486"
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818109134"
+}

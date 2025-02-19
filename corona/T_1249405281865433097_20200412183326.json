@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun Apr 12 18:33:26 +0000 2020",
+    "id": 1249405281865433097,
+    "id_str": "1249405281865433097",
+    "text": "@IrshadBhatti336 Is Qoum p Corona k sath sath tm jaose lifafy b azab ki shakal me nazil ho chuky hy",
+    "display_text_range": [
+        17,
+        99
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249404202172002306,
+    "in_reply_to_status_id_str": "1249404202172002306",
+    "in_reply_to_user_id": 723309166782255104,
+    "in_reply_to_user_id_str": "723309166782255104",
+    "in_reply_to_screen_name": "IrshadBhatti336",
+    "user": {
+        "id": 849448946497982464,
+        "id_str": "849448946497982464",
+        "name": "کھٹے انگور 🍇 (👩‍⚕️Salute to Medical Teams)",
+        "screen_name": "Intellactual86",
+        "location": "فیصل آباد، پنجاب، پاکستان",
+        "url": null,
+        "description": "‏‏‏‏‏‏‏نہ اسّی شہزادے، نہ والد صاحب ساڈے کوئی کنگ، وہلے اسّی وہلے ساڈے یار سارے، نہ کوئی بیوروکریٹس سے لنک  ⁦🤷‍♂️⁩",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1061,
+        "friends_count": 398,
+        "listed_count": 0,
+        "favourites_count": 44523,
+        "statuses_count": 15401,
+        "created_at": "Wed Apr 05 02:29:45 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228179089581674496/rrUhJqxQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228179089581674496/rrUhJqxQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/849448946497982464/1582303485",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "018e8acc2d577f67",
+        "url": "https://api.twitter.com/1.1/geo/id/018e8acc2d577f67.json",
+        "place_type": "city",
+        "name": "Lyallpur",
+        "full_name": "Lyallpur, Pakistan",
+        "country_code": "PK",
+        "country": "Pakistan",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        73.028305,
+                        31.362499
+                    ],
+                    [
+                        73.028305,
+                        31.456778
+                    ],
+                    [
+                        73.14592,
+                        31.456778
+                    ],
+                    [
+                        73.14592,
+                        31.362499
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "IrshadBhatti336",
+                "name": "Irshad Bhatti",
+                "id": 723309166782255104,
+                "id_str": "723309166782255104",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1586716406681"
+}

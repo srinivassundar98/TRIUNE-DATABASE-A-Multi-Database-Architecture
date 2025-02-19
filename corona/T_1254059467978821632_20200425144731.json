@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:47:31 +0000 2020",
+    "id": 1254059467978821632,
+    "id_str": "1254059467978821632",
+    "text": "@userpimenta Aqui teve no inicio, tava bonito de ver, agora ta largado.. aqui tem muita milicia ne.. ai ja viu.. el… https://t.co/SV1y4GTZVM",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254058447810768896,
+    "in_reply_to_status_id_str": "1254058447810768896",
+    "in_reply_to_user_id": 890672200767950848,
+    "in_reply_to_user_id_str": "890672200767950848",
+    "in_reply_to_screen_name": "userpimenta",
+    "user": {
+        "id": 549328592,
+        "id_str": "549328592",
+        "name": "🧝‍♀️ Monica sem acento 🖖 (🏡)",
+        "screen_name": "peixinhatuita",
+        "location": "rio de janeiro",
+        "url": null,
+        "description": "estudo teatro, vejo realitys e falo mal do presidente.\nAh, tem negocio de novela Turca tambem.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 275,
+        "friends_count": 817,
+        "listed_count": 0,
+        "favourites_count": 145009,
+        "statuses_count": 13874,
+        "created_at": "Mon Apr 09 15:50:54 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251173742102876171/fR7Lwl-F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251173742102876171/fR7Lwl-F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/549328592/1553014696",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@userpimenta Aqui teve no inicio, tava bonito de ver, agora ta largado.. aqui tem muita milicia ne.. ai ja viu.. eles fizeram carreata pra abrir o comercio, falando no carro de som q era mentira do witzel que ele tava com corona, um show de horrores.",
+        "display_text_range": [
+            13,
+            250
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "userpimenta",
+                    "name": "pepper ✌🏾",
+                    "id": 890672200767950848,
+                    "id_str": "890672200767950848",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/SV1y4GTZVM",
+                "expanded_url": "https://twitter.com/i/web/status/1254059467978821632",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "userpimenta",
+                "name": "pepper ✌🏾",
+                "id": 890672200767950848,
+                "id_str": "890672200767950848",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587826051121"
+}

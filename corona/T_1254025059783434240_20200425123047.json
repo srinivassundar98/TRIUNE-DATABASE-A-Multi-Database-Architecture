@@ -1,0 +1,168 @@
+{
+    "created_at": "Sat Apr 25 12:30:47 +0000 2020",
+    "id": 1254025059783434240,
+    "id_str": "1254025059783434240",
+    "text": "@shitlicious gabisa bangunin sahur ☹️ tp bisa brngkt ke gereja bareng kelar corona nanti 😌 https://t.co/R0hcrPjRDR",
+    "display_text_range": [
+        13,
+        90
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254013550894313473,
+    "in_reply_to_status_id_str": "1254013550894313473",
+    "in_reply_to_user_id": 78226378,
+    "in_reply_to_user_id_str": "78226378",
+    "in_reply_to_screen_name": "shitlicious",
+    "user": {
+        "id": 745993411157581824,
+        "id_str": "745993411157581824",
+        "name": "Ji",
+        "screen_name": "vitaminciew",
+        "location": "Jakarta Capital Region, Indonesia",
+        "url": null,
+        "description": "here my big ego and happiness",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7,
+        "friends_count": 40,
+        "listed_count": 1,
+        "favourites_count": 76,
+        "statuses_count": 2617,
+        "created_at": "Thu Jun 23 14:54:23 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253986837917347841/Gknj3Ujw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253986837917347841/Gknj3Ujw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/745993411157581824/1587618990",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "shitlicious",
+                "name": "Alitt",
+                "id": 78226378,
+                "id_str": "78226378",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254025050795020289,
+                "id_str": "1254025050795020289",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcxI7wUEAE_RS7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcxI7wUEAE_RS7.jpg",
+                "url": "https://t.co/R0hcrPjRDR",
+                "display_url": "pic.twitter.com/R0hcrPjRDR",
+                "expanded_url": "https://twitter.com/vitaminciew/status/1254025059783434240/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 576,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 576,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254025050795020289,
+                "id_str": "1254025050795020289",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcxI7wUEAE_RS7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcxI7wUEAE_RS7.jpg",
+                "url": "https://t.co/R0hcrPjRDR",
+                "display_url": "pic.twitter.com/R0hcrPjRDR",
+                "expanded_url": "https://twitter.com/vitaminciew/status/1254025059783434240/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 576,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 576,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587817847568"
+}

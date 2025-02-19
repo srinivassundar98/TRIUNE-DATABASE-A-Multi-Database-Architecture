@@ -1,0 +1,165 @@
+{
+    "created_at": "Sat Apr 25 13:59:39 +0000 2020",
+    "id": 1254047425062371331,
+    "id_str": "1254047425062371331",
+    "text": "Oe24 knapp vor Interview mit der Aluhut-Dame. Die glaubt übrigens nicht an Corona. #demo https://t.co/twvrKiZDki",
+    "display_text_range": [
+        0,
+        88
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 178680931,
+        "id_str": "178680931",
+        "name": "Markus Sulzbacher",
+        "screen_name": "msulzbacher",
+        "location": "Vienna, Austria",
+        "url": "http://derstandard.at/web",
+        "description": "Ressortleiter http://derStandard.at/Web, Mitbegründer funkfeuer.at, Stimela siphume South Afrika //",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 11232,
+        "friends_count": 3938,
+        "listed_count": 263,
+        "favourites_count": 55639,
+        "statuses_count": 47241,
+        "created_at": "Sun Aug 15 11:46:09 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/975407481873666048/j1fIAApD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/975407481873666048/j1fIAApD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/178680931/1401815721",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "demo",
+                "indices": [
+                    83,
+                    88
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254047417802141697,
+                "id_str": "1254047417802141697",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdFe3WXsAEQlqC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdFe3WXsAEQlqC.jpg",
+                "url": "https://t.co/twvrKiZDki",
+                "display_url": "pic.twitter.com/twvrKiZDki",
+                "expanded_url": "https://twitter.com/msulzbacher/status/1254047425062371331/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254047417802141697,
+                "id_str": "1254047417802141697",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdFe3WXsAEQlqC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdFe3WXsAEQlqC.jpg",
+                "url": "https://t.co/twvrKiZDki",
+                "display_url": "pic.twitter.com/twvrKiZDki",
+                "expanded_url": "https://twitter.com/msulzbacher/status/1254047425062371331/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1536,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 900,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823179866"
+}

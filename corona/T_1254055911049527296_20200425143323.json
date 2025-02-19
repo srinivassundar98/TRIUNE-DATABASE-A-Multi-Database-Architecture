@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 14:33:23 +0000 2020",
+    "id": 1254055911049527296,
+    "id_str": "1254055911049527296",
+    "text": "@BoSnerdley @DonaldJTrumpJr I have been trying to drank lysols all day but i cant get the cap off..i got to prevent… https://t.co/5QLc7Q5eaj",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253716784521281537,
+    "in_reply_to_status_id_str": "1253716784521281537",
+    "in_reply_to_user_id": 466864852,
+    "in_reply_to_user_id_str": "466864852",
+    "in_reply_to_screen_name": "BoSnerdley",
+    "user": {
+        "id": 1246905864822415361,
+        "id_str": "1246905864822415361",
+        "name": "A human being you do know",
+        "screen_name": "Allaboutpeople5",
+        "location": null,
+        "url": null,
+        "description": "I am for the people. To many whiney pc snowflakes ruining this 🌎  Rehabilitation from sniffing my own farts. I dont believe in justice.I guarantee it.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 21,
+        "listed_count": 0,
+        "favourites_count": 13,
+        "statuses_count": 31,
+        "created_at": "Sun Apr 05 21:02:01 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246906029759217664/3bH0tUM-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246906029759217664/3bH0tUM-_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@BoSnerdley @DonaldJTrumpJr I have been trying to drank lysols all day but i cant get the cap off..i got to prevents corona president says you drank it you wont get sick",
+        "display_text_range": [
+            28,
+            169
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BoSnerdley",
+                    "name": "Bo Snerdley",
+                    "id": 466864852,
+                    "id_str": "466864852",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "DonaldJTrumpJr",
+                    "name": "Donald Trump Jr.",
+                    "id": 39344374,
+                    "id_str": "39344374",
+                    "indices": [
+                        12,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/5QLc7Q5eaj",
+                "expanded_url": "https://twitter.com/i/web/status/1254055911049527296",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "BoSnerdley",
+                "name": "Bo Snerdley",
+                "id": 466864852,
+                "id_str": "466864852",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "DonaldJTrumpJr",
+                "name": "Donald Trump Jr.",
+                "id": 39344374,
+                "id_str": "39344374",
+                "indices": [
+                    12,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825203083"
+}

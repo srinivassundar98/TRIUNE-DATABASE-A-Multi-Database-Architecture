@@ -1,0 +1,356 @@
+{
+    "created_at": "Sat Apr 25 12:22:30 +0000 2020",
+    "id": 1254022973427789826,
+    "id_str": "1254022973427789826",
+    "text": "Aggiungiamo alla lista https://t.co/zL8uWeYZJJ",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254018290072129536,
+    "in_reply_to_status_id_str": "1254018290072129536",
+    "in_reply_to_user_id": 406912789,
+    "in_reply_to_user_id_str": "406912789",
+    "in_reply_to_screen_name": "Renato_Corghi",
+    "user": {
+        "id": 406912789,
+        "id_str": "406912789",
+        "name": "Renato Corghi",
+        "screen_name": "Renato_Corghi",
+        "location": "Roma",
+        "url": null,
+        "description": "Vanta il rimarchevole successo di essere riuscito a far ragionare un grillino sul Web. Ci tiene a specificare che non parla abitualmente di sé in terza persona.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2499,
+        "friends_count": 168,
+        "listed_count": 14,
+        "favourites_count": 23549,
+        "statuses_count": 31130,
+        "created_at": "Mon Nov 07 11:12:21 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/868996934333329408/IBR_798b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/868996934333329408/IBR_798b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/406912789/1537742261",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7d588036fe12e124",
+        "url": "https://api.twitter.com/1.1/geo/id/7d588036fe12e124.json",
+        "place_type": "city",
+        "name": "Roma",
+        "full_name": "Roma, Lazio",
+        "country_code": "IT",
+        "country": "Italia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        12.234427,
+                        41.655874
+                    ],
+                    [
+                        12.234427,
+                        42.140959
+                    ],
+                    [
+                        12.855864,
+                        42.140959
+                    ],
+                    [
+                        12.855864,
+                        41.655874
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "quoted_status_id": 1239983243367190532,
+    "quoted_status_id_str": "1239983243367190532",
+    "quoted_status": {
+        "created_at": "Tue Mar 17 18:33:37 +0000 2020",
+        "id": 1239983243367190532,
+        "id_str": "1239983243367190532",
+        "text": "Ricapitolando\n\nSolo nell'ultimo anno, media USA costretti a comunicare:\n\n- Che fosse inutile sparare all'Uragano\n-… https://t.co/zYpGAawcdj",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 406912789,
+            "id_str": "406912789",
+            "name": "Renato Corghi",
+            "screen_name": "Renato_Corghi",
+            "location": "Roma",
+            "url": null,
+            "description": "Vanta il rimarchevole successo di essere riuscito a far ragionare un grillino sul Web. Ci tiene a specificare che non parla abitualmente di sé in terza persona.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2499,
+            "friends_count": 168,
+            "listed_count": 14,
+            "favourites_count": 23549,
+            "statuses_count": 31129,
+            "created_at": "Mon Nov 07 11:12:21 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/868996934333329408/IBR_798b_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/868996934333329408/IBR_798b_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/406912789/1537742261",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1239888212207841282,
+        "quoted_status_id_str": "1239888212207841282",
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Ricapitolando\n\nSolo nell'ultimo anno, media USA costretti a comunicare:\n\n- Che fosse inutile sparare all'Uragano\n- Che la birra Corona non avesse niente a che fare col virus\n- Di non chiamare la polizia se la carta igienica è finita\n\nIU ES EI! IU ES EI!\n\n#COVID19 #QuarantineLife https://t.co/jzYCq87AYC https://t.co/0y1dH5c7k6",
+            "display_text_range": [
+                0,
+                303
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "COVID19",
+                        "indices": [
+                            255,
+                            263
+                        ]
+                    },
+                    {
+                        "text": "QuarantineLife",
+                        "indices": [
+                            264,
+                            279
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/jzYCq87AYC",
+                        "expanded_url": "https://twitter.com/USATODAY/status/1239888212207841282",
+                        "display_url": "twitter.com/USATODAY/statu…",
+                        "indices": [
+                            280,
+                            303
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1239983016673447941,
+                        "id_str": "1239983016673447941",
+                        "indices": [
+                            304,
+                            327
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/ETVN--RWkAUMW1J.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETVN--RWkAUMW1J.jpg",
+                        "url": "https://t.co/0y1dH5c7k6",
+                        "display_url": "pic.twitter.com/0y1dH5c7k6",
+                        "expanded_url": "https://twitter.com/Renato_Corghi/status/1239983243367190532/photo/1",
+                        "type": "animated_gif",
+                        "video_info": {
+                            "aspect_ratio": [
+                                240,
+                                181
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/ETVN--RWkAUMW1J.mp4"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 362,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 480,
+                                "h": 362,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 362,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1239983016673447941,
+                        "id_str": "1239983016673447941",
+                        "indices": [
+                            304,
+                            327
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/ETVN--RWkAUMW1J.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETVN--RWkAUMW1J.jpg",
+                        "url": "https://t.co/0y1dH5c7k6",
+                        "display_url": "pic.twitter.com/0y1dH5c7k6",
+                        "expanded_url": "https://twitter.com/Renato_Corghi/status/1239983243367190532/photo/1",
+                        "type": "animated_gif",
+                        "video_info": {
+                            "aspect_ratio": [
+                                240,
+                                181
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/ETVN--RWkAUMW1J.mp4"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 362,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 480,
+                                "h": 362,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 362,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/zYpGAawcdj",
+                    "expanded_url": "https://twitter.com/i/web/status/1239983243367190532",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "it"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/zL8uWeYZJJ",
+        "expanded": "https://twitter.com/Renato_Corghi/status/1239983243367190532?s=19",
+        "display": "twitter.com/Renato_Corghi/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/zL8uWeYZJJ",
+                "expanded_url": "https://twitter.com/Renato_Corghi/status/1239983243367190532?s=19",
+                "display_url": "twitter.com/Renato_Corghi/…",
+                "indices": [
+                    23,
+                    46
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1587817350142"
+}

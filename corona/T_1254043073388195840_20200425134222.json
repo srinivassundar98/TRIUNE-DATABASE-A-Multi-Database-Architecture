@@ -1,0 +1,158 @@
+{
+    "created_at": "Sat Apr 25 13:42:22 +0000 2020",
+    "id": 1254043073388195840,
+    "id_str": "1254043073388195840",
+    "text": ".\nFOOT OPERATED 🦶 ⬇️\n.\n.\n#plaguedaze #washyourhands #corona #covid @ The Grocery https://t.co/diOwuuZOQY",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 291671599,
+        "id_str": "291671599",
+        "name": "Gary Jones",
+        "screen_name": "garageowns",
+        "location": "❤️Nashville:soul*Memphis",
+        "url": "http://www.flickr.com/photos/garageowns",
+        "description": "artist, photographer & fun loving wino. Cult Figures singer-War On Fun",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 364,
+        "friends_count": 634,
+        "listed_count": 55,
+        "favourites_count": 5463,
+        "statuses_count": 23097,
+        "created_at": "Mon May 02 12:37:58 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1514724246/memphis_tennessee_rs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514724246/memphis_tennessee_rs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/291671599/1354700948",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            51.52885,
+            -0.07771
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -0.07771,
+            51.52885
+        ]
+    },
+    "place": {
+        "id": "2a3f152d1ac5044a",
+        "url": "https://api.twitter.com/1.1/geo/id/2a3f152d1ac5044a.json",
+        "place_type": "city",
+        "name": "Hackney",
+        "full_name": "Hackney, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -0.104501,
+                        51.518605
+                    ],
+                    [
+                        -0.104501,
+                        51.576684
+                    ],
+                    [
+                        -0.015834,
+                        51.576684
+                    ],
+                    [
+                        -0.015834,
+                        51.518605
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "plaguedaze",
+                "indices": [
+                    25,
+                    36
+                ]
+            },
+            {
+                "text": "washyourhands",
+                "indices": [
+                    37,
+                    51
+                ]
+            },
+            {
+                "text": "corona",
+                "indices": [
+                    52,
+                    59
+                ]
+            },
+            {
+                "text": "covid",
+                "indices": [
+                    60,
+                    66
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/diOwuuZOQY",
+                "expanded_url": "https://www.instagram.com/p/B_Z-oEIHxMO/?igshid=oenr8oslna6d",
+                "display_url": "instagram.com/p/B_Z-oEIHxMO/…",
+                "indices": [
+                    81,
+                    104
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822142346"
+}

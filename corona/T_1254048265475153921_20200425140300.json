@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:03:00 +0000 2020",
+    "id": 1254048265475153921,
+    "id_str": "1254048265475153921",
+    "text": "@FukbeinSocial @MySportsUpdate Corona said \"yes you will\"",
+    "display_text_range": [
+        31,
+        57
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254047633431281666,
+    "in_reply_to_status_id_str": "1254047633431281666",
+    "in_reply_to_user_id": 191642480,
+    "in_reply_to_user_id_str": "191642480",
+    "in_reply_to_screen_name": "FukbeinSocial",
+    "user": {
+        "id": 2159734602,
+        "id_str": "2159734602",
+        "name": "For Mamba and The Mambacita",
+        "screen_name": "iSkizm",
+        "location": null,
+        "url": null,
+        "description": "New England Patriots/Boston Celtics/Boston Bruins/Milwaukee Brewers. Red Sox are stupid as hell",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 520,
+        "friends_count": 182,
+        "listed_count": 23,
+        "favourites_count": 269994,
+        "statuses_count": 163458,
+        "created_at": "Sun Oct 27 22:22:34 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "30D122",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "F0490C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/830887895967870979/YNcjr4II_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/830887895967870979/YNcjr4II_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2159734602/1570371381",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "FukbeinSocial",
+                "name": "Yung G.O.A.T",
+                "id": 191642480,
+                "id_str": "191642480",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "MySportsUpdate",
+                "name": "NFL Update",
+                "id": 1312367672,
+                "id_str": "1312367672",
+                "indices": [
+                    15,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823380236"
+}

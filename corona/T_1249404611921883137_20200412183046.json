@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun Apr 12 18:30:46 +0000 2020",
+    "id": 1249404611921883137,
+    "id_str": "1249404611921883137",
+    "text": "Von wegen die Menschen halten sich in der Regel? 😢😷🚶‍♀️Gerade in der Nachrichten wird ja so geprägt aber in Wirklic… https://t.co/VW1GTM3Xph",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 186502129,
+        "id_str": "186502129",
+        "name": "DJ Da Silva",
+        "screen_name": "DjDaSilvaBerlin",
+        "location": "Lissabon, Portugal",
+        "url": "http://www.djdasilva.net",
+        "description": "Berlin, Germany",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 43,
+        "friends_count": 152,
+        "listed_count": 0,
+        "favourites_count": 20,
+        "statuses_count": 832,
+        "created_at": "Fri Sep 03 16:49:24 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1116546831/dj1_2007_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116546831/dj1_2007_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/186502129/1440513604",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            52.49394947,
+            13.29741839
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            13.29741839,
+            52.49394947
+        ]
+    },
+    "place": {
+        "id": "3078869807f9dd36",
+        "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+        "place_type": "city",
+        "name": "Berlin",
+        "full_name": "Berlin, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        13.088304,
+                        52.338079
+                    ],
+                    [
+                        13.088304,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.338079
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Von wegen die Menschen halten sich in der Regel? 😢😷🚶‍♀️Gerade in der Nachrichten wird ja so geprägt aber in Wirklichkeit ist es anders.. Video aufgenommen heute um 17 Uhr an der #spree\n#corona #ostern #zeitgenießen… https://t.co/hsKN7qJitk",
+        "display_text_range": [
+            0,
+            239
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "spree",
+                    "indices": [
+                        178,
+                        184
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        185,
+                        192
+                    ]
+                },
+                {
+                    "text": "ostern",
+                    "indices": [
+                        193,
+                        200
+                    ]
+                },
+                {
+                    "text": "zeitgenießen",
+                    "indices": [
+                        201,
+                        214
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/hsKN7qJitk",
+                    "expanded_url": "https://www.instagram.com/p/B-5BQ7uHyZJ/?igshid=5zzanlc34ars",
+                    "display_url": "instagram.com/p/B-5BQ7uHyZJ/…",
+                    "indices": [
+                        216,
+                        239
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/VW1GTM3Xph",
+                "expanded_url": "https://twitter.com/i/web/status/1249404611921883137",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716246954"
+}

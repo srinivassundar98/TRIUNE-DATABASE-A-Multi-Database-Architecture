@@ -1,0 +1,177 @@
+{
+    "created_at": "Sat Apr 25 13:13:12 +0000 2020",
+    "id": 1254035735600128004,
+    "id_str": "1254035735600128004",
+    "text": "@myogioffice @myogiadityanath Yeh San kya hai? Is this social distancing? Is this how India will over corona? https://t.co/9LxeuQZeu0",
+    "display_text_range": [
+        30,
+        109
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253732556928761856,
+    "in_reply_to_status_id_str": "1253732556928761856",
+    "in_reply_to_user_id": 1084769827271598080,
+    "in_reply_to_user_id_str": "1084769827271598080",
+    "in_reply_to_screen_name": "myogioffice",
+    "user": {
+        "id": 1253184921478164480,
+        "id_str": "1253184921478164480",
+        "name": "Sugandha Singhal",
+        "screen_name": "SugandhaSingha3",
+        "location": null,
+        "url": null,
+        "description": "Proud Indian, Proud Hindu",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 19,
+        "listed_count": 0,
+        "favourites_count": 107,
+        "statuses_count": 5,
+        "created_at": "Thu Apr 23 04:52:38 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253185395589697537/JLczWwrT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253185395589697537/JLczWwrT_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "myogioffice",
+                "name": "Yogi Adityanath Office",
+                "id": 1084769827271598080,
+                "id_str": "1084769827271598080",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "myogiadityanath",
+                "name": "Yogi Adityanath",
+                "id": 3437532637,
+                "id_str": "3437532637",
+                "indices": [
+                    13,
+                    29
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254035722731995136,
+                "id_str": "1254035722731995136",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc62H0XQAAjJin.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc62H0XQAAjJin.jpg",
+                "url": "https://t.co/9LxeuQZeu0",
+                "display_url": "pic.twitter.com/9LxeuQZeu0",
+                "expanded_url": "https://twitter.com/SugandhaSingha3/status/1254035735600128004/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 561,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 909,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 909,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254035722731995136,
+                "id_str": "1254035722731995136",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc62H0XQAAjJin.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc62H0XQAAjJin.jpg",
+                "url": "https://t.co/9LxeuQZeu0",
+                "display_url": "pic.twitter.com/9LxeuQZeu0",
+                "expanded_url": "https://twitter.com/SugandhaSingha3/status/1254035735600128004/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 561,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 909,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 750,
+                        "h": 909,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820392881"
+}

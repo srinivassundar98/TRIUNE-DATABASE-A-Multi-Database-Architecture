@@ -1,0 +1,131 @@
+{
+    "created_at": "Sat Apr 25 12:54:42 +0000 2020",
+    "id": 1254031076617359360,
+    "id_str": "1254031076617359360",
+    "text": "@narendramodi @DrPramodPSawant Because goa has corona mukt country.thank goa CM",
+    "display_text_range": [
+        31,
+        79
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253673022805831680,
+    "in_reply_to_status_id_str": "1253673022805831680",
+    "in_reply_to_user_id": 18839785,
+    "in_reply_to_user_id_str": "18839785",
+    "in_reply_to_screen_name": "narendramodi",
+    "user": {
+        "id": 1245652905878630401,
+        "id_str": "1245652905878630401",
+        "name": "Gopal Gupta",
+        "screen_name": "GopalGu55341241",
+        "location": null,
+        "url": null,
+        "description": "Book study",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 24,
+        "listed_count": 0,
+        "favourites_count": 11,
+        "statuses_count": 106,
+        "created_at": "Thu Apr 02 10:03:17 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251465023370620928/SaOSDE8b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251465023370620928/SaOSDE8b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245652905878630401/1585968943",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "133eafffa4b1ca86",
+        "url": "https://api.twitter.com/1.1/geo/id/133eafffa4b1ca86.json",
+        "place_type": "admin",
+        "name": "Uttar Pradesh",
+        "full_name": "Uttar Pradesh, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.096236,
+                        23.871941
+                    ],
+                    [
+                        77.096236,
+                        30.407576
+                    ],
+                    [
+                        84.638873,
+                        30.407576
+                    ],
+                    [
+                        84.638873,
+                        23.871941
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "narendramodi",
+                "name": "Narendra Modi",
+                "id": 18839785,
+                "id_str": "18839785",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "DrPramodPSawant",
+                "name": "Dr. Pramod Sawant",
+                "id": 785783685937295360,
+                "id_str": "785783685937295360",
+                "indices": [
+                    14,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819282093"
+}

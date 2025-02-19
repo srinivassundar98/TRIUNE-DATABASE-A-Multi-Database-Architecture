@@ -1,0 +1,686 @@
+{
+    "created_at": "Sat Apr 25 12:37:11 +0000 2020",
+    "id": 1254026669435817989,
+    "id_str": "1254026669435817989",
+    "text": "RT @drsyedasad: Fantastic talk on corona in Urdu!",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2320172733,
+        "id_str": "2320172733",
+        "name": "Shelina Bhamani",
+        "screen_name": "ShelinaBhamani",
+        "location": null,
+        "url": "https://www.facebook.com/groups/311085516033521/",
+        "description": "I am a Maternal and Early Childhood Development enthusiast working as Asst Professor, Research in the division of Women & Child Health @AKUGlobal",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 313,
+        "friends_count": 1597,
+        "listed_count": 2,
+        "favourites_count": 250,
+        "statuses_count": 133,
+        "created_at": "Sun Feb 02 15:30:58 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1178917364596985856/bCwcG27u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178917364596985856/bCwcG27u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2320172733/1569910779",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 14:16:51 +0000 2020",
+        "id": 1253689366091689986,
+        "id_str": "1253689366091689986",
+        "text": "Fantastic talk on corona in Urdu!",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 210460774,
+            "id_str": "210460774",
+            "name": "Asad Ali MBBS, MPH",
+            "screen_name": "drsyedasad",
+            "location": "Karachi, Pakistan",
+            "url": "https://www.sadqapakistan.pk",
+            "description": "Professor of Pediatrics and Assoc Dean of Research @AgaKhan University. Pediatric Infectious Diseases & Malnutrition Scientist. Founder of https://t.co/UigKfduspS",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 719,
+            "friends_count": 315,
+            "listed_count": 3,
+            "favourites_count": 1760,
+            "statuses_count": 449,
+            "created_at": "Sun Oct 31 13:56:06 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1028073544851382274/koTCAPAg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028073544851382274/koTCAPAg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/210460774/1533949313",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "01aadce76841e2c5",
+            "url": "https://api.twitter.com/1.1/geo/id/01aadce76841e2c5.json",
+            "place_type": "city",
+            "name": "Karachi",
+            "full_name": "Karachi, Pakistan",
+            "country_code": "PK",
+            "country": "Pakistan",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            66.95121,
+                            24.802239
+                        ],
+                        [
+                            66.95121,
+                            25.007912
+                        ],
+                        [
+                            67.133179,
+                            25.007912
+                        ],
+                        [
+                            67.133179,
+                            24.802239
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253613519817322496,
+        "quoted_status_id_str": "1253613519817322496",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 09:15:28 +0000 2020",
+            "id": 1253613519817322496,
+            "id_str": "1253613519817322496",
+            "text": "NO SURPRISE our \"#Corona wala doctor,\" Dr #FaisalMahmood's COVINAR talk broke all previous records @AKUGlobal!! If… https://t.co/pqvm41Xg01",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 540220493,
+                "id_str": "540220493",
+                "name": "Adil Haider",
+                "screen_name": "AdilHaiderMD",
+                "location": "Karachi, Pakistan",
+                "url": "https://www.aku.edu/mcpk",
+                "description": "Dean, Aga Khan University Medical College, Pakistan @AKUGlobal; Trauma Surgeon and Public Health Scientist; Former President @AcademicSurgery; Husband & Dad",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 9934,
+                "friends_count": 1386,
+                "listed_count": 132,
+                "favourites_count": 5890,
+                "statuses_count": 5362,
+                "created_at": "Thu Mar 29 19:30:30 +0000 2012",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1243105598343913472/Wi4N4uk__normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243105598343913472/Wi4N4uk__normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/540220493/1576518946",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "NO SURPRISE our \"#Corona wala doctor,\" Dr #FaisalMahmood's COVINAR talk broke all previous records @AKUGlobal!! If you want to know about treatment options and evidence then CLICK here: \nhttps://t.co/XIlBhAYvB7 https://t.co/2v3MAfhAMY",
+                "display_text_range": [
+                    0,
+                    210
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Corona",
+                            "indices": [
+                                17,
+                                24
+                            ]
+                        },
+                        {
+                            "text": "FaisalMahmood",
+                            "indices": [
+                                42,
+                                56
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/XIlBhAYvB7",
+                            "expanded_url": "https://web.facebook.com/AKUMCPK/videos/2603684096625594/",
+                            "display_url": "web.facebook.com/AKUMCPK/videos…",
+                            "indices": [
+                                187,
+                                210
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "AKUGlobal",
+                            "name": "Aga Khan University",
+                            "id": 3213518355,
+                            "id_str": "3213518355",
+                            "indices": [
+                                99,
+                                109
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253609520535867392,
+                            "id_str": "1253609520535867392",
+                            "indices": [
+                                211,
+                                234
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWW3N46WkAAeCoY.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWW3N46WkAAeCoY.jpg",
+                            "url": "https://t.co/2v3MAfhAMY",
+                            "display_url": "pic.twitter.com/2v3MAfhAMY",
+                            "expanded_url": "https://twitter.com/AdilHaiderMD/status/1253613519817322496/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1152,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253609520535867392,
+                            "id_str": "1253609520535867392",
+                            "indices": [
+                                211,
+                                234
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWW3N46WkAAeCoY.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWW3N46WkAAeCoY.jpg",
+                            "url": "https://t.co/2v3MAfhAMY",
+                            "display_url": "pic.twitter.com/2v3MAfhAMY",
+                            "expanded_url": "https://twitter.com/AdilHaiderMD/status/1253613519817322496/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1152,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 4,
+            "retweet_count": 17,
+            "favorite_count": 52,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            17,
+                            24
+                        ]
+                    },
+                    {
+                        "text": "FaisalMahmood",
+                        "indices": [
+                            42,
+                            56
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/pqvm41Xg01",
+                        "expanded_url": "https://twitter.com/i/web/status/1253613519817322496",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "AKUGlobal",
+                        "name": "Aga Khan University",
+                        "id": 3213518355,
+                        "id_str": "3213518355",
+                        "indices": [
+                            99,
+                            109
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/YlgwwiR1cf",
+            "expanded": "https://twitter.com/AdilHaiderMD/status/1253613519817322496",
+            "display": "twitter.com/AdilHaiderMD/s…"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2,
+        "favorite_count": 7,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1253613519817322496,
+    "quoted_status_id_str": "1253613519817322496",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 09:15:28 +0000 2020",
+        "id": 1253613519817322496,
+        "id_str": "1253613519817322496",
+        "text": "NO SURPRISE our \"#Corona wala doctor,\" Dr #FaisalMahmood's COVINAR talk broke all previous records @AKUGlobal!! If… https://t.co/pqvm41Xg01",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 540220493,
+            "id_str": "540220493",
+            "name": "Adil Haider",
+            "screen_name": "AdilHaiderMD",
+            "location": "Karachi, Pakistan",
+            "url": "https://www.aku.edu/mcpk",
+            "description": "Dean, Aga Khan University Medical College, Pakistan @AKUGlobal; Trauma Surgeon and Public Health Scientist; Former President @AcademicSurgery; Husband & Dad",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 9934,
+            "friends_count": 1386,
+            "listed_count": 132,
+            "favourites_count": 5890,
+            "statuses_count": 5362,
+            "created_at": "Thu Mar 29 19:30:30 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1243105598343913472/Wi4N4uk__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243105598343913472/Wi4N4uk__normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/540220493/1576518946",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "NO SURPRISE our \"#Corona wala doctor,\" Dr #FaisalMahmood's COVINAR talk broke all previous records @AKUGlobal!! If you want to know about treatment options and evidence then CLICK here: \nhttps://t.co/XIlBhAYvB7 https://t.co/2v3MAfhAMY",
+            "display_text_range": [
+                0,
+                210
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            17,
+                            24
+                        ]
+                    },
+                    {
+                        "text": "FaisalMahmood",
+                        "indices": [
+                            42,
+                            56
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/XIlBhAYvB7",
+                        "expanded_url": "https://web.facebook.com/AKUMCPK/videos/2603684096625594/",
+                        "display_url": "web.facebook.com/AKUMCPK/videos…",
+                        "indices": [
+                            187,
+                            210
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "AKUGlobal",
+                        "name": "Aga Khan University",
+                        "id": 3213518355,
+                        "id_str": "3213518355",
+                        "indices": [
+                            99,
+                            109
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253609520535867392,
+                        "id_str": "1253609520535867392",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWW3N46WkAAeCoY.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWW3N46WkAAeCoY.jpg",
+                        "url": "https://t.co/2v3MAfhAMY",
+                        "display_url": "pic.twitter.com/2v3MAfhAMY",
+                        "expanded_url": "https://twitter.com/AdilHaiderMD/status/1253613519817322496/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1152,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253609520535867392,
+                        "id_str": "1253609520535867392",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWW3N46WkAAeCoY.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWW3N46WkAAeCoY.jpg",
+                        "url": "https://t.co/2v3MAfhAMY",
+                        "display_url": "pic.twitter.com/2v3MAfhAMY",
+                        "expanded_url": "https://twitter.com/AdilHaiderMD/status/1253613519817322496/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1152,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 17,
+        "favorite_count": 52,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        17,
+                        24
+                    ]
+                },
+                {
+                    "text": "FaisalMahmood",
+                    "indices": [
+                        42,
+                        56
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/pqvm41Xg01",
+                    "expanded_url": "https://twitter.com/i/web/status/1253613519817322496",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "AKUGlobal",
+                    "name": "Aga Khan University",
+                    "id": 3213518355,
+                    "id_str": "3213518355",
+                    "indices": [
+                        99,
+                        109
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/YlgwwiR1cf",
+        "expanded": "https://twitter.com/AdilHaiderMD/status/1253613519817322496",
+        "display": "twitter.com/AdilHaiderMD/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "drsyedasad",
+                "name": "Asad Ali MBBS, MPH",
+                "id": 210460774,
+                "id_str": "210460774",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818231339"
+}

@@ -1,0 +1,123 @@
+{
+    "created_at": "Sun Apr 12 18:34:41 +0000 2020",
+    "id": 1249405596262162433,
+    "id_str": "1249405596262162433",
+    "text": "@Daystack There’s still no updates because of the Corona. I’ll be able to resume when all of this is over. So hopef… https://t.co/RnapKxI3Md",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249405192031920128,
+    "in_reply_to_status_id_str": "1249405192031920128",
+    "in_reply_to_user_id": 701079733950423041,
+    "in_reply_to_user_id_str": "701079733950423041",
+    "in_reply_to_screen_name": "Daystack",
+    "user": {
+        "id": 941164934796337152,
+        "id_str": "941164934796337152",
+        "name": "Marty Mar",
+        "screen_name": "takeme2Mar",
+        "location": "West Philly",
+        "url": null,
+        "description": "This nigga/That nigga/Daddy 🇭🇹",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2808,
+        "friends_count": 2290,
+        "listed_count": 2,
+        "favourites_count": 19361,
+        "statuses_count": 18917,
+        "created_at": "Thu Dec 14 04:36:21 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238549931759190016/-TdnUHT6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238549931759190016/-TdnUHT6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/941164934796337152/1586548169",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Daystack There’s still no updates because of the Corona. I’ll be able to resume when all of this is over. So hopefully middle of May I’ll be hitting you up with all the details",
+        "display_text_range": [
+            10,
+            177
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Daystack",
+                    "name": "Ja’Dai🥴🖤",
+                    "id": 701079733950423041,
+                    "id_str": "701079733950423041",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/RnapKxI3Md",
+                "expanded_url": "https://twitter.com/i/web/status/1249405596262162433",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Daystack",
+                "name": "Ja’Dai🥴🖤",
+                "id": 701079733950423041,
+                "id_str": "701079733950423041",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716481639"
+}

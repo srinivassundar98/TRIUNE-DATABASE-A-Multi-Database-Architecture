@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 12:49:44 +0000 2020",
+    "id": 1254029828539453440,
+    "id_str": "1254029828539453440",
+    "text": "De-Cix - Hier brummt das Internet\nOhne Internet würde in Corona-Zeiten nichts funktionieren. Dass alles so reibungs… https://t.co/SV6DMRObif",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 790150819005997056,
+        "id_str": "790150819005997056",
+        "name": "netzpalaver",
+        "screen_name": "netzpalaver",
+        "location": "Bavaria, Germany",
+        "url": "http://www.netzpalaver.de",
+        "description": "Fundierte News und Artikel zu den Themen #Cloud, #Datacenter, #Sicherheit #Infrastruktur und #Telekommunikation sowie #disruptive Technologien.",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5355,
+        "friends_count": 5882,
+        "listed_count": 73,
+        "favourites_count": 41724,
+        "statuses_count": 27160,
+        "created_at": "Sun Oct 23 11:20:10 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/790152782829486080/DisPylah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/790152782829486080/DisPylah_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/790150819005997056/1519352890",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "De-Cix - Hier brummt das Internet\nOhne Internet würde in Corona-Zeiten nichts funktionieren. Dass alles so reibungslos läuft, liegt auch an einem Unternehmen in Frankfurt. Ein Besuch am größten Netzwerkknoten der Welt.\nvia @sz https://t.co/ZUkYjdVpD9",
+        "display_text_range": [
+            0,
+            250
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ZUkYjdVpD9",
+                    "expanded_url": "https://sz.de/1.4879842",
+                    "display_url": "sz.de/1.4879842",
+                    "indices": [
+                        227,
+                        250
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "SZ",
+                    "name": "Süddeutsche Zeitung",
+                    "id": 114508061,
+                    "id_str": "114508061",
+                    "indices": [
+                        223,
+                        226
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/SV6DMRObif",
+                "expanded_url": "https://twitter.com/i/web/status/1254029828539453440",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818984528"
+}

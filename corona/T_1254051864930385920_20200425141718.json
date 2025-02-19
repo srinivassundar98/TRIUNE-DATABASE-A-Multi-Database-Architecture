@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 14:17:18 +0000 2020",
+    "id": 1254051864930385920,
+    "id_str": "1254051864930385920",
+    "text": "@moakabash @coronasecondary @corona_schools Corona school ke",
+    "display_text_range": [
+        44,
+        60
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253667821545861125,
+    "in_reply_to_status_id_str": "1253667821545861125",
+    "in_reply_to_user_id": 153141330,
+    "in_reply_to_user_id_str": "153141330",
+    "in_reply_to_screen_name": "moakabash",
+    "user": {
+        "id": 821809244068528129,
+        "id_str": "821809244068528129",
+        "name": "Sidiqot Oladokun",
+        "screen_name": "SidiqotOladokun",
+        "location": "Oyo, Nigeria",
+        "url": null,
+        "description": "Help me in education",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 44,
+        "friends_count": 46,
+        "listed_count": 0,
+        "favourites_count": 754,
+        "statuses_count": 213,
+        "created_at": "Wed Jan 18 19:59:27 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186773178581950464/MRvCvplf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186773178581950464/MRvCvplf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/821809244068528129/1533388394",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "moakabash",
+                "name": "morayo akabashorun",
+                "id": 153141330,
+                "id_str": "153141330",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "coronasecondary",
+                "name": "Corona Secondary",
+                "id": 312580906,
+                "id_str": "312580906",
+                "indices": [
+                    11,
+                    27
+                ]
+            },
+            {
+                "screen_name": "corona_schools",
+                "name": "Corona Schools Trust Council",
+                "id": 2616968731,
+                "id_str": "2616968731",
+                "indices": [
+                    28,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1587824238413"
+}

@@ -1,0 +1,253 @@
+{
+    "created_at": "Sat Apr 25 13:52:52 +0000 2020",
+    "id": 1254045716944687105,
+    "id_str": "1254045716944687105",
+    "text": "What could’ve been.... Walsall fighting for a play off spot vs Bradford today, fuck corona #uts #walsallfc… https://t.co/oIMMBNxgGl",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3394546533,
+        "id_str": "3394546533",
+        "name": "Connor",
+        "screen_name": "CCRSGAMING",
+        "location": "Somewhere",
+        "url": "http://twitch.tv/connorthedayzsurvivor",
+        "description": "(18) Walsall supporter INSTA:Cxnnxr927",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 83,
+        "friends_count": 434,
+        "listed_count": 1,
+        "favourites_count": 3286,
+        "statuses_count": 1595,
+        "created_at": "Wed Jul 29 21:47:31 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253342491467751424/wApFNmmr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253342491467751424/wApFNmmr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3394546533/1577469097",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3d251d43bb82e514",
+        "url": "https://api.twitter.com/1.1/geo/id/3d251d43bb82e514.json",
+        "place_type": "city",
+        "name": "Walsall",
+        "full_name": "Walsall, England",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -2.068054,
+                        52.551586
+                    ],
+                    [
+                        -2.068054,
+                        52.640933
+                    ],
+                    [
+                        -1.930464,
+                        52.640933
+                    ],
+                    [
+                        -1.930464,
+                        52.551586
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "What could’ve been.... Walsall fighting for a play off spot vs Bradford today, fuck corona #uts #walsallfc @VitalWalsall https://t.co/uUzlqzu4cY",
+        "display_text_range": [
+            0,
+            120
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "uts",
+                    "indices": [
+                        91,
+                        95
+                    ]
+                },
+                {
+                    "text": "walsallfc",
+                    "indices": [
+                        96,
+                        106
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VitalWalsall",
+                    "name": "Vital Walsall",
+                    "id": 41811912,
+                    "id_str": "41811912",
+                    "indices": [
+                        107,
+                        120
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254045708904259584,
+                    "id_str": "1254045708904259584",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdD7ZNXYAAepbW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdD7ZNXYAAepbW.jpg",
+                    "url": "https://t.co/uUzlqzu4cY",
+                    "display_url": "pic.twitter.com/uUzlqzu4cY",
+                    "expanded_url": "https://twitter.com/CCRSGAMING/status/1254045716944687105/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 828,
+                            "h": 1792,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254045708904259584,
+                    "id_str": "1254045708904259584",
+                    "indices": [
+                        121,
+                        144
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdD7ZNXYAAepbW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdD7ZNXYAAepbW.jpg",
+                    "url": "https://t.co/uUzlqzu4cY",
+                    "display_url": "pic.twitter.com/uUzlqzu4cY",
+                    "expanded_url": "https://twitter.com/CCRSGAMING/status/1254045716944687105/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 314,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 828,
+                            "h": 1792,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 554,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "uts",
+                "indices": [
+                    91,
+                    95
+                ]
+            },
+            {
+                "text": "walsallfc",
+                "indices": [
+                    96,
+                    106
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/oIMMBNxgGl",
+                "expanded_url": "https://twitter.com/i/web/status/1254045716944687105",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822772619"
+}

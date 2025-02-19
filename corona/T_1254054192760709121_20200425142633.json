@@ -1,0 +1,464 @@
+{
+    "created_at": "Sat Apr 25 14:26:33 +0000 2020",
+    "id": 1254054192760709121,
+    "id_str": "1254054192760709121",
+    "text": "Heute wäre ich mit der @DB_Bahn vom @PHPUnit Code Sprint in Hameln nach Hause gefahren. Durch #COVID19 induzierte E… https://t.co/K05sBHF4fd",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 13311252,
+        "id_str": "13311252",
+        "name": "Sebastian Bergmann",
+        "screen_name": "s_bergmann",
+        "location": null,
+        "url": "https://sebastian-bergmann.de/",
+        "description": "Created @PHPUnit. Co-Founded @thePHPcc. Helps developers build better software.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 18017,
+        "friends_count": 0,
+        "listed_count": 935,
+        "favourites_count": 168,
+        "statuses_count": 16792,
+        "created_at": "Sun Feb 10 14:30:20 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "D3D7CF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "204A87",
+        "profile_sidebar_border_color": "BABDB6",
+        "profile_sidebar_fill_color": "D3D7CF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/699867679440707584/8-rYlzer_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/699867679440707584/8-rYlzer_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13311252/1398243265",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1250078974870532102,
+    "quoted_status_id_str": "1250078974870532102",
+    "quoted_status": {
+        "created_at": "Tue Apr 14 15:10:27 +0000 2020",
+        "id": 1250078974870532102,
+        "id_str": "1250078974870532102",
+        "text": "#Corona #COVID19 zwingt uns zu immer neuen Auslegungen des Begriffs \"Edge Case\". Das führt zu interessanten IT-Prob… https://t.co/ybVxDcrUM7",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 20764783,
+            "id_str": "20764783",
+            "name": "thePHP.cc",
+            "screen_name": "thePHPcc",
+            "location": null,
+            "url": "http://thePHP.cc/",
+            "description": "Leading consultancy for PHP and related Open Source technologies.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1679,
+            "friends_count": 0,
+            "listed_count": 102,
+            "favourites_count": 2,
+            "statuses_count": 900,
+            "created_at": "Fri Feb 13 11:54:15 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F89A0E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "273E77",
+            "profile_sidebar_border_color": "DDDDDD",
+            "profile_sidebar_fill_color": "FEFEFE",
+            "profile_text_color": "162D66",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/458909369220861952/6MSQpA_k_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/458909369220861952/6MSQpA_k_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20764783/1398248047",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#Corona #COVID19 zwingt uns zu immer neuen Auslegungen des Begriffs \"Edge Case\". Das führt zu interessanten IT-Problemen: https://t.co/M754Z6iJf4 https://t.co/MJLHJqv620",
+            "display_text_range": [
+                0,
+                145
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            0,
+                            7
+                        ]
+                    },
+                    {
+                        "text": "COVID19",
+                        "indices": [
+                            8,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/M754Z6iJf4",
+                        "expanded_url": "https://thephp.cc/neuigkeiten/2020/04/automation-und-edge-cases",
+                        "display_url": "thephp.cc/neuigkeiten/20…",
+                        "indices": [
+                            122,
+                            145
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1250078936488435713,
+                        "id_str": "1250078936488435713",
+                        "indices": [
+                            146,
+                            169
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVksK2aXYAExp2Z.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVksK2aXYAExp2Z.jpg",
+                        "url": "https://t.co/MJLHJqv620",
+                        "display_url": "pic.twitter.com/MJLHJqv620",
+                        "expanded_url": "https://twitter.com/thePHPcc/status/1250078974870532102/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1250078936488435713,
+                        "id_str": "1250078936488435713",
+                        "indices": [
+                            146,
+                            169
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVksK2aXYAExp2Z.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVksK2aXYAExp2Z.jpg",
+                        "url": "https://t.co/MJLHJqv620",
+                        "display_url": "pic.twitter.com/MJLHJqv620",
+                        "expanded_url": "https://twitter.com/thePHPcc/status/1250078974870532102/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        8,
+                        16
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ybVxDcrUM7",
+                    "expanded_url": "https://twitter.com/i/web/status/1250078974870532102",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/niwwkbxgHR",
+        "expanded": "https://twitter.com/thePHPcc/status/1250078974870532102",
+        "display": "twitter.com/thePHPcc/statu…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+        "full_text": "Heute wäre ich mit der @DB_Bahn vom @PHPUnit Code Sprint in Hameln nach Hause gefahren. Durch #COVID19 induzierte Eventual Consistency erinnert mit mein Telefon an eine Zugverbindung, die es nicht mehr gibt. https://t.co/n6OPnokGX3",
+        "display_text_range": [
+            0,
+            207
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        94,
+                        102
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DB_Bahn",
+                    "name": "Deutsche Bahn Personenverkehr",
+                    "id": 39999078,
+                    "id_str": "39999078",
+                    "indices": [
+                        23,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "phpunit",
+                    "name": "PHPUnit",
+                    "id": 19057969,
+                    "id_str": "19057969",
+                    "indices": [
+                        36,
+                        44
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254053907292184576,
+                    "id_str": "1254053907292184576",
+                    "indices": [
+                        208,
+                        231
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdLYmlXYAAEShB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdLYmlXYAAEShB.jpg",
+                    "url": "https://t.co/n6OPnokGX3",
+                    "display_url": "pic.twitter.com/n6OPnokGX3",
+                    "expanded_url": "https://twitter.com/s_bergmann/status/1254054192760709121/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 882,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 913,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254053907292184576,
+                    "id_str": "1254053907292184576",
+                    "indices": [
+                        208,
+                        231
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdLYmlXYAAEShB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdLYmlXYAAEShB.jpg",
+                    "url": "https://t.co/n6OPnokGX3",
+                    "display_url": "pic.twitter.com/n6OPnokGX3",
+                    "expanded_url": "https://twitter.com/s_bergmann/status/1254054192760709121/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 882,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1242,
+                            "h": 913,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    94,
+                    102
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/K05sBHF4fd",
+                "expanded_url": "https://twitter.com/i/web/status/1254054192760709121",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DB_Bahn",
+                "name": "Deutsche Bahn Personenverkehr",
+                "id": 39999078,
+                "id_str": "39999078",
+                "indices": [
+                    23,
+                    31
+                ]
+            },
+            {
+                "screen_name": "phpunit",
+                "name": "PHPUnit",
+                "id": 19057969,
+                "id_str": "19057969",
+                "indices": [
+                    36,
+                    44
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824793411"
+}

@@ -1,0 +1,120 @@
+{
+    "created_at": "Sat Apr 25 13:15:04 +0000 2020",
+    "id": 1254036205160800257,
+    "id_str": "1254036205160800257",
+    "text": "@JoutheJoseph Vous n'avez pas honte , manque de personnalité  sans vision.N'oublie pas Corona peut frapper n'importe qui...",
+    "display_text_range": [
+        14,
+        123
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253772747861360641,
+    "in_reply_to_status_id_str": "1253772747861360641",
+    "in_reply_to_user_id": 1057458686111739904,
+    "in_reply_to_user_id_str": "1057458686111739904",
+    "in_reply_to_screen_name": "JoutheJoseph",
+    "user": {
+        "id": 1034625491129511938,
+        "id_str": "1034625491129511938",
+        "name": "Chevalier Marie Elsie",
+        "screen_name": "ChevalierMari20",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 11,
+        "friends_count": 44,
+        "listed_count": 0,
+        "favourites_count": 390,
+        "statuses_count": 168,
+        "created_at": "Wed Aug 29 02:15:14 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243500918114484226/rYf_xfD1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243500918114484226/rYf_xfD1_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7a7fd55f3a5d2704",
+        "url": "https://api.twitter.com/1.1/geo/id/7a7fd55f3a5d2704.json",
+        "place_type": "city",
+        "name": "Sainte-Anne-des-Plaines",
+        "full_name": "Sainte-Anne-des-Plaines, Québec",
+        "country_code": "CA",
+        "country": "Canada",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -73.911124,
+                        45.712773
+                    ],
+                    [
+                        -73.911124,
+                        45.816947
+                    ],
+                    [
+                        -73.731681,
+                        45.816947
+                    ],
+                    [
+                        -73.731681,
+                        45.712773
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "JoutheJoseph",
+                "name": "Jouthe Joseph",
+                "id": 1057458686111739904,
+                "id_str": "1057458686111739904",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587820504833"
+}

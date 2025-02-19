@@ -1,0 +1,139 @@
+{
+    "created_at": "Sat Apr 25 13:55:34 +0000 2020",
+    "id": 1254046396845559808,
+    "id_str": "1254046396845559808",
+    "text": "जब corona के 200 के आस पास मरीज थे तो नवरात्र बंद, होली मिलन नहीं मनाया सब दुकानें बंद ,बाजार बंद फिर आज 24000 से… https://t.co/bEd7Uvg14Y",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1138094223876546563,
+        "id_str": "1138094223876546563",
+        "name": "Raj Sahu",
+        "screen_name": "RajSahu17025581",
+        "location": "Chhattisgarh, India",
+        "url": null,
+        "description": "im student",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 45,
+        "listed_count": 0,
+        "favourites_count": 15,
+        "statuses_count": 59,
+        "created_at": "Mon Jun 10 14:43:02 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164093329589469184/W-MzL3SN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164093329589469184/W-MzL3SN_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "22370cbe98646150",
+        "url": "https://api.twitter.com/1.1/geo/id/22370cbe98646150.json",
+        "place_type": "admin",
+        "name": "Chhattisgarh",
+        "full_name": "Chhattisgarh, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        80.246826,
+                        17.790092
+                    ],
+                    [
+                        80.246826,
+                        24.106163
+                    ],
+                    [
+                        84.396581,
+                        24.106163
+                    ],
+                    [
+                        84.396581,
+                        17.790092
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "जब corona के 200 के आस पास मरीज थे तो नवरात्र बंद, होली मिलन नहीं मनाया सब दुकानें बंद ,बाजार बंद फिर आज 24000 से ज्यादा corona के मरीज है फिर आज open क्यू है क्या अब किसी को corona नहीं हो सकता । सोचने वाली बात है। @CMOMaharashtra",
+        "display_text_range": [
+            0,
+            231
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CMOMaharashtra",
+                    "name": "CMO Maharashtra",
+                    "id": 2597666894,
+                    "id_str": "2597666894",
+                    "indices": [
+                        216,
+                        231
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/bEd7Uvg14Y",
+                "expanded_url": "https://twitter.com/i/web/status/1254046396845559808",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587822934720"
+}

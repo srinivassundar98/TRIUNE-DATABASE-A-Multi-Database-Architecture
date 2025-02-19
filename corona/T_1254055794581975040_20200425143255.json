@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat Apr 25 14:32:55 +0000 2020",
+    "id": 1254055794581975040,
+    "id_str": "1254055794581975040",
+    "text": "@chipLAmPharoah @benshapiro No you're stupider. https://t.co/viyLoO7caz",
+    "display_text_range": [
+        28,
+        71
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254050989042290688,
+    "in_reply_to_status_id_str": "1254050989042290688",
+    "in_reply_to_user_id": 3333180219,
+    "in_reply_to_user_id_str": "3333180219",
+    "in_reply_to_screen_name": "chipLAmPharoah",
+    "user": {
+        "id": 1207693742561529857,
+        "id_str": "1207693742561529857",
+        "name": "Peter Foole",
+        "screen_name": "FoolePeter",
+        "location": null,
+        "url": null,
+        "description": "I'm a cowboy who believes in science, honesty, and empathy.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 147,
+        "friends_count": 238,
+        "listed_count": 1,
+        "favourites_count": 2060,
+        "statuses_count": 4442,
+        "created_at": "Thu Dec 19 16:07:02 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1207693948455718912/Z505N_fu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207693948455718912/Z505N_fu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207693742561529857/1577861804",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/viyLoO7caz",
+                "expanded_url": "https://deadstate.org/founder-of-pro-trump-group-hosts-corona-potluck-so-guests-can-infect-each-and-build-up-immunity/",
+                "display_url": "deadstate.org/founder-of-pro…",
+                "indices": [
+                    48,
+                    71
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "chipLAmPharoah",
+                "name": "dads girl",
+                "id": 3333180219,
+                "id_str": "3333180219",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "benshapiro",
+                "name": "Ben Shapiro",
+                "id": 17995040,
+                "id_str": "17995040",
+                "indices": [
+                    16,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825175315"
+}

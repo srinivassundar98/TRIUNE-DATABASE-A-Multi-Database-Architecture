@@ -1,0 +1,171 @@
+{
+    "created_at": "Sat Apr 25 13:02:08 +0000 2020",
+    "id": 1254032947046502401,
+    "id_str": "1254032947046502401",
+    "text": "@FirhadHakim @MamataOfficial @KolkataPolice We are always ready to fight with corona by staying at Home and mention… https://t.co/2H8unHCHuT",
+    "display_text_range": [
+        44,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254010068284125186,
+    "in_reply_to_status_id_str": "1254010068284125186",
+    "in_reply_to_user_id": 922806342137479168,
+    "in_reply_to_user_id_str": "922806342137479168",
+    "in_reply_to_screen_name": "FirhadHakim",
+    "user": {
+        "id": 1060392764498575360,
+        "id_str": "1060392764498575360",
+        "name": "Krishanu Bag",
+        "screen_name": "KrishanuBag7",
+        "location": "West Bengal, India",
+        "url": null,
+        "description": "Mere Baare Main Itna Samajh Lena Dil Pe Aata Hun Samajh Main Nahi.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 59,
+        "listed_count": 0,
+        "favourites_count": 18,
+        "statuses_count": 126,
+        "created_at": "Thu Nov 08 04:45:11 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251773262318764032/9ug-pWX6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251773262318764032/9ug-pWX6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1060392764498575360/1587280970",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@FirhadHakim @MamataOfficial @KolkataPolice We are always ready to fight with corona by staying at Home and mentioning the social distance. \n#BengalFightsCorona",
+        "display_text_range": [
+            44,
+            160
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BengalFightsCorona",
+                    "indices": [
+                        141,
+                        160
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FirhadHakim",
+                    "name": "FIRHAD HAKIM",
+                    "id": 922806342137479168,
+                    "id_str": "922806342137479168",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "MamataOfficial",
+                    "name": "Mamata Banerjee",
+                    "id": 2526794479,
+                    "id_str": "2526794479",
+                    "indices": [
+                        13,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "KolkataPolice",
+                    "name": "Kolkata Police",
+                    "id": 3412395613,
+                    "id_str": "3412395613",
+                    "indices": [
+                        29,
+                        43
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/2H8unHCHuT",
+                "expanded_url": "https://twitter.com/i/web/status/1254032947046502401",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "FirhadHakim",
+                "name": "FIRHAD HAKIM",
+                "id": 922806342137479168,
+                "id_str": "922806342137479168",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "MamataOfficial",
+                "name": "Mamata Banerjee",
+                "id": 2526794479,
+                "id_str": "2526794479",
+                "indices": [
+                    13,
+                    28
+                ]
+            },
+            {
+                "screen_name": "KolkataPolice",
+                "name": "Kolkata Police",
+                "id": 3412395613,
+                "id_str": "3412395613",
+                "indices": [
+                    29,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819728038"
+}

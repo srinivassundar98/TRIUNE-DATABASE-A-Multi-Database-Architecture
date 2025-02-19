@@ -1,0 +1,502 @@
+{
+    "created_at": "Sat Apr 25 13:25:51 +0000 2020",
+    "id": 1254038916535025664,
+    "id_str": "1254038916535025664",
+    "text": "RT @_w0bb1t_: A data tracing system will soon be established in #Germany in the form of an installed app ..\n\nThe @rki_de is currently worki…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 225542451,
+        "id_str": "225542451",
+        "name": "mr.w0bb1t 🌐",
+        "screen_name": "_w0bb1t_",
+        "location": "(⧖)  0xC45FCC65D74014E6",
+        "url": "https://mastodon.social/@w0bb1t",
+        "description": "Loading...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 694,
+        "friends_count": 693,
+        "listed_count": 19,
+        "favourites_count": 1202,
+        "statuses_count": 2695,
+        "created_at": "Sat Dec 11 20:56:26 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "4D494A",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152873836322467845/vqVnVgyL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152873836322467845/vqVnVgyL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/225542451/1563700321",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 13:43:34 +0000 2020",
+        "id": 1253680989118791688,
+        "id_str": "1253680989118791688",
+        "text": "A data tracing system will soon be established in #Germany in the form of an installed app ..\n\nThe @rki_de is curre… https://t.co/DQbI7pYzmD",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 225542451,
+            "id_str": "225542451",
+            "name": "mr.w0bb1t 🌐",
+            "screen_name": "_w0bb1t_",
+            "location": "(⧖)  0xC45FCC65D74014E6",
+            "url": "https://mastodon.social/@w0bb1t",
+            "description": "Loading...",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 694,
+            "friends_count": 693,
+            "listed_count": 19,
+            "favourites_count": 1202,
+            "statuses_count": 2694,
+            "created_at": "Sat Dec 11 20:56:26 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "4D494A",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1152873836322467845/vqVnVgyL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152873836322467845/vqVnVgyL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/225542451/1563700321",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253565846116429829,
+        "quoted_status_id_str": "1253565846116429829",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 06:06:02 +0000 2020",
+            "id": 1253565846116429829,
+            "id_str": "1253565846116429829",
+            "text": "Ein gemeinsamer offener Brief netzpolitischer Organisationen fordert die Bundesregierung auf, das von ihr präferier… https://t.co/7pUswdYQtZ",
+            "source": "<a href=\"https://diasp.org\" rel=\"nofollow\">diasp.org</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 31812497,
+                "id_str": "31812497",
+                "name": "CCC Updates",
+                "screen_name": "chaosupdates",
+                "location": "Milky Way",
+                "url": "http://ccc.de/",
+                "description": "Der Chaos Computer Club ist eine galaktische Gemeinschaft von Lebewesen für Informationsfreiheit und Technikfolgenabschätzung.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 197296,
+                "friends_count": 214,
+                "listed_count": 3098,
+                "favourites_count": 91,
+                "statuses_count": 6385,
+                "created_at": "Thu Apr 16 14:04:59 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "645310",
+                "profile_sidebar_border_color": "F0F0F0",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/140824344/Chaosknoten-gelbes-quadrat_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/140824344/Chaosknoten-gelbes-quadrat_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/31812497/1490980742",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Ein gemeinsamer offener Brief netzpolitischer Organisationen fordert die Bundesregierung auf, das von ihr präferierte Konzept für eine Tracing-App aufzugeben https://t.co/bvlTP66r0y #CoronaApp",
+                "display_text_range": [
+                    0,
+                    192
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "CoronaApp",
+                            "indices": [
+                                182,
+                                192
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/bvlTP66r0y",
+                            "expanded_url": "https://www.ccc.de/de/updates/2020/corona-tracing-app-offener-brief-an-bundeskanzleramt-und-gesundheitsminister",
+                            "display_url": "ccc.de/de/updates/202…",
+                            "indices": [
+                                158,
+                                181
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 35,
+            "reply_count": 7,
+            "retweet_count": 479,
+            "favorite_count": 624,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/7pUswdYQtZ",
+                        "expanded_url": "https://twitter.com/i/web/status/1253565846116429829",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/eepzHn2yIF",
+            "expanded": "https://twitter.com/chaosupdates/status/1253565846116429829",
+            "display": "twitter.com/chaosupdates/s…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "A data tracing system will soon be established in #Germany in the form of an installed app ..\n\nThe @rki_de is currently working on this app, with the @FraunhoferHHI, the Federal Office for Information Security &amp; the German Armed Forces, among others ..\nhttps://t.co/eepzHn2yIF",
+            "display_text_range": [
+                0,
+                280
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Germany",
+                        "indices": [
+                            50,
+                            58
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/eepzHn2yIF",
+                        "expanded_url": "https://twitter.com/chaosupdates/status/1253565846116429829",
+                        "display_url": "twitter.com/chaosupdates/s…",
+                        "indices": [
+                            257,
+                            280
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "rki_de",
+                        "name": "Robert Koch-Institut",
+                        "id": 1364378809,
+                        "id_str": "1364378809",
+                        "indices": [
+                            99,
+                            106
+                        ]
+                    },
+                    {
+                        "screen_name": "FraunhoferHHI",
+                        "name": "Fraunhofer HHI",
+                        "id": 321358063,
+                        "id_str": "321358063",
+                        "indices": [
+                            150,
+                            164
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Germany",
+                    "indices": [
+                        50,
+                        58
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DQbI7pYzmD",
+                    "expanded_url": "https://twitter.com/i/web/status/1253680989118791688",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "rki_de",
+                    "name": "Robert Koch-Institut",
+                    "id": 1364378809,
+                    "id_str": "1364378809",
+                    "indices": [
+                        99,
+                        106
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1253565846116429829,
+    "quoted_status_id_str": "1253565846116429829",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 06:06:02 +0000 2020",
+        "id": 1253565846116429829,
+        "id_str": "1253565846116429829",
+        "text": "Ein gemeinsamer offener Brief netzpolitischer Organisationen fordert die Bundesregierung auf, das von ihr präferier… https://t.co/7pUswdYQtZ",
+        "source": "<a href=\"https://diasp.org\" rel=\"nofollow\">diasp.org</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 31812497,
+            "id_str": "31812497",
+            "name": "CCC Updates",
+            "screen_name": "chaosupdates",
+            "location": "Milky Way",
+            "url": "http://ccc.de/",
+            "description": "Der Chaos Computer Club ist eine galaktische Gemeinschaft von Lebewesen für Informationsfreiheit und Technikfolgenabschätzung.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 197296,
+            "friends_count": 214,
+            "listed_count": 3098,
+            "favourites_count": 91,
+            "statuses_count": 6385,
+            "created_at": "Thu Apr 16 14:04:59 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "645310",
+            "profile_sidebar_border_color": "F0F0F0",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/140824344/Chaosknoten-gelbes-quadrat_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/140824344/Chaosknoten-gelbes-quadrat_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31812497/1490980742",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Ein gemeinsamer offener Brief netzpolitischer Organisationen fordert die Bundesregierung auf, das von ihr präferierte Konzept für eine Tracing-App aufzugeben https://t.co/bvlTP66r0y #CoronaApp",
+            "display_text_range": [
+                0,
+                192
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "CoronaApp",
+                        "indices": [
+                            182,
+                            192
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/bvlTP66r0y",
+                        "expanded_url": "https://www.ccc.de/de/updates/2020/corona-tracing-app-offener-brief-an-bundeskanzleramt-und-gesundheitsminister",
+                        "display_url": "ccc.de/de/updates/202…",
+                        "indices": [
+                            158,
+                            181
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 35,
+        "reply_count": 7,
+        "retweet_count": 479,
+        "favorite_count": 624,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7pUswdYQtZ",
+                    "expanded_url": "https://twitter.com/i/web/status/1253565846116429829",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/eepzHn2yIF",
+        "expanded": "https://twitter.com/chaosupdates/status/1253565846116429829",
+        "display": "twitter.com/chaosupdates/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Germany",
+                "indices": [
+                    64,
+                    72
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "_w0bb1t_",
+                "name": "mr.w0bb1t 🌐",
+                "id": 225542451,
+                "id_str": "225542451",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "rki_de",
+                "name": "Robert Koch-Institut",
+                "id": 1364378809,
+                "id_str": "1364378809",
+                "indices": [
+                    113,
+                    120
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821151275"
+}

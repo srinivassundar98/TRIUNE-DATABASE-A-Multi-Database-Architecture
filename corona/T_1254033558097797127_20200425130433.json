@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:04:33 +0000 2020",
+    "id": 1254033558097797127,
+    "id_str": "1254033558097797127",
+    "text": "@rahulkanwal @IndiaToday This is not at all helpful data. In many states, several districts are corona free so you… https://t.co/ZhPj3HAWlt",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253980170425262088,
+    "in_reply_to_status_id_str": "1253980170425262088",
+    "in_reply_to_user_id": 75509967,
+    "in_reply_to_user_id_str": "75509967",
+    "in_reply_to_screen_name": "rahulkanwal",
+    "user": {
+        "id": 162424155,
+        "id_str": "162424155",
+        "name": "Smit Thakkar👨🏽‍💻👨🏼‍🍳🛌",
+        "screen_name": "smitthakkar_",
+        "location": "West Virginia, USA",
+        "url": null,
+        "description": "Software Engineer at @realtordotcom, Loves to cook, Currently developing mobile apps with @flutterDev",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 165,
+        "friends_count": 742,
+        "listed_count": 7,
+        "favourites_count": 2379,
+        "statuses_count": 829,
+        "created_at": "Sat Jul 03 16:43:10 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1181051358566387714/8J9-XjiO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181051358566387714/8J9-XjiO_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@rahulkanwal @IndiaToday This is not at all helpful data. In many states, several districts are corona free so you don't need to test anyone there.\nWhat would be helpful is a list of cities with their coronavirus active cases and per million tests. Data is very tricky. You can't just dump anything.",
+        "display_text_range": [
+            25,
+            299
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rahulkanwal",
+                    "name": "Rahul Kanwal",
+                    "id": 75509967,
+                    "id_str": "75509967",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "IndiaToday",
+                    "name": "IndiaToday",
+                    "id": 19897138,
+                    "id_str": "19897138",
+                    "indices": [
+                        13,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ZhPj3HAWlt",
+                "expanded_url": "https://twitter.com/i/web/status/1254033558097797127",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "rahulkanwal",
+                "name": "Rahul Kanwal",
+                "id": 75509967,
+                "id_str": "75509967",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "IndiaToday",
+                "name": "IndiaToday",
+                "id": 19897138,
+                "id_str": "19897138",
+                "indices": [
+                    13,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819873724"
+}

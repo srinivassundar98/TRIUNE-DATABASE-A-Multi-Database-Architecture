@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:55:03 +0000 2020",
+    "id": 1254046265270325251,
+    "id_str": "1254046265270325251",
+    "text": "Ngomnyaka wokufika kwe Corona; ndayibona iNkosi https://t.co/fdjJEc8qSI",
+    "display_text_range": [
+        0,
+        47
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 845139168,
+        "id_str": "845139168",
+        "name": "Olwethu Sipuka",
+        "screen_name": "osipuka",
+        "location": "Centurion, Pretoria",
+        "url": null,
+        "description": "Elections Campaign Manager... NB - I don’t do local politics",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 42699,
+        "friends_count": 1088,
+        "listed_count": 109,
+        "favourites_count": 3227,
+        "statuses_count": 168933,
+        "created_at": "Tue Sep 25 08:47:24 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100425914314313728/2Ekt7Q5r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100425914314313728/2Ekt7Q5r_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845139168/1434088821",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254046258769035264,
+                "id_str": "1254046258769035264",
+                "indices": [
+                    48,
+                    71
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdEbZnWAAA5LdC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdEbZnWAAA5LdC.jpg",
+                "url": "https://t.co/fdjJEc8qSI",
+                "display_url": "pic.twitter.com/fdjJEc8qSI",
+                "expanded_url": "https://twitter.com/osipuka/status/1254046265270325251/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254046258769035264,
+                "id_str": "1254046258769035264",
+                "indices": [
+                    48,
+                    71
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdEbZnWAAA5LdC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdEbZnWAAA5LdC.jpg",
+                "url": "https://t.co/fdjJEc8qSI",
+                "display_url": "pic.twitter.com/fdjJEc8qSI",
+                "expanded_url": "https://twitter.com/osipuka/status/1254046265270325251/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822903350"
+}

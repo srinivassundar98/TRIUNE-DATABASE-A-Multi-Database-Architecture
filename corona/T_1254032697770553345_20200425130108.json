@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:01:08 +0000 2020",
+    "id": 1254032697770553345,
+    "id_str": "1254032697770553345",
+    "text": "@valentetux Estamos, parece que o governo quer nos matar de qualquer custo. Se não é o corona é a fome pela falta d… https://t.co/n4ObfTfItU",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254003137947500545,
+    "in_reply_to_status_id_str": "1254003137947500545",
+    "in_reply_to_user_id": 417828009,
+    "in_reply_to_user_id_str": "417828009",
+    "in_reply_to_screen_name": "valentetux",
+    "user": {
+        "id": 3426481000,
+        "id_str": "3426481000",
+        "name": "poeira estelar",
+        "screen_name": "keilinha_rodr",
+        "location": null,
+        "url": null,
+        "description": "nunca deixe que o mundo apague o brilho do teu sorriso \n snap (keila_almeida)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 82,
+        "friends_count": 211,
+        "listed_count": 0,
+        "favourites_count": 307,
+        "statuses_count": 1169,
+        "created_at": "Sun Aug 16 18:35:32 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/957626702867390465/2Ulb4cah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/957626702867390465/2Ulb4cah_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3426481000/1476501393",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@valentetux Estamos, parece que o governo quer nos matar de qualquer custo. Se não é o corona é a fome pela falta do dinheiro se não é isso é a saúde mental afetada pela falta do dinheiro somado com a pandemia!",
+        "display_text_range": [
+            12,
+            210
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "valentetux",
+                    "name": "Capitão Brave ❁",
+                    "id": 417828009,
+                    "id_str": "417828009",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/n4ObfTfItU",
+                "expanded_url": "https://twitter.com/i/web/status/1254032697770553345",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "valentetux",
+                "name": "Capitão Brave ❁",
+                "id": 417828009,
+                "id_str": "417828009",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587819668606"
+}

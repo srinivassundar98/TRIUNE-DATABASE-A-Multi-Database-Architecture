@@ -1,0 +1,231 @@
+{
+    "created_at": "Sat Apr 25 12:38:56 +0000 2020",
+    "id": 1254027110286594048,
+    "id_str": "1254027110286594048",
+    "text": "One patient died and 40 more tested positive on Saturday for #COVID19 in J&amp;K, taking the total number of #corona po… https://t.co/tdnPAzslQe",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 141584822,
+        "id_str": "141584822",
+        "name": "IANS Tweets",
+        "screen_name": "ians_india",
+        "location": "New Delhi",
+        "url": "http://ians.in",
+        "description": "India's largest independent News Agency",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 38174,
+        "friends_count": 45,
+        "listed_count": 468,
+        "favourites_count": 15,
+        "statuses_count": 207864,
+        "created_at": "Sat May 08 13:21:45 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "ADDCDE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "03040F",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253350197876396032/xOBFeu-C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253350197876396032/xOBFeu-C_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/141584822/1587659475",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "One patient died and 40 more tested positive on Saturday for #COVID19 in J&amp;K, taking the total number of #corona positive to 494 in the #UnionTerritory even as officials attributed the spurt to more vigorous testing on the ground. \n\n#Covid_19 #COVID2019india https://t.co/GhdsQye0hv",
+        "display_text_range": [
+            0,
+            262
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        61,
+                        69
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        109,
+                        116
+                    ]
+                },
+                {
+                    "text": "UnionTerritory",
+                    "indices": [
+                        140,
+                        155
+                    ]
+                },
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        237,
+                        246
+                    ]
+                },
+                {
+                    "text": "COVID2019india",
+                    "indices": [
+                        247,
+                        262
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254027085452017666,
+                    "id_str": "1254027085452017666",
+                    "indices": [
+                        263,
+                        286
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcy_XcWAAIxaIJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcy_XcWAAIxaIJ.jpg",
+                    "url": "https://t.co/GhdsQye0hv",
+                    "display_url": "pic.twitter.com/GhdsQye0hv",
+                    "expanded_url": "https://twitter.com/ians_india/status/1254027110286594048/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254027085452017666,
+                    "id_str": "1254027085452017666",
+                    "indices": [
+                        263,
+                        286
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcy_XcWAAIxaIJ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcy_XcWAAIxaIJ.jpg",
+                    "url": "https://t.co/GhdsQye0hv",
+                    "display_url": "pic.twitter.com/GhdsQye0hv",
+                    "expanded_url": "https://twitter.com/ians_india/status/1254027110286594048/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 960,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    61,
+                    69
+                ]
+            },
+            {
+                "text": "corona",
+                "indices": [
+                    109,
+                    116
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/tdnPAzslQe",
+                "expanded_url": "https://twitter.com/i/web/status/1254027110286594048",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818336446"
+}

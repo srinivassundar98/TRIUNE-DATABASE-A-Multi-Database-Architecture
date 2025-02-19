@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:33:15 +0000 2020",
+    "id": 1249405234205646851,
+    "id_str": "1249405234205646851",
+    "text": "@IDWPublishing @SpiritSonic Are you still publishing? \nMarvel and DC have stopped publishing because of the Corona… https://t.co/sAuRJV4PXZ",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249404426814717952,
+    "in_reply_to_status_id_str": "1249404426814717952",
+    "in_reply_to_user_id": 13700542,
+    "in_reply_to_user_id_str": "13700542",
+    "in_reply_to_screen_name": "IDWPublishing",
+    "user": {
+        "id": 1072965053861646336,
+        "id_str": "1072965053861646336",
+        "name": "Don't Knock on my door or ring me! I won't answer!",
+        "screen_name": "AndrewJamesHig2",
+        "location": "Keighley ",
+        "url": null,
+        "description": "All World Leaders, Emergency Services, Armed Forces and Media are Fucking Arseholes, Bastards, Bitches, Dickheads, Idiots, Jerks!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 13,
+        "friends_count": 349,
+        "listed_count": 0,
+        "favourites_count": 15,
+        "statuses_count": 20,
+        "created_at": "Wed Dec 12 21:22:58 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233396365390209024/F7upCAPr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233396365390209024/F7upCAPr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072965053861646336/1581291484",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@IDWPublishing @SpiritSonic Are you still publishing? \nMarvel and DC have stopped publishing because of the Corona Virus! \nGlad to see that someone has the sense to not let it stop them living their lives!",
+        "display_text_range": [
+            28,
+            205
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "IDWPublishing",
+                    "name": "IDW Publishing",
+                    "id": 13700542,
+                    "id_str": "13700542",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "SpiritSonic",
+                    "name": "Evan Stanley",
+                    "id": 1601587423,
+                    "id_str": "1601587423",
+                    "indices": [
+                        15,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sAuRJV4PXZ",
+                "expanded_url": "https://twitter.com/i/web/status/1249405234205646851",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "IDWPublishing",
+                "name": "IDW Publishing",
+                "id": 13700542,
+                "id_str": "13700542",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "SpiritSonic",
+                "name": "Evan Stanley",
+                "id": 1601587423,
+                "id_str": "1601587423",
+                "indices": [
+                    15,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716395318"
+}

@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 12:23:47 +0000 2020",
+    "id": 1254023296716341248,
+    "id_str": "1254023296716341248",
+    "text": "@kumailn Are you sure it's coronavirus you're puking up and not, like, corona beer?  (I'm sorry, this seemed like a… https://t.co/YwtHn9JBZB",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253820817542017025,
+    "in_reply_to_status_id_str": "1253820817542017025",
+    "in_reply_to_user_id": 28406270,
+    "in_reply_to_user_id_str": "28406270",
+    "in_reply_to_screen_name": "kumailn",
+    "user": {
+        "id": 104780607,
+        "id_str": "104780607",
+        "name": "The one, the only, The Oddlander",
+        "screen_name": "LordofOddland",
+        "location": "Urban Cave",
+        "url": "https://www.twitch.tv/theoriginaloddlander",
+        "description": "Sentient ether creature currently piloting an ambulatory meat bot.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 20,
+        "friends_count": 56,
+        "listed_count": 0,
+        "favourites_count": 401,
+        "statuses_count": 114,
+        "created_at": "Thu Jan 14 11:07:26 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "010314",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237875814525308929/uMy7Jbl9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237875814525308929/uMy7Jbl9_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@kumailn Are you sure it's coronavirus you're puking up and not, like, corona beer?  (I'm sorry, this seemed like a joke too easy to pass up.)",
+        "display_text_range": [
+            9,
+            142
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kumailn",
+                    "name": "Kumail Nanjiani",
+                    "id": 28406270,
+                    "id_str": "28406270",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/YwtHn9JBZB",
+                "expanded_url": "https://twitter.com/i/web/status/1254023296716341248",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "kumailn",
+                "name": "Kumail Nanjiani",
+                "id": 28406270,
+                "id_str": "28406270",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817427220"
+}

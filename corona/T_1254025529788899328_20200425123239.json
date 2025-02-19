@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 12:32:39 +0000 2020",
+    "id": 1254025529788899328,
+    "id_str": "1254025529788899328",
+    "text": "Kelar corona mo jualan ini ah depan lab https://t.co/JGlJYQHFat",
+    "display_text_range": [
+        0,
+        39
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 84785392,
+        "id_str": "84785392",
+        "name": "🧛‍♀️",
+        "screen_name": "amaliaputriwdya",
+        "location": "Disini senang disana senang",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 492,
+        "friends_count": 275,
+        "listed_count": 0,
+        "favourites_count": 318,
+        "statuses_count": 7623,
+        "created_at": "Sat Oct 24 06:52:13 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1208211867367333888/UaNaLx3P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208211867367333888/UaNaLx3P_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84785392/1571569362",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254025483164975104,
+                "id_str": "1254025483164975104",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcxiGdWAAAsukJ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcxiGdWAAAsukJ.jpg",
+                "url": "https://t.co/JGlJYQHFat",
+                "display_url": "pic.twitter.com/JGlJYQHFat",
+                "expanded_url": "https://twitter.com/amaliaputriwdya/status/1254025529788899328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254025483164975104,
+                "id_str": "1254025483164975104",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcxiGdWAAAsukJ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcxiGdWAAAsukJ.jpg",
+                "url": "https://t.co/JGlJYQHFat",
+                "display_url": "pic.twitter.com/JGlJYQHFat",
+                "expanded_url": "https://twitter.com/amaliaputriwdya/status/1254025529788899328/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587817959626"
+}

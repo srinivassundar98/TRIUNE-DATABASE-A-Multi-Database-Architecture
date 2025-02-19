@@ -1,0 +1,292 @@
+{
+    "created_at": "Sat Apr 25 14:12:04 +0000 2020",
+    "id": 1254050548795559936,
+    "id_str": "1254050548795559936",
+    "text": "@Nitin86099291 @suri_at_tweet @mpandeyz @IndianExpress @rahulvpisharody @narendramodi @DrSJaishankar @HardeepSPuri… https://t.co/EhU8jufV1j",
+    "display_text_range": [
+        117,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254049955813232642,
+    "in_reply_to_status_id_str": "1254049955813232642",
+    "in_reply_to_user_id": 1246479696759599104,
+    "in_reply_to_user_id_str": "1246479696759599104",
+    "in_reply_to_screen_name": "Nitin86099291",
+    "user": {
+        "id": 988679361602600960,
+        "id_str": "988679361602600960",
+        "name": "sahil verma",
+        "screen_name": "sahilve12038916",
+        "location": "Kanpur, India",
+        "url": null,
+        "description": "analyst of Indian politics !  Fan Of Hina khan ! I am a optimistic person !",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 274,
+        "friends_count": 249,
+        "listed_count": 0,
+        "favourites_count": 64226,
+        "statuses_count": 15995,
+        "created_at": "Tue Apr 24 07:21:43 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237468323190734849/gGTy8FtD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237468323190734849/gGTy8FtD_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Nitin86099291 @suri_at_tweet @mpandeyz @IndianExpress @rahulvpisharody @narendramodi @DrSJaishankar @HardeepSPuri @MoCA_GoI @PMOIndia @PrakashJavdekar Mai apne desh me corona failane wapas nhi aata.....agar mai US me hota....that's it",
+        "display_text_range": [
+            152,
+            235
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Nitin86099291",
+                    "name": "Nitin",
+                    "id": 1246479696759599104,
+                    "id_str": "1246479696759599104",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "suri_at_tweet",
+                    "name": "Surendra Beniwal",
+                    "id": 71284049,
+                    "id_str": "71284049",
+                    "indices": [
+                        15,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "mpandeyz",
+                    "name": "M Pandey",
+                    "id": 1388279244,
+                    "id_str": "1388279244",
+                    "indices": [
+                        30,
+                        39
+                    ]
+                },
+                {
+                    "screen_name": "IndianExpress",
+                    "name": "The Indian Express",
+                    "id": 38647512,
+                    "id_str": "38647512",
+                    "indices": [
+                        40,
+                        54
+                    ]
+                },
+                {
+                    "screen_name": "rahulvpisharody",
+                    "name": "Rahul V Pisharody",
+                    "id": 1669872722,
+                    "id_str": "1669872722",
+                    "indices": [
+                        55,
+                        71
+                    ]
+                },
+                {
+                    "screen_name": "narendramodi",
+                    "name": "Narendra Modi",
+                    "id": 18839785,
+                    "id_str": "18839785",
+                    "indices": [
+                        72,
+                        85
+                    ]
+                },
+                {
+                    "screen_name": "DrSJaishankar",
+                    "name": "Dr. S. Jaishankar",
+                    "id": 859363899291742210,
+                    "id_str": "859363899291742210",
+                    "indices": [
+                        86,
+                        100
+                    ]
+                },
+                {
+                    "screen_name": "HardeepSPuri",
+                    "name": "Hardeep Singh Puri",
+                    "id": 2289628938,
+                    "id_str": "2289628938",
+                    "indices": [
+                        101,
+                        114
+                    ]
+                },
+                {
+                    "screen_name": "MoCA_GoI",
+                    "name": "MoCA_GoI",
+                    "id": 3619207820,
+                    "id_str": "3619207820",
+                    "indices": [
+                        115,
+                        124
+                    ]
+                },
+                {
+                    "screen_name": "PMOIndia",
+                    "name": "PMO India",
+                    "id": 471741741,
+                    "id_str": "471741741",
+                    "indices": [
+                        125,
+                        134
+                    ]
+                },
+                {
+                    "screen_name": "PrakashJavdekar",
+                    "name": "Prakash Javadekar",
+                    "id": 1072993274,
+                    "id_str": "1072993274",
+                    "indices": [
+                        135,
+                        151
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/EhU8jufV1j",
+                "expanded_url": "https://twitter.com/i/web/status/1254050548795559936",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Nitin86099291",
+                "name": "Nitin",
+                "id": 1246479696759599104,
+                "id_str": "1246479696759599104",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "suri_at_tweet",
+                "name": "Surendra Beniwal",
+                "id": 71284049,
+                "id_str": "71284049",
+                "indices": [
+                    15,
+                    29
+                ]
+            },
+            {
+                "screen_name": "mpandeyz",
+                "name": "M Pandey",
+                "id": 1388279244,
+                "id_str": "1388279244",
+                "indices": [
+                    30,
+                    39
+                ]
+            },
+            {
+                "screen_name": "IndianExpress",
+                "name": "The Indian Express",
+                "id": 38647512,
+                "id_str": "38647512",
+                "indices": [
+                    40,
+                    54
+                ]
+            },
+            {
+                "screen_name": "rahulvpisharody",
+                "name": "Rahul V Pisharody",
+                "id": 1669872722,
+                "id_str": "1669872722",
+                "indices": [
+                    55,
+                    71
+                ]
+            },
+            {
+                "screen_name": "narendramodi",
+                "name": "Narendra Modi",
+                "id": 18839785,
+                "id_str": "18839785",
+                "indices": [
+                    72,
+                    85
+                ]
+            },
+            {
+                "screen_name": "DrSJaishankar",
+                "name": "Dr. S. Jaishankar",
+                "id": 859363899291742210,
+                "id_str": "859363899291742210",
+                "indices": [
+                    86,
+                    100
+                ]
+            },
+            {
+                "screen_name": "HardeepSPuri",
+                "name": "Hardeep Singh Puri",
+                "id": 2289628938,
+                "id_str": "2289628938",
+                "indices": [
+                    101,
+                    114
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587823924622"
+}

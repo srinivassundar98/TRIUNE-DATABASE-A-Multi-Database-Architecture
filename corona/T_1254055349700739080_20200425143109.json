@@ -1,0 +1,152 @@
+{
+    "created_at": "Sat Apr 25 14:31:09 +0000 2020",
+    "id": 1254055349700739080,
+    "id_str": "1254055349700739080",
+    "text": "Who else is with me on this oo.. Positivity only .. Meanwhile please stay safe out there .. this Corona is a joker… https://t.co/zvqz03urD2",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 184944350,
+        "id_str": "184944350",
+        "name": "horls",
+        "screen_name": "Horlstyle",
+        "location": "Arsenal fc",
+        "url": null,
+        "description": "Fashion Blogger | Fashion designer | Brand Ambassador | Fashion consultantΦ®",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 249,
+        "friends_count": 846,
+        "listed_count": 13,
+        "favourites_count": 209,
+        "statuses_count": 4115,
+        "created_at": "Mon Aug 30 21:41:10 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1000825298513022976/Dmhts4ul_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000825298513022976/Dmhts4ul_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/184944350/1490042240",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            6.45306,
+            3.39583
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            3.39583,
+            6.45306
+        ]
+    },
+    "place": {
+        "id": "00817d75276a95cf",
+        "url": "https://api.twitter.com/1.1/geo/id/00817d75276a95cf.json",
+        "place_type": "city",
+        "name": "Lagos",
+        "full_name": "Lagos, Nigeria",
+        "country_code": "NG",
+        "country": "Nigeria",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        3.213147,
+                        6.427886
+                    ],
+                    [
+                        3.213147,
+                        6.558339
+                    ],
+                    [
+                        3.464064,
+                        6.558339
+                    ],
+                    [
+                        3.464064,
+                        6.427886
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Who else is with me on this oo.. Positivity only .. Meanwhile please stay safe out there .. this Corona is a joker and we will conquer soon .. STAY SAFE FAM .. SANITIZE AND WASH YOUR HANDS REGULARLY PLEASE… https://t.co/IHtnmhLpdh",
+        "display_text_range": [
+            0,
+            230
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IHtnmhLpdh",
+                    "expanded_url": "https://www.instagram.com/p/B_aENPgltZf/?igshid=1rgy4192mcm1j",
+                    "display_url": "instagram.com/p/B_aENPgltZf/…",
+                    "indices": [
+                        207,
+                        230
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/zvqz03urD2",
+                "expanded_url": "https://twitter.com/i/web/status/1254055349700739080",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825069247"
+}

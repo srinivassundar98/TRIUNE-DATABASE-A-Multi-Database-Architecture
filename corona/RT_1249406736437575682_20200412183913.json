@@ -1,0 +1,456 @@
+{
+    "created_at": "Sun Apr 12 18:39:13 +0000 2020",
+    "id": 1249406736437575682,
+    "id_str": "1249406736437575682",
+    "text": "RT @matteokutufa: Finalmente, qualcosa da aggiungere al mio personale generatore di complotti (si esiste davvero)\nhttps://t.co/INHLRPI18M h…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1249068072360697862,
+        "id_str": "1249068072360697862",
+        "name": "generatoredicomplotti",
+        "screen_name": "generacomplotti",
+        "location": "Italia",
+        "url": "https://generatoredicomplotti.it",
+        "description": "Generatore ossessivo compulsivo di complotti casuali inventati.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 34,
+        "listed_count": 0,
+        "favourites_count": 2,
+        "statuses_count": 122,
+        "created_at": "Sat Apr 11 20:13:41 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249085210395840512/STo0f-i9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249085210395840512/STo0f-i9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249068072360697862/1586639967",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Apr 08 13:30:03 +0000 2020",
+        "id": 1247879378727387137,
+        "id_str": "1247879378727387137",
+        "text": "Finalmente, qualcosa da aggiungere al mio personale generatore di complotti (si esiste davvero)… https://t.co/CYg8u1Yjdl",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 880027216406609921,
+            "id_str": "880027216406609921",
+            "name": "Matteo Kutufa",
+            "screen_name": "matteokutufa",
+            "location": "Firenze, Toscana",
+            "url": null,
+            "description": "Sysadmin a tempo pieno, fotografo per passione.\n\"Il sole bacia i belli, ecco perché piove sempre dove ci son io\"",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 6,
+            "friends_count": 119,
+            "listed_count": 0,
+            "favourites_count": 164,
+            "statuses_count": 90,
+            "created_at": "Wed Jun 28 11:36:53 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "515151",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/880030600333332481/YtDTok2B_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/880030600333332481/YtDTok2B_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/880027216406609921/1498651996",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1247873335792480259,
+        "quoted_status_id_str": "1247873335792480259",
+        "quoted_status": {
+            "created_at": "Wed Apr 08 13:06:02 +0000 2020",
+            "id": 1247873335792480259,
+            "id_str": "1247873335792480259",
+            "text": "il corona virus è stato creato da bill gates al fine di finanziare il terrorismo internazionale, si trasmette attra… https://t.co/dG1kVpiecs",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2807208831,
+                "id_str": "2807208831",
+                "name": "Giulia",
+                "screen_name": "giuliamstabile",
+                "location": "IG: giuliamstabile",
+                "url": "https://m.imdb.com/name/nm11366645/",
+                "description": "Hunter per sbaglio su Celebrity Hunted; available on @PrimeVideoIt",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 7303,
+                "friends_count": 231,
+                "listed_count": 4,
+                "favourites_count": 6221,
+                "statuses_count": 4700,
+                "created_at": "Sun Oct 05 09:21:30 +0000 2014",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1238387073566023681/9vwtpHJj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238387073566023681/9vwtpHJj_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2807208831/1584089462",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "quoted_status_id": 1247850894135263232,
+            "quoted_status_id_str": "1247850894135263232",
+            "is_quote_status": true,
+            "extended_tweet": {
+                "full_text": "il corona virus è stato creato da bill gates al fine di finanziare il terrorismo internazionale, si trasmette attraverso i topi e io lo so perché ho parlato con dio \n\nsto: urlando https://t.co/lrYmx9xuYT",
+                "display_text_range": [
+                    0,
+                    179
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/lrYmx9xuYT",
+                            "expanded_url": "https://twitter.com/anikeatable/status/1247850894135263232",
+                            "display_url": "twitter.com/anikeatable/st…",
+                            "indices": [
+                                180,
+                                203
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/dG1kVpiecs",
+                        "expanded_url": "https://twitter.com/i/web/status/1247873335792480259",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "it"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/wvxSs0VrEE",
+            "expanded": "https://twitter.com/giuliamstabile/status/1247873335792480259",
+            "display": "twitter.com/giuliamstabile…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Finalmente, qualcosa da aggiungere al mio personale generatore di complotti (si esiste davvero)\nhttps://t.co/INHLRPI18M https://t.co/wvxSs0VrEE",
+            "display_text_range": [
+                0,
+                119
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/INHLRPI18M",
+                        "expanded_url": "https://generatoredicomplotti.sudosu.it/",
+                        "display_url": "generatoredicomplotti.sudosu.it",
+                        "indices": [
+                            96,
+                            119
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/wvxSs0VrEE",
+                        "expanded_url": "https://twitter.com/giuliamstabile/status/1247873335792480259",
+                        "display_url": "twitter.com/giuliamstabile…",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CYg8u1Yjdl",
+                    "expanded_url": "https://twitter.com/i/web/status/1247879378727387137",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "it"
+    },
+    "quoted_status_id": 1247873335792480259,
+    "quoted_status_id_str": "1247873335792480259",
+    "quoted_status": {
+        "created_at": "Wed Apr 08 13:06:02 +0000 2020",
+        "id": 1247873335792480259,
+        "id_str": "1247873335792480259",
+        "text": "il corona virus è stato creato da bill gates al fine di finanziare il terrorismo internazionale, si trasmette attra… https://t.co/dG1kVpiecs",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2807208831,
+            "id_str": "2807208831",
+            "name": "Giulia",
+            "screen_name": "giuliamstabile",
+            "location": "IG: giuliamstabile",
+            "url": "https://m.imdb.com/name/nm11366645/",
+            "description": "Hunter per sbaglio su Celebrity Hunted; available on @PrimeVideoIt",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 7303,
+            "friends_count": 231,
+            "listed_count": 4,
+            "favourites_count": 6221,
+            "statuses_count": 4700,
+            "created_at": "Sun Oct 05 09:21:30 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1238387073566023681/9vwtpHJj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238387073566023681/9vwtpHJj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2807208831/1584089462",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1247850894135263232,
+        "quoted_status_id_str": "1247850894135263232",
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "il corona virus è stato creato da bill gates al fine di finanziare il terrorismo internazionale, si trasmette attraverso i topi e io lo so perché ho parlato con dio \n\nsto: urlando https://t.co/lrYmx9xuYT",
+            "display_text_range": [
+                0,
+                179
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/lrYmx9xuYT",
+                        "expanded_url": "https://twitter.com/anikeatable/status/1247850894135263232",
+                        "display_url": "twitter.com/anikeatable/st…",
+                        "indices": [
+                            180,
+                            203
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dG1kVpiecs",
+                    "expanded_url": "https://twitter.com/i/web/status/1247873335792480259",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "it"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/wvxSs0VrEE",
+        "expanded": "https://twitter.com/giuliamstabile/status/1247873335792480259",
+        "display": "twitter.com/giuliamstabile…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/INHLRPI18M",
+                "expanded_url": "https://generatoredicomplotti.sudosu.it/",
+                "display_url": "generatoredicomplotti.sudosu.it",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "matteokutufa",
+                "name": "Matteo Kutufa",
+                "id": 880027216406609921,
+                "id_str": "880027216406609921",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1586716753478"
+}

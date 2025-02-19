@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 12:27:39 +0000 2020",
+    "id": 1254024269157273600,
+    "id_str": "1254024269157273600",
+    "text": "@sypwynia Help me eens even: Iedereen draagt bij aan het herstelfonds, iedereen is getroffen door Corona, iedereen… https://t.co/vpvrfSYhdi",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253969898239414272,
+    "in_reply_to_status_id_str": "1253969898239414272",
+    "in_reply_to_user_id": 48015202,
+    "in_reply_to_user_id_str": "48015202",
+    "in_reply_to_screen_name": "sypwynia",
+    "user": {
+        "id": 3003984439,
+        "id_str": "3003984439",
+        "name": "Jay Eetsj",
+        "screen_name": "JayEetsj",
+        "location": "Juinen, Nederland",
+        "url": null,
+        "description": "Ik val aan, volg mij!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 301,
+        "friends_count": 191,
+        "listed_count": 0,
+        "favourites_count": 16427,
+        "statuses_count": 8419,
+        "created_at": "Fri Jan 30 22:36:44 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226556182334255110/9L88bmNI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226556182334255110/9L88bmNI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3003984439/1577656261",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@sypwynia Help me eens even: Iedereen draagt bij aan het herstelfonds, iedereen is getroffen door Corona, iedereen krijgt betaald. Is het dan niet gewoon een sigaar uut eigen doos?",
+        "display_text_range": [
+            10,
+            180
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sypwynia",
+                    "name": "Syp Wynia",
+                    "id": 48015202,
+                    "id_str": "48015202",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/vpvrfSYhdi",
+                "expanded_url": "https://twitter.com/i/web/status/1254024269157273600",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sypwynia",
+                "name": "Syp Wynia",
+                "id": 48015202,
+                "id_str": "48015202",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587817659068"
+}

@@ -1,0 +1,133 @@
+{
+    "created_at": "Sat Apr 25 13:42:00 +0000 2020",
+    "id": 1254042982468202500,
+    "id_str": "1254042982468202500",
+    "text": "@AndrejBabis USA  je zem, která boj s koronavirem totálně poděla. Jejich zdravotnictví jen pro bohaté je varovným m… https://t.co/mfVS3t6sWj",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253995148406665217,
+    "in_reply_to_status_id_str": "1253995148406665217",
+    "in_reply_to_user_id": 713035525,
+    "in_reply_to_user_id_str": "713035525",
+    "in_reply_to_screen_name": "AndrejBabis",
+    "user": {
+        "id": 1177564409553707008,
+        "id_str": "1177564409553707008",
+        "name": "josef cyrany",
+        "screen_name": "josef_cyrany",
+        "location": null,
+        "url": null,
+        "description": "Sběratel letáků hypersupermarketů.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 4,
+        "listed_count": 1,
+        "favourites_count": 899,
+        "statuses_count": 411,
+        "created_at": "Fri Sep 27 12:43:42 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177564908159979522/RHtl38DL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177564908159979522/RHtl38DL_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@AndrejBabis USA  je zem, která boj s koronavirem totálně poděla. Jejich zdravotnictví jen pro bohaté je varovným mementem pro všechny ty topkaře ,kteří  by podobný model chtěli zavádět i u nás . Člověk by takové výsledky čekal spíš někde v rozvojové zemi. Viz. https://t.co/4nKHZkgCcp",
+        "display_text_range": [
+            13,
+            285
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4nKHZkgCcp",
+                    "expanded_url": "https://www.spiegel.de/panorama/corona-pandemie-die-totengraeberinnen-von-new-york-a-c3e825bb-f9d2-4ff7-8819-8f46ba879ce2",
+                    "display_url": "spiegel.de/panorama/coron…",
+                    "indices": [
+                        262,
+                        285
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "AndrejBabis",
+                    "name": "Andrej Babiš",
+                    "id": 713035525,
+                    "id_str": "713035525",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/mfVS3t6sWj",
+                "expanded_url": "https://twitter.com/i/web/status/1254042982468202500",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AndrejBabis",
+                "name": "Andrej Babiš",
+                "id": 713035525,
+                "id_str": "713035525",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "cs",
+    "timestamp_ms": "1587822120669"
+}

@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:00:02 +0000 2020",
+    "id": 1254047520386400258,
+    "id_str": "1254047520386400258",
+    "text": "@repubblica \"@BillGates : \"If the Oxford Corona.virus works, I'll pay for it.\"\nI see so many fallacies in this bill… https://t.co/eJefWqLFKB",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254043252698738688,
+    "in_reply_to_status_id_str": "1254043252698738688",
+    "in_reply_to_user_id": 18935802,
+    "in_reply_to_user_id_str": "18935802",
+    "in_reply_to_screen_name": "repubblica",
+    "user": {
+        "id": 252552347,
+        "id_str": "252552347",
+        "name": "★Bright 🐱🐟",
+        "screen_name": "Starbright1973",
+        "location": "Finland",
+        "url": "http://starbright73.livejournal.com/",
+        "description": "Cynical, opinionated anti-fascist. Which,  by the way,  I thought everybody,  with even one  functioning neuron left, would be.",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 262,
+        "friends_count": 188,
+        "listed_count": 35,
+        "favourites_count": 33129,
+        "statuses_count": 18724,
+        "created_at": "Tue Feb 15 12:36:16 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/948673673048682496/upIsMpFW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/948673673048682496/upIsMpFW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/252552347/1355685120",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@repubblica \"@BillGates : \"If the Oxford Corona.virus works, I'll pay for it.\"\nI see so many fallacies in this billionaire economy ...\nWill he buy the rights and make a good affair on billing the customers? I do not even dare to read the rest.",
+        "display_text_range": [
+            12,
+            243
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "repubblica",
+                    "name": "Repubblica",
+                    "id": 18935802,
+                    "id_str": "18935802",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "BillGates",
+                    "name": "Bill Gates",
+                    "id": 50393960,
+                    "id_str": "50393960",
+                    "indices": [
+                        13,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/eJefWqLFKB",
+                "expanded_url": "https://twitter.com/i/web/status/1254047520386400258",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "repubblica",
+                "name": "Repubblica",
+                "id": 18935802,
+                "id_str": "18935802",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "BillGates",
+                "name": "Bill Gates",
+                "id": 50393960,
+                "id_str": "50393960",
+                "indices": [
+                    13,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823202593"
+}

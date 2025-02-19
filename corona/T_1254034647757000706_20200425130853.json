@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:08:53 +0000 2020",
+    "id": 1254034647757000706,
+    "id_str": "1254034647757000706",
+    "text": "@biteswithateG Sana matapos na tong corona na to. Pagod na pagod na ako.",
+    "display_text_range": [
+        15,
+        72
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254033489122308096,
+    "in_reply_to_status_id_str": "1254033489122308096",
+    "in_reply_to_user_id": 800020961852420096,
+    "in_reply_to_user_id_str": "800020961852420096",
+    "in_reply_to_screen_name": "biteswithateG",
+    "user": {
+        "id": 27803137,
+        "id_str": "27803137",
+        "name": "Majiebaby",
+        "screen_name": "MajYapDionela",
+        "location": "Oslo, Norway",
+        "url": null,
+        "description": "Secret Hiphop Ninja.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 389,
+        "friends_count": 356,
+        "listed_count": 5,
+        "favourites_count": 6061,
+        "statuses_count": 49188,
+        "created_at": "Tue Mar 31 03:23:54 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "099429",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1101987821781438464/Xqa4Q58-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101987821781438464/Xqa4Q58-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27803137/1491133352",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "e42ed02b50d62e29",
+        "url": "https://api.twitter.com/1.1/geo/id/e42ed02b50d62e29.json",
+        "place_type": "city",
+        "name": "Oslo",
+        "full_name": "Oslo, Norway",
+        "country_code": "NO",
+        "country": "Norway",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        10.491468,
+                        59.809779
+                    ],
+                    [
+                        10.491468,
+                        60.135032
+                    ],
+                    [
+                        10.951584,
+                        60.135032
+                    ],
+                    [
+                        10.951584,
+                        59.809779
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "biteswithateG",
+                "name": "Anna Lou",
+                "id": 800020961852420096,
+                "id_str": "800020961852420096",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1587820133519"
+}

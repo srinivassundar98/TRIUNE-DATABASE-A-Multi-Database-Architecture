@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:46:58 +0000 2020",
+    "id": 1254029131232272387,
+    "id_str": "1254029131232272387",
+    "text": "@TheInterceptBr vai desmaiar ou fingir que ta com corona? @FlavioBolsonaro",
+    "display_text_range": [
+        16,
+        74
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253998056783183872,
+    "in_reply_to_status_id_str": "1253998056783183872",
+    "in_reply_to_user_id": 751454653011951616,
+    "in_reply_to_user_id_str": "751454653011951616",
+    "in_reply_to_screen_name": "TheInterceptBr",
+    "user": {
+        "id": 459318780,
+        "id_str": "459318780",
+        "name": "good girl 🐁",
+        "screen_name": "GeiziCkobain",
+        "location": "Belo Horizonte, Brasil",
+        "url": "http://instagram.com/ritaleena_",
+        "description": "the jiripoca is going to pewpew",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 672,
+        "friends_count": 154,
+        "listed_count": 9,
+        "favourites_count": 11317,
+        "statuses_count": 78905,
+        "created_at": "Mon Jan 09 14:43:32 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "8A7FDB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253458795784744962/eqCrpeg8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253458795784744962/eqCrpeg8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/459318780/1587674990",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "TheInterceptBr",
+                "name": "The Intercept Brasil",
+                "id": 751454653011951616,
+                "id_str": "751454653011951616",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "FlavioBolsonaro",
+                "name": "Flavio Bolsonaro",
+                "id": 40053694,
+                "id_str": "40053694",
+                "indices": [
+                    58,
+                    74
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587818818277"
+}

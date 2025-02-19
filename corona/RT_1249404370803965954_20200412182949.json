@@ -1,0 +1,673 @@
+{
+    "created_at": "Sun Apr 12 18:29:49 +0000 2020",
+    "id": 1249404370803965954,
+    "id_str": "1249404370803965954",
+    "text": "RT @capontesoficial: É apoiar tudo que há de mais nojento no ser humano. Nunca vi alguém tão odiável assim. Estou perplexa. Triste saber qu…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 938916186359828480,
+        "id_str": "938916186359828480",
+        "name": "luixxx",
+        "screen_name": "Riqueobrabo",
+        "location": "trem bala",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 177,
+        "friends_count": 588,
+        "listed_count": 0,
+        "favourites_count": 585,
+        "statuses_count": 2386,
+        "created_at": "Thu Dec 07 23:40:37 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245841241771847683/sO9djbX3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245841241771847683/sO9djbX3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/938916186359828480/1568961775",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 15:46:56 +0000 2020",
+        "id": 1249363380227518464,
+        "id_str": "1249363380227518464",
+        "text": "É apoiar tudo que há de mais nojento no ser humano. Nunca vi alguém tão odiável assim. Estou perplexa. Triste saber… https://t.co/PylJqfc4L0",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3402695350,
+            "id_str": "3402695350",
+            "name": "Carolina Pontes",
+            "screen_name": "capontesoficial",
+            "location": "Limeira, São Paulo",
+            "url": null,
+            "description": "⚖️Advogada 👩🏻‍🏫Educadora 📚Pesquisadora 👩🏻‍🎓Mestre em Direitos Fundamentais, Coletivos e Difusos 🇧🇷Política | Vereadora por Limeira",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2511,
+            "friends_count": 343,
+            "listed_count": 1,
+            "favourites_count": 9244,
+            "statuses_count": 10908,
+            "created_at": "Tue Aug 04 12:38:57 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1201540917250928640/TNZEdisQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201540917250928640/TNZEdisQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3402695350/1565985585",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "1ed0d68d50dc35c1",
+            "url": "https://api.twitter.com/1.1/geo/id/1ed0d68d50dc35c1.json",
+            "place_type": "city",
+            "name": "Limeira",
+            "full_name": "Limeira, Brasil",
+            "country_code": "BR",
+            "country": "Brasil",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -47.51119,
+                            -22.738772
+                        ],
+                        [
+                            -47.51119,
+                            -22.444757
+                        ],
+                        [
+                            -47.211948,
+                            -22.444757
+                        ],
+                        [
+                            -47.211948,
+                            -22.738772
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1249003208967626754,
+        "quoted_status_id_str": "1249003208967626754",
+        "quoted_status": {
+            "created_at": "Sat Apr 11 15:55:45 +0000 2020",
+            "id": 1249003208967626754,
+            "id_str": "1249003208967626754",
+            "text": "Por favor, se você apoia essa mulher, solicito que me exclua do seu círculo de amigos. Apoiar essa mulher é pra mim… https://t.co/gCp1qNCfgK",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1192925036,
+                "id_str": "1192925036",
+                "name": "joaoebx é #TeamBabu 🐻🐻🐻🐻",
+                "screen_name": "joaopontoebx",
+                "location": "Bahia, Brasil",
+                "url": null,
+                "description": "rubro negro baiano\ncarcará",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 475,
+                "friends_count": 1252,
+                "listed_count": 1,
+                "favourites_count": 9723,
+                "statuses_count": 7193,
+                "created_at": "Mon Feb 18 11:44:22 +0000 2013",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1248251890241925128/uBPEaaev_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248251890241925128/uBPEaaev_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1192925036/1585511727",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "e60cc1f72c303272",
+                "url": "https://api.twitter.com/1.1/geo/id/e60cc1f72c303272.json",
+                "place_type": "city",
+                "name": "Salvador",
+                "full_name": "Salvador, Brasil",
+                "country_code": "BR",
+                "country": "Brasil",
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -38.700244,
+                                -13.02679
+                            ],
+                            [
+                                -38.700244,
+                                -12.723879
+                            ],
+                            [
+                                -38.305051,
+                                -12.723879
+                            ],
+                            [
+                                -38.305051,
+                                -13.02679
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Por favor, se você apoia essa mulher, solicito que me exclua do seu círculo de amigos. Apoiar essa mulher é pra mim apoiar a mentira, a fraude, a corrupção, a farsa, o racismo, a amizade com Ivy, o corona, o choro por festas de BBB. \n#ForaGizelly https://t.co/0DsMJQ9c0m",
+                "display_text_range": [
+                    0,
+                    246
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "ForaGizelly",
+                            "indices": [
+                                234,
+                                246
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1249003205880623105,
+                            "id_str": "1249003205880623105",
+                            "indices": [
+                                247,
+                                270
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVVZzFnWsAEe9x1.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVVZzFnWsAEe9x1.jpg",
+                            "url": "https://t.co/0DsMJQ9c0m",
+                            "display_url": "pic.twitter.com/0DsMJQ9c0m",
+                            "expanded_url": "https://twitter.com/joaopontoebx/status/1249003208967626754/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 320,
+                                    "h": 320,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 320,
+                                    "h": 320,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 320,
+                                    "h": 320,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1249003205880623105,
+                            "id_str": "1249003205880623105",
+                            "indices": [
+                                247,
+                                270
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVVZzFnWsAEe9x1.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVVZzFnWsAEe9x1.jpg",
+                            "url": "https://t.co/0DsMJQ9c0m",
+                            "display_url": "pic.twitter.com/0DsMJQ9c0m",
+                            "expanded_url": "https://twitter.com/joaopontoebx/status/1249003208967626754/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 320,
+                                    "h": 320,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 320,
+                                    "h": 320,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 320,
+                                    "h": 320,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 28,
+            "reply_count": 50,
+            "retweet_count": 380,
+            "favorite_count": 1248,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/gCp1qNCfgK",
+                        "expanded_url": "https://twitter.com/i/web/status/1249003208967626754",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "pt"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/vqrdUJXyPV",
+            "expanded": "https://twitter.com/joaopontoebx/status/1249003208967626754",
+            "display": "twitter.com/joaopontoebx/s…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "É apoiar tudo que há de mais nojento no ser humano. Nunca vi alguém tão odiável assim. Estou perplexa. Triste saber que é advogada! 😔😩 #ForaGizelly",
+            "display_text_range": [
+                0,
+                147
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ForaGizelly",
+                        "indices": [
+                            135,
+                            147
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/PylJqfc4L0",
+                    "expanded_url": "https://twitter.com/i/web/status/1249363380227518464",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "pt"
+    },
+    "quoted_status_id": 1249003208967626754,
+    "quoted_status_id_str": "1249003208967626754",
+    "quoted_status": {
+        "created_at": "Sat Apr 11 15:55:45 +0000 2020",
+        "id": 1249003208967626754,
+        "id_str": "1249003208967626754",
+        "text": "Por favor, se você apoia essa mulher, solicito que me exclua do seu círculo de amigos. Apoiar essa mulher é pra mim… https://t.co/gCp1qNCfgK",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1192925036,
+            "id_str": "1192925036",
+            "name": "joaoebx é #TeamBabu 🐻🐻🐻🐻",
+            "screen_name": "joaopontoebx",
+            "location": "Bahia, Brasil",
+            "url": null,
+            "description": "rubro negro baiano\ncarcará",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 475,
+            "friends_count": 1252,
+            "listed_count": 1,
+            "favourites_count": 9723,
+            "statuses_count": 7193,
+            "created_at": "Mon Feb 18 11:44:22 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248251890241925128/uBPEaaev_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248251890241925128/uBPEaaev_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1192925036/1585511727",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "e60cc1f72c303272",
+            "url": "https://api.twitter.com/1.1/geo/id/e60cc1f72c303272.json",
+            "place_type": "city",
+            "name": "Salvador",
+            "full_name": "Salvador, Brasil",
+            "country_code": "BR",
+            "country": "Brasil",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -38.700244,
+                            -13.02679
+                        ],
+                        [
+                            -38.700244,
+                            -12.723879
+                        ],
+                        [
+                            -38.305051,
+                            -12.723879
+                        ],
+                        [
+                            -38.305051,
+                            -13.02679
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Por favor, se você apoia essa mulher, solicito que me exclua do seu círculo de amigos. Apoiar essa mulher é pra mim apoiar a mentira, a fraude, a corrupção, a farsa, o racismo, a amizade com Ivy, o corona, o choro por festas de BBB. \n#ForaGizelly https://t.co/0DsMJQ9c0m",
+            "display_text_range": [
+                0,
+                246
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ForaGizelly",
+                        "indices": [
+                            234,
+                            246
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1249003205880623105,
+                        "id_str": "1249003205880623105",
+                        "indices": [
+                            247,
+                            270
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVVZzFnWsAEe9x1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVVZzFnWsAEe9x1.jpg",
+                        "url": "https://t.co/0DsMJQ9c0m",
+                        "display_url": "pic.twitter.com/0DsMJQ9c0m",
+                        "expanded_url": "https://twitter.com/joaopontoebx/status/1249003208967626754/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 320,
+                                "h": 320,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 320,
+                                "h": 320,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 320,
+                                "h": 320,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1249003205880623105,
+                        "id_str": "1249003205880623105",
+                        "indices": [
+                            247,
+                            270
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVVZzFnWsAEe9x1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVVZzFnWsAEe9x1.jpg",
+                        "url": "https://t.co/0DsMJQ9c0m",
+                        "display_url": "pic.twitter.com/0DsMJQ9c0m",
+                        "expanded_url": "https://twitter.com/joaopontoebx/status/1249003208967626754/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 320,
+                                "h": 320,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 320,
+                                "h": 320,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 320,
+                                "h": 320,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 28,
+        "reply_count": 50,
+        "retweet_count": 380,
+        "favorite_count": 1248,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/gCp1qNCfgK",
+                    "expanded_url": "https://twitter.com/i/web/status/1249003208967626754",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "pt"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/vqrdUJXyPV",
+        "expanded": "https://twitter.com/joaopontoebx/status/1249003208967626754",
+        "display": "twitter.com/joaopontoebx/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "capontesoficial",
+                "name": "Carolina Pontes",
+                "id": 3402695350,
+                "id_str": "3402695350",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716189467"
+}

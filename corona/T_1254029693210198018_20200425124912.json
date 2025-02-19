@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 12:49:12 +0000 2020",
+    "id": 1254029693210198018,
+    "id_str": "1254029693210198018",
+    "text": "@Jamiebower Hey @Jamiebower  how are you?  I hope you are healthy because of the Corona virus",
+    "display_text_range": [
+        12,
+        93
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254025708277395459,
+    "in_reply_to_status_id_str": "1254025708277395459",
+    "in_reply_to_user_id": 21211181,
+    "in_reply_to_user_id_str": "21211181",
+    "in_reply_to_screen_name": "Jamiebower",
+    "user": {
+        "id": 1245339350042382336,
+        "id_str": "1245339350042382336",
+        "name": "SlytherinQueen",
+        "screen_name": "Slyther32825676",
+        "location": "Deutschland",
+        "url": null,
+        "description": "Cosplayerin|| Animefreak|| Potterhead|| Lebe jeden Tag deinen Traum,  bevor es zu spät ist|| You will die in Fire and Blood||",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 44,
+        "listed_count": 0,
+        "favourites_count": 172,
+        "statuses_count": 89,
+        "created_at": "Wed Apr 01 13:17:17 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245348469948198912/MArEX3r0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245348469948198912/MArEX3r0_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Jamiebower",
+                "name": "Jamie Campbell Bower",
+                "id": 21211181,
+                "id_str": "21211181",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "Jamiebower",
+                "name": "Jamie Campbell Bower",
+                "id": 21211181,
+                "id_str": "21211181",
+                "indices": [
+                    16,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818952263"
+}

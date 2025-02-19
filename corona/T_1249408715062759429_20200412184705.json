@@ -1,0 +1,100 @@
+{
+    "created_at": "Sun Apr 12 18:47:05 +0000 2020",
+    "id": 1249408715062759429,
+    "id_str": "1249408715062759429",
+    "text": "@TimDraper This is exactly what Germany does https://t.co/3GTZw4arVo",
+    "display_text_range": [
+        11,
+        68
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249399708730048512,
+    "in_reply_to_status_id_str": "1249399708730048512",
+    "in_reply_to_user_id": 20884310,
+    "in_reply_to_user_id_str": "20884310",
+    "in_reply_to_screen_name": "TimDraper",
+    "user": {
+        "id": 37461511,
+        "id_str": "37461511",
+        "name": "Mirko Novakovic",
+        "screen_name": "mirko_novakovic",
+        "location": "San Francisco, CA",
+        "url": "http://www.instana.com",
+        "description": "CEO and Co-Founder of Instana.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1453,
+        "friends_count": 626,
+        "listed_count": 62,
+        "favourites_count": 729,
+        "statuses_count": 3070,
+        "created_at": "Sun May 03 17:46:49 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/604941091062849536/ux3OgYIj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/604941091062849536/ux3OgYIj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37461511/1535663845",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/3GTZw4arVo",
+                "expanded_url": "https://www.kfw.de/KfW-Group/Newsroom/Latest-News/KfW-Corona-Hilfe-Unternehmen.html",
+                "display_url": "kfw.de/KfW-Group/News…",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "TimDraper",
+                "name": "Tim Draper",
+                "id": 20884310,
+                "id_str": "20884310",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717225219"
+}

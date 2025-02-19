@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 14:23:55 +0000 2020",
+    "id": 1254053529075036165,
+    "id_str": "1254053529075036165",
+    "text": "@wierdduk @JoostNiemoller Het virus sneller laten rondgaan onder jongere mensen zodat het vanzelf minder besmetteli… https://t.co/5WNT2j9CMf",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254027020910178304,
+    "in_reply_to_status_id_str": "1254027020910178304",
+    "in_reply_to_user_id": 200098418,
+    "in_reply_to_user_id_str": "200098418",
+    "in_reply_to_screen_name": "wierdduk",
+    "user": {
+        "id": 819911907280908293,
+        "id_str": "819911907280908293",
+        "name": "David Benjamin",
+        "screen_name": "TwitTwatTwunt",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 9,
+        "friends_count": 5,
+        "listed_count": 0,
+        "favourites_count": 2,
+        "statuses_count": 975,
+        "created_at": "Fri Jan 13 14:20:06 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075840394129301505/hClzbSg5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075840394129301505/hClzbSg5_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@wierdduk @JoostNiemoller Het virus sneller laten rondgaan onder jongere mensen zodat het vanzelf minder besmettelijk word?( doordat het nieuw is mede zo besmettelijk) Sluit niet uit dat mensen onder de radar met corona maar kort corona hebben. In dat geval volstond paar weken echte lockdown.",
+        "display_text_range": [
+            26,
+            293
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "wierdduk",
+                    "name": "Wierd Duk",
+                    "id": 200098418,
+                    "id_str": "200098418",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "JoostNiemoller",
+                    "name": "Joost Niemoller",
+                    "id": 187879473,
+                    "id_str": "187879473",
+                    "indices": [
+                        10,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/5WNT2j9CMf",
+                "expanded_url": "https://twitter.com/i/web/status/1254053529075036165",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "wierdduk",
+                "name": "Wierd Duk",
+                "id": 200098418,
+                "id_str": "200098418",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "JoostNiemoller",
+                "name": "Joost Niemoller",
+                "id": 187879473,
+                "id_str": "187879473",
+                "indices": [
+                    10,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587824635176"
+}

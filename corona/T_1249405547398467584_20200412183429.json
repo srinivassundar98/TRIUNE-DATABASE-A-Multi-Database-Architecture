@@ -1,0 +1,142 @@
+{
+    "created_at": "Sun Apr 12 18:34:29 +0000 2020",
+    "id": 1249405547398467584,
+    "id_str": "1249405547398467584",
+    "text": "@WolfgangWiehle @AfD_Bayern Laßt euch keine Hopps Märchen vom Impfstoff erzählen. Es gibt keinen Impfstoff gegen Gr… https://t.co/iFpeH9f93y",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249404442295894018,
+    "in_reply_to_status_id_str": "1249404442295894018",
+    "in_reply_to_user_id": 1003656299589132291,
+    "in_reply_to_user_id_str": "1003656299589132291",
+    "in_reply_to_screen_name": "WolfgangWiehle",
+    "user": {
+        "id": 950068793140826112,
+        "id_str": "950068793140826112",
+        "name": "Thomas Lux",
+        "screen_name": "WwLuxx",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 41,
+        "friends_count": 31,
+        "listed_count": 5,
+        "favourites_count": 268,
+        "statuses_count": 5533,
+        "created_at": "Sun Jan 07 18:17:06 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1023259559144685569/EI8ZC0HU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023259559144685569/EI8ZC0HU_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@WolfgangWiehle @AfD_Bayern Laßt euch keine Hopps Märchen vom Impfstoff erzählen. Es gibt keinen Impfstoff gegen Grippeviren und Corona ist Grippevirus. Es gibt keinen Impfstoff gegen grippeviren, weil das garnicht geht.Also wird es auch in der Zukunft keinen geben, also ist dies ebenfalls eine lumpige Lüge",
+        "display_text_range": [
+            28,
+            308
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "WolfgangWiehle",
+                    "name": "Wolfgang Wiehle, MdB",
+                    "id": 1003656299589132291,
+                    "id_str": "1003656299589132291",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "AfD_Bayern",
+                    "name": "AfD Bayern",
+                    "id": 1375039512,
+                    "id_str": "1375039512",
+                    "indices": [
+                        16,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/iFpeH9f93y",
+                "expanded_url": "https://twitter.com/i/web/status/1249405547398467584",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "WolfgangWiehle",
+                "name": "Wolfgang Wiehle, MdB",
+                "id": 1003656299589132291,
+                "id_str": "1003656299589132291",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "AfD_Bayern",
+                "name": "AfD Bayern",
+                "id": 1375039512,
+                "id_str": "1375039512",
+                "indices": [
+                    16,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716469989"
+}

@@ -1,0 +1,142 @@
+{
+    "created_at": "Sun Apr 12 18:35:33 +0000 2020",
+    "id": 1249405813195714560,
+    "id_str": "1249405813195714560",
+    "text": "@operationlibero https://t.co/RFTx2laIXR\n\n\"China hat am Sonntag die bislang höchste Zahl importierter Infektionsfäl… https://t.co/Now6yOAEJh",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1248509516515328000,
+    "in_reply_to_status_id_str": "1248509516515328000",
+    "in_reply_to_user_id": 2674994976,
+    "in_reply_to_user_id_str": "2674994976",
+    "in_reply_to_screen_name": "operationlibero",
+    "user": {
+        "id": 1174942013793263616,
+        "id_str": "1174942013793263616",
+        "name": "Rodochri90",
+        "screen_name": "rodochri90",
+        "location": null,
+        "url": null,
+        "description": "Peterson, Shapiro, Milo, Rubin: Number ones",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 20,
+        "listed_count": 0,
+        "favourites_count": 239,
+        "statuses_count": 520,
+        "created_at": "Fri Sep 20 07:03:08 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174957356607623170/MkVfy7DK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174957356607623170/MkVfy7DK_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@operationlibero https://t.co/RFTx2laIXR\n\n\"China hat am Sonntag die bislang höchste Zahl importierter Infektionsfälle mit dem Coronavirus an einem Tag gemeldet. Von insgesamt 99 neu registrierten Infektionen seien 97 aus dem Ausland importiert gewesen, teilte die Gesundheitskommission mit.\"",
+        "display_text_range": [
+            17,
+            291
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/RFTx2laIXR",
+                    "expanded_url": "https://www.bielertagblatt.ch/nachrichten/ausland/china-meldet-neuen-hoechststand-importierter-corona-faelle",
+                    "display_url": "bielertagblatt.ch/nachrichten/au…",
+                    "indices": [
+                        17,
+                        40
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "operationlibero",
+                    "name": "Operation Libero",
+                    "id": 2674994976,
+                    "id_str": "2674994976",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/RFTx2laIXR",
+                "expanded_url": "https://www.bielertagblatt.ch/nachrichten/ausland/china-meldet-neuen-hoechststand-importierter-corona-faelle",
+                "display_url": "bielertagblatt.ch/nachrichten/au…",
+                "indices": [
+                    17,
+                    40
+                ]
+            },
+            {
+                "url": "https://t.co/Now6yOAEJh",
+                "expanded_url": "https://twitter.com/i/web/status/1249405813195714560",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "operationlibero",
+                "name": "Operation Libero",
+                "id": 2674994976,
+                "id_str": "2674994976",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716533360"
+}

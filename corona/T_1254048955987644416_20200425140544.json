@@ -1,0 +1,179 @@
+{
+    "created_at": "Sat Apr 25 14:05:44 +0000 2020",
+    "id": 1254048955987644416,
+    "id_str": "1254048955987644416",
+    "text": "कई स्थानों पर पशु पक्षी भूखे हैं! हम छतों पर दाना ,गाय व कुत्तों के लिए रोटी जरूर निकालें , इसका अकाउंट ऊपर प्रभु… https://t.co/BPqJxLLkW6",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 511802017,
+        "id_str": "511802017",
+        "name": "Dr.Jinendra Shastri",
+        "screen_name": "jinendrashastri",
+        "location": "Udaipur, India",
+        "url": "http://www.drjinendrashastri.com",
+        "description": "District Secretary BJP, Udaipur, Rajasthan | Namo App, Divisional Convenor, Udaipur, Rajasthan | Motivational Speaker | Researcher,Youth Icon",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 156,
+        "friends_count": 52,
+        "listed_count": 0,
+        "favourites_count": 368,
+        "statuses_count": 299,
+        "created_at": "Fri Mar 02 11:46:07 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "0084B4",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1049886936276639744/XcO9KPVF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049886936276639744/XcO9KPVF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/511802017/1538751765",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "6440cc236ab92f2b",
+        "url": "https://api.twitter.com/1.1/geo/id/6440cc236ab92f2b.json",
+        "place_type": "city",
+        "name": "Udaipur",
+        "full_name": "Udaipur, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        73.520205,
+                        24.175067
+                    ],
+                    [
+                        73.520205,
+                        24.743788
+                    ],
+                    [
+                        74.132294,
+                        24.743788
+                    ],
+                    [
+                        74.132294,
+                        24.175067
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "कई स्थानों पर पशु पक्षी भूखे हैं! हम छतों पर दाना ,गाय व कुत्तों के लिए रोटी जरूर निकालें , इसका अकाउंट ऊपर प्रभु के खाते में जुड़ने वाला हैl\n#jeevdaya\n#जीवदया\n#IndiaWithPmModi\n#Covid_19 \n#Corona \n#Rajasthan \n#Udaipur",
+        "display_text_range": [
+            0,
+            217
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "jeevdaya",
+                    "indices": [
+                        142,
+                        151
+                    ]
+                },
+                {
+                    "text": "जीवदया",
+                    "indices": [
+                        152,
+                        159
+                    ]
+                },
+                {
+                    "text": "IndiaWithPmModi",
+                    "indices": [
+                        160,
+                        176
+                    ]
+                },
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        177,
+                        186
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        188,
+                        195
+                    ]
+                },
+                {
+                    "text": "Rajasthan",
+                    "indices": [
+                        197,
+                        207
+                    ]
+                },
+                {
+                    "text": "Udaipur",
+                    "indices": [
+                        209,
+                        217
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/BPqJxLLkW6",
+                "expanded_url": "https://twitter.com/i/web/status/1254048955987644416",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587823544867"
+}

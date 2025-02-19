@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 14:18:00 +0000 2020",
+    "id": 1254052040432447491,
+    "id_str": "1254052040432447491",
+    "text": "@sangitavasuraj @NairShilpa1308 @vivekmathew How do people manage to ignore her other tweet that specifically menti… https://t.co/woCvp6FFOE",
+    "display_text_range": [
+        45,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254031875825233920,
+    "in_reply_to_status_id_str": "1254031875825233920",
+    "in_reply_to_user_id": 49964376,
+    "in_reply_to_user_id_str": "49964376",
+    "in_reply_to_screen_name": "sangitavasuraj",
+    "user": {
+        "id": 1191245476277829632,
+        "id_str": "1191245476277829632",
+        "name": "Whatever00",
+        "screen_name": "Whateve02421443",
+        "location": null,
+        "url": null,
+        "description": "Whatever",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 69,
+        "listed_count": 0,
+        "favourites_count": 339,
+        "statuses_count": 346,
+        "created_at": "Mon Nov 04 06:47:32 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@sangitavasuraj @NairShilpa1308 @vivekmathew How do people manage to ignore her other tweet that specifically mentions the recovery data, or for that manner the state govt corona portal or the umpteen trackers that mention that info, before dishing out gratuitous advice?",
+        "display_text_range": [
+            45,
+            271
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sangitavasuraj",
+                    "name": "Sangita(Jain)V",
+                    "id": 49964376,
+                    "id_str": "49964376",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "NairShilpa1308",
+                    "name": "Shilpa Nair",
+                    "id": 2918539369,
+                    "id_str": "2918539369",
+                    "indices": [
+                        16,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "vivekmathew",
+                    "name": "Vivek Mathew",
+                    "id": 33530033,
+                    "id_str": "33530033",
+                    "indices": [
+                        32,
+                        44
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/woCvp6FFOE",
+                "expanded_url": "https://twitter.com/i/web/status/1254052040432447491",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sangitavasuraj",
+                "name": "Sangita(Jain)V",
+                "id": 49964376,
+                "id_str": "49964376",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "NairShilpa1308",
+                "name": "Shilpa Nair",
+                "id": 2918539369,
+                "id_str": "2918539369",
+                "indices": [
+                    16,
+                    31
+                ]
+            },
+            {
+                "screen_name": "vivekmathew",
+                "name": "Vivek Mathew",
+                "id": 33530033,
+                "id_str": "33530033",
+                "indices": [
+                    32,
+                    44
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824280256"
+}

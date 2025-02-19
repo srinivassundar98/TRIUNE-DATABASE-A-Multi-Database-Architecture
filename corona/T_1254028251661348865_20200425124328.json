@@ -1,0 +1,191 @@
+{
+    "created_at": "Sat Apr 25 12:43:28 +0000 2020",
+    "id": 1254028251661348865,
+    "id_str": "1254028251661348865",
+    "text": "@ToddChavezStan @burrit_hoe Corona: https://t.co/uKBtPY0KAy",
+    "display_text_range": [
+        28,
+        35
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254027805366448128,
+    "in_reply_to_status_id_str": "1254027805366448128",
+    "in_reply_to_user_id": 869098959876182017,
+    "in_reply_to_user_id_str": "869098959876182017",
+    "in_reply_to_screen_name": "ToddChavezStan",
+    "user": {
+        "id": 771249764,
+        "id_str": "771249764",
+        "name": "ankit seriously",
+        "screen_name": "ankit_seriously",
+        "location": "Chennai, India",
+        "url": null,
+        "description": "🇴🇲 | 🇮🇳",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 39,
+        "friends_count": 165,
+        "listed_count": 0,
+        "favourites_count": 638,
+        "statuses_count": 223,
+        "created_at": "Tue Aug 21 10:25:25 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213130357131726850/yQGPFrUQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213130357131726850/yQGPFrUQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/771249764/1571494892",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ToddChavezStan",
+                "name": "faizaan could have",
+                "id": 869098959876182017,
+                "id_str": "869098959876182017",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "burrit_hoe",
+                "name": "Rutanjit Mandrekar",
+                "id": 757533919,
+                "id_str": "757533919",
+                "indices": [
+                    16,
+                    27
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254028239669825536,
+                "id_str": "1254028239669825536",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWc0CjPUEAAIhnf.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWc0CjPUEAAIhnf.jpg",
+                "url": "https://t.co/uKBtPY0KAy",
+                "display_url": "pic.twitter.com/uKBtPY0KAy",
+                "expanded_url": "https://twitter.com/ankit_seriously/status/1254028251661348865/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254028239669825536,
+                "id_str": "1254028239669825536",
+                "indices": [
+                    36,
+                    59
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWc0CjPUEAAIhnf.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWc0CjPUEAAIhnf.jpg",
+                "url": "https://t.co/uKBtPY0KAy",
+                "display_url": "pic.twitter.com/uKBtPY0KAy",
+                "expanded_url": "https://twitter.com/ankit_seriously/status/1254028251661348865/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        249,
+                        140
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EWc0CjPUEAAIhnf.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587818608571"
+}

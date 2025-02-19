@@ -1,0 +1,238 @@
+{
+    "created_at": "Sat Apr 25 14:31:49 +0000 2020",
+    "id": 1254055519968309249,
+    "id_str": "1254055519968309249",
+    "text": "Scared of Corona? Try my new cocktail: \n\n- 1 part Lysol\n- 1 part Bleach\n- a dash of gin\n- sprinkle with Ajax and ga… https://t.co/x5mqB2vVFo",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254048561706106880,
+    "in_reply_to_status_id_str": "1254048561706106880",
+    "in_reply_to_user_id": 3165880920,
+    "in_reply_to_user_id_str": "3165880920",
+    "in_reply_to_screen_name": "shiznitus",
+    "user": {
+        "id": 3165880920,
+        "id_str": "3165880920",
+        "name": "The Liquor Guy🇺🇲",
+        "screen_name": "shiznitus",
+        "location": "Nevada, USA",
+        "url": null,
+        "description": "The one and only bong toking alcoholic Trump supporting deplorable cultist who puts his pants on both legs at a time. IFB.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2490,
+        "friends_count": 2684,
+        "listed_count": 4,
+        "favourites_count": 11661,
+        "statuses_count": 14209,
+        "created_at": "Mon Apr 20 20:56:10 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121576894850195456/gKwB-ori_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121576894850195456/gKwB-ori_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3165880920/1577467011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "2ef2e027146be550",
+        "url": "https://api.twitter.com/1.1/geo/id/2ef2e027146be550.json",
+        "place_type": "city",
+        "name": "Spanish Springs",
+        "full_name": "Spanish Springs, NV",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -119.735925,
+                        39.621614
+                    ],
+                    [
+                        -119.735925,
+                        39.6768
+                    ],
+                    [
+                        -119.675337,
+                        39.6768
+                    ],
+                    [
+                        -119.675337,
+                        39.621614
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Scared of Corona? Try my new cocktail: \n\n- 1 part Lysol\n- 1 part Bleach\n- a dash of gin\n- sprinkle with Ajax and garnish with a cyanide pill. \n\nAfter all, a virus can't kill you if you're already dead. https://t.co/Ihq1yS8Zc4",
+        "display_text_range": [
+            0,
+            201
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254055511705530368,
+                    "id_str": "1254055511705530368",
+                    "indices": [
+                        202,
+                        225
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdM1_fUMAAvdt4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdM1_fUMAAvdt4.jpg",
+                    "url": "https://t.co/Ihq1yS8Zc4",
+                    "display_url": "pic.twitter.com/Ihq1yS8Zc4",
+                    "expanded_url": "https://twitter.com/shiznitus/status/1254055519968309249/photo/1",
+                    "type": "animated_gif",
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EWdM1_fUMAAvdt4.mp4"
+                            }
+                        ]
+                    },
+                    "sizes": {
+                        "small": {
+                            "w": 460,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 460,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 460,
+                            "h": 460,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254055511705530368,
+                    "id_str": "1254055511705530368",
+                    "indices": [
+                        202,
+                        225
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdM1_fUMAAvdt4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdM1_fUMAAvdt4.jpg",
+                    "url": "https://t.co/Ihq1yS8Zc4",
+                    "display_url": "pic.twitter.com/Ihq1yS8Zc4",
+                    "expanded_url": "https://twitter.com/shiznitus/status/1254055519968309249/photo/1",
+                    "type": "animated_gif",
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EWdM1_fUMAAvdt4.mp4"
+                            }
+                        ]
+                    },
+                    "sizes": {
+                        "small": {
+                            "w": 460,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 460,
+                            "h": 460,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 460,
+                            "h": 460,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/x5mqB2vVFo",
+                "expanded_url": "https://twitter.com/i/web/status/1254055519968309249",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825109842"
+}

@@ -1,0 +1,182 @@
+{
+    "created_at": "Sun Apr 12 18:44:32 +0000 2020",
+    "id": 1249408074558976000,
+    "id_str": "1249408074558976000",
+    "text": "@Eddy110355 @WNiemegeers @vrtnws @VTMNIEUWS En bedankt Eddy om zo.maar ff corona te wensen....djeezes. we blijven t… https://t.co/yz6aFtCvmg",
+    "display_text_range": [
+        44,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249403238274736130,
+    "in_reply_to_status_id_str": "1249403238274736130",
+    "in_reply_to_user_id": 2870497949,
+    "in_reply_to_user_id_str": "2870497949",
+    "in_reply_to_screen_name": "Eddy110355",
+    "user": {
+        "id": 1133674155625373696,
+        "id_str": "1133674155625373696",
+        "name": "Sooike Cee",
+        "screen_name": "SooikeC",
+        "location": null,
+        "url": null,
+        "description": "Animal lover,.vegetarian, atheist,rsca",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 151,
+        "friends_count": 625,
+        "listed_count": 0,
+        "favourites_count": 8334,
+        "statuses_count": 1942,
+        "created_at": "Wed May 29 09:59:16 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133759852541566977/WHV2fHLb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133759852541566977/WHV2fHLb_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Eddy110355 @WNiemegeers @vrtnws @VTMNIEUWS En bedankt Eddy om zo.maar ff corona te wensen....djeezes. we blijven toch volwassenen onder elkaar. Of niet?",
+        "display_text_range": [
+            44,
+            153
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Eddy110355",
+                    "name": "De Keyser Eddy",
+                    "id": 2870497949,
+                    "id_str": "2870497949",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "WNiemegeers",
+                    "name": "Werner Niemegeers",
+                    "id": 448717586,
+                    "id_str": "448717586",
+                    "indices": [
+                        12,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "vrtnws",
+                    "name": "VRT NWS",
+                    "id": 23498005,
+                    "id_str": "23498005",
+                    "indices": [
+                        25,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "VTMNIEUWS",
+                    "name": "VTM NIEUWS",
+                    "id": 167309264,
+                    "id_str": "167309264",
+                    "indices": [
+                        33,
+                        43
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/yz6aFtCvmg",
+                "expanded_url": "https://twitter.com/i/web/status/1249408074558976000",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Eddy110355",
+                "name": "De Keyser Eddy",
+                "id": 2870497949,
+                "id_str": "2870497949",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "WNiemegeers",
+                "name": "Werner Niemegeers",
+                "id": 448717586,
+                "id_str": "448717586",
+                "indices": [
+                    12,
+                    24
+                ]
+            },
+            {
+                "screen_name": "vrtnws",
+                "name": "VRT NWS",
+                "id": 23498005,
+                "id_str": "23498005",
+                "indices": [
+                    25,
+                    32
+                ]
+            },
+            {
+                "screen_name": "VTMNIEUWS",
+                "name": "VTM NIEUWS",
+                "id": 167309264,
+                "id_str": "167309264",
+                "indices": [
+                    33,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586717072511"
+}

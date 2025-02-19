@@ -1,0 +1,165 @@
+{
+    "created_at": "Sat Apr 25 13:35:09 +0000 2020",
+    "id": 1254041256814161922,
+    "id_str": "1254041256814161922",
+    "text": "Ich glaube ich hab in meinem Fundus den ultimativen Stoff für die MNSmasken entdeckt.\nFace it, #Corona !!! https://t.co/WgsSk8qzEP",
+    "display_text_range": [
+        0,
+        106
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 115047949,
+        "id_str": "115047949",
+        "name": "vielleicht Caro Wiesauer ☮️",
+        "screen_name": "caro234",
+        "location": "Vienna",
+        "url": null,
+        "description": "Autorin, Trainerin.\nohne Maulkorb",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3014,
+        "friends_count": 1249,
+        "listed_count": 47,
+        "favourites_count": 161072,
+        "statuses_count": 46173,
+        "created_at": "Wed Feb 17 12:58:17 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "007512",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1032577249873219584/UHJgUL5X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032577249873219584/UHJgUL5X_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115047949/1569103927",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    95,
+                    102
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254041119089922050,
+                "id_str": "1254041119089922050",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_wO0WkAIcL_v.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_wO0WkAIcL_v.jpg",
+                "url": "https://t.co/WgsSk8qzEP",
+                "display_url": "pic.twitter.com/WgsSk8qzEP",
+                "expanded_url": "https://twitter.com/caro234/status/1254041256814161922/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254041119089922050,
+                "id_str": "1254041119089922050",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_wO0WkAIcL_v.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_wO0WkAIcL_v.jpg",
+                "url": "https://t.co/WgsSk8qzEP",
+                "display_url": "pic.twitter.com/WgsSk8qzEP",
+                "expanded_url": "https://twitter.com/caro234/status/1254041256814161922/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821709241"
+}

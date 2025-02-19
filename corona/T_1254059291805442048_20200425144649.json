@@ -1,0 +1,193 @@
+{
+    "created_at": "Sat Apr 25 14:46:49 +0000 2020",
+    "id": 1254059291805442048,
+    "id_str": "1254059291805442048",
+    "text": "We have 1/4 of all deaths from #Corona - thanks to our 3rd world response by @realDonaldTrump #ashamed @ArpxFeed https://t.co/rb2E0FTm3V",
+    "display_text_range": [
+        0,
+        112
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3130596629,
+        "id_str": "3130596629",
+        "name": "Arkansas Boy",
+        "screen_name": "ArkansasWatch",
+        "location": "#Ark #LittleRock",
+        "url": null,
+        "description": "HS Senior. Proud Embarrassment to my Family. Un-Apologetically Gay.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 276,
+        "friends_count": 867,
+        "listed_count": 16,
+        "favourites_count": 1128,
+        "statuses_count": 4410,
+        "created_at": "Tue Mar 31 08:40:52 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253284115304067072/nxsHrJ_i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253284115304067072/nxsHrJ_i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3130596629/1587640966",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    31,
+                    38
+                ]
+            },
+            {
+                "text": "ashamed",
+                "indices": [
+                    94,
+                    102
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    77,
+                    93
+                ]
+            },
+            {
+                "screen_name": "ArpxFeed",
+                "name": "#ARPX Feed",
+                "id": 1583552442,
+                "id_str": "1583552442",
+                "indices": [
+                    103,
+                    112
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254059102478766081,
+                "id_str": "1254059102478766081",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdQHAKXkAEVB0g.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWdQHAKXkAEVB0g.png",
+                "url": "https://t.co/rb2E0FTm3V",
+                "display_url": "pic.twitter.com/rb2E0FTm3V",
+                "expanded_url": "https://twitter.com/ArkansasWatch/status/1254059291805442048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 683,
+                        "h": 436,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 683,
+                        "h": 436,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 434,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254059102478766081,
+                "id_str": "1254059102478766081",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdQHAKXkAEVB0g.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWdQHAKXkAEVB0g.png",
+                "url": "https://t.co/rb2E0FTm3V",
+                "display_url": "pic.twitter.com/rb2E0FTm3V",
+                "expanded_url": "https://twitter.com/ArkansasWatch/status/1254059291805442048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 683,
+                        "h": 436,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 683,
+                        "h": 436,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 434,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587826009118"
+}

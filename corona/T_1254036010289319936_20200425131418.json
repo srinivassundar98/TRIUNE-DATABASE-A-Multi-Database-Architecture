@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 13:14:18 +0000 2020",
+    "id": 1254036010289319936,
+    "id_str": "1254036010289319936",
+    "text": "@JimHopson3 @mrjamesob Can I ask you this: \n\nShould a PM attend important crisis meetings in the event of a nationa… https://t.co/hWG4ourIoO",
+    "display_text_range": [
+        23,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254035329700507649,
+    "in_reply_to_status_id_str": "1254035329700507649",
+    "in_reply_to_user_id": 1006482857555103744,
+    "in_reply_to_user_id_str": "1006482857555103744",
+    "in_reply_to_screen_name": "JimHopson3",
+    "user": {
+        "id": 1162468243824623618,
+        "id_str": "1162468243824623618",
+        "name": "Bite Bite Badger",
+        "screen_name": "BiteBiteBadger",
+        "location": null,
+        "url": null,
+        "description": "I'm a badger! 🦡 Sometimes I sleep, sometimes I talk politics. It's fun! 🦡",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 15,
+        "friends_count": 35,
+        "listed_count": 0,
+        "favourites_count": 19,
+        "statuses_count": 641,
+        "created_at": "Fri Aug 16 20:59:00 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1162471803513651206/nrPKQdYO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162471803513651206/nrPKQdYO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1162468243824623618/1565989618",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@JimHopson3 @mrjamesob Can I ask you this: \n\nShould a PM attend important crisis meetings in the event of a national crisis - like flooding or like Corona virus? \n\nComparing overseeing crisis planning to owning a dog is a bit ridiculous in scale, surely?",
+        "display_text_range": [
+            23,
+            254
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JimHopson3",
+                    "name": "Jim Hopson",
+                    "id": 1006482857555103744,
+                    "id_str": "1006482857555103744",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "mrjamesob",
+                    "name": "James O'Brien",
+                    "id": 152656121,
+                    "id_str": "152656121",
+                    "indices": [
+                        12,
+                        22
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/hWG4ourIoO",
+                "expanded_url": "https://twitter.com/i/web/status/1254036010289319936",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "JimHopson3",
+                "name": "Jim Hopson",
+                "id": 1006482857555103744,
+                "id_str": "1006482857555103744",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "mrjamesob",
+                "name": "James O'Brien",
+                "id": 152656121,
+                "id_str": "152656121",
+                "indices": [
+                    12,
+                    22
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820458372"
+}

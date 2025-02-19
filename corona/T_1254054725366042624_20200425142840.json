@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:28:40 +0000 2020",
+    "id": 1254054725366042624,
+    "id_str": "1254054725366042624",
+    "text": "@KaneGreen @allisonpearson \"flu\" is a general term we use for corona viruses, colds(rhino viruses) influenza and ga… https://t.co/35bS8r7HFV",
+    "display_text_range": [
+        27,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254051686802509825,
+    "in_reply_to_status_id_str": "1254051686802509825",
+    "in_reply_to_user_id": 36135181,
+    "in_reply_to_user_id_str": "36135181",
+    "in_reply_to_screen_name": "KaneGreen",
+    "user": {
+        "id": 307812346,
+        "id_str": "307812346",
+        "name": "Andy #PauseThePanic",
+        "screen_name": "andyblueskyz",
+        "location": "Surrey UK",
+        "url": null,
+        "description": "Free speech is essential so long it does not urge violence against someone else's free speech.Solve all conflicts by partition.1 humanity via best cultures only",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 424,
+        "friends_count": 1049,
+        "listed_count": 10,
+        "favourites_count": 34595,
+        "statuses_count": 39755,
+        "created_at": "Mon May 30 10:11:31 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "0E0D02",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "39BD91",
+        "profile_sidebar_border_color": "BEDFB6",
+        "profile_sidebar_fill_color": "0E0D02",
+        "profile_text_color": "895429",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072201251939590146/MkdvnaE5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072201251939590146/MkdvnaE5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/307812346/1468053185",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@KaneGreen @allisonpearson \"flu\" is a general term we use for corona viruses, colds(rhino viruses) influenza and gastroenteritis (man flu). They all transmit via ingestion in almost every case.\n\nYearly vaccines are new vaccines for new strains of flu. Covid is a new strain of Corona.\n\nHope that helps.",
+        "display_text_range": [
+            27,
+            302
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KaneGreen",
+                    "name": "Kane Green",
+                    "id": 36135181,
+                    "id_str": "36135181",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "allisonpearson",
+                    "name": "Allison Pearson",
+                    "id": 137413599,
+                    "id_str": "137413599",
+                    "indices": [
+                        11,
+                        26
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/35bS8r7HFV",
+                "expanded_url": "https://twitter.com/i/web/status/1254054725366042624",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "KaneGreen",
+                "name": "Kane Green",
+                "id": 36135181,
+                "id_str": "36135181",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "allisonpearson",
+                "name": "Allison Pearson",
+                "id": 137413599,
+                "id_str": "137413599",
+                "indices": [
+                    11,
+                    26
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824920394"
+}

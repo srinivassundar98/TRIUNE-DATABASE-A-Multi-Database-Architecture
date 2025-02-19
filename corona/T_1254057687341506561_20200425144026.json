@@ -1,0 +1,107 @@
+{
+    "created_at": "Sat Apr 25 14:40:26 +0000 2020",
+    "id": 1254057687341506561,
+    "id_str": "1254057687341506561",
+    "text": "Yanlışlıkla sızdı. #korona #Covid_19 #Corona https://t.co/GHTgR5LcuC",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1252602101005418496,
+        "id_str": "1252602101005418496",
+        "name": "Burcu",
+        "screen_name": "Brczn098",
+        "location": null,
+        "url": null,
+        "description": "Olumlu",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 15,
+        "friends_count": 100,
+        "listed_count": 0,
+        "favourites_count": 52,
+        "statuses_count": 485,
+        "created_at": "Tue Apr 21 14:16:39 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252605572916162560/NgtCg-z5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252605572916162560/NgtCg-z5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252602101005418496/1587479635",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "korona",
+                "indices": [
+                    19,
+                    26
+                ]
+            },
+            {
+                "text": "Covid_19",
+                "indices": [
+                    27,
+                    36
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    37,
+                    44
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/GHTgR5LcuC",
+                "expanded_url": "http://www.haber7.com/foto-galeri/62494-yanlislikla-sizdi-urkutucu-goruntuler-geldi-koronavirus-ilaci/p4",
+                "display_url": "haber7.com/foto-galeri/62…",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587825626584"
+}

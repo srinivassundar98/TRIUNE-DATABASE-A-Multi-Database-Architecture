@@ -1,0 +1,150 @@
+{
+    "created_at": "Sat Apr 25 14:27:41 +0000 2020",
+    "id": 1254054479680454658,
+    "id_str": "1254054479680454658",
+    "text": "@Bindaas__akash @INCIndia Are bhai aise country se compare karo abhi corona se jang jeetne ke kareeb h, aur un sab… https://t.co/b2IfXnEShI",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253984575539286016,
+    "in_reply_to_status_id_str": "1253984575539286016",
+    "in_reply_to_user_id": 1203969992607162368,
+    "in_reply_to_user_id_str": "1203969992607162368",
+    "in_reply_to_screen_name": "Bindaas__akash",
+    "user": {
+        "id": 1251118374505132040,
+        "id_str": "1251118374505132040",
+        "name": "Saurav",
+        "screen_name": "Saurav81275493",
+        "location": null,
+        "url": null,
+        "description": "Come to get some💓",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 118,
+        "listed_count": 0,
+        "favourites_count": 255,
+        "statuses_count": 310,
+        "created_at": "Fri Apr 17 12:01:20 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253679556575322112/L5if48G5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253679556575322112/L5if48G5_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Bindaas__akash @INCIndia Are bhai aise country se compare karo abhi corona se jang jeetne ke kareeb h, aur un sab desho ne suru se lockdown ke saath testing par bhi jor diya jiska natija aaj  vaha ke jyada jagho par  markets aur mall khol diye gaye h.\n#lockdownWithTesting",
+        "display_text_range": [
+            26,
+            273
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "lockdownWithTesting",
+                    "indices": [
+                        253,
+                        273
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Bindaas__akash",
+                    "name": "Akash",
+                    "id": 1203969992607162368,
+                    "id_str": "1203969992607162368",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "INCIndia",
+                    "name": "Congress",
+                    "id": 1153045459,
+                    "id_str": "1153045459",
+                    "indices": [
+                        16,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/b2IfXnEShI",
+                "expanded_url": "https://twitter.com/i/web/status/1254054479680454658",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Bindaas__akash",
+                "name": "Akash",
+                "id": 1203969992607162368,
+                "id_str": "1203969992607162368",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "INCIndia",
+                "name": "Congress",
+                "id": 1153045459,
+                "id_str": "1153045459",
+                "indices": [
+                    16,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587824861818"
+}

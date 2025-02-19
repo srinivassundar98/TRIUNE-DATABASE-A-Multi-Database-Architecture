@@ -1,0 +1,181 @@
+{
+    "created_at": "Sat Apr 25 13:01:58 +0000 2020",
+    "id": 1254032908798615552,
+    "id_str": "1254032908798615552",
+    "text": "@nickrmanes I don't know why, but suddenly that phrase made me think of this. Is there a Corona Nazi around? https://t.co/OXx5pWeW1V",
+    "display_text_range": [
+        12,
+        108
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253798413822550023,
+    "in_reply_to_status_id_str": "1253798413822550023",
+    "in_reply_to_user_id": 50667855,
+    "in_reply_to_user_id_str": "50667855",
+    "in_reply_to_screen_name": "nickrmanes",
+    "user": {
+        "id": 463459190,
+        "id_str": "463459190",
+        "name": "R. E. Robbins",
+        "screen_name": "I_say_nee",
+        "location": "Nowhere near normal. ",
+        "url": "http://natimes15equalsbatman.com",
+        "description": "Stevia infused sweet tea drinking, low carb eating curmudgeon. Double lung recipient at the University of Michigan (hail!) , grateful to my donor. enjoying life",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 21,
+        "friends_count": 226,
+        "listed_count": 0,
+        "favourites_count": 596,
+        "statuses_count": 2439,
+        "created_at": "Sat Jan 14 03:58:14 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221505666575151107/LcnQeIio_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221505666575151107/LcnQeIio_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/463459190/1580064621",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "nickrmanes",
+                "name": "Nick Manes",
+                "id": 50667855,
+                "id_str": "50667855",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254032902632935424,
+                "id_str": "1254032902632935424",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWc4R-IWkAAHDy2.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWc4R-IWkAAHDy2.jpg",
+                "url": "https://t.co/OXx5pWeW1V",
+                "display_url": "pic.twitter.com/OXx5pWeW1V",
+                "expanded_url": "https://twitter.com/I_say_nee/status/1254032908798615552/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 320,
+                        "h": 224,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 320,
+                        "h": 224,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 320,
+                        "h": 224,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254032902632935424,
+                "id_str": "1254032902632935424",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWc4R-IWkAAHDy2.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWc4R-IWkAAHDy2.jpg",
+                "url": "https://t.co/OXx5pWeW1V",
+                "display_url": "pic.twitter.com/OXx5pWeW1V",
+                "expanded_url": "https://twitter.com/I_say_nee/status/1254032908798615552/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        10,
+                        7
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EWc4R-IWkAAHDy2.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 320,
+                        "h": 224,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 320,
+                        "h": 224,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 320,
+                        "h": 224,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819718919"
+}

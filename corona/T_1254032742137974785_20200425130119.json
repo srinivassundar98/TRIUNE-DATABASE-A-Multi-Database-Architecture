@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 13:01:19 +0000 2020",
+    "id": 1254032742137974785,
+    "id_str": "1254032742137974785",
+    "text": "Over de corona app: \"Het lijkt wel of de beslissing al lang genomen is. Ik zie heel veel kippen, maar allemaal zond… https://t.co/Vq9p4yWenI",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1227889835475640322,
+        "id_str": "1227889835475640322",
+        "name": "iHub",
+        "screen_name": "iHub_RU",
+        "location": "Nijmegen, The Netherlands",
+        "url": "https://www.ru.nl/ihub/",
+        "description": "Interdisciplinary research hub on Security, Privacy, & Data Governance @Radboud_Uni. (Managed by: @kate_deme, @lotjesiffels, @parrhesiastic, & @fleurjongepier)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 141,
+        "friends_count": 105,
+        "listed_count": 1,
+        "favourites_count": 17,
+        "statuses_count": 46,
+        "created_at": "Thu Feb 13 09:38:53 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227890918092673024/bDTX1ZZb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227890918092673024/bDTX1ZZb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227889835475640322/1581603560",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Over de corona app: \"Het lijkt wel of de beslissing al lang genomen is. Ik zie heel veel kippen, maar allemaal zonder kop.’\" aldus Jaap-Henk Hoepman aka \n@xotoxot in de Volkskrant onlangs https://t.co/Au3JddhKYS",
+        "display_text_range": [
+            0,
+            211
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Au3JddhKYS",
+                    "expanded_url": "https://www.volkskrant.nl/nieuws-achtergrond/kritiek-uit-alle-geledingen-over-haasttraject-corona-app~b344ebd9/",
+                    "display_url": "volkskrant.nl/nieuws-achterg…",
+                    "indices": [
+                        188,
+                        211
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "xotoxot",
+                    "name": "Jaap-Henk Hoepman",
+                    "id": 138690155,
+                    "id_str": "138690155",
+                    "indices": [
+                        154,
+                        162
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Vq9p4yWenI",
+                "expanded_url": "https://twitter.com/i/web/status/1254032742137974785",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587819679184"
+}

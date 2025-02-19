@@ -1,0 +1,178 @@
+{
+    "created_at": "Sat Apr 25 13:15:59 +0000 2020",
+    "id": 1254036435973410816,
+    "id_str": "1254036435973410816",
+    "text": "@Lord_Sugar @piersmorgan Piers retweeted anti Trump tweets while Trump was having corona treatment.. https://t.co/L11wpY2Zl9",
+    "display_text_range": [
+        25,
+        100
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254033887421968384,
+    "in_reply_to_status_id_str": "1254033887421968384",
+    "in_reply_to_user_id": 160926944,
+    "in_reply_to_user_id_str": "160926944",
+    "in_reply_to_screen_name": "Lord_Sugar",
+    "user": {
+        "id": 1241340071661449217,
+        "id_str": "1241340071661449217",
+        "name": "Guardiolista",
+        "screen_name": "FtblJD",
+        "location": null,
+        "url": null,
+        "description": "#ManCity Supporter | Pep Fan | Football Lover | Corona Hater",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 212,
+        "friends_count": 289,
+        "listed_count": 1,
+        "favourites_count": 599,
+        "statuses_count": 837,
+        "created_at": "Sat Mar 21 12:25:24 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247261840985464837/ZjlQBErv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247261840985464837/ZjlQBErv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241340071661449217/1584841410",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Lord_Sugar",
+                "name": "Lord Sugar",
+                "id": 160926944,
+                "id_str": "160926944",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "piersmorgan",
+                "name": "Piers Morgan",
+                "id": 216299334,
+                "id_str": "216299334",
+                "indices": [
+                    12,
+                    24
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254036428222279680,
+                "id_str": "1254036428222279680",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc7fL-WsAAM0WE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc7fL-WsAAM0WE.jpg",
+                "url": "https://t.co/L11wpY2Zl9",
+                "display_url": "pic.twitter.com/L11wpY2Zl9",
+                "expanded_url": "https://twitter.com/FtblJD/status/1254036435973410816/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 515,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 913,
+                        "h": 692,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 913,
+                        "h": 692,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254036428222279680,
+                "id_str": "1254036428222279680",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc7fL-WsAAM0WE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc7fL-WsAAM0WE.jpg",
+                "url": "https://t.co/L11wpY2Zl9",
+                "display_url": "pic.twitter.com/L11wpY2Zl9",
+                "expanded_url": "https://twitter.com/FtblJD/status/1254036435973410816/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 515,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 913,
+                        "h": 692,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 913,
+                        "h": 692,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820559863"
+}

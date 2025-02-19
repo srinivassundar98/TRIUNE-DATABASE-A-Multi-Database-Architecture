@@ -1,0 +1,168 @@
+{
+    "created_at": "Sat Apr 25 13:59:30 +0000 2020",
+    "id": 1254047383958228993,
+    "id_str": "1254047383958228993",
+    "text": "@ronan_brd Le Corona https://t.co/un75NdPuJ3",
+    "display_text_range": [
+        11,
+        20
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254045548514029569,
+    "in_reply_to_status_id_str": "1254045548514029569",
+    "in_reply_to_user_id": 2729438643,
+    "in_reply_to_user_id_str": "2729438643",
+    "in_reply_to_screen_name": "ronan_brd",
+    "user": {
+        "id": 3078194208,
+        "id_str": "3078194208",
+        "name": "Alex",
+        "screen_name": "1D_syndrome_",
+        "location": null,
+        "url": null,
+        "description": "Mesure your beauty in kindness",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2142,
+        "friends_count": 2892,
+        "listed_count": 28,
+        "favourites_count": 184067,
+        "statuses_count": 163253,
+        "created_at": "Fri Mar 13 21:32:52 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1165715586472644614/CrY2JyEz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165715586472644614/CrY2JyEz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3078194208/1586893710",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ronan_brd",
+                "name": "rojo",
+                "id": 2729438643,
+                "id_str": "2729438643",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254047380615372800,
+                "id_str": "1254047380615372800",
+                "indices": [
+                    21,
+                    44
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdFcs0WoAA91yB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdFcs0WoAA91yB.jpg",
+                "url": "https://t.co/un75NdPuJ3",
+                "display_url": "pic.twitter.com/un75NdPuJ3",
+                "expanded_url": "https://twitter.com/1D_syndrome_/status/1254047383958228993/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254047380615372800,
+                "id_str": "1254047380615372800",
+                "indices": [
+                    21,
+                    44
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdFcs0WoAA91yB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdFcs0WoAA91yB.jpg",
+                "url": "https://t.co/un75NdPuJ3",
+                "display_url": "pic.twitter.com/un75NdPuJ3",
+                "expanded_url": "https://twitter.com/1D_syndrome_/status/1254047383958228993/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1587823170066"
+}

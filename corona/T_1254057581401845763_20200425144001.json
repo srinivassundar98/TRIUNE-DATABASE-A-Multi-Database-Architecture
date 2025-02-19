@@ -1,0 +1,274 @@
+{
+    "created_at": "Sat Apr 25 14:40:01 +0000 2020",
+    "id": 1254057581401845763,
+    "id_str": "1254057581401845763",
+    "text": "@Ferran97032546 @MaEdRoEs @jordivaquelluma @CasaReal @guardiacivil @policia @interiorgob No. Hay que empezar a leer… https://t.co/bWsCbwNQPZ",
+    "display_text_range": [
+        89,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254055754467872771,
+    "in_reply_to_status_id_str": "1254055754467872771",
+    "in_reply_to_user_id": 1145452192742219776,
+    "in_reply_to_user_id_str": "1145452192742219776",
+    "in_reply_to_screen_name": "Ferran97032546",
+    "user": {
+        "id": 881083317856198656,
+        "id_str": "881083317856198656",
+        "name": "y encima, Muerde",
+        "screen_name": "MIGUELA07191342",
+        "location": "Collado Villalba, España",
+        "url": null,
+        "description": "Harto de los progres que no aman su país. Enfadado con los que no pronuncian Patria. Si no respetas, no pidas respeto. Tres cosas. Y Lealtad ...V.E.R.D.E. 🇪🇦",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 34,
+        "friends_count": 78,
+        "listed_count": 0,
+        "favourites_count": 11847,
+        "statuses_count": 1052,
+        "created_at": "Sat Jul 01 09:33:27 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1030845334795300865/902YX7ka_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030845334795300865/902YX7ka_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "088b2b6320f918a9",
+        "url": "https://api.twitter.com/1.1/geo/id/088b2b6320f918a9.json",
+        "place_type": "city",
+        "name": "Collado Villalba",
+        "full_name": "Collado Villalba, España",
+        "country_code": "ES",
+        "country": "España",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -4.030551,
+                        40.616412
+                    ],
+                    [
+                        -4.030551,
+                        40.681259
+                    ],
+                    [
+                        -3.947006,
+                        40.681259
+                    ],
+                    [
+                        -3.947006,
+                        40.616412
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Ferran97032546 @MaEdRoEs @jordivaquelluma @CasaReal @guardiacivil @policia @interiorgob No. Hay que empezar a leer como vosotros reescribís la Historia ahora, hablando y contándole a los niños la Historia de la Corona Catalano - Aragonesa. Invención última del nacionalismo paleto que promulgais.",
+        "display_text_range": [
+            89,
+            297
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ferran97032546",
+                    "name": "Ferran",
+                    "id": 1145452192742219776,
+                    "id_str": "1145452192742219776",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "MaEdRoEs",
+                    "name": "🇪🇸Manuel💚",
+                    "id": 4371956248,
+                    "id_str": "4371956248",
+                    "indices": [
+                        16,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "jordivaquelluma",
+                    "name": "jordi vaque ||☆||",
+                    "id": 510451619,
+                    "id_str": "510451619",
+                    "indices": [
+                        26,
+                        42
+                    ]
+                },
+                {
+                    "screen_name": "CasaReal",
+                    "name": "Casa de S.M. el Rey",
+                    "id": 2497155462,
+                    "id_str": "2497155462",
+                    "indices": [
+                        43,
+                        52
+                    ]
+                },
+                {
+                    "screen_name": "guardiacivil",
+                    "name": "Guardia Civil 🇪🇸",
+                    "id": 295608887,
+                    "id_str": "295608887",
+                    "indices": [
+                        53,
+                        66
+                    ]
+                },
+                {
+                    "screen_name": "policia",
+                    "name": "Policía Nacional",
+                    "id": 23791197,
+                    "id_str": "23791197",
+                    "indices": [
+                        67,
+                        75
+                    ]
+                },
+                {
+                    "screen_name": "interiorgob",
+                    "name": "Ministerio del Interior",
+                    "id": 231000704,
+                    "id_str": "231000704",
+                    "indices": [
+                        76,
+                        88
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/bWsCbwNQPZ",
+                "expanded_url": "https://twitter.com/i/web/status/1254057581401845763",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Ferran97032546",
+                "name": "Ferran",
+                "id": 1145452192742219776,
+                "id_str": "1145452192742219776",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "MaEdRoEs",
+                "name": "🇪🇸Manuel💚",
+                "id": 4371956248,
+                "id_str": "4371956248",
+                "indices": [
+                    16,
+                    25
+                ]
+            },
+            {
+                "screen_name": "jordivaquelluma",
+                "name": "jordi vaque ||☆||",
+                "id": 510451619,
+                "id_str": "510451619",
+                "indices": [
+                    26,
+                    42
+                ]
+            },
+            {
+                "screen_name": "CasaReal",
+                "name": "Casa de S.M. el Rey",
+                "id": 2497155462,
+                "id_str": "2497155462",
+                "indices": [
+                    43,
+                    52
+                ]
+            },
+            {
+                "screen_name": "guardiacivil",
+                "name": "Guardia Civil 🇪🇸",
+                "id": 295608887,
+                "id_str": "295608887",
+                "indices": [
+                    53,
+                    66
+                ]
+            },
+            {
+                "screen_name": "policia",
+                "name": "Policía Nacional",
+                "id": 23791197,
+                "id_str": "23791197",
+                "indices": [
+                    67,
+                    75
+                ]
+            },
+            {
+                "screen_name": "interiorgob",
+                "name": "Ministerio del Interior",
+                "id": 231000704,
+                "id_str": "231000704",
+                "indices": [
+                    76,
+                    88
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587825601326"
+}

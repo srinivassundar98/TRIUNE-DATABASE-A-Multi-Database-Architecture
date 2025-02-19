@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 12:27:04 +0000 2020",
+    "id": 1254024123245723654,
+    "id_str": "1254024123245723654",
+    "text": "@nypost Fake news. How can corona is cured by eating cat? I'm Vietnamese and I'm sure that our people are not fools… https://t.co/Dcb8xT8arJ",
+    "display_text_range": [
+        8,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253671821318258689,
+    "in_reply_to_status_id_str": "1253671821318258689",
+    "in_reply_to_user_id": 17469289,
+    "in_reply_to_user_id_str": "17469289",
+    "in_reply_to_screen_name": "nypost",
+    "user": {
+        "id": 1219678991352647690,
+        "id_str": "1219678991352647690",
+        "name": "Koi",
+        "screen_name": "littlebambo0",
+        "location": null,
+        "url": null,
+        "description": "Hello, you can call me Koi ｡*:☆(・ω・人・ω・)｡:゜☆｡ This is an retweet account",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 17,
+        "listed_count": 0,
+        "favourites_count": 238,
+        "statuses_count": 226,
+        "created_at": "Tue Jan 21 17:51:56 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1219679446216495104/Nj2ZE_PL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219679446216495104/Nj2ZE_PL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219678991352647690/1579629925",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@nypost Fake news. How can corona is cured by eating cat? I'm Vietnamese and I'm sure that our people are not fools like that. We are over pandemic now 😃",
+        "display_text_range": [
+            8,
+            153
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nypost",
+                    "name": "New York Post",
+                    "id": 17469289,
+                    "id_str": "17469289",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Dcb8xT8arJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254024123245723654",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "nypost",
+                "name": "New York Post",
+                "id": 17469289,
+                "id_str": "17469289",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817624280"
+}

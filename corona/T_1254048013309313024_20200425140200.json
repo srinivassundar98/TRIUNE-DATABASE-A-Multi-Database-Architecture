@@ -1,0 +1,155 @@
+{
+    "created_at": "Sat Apr 25 14:02:00 +0000 2020",
+    "id": 1254048013309313024,
+    "id_str": "1254048013309313024",
+    "text": "@CiskoBecaye Depuis là je demande un rapport scientifique sur lequel se baser pour être favorable ou non. Mais les… https://t.co/p1TMsxGg9G",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254000596572680193,
+    "in_reply_to_status_id_str": "1254000596572680193",
+    "in_reply_to_user_id": 621354982,
+    "in_reply_to_user_id_str": "621354982",
+    "in_reply_to_screen_name": "CiskoBecaye",
+    "user": {
+        "id": 3289372318,
+        "id_str": "3289372318",
+        "name": "Diomaye A. Ngom",
+        "screen_name": "Diomaye_Sama",
+        "location": null,
+        "url": "https://www.brainboxlab.net",
+        "description": "Créativité!! / Fondateur @thebrainboxlab /\n\nScénariste de #SakhoEtMangane / #Golden / #Walabok /\n\nActor in: #StaffOnly / #ZeroZeroZero\n\nIG : diomaye_sama",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 917,
+        "friends_count": 479,
+        "listed_count": 2,
+        "favourites_count": 2172,
+        "statuses_count": 2600,
+        "created_at": "Mon May 18 23:50:24 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177070984773406721/uF2-vM81_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177070984773406721/uF2-vM81_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3289372318/1456280012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "c5d6f8cac1a9be34",
+        "url": "https://api.twitter.com/1.1/geo/id/c5d6f8cac1a9be34.json",
+        "place_type": "country",
+        "name": "Senegal",
+        "full_name": "Senegal",
+        "country_code": "SN",
+        "country": "Senegal",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -17.530249,
+                        12.306719
+                    ],
+                    [
+                        -17.530249,
+                        16.692636
+                    ],
+                    [
+                        -11.346212,
+                        16.692636
+                    ],
+                    [
+                        -11.346212,
+                        12.306719
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CiskoBecaye Depuis là je demande un rapport scientifique sur lequel se baser pour être favorable ou non. Mais les africains sont encore dans l'émotion avec leur bêtise se soutenons le frère noir lol. On mérite le corona",
+        "display_text_range": [
+            13,
+            220
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CiskoBecaye",
+                    "name": "🇸🇳Cisko Bécaye🇧🇫",
+                    "id": 621354982,
+                    "id_str": "621354982",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/p1TMsxGg9G",
+                "expanded_url": "https://twitter.com/i/web/status/1254048013309313024",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CiskoBecaye",
+                "name": "🇸🇳Cisko Bécaye🇧🇫",
+                "id": 621354982,
+                "id_str": "621354982",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587823320115"
+}

@@ -1,0 +1,645 @@
+{
+    "created_at": "Sat Apr 25 14:33:47 +0000 2020",
+    "id": 1254056012497268736,
+    "id_str": "1254056012497268736",
+    "text": "RT @Anand_arya246: @AnandAr71074732 @rakesh_bstpyp @Sanjivani_MPYS @swabhimani1 @sandeep_yb @Krishna91772784 @HaribanshShukl4 @Ompraka34008…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1192128196314947584,
+        "id_str": "1192128196314947584",
+        "name": "@prasant63801559",
+        "screen_name": "prasant63801551",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 24,
+        "friends_count": 66,
+        "listed_count": 0,
+        "favourites_count": 772,
+        "statuses_count": 858,
+        "created_at": "Wed Nov 06 17:16:29 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253342626507612161/5bwWwAA3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253342626507612161/5bwWwAA3_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 10:29:59 +0000 2020",
+        "id": 1253994659619024896,
+        "id_str": "1253994659619024896",
+        "text": "@AnandAr71074732 @rakesh_bstpyp @Sanjivani_MPYS @swabhimani1 @sandeep_yb @Krishna91772784 @HaribanshShukl4… https://t.co/8qYrnYV2fy",
+        "display_text_range": [
+            117,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1253993167134748673,
+        "in_reply_to_status_id_str": "1253993167134748673",
+        "in_reply_to_user_id": 914449226846760960,
+        "in_reply_to_user_id_str": "914449226846760960",
+        "in_reply_to_screen_name": "AnandAr71074732",
+        "user": {
+            "id": 786165936067899392,
+            "id_str": "786165936067899392",
+            "name": "सोशलयोगी_Anand Arya",
+            "screen_name": "Anand_arya246",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2216,
+            "friends_count": 4996,
+            "listed_count": 2,
+            "favourites_count": 41643,
+            "statuses_count": 31325,
+            "created_at": "Wed Oct 12 11:25:40 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1121772733237354498/Ii2oYt6U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121772733237354498/Ii2oYt6U_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/786165936067899392/1505481808",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "01408a709f3de755",
+            "url": "https://api.twitter.com/1.1/geo/id/01408a709f3de755.json",
+            "place_type": "city",
+            "name": "Bayana",
+            "full_name": "Bayana, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            77.28081,
+                            26.901878
+                        ],
+                        [
+                            77.28081,
+                            26.928331
+                        ],
+                        [
+                            77.300389,
+                            26.928331
+                        ],
+                        [
+                            77.300389,
+                            26.901878
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@AnandAr71074732 @rakesh_bstpyp @Sanjivani_MPYS @swabhimani1 @sandeep_yb @Krishna91772784 @HaribanshShukl4 @Ompraka34008624 @HemSapra @omeradarsh @ArvindK25055431 @1Krishnamilan @DSharma1513 @karan04125852 @Sadhvi_Devpriya @Deepika23404295 @Santosh00455545 @ManojKumarTud15 @Akash_bst @Narendr36914259 If China wanted to control the corona then they could have easily done that...but instead they let it spread worldwide so as to take advantage of the degrading economies of other corona affected nations. \n#boycott_china_mncs https://t.co/Q2xDmg3sEn",
+            "display_text_range": [
+                302,
+                526
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "boycott_china_mncs",
+                        "indices": [
+                            507,
+                            526
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AnandAr71074732",
+                        "name": "B S T सोशल मिडिया राजस्थान",
+                        "id": 914449226846760960,
+                        "id_str": "914449226846760960",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    },
+                    {
+                        "screen_name": "rakesh_bstpyp",
+                        "name": "राकेश कुमार#योगावॉरियर्स",
+                        "id": 74960233,
+                        "id_str": "74960233",
+                        "indices": [
+                            17,
+                            31
+                        ]
+                    },
+                    {
+                        "screen_name": "Sanjivani_MPYS",
+                        "name": "Sanjivani_MPYS",
+                        "id": 2485426735,
+                        "id_str": "2485426735",
+                        "indices": [
+                            32,
+                            47
+                        ]
+                    },
+                    {
+                        "screen_name": "swabhimani1",
+                        "name": "Dr Jaideep Arya",
+                        "id": 481808951,
+                        "id_str": "481808951",
+                        "indices": [
+                            48,
+                            60
+                        ]
+                    },
+                    {
+                        "screen_name": "sandeep_yb",
+                        "name": "#पतंजलि संदीप #योगावाॅरियर्स 🏃 #मुम्बई",
+                        "id": 1141584450800635905,
+                        "id_str": "1141584450800635905",
+                        "indices": [
+                            61,
+                            72
+                        ]
+                    },
+                    {
+                        "screen_name": "Krishna91772784",
+                        "name": "साध्वी कृष्णा जी 🌺",
+                        "id": 1070660481147297793,
+                        "id_str": "1070660481147297793",
+                        "indices": [
+                            73,
+                            89
+                        ]
+                    },
+                    {
+                        "screen_name": "HaribanshShukl4",
+                        "name": "हरिबंश शुक्ल #योगा_वॉरियर्स",
+                        "id": 786871684552941568,
+                        "id_str": "786871684552941568",
+                        "indices": [
+                            90,
+                            106
+                        ]
+                    },
+                    {
+                        "screen_name": "Ompraka34008624",
+                        "name": "Omprakash Rathod",
+                        "id": 1116554133450792960,
+                        "id_str": "1116554133450792960",
+                        "indices": [
+                            107,
+                            123
+                        ]
+                    },
+                    {
+                        "screen_name": "HemSapra",
+                        "name": "social Yogi Hem Raj Sapra",
+                        "id": 1196654369367658496,
+                        "id_str": "1196654369367658496",
+                        "indices": [
+                            124,
+                            133
+                        ]
+                    },
+                    {
+                        "screen_name": "omeradarsh",
+                        "name": "#योगा_वॉरियर्स आदर्श ओमर",
+                        "id": 1196048440628662272,
+                        "id_str": "1196048440628662272",
+                        "indices": [
+                            134,
+                            145
+                        ]
+                    },
+                    {
+                        "screen_name": "ArvindK25055431",
+                        "name": "Arvind Kumar Pandey",
+                        "id": 1134806998304808960,
+                        "id_str": "1134806998304808960",
+                        "indices": [
+                            146,
+                            162
+                        ]
+                    },
+                    {
+                        "screen_name": "1Krishnamilan",
+                        "name": "Krishna Milan",
+                        "id": 1572156842,
+                        "id_str": "1572156842",
+                        "indices": [
+                            163,
+                            177
+                        ]
+                    },
+                    {
+                        "screen_name": "DSharma1513",
+                        "name": "Dinesh Sharma Bharat Swabhiman Jaipur Gramin",
+                        "id": 1032579324463861760,
+                        "id_str": "1032579324463861760",
+                        "indices": [
+                            178,
+                            190
+                        ]
+                    },
+                    {
+                        "screen_name": "karan04125852",
+                        "name": "करनसिंह bst राज्यप्रभारी mp east",
+                        "id": 743804327723155456,
+                        "id_str": "743804327723155456",
+                        "indices": [
+                            191,
+                            205
+                        ]
+                    },
+                    {
+                        "screen_name": "Sadhvi_Devpriya",
+                        "name": "Sadhvi Devpriya",
+                        "id": 847333375903842304,
+                        "id_str": "847333375903842304",
+                        "indices": [
+                            206,
+                            222
+                        ]
+                    },
+                    {
+                        "screen_name": "Deepika23404295",
+                        "name": "Deepika Soni (social yogi)",
+                        "id": 1124546483406102528,
+                        "id_str": "1124546483406102528",
+                        "indices": [
+                            223,
+                            239
+                        ]
+                    },
+                    {
+                        "screen_name": "Santosh00455545",
+                        "name": "सोशल योगी Santosh @",
+                        "id": 921224753028804608,
+                        "id_str": "921224753028804608",
+                        "indices": [
+                            240,
+                            256
+                        ]
+                    },
+                    {
+                        "screen_name": "ManojKumarTud15",
+                        "name": "सोशल योगी मनोज कुमार",
+                        "id": 885851704373252098,
+                        "id_str": "885851704373252098",
+                        "indices": [
+                            257,
+                            273
+                        ]
+                    },
+                    {
+                        "screen_name": "Akash_bst",
+                        "name": "आकाश",
+                        "id": 1003976963550146560,
+                        "id_str": "1003976963550146560",
+                        "indices": [
+                            274,
+                            284
+                        ]
+                    },
+                    {
+                        "screen_name": "Narendr36914259",
+                        "name": "Narendra Sharma",
+                        "id": 1246031500149063681,
+                        "id_str": "1246031500149063681",
+                        "indices": [
+                            285,
+                            301
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253994649179619330,
+                        "id_str": "1253994649179619330",
+                        "indices": [
+                            527,
+                            550
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcVfU6XgAI39Kd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcVfU6XgAI39Kd.jpg",
+                        "url": "https://t.co/Q2xDmg3sEn",
+                        "display_url": "pic.twitter.com/Q2xDmg3sEn",
+                        "expanded_url": "https://twitter.com/Anand_arya246/status/1253994659619024896/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 480,
+                                "h": 639,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 480,
+                                "h": 639,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 639,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253994649179619330,
+                        "id_str": "1253994649179619330",
+                        "indices": [
+                            527,
+                            550
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcVfU6XgAI39Kd.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcVfU6XgAI39Kd.jpg",
+                        "url": "https://t.co/Q2xDmg3sEn",
+                        "display_url": "pic.twitter.com/Q2xDmg3sEn",
+                        "expanded_url": "https://twitter.com/Anand_arya246/status/1253994659619024896/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 480,
+                                "h": 639,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 480,
+                                "h": 639,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 639,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5,
+        "favorite_count": 6,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/8qYrnYV2fy",
+                    "expanded_url": "https://twitter.com/i/web/status/1253994659619024896",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        108,
+                        131
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "AnandAr71074732",
+                    "name": "B S T सोशल मिडिया राजस्थान",
+                    "id": 914449226846760960,
+                    "id_str": "914449226846760960",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "rakesh_bstpyp",
+                    "name": "राकेश कुमार#योगावॉरियर्स",
+                    "id": 74960233,
+                    "id_str": "74960233",
+                    "indices": [
+                        17,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "Sanjivani_MPYS",
+                    "name": "Sanjivani_MPYS",
+                    "id": 2485426735,
+                    "id_str": "2485426735",
+                    "indices": [
+                        32,
+                        47
+                    ]
+                },
+                {
+                    "screen_name": "swabhimani1",
+                    "name": "Dr Jaideep Arya",
+                    "id": 481808951,
+                    "id_str": "481808951",
+                    "indices": [
+                        48,
+                        60
+                    ]
+                },
+                {
+                    "screen_name": "sandeep_yb",
+                    "name": "#पतंजलि संदीप #योगावाॅरियर्स 🏃 #मुम्बई",
+                    "id": 1141584450800635905,
+                    "id_str": "1141584450800635905",
+                    "indices": [
+                        61,
+                        72
+                    ]
+                },
+                {
+                    "screen_name": "Krishna91772784",
+                    "name": "साध्वी कृष्णा जी 🌺",
+                    "id": 1070660481147297793,
+                    "id_str": "1070660481147297793",
+                    "indices": [
+                        73,
+                        89
+                    ]
+                },
+                {
+                    "screen_name": "HaribanshShukl4",
+                    "name": "हरिबंश शुक्ल #योगा_वॉरियर्स",
+                    "id": 786871684552941568,
+                    "id_str": "786871684552941568",
+                    "indices": [
+                        90,
+                        106
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Anand_arya246",
+                "name": "सोशलयोगी_Anand Arya",
+                "id": 786165936067899392,
+                "id_str": "786165936067899392",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "AnandAr71074732",
+                "name": "B S T सोशल मिडिया राजस्थान",
+                "id": 914449226846760960,
+                "id_str": "914449226846760960",
+                "indices": [
+                    19,
+                    35
+                ]
+            },
+            {
+                "screen_name": "rakesh_bstpyp",
+                "name": "राकेश कुमार#योगावॉरियर्स",
+                "id": 74960233,
+                "id_str": "74960233",
+                "indices": [
+                    36,
+                    50
+                ]
+            },
+            {
+                "screen_name": "Sanjivani_MPYS",
+                "name": "Sanjivani_MPYS",
+                "id": 2485426735,
+                "id_str": "2485426735",
+                "indices": [
+                    51,
+                    66
+                ]
+            },
+            {
+                "screen_name": "swabhimani1",
+                "name": "Dr Jaideep Arya",
+                "id": 481808951,
+                "id_str": "481808951",
+                "indices": [
+                    67,
+                    79
+                ]
+            },
+            {
+                "screen_name": "sandeep_yb",
+                "name": "#पतंजलि संदीप #योगावाॅरियर्स 🏃 #मुम्बई",
+                "id": 1141584450800635905,
+                "id_str": "1141584450800635905",
+                "indices": [
+                    80,
+                    91
+                ]
+            },
+            {
+                "screen_name": "Krishna91772784",
+                "name": "साध्वी कृष्णा जी 🌺",
+                "id": 1070660481147297793,
+                "id_str": "1070660481147297793",
+                "indices": [
+                    92,
+                    108
+                ]
+            },
+            {
+                "screen_name": "HaribanshShukl4",
+                "name": "हरिबंश शुक्ल #योगा_वॉरियर्स",
+                "id": 786871684552941568,
+                "id_str": "786871684552941568",
+                "indices": [
+                    109,
+                    125
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825227270"
+}

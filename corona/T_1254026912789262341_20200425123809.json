@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:38:09 +0000 2020",
+    "id": 1254026912789262341,
+    "id_str": "1254026912789262341",
+    "text": "@lumi_d321 @TundeTASH No Corona virus there na",
+    "display_text_range": [
+        22,
+        46
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254012570081656833,
+    "in_reply_to_status_id_str": "1254012570081656833",
+    "in_reply_to_user_id": 245368455,
+    "in_reply_to_user_id_str": "245368455",
+    "in_reply_to_screen_name": "lumi_d321",
+    "user": {
+        "id": 215006774,
+        "id_str": "215006774",
+        "name": "Oluwafolasikemi",
+        "screen_name": "sike2yi",
+        "location": "Abuja, Nigeria",
+        "url": null,
+        "description": "That will be written...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 646,
+        "friends_count": 605,
+        "listed_count": 0,
+        "favourites_count": 6086,
+        "statuses_count": 10431,
+        "created_at": "Fri Nov 12 19:39:42 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247921164942540802/HpTmA7Mg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247921164942540802/HpTmA7Mg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/215006774/1571205223",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "lumi_d321",
+                "name": "Olumide Luminous",
+                "id": 245368455,
+                "id_str": "245368455",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "TundeTASH",
+                "name": "‘Tunde Omotoye",
+                "id": 194939760,
+                "id_str": "194939760",
+                "indices": [
+                    11,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587818289359"
+}

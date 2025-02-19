@@ -1,0 +1,596 @@
+{
+    "created_at": "Sat Apr 25 14:38:11 +0000 2020",
+    "id": 1254057121844469761,
+    "id_str": "1254057121844469761",
+    "text": "RT @LeandroRamos: ESSE HOMEM VAI SALVAR SUA FAMÍLIA DO CORONA?????\n\nFICA EM CASA, PELO AMOR!",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 163056338,
+        "id_str": "163056338",
+        "name": "Carlos Mendonça Jr.",
+        "screen_name": "cacmjr_",
+        "location": "Itajaí, Brasil",
+        "url": null,
+        "description": "Projeto de psicanalista.\nSó estou aqui para me irritar.",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 16003,
+        "friends_count": 167,
+        "listed_count": 113,
+        "favourites_count": 2926,
+        "statuses_count": 523,
+        "created_at": "Mon Jul 05 12:41:20 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "F70000",
+        "profile_sidebar_fill_color": "00AEFF",
+        "profile_text_color": "FF8400",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233360684584513542/TrVbUI7h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233360684584513542/TrVbUI7h_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/163056338/1569362436",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 11:24:36 +0000 2020",
+        "id": 1254008402914824192,
+        "id_str": "1254008402914824192",
+        "text": "ESSE HOMEM VAI SALVAR SUA FAMÍLIA DO CORONA?????\n\nFICA EM CASA, PELO AMOR!",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 41191715,
+            "id_str": "41191715",
+            "name": "Leandro Ramos",
+            "screen_name": "LeandroRamos",
+            "location": "São Paulo, Brasil",
+            "url": "http://youtube.com/tvquase",
+            "description": "Flamenguista e Portelense.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 228784,
+            "friends_count": 963,
+            "listed_count": 332,
+            "favourites_count": 20131,
+            "statuses_count": 8493,
+            "created_at": "Tue May 19 19:42:58 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1225554140698464256/6Go185zV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225554140698464256/6Go185zV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41191715/1511292713",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "68e019afec7d0ba5",
+            "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json",
+            "place_type": "city",
+            "name": "São Paulo",
+            "full_name": "São Paulo, Brasil",
+            "country_code": "BR",
+            "country": "Brasil",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -46.826039,
+                            -24.008814
+                        ],
+                        [
+                            -46.826039,
+                            -23.356792
+                        ],
+                        [
+                            -46.365052,
+                            -23.356792
+                        ],
+                        [
+                            -46.365052,
+                            -24.008814
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253787324795805696,
+        "quoted_status_id_str": "1253787324795805696",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 20:46:07 +0000 2020",
+            "id": 1253787324795805696,
+            "id_str": "1253787324795805696",
+            "text": "o que é isso? esse homem acabou de entrar para o governo para ajudar a DEBELAR UMA PANDEMIA https://t.co/JFHUcgFdMn",
+            "display_text_range": [
+                0,
+                91
+            ],
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 74763991,
+                "id_str": "74763991",
+                "name": "cynara menezes",
+                "screen_name": "cynaramenezes",
+                "location": null,
+                "url": "http://www.socialistamorena.com.br",
+                "description": "jornalista independente. editora do site socialista morena. padeira e cozinheira ❤",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 222121,
+                "friends_count": 7284,
+                "listed_count": 1142,
+                "favourites_count": 83562,
+                "statuses_count": 234814,
+                "created_at": "Wed Sep 16 15:59:27 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_link_color": "F50C0C",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/429549634/euzed_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/429549634/euzed_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/74763991/1571707436",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 491,
+            "reply_count": 969,
+            "retweet_count": 1489,
+            "favorite_count": 6550,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253787050190475264,
+                        "id_str": "1253787050190475264",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1253787050190475264/img/-wSdRL22j1shSUgt.jpg",
+                        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1253787050190475264/img/-wSdRL22j1shSUgt.jpg",
+                        "url": "https://t.co/JFHUcgFdMn",
+                        "display_url": "pic.twitter.com/JFHUcgFdMn",
+                        "expanded_url": "https://twitter.com/cynaramenezes/status/1253787324795805696/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 848,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 385,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 848,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253787050190475264,
+                        "id_str": "1253787050190475264",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1253787050190475264/img/-wSdRL22j1shSUgt.jpg",
+                        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1253787050190475264/img/-wSdRL22j1shSUgt.jpg",
+                        "url": "https://t.co/JFHUcgFdMn",
+                        "display_url": "pic.twitter.com/JFHUcgFdMn",
+                        "expanded_url": "https://twitter.com/cynaramenezes/status/1253787324795805696/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                30,
+                                53
+                            ],
+                            "duration_millis": 25962,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1253787050190475264/pl/96287kRwyBi5C9qO.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253787050190475264/vid/360x636/qoC8UmFkmZMAPzAJ.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253787050190475264/vid/320x564/RsdMHSGW7Xhqm-PG.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253787050190475264/vid/480x848/0ulMwzTKkecLdTHM.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 848,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 385,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 480,
+                                "h": 848,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "pt"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/H2mLoVEcSV",
+            "expanded": "https://twitter.com/cynaramenezes/status/1253787324795805696",
+            "display": "twitter.com/cynaramenezes/…"
+        },
+        "is_quote_status": true,
+        "quote_count": 2,
+        "reply_count": 33,
+        "retweet_count": 160,
+        "favorite_count": 1331,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "pt"
+    },
+    "quoted_status_id": 1253787324795805696,
+    "quoted_status_id_str": "1253787324795805696",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 20:46:07 +0000 2020",
+        "id": 1253787324795805696,
+        "id_str": "1253787324795805696",
+        "text": "o que é isso? esse homem acabou de entrar para o governo para ajudar a DEBELAR UMA PANDEMIA https://t.co/JFHUcgFdMn",
+        "display_text_range": [
+            0,
+            91
+        ],
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 74763991,
+            "id_str": "74763991",
+            "name": "cynara menezes",
+            "screen_name": "cynaramenezes",
+            "location": null,
+            "url": "http://www.socialistamorena.com.br",
+            "description": "jornalista independente. editora do site socialista morena. padeira e cozinheira ❤",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 222121,
+            "friends_count": 7284,
+            "listed_count": 1142,
+            "favourites_count": 83562,
+            "statuses_count": 234814,
+            "created_at": "Wed Sep 16 15:59:27 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "F50C0C",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/429549634/euzed_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/429549634/euzed_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/74763991/1571707436",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 491,
+        "reply_count": 969,
+        "retweet_count": 1489,
+        "favorite_count": 6550,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1253787050190475264,
+                    "id_str": "1253787050190475264",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    },
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1253787050190475264/img/-wSdRL22j1shSUgt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1253787050190475264/img/-wSdRL22j1shSUgt.jpg",
+                    "url": "https://t.co/JFHUcgFdMn",
+                    "display_url": "pic.twitter.com/JFHUcgFdMn",
+                    "expanded_url": "https://twitter.com/cynaramenezes/status/1253787324795805696/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 385,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1253787050190475264,
+                    "id_str": "1253787050190475264",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    },
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1253787050190475264/img/-wSdRL22j1shSUgt.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1253787050190475264/img/-wSdRL22j1shSUgt.jpg",
+                    "url": "https://t.co/JFHUcgFdMn",
+                    "display_url": "pic.twitter.com/JFHUcgFdMn",
+                    "expanded_url": "https://twitter.com/cynaramenezes/status/1253787324795805696/video/1",
+                    "type": "video",
+                    "video_info": {
+                        "aspect_ratio": [
+                            30,
+                            53
+                        ],
+                        "duration_millis": 25962,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1253787050190475264/pl/96287kRwyBi5C9qO.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1253787050190475264/vid/360x636/qoC8UmFkmZMAPzAJ.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1253787050190475264/vid/320x564/RsdMHSGW7Xhqm-PG.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1253787050190475264/vid/480x848/0ulMwzTKkecLdTHM.mp4?tag=13"
+                            }
+                        ]
+                    },
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 385,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 480,
+                            "h": 848,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "pt"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/H2mLoVEcSV",
+        "expanded": "https://twitter.com/cynaramenezes/status/1253787324795805696",
+        "display": "twitter.com/cynaramenezes/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "LeandroRamos",
+                "name": "Leandro Ramos",
+                "id": 41191715,
+                "id_str": "41191715",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587825491759"
+}

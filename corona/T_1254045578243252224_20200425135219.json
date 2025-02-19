@@ -1,0 +1,179 @@
+{
+    "created_at": "Sat Apr 25 13:52:19 +0000 2020",
+    "id": 1254045578243252224,
+    "id_str": "1254045578243252224",
+    "text": "Moin @AnjaReschke1 höre gerade Folge 6 von deinem 'After Corona Club' über die @ARDde Audiothek, möchte mal danke s… https://t.co/gM0vTl91qx",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 159138764,
+        "id_str": "159138764",
+        "name": "Jan007 #stayathome #Maskeauf",
+        "screen_name": "Jan0077",
+        "location": null,
+        "url": null,
+        "description": "#bleibtzuhause",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 384,
+        "friends_count": 5002,
+        "listed_count": 1,
+        "favourites_count": 13078,
+        "statuses_count": 29390,
+        "created_at": "Thu Jun 24 15:22:07 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251441414887682048/yRDG0V0T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251441414887682048/yRDG0V0T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/159138764/1580742373",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5b1a29f98ababf57",
+        "url": "https://api.twitter.com/1.1/geo/id/5b1a29f98ababf57.json",
+        "place_type": "city",
+        "name": "Bremen",
+        "full_name": "Bremen, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        8.481599,
+                        53.011035
+                    ],
+                    [
+                        8.481599,
+                        53.228969
+                    ],
+                    [
+                        8.990593,
+                        53.228969
+                    ],
+                    [
+                        8.990593,
+                        53.011035
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Moin @AnjaReschke1 höre gerade Folge 6 von deinem 'After Corona Club' über die @ARDde Audiothek, möchte mal danke sagen gefällt mir extrems gut #Bleibgesund",
+        "display_text_range": [
+            0,
+            156
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Bleibgesund",
+                    "indices": [
+                        144,
+                        156
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AnjaReschke1",
+                    "name": "Anja Reschke",
+                    "id": 2445486307,
+                    "id_str": "2445486307",
+                    "indices": [
+                        5,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "ARDde",
+                    "name": "ARD Online",
+                    "id": 556842058,
+                    "id_str": "556842058",
+                    "indices": [
+                        79,
+                        85
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gM0vTl91qx",
+                "expanded_url": "https://twitter.com/i/web/status/1254045578243252224",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AnjaReschke1",
+                "name": "Anja Reschke",
+                "id": 2445486307,
+                "id_str": "2445486307",
+                "indices": [
+                    5,
+                    18
+                ]
+            },
+            {
+                "screen_name": "ARDde",
+                "name": "ARD Online",
+                "id": 556842058,
+                "id_str": "556842058",
+                "indices": [
+                    79,
+                    85
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822739550"
+}

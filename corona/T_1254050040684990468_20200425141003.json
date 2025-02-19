@@ -1,0 +1,175 @@
+{
+    "created_at": "Sat Apr 25 14:10:03 +0000 2020",
+    "id": 1254050040684990468,
+    "id_str": "1254050040684990468",
+    "text": "#NowPlaying Corona - Baby Baby \nhttps://t.co/wQXwHzSQ4a https://t.co/R2KPZtIvlm",
+    "display_text_range": [
+        0,
+        55
+    ],
+    "source": "<a href=\"https://www.radioking.com\" rel=\"nofollow\">Radio King LiveTweet</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1055088766216556546,
+        "id_str": "1055088766216556546",
+        "name": "Axone Radio",
+        "screen_name": "AxoneRadio",
+        "location": "fra",
+        "url": "http://www.axoneradio.com",
+        "description": "Axone Radio te permet de redécouvrir tout les hits des années 90 d'écouter toutes les nouveautés d'aujourd'hui. Sans pub !!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 81,
+        "friends_count": 18,
+        "listed_count": 0,
+        "favourites_count": 89,
+        "statuses_count": 25936,
+        "created_at": "Wed Oct 24 13:28:59 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1055089649864052736/3A3389DL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055089649864052736/3A3389DL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055088766216556546/1540388506",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NowPlaying",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/wQXwHzSQ4a",
+                "expanded_url": "http://www.axoneradio.com",
+                "display_url": "axoneradio.com",
+                "indices": [
+                    32,
+                    55
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254050039103737856,
+                "id_str": "1254050039103737856",
+                "indices": [
+                    56,
+                    79
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdH3cdX0AAOll7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdH3cdX0AAOll7.jpg",
+                "url": "https://t.co/R2KPZtIvlm",
+                "display_url": "pic.twitter.com/R2KPZtIvlm",
+                "expanded_url": "https://twitter.com/AxoneRadio/status/1254050040684990468/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254050039103737856,
+                "id_str": "1254050039103737856",
+                "indices": [
+                    56,
+                    79
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdH3cdX0AAOll7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdH3cdX0AAOll7.jpg",
+                "url": "https://t.co/R2KPZtIvlm",
+                "display_url": "pic.twitter.com/R2KPZtIvlm",
+                "expanded_url": "https://twitter.com/AxoneRadio/status/1254050040684990468/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 400,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823803479"
+}

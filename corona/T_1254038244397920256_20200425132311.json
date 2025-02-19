@@ -1,0 +1,166 @@
+{
+    "created_at": "Sat Apr 25 13:23:11 +0000 2020",
+    "id": 1254038244397920256,
+    "id_str": "1254038244397920256",
+    "text": "@lichtblick2020 1. Multiresistente Keime sind besonders schlimm, weil jahrelang sogenannte #Panikmacher nicht ernst… https://t.co/yeREnEB6Gh",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253965651603075072,
+    "in_reply_to_status_id_str": "1253965651603075072",
+    "in_reply_to_user_id": 91090642,
+    "in_reply_to_user_id_str": "91090642",
+    "in_reply_to_screen_name": "lichtblick2020",
+    "user": {
+        "id": 1169934871051079681,
+        "id_str": "1169934871051079681",
+        "name": "Max Brand",
+        "screen_name": "MaxBrand12",
+        "location": "Münster, Deutschland",
+        "url": null,
+        "description": "Freiberuflicher Lehrer und Bildungscoach --- ÖDP Münster",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 42,
+        "friends_count": 628,
+        "listed_count": 0,
+        "favourites_count": 1563,
+        "statuses_count": 503,
+        "created_at": "Fri Sep 06 11:26:33 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@lichtblick2020 1. Multiresistente Keime sind besonders schlimm, weil jahrelang sogenannte #Panikmacher nicht ernstgenommen wurden.\n\n2. Glück gehabt, dass keiner im mittelnahem Umfeld an #Corona erkrankt oder gestorben ist.\n\n3. Was soll ein #Virologe mit Bakterien?\n\n#Drosten #bullshitting",
+        "display_text_range": [
+            16,
+            289
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Panikmacher",
+                    "indices": [
+                        91,
+                        103
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        187,
+                        194
+                    ]
+                },
+                {
+                    "text": "Virologe",
+                    "indices": [
+                        241,
+                        250
+                    ]
+                },
+                {
+                    "text": "Drosten",
+                    "indices": [
+                        267,
+                        275
+                    ]
+                },
+                {
+                    "text": "bullshitting",
+                    "indices": [
+                        276,
+                        289
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "lichtblick2020",
+                    "name": "Bewusstsein, Energie und Gesundheit",
+                    "id": 91090642,
+                    "id_str": "91090642",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Panikmacher",
+                "indices": [
+                    91,
+                    103
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/yeREnEB6Gh",
+                "expanded_url": "https://twitter.com/i/web/status/1254038244397920256",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "lichtblick2020",
+                "name": "Bewusstsein, Energie und Gesundheit",
+                "id": 91090642,
+                "id_str": "91090642",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820991025"
+}

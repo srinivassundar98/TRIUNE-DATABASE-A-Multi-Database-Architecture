@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:01:29 +0000 2020",
+    "id": 1254047885303267330,
+    "id_str": "1254047885303267330",
+    "text": "@htTweets @PrasunSonwalkar Hmara aaj ka vigyan hamare prachin vigyan(Ramayan, Mahabharat yug  ke vigyaan) se aaj bh… https://t.co/PYvKjMJ2XX",
+    "display_text_range": [
+        27,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1251876682396348417,
+    "in_reply_to_status_id_str": "1251876682396348417",
+    "in_reply_to_user_id": 148232135,
+    "in_reply_to_user_id_str": "148232135",
+    "in_reply_to_screen_name": "neeraj_ind12",
+    "user": {
+        "id": 148232135,
+        "id_str": "148232135",
+        "name": "Neeraj Srivastav",
+        "screen_name": "neeraj_ind12",
+        "location": "India",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 72,
+        "friends_count": 1263,
+        "listed_count": 0,
+        "favourites_count": 256,
+        "statuses_count": 859,
+        "created_at": "Wed May 26 05:09:54 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "FFD105",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250770050929180673/8s2NExnD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250770050929180673/8s2NExnD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/148232135/1587041713",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@htTweets @PrasunSonwalkar Hmara aaj ka vigyan hamare prachin vigyan(Ramayan, Mahabharat yug  ke vigyaan) se aaj bhi bhut peeche hai.\nHmare paas Ayurveda ki vo gyaan hai jo aur khi nhi.\nAyurveda mei Corona ko khatm krne ke upaay bhut pehle hi bataaya jaa chuka hai, jise hum aaj ke vigyan mei talaash rhe",
+        "display_text_range": [
+            27,
+            304
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "htTweets",
+                    "name": "Hindustan Times",
+                    "id": 36327407,
+                    "id_str": "36327407",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "PrasunSonwalkar",
+                    "name": "Prasun Sonwalkar",
+                    "id": 2596233560,
+                    "id_str": "2596233560",
+                    "indices": [
+                        10,
+                        26
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/PYvKjMJ2XX",
+                "expanded_url": "https://twitter.com/i/web/status/1254047885303267330",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "htTweets",
+                "name": "Hindustan Times",
+                "id": 36327407,
+                "id_str": "36327407",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "PrasunSonwalkar",
+                "name": "Prasun Sonwalkar",
+                "id": 2596233560,
+                "id_str": "2596233560",
+                "indices": [
+                    10,
+                    26
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587823289596"
+}

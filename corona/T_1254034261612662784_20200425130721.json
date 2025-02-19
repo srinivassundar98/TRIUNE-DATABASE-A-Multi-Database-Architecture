@@ -1,0 +1,130 @@
+{
+    "created_at": "Sat Apr 25 13:07:21 +0000 2020",
+    "id": 1254034261612662784,
+    "id_str": "1254034261612662784",
+    "text": "@RadyologD @BogdanovCCCP gercek corona sayısını saklamanın kime ne yararı var?",
+    "display_text_range": [
+        25,
+        78
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253419484506845184,
+    "in_reply_to_status_id_str": "1253419484506845184",
+    "in_reply_to_user_id": 1022753086610333696,
+    "in_reply_to_user_id_str": "1022753086610333696",
+    "in_reply_to_screen_name": "RadyologD",
+    "user": {
+        "id": 120866138,
+        "id_str": "120866138",
+        "name": "sem",
+        "screen_name": "simyasa",
+        "location": "ingiltere",
+        "url": null,
+        "description": null,
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 34,
+        "friends_count": 159,
+        "listed_count": 0,
+        "favourites_count": 630,
+        "statuses_count": 1970,
+        "created_at": "Sun Mar 07 20:28:20 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1238814358781800450/c4Yk7wb1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238814358781800450/c4Yk7wb1_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3d0271e51a6f4ff5",
+        "url": "https://api.twitter.com/1.1/geo/id/3d0271e51a6f4ff5.json",
+        "place_type": "city",
+        "name": "Ankara",
+        "full_name": "Ankara, Türkiye",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        32.738299,
+                        39.840196
+                    ],
+                    [
+                        32.738299,
+                        39.937757
+                    ],
+                    [
+                        32.898464,
+                        39.937757
+                    ],
+                    [
+                        32.898464,
+                        39.840196
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "RadyologD",
+                "name": "RadyologDr",
+                "id": 1022753086610333696,
+                "id_str": "1022753086610333696",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "BogdanovCCCP",
+                "name": "Aleksandr Bogdanov",
+                "id": 165156994,
+                "id_str": "165156994",
+                "indices": [
+                    11,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587820041455"
+}

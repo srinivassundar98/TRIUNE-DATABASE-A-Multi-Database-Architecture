@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:06:36 +0000 2020",
+    "id": 1254034073611309056,
+    "id_str": "1254034073611309056",
+    "text": "@gegenteboa @Ilisp_org Mano eu vindo seu perfil, o 1° caso de Corona no Brasil foi em  28 de janeiro. Se não tivess… https://t.co/a89crJXPgt",
+    "display_text_range": [
+        23,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253706332043186177,
+    "in_reply_to_status_id_str": "1253706332043186177",
+    "in_reply_to_user_id": 1213626719518654464,
+    "in_reply_to_user_id_str": "1213626719518654464",
+    "in_reply_to_screen_name": "gegenteboa",
+    "user": {
+        "id": 952645763368091654,
+        "id_str": "952645763368091654",
+        "name": "Julio Cesar Francisco de Barros",
+        "screen_name": "JccJ394",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 22,
+        "friends_count": 71,
+        "listed_count": 0,
+        "favourites_count": 3641,
+        "statuses_count": 1229,
+        "created_at": "Sun Jan 14 20:57:04 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@gegenteboa @Ilisp_org Mano eu vindo seu perfil, o 1° caso de Corona no Brasil foi em  28 de janeiro. Se não tivesse carnaval e a quarentena fosse naquele período hj estaríamos bem mais tranquilos.\nQue merda...",
+        "display_text_range": [
+            23,
+            210
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "gegenteboa",
+                    "name": "Rogério Silva #ForaBolsonaro #bolsonarotraidor",
+                    "id": 1213626719518654464,
+                    "id_str": "1213626719518654464",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "Ilisp_org",
+                    "name": "ILISP",
+                    "id": 4871942260,
+                    "id_str": "4871942260",
+                    "indices": [
+                        12,
+                        22
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/a89crJXPgt",
+                "expanded_url": "https://twitter.com/i/web/status/1254034073611309056",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "gegenteboa",
+                "name": "Rogério Silva #ForaBolsonaro #bolsonarotraidor",
+                "id": 1213626719518654464,
+                "id_str": "1213626719518654464",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "Ilisp_org",
+                "name": "ILISP",
+                "id": 4871942260,
+                "id_str": "4871942260",
+                "indices": [
+                    12,
+                    22
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587819996632"
+}

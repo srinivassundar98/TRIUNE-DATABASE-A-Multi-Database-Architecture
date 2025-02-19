@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 13:30:29 +0000 2020",
+    "id": 1254040081842700289,
+    "id_str": "1254040081842700289",
+    "text": "@GagnonShala @mc_thom @BlackstockArt @VestsCanada While 50% might be wrong, obese people are at a much greater risk: https://t.co/9qTGy5bE2U",
+    "display_text_range": [
+        50,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253850348969738240,
+    "in_reply_to_status_id_str": "1253850348969738240",
+    "in_reply_to_user_id": 1025061541404540929,
+    "in_reply_to_user_id_str": "1025061541404540929",
+    "in_reply_to_screen_name": "GagnonShala",
+    "user": {
+        "id": 27903705,
+        "id_str": "27903705",
+        "name": "Foggy St. John",
+        "screen_name": "imaprick",
+        "location": "The Golden Rim Motor Inn",
+        "url": null,
+        "description": "Not sure whose will be done and you can call me a sinner for wondering why. (Not worth following.)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 25,
+        "friends_count": 411,
+        "listed_count": 1,
+        "favourites_count": 416,
+        "statuses_count": 633,
+        "created_at": "Tue Mar 31 16:23:22 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "556B2F",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/855537720533430276/XbOOEsUa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/855537720533430276/XbOOEsUa_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/9qTGy5bE2U",
+                "expanded_url": "https://www.sciencenews.org/article/coronavirus-covid19-obesity-risk-factor",
+                "display_url": "sciencenews.org/article/corona…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "GagnonShala",
+                "name": "Shala Gagnon",
+                "id": 1025061541404540929,
+                "id_str": "1025061541404540929",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "mc_thom",
+                "name": "Thom Mc",
+                "id": 2229329053,
+                "id_str": "2229329053",
+                "indices": [
+                    13,
+                    21
+                ]
+            },
+            {
+                "screen_name": "BlackstockArt",
+                "name": "jeraldblackstock.ca",
+                "id": 111299315,
+                "id_str": "111299315",
+                "indices": [
+                    22,
+                    36
+                ]
+            },
+            {
+                "screen_name": "VestsCanada",
+                "name": "YVCE 🧛‍♂️🧛‍♀️🧛‍♂️",
+                "id": 1079703761294184449,
+                "id_str": "1079703761294184449",
+                "indices": [
+                    37,
+                    49
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821429106"
+}

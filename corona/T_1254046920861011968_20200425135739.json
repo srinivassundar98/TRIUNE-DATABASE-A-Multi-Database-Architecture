@@ -1,0 +1,117 @@
+{
+    "created_at": "Sat Apr 25 13:57:39 +0000 2020",
+    "id": 1254046920861011968,
+    "id_str": "1254046920861011968",
+    "text": "Dagelijks ziet Jan (25) coronapatiënten de spoedeisende hulp binnenkomen🏥.Lees hier zijn verhaal👇\nhttps://t.co/uVbGkeUN1e",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 603852635,
+        "id_str": "603852635",
+        "name": "Jos Loock",
+        "screen_name": "ecomvo",
+        "location": "Limburg, Nederland",
+        "url": "http://linkedin.com/in/ecomvo/",
+        "description": "Shaman🥁\nInspiration Ambassador🎁\nTweet soltero Detective 😎#Gotcha\nPerson of liberal views🗽\nEncourager❤🧠\nI Love America🗽",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1356,
+        "friends_count": 4999,
+        "listed_count": 49,
+        "favourites_count": 10820,
+        "statuses_count": 14099,
+        "created_at": "Sat Jun 09 19:23:36 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252943430214463489/_G8bFJij_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252943430214463489/_G8bFJij_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/603852635/1587559967",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "abfeb730d5b8a608",
+        "url": "https://api.twitter.com/1.1/geo/id/abfeb730d5b8a608.json",
+        "place_type": "city",
+        "name": "Uden",
+        "full_name": "Uden, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        5.562299,
+                        51.622773
+                    ],
+                    [
+                        5.562299,
+                        51.703475
+                    ],
+                    [
+                        5.75065,
+                        51.703475
+                    ],
+                    [
+                        5.75065,
+                        51.622773
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/uVbGkeUN1e",
+                "expanded_url": "https://www.rodekruis.nl/nieuwsbericht/jan-werkt-op-spoedeisende-hulp-en-is-rode-kruis-vrijwilliger/?utm_source=facebook&utm=_medium%3Dsocial&utm_campaign=corona&utm_content=jan&utm_medium=paidsocial",
+                "display_url": "rodekruis.nl/nieuwsbericht/…",
+                "indices": [
+                    98,
+                    121
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587823059655"
+}

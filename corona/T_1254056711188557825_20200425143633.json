@@ -1,0 +1,170 @@
+{
+    "created_at": "Sat Apr 25 14:36:33 +0000 2020",
+    "id": 1254056711188557825,
+    "id_str": "1254056711188557825",
+    "text": "#SigamosLeyendo\nÚnete a la campaña para preservar y crear nuestro hábito de #lectura. La cuarentena pasará, las his… https://t.co/fqiqSCkoe9",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 267926740,
+        "id_str": "267926740",
+        "name": "Cámara Peruana Libro",
+        "screen_name": "CPLibro",
+        "location": "Lima - Perú",
+        "url": "http://www.cpl.org.pe",
+        "description": "Asociación gremial y cultural de derecho privado y sin fines de lucro. Reúnimos a diversas entidades dedicadas a la promoción y difusión de la lectura.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 10059,
+        "friends_count": 1535,
+        "listed_count": 110,
+        "favourites_count": 799,
+        "statuses_count": 1991,
+        "created_at": "Thu Mar 17 20:35:06 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092885365290082304/Fv1O7P-3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092885365290082304/Fv1O7P-3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267926740/1587689202",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "#SigamosLeyendo\nÚnete a la campaña para preservar y crear nuestro hábito de #lectura. La cuarentena pasará, las historias que llevas a tu mente, quedarán por siempre.\nVía .@peru21noticias\n#SectorEditorial #Libro #CámaraPeruanadelLibro\nhttps://t.co/PNtkJrFc1G",
+        "display_text_range": [
+            0,
+            258
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "SigamosLeyendo",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "text": "lectura",
+                    "indices": [
+                        76,
+                        84
+                    ]
+                },
+                {
+                    "text": "SectorEditorial",
+                    "indices": [
+                        188,
+                        204
+                    ]
+                },
+                {
+                    "text": "Libro",
+                    "indices": [
+                        205,
+                        211
+                    ]
+                },
+                {
+                    "text": "CámaraPeruanadelLibro",
+                    "indices": [
+                        212,
+                        234
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/PNtkJrFc1G",
+                    "expanded_url": "https://peru21.pe/cultura/coronavirus-peru-camara-peruana-del-libro-lanza-campana-sigamosleyendo-para-fomentar-la-lectura-en-tiempos-de-crisis-covid-19-dia-internacional-del-libro-nndc-noticia/",
+                    "display_url": "peru21.pe/cultura/corona…",
+                    "indices": [
+                        235,
+                        258
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "peru21noticias",
+                    "name": "Diario Perú21",
+                    "id": 832686254873468929,
+                    "id_str": "832686254873468929",
+                    "indices": [
+                        172,
+                        187
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "SigamosLeyendo",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "text": "lectura",
+                "indices": [
+                    76,
+                    84
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/fqiqSCkoe9",
+                "expanded_url": "https://twitter.com/i/web/status/1254056711188557825",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587825393851"
+}

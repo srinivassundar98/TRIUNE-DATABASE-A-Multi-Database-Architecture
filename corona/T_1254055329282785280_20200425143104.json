@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:31:04 +0000 2020",
+    "id": 1254055329282785280,
+    "id_str": "1254055329282785280",
+    "text": "@izzetcapa Demirdöküm tavaya birazda ACE ekledik mi ne demir eksikliği kalır ne de corona",
+    "display_text_range": [
+        11,
+        89
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254050039518937088,
+    "in_reply_to_status_id_str": "1254050039518937088",
+    "in_reply_to_user_id": 126933954,
+    "in_reply_to_user_id_str": "126933954",
+    "in_reply_to_screen_name": "izzetcapa",
+    "user": {
+        "id": 61463920,
+        "id_str": "61463920",
+        "name": "Uğur Maslamani",
+        "screen_name": "ugurmaslamani",
+        "location": "Esenyurt, İstanbul",
+        "url": "https://twitter.com",
+        "description": "RJ Models - Akbatı Scholl Consept - Mixuse - Endüstri Mühendisi - Emre ve Emir’in babası - Galatasaray Genel Kurul Üyesi",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 313,
+        "friends_count": 1342,
+        "listed_count": 3,
+        "favourites_count": 2659,
+        "statuses_count": 7564,
+        "created_at": "Thu Jul 30 11:34:15 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "CC3300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7DA93",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150351212702818306/pWQkQzx4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150351212702818306/pWQkQzx4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61463920/1559140335",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3b8e04260e920430",
+        "url": "https://api.twitter.com/1.1/geo/id/3b8e04260e920430.json",
+        "place_type": "admin",
+        "name": "Esenyurt",
+        "full_name": "Esenyurt, İstanbul",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        28.620585,
+                        40.999299
+                    ],
+                    [
+                        28.620585,
+                        41.098594
+                    ],
+                    [
+                        28.701921,
+                        41.098594
+                    ],
+                    [
+                        28.701921,
+                        40.999299
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "izzetcapa",
+                "name": "Izzet Capa",
+                "id": 126933954,
+                "id_str": "126933954",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587825064379"
+}

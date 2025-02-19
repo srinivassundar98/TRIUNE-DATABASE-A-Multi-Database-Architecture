@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:27:56 +0000 2020",
+    "id": 1254054541940621312,
+    "id_str": "1254054541940621312",
+    "text": "@CaptXeon Ich glaub so schnell kann ich das nicht antrainieren. Vor allem wenn man bedenkt, dass meine ganze Vorarb… https://t.co/xpIEAy591W",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254050844934316033,
+    "in_reply_to_status_id_str": "1254050844934316033",
+    "in_reply_to_user_id": 2294008828,
+    "in_reply_to_user_id_str": "2294008828",
+    "in_reply_to_screen_name": "CaptXeon",
+    "user": {
+        "id": 392639146,
+        "id_str": "392639146",
+        "name": "Nina 🥀",
+        "screen_name": "ninazoff",
+        "location": "Germany",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 76,
+        "friends_count": 44,
+        "listed_count": 3,
+        "favourites_count": 3854,
+        "statuses_count": 3690,
+        "created_at": "Mon Oct 17 10:46:45 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "4A3640",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "F0136B",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206225197809971200/LWlnh7A0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206225197809971200/LWlnh7A0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/392639146/1557599804",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CaptXeon Ich glaub so schnell kann ich das nicht antrainieren. Vor allem wenn man bedenkt, dass meine ganze Vorarbeit von letzten halben Jahr wahrscheinlich durch corona wieder zunichte gemacht wurde. Und Hunde sind auch so unhandlich...",
+        "display_text_range": [
+            10,
+            238
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CaptXeon",
+                    "name": "Max ",
+                    "id": 2294008828,
+                    "id_str": "2294008828",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/xpIEAy591W",
+                "expanded_url": "https://twitter.com/i/web/status/1254054541940621312",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CaptXeon",
+                "name": "Max ",
+                "id": 2294008828,
+                "id_str": "2294008828",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824876662"
+}

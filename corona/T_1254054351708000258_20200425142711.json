@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat Apr 25 14:27:11 +0000 2020",
+    "id": 1254054351708000258,
+    "id_str": "1254054351708000258",
+    "text": "@giambo31953788 @RoccoTodero https://t.co/U9JIuDtOks",
+    "display_text_range": [
+        29,
+        52
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254018223688880128,
+    "in_reply_to_status_id_str": "1254018223688880128",
+    "in_reply_to_user_id": 1138819195108507648,
+    "in_reply_to_user_id_str": "1138819195108507648",
+    "in_reply_to_screen_name": "giambo31953788",
+    "user": {
+        "id": 900065872060055552,
+        "id_str": "900065872060055552",
+        "name": "Ad maiora! 🇮🇹🇪🇺",
+        "screen_name": "PiuDoveri",
+        "location": null,
+        "url": null,
+        "description": "Per la Sovranità del Popolo Europeo (work in progress)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 130,
+        "friends_count": 210,
+        "listed_count": 1,
+        "favourites_count": 15915,
+        "statuses_count": 9492,
+        "created_at": "Tue Aug 22 18:43:21 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978621495898529792/kUcAr9z4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978621495898529792/kUcAr9z4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/900065872060055552/1522174760",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/U9JIuDtOks",
+                "expanded_url": "https://www.spiegel.de/wirtschaft/soziales/corona-krise-und-euro-bonds-deutschlands-fatales-zerrbild-von-italien-kolumne-a-09ded59c-4d98-4592-86dd-dae5f6d84615",
+                "display_url": "spiegel.de/wirtschaft/soz…",
+                "indices": [
+                    29,
+                    52
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "giambo31953788",
+                "name": "giamba",
+                "id": 1138819195108507648,
+                "id_str": "1138819195108507648",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "RoccoTodero",
+                "name": "Rocco Todero",
+                "id": 1056094116,
+                "id_str": "1056094116",
+                "indices": [
+                    16,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587824831307"
+}

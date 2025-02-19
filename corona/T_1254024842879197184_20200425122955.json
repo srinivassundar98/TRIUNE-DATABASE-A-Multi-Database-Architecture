@@ -1,0 +1,155 @@
+{
+    "created_at": "Sat Apr 25 12:29:55 +0000 2020",
+    "id": 1254024842879197184,
+    "id_str": "1254024842879197184",
+    "text": "@Daniel_Tex18 Maybe you could bring your emo hairstyle back for a moment, it'd help you to stay cool during corona.… https://t.co/lyKv1PlnOt",
+    "display_text_range": [
+        14,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254024511751688192,
+    "in_reply_to_status_id_str": "1254024511751688192",
+    "in_reply_to_user_id": 545171828,
+    "in_reply_to_user_id_str": "545171828",
+    "in_reply_to_screen_name": "Daniel_Tex18",
+    "user": {
+        "id": 1093770665541349377,
+        "id_str": "1093770665541349377",
+        "name": "Денис Александрович - YOUR NEW DADDY!",
+        "screen_name": "DXandru6661",
+        "location": "San Fernando Valley, CA",
+        "url": "https://ask.fm/s_epidemic",
+        "description": "18 yo\nscreamo\ni do vocals scream, guitar and drums\nguitarist of Sunset Summer \nFOLLOW ME FOR FREE TACO\n\n#xxcomingtoyourradiosoonxx",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 47,
+        "friends_count": 129,
+        "listed_count": 0,
+        "favourites_count": 1314,
+        "statuses_count": 2583,
+        "created_at": "Fri Feb 08 07:17:02 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249521581962870785/-__I6gh3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249521581962870785/-__I6gh3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093770665541349377/1584884818",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3b77caf94bfc81fe",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+        "place_type": "city",
+        "name": "Los Angeles",
+        "full_name": "Los Angeles, CA",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Daniel_Tex18 Maybe you could bring your emo hairstyle back for a moment, it'd help you to stay cool during corona. Don't let the virus ruin your badass looking bru 😘😎🤟",
+        "display_text_range": [
+            14,
+            168
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Daniel_Tex18",
+                    "name": "🌴✨DANÍEL ✨🌴",
+                    "id": 545171828,
+                    "id_str": "545171828",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/lyKv1PlnOt",
+                "expanded_url": "https://twitter.com/i/web/status/1254024842879197184",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Daniel_Tex18",
+                "name": "🌴✨DANÍEL ✨🌴",
+                "id": 545171828,
+                "id_str": "545171828",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817795854"
+}

@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:38:22 +0000 2020",
+    "id": 1254057165356236806,
+    "id_str": "1254057165356236806",
+    "text": "@blogdojefferson Uma palavra que inclusive que cai muito bem. De corona um fdp como vc não morre. O Brasil tá empesteado mesmo!!!",
+    "display_text_range": [
+        17,
+        129
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253810873543675905,
+    "in_reply_to_status_id_str": "1253810873543675905",
+    "in_reply_to_user_id": 1138847289978626049,
+    "in_reply_to_user_id_str": "1138847289978626049",
+    "in_reply_to_screen_name": "blogdojefferson",
+    "user": {
+        "id": 94196714,
+        "id_str": "94196714",
+        "name": "Ju Carvalho",
+        "screen_name": "ju_pink_ju",
+        "location": "São Paulo",
+        "url": "http://Www.oxfer.com.br",
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 244,
+        "friends_count": 1336,
+        "listed_count": 0,
+        "favourites_count": 40,
+        "statuses_count": 3042,
+        "created_at": "Wed Dec 02 22:54:50 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138831290365558784/gFtVRXF7_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138831290365558784/gFtVRXF7_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94196714/1553008641",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "68e019afec7d0ba5",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json",
+        "place_type": "city",
+        "name": "São Paulo",
+        "full_name": "São Paulo, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "blogdojefferson",
+                "name": "Roberto Jefferson",
+                "id": 1138847289978626049,
+                "id_str": "1138847289978626049",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587825502133"
+}

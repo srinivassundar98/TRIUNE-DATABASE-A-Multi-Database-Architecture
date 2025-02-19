@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:48:32 +0000 2020",
+    "id": 1254044626249560064,
+    "id_str": "1254044626249560064",
+    "text": "@ProfKarolSikora What a fucking dumb dumb so what happens when someone catches Corona at the supermarket and then p… https://t.co/Z3P4KTxjDK",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253974891029766144,
+    "in_reply_to_status_id_str": "1253974891029766144",
+    "in_reply_to_user_id": 1235849797191401472,
+    "in_reply_to_user_id_str": "1235849797191401472",
+    "in_reply_to_screen_name": "ProfKarolSikora",
+    "user": {
+        "id": 1185139019878993920,
+        "id_str": "1185139019878993920",
+        "name": "rettubtuN",
+        "screen_name": "_rettubtuN",
+        "location": null,
+        "url": null,
+        "description": "the underhog",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 198,
+        "friends_count": 2079,
+        "listed_count": 0,
+        "favourites_count": 3273,
+        "statuses_count": 2558,
+        "created_at": "Fri Oct 18 10:22:23 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236004285898543104/NfhBsngU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236004285898543104/NfhBsngU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1185139019878993920/1572207206",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ProfKarolSikora What a fucking dumb dumb so what happens when someone catches Corona at the supermarket and then passes it on to 10 people in their bubble? Who then pass it on again at the supermarket, youre proof you dont need to be intelligent to be a professor",
+        "display_text_range": [
+            17,
+            264
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ProfKarolSikora",
+                    "name": "Professor Karol Sikora",
+                    "id": 1235849797191401472,
+                    "id_str": "1235849797191401472",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Z3P4KTxjDK",
+                "expanded_url": "https://twitter.com/i/web/status/1254044626249560064",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ProfKarolSikora",
+                "name": "Professor Karol Sikora",
+                "id": 1235849797191401472,
+                "id_str": "1235849797191401472",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822512577"
+}

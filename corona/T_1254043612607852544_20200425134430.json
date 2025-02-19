@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:44:30 +0000 2020",
+    "id": 1254043612607852544,
+    "id_str": "1254043612607852544",
+    "text": "@karynmaughan @SAPoliceService They deserved skop and donor if not more, such people need to be locked up and we wi… https://t.co/yY5zuT7IXN",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254018207754698752,
+    "in_reply_to_status_id_str": "1254018207754698752",
+    "in_reply_to_user_id": 217750417,
+    "in_reply_to_user_id_str": "217750417",
+    "in_reply_to_screen_name": "karynmaughan",
+    "user": {
+        "id": 3981239603,
+        "id_str": "3981239603",
+        "name": "Lulu Mkhawane",
+        "screen_name": "LMkhawane",
+        "location": "Pretoria, South Africa",
+        "url": null,
+        "description": "Music lover, a thinker, and Attorney in the making.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 518,
+        "friends_count": 210,
+        "listed_count": 2,
+        "favourites_count": 1359,
+        "statuses_count": 3152,
+        "created_at": "Sat Oct 17 18:06:37 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1219546531545657345/BYvSnKKs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219546531545657345/BYvSnKKs_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@karynmaughan @SAPoliceService They deserved skop and donor if not more, such people need to be locked up and we will see them after corona.  The country is at a standstill, people lost their lives and their jobs due to this pandemic and they do this?",
+        "display_text_range": [
+            31,
+            251
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "karynmaughan",
+                    "name": "Karyn Maughan",
+                    "id": 217750417,
+                    "id_str": "217750417",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "SAPoliceService",
+                    "name": "SA Police Service 🇿🇦",
+                    "id": 320644276,
+                    "id_str": "320644276",
+                    "indices": [
+                        14,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/yY5zuT7IXN",
+                "expanded_url": "https://twitter.com/i/web/status/1254043612607852544",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "karynmaughan",
+                "name": "Karyn Maughan",
+                "id": 217750417,
+                "id_str": "217750417",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "SAPoliceService",
+                "name": "SA Police Service 🇿🇦",
+                "id": 320644276,
+                "id_str": "320644276",
+                "indices": [
+                    14,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822270906"
+}

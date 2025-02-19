@@ -1,0 +1,141 @@
+{
+    "created_at": "Sat Apr 25 13:36:04 +0000 2020",
+    "id": 1254041488620650498,
+    "id_str": "1254041488620650498",
+    "text": "I have #asthma and extremely thick mucus on a good day. Couldn't imagine what these #corona PT are dealing with. I'… https://t.co/PwxwX8t6nP",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254040231503945729,
+    "in_reply_to_status_id_str": "1254040231503945729",
+    "in_reply_to_user_id": 2328189006,
+    "in_reply_to_user_id_str": "2328189006",
+    "in_reply_to_screen_name": "Tropicexposure",
+    "user": {
+        "id": 2328189006,
+        "id_str": "2328189006",
+        "name": "miker",
+        "screen_name": "Tropicexposure",
+        "location": "Florida, USA",
+        "url": "http://www.flickr.com/photos/tropicexposure/",
+        "description": "Space, Electronics, Random pics, In Situ Wildlife Photos and my Art! MR",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 278,
+        "friends_count": 669,
+        "listed_count": 17,
+        "favourites_count": 1745,
+        "statuses_count": 1829,
+        "created_at": "Wed Feb 05 04:26:16 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455065166950830080/X9hDRUQH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455065166950830080/X9hDRUQH_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2328189006/1391723807",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "I have #asthma and extremely thick mucus on a good day. Couldn't imagine what these #corona PT are dealing with. I'm RX'd #Acetylcysteine (mucomyst) because of the thick #mucus. Its not something you'd use unless you really needed it, smell like rotten eggs. It works though!",
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "asthma",
+                    "indices": [
+                        7,
+                        14
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        84,
+                        91
+                    ]
+                },
+                {
+                    "text": "Acetylcysteine",
+                    "indices": [
+                        122,
+                        137
+                    ]
+                },
+                {
+                    "text": "mucus",
+                    "indices": [
+                        170,
+                        176
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "asthma",
+                "indices": [
+                    7,
+                    14
+                ]
+            },
+            {
+                "text": "corona",
+                "indices": [
+                    84,
+                    91
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/PwxwX8t6nP",
+                "expanded_url": "https://twitter.com/i/web/status/1254041488620650498",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821764508"
+}

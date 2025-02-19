@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 14:07:25 +0000 2020",
+    "id": 1254049379788488705,
+    "id_str": "1254049379788488705",
+    "text": "Corona  ne aaj phr wahi din laa diya jab.... Ghro m jb  lite jaati ti.... Toh log ek saath bahar  ya chhato pe aa j… https://t.co/LQwSDOA79x",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 214081716,
+        "id_str": "214081716",
+        "name": "Love Khare",
+        "screen_name": "loveawsum",
+        "location": "Lucknow, India",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 18,
+        "friends_count": 139,
+        "listed_count": 0,
+        "favourites_count": 320,
+        "statuses_count": 90,
+        "created_at": "Wed Nov 10 14:33:17 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164573482748993537/LPcvIoUw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164573482748993537/LPcvIoUw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214081716/1586940963",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "74effb34539b2d64",
+        "url": "https://api.twitter.com/1.1/geo/id/74effb34539b2d64.json",
+        "place_type": "city",
+        "name": "Lucknow",
+        "full_name": "Lucknow, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        80.658613,
+                        26.642291
+                    ],
+                    [
+                        80.658613,
+                        27.008048
+                    ],
+                    [
+                        81.110202,
+                        27.008048
+                    ],
+                    [
+                        81.110202,
+                        26.642291
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Corona  ne aaj phr wahi din laa diya jab.... Ghro m jb  lite jaati ti.... Toh log ek saath bahar  ya chhato pe aa jaate te.. Is iski gawah thandi hawa hoti.... 😊😊😊😊",
+        "display_text_range": [
+            0,
+            164
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/LQwSDOA79x",
+                "expanded_url": "https://twitter.com/i/web/status/1254049379788488705",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587823645909"
+}

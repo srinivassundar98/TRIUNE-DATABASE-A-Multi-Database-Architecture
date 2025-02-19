@@ -1,0 +1,189 @@
+{
+    "created_at": "Sat Apr 25 13:45:13 +0000 2020",
+    "id": 1254043791016644609,
+    "id_str": "1254043791016644609",
+    "text": "Sebelum corona menyerang. https://t.co/PWg0GSAimg",
+    "display_text_range": [
+        0,
+        25
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 117780701,
+        "id_str": "117780701",
+        "name": "Eddy Kurniawan",
+        "screen_name": "eddy_erfolg",
+        "location": null,
+        "url": "http://generasi21.blogspot.com",
+        "description": "Waskita Karya - Infrastructure Division",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 243,
+        "friends_count": 349,
+        "listed_count": 0,
+        "favourites_count": 45,
+        "statuses_count": 745,
+        "created_at": "Fri Feb 26 15:57:30 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150214912066519041/TRPXgIWY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150214912066519041/TRPXgIWY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117780701/1362762342",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "c1ed59e165fb9a34",
+        "url": "https://api.twitter.com/1.1/geo/id/c1ed59e165fb9a34.json",
+        "place_type": "city",
+        "name": "Mertoyudan",
+        "full_name": "Mertoyudan, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        110.177855,
+                        -7.600326
+                    ],
+                    [
+                        110.177855,
+                        -7.489335
+                    ],
+                    [
+                        110.243736,
+                        -7.489335
+                    ],
+                    [
+                        110.243736,
+                        -7.600326
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254043750717730816,
+                "id_str": "1254043750717730816",
+                "indices": [
+                    26,
+                    49
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdCJaZUMAAxvmX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdCJaZUMAAxvmX.jpg",
+                "url": "https://t.co/PWg0GSAimg",
+                "display_url": "pic.twitter.com/PWg0GSAimg",
+                "expanded_url": "https://twitter.com/eddy_erfolg/status/1254043791016644609/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254043750717730816,
+                "id_str": "1254043750717730816",
+                "indices": [
+                    26,
+                    49
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdCJaZUMAAxvmX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdCJaZUMAAxvmX.jpg",
+                "url": "https://t.co/PWg0GSAimg",
+                "display_url": "pic.twitter.com/PWg0GSAimg",
+                "expanded_url": "https://twitter.com/eddy_erfolg/status/1254043791016644609/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1152,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822313442"
+}

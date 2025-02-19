@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:39:43 +0000 2020",
+    "id": 1254057507913232384,
+    "id_str": "1254057507913232384",
+    "text": "@shewrick @CBSNews It’s a fake. children get sick, even with no corona. OMG, this is again good fodder for herd people.",
+    "display_text_range": [
+        19,
+        119
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254033175631867904,
+    "in_reply_to_status_id_str": "1254033175631867904",
+    "in_reply_to_user_id": 123607946,
+    "in_reply_to_user_id_str": "123607946",
+    "in_reply_to_screen_name": "shewrick",
+    "user": {
+        "id": 1232073917415579648,
+        "id_str": "1232073917415579648",
+        "name": "Phopart",
+        "screen_name": "phopart",
+        "location": null,
+        "url": null,
+        "description": "Phopart specializes in photography, commercial photography and bts.\nhttp://phopart.com \nhttp://www.polphotography.com",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 18,
+        "listed_count": 0,
+        "favourites_count": 40,
+        "statuses_count": 253,
+        "created_at": "Mon Feb 24 22:44:56 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232074685308792832/DjUfKVMy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232074685308792832/DjUfKVMy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1232073917415579648/1582584942",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "shewrick",
+                "name": "Rick Shew",
+                "id": 123607946,
+                "id_str": "123607946",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "CBSNews",
+                "name": "CBS News",
+                "id": 15012486,
+                "id_str": "15012486",
+                "indices": [
+                    10,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825583805"
+}

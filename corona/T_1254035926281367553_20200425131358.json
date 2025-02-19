@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:13:58 +0000 2020",
+    "id": 1254035926281367553,
+    "id_str": "1254035926281367553",
+    "text": "@baejin_noona mari corona west neg ngono, tak tunggu neg simpang limo🙄",
+    "display_text_range": [
+        14,
+        70
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254035330631471104,
+    "in_reply_to_status_id_str": "1254035330631471104",
+    "in_reply_to_user_id": 149021590,
+    "in_reply_to_user_id_str": "149021590",
+    "in_reply_to_screen_name": "baejin_noona",
+    "user": {
+        "id": 2931834116,
+        "id_str": "2931834116",
+        "name": "JIJIMOM'S",
+        "screen_name": "mAybAe_YOU",
+        "location": "wink tag tag",
+        "url": null,
+        "description": "🍏사랑배진영과박지훈🍎wannable☝️may🐰fix🐷",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 229,
+        "friends_count": 1410,
+        "listed_count": 1,
+        "favourites_count": 15700,
+        "statuses_count": 8082,
+        "created_at": "Tue Dec 16 04:34:12 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252641762151002112/A0AV4fDM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252641762151002112/A0AV4fDM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2931834116/1578231037",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0b07849d325660cd",
+        "url": "https://api.twitter.com/1.1/geo/id/0b07849d325660cd.json",
+        "place_type": "city",
+        "name": "Sukolilo",
+        "full_name": "Sukolilo, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        112.758977,
+                        -7.311312
+                    ],
+                    [
+                        112.758977,
+                        -7.26495
+                    ],
+                    [
+                        112.846816,
+                        -7.26495
+                    ],
+                    [
+                        112.846816,
+                        -7.311312
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "baejin_noona",
+                "name": "imbaenun📌cek",
+                "id": 149021590,
+                "id_str": "149021590",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587820438343"
+}

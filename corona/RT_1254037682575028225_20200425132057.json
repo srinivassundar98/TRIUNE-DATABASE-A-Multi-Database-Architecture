@@ -1,0 +1,813 @@
+{
+    "created_at": "Sat Apr 25 13:20:57 +0000 2020",
+    "id": 1254037682575028225,
+    "id_str": "1254037682575028225",
+    "text": "RT @CargoBikeJetzt: Berliner #ADAC und AfD gegen #PopupBikelanes: https://t.co/a4SLLXlEVU\nJetzt ADAC-Mitgliedschaft kündigen! Unten ein sch…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 237752011,
+        "id_str": "237752011",
+        "name": "autofrei leben!",
+        "screen_name": "autofrei_leben",
+        "location": "Deutschland",
+        "url": "http://www.autofrei.de",
+        "description": "autofrei leben! e.V. ist Plattform und Sprachrohr von Millionen autofreier Menschen. Sie verweigern sich dem Autowahn und sind auch mobil - aber besser!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2610,
+        "friends_count": 80,
+        "listed_count": 87,
+        "favourites_count": 12338,
+        "statuses_count": 23045,
+        "created_at": "Thu Jan 13 15:07:29 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3502680582/d095888cf8391807ed1f4ead731fe4ee_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3502680582/d095888cf8391807ed1f4ead731fe4ee_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237752011/1399832927",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 10:42:49 +0000 2020",
+        "id": 1253997888058920960,
+        "id_str": "1253997888058920960",
+        "text": "Berliner #ADAC und AfD gegen #PopupBikelanes: https://t.co/a4SLLXlEVU\nJetzt ADAC-Mitgliedschaft kündigen! Unten ein… https://t.co/LiyWSyQq4C",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3521114295,
+            "id_str": "3521114295",
+            "name": "Arne Behrensen",
+            "screen_name": "CargoBikeJetzt",
+            "location": "Berlin, Deutschland",
+            "url": "http://www.cargobike.jetzt",
+            "description": "#Cargobikes für die #Verkehrswende - jetzt!\nNews, Dienstleistungen, Lobby.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1940,
+            "friends_count": 467,
+            "listed_count": 46,
+            "favourites_count": 3411,
+            "statuses_count": 1320,
+            "created_at": "Wed Sep 02 07:56:13 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/834506178273083393/AJ_EXQrk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/834506178273083393/AJ_EXQrk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3521114295/1453568228",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253707924783980544,
+        "quoted_status_id_str": "1253707924783980544",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 15:30:36 +0000 2020",
+            "id": 1253707924783980544,
+            "id_str": "1253707924783980544",
+            "text": "Meine ⁦@ADAC⁩ Kündigung wegen deren ablehnender Haltung zu den #PopupBikelanes in #Berlin.\nEine gute Radinfrastrukt… https://t.co/vfcd8tCEnI",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 966967810864943109,
+                "id_str": "966967810864943109",
+                "name": "Mirja T.",
+                "screen_name": "mtschak",
+                "location": null,
+                "url": null,
+                "description": null,
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 13,
+                "friends_count": 128,
+                "listed_count": 0,
+                "favourites_count": 2888,
+                "statuses_count": 706,
+                "created_at": "Fri Feb 23 09:27:46 +0000 2018",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1020051502851817477/8Ep7PSKH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020051502851817477/8Ep7PSKH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/966967810864943109/1532034207",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Meine ⁦@ADAC⁩ Kündigung wegen deren ablehnender Haltung zu den #PopupBikelanes in #Berlin.\nEine gute Radinfrastruktur ist im Interesse Aller – auch der Autofahrer.\n\n⁦@ADFC_Berlin⁩ ⁦@MonikaHerrmann1⁩ ⁦@RegineGuenther⁩ https://t.co/GSRlXaz3og",
+                "display_text_range": [
+                    0,
+                    216
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "PopupBikelanes",
+                            "indices": [
+                                63,
+                                78
+                            ]
+                        },
+                        {
+                            "text": "Berlin",
+                            "indices": [
+                                82,
+                                89
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "ADAC",
+                            "name": "ADAC",
+                            "id": 161234186,
+                            "id_str": "161234186",
+                            "indices": [
+                                7,
+                                12
+                            ]
+                        },
+                        {
+                            "screen_name": "ADFC_Berlin",
+                            "name": "ADFC Berlin e.V.",
+                            "id": 370312537,
+                            "id_str": "370312537",
+                            "indices": [
+                                166,
+                                178
+                            ]
+                        },
+                        {
+                            "screen_name": "MonikaHerrmann1",
+                            "name": "Monika Herrmann",
+                            "id": 399900593,
+                            "id_str": "399900593",
+                            "indices": [
+                                181,
+                                197
+                            ]
+                        },
+                        {
+                            "screen_name": "RegineGuenther",
+                            "name": "Regine Günther",
+                            "id": 335887533,
+                            "id_str": "335887533",
+                            "indices": [
+                                200,
+                                215
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253707902306656256,
+                            "id_str": "1253707902306656256",
+                            "indices": [
+                                217,
+                                240
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWYQsdkWoAAM--r.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWYQsdkWoAAM--r.jpg",
+                            "url": "https://t.co/GSRlXaz3og",
+                            "display_url": "pic.twitter.com/GSRlXaz3og",
+                            "expanded_url": "https://twitter.com/mtschak/status/1253707924783980544/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 536,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 661,
+                                    "h": 838,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 661,
+                                    "h": 838,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253707902306656256,
+                            "id_str": "1253707902306656256",
+                            "indices": [
+                                217,
+                                240
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWYQsdkWoAAM--r.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWYQsdkWoAAM--r.jpg",
+                            "url": "https://t.co/GSRlXaz3og",
+                            "display_url": "pic.twitter.com/GSRlXaz3og",
+                            "expanded_url": "https://twitter.com/mtschak/status/1253707924783980544/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 536,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 661,
+                                    "h": 838,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 661,
+                                    "h": 838,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 11,
+            "reply_count": 8,
+            "retweet_count": 50,
+            "favorite_count": 306,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "PopupBikelanes",
+                        "indices": [
+                            63,
+                            78
+                        ]
+                    },
+                    {
+                        "text": "Berlin",
+                        "indices": [
+                            82,
+                            89
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/vfcd8tCEnI",
+                        "expanded_url": "https://twitter.com/i/web/status/1253707924783980544",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ADAC",
+                        "name": "ADAC",
+                        "id": 161234186,
+                        "id_str": "161234186",
+                        "indices": [
+                            7,
+                            12
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/cIPt0uQNxB",
+            "expanded": "https://twitter.com/mtschak/status/1253707924783980544",
+            "display": "twitter.com/mtschak/status…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Berliner #ADAC und AfD gegen #PopupBikelanes: https://t.co/a4SLLXlEVU\nJetzt ADAC-Mitgliedschaft kündigen! Unten ein schönes Kündigungsschreiben. Pannenservice ohne reaktionäre Autolobby bietet z.B. der ökologische Verkehrsclub @VCDeV: https://t.co/aVLr7wFHi5",
+            "display_text_range": [
+                0,
+                258
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ADAC",
+                        "indices": [
+                            9,
+                            14
+                        ]
+                    },
+                    {
+                        "text": "PopupBikelanes",
+                        "indices": [
+                            29,
+                            44
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/a4SLLXlEVU",
+                        "expanded_url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Verkehrswende-im-Zeitraffer-Streit-um-Corona-Radwege-article21735257.html",
+                        "display_url": "n-tv.de/regionales/ber…",
+                        "indices": [
+                            46,
+                            69
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/aVLr7wFHi5",
+                        "expanded_url": "https://www.vcd-service.de/die-produktpalette/oeko-schutzbrief/",
+                        "display_url": "vcd-service.de/die-produktpal…",
+                        "indices": [
+                            235,
+                            258
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "VCDeV",
+                        "name": "VCD",
+                        "id": 285054185,
+                        "id_str": "285054185",
+                        "indices": [
+                            227,
+                            233
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "favorite_count": 4,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ADAC",
+                    "indices": [
+                        9,
+                        14
+                    ]
+                },
+                {
+                    "text": "PopupBikelanes",
+                    "indices": [
+                        29,
+                        44
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/a4SLLXlEVU",
+                    "expanded_url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Verkehrswende-im-Zeitraffer-Streit-um-Corona-Radwege-article21735257.html",
+                    "display_url": "n-tv.de/regionales/ber…",
+                    "indices": [
+                        46,
+                        69
+                    ]
+                },
+                {
+                    "url": "https://t.co/LiyWSyQq4C",
+                    "expanded_url": "https://twitter.com/i/web/status/1253997888058920960",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1253707924783980544,
+    "quoted_status_id_str": "1253707924783980544",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 15:30:36 +0000 2020",
+        "id": 1253707924783980544,
+        "id_str": "1253707924783980544",
+        "text": "Meine ⁦@ADAC⁩ Kündigung wegen deren ablehnender Haltung zu den #PopupBikelanes in #Berlin.\nEine gute Radinfrastrukt… https://t.co/vfcd8tCEnI",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 966967810864943109,
+            "id_str": "966967810864943109",
+            "name": "Mirja T.",
+            "screen_name": "mtschak",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 13,
+            "friends_count": 128,
+            "listed_count": 0,
+            "favourites_count": 2888,
+            "statuses_count": 706,
+            "created_at": "Fri Feb 23 09:27:46 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1020051502851817477/8Ep7PSKH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020051502851817477/8Ep7PSKH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/966967810864943109/1532034207",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Meine ⁦@ADAC⁩ Kündigung wegen deren ablehnender Haltung zu den #PopupBikelanes in #Berlin.\nEine gute Radinfrastruktur ist im Interesse Aller – auch der Autofahrer.\n\n⁦@ADFC_Berlin⁩ ⁦@MonikaHerrmann1⁩ ⁦@RegineGuenther⁩ https://t.co/GSRlXaz3og",
+            "display_text_range": [
+                0,
+                216
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "PopupBikelanes",
+                        "indices": [
+                            63,
+                            78
+                        ]
+                    },
+                    {
+                        "text": "Berlin",
+                        "indices": [
+                            82,
+                            89
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ADAC",
+                        "name": "ADAC",
+                        "id": 161234186,
+                        "id_str": "161234186",
+                        "indices": [
+                            7,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "ADFC_Berlin",
+                        "name": "ADFC Berlin e.V.",
+                        "id": 370312537,
+                        "id_str": "370312537",
+                        "indices": [
+                            166,
+                            178
+                        ]
+                    },
+                    {
+                        "screen_name": "MonikaHerrmann1",
+                        "name": "Monika Herrmann",
+                        "id": 399900593,
+                        "id_str": "399900593",
+                        "indices": [
+                            181,
+                            197
+                        ]
+                    },
+                    {
+                        "screen_name": "RegineGuenther",
+                        "name": "Regine Günther",
+                        "id": 335887533,
+                        "id_str": "335887533",
+                        "indices": [
+                            200,
+                            215
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253707902306656256,
+                        "id_str": "1253707902306656256",
+                        "indices": [
+                            217,
+                            240
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWYQsdkWoAAM--r.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWYQsdkWoAAM--r.jpg",
+                        "url": "https://t.co/GSRlXaz3og",
+                        "display_url": "pic.twitter.com/GSRlXaz3og",
+                        "expanded_url": "https://twitter.com/mtschak/status/1253707924783980544/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 536,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 661,
+                                "h": 838,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 661,
+                                "h": 838,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253707902306656256,
+                        "id_str": "1253707902306656256",
+                        "indices": [
+                            217,
+                            240
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWYQsdkWoAAM--r.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWYQsdkWoAAM--r.jpg",
+                        "url": "https://t.co/GSRlXaz3og",
+                        "display_url": "pic.twitter.com/GSRlXaz3og",
+                        "expanded_url": "https://twitter.com/mtschak/status/1253707924783980544/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 536,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 661,
+                                "h": 838,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 661,
+                                "h": 838,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 11,
+        "reply_count": 8,
+        "retweet_count": 50,
+        "favorite_count": 306,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "PopupBikelanes",
+                    "indices": [
+                        63,
+                        78
+                    ]
+                },
+                {
+                    "text": "Berlin",
+                    "indices": [
+                        82,
+                        89
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vfcd8tCEnI",
+                    "expanded_url": "https://twitter.com/i/web/status/1253707924783980544",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "ADAC",
+                    "name": "ADAC",
+                    "id": 161234186,
+                    "id_str": "161234186",
+                    "indices": [
+                        7,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/cIPt0uQNxB",
+        "expanded": "https://twitter.com/mtschak/status/1253707924783980544",
+        "display": "twitter.com/mtschak/status…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ADAC",
+                "indices": [
+                    29,
+                    34
+                ]
+            },
+            {
+                "text": "PopupBikelanes",
+                "indices": [
+                    49,
+                    64
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/a4SLLXlEVU",
+                "expanded_url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Verkehrswende-im-Zeitraffer-Streit-um-Corona-Radwege-article21735257.html",
+                "display_url": "n-tv.de/regionales/ber…",
+                "indices": [
+                    66,
+                    89
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CargoBikeJetzt",
+                "name": "Arne Behrensen",
+                "id": 3521114295,
+                "id_str": "3521114295",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820857076"
+}

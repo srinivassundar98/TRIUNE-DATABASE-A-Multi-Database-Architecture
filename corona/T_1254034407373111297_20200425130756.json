@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 13:07:56 +0000 2020",
+    "id": 1254034407373111297,
+    "id_str": "1254034407373111297",
+    "text": "@lquispel @jasperklapwijk @AlfredAlfred009 @vrij_nederland Wil niet zeggen dat het in NL kan (privacy etc) en dat h… https://t.co/fWANw5wlGA",
+    "display_text_range": [
+        59,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254025977132351488,
+    "in_reply_to_status_id_str": "1254025977132351488",
+    "in_reply_to_user_id": 47329223,
+    "in_reply_to_user_id_str": "47329223",
+    "in_reply_to_screen_name": "lquispel",
+    "user": {
+        "id": 744564339668033536,
+        "id_str": "744564339668033536",
+        "name": "Arjan de Groot",
+        "screen_name": "adegraat",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 216,
+        "friends_count": 190,
+        "listed_count": 1,
+        "favourites_count": 15526,
+        "statuses_count": 27396,
+        "created_at": "Sun Jun 19 16:15:46 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@lquispel @jasperklapwijk @AlfredAlfred009 @vrij_nederland Wil niet zeggen dat het in NL kan (privacy etc) en dat het bij corona werkt. In taiwan werkte dit inderdaad goed....gehoorzame mensen,geen privacy issue etc.",
+        "display_text_range": [
+            59,
+            216
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "lquispel",
+                    "name": "Lennart Quispel",
+                    "id": 47329223,
+                    "id_str": "47329223",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "jasperklapwijk",
+                    "name": "Jasper Klapwijk",
+                    "id": 14764733,
+                    "id_str": "14764733",
+                    "indices": [
+                        10,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "AlfredAlfred009",
+                    "name": "Alfred Nobel 🥽😷🇳🇱",
+                    "id": 936388816746754048,
+                    "id_str": "936388816746754048",
+                    "indices": [
+                        26,
+                        42
+                    ]
+                },
+                {
+                    "screen_name": "vrij_nederland",
+                    "name": "Vrij Nederland",
+                    "id": 42607069,
+                    "id_str": "42607069",
+                    "indices": [
+                        43,
+                        58
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/fWANw5wlGA",
+                "expanded_url": "https://twitter.com/i/web/status/1254034407373111297",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "lquispel",
+                "name": "Lennart Quispel",
+                "id": 47329223,
+                "id_str": "47329223",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "jasperklapwijk",
+                "name": "Jasper Klapwijk",
+                "id": 14764733,
+                "id_str": "14764733",
+                "indices": [
+                    10,
+                    25
+                ]
+            },
+            {
+                "screen_name": "AlfredAlfred009",
+                "name": "Alfred Nobel 🥽😷🇳🇱",
+                "id": 936388816746754048,
+                "id_str": "936388816746754048",
+                "indices": [
+                    26,
+                    42
+                ]
+            },
+            {
+                "screen_name": "vrij_nederland",
+                "name": "Vrij Nederland",
+                "id": 42607069,
+                "id_str": "42607069",
+                "indices": [
+                    43,
+                    58
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587820076207"
+}

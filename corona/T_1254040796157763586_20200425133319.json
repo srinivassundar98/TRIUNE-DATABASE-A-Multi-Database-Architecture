@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 13:33:19 +0000 2020",
+    "id": 1254040796157763586,
+    "id_str": "1254040796157763586",
+    "text": "@ManMundra @ShekharGupta @jyotiyadaav Sir mujhe lagata hai jb sb corona se Bach jate ispe kar lete behas \nAbhi pata… https://t.co/9UMqnqyhqO",
+    "display_text_range": [
+        38,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254040160687226880,
+    "in_reply_to_status_id_str": "1254040160687226880",
+    "in_reply_to_user_id": 22355311,
+    "in_reply_to_user_id_str": "22355311",
+    "in_reply_to_screen_name": "ManMundra",
+    "user": {
+        "id": 866072724,
+        "id_str": "866072724",
+        "name": "Atul Pandey🇮🇳 🌳",
+        "screen_name": "AtulPandey0009",
+        "location": "INDIA",
+        "url": "http://www.facebook.com/Garbagetogreenage",
+        "description": "Social Activist🇮🇳Founder : Atulya Shuruaat “Garb-age to Green-Age” A step towards Greenage . Save Nature🌳Save Nation🇮🇳Jai Hind 🇮🇳 Instagram @atulya_photo",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 202,
+        "friends_count": 578,
+        "listed_count": 1,
+        "favourites_count": 12138,
+        "statuses_count": 3163,
+        "created_at": "Sun Oct 07 09:57:01 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/952963659944288256/gvqo7_iF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/952963659944288256/gvqo7_iF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/866072724/1529414806",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ManMundra @ShekharGupta @jyotiyadaav Sir mujhe lagata hai jb sb corona se Bach jate ispe kar lete behas \nAbhi pata nhi kya hoga ye war kab khtm hoga ? \nYa Bs rajneeti chalti rahegi ?",
+        "display_text_range": [
+            38,
+            183
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ManMundra",
+                    "name": "Manish Mundra",
+                    "id": 22355311,
+                    "id_str": "22355311",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "ShekharGupta",
+                    "name": "Shekhar Gupta",
+                    "id": 2574072036,
+                    "id_str": "2574072036",
+                    "indices": [
+                        11,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "jyotiyadaav",
+                    "name": "Jyoti Yadav",
+                    "id": 761389837085585408,
+                    "id_str": "761389837085585408",
+                    "indices": [
+                        25,
+                        37
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/9UMqnqyhqO",
+                "expanded_url": "https://twitter.com/i/web/status/1254040796157763586",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ManMundra",
+                "name": "Manish Mundra",
+                "id": 22355311,
+                "id_str": "22355311",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "ShekharGupta",
+                "name": "Shekhar Gupta",
+                "id": 2574072036,
+                "id_str": "2574072036",
+                "indices": [
+                    11,
+                    24
+                ]
+            },
+            {
+                "screen_name": "jyotiyadaav",
+                "name": "Jyoti Yadav",
+                "id": 761389837085585408,
+                "id_str": "761389837085585408",
+                "indices": [
+                    25,
+                    37
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587821599412"
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat Apr 25 14:43:28 +0000 2020",
+    "id": 1254058450453233664,
+    "id_str": "1254058450453233664",
+    "text": "@JANCON16 @Karsten_Heyde https://t.co/jQiEYejTbV",
+    "display_text_range": [
+        25,
+        48
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254056096773390337,
+    "in_reply_to_status_id_str": "1254056096773390337",
+    "in_reply_to_user_id": 1234067940833710080,
+    "in_reply_to_user_id_str": "1234067940833710080",
+    "in_reply_to_screen_name": "JANCON16",
+    "user": {
+        "id": 1250446367014752257,
+        "id_str": "1250446367014752257",
+        "name": "Spahnmerkel",
+        "screen_name": "MerkelSpahn",
+        "location": null,
+        "url": "https://coronadeu.wordpress.com/",
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 26,
+        "listed_count": 0,
+        "favourites_count": 1,
+        "statuses_count": 107,
+        "created_at": "Wed Apr 15 15:31:00 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250446773715456001/ACtkKUet_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250446773715456001/ACtkKUet_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250446367014752257/1586969238",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/jQiEYejTbV",
+                "expanded_url": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KuYAq_0QK55DKAPahbiPqaVwcs2rtZo81fkTgkjDE9Y&font=Abril-DroidSans&lang=de&start_at_end=true&hash_bookmark=true&initial_zoom=1&height=650#event-the-corona-times",
+                "display_url": "cdn.knightlab.com/libs/timeline3…",
+                "indices": [
+                    25,
+                    48
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "JANCON16",
+                "name": "JANCON Janzen Consulting",
+                "id": 1234067940833710080,
+                "id_str": "1234067940833710080",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "Karsten_Heyde",
+                "name": "Karsten Heyde",
+                "id": 1143462450,
+                "id_str": "1143462450",
+                "indices": [
+                    10,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587825808524"
+}

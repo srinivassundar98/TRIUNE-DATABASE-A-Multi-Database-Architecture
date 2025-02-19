@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:44:49 +0000 2020",
+    "id": 1254058789164253196,
+    "id_str": "1254058789164253196",
+    "text": "@groeschc @energisch_ Seit Jahren agitiere ich für lokale Währungen um den regionalen Handel zu stärken, indem das… https://t.co/0uCbDSy6o7",
+    "display_text_range": [
+        22,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254056277950574593,
+    "in_reply_to_status_id_str": "1254056277950574593",
+    "in_reply_to_user_id": 2452774089,
+    "in_reply_to_user_id_str": "2452774089",
+    "in_reply_to_screen_name": "groeschc",
+    "user": {
+        "id": 564787863,
+        "id_str": "564787863",
+        "name": "Abri",
+        "screen_name": "vitalyenbroder",
+        "location": null,
+        "url": null,
+        "description": "pirat, vet, software entwickler",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 101,
+        "friends_count": 411,
+        "listed_count": 4,
+        "favourites_count": 469,
+        "statuses_count": 2435,
+        "created_at": "Fri Apr 27 15:39:19 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "93F0C3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2172184552/PassbildNeu_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2172184552/PassbildNeu_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/564787863/1404833043",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@groeschc @energisch_ Seit Jahren agitiere ich für lokale Währungen um den regionalen Handel zu stärken, indem das Bewußtsein für den Abfluss von Geld aus der lokalen Wirtschaft geschärft wird. Corona macht's möglich! 1++",
+        "display_text_range": [
+            22,
+            221
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "groeschc",
+                    "name": "Christian Gröschel(🏥)",
+                    "id": 2452774089,
+                    "id_str": "2452774089",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "energisch_",
+                    "name": "🚴‍♀️💨 Mensch, Marina 💃🌍🐉🌳",
+                    "id": 192188683,
+                    "id_str": "192188683",
+                    "indices": [
+                        10,
+                        21
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/0uCbDSy6o7",
+                "expanded_url": "https://twitter.com/i/web/status/1254058789164253196",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "groeschc",
+                "name": "Christian Gröschel(🏥)",
+                "id": 2452774089,
+                "id_str": "2452774089",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "energisch_",
+                "name": "🚴‍♀️💨 Mensch, Marina 💃🌍🐉🌳",
+                "id": 192188683,
+                "id_str": "192188683",
+                "indices": [
+                    10,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587825889279"
+}

@@ -1,0 +1,96 @@
+{
+    "created_at": "Sat Apr 25 13:12:31 +0000 2020",
+    "id": 1254035563491012609,
+    "id_str": "1254035563491012609",
+    "text": "@BILD https://t.co/DCaqX8n3nV",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 9204502,
+    "in_reply_to_user_id_str": "9204502",
+    "in_reply_to_screen_name": "BILD",
+    "user": {
+        "id": 47602140,
+        "id_str": "47602140",
+        "name": "Ralf Schuler",
+        "screen_name": "drumheadberlin",
+        "location": "Berlin",
+        "url": "http://ralfschuler.wordpress.com",
+        "description": "Leiter BILD-Parlamentsbüro, Buchautor: „Lasst uns Populisten sein“ (Herder), Heavy Metal Fan",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 16277,
+        "friends_count": 2089,
+        "listed_count": 224,
+        "favourites_count": 6673,
+        "statuses_count": 72719,
+        "created_at": "Tue Jun 16 11:31:04 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000645447218/e14e951ec7a6ee62eaad30abac409e9e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000645447218/e14e951ec7a6ee62eaad30abac409e9e_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47602140/1465981421",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/DCaqX8n3nV",
+                "expanded_url": "https://www.bild.de/video/clip/news/alfred-draxler-zu-corona-hilfen-es-ist-unser-aller-geld-70267702-70268504.bild.html",
+                "display_url": "bild.de/video/clip/new…",
+                "indices": [
+                    6,
+                    29
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "BILD",
+                "name": "BILD",
+                "id": 9204502,
+                "id_str": "9204502",
+                "indices": [
+                    0,
+                    5
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587820351847"
+}

@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:00:52 +0000 2020",
+    "id": 1254032631647395841,
+    "id_str": "1254032631647395841",
+    "text": "@Viniciustrem2 @NegodoBorel Corona vírus",
+    "display_text_range": [
+        28,
+        40
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1234707538093989888,
+    "in_reply_to_status_id_str": "1234707538093989888",
+    "in_reply_to_user_id": 772304887115767810,
+    "in_reply_to_user_id_str": "772304887115767810",
+    "in_reply_to_screen_name": "Viniciustrem2",
+    "user": {
+        "id": 3434619633,
+        "id_str": "3434619633",
+        "name": "desgovernada",
+        "screen_name": "justploc",
+        "location": "Rio de Janeiro, Brasil",
+        "url": null,
+        "description": "aquela que anda de Vans",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 192,
+        "friends_count": 216,
+        "listed_count": 7,
+        "favourites_count": 16919,
+        "statuses_count": 12460,
+        "created_at": "Fri Aug 21 20:48:23 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243297638935658496/Y4-iyT3Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243297638935658496/Y4-iyT3Y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3434619633/1471834277",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Viniciustrem2",
+                "name": "VN✠ ᶜʳᵛᵍ ¹⁸⁹⁸",
+                "id": 772304887115767810,
+                "id_str": "772304887115767810",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "NegodoBorel",
+                "name": "Nego do Borel",
+                "id": 3307539431,
+                "id_str": "3307539431",
+                "indices": [
+                    15,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587819652841"
+}

@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat Apr 25 12:51:46 +0000 2020",
+    "id": 1254030341863378945,
+    "id_str": "1254030341863378945",
+    "text": "But it’s become one.  Thank you ⁦@RichLowry. #Reopen #ReopenAmericaNow  https://t.co/j5lyMQm1pO",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1869682099,
+        "id_str": "1869682099",
+        "name": "Susan Jones",
+        "screen_name": "JonesSmj8",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 15,
+        "friends_count": 97,
+        "listed_count": 0,
+        "favourites_count": 183,
+        "statuses_count": 199,
+        "created_at": "Mon Sep 16 00:15:04 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Reopen",
+                "indices": [
+                    45,
+                    52
+                ]
+            },
+            {
+                "text": "ReopenAmericaNow",
+                "indices": [
+                    53,
+                    70
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/j5lyMQm1pO",
+                "expanded_url": "https://www.nationalreview.com/2020/04/coronavirus-restrictions-identical-lockdowns-not-needed-everywhere/",
+                "display_url": "nationalreview.com/2020/04/corona…",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RichLowry",
+                "name": "Rich Lowry",
+                "id": 40116885,
+                "id_str": "40116885",
+                "indices": [
+                    33,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819106914"
+}

@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 14:01:48 +0000 2020",
+    "id": 1254047963665649665,
+    "id_str": "1254047963665649665",
+    "text": "Corona: overledene in Oude IJsselstreek\nhttps://t.co/kLKSovaMed https://t.co/Y2f7jdHsan",
+    "display_text_range": [
+        0,
+        63
+    ],
+    "source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 114221432,
+        "id_str": "114221432",
+        "name": "De Gelderlander",
+        "screen_name": "dgachterhoek",
+        "location": "Achterhoek",
+        "url": "http://dg.nl/achterhoek",
+        "description": "Het officiële Twitteraccount van editie Achterhoek, met het laatste nieuws uit de regio. Tips? Bel 088-0133451 of mail redactie.achterhoek@gelderlander.nl",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 16598,
+        "friends_count": 579,
+        "listed_count": 197,
+        "favourites_count": 16,
+        "statuses_count": 56308,
+        "created_at": "Sun Feb 14 15:56:31 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "DC2906",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "DC2906",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F8F8F8",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/730670670217019392/Iz4J3SWR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/730670670217019392/Iz4J3SWR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114221432/1476958589",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/kLKSovaMed",
+                "expanded_url": "https://www.gelderlander.nl/oude-ijsselstreek/corona-overledene-in-oude-ijsselstreek~acc7a50f/",
+                "display_url": "gelderlander.nl/oude-ijsselstr…",
+                "indices": [
+                    40,
+                    63
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254047961325191171,
+                "id_str": "1254047961325191171",
+                "indices": [
+                    64,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdF-gIXQAMUV67.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdF-gIXQAMUV67.jpg",
+                "url": "https://t.co/Y2f7jdHsan",
+                "display_url": "pic.twitter.com/Y2f7jdHsan",
+                "expanded_url": "https://twitter.com/dgachterhoek/status/1254047963665649665/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 267,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 267,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 267,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254047961325191171,
+                "id_str": "1254047961325191171",
+                "indices": [
+                    64,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdF-gIXQAMUV67.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdF-gIXQAMUV67.jpg",
+                "url": "https://t.co/Y2f7jdHsan",
+                "display_url": "pic.twitter.com/Y2f7jdHsan",
+                "expanded_url": "https://twitter.com/dgachterhoek/status/1254047963665649665/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 400,
+                        "h": 267,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 267,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 267,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587823308279"
+}

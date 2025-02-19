@@ -1,0 +1,189 @@
+{
+    "created_at": "Sat Apr 25 13:53:07 +0000 2020",
+    "id": 1254045779775258624,
+    "id_str": "1254045779775258624",
+    "text": "Corona cepatlah berlalu biar hidup ini normal kembali. Mau nongkrong satu wilayah aja jadi pada takut https://t.co/8SHEEdrMFP",
+    "display_text_range": [
+        0,
+        101
+    ],
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 386546292,
+        "id_str": "386546292",
+        "name": "Dimas Faris Putra",
+        "screen_name": "Dmsfaris",
+        "location": "Indonesia Tanah Airku",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 575,
+        "friends_count": 745,
+        "listed_count": 2,
+        "favourites_count": 406,
+        "statuses_count": 99160,
+        "created_at": "Fri Oct 07 13:35:14 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "8E6D86",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "2905F5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "8D90BC",
+        "profile_text_color": "C1B3D4",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251443839019044865/XQgoxqJz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251443839019044865/XQgoxqJz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/386546292/1547372916",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "31e4594e7a7e7e89",
+        "url": "https://api.twitter.com/1.1/geo/id/31e4594e7a7e7e89.json",
+        "place_type": "city",
+        "name": "Pasar Rebo",
+        "full_name": "Pasar Rebo, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.846827,
+                        -6.362875
+                    ],
+                    [
+                        106.846827,
+                        -6.293758
+                    ],
+                    [
+                        106.884533,
+                        -6.293758
+                    ],
+                    [
+                        106.884533,
+                        -6.362875
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254045747177127938,
+                "id_str": "1254045747177127938",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdD9nyVAAI0O62.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWdD9nyVAAI0O62.png",
+                "url": "https://t.co/8SHEEdrMFP",
+                "display_url": "pic.twitter.com/8SHEEdrMFP",
+                "expanded_url": "https://twitter.com/Dmsfaris/status/1254045779775258624/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 421,
+                        "h": 421,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 421,
+                        "h": 421,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 421,
+                        "h": 421,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254045747177127938,
+                "id_str": "1254045747177127938",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdD9nyVAAI0O62.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWdD9nyVAAI0O62.png",
+                "url": "https://t.co/8SHEEdrMFP",
+                "display_url": "pic.twitter.com/8SHEEdrMFP",
+                "expanded_url": "https://twitter.com/Dmsfaris/status/1254045779775258624/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 421,
+                        "h": 421,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 421,
+                        "h": 421,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 421,
+                        "h": 421,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822787599"
+}

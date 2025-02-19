@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Apr 25 14:07:34 +0000 2020",
+    "id": 1254049415377149952,
+    "id_str": "1254049415377149952",
+    "text": "Corona vírus na tv , politica no tt .\n 🤯🤯🤯🤯🤯 puta merda",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 889336365514665984,
+        "id_str": "889336365514665984",
+        "name": "Savio Hirata",
+        "screen_name": "SavioHirata",
+        "location": "Campinas, Brasil",
+        "url": null,
+        "description": "quem conhece sabe...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 279,
+        "friends_count": 439,
+        "listed_count": 0,
+        "favourites_count": 1805,
+        "statuses_count": 490,
+        "created_at": "Mon Jul 24 04:08:07 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075085941579149314/Xla26ESI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075085941579149314/Xla26ESI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/889336365514665984/1564707553",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0933c11f6b472a2b",
+        "url": "https://api.twitter.com/1.1/geo/id/0933c11f6b472a2b.json",
+        "place_type": "city",
+        "name": "Campinas",
+        "full_name": "Campinas, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -47.245049,
+                        -23.06071
+                    ],
+                    [
+                        -47.245049,
+                        -22.729279
+                    ],
+                    [
+                        -46.815387,
+                        -22.729279
+                    ],
+                    [
+                        -46.815387,
+                        -23.06071
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587823654394"
+}

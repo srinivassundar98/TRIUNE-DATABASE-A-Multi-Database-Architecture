@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:52:36 +0000 2020",
+    "id": 1254030548730855430,
+    "id_str": "1254030548730855430",
+    "text": "@imraajeev stay home stay safe ghar me rahega india tabhi to corona free hoga india https://t.co/dSMbZpfuFd",
+    "display_text_range": [
+        11,
+        107
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253953414968619009,
+    "in_reply_to_status_id_str": "1253953414968619009",
+    "in_reply_to_user_id": 455214576,
+    "in_reply_to_user_id_str": "455214576",
+    "in_reply_to_screen_name": "imraajeev",
+    "user": {
+        "id": 1253359505863315456,
+        "id_str": "1253359505863315456",
+        "name": "Naureen",
+        "screen_name": "Naureen63308706",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 19,
+        "listed_count": 0,
+        "favourites_count": 1,
+        "statuses_count": 69,
+        "created_at": "Thu Apr 23 16:26:28 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253360137919770625/mxaQ1pde_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253360137919770625/mxaQ1pde_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/dSMbZpfuFd",
+                "expanded_url": "https://thewire.in/government/kalaburagi-chariot-pulling-covid-19-lockdown-violation",
+                "display_url": "thewire.in/government/kal…",
+                "indices": [
+                    84,
+                    107
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "imraajeev",
+                "name": "Rajeev Singh Rathore",
+                "id": 455214576,
+                "id_str": "455214576",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819156235"
+}

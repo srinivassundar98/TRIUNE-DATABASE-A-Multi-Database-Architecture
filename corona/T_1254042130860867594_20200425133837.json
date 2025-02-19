@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 13:38:37 +0000 2020",
+    "id": 1254042130860867594,
+    "id_str": "1254042130860867594",
+    "text": "@realDonaldTrump bu adam ABD başkanı ve Corona virüs için dezenfekte maddelerini içmeli insanlar diyor hayatımda gö… https://t.co/XzvdAOzRgW",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "user": {
+        "id": 217584458,
+        "id_str": "217584458",
+        "name": "Fatih Taş",
+        "screen_name": "FatihTas35",
+        "location": "İzmir, Türkiye",
+        "url": null,
+        "description": "Türkiye Sevdalısı 🇹🇷",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 177,
+        "friends_count": 1461,
+        "listed_count": 0,
+        "favourites_count": 1560,
+        "statuses_count": 1081,
+        "created_at": "Fri Nov 19 22:58:12 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121494467616354304/32v703gp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121494467616354304/32v703gp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217584458/1585398827",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0184147101a98fcf",
+        "url": "https://api.twitter.com/1.1/geo/id/0184147101a98fcf.json",
+        "place_type": "city",
+        "name": "İzmir",
+        "full_name": "İzmir, Türkiye",
+        "country_code": "TR",
+        "country": "Turkey",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        26.723167,
+                        38.283203
+                    ],
+                    [
+                        26.723167,
+                        38.532658
+                    ],
+                    [
+                        27.289855,
+                        38.532658
+                    ],
+                    [
+                        27.289855,
+                        38.283203
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@realDonaldTrump bu adam ABD başkanı ve Corona virüs için dezenfekte maddelerini içmeli insanlar diyor hayatımda gördüğüm en aptal Başkan !! Nerelere kaldık 🤷‍♂️🤦‍♂️😂",
+        "display_text_range": [
+            0,
+            166
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/XzvdAOzRgW",
+                "expanded_url": "https://twitter.com/i/web/status/1254042130860867594",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587821917630"
+}

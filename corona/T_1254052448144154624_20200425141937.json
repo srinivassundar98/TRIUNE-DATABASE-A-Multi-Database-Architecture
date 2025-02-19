@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:19:37 +0000 2020",
+    "id": 1254052448144154624,
+    "id_str": "1254052448144154624",
+    "text": "@IvankaTrump @realDonaldTrump I sincerely hope your entire family is following your father's Corona-virus medical advice.",
+    "display_text_range": [
+        30,
+        121
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253764455185481729,
+    "in_reply_to_status_id_str": "1253764455185481729",
+    "in_reply_to_user_id": 52544275,
+    "in_reply_to_user_id_str": "52544275",
+    "in_reply_to_screen_name": "IvankaTrump",
+    "user": {
+        "id": 59901303,
+        "id_str": "59901303",
+        "name": "Dr. Funkenstein",
+        "screen_name": "mrkyll",
+        "location": null,
+        "url": null,
+        "description": "If we’re mutual fans of a sports team, thanks and I look forward to our discussions. But I am 100% Team “Fuck Donald Trump”.  Let’s be clear on that! 👍🏾",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 880,
+        "friends_count": 1751,
+        "listed_count": 12,
+        "favourites_count": 31632,
+        "statuses_count": 47498,
+        "created_at": "Fri Jul 24 22:05:29 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109020287696293890/Hps4WHus_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109020287696293890/Hps4WHus_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/59901303/1553247532",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "IvankaTrump",
+                "name": "Ivanka Trump",
+                "id": 52544275,
+                "id_str": "52544275",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    13,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824377462"
+}

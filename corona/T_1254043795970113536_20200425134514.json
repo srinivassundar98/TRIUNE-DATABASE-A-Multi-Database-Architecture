@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:45:14 +0000 2020",
+    "id": 1254043795970113536,
+    "id_str": "1254043795970113536",
+    "text": "@peribiruuuu @ntsana_ udah di level pengen ketemu corona",
+    "display_text_range": [
+        22,
+        56
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254037545135960064,
+    "in_reply_to_status_id_str": "1254037545135960064",
+    "in_reply_to_user_id": 1137175619173736448,
+    "in_reply_to_user_id_str": "1137175619173736448",
+    "in_reply_to_screen_name": "peribiruuuu",
+    "user": {
+        "id": 3238688520,
+        "id_str": "3238688520",
+        "name": "alfa",
+        "screen_name": "fckinastronaut",
+        "location": "Indonesia",
+        "url": null,
+        "description": "ini akun kecil",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 254,
+        "friends_count": 265,
+        "listed_count": 0,
+        "favourites_count": 380,
+        "statuses_count": 1994,
+        "created_at": "Sun Jun 07 10:23:35 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254014359639961602/OwhlHhBl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254014359639961602/OwhlHhBl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3238688520/1587189393",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "peribiruuuu",
+                "name": "jian",
+                "id": 1137175619173736448,
+                "id_str": "1137175619173736448",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "ntsana_",
+                "name": "🕳",
+                "id": 124696652,
+                "id_str": "124696652",
+                "indices": [
+                    13,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822314623"
+}

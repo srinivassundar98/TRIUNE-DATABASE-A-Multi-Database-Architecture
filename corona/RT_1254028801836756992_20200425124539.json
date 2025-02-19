@@ -1,0 +1,836 @@
+{
+    "created_at": "Sat Apr 25 12:45:39 +0000 2020",
+    "id": 1254028801836756992,
+    "id_str": "1254028801836756992",
+    "text": "RT @AniketP39327560: #NiteshHelpKota",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1254004600476176384,
+        "id_str": "1254004600476176384",
+        "name": "MdRahamatulla Khan",
+        "screen_name": "MdRahamatullaK5",
+        "location": "कोटा, भारत",
+        "url": null,
+        "description": "🎤Voice of youth. Neet aspirant. Inspire to vivekananda, apj, netaji subhash chandra bose, Bhagat Singh.....",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 29,
+        "listed_count": 0,
+        "favourites_count": 3,
+        "statuses_count": 1,
+        "created_at": "Sat Apr 25 11:09:41 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254024454683975680/Ab--vwhp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254024454683975680/Ab--vwhp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254004600476176384/1587813349",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Mon Apr 20 12:45:36 +0000 2020",
+        "id": 1252216850332573698,
+        "id_str": "1252216850332573698",
+        "text": "#NiteshHelpKota",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1250130847677550592,
+            "id_str": "1250130847677550592",
+            "name": "AniketPandey",
+            "screen_name": "AniketP39327560",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 15,
+            "friends_count": 36,
+            "listed_count": 0,
+            "favourites_count": 188,
+            "statuses_count": 39,
+            "created_at": "Tue Apr 14 18:36:47 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251595543589146630/oiP6i9fV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251595543589146630/oiP6i9fV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250130847677550592/1587811364",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "5bf2bd72e6a63541",
+            "url": "https://api.twitter.com/1.1/geo/id/5bf2bd72e6a63541.json",
+            "place_type": "city",
+            "name": "Kota",
+            "full_name": "Kota, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75.623599,
+                            24.768468
+                        ],
+                        [
+                            75.623599,
+                            25.2755
+                        ],
+                        [
+                            76.095887,
+                            25.2755
+                        ],
+                        [
+                            76.095887,
+                            24.768468
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1252165280127565829,
+        "quoted_status_id_str": "1252165280127565829",
+        "quoted_status": {
+            "created_at": "Mon Apr 20 09:20:41 +0000 2020",
+            "id": 1252165280127565829,
+            "id_str": "1252165280127565829",
+            "text": "Ab aur kitna rulaiyega in bacchho ko @NitishKumar \nJara sa to sharam kijiye.\nCorona kya marega .\nUsse pahle to bacc… https://t.co/T8nZbh8iOo",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1117657477275893760,
+                "id_str": "1117657477275893760",
+                "name": "◉ Hariom Singh",
+                "screen_name": "thehariomsingh",
+                "location": "Darbhanga, India",
+                "url": "https://www.instagram.com/hariominsta",
+                "description": "motionite #kota",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 8,
+                "friends_count": 33,
+                "listed_count": 0,
+                "favourites_count": 674,
+                "statuses_count": 114,
+                "created_at": "Mon Apr 15 05:14:42 +0000 2019",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1250390651755094017/1-qwoysn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250390651755094017/1-qwoysn_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117657477275893760/1571941957",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Ab aur kitna rulaiyega in bacchho ko @NitishKumar \nJara sa to sharam kijiye.\nCorona kya marega .\nUsse pahle to bacche bhukh se mar jayenge..\nJust watch this video and retweet guys.nitish chacha ko dikhao.\n@ithappensinkota #ihoik #NitishHelpKota @pappuyadavjapl @Navneet25790006 https://t.co/WeVMU7qna5",
+                "display_text_range": [
+                    0,
+                    277
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "ihoik",
+                            "indices": [
+                                222,
+                                228
+                            ]
+                        },
+                        {
+                            "text": "NitishHelpKota",
+                            "indices": [
+                                229,
+                                244
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "NitishKumar",
+                            "name": "Nitish Kumar",
+                            "id": 143409075,
+                            "id_str": "143409075",
+                            "indices": [
+                                37,
+                                49
+                            ]
+                        },
+                        {
+                            "screen_name": "ithappensinkota",
+                            "name": "It happens only In Kota",
+                            "id": 846694928977727488,
+                            "id_str": "846694928977727488",
+                            "indices": [
+                                205,
+                                221
+                            ]
+                        },
+                        {
+                            "screen_name": "pappuyadavjapl",
+                            "name": "Sewak Pappu Yadav",
+                            "id": 300787447,
+                            "id_str": "300787447",
+                            "indices": [
+                                245,
+                                260
+                            ]
+                        },
+                        {
+                            "screen_name": "Navneet25790006",
+                            "name": "Navneet Kumar",
+                            "id": 1238791455138701312,
+                            "id_str": "1238791455138701312",
+                            "indices": [
+                                261,
+                                277
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1252164875733745664,
+                            "id_str": "1252164875733745664",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252164875733745664/pu/img/Cbh-UVZMQM4XENt0.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252164875733745664/pu/img/Cbh-UVZMQM4XENt0.jpg",
+                            "url": "https://t.co/WeVMU7qna5",
+                            "display_url": "pic.twitter.com/WeVMU7qna5",
+                            "expanded_url": "https://twitter.com/thehariomsingh/status/1252165280127565829/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    9,
+                                    16
+                                ],
+                                "duration_millis": 34280,
+                                "variants": [
+                                    {
+                                        "bitrate": 632000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/320x568/9uu6iRbFcxbRObOV.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/720x1280/VqJDLtRcsHZyVGgN.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/pl/pIYRWlcY_aCX_3MR.m3u8?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/360x640/oMrnkRnJc06q2ge1.mp4?tag=10"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 383,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 675,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1252164875733745664,
+                            "id_str": "1252164875733745664",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252164875733745664/pu/img/Cbh-UVZMQM4XENt0.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252164875733745664/pu/img/Cbh-UVZMQM4XENt0.jpg",
+                            "url": "https://t.co/WeVMU7qna5",
+                            "display_url": "pic.twitter.com/WeVMU7qna5",
+                            "expanded_url": "https://twitter.com/thehariomsingh/status/1252165280127565829/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    9,
+                                    16
+                                ],
+                                "duration_millis": 34280,
+                                "variants": [
+                                    {
+                                        "bitrate": 632000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/320x568/9uu6iRbFcxbRObOV.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/720x1280/VqJDLtRcsHZyVGgN.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/pl/pIYRWlcY_aCX_3MR.m3u8?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/360x640/oMrnkRnJc06q2ge1.mp4?tag=10"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 383,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 675,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 29,
+            "reply_count": 7,
+            "retweet_count": 89,
+            "favorite_count": 98,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/T8nZbh8iOo",
+                        "expanded_url": "https://twitter.com/i/web/status/1252165280127565829",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "NitishKumar",
+                        "name": "Nitish Kumar",
+                        "id": 143409075,
+                        "id_str": "143409075",
+                        "indices": [
+                            37,
+                            49
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "hi"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/k5yC9Nz3I6",
+            "expanded": "https://twitter.com/thehariomsingh/status/1252165280127565829",
+            "display": "twitter.com/thehariomsingh…"
+        },
+        "is_quote_status": true,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 13,
+        "favorite_count": 14,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NiteshHelpKota",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "und"
+    },
+    "quoted_status_id": 1252165280127565829,
+    "quoted_status_id_str": "1252165280127565829",
+    "quoted_status": {
+        "created_at": "Mon Apr 20 09:20:41 +0000 2020",
+        "id": 1252165280127565829,
+        "id_str": "1252165280127565829",
+        "text": "Ab aur kitna rulaiyega in bacchho ko @NitishKumar \nJara sa to sharam kijiye.\nCorona kya marega .\nUsse pahle to bacc… https://t.co/T8nZbh8iOo",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1117657477275893760,
+            "id_str": "1117657477275893760",
+            "name": "◉ Hariom Singh",
+            "screen_name": "thehariomsingh",
+            "location": "Darbhanga, India",
+            "url": "https://www.instagram.com/hariominsta",
+            "description": "motionite #kota",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 8,
+            "friends_count": 33,
+            "listed_count": 0,
+            "favourites_count": 674,
+            "statuses_count": 114,
+            "created_at": "Mon Apr 15 05:14:42 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250390651755094017/1-qwoysn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250390651755094017/1-qwoysn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117657477275893760/1571941957",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Ab aur kitna rulaiyega in bacchho ko @NitishKumar \nJara sa to sharam kijiye.\nCorona kya marega .\nUsse pahle to bacche bhukh se mar jayenge..\nJust watch this video and retweet guys.nitish chacha ko dikhao.\n@ithappensinkota #ihoik #NitishHelpKota @pappuyadavjapl @Navneet25790006 https://t.co/WeVMU7qna5",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ihoik",
+                        "indices": [
+                            222,
+                            228
+                        ]
+                    },
+                    {
+                        "text": "NitishHelpKota",
+                        "indices": [
+                            229,
+                            244
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "NitishKumar",
+                        "name": "Nitish Kumar",
+                        "id": 143409075,
+                        "id_str": "143409075",
+                        "indices": [
+                            37,
+                            49
+                        ]
+                    },
+                    {
+                        "screen_name": "ithappensinkota",
+                        "name": "It happens only In Kota",
+                        "id": 846694928977727488,
+                        "id_str": "846694928977727488",
+                        "indices": [
+                            205,
+                            221
+                        ]
+                    },
+                    {
+                        "screen_name": "pappuyadavjapl",
+                        "name": "Sewak Pappu Yadav",
+                        "id": 300787447,
+                        "id_str": "300787447",
+                        "indices": [
+                            245,
+                            260
+                        ]
+                    },
+                    {
+                        "screen_name": "Navneet25790006",
+                        "name": "Navneet Kumar",
+                        "id": 1238791455138701312,
+                        "id_str": "1238791455138701312",
+                        "indices": [
+                            261,
+                            277
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1252164875733745664,
+                        "id_str": "1252164875733745664",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252164875733745664/pu/img/Cbh-UVZMQM4XENt0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252164875733745664/pu/img/Cbh-UVZMQM4XENt0.jpg",
+                        "url": "https://t.co/WeVMU7qna5",
+                        "display_url": "pic.twitter.com/WeVMU7qna5",
+                        "expanded_url": "https://twitter.com/thehariomsingh/status/1252165280127565829/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                9,
+                                16
+                            ],
+                            "duration_millis": 34280,
+                            "variants": [
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/320x568/9uu6iRbFcxbRObOV.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/720x1280/VqJDLtRcsHZyVGgN.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/pl/pIYRWlcY_aCX_3MR.m3u8?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/360x640/oMrnkRnJc06q2ge1.mp4?tag=10"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 383,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1252164875733745664,
+                        "id_str": "1252164875733745664",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252164875733745664/pu/img/Cbh-UVZMQM4XENt0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252164875733745664/pu/img/Cbh-UVZMQM4XENt0.jpg",
+                        "url": "https://t.co/WeVMU7qna5",
+                        "display_url": "pic.twitter.com/WeVMU7qna5",
+                        "expanded_url": "https://twitter.com/thehariomsingh/status/1252165280127565829/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                9,
+                                16
+                            ],
+                            "duration_millis": 34280,
+                            "variants": [
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/320x568/9uu6iRbFcxbRObOV.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/720x1280/VqJDLtRcsHZyVGgN.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/pl/pIYRWlcY_aCX_3MR.m3u8?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1252164875733745664/pu/vid/360x640/oMrnkRnJc06q2ge1.mp4?tag=10"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 383,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 29,
+        "reply_count": 7,
+        "retweet_count": 89,
+        "favorite_count": 98,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/T8nZbh8iOo",
+                    "expanded_url": "https://twitter.com/i/web/status/1252165280127565829",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "NitishKumar",
+                    "name": "Nitish Kumar",
+                    "id": 143409075,
+                    "id_str": "143409075",
+                    "indices": [
+                        37,
+                        49
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "hi"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/k5yC9Nz3I6",
+        "expanded": "https://twitter.com/thehariomsingh/status/1252165280127565829",
+        "display": "twitter.com/thehariomsingh…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "NiteshHelpKota",
+                "indices": [
+                    21,
+                    36
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AniketP39327560",
+                "name": "AniketPandey",
+                "id": 1250130847677550592,
+                "id_str": "1250130847677550592",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587818739743"
+}

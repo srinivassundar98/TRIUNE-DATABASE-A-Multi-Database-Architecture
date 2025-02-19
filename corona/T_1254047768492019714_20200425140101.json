@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:01:01 +0000 2020",
+    "id": 1254047768492019714,
+    "id_str": "1254047768492019714",
+    "text": "@superjan Letterlijk dit staat er: in het geval van het Corona virus, dan wordt een ademhalingsbeschermingsmasker (… https://t.co/IUHiwpmWau",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254047523934740482,
+    "in_reply_to_status_id_str": "1254047523934740482",
+    "in_reply_to_user_id": 47907690,
+    "in_reply_to_user_id_str": "47907690",
+    "in_reply_to_screen_name": "tjeerdbakker",
+    "user": {
+        "id": 47907690,
+        "id_str": "47907690",
+        "name": "Tjeerd Bakker",
+        "screen_name": "tjeerdbakker",
+        "location": "Utrecht, The Netherlands",
+        "url": "http://www.dotwork.nu",
+        "description": "30 // Vader van Yfke en Niene (1) // Online Marketeer // Cycling // Fixed Gear // http://dotwork.nu //",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 399,
+        "friends_count": 485,
+        "listed_count": 10,
+        "favourites_count": 364,
+        "statuses_count": 5474,
+        "created_at": "Wed Jun 17 09:23:24 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "50728F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "616161",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694485542658904064/ZS-2Kzgy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694485542658904064/ZS-2Kzgy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47907690/1586609561",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@superjan Letterlijk dit staat er: in het geval van het Corona virus, dan wordt een ademhalingsbeschermingsmasker (FFP2 of 3-masker) aanbevolen want die houdt die deeltjes wel tegen.",
+        "display_text_range": [
+            10,
+            182
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "superjan",
+                    "name": "Tweep Des Vaderlands",
+                    "id": 256654822,
+                    "id_str": "256654822",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/IUHiwpmWau",
+                "expanded_url": "https://twitter.com/i/web/status/1254047768492019714",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "superjan",
+                "name": "Tweep Des Vaderlands",
+                "id": 256654822,
+                "id_str": "256654822",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587823261746"
+}

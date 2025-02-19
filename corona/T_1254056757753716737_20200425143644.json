@@ -1,0 +1,179 @@
+{
+    "created_at": "Sat Apr 25 14:36:44 +0000 2020",
+    "id": 1254056757753716737,
+    "id_str": "1254056757753716737",
+    "text": "Saturday afternoon in the sun!! Only one thing required!! Is a corona!! #stayhome #summer #drink https://t.co/HDPzdBanf3",
+    "display_text_range": [
+        0,
+        96
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1219224792433418240,
+        "id_str": "1219224792433418240",
+        "name": "Style mummy",
+        "screen_name": "style_mummy81",
+        "location": null,
+        "url": null,
+        "description": "mum, wife, lady, shopping addict, party girl! every women from A-Z",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 32,
+        "friends_count": 92,
+        "listed_count": 0,
+        "favourites_count": 927,
+        "statuses_count": 291,
+        "created_at": "Mon Jan 20 11:47:07 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241694414579412993/ZVzrG0Y1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241694414579412993/ZVzrG0Y1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219224792433418240/1579521052",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "stayhome",
+                "indices": [
+                    72,
+                    81
+                ]
+            },
+            {
+                "text": "summer",
+                "indices": [
+                    82,
+                    89
+                ]
+            },
+            {
+                "text": "drink",
+                "indices": [
+                    90,
+                    96
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254056748513722369,
+                "id_str": "1254056748513722369",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdN9-9XgAEVhCI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdN9-9XgAEVhCI.jpg",
+                "url": "https://t.co/HDPzdBanf3",
+                "display_url": "pic.twitter.com/HDPzdBanf3",
+                "expanded_url": "https://twitter.com/style_mummy81/status/1254056757753716737/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254056748513722369,
+                "id_str": "1254056748513722369",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdN9-9XgAEVhCI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdN9-9XgAEVhCI.jpg",
+                "url": "https://t.co/HDPzdBanf3",
+                "display_url": "pic.twitter.com/HDPzdBanf3",
+                "expanded_url": "https://twitter.com/style_mummy81/status/1254056757753716737/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825404953"
+}

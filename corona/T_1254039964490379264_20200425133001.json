@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 13:30:01 +0000 2020",
+    "id": 1254039964490379264,
+    "id_str": "1254039964490379264",
+    "text": "@Kiview @Nick_Craver @ProbotTheRobot I listen to podcasts in the shower these days. Used to be news (Tagesschau) bu… https://t.co/olKiSdAeO6",
+    "display_text_range": [
+        37,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254034847108128769,
+    "in_reply_to_status_id_str": "1254034847108128769",
+    "in_reply_to_user_id": 240816489,
+    "in_reply_to_user_id_str": "240816489",
+    "in_reply_to_screen_name": "Kiview",
+    "user": {
+        "id": 91453176,
+        "id_str": "91453176",
+        "name": "Michael Arndt",
+        "screen_name": "MeneDev",
+        "location": "Dortmund, Germany",
+        "url": "https://blog.mene.dev/",
+        "description": "Stack of all trades | Software as craft | works @grandcentrix | Studied @WHPresse | Meetup nomad | ex @gdata_adan | Tweets by my social media team",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 432,
+        "friends_count": 1597,
+        "listed_count": 10,
+        "favourites_count": 24101,
+        "statuses_count": 3251,
+        "created_at": "Fri Nov 20 23:40:44 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925422226098282496/djpnBFaL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925422226098282496/djpnBFaL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/91453176/1509472528",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Kiview @Nick_Craver @ProbotTheRobot I listen to podcasts in the shower these days. Used to be news (Tagesschau) but the constant stream of corona non-news got too exhausting, so I figured I change that for something positive 😉",
+        "display_text_range": [
+            37,
+            227
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Kiview",
+                    "name": "Kevin Wittek",
+                    "id": 240816489,
+                    "id_str": "240816489",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "Nick_Craver",
+                    "name": "Nick Craver",
+                    "id": 95030839,
+                    "id_str": "95030839",
+                    "indices": [
+                        8,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "ProbotTheRobot",
+                    "name": "Probot",
+                    "id": 908384563700703232,
+                    "id_str": "908384563700703232",
+                    "indices": [
+                        21,
+                        36
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/olKiSdAeO6",
+                "expanded_url": "https://twitter.com/i/web/status/1254039964490379264",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Kiview",
+                "name": "Kevin Wittek",
+                "id": 240816489,
+                "id_str": "240816489",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "Nick_Craver",
+                "name": "Nick Craver",
+                "id": 95030839,
+                "id_str": "95030839",
+                "indices": [
+                    8,
+                    20
+                ]
+            },
+            {
+                "screen_name": "ProbotTheRobot",
+                "name": "Probot",
+                "id": 908384563700703232,
+                "id_str": "908384563700703232",
+                "indices": [
+                    21,
+                    36
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821401127"
+}

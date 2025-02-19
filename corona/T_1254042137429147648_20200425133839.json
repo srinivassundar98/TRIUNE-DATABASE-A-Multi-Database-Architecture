@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:38:39 +0000 2020",
+    "id": 1254042137429147648,
+    "id_str": "1254042137429147648",
+    "text": "@suZen @zigzagaly Yes...COrona VIrus Disease...2019",
+    "display_text_range": [
+        18,
+        51
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253850557598457856,
+    "in_reply_to_status_id_str": "1253850557598457856",
+    "in_reply_to_user_id": 1902491,
+    "in_reply_to_user_id_str": "1902491",
+    "in_reply_to_screen_name": "suZen",
+    "user": {
+        "id": 822844218066534400,
+        "id_str": "822844218066534400",
+        "name": "Beth",
+        "screen_name": "beth0713",
+        "location": "Schenectady, NY",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 142,
+        "friends_count": 275,
+        "listed_count": 1,
+        "favourites_count": 43948,
+        "statuses_count": 2451,
+        "created_at": "Sat Jan 21 16:32:04 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/838532918544904195/fmaAOjvS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/838532918544904195/fmaAOjvS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822844218066534400/1488756940",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "suZen",
+                "name": "🆂ⓤ🆉ⓔ🅽 🎨📷✏️💭🎈",
+                "id": 1902491,
+                "id_str": "1902491",
+                "indices": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "screen_name": "zigzagaly",
+                "name": "Hurricane Aly 🌊",
+                "id": 18541690,
+                "id_str": "18541690",
+                "indices": [
+                    7,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821919196"
+}

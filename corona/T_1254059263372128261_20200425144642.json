@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 14:46:42 +0000 2020",
+    "id": 1254059263372128261,
+    "id_str": "1254059263372128261",
+    "text": "Corona cepet hilang dong, w pengin main air lagi:( https://t.co/fXGOgGjKK2",
+    "display_text_range": [
+        0,
+        50
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1216682334293872640,
+        "id_str": "1216682334293872640",
+        "name": "haloo",
+        "screen_name": "edosetiyowijaya",
+        "location": null,
+        "url": null,
+        "description": "Passwordnya? Kopi Luwak gak bikin Kembung !!!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 40,
+        "friends_count": 42,
+        "listed_count": 0,
+        "favourites_count": 321,
+        "statuses_count": 468,
+        "created_at": "Mon Jan 13 11:24:17 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252602192168488960/MjoCthk5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252602192168488960/MjoCthk5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1216682334293872640/1587300062",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254059249174372352,
+                "id_str": "1254059249174372352",
+                "indices": [
+                    51,
+                    74
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdQPipU4AAakr3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdQPipU4AAakr3.jpg",
+                "url": "https://t.co/fXGOgGjKK2",
+                "display_url": "pic.twitter.com/fXGOgGjKK2",
+                "expanded_url": "https://twitter.com/edosetiyowijaya/status/1254059263372128261/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1032,
+                        "h": 774,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1032,
+                        "h": 774,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254059249174372352,
+                "id_str": "1254059249174372352",
+                "indices": [
+                    51,
+                    74
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdQPipU4AAakr3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdQPipU4AAakr3.jpg",
+                "url": "https://t.co/fXGOgGjKK2",
+                "display_url": "pic.twitter.com/fXGOgGjKK2",
+                "expanded_url": "https://twitter.com/edosetiyowijaya/status/1254059263372128261/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1032,
+                        "h": 774,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1032,
+                        "h": 774,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587826002339"
+}

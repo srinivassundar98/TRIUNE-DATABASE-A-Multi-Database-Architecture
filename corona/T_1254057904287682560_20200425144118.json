@@ -1,0 +1,172 @@
+{
+    "created_at": "Sat Apr 25 14:41:18 +0000 2020",
+    "id": 1254057904287682560,
+    "id_str": "1254057904287682560",
+    "text": "Corona Boogie Woogie #coronaart #pietmondriaan #enschede #ah #socialdistancing #forsale @ Enschede, Netherlands https://t.co/z4xtvXtb8R",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3214651,
+        "id_str": "3214651",
+        "name": "enschede a/ zee",
+        "screen_name": "enschedeaanzee",
+        "location": "iPhone: 52.221100,6.902664",
+        "url": "http://cyrilwermers.nl",
+        "description": "Editor in chief  cyrilwermers.nl",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 704,
+        "friends_count": 95,
+        "listed_count": 35,
+        "favourites_count": 26,
+        "statuses_count": 25690,
+        "created_at": "Mon Apr 02 13:53:09 +0000 2007",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F4F4F4",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "031634",
+        "profile_sidebar_border_color": "036564",
+        "profile_sidebar_fill_color": "11A8AB",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/466688761862975488/OE4RFWr2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/466688761862975488/OE4RFWr2_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3214651/1497860339",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            52.2168,
+            6.9003
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            6.9003,
+            52.2168
+        ]
+    },
+    "place": {
+        "id": "90641f413e4ded3e",
+        "url": "https://api.twitter.com/1.1/geo/id/90641f413e4ded3e.json",
+        "place_type": "city",
+        "name": "Enschede",
+        "full_name": "Enschede, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        6.755996,
+                        52.16118
+                    ],
+                    [
+                        6.755996,
+                        52.285511
+                    ],
+                    [
+                        6.981174,
+                        52.285511
+                    ],
+                    [
+                        6.981174,
+                        52.16118
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "coronaart",
+                "indices": [
+                    21,
+                    31
+                ]
+            },
+            {
+                "text": "pietmondriaan",
+                "indices": [
+                    32,
+                    46
+                ]
+            },
+            {
+                "text": "enschede",
+                "indices": [
+                    47,
+                    56
+                ]
+            },
+            {
+                "text": "ah",
+                "indices": [
+                    57,
+                    60
+                ]
+            },
+            {
+                "text": "socialdistancing",
+                "indices": [
+                    61,
+                    78
+                ]
+            },
+            {
+                "text": "forsale",
+                "indices": [
+                    79,
+                    87
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/z4xtvXtb8R",
+                "expanded_url": "https://www.instagram.com/p/B_aFXlXJ21n/?igshid=31x5jg55vodi",
+                "display_url": "instagram.com/p/B_aFXlXJ21n/…",
+                "indices": [
+                    112,
+                    135
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587825678308"
+}

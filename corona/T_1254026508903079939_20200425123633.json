@@ -1,0 +1,200 @@
+{
+    "created_at": "Sat Apr 25 12:36:33 +0000 2020",
+    "id": 1254026508903079939,
+    "id_str": "1254026508903079939",
+    "text": "Watching my favourite corona diarist @jarede. https://t.co/95gA9lEkdv",
+    "display_text_range": [
+        0,
+        45
+    ],
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2273461,
+        "id_str": "2273461",
+        "name": "Mingo Hagen",
+        "screen_name": "mjhagen",
+        "location": "Amsterdam, Netherlands",
+        "url": "https://mingo.nl",
+        "description": "CTO and web developer at e-line.nl, sound technician at tent.eu.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 486,
+        "friends_count": 486,
+        "listed_count": 36,
+        "favourites_count": 5129,
+        "statuses_count": 15667,
+        "created_at": "Mon Mar 26 08:26:24 +0000 2007",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FF0066",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250711491818467328/hICvgJOc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250711491818467328/hICvgJOc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2273461/1501945542",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0fe3c9fbc1942d50",
+        "url": "https://api.twitter.com/1.1/geo/id/0fe3c9fbc1942d50.json",
+        "place_type": "neighborhood",
+        "name": "Transvaalbuurt",
+        "full_name": "Transvaalbuurt, Amsterdam",
+        "country_code": "NL",
+        "country": "The Netherlands",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        4.914623,
+                        52.349999
+                    ],
+                    [
+                        4.914623,
+                        52.357882
+                    ],
+                    [
+                        4.92823,
+                        52.357882
+                    ],
+                    [
+                        4.92823,
+                        52.349999
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "jarede",
+                "name": "Jared Evans",
+                "id": 9878392,
+                "id_str": "9878392",
+                "indices": [
+                    37,
+                    44
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254026504536760322,
+                "id_str": "1254026504536760322",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcydjXWoAI37Ps.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcydjXWoAI37Ps.jpg",
+                "url": "https://t.co/95gA9lEkdv",
+                "display_url": "pic.twitter.com/95gA9lEkdv",
+                "expanded_url": "https://twitter.com/mjhagen/status/1254026508903079939/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 960,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254026504536760322,
+                "id_str": "1254026504536760322",
+                "indices": [
+                    46,
+                    69
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcydjXWoAI37Ps.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcydjXWoAI37Ps.jpg",
+                "url": "https://t.co/95gA9lEkdv",
+                "display_url": "pic.twitter.com/95gA9lEkdv",
+                "expanded_url": "https://twitter.com/mjhagen/status/1254026508903079939/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 960,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818193065"
+}

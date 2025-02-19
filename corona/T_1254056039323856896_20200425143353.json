@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 14:33:53 +0000 2020",
+    "id": 1254056039323856896,
+    "id_str": "1254056039323856896",
+    "text": "@diaanakd @NanaPancar @popocult corona corona kamu dimana",
+    "display_text_range": [
+        32,
+        57
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254055221061271553,
+    "in_reply_to_status_id_str": "1254055221061271553",
+    "in_reply_to_user_id": 1451107891,
+    "in_reply_to_user_id_str": "1451107891",
+    "in_reply_to_screen_name": "diaanakd",
+    "user": {
+        "id": 127114442,
+        "id_str": "127114442",
+        "name": "Aditya Ayu",
+        "screen_name": "adityayu_",
+        "location": null,
+        "url": "https://www.instagram.com/adityayu_/",
+        "description": "music, sport, and accounting!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 890,
+        "friends_count": 373,
+        "listed_count": 2,
+        "favourites_count": 1726,
+        "statuses_count": 62134,
+        "created_at": "Sun Mar 28 03:13:09 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249176971411505153/po3fUOWG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249176971411505153/po3fUOWG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/127114442/1585113542",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "diaanakd",
+                "name": "dian🐄",
+                "id": 1451107891,
+                "id_str": "1451107891",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "NanaPancar",
+                "name": "NanaPA",
+                "id": 804075642,
+                "id_str": "804075642",
+                "indices": [
+                    10,
+                    21
+                ]
+            },
+            {
+                "screen_name": "popocult",
+                "name": "𝘗𝘶𝘺",
+                "id": 904055419,
+                "id_str": "904055419",
+                "indices": [
+                    22,
+                    31
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587825233666"
+}

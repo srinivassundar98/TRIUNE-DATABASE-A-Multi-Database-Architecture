@@ -1,0 +1,538 @@
+{
+    "created_at": "Sat Apr 25 12:47:43 +0000 2020",
+    "id": 1254029318885380096,
+    "id_str": "1254029318885380096",
+    "text": "RT @ErikkClvr: Entre el corona, lo de Trump y esto me va quedando más claro que quieren hacer una limpieza de personas en el mundo",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 287153932,
+        "id_str": "287153932",
+        "name": "Rubén™",
+        "screen_name": "RubendePablos4",
+        "location": "Madrid, Comunidad de Madrid",
+        "url": null,
+        "description": "Hacemos lo que queremos,esto es Twitter.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 503,
+        "friends_count": 303,
+        "listed_count": 0,
+        "favourites_count": 2513,
+        "statuses_count": 14918,
+        "created_at": "Sun Apr 24 12:28:19 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFF058",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0099DD",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EDF2F2",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237790822235586561/RhjGnixv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237790822235586561/RhjGnixv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/287153932/1583947305",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 12:33:54 +0000 2020",
+        "id": 1254025845456269312,
+        "id_str": "1254025845456269312",
+        "text": "Entre el corona, lo de Trump y esto me va quedando más claro que quieren hacer una limpieza de personas en el mundo",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 447478988,
+            "id_str": "447478988",
+            "name": "Erik",
+            "screen_name": "ErikkClvr",
+            "location": "España↔Finlandia",
+            "url": "http://Instagram.com/erikkclvr",
+            "description": "Jugador de fútbol ⚽🇫🇮 @PK35_Miehet\n\n              \nNever give up 💪❤☝",
+            "translator_type": "regular",
+            "protected": false,
+            "verified": false,
+            "followers_count": 963,
+            "friends_count": 640,
+            "listed_count": 1,
+            "favourites_count": 12898,
+            "statuses_count": 20635,
+            "created_at": "Mon Dec 26 23:14:56 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1167569166456492033/vXGYJHp7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167569166456492033/vXGYJHp7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/447478988/1567424625",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "5c15f03d343afd30",
+            "url": "https://api.twitter.com/1.1/geo/id/5c15f03d343afd30.json",
+            "place_type": "city",
+            "name": "Nurmijärvi",
+            "full_name": "Nurmijärvi, Suomi",
+            "country_code": "FI",
+            "country": "Finlandia",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            24.524654,
+                            60.34192
+                        ],
+                        [
+                            24.524654,
+                            60.588939
+                        ],
+                        [
+                            24.974559,
+                            60.588939
+                        ],
+                        [
+                            24.974559,
+                            60.34192
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253982112266489857,
+        "quoted_status_id_str": "1253982112266489857",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 09:40:08 +0000 2020",
+            "id": 1253982112266489857,
+            "id_str": "1253982112266489857",
+            "text": "Título: 'Pues ha salido en la tele que..'\n@yaesmediodiatv la madre del cordero.. 🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️!!! https://t.co/hKuDw4Q4NZ",
+            "display_text_range": [
+                0,
+                99
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3428938311,
+                "id_str": "3428938311",
+                "name": "Juanan MD",
+                "screen_name": "md_juanan",
+                "location": "Madrid, España",
+                "url": null,
+                "description": null,
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 23,
+                "friends_count": 26,
+                "listed_count": 0,
+                "favourites_count": 4,
+                "statuses_count": 13,
+                "created_at": "Mon Aug 17 22:08:23 +0000 2015",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1237770959706259458/C6rkC8_P_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237770959706259458/C6rkC8_P_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3428938311/1583942717",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "yaesmediodiatv",
+                        "name": "Ya es mediodía",
+                        "id": 340236413,
+                        "id_str": "340236413",
+                        "indices": [
+                            42,
+                            57
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253982105748545536,
+                        "id_str": "1253982105748545536",
+                        "indices": [
+                            100,
+                            123
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcKFM_WoAAuioa.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcKFM_WoAAuioa.jpg",
+                        "url": "https://t.co/hKuDw4Q4NZ",
+                        "display_url": "pic.twitter.com/hKuDw4Q4NZ",
+                        "expanded_url": "https://twitter.com/md_juanan/status/1253982112266489857/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253982105748545536,
+                        "id_str": "1253982105748545536",
+                        "indices": [
+                            100,
+                            123
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcKFM_WoAAuioa.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcKFM_WoAAuioa.jpg",
+                        "url": "https://t.co/hKuDw4Q4NZ",
+                        "display_url": "pic.twitter.com/hKuDw4Q4NZ",
+                        "expanded_url": "https://twitter.com/md_juanan/status/1253982112266489857/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 576,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "es"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/FxVt8U0Gn9",
+            "expanded": "https://twitter.com/md_juanan/status/1253982112266489857",
+            "display": "twitter.com/md_juanan/stat…"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "es"
+    },
+    "quoted_status_id": 1253982112266489857,
+    "quoted_status_id_str": "1253982112266489857",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 09:40:08 +0000 2020",
+        "id": 1253982112266489857,
+        "id_str": "1253982112266489857",
+        "text": "Título: 'Pues ha salido en la tele que..'\n@yaesmediodiatv la madre del cordero.. 🤦🏻‍♂️🤦🏻‍♂️🤦🏻‍♂️!!! https://t.co/hKuDw4Q4NZ",
+        "display_text_range": [
+            0,
+            99
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3428938311,
+            "id_str": "3428938311",
+            "name": "Juanan MD",
+            "screen_name": "md_juanan",
+            "location": "Madrid, España",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 23,
+            "friends_count": 26,
+            "listed_count": 0,
+            "favourites_count": 4,
+            "statuses_count": 13,
+            "created_at": "Mon Aug 17 22:08:23 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1237770959706259458/C6rkC8_P_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237770959706259458/C6rkC8_P_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3428938311/1583942717",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "yaesmediodiatv",
+                    "name": "Ya es mediodía",
+                    "id": 340236413,
+                    "id_str": "340236413",
+                    "indices": [
+                        42,
+                        57
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1253982105748545536,
+                    "id_str": "1253982105748545536",
+                    "indices": [
+                        100,
+                        123
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcKFM_WoAAuioa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcKFM_WoAAuioa.jpg",
+                    "url": "https://t.co/hKuDw4Q4NZ",
+                    "display_url": "pic.twitter.com/hKuDw4Q4NZ",
+                    "expanded_url": "https://twitter.com/md_juanan/status/1253982112266489857/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1253982105748545536,
+                    "id_str": "1253982105748545536",
+                    "indices": [
+                        100,
+                        123
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcKFM_WoAAuioa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcKFM_WoAAuioa.jpg",
+                    "url": "https://t.co/hKuDw4Q4NZ",
+                    "display_url": "pic.twitter.com/hKuDw4Q4NZ",
+                    "expanded_url": "https://twitter.com/md_juanan/status/1253982112266489857/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "es"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/FxVt8U0Gn9",
+        "expanded": "https://twitter.com/md_juanan/status/1253982112266489857",
+        "display": "twitter.com/md_juanan/stat…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ErikkClvr",
+                "name": "Erik",
+                "id": 447478988,
+                "id_str": "447478988",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587818863017"
+}

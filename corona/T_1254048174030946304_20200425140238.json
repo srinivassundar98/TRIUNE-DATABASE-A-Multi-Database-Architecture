@@ -1,0 +1,118 @@
+{
+    "created_at": "Sat Apr 25 14:02:38 +0000 2020",
+    "id": 1254048174030946304,
+    "id_str": "1254048174030946304",
+    "text": "@khiladi_spike @ShekharGupta @jyotiyadaav @akshaykumar Film kab a rhi hai Akshay ki Corona pe .100 Cr ! 😄",
+    "display_text_range": [
+        55,
+        105
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253990095574626305,
+    "in_reply_to_status_id_str": "1253990095574626305",
+    "in_reply_to_user_id": 1139003846716321794,
+    "in_reply_to_user_id_str": "1139003846716321794",
+    "in_reply_to_screen_name": "khiladi_spike",
+    "user": {
+        "id": 1248922292098220032,
+        "id_str": "1248922292098220032",
+        "name": "Gurpreet",
+        "screen_name": "Gurpree84646960",
+        "location": "punjab",
+        "url": null,
+        "description": "proud to be a Sikh",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 65,
+        "listed_count": 0,
+        "favourites_count": 6,
+        "statuses_count": 82,
+        "created_at": "Sat Apr 11 10:34:26 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248922534424137728/QjDj-Crh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248922534424137728/QjDj-Crh_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "khiladi_spike",
+                "name": "Spike ; स्पाइक 😎",
+                "id": 1139003846716321794,
+                "id_str": "1139003846716321794",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "ShekharGupta",
+                "name": "Shekhar Gupta",
+                "id": 2574072036,
+                "id_str": "2574072036",
+                "indices": [
+                    15,
+                    28
+                ]
+            },
+            {
+                "screen_name": "jyotiyadaav",
+                "name": "Jyoti Yadav",
+                "id": 761389837085585408,
+                "id_str": "761389837085585408",
+                "indices": [
+                    29,
+                    41
+                ]
+            },
+            {
+                "screen_name": "akshaykumar",
+                "name": "Akshay Kumar",
+                "id": 31348594,
+                "id_str": "31348594",
+                "indices": [
+                    42,
+                    54
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587823358434"
+}

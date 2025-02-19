@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 12:58:51 +0000 2020",
+    "id": 1254032121779441664,
+    "id_str": "1254032121779441664",
+    "text": "@Srijana76774538 त्हा corona को स्थि्ती कसतो छ ??",
+    "display_text_range": [
+        17,
+        49
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254031852462985218,
+    "in_reply_to_status_id_str": "1254031852462985218",
+    "in_reply_to_user_id": 1236519774680526849,
+    "in_reply_to_user_id_str": "1236519774680526849",
+    "in_reply_to_screen_name": "Srijana76774538",
+    "user": {
+        "id": 3381608110,
+        "id_str": "3381608110",
+        "name": "Sujal *️⃣🇳🇵🇳🇵 :- 私は100％独身です",
+        "screen_name": "SujalChaurasiya",
+        "location": null,
+        "url": null,
+        "description": "✉📝Challenges are what make life interesting. Overcoming them is what makes them meaningful.📌📌📌\n\n☺There are no rules when it comes to love ☺😍",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1000,
+        "friends_count": 4975,
+        "listed_count": 0,
+        "favourites_count": 17117,
+        "statuses_count": 11562,
+        "created_at": "Sat Jul 18 10:33:53 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252606218377420801/tD1_HMMK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252606218377420801/tD1_HMMK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3381608110/1583549335",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "f1d3a53f8a3cc7e9",
+        "url": "https://api.twitter.com/1.1/geo/id/f1d3a53f8a3cc7e9.json",
+        "place_type": "country",
+        "name": "Nepal",
+        "full_name": "Nepal",
+        "country_code": "NP",
+        "country": "Nepal",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        80.063341,
+                        26.348309
+                    ],
+                    [
+                        80.063341,
+                        30.43339
+                    ],
+                    [
+                        88.2027,
+                        30.43339
+                    ],
+                    [
+                        88.2027,
+                        26.348309
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Srijana76774538",
+                "name": "Srijana 🦋🧚‍♂️",
+                "id": 1236519774680526849,
+                "id_str": "1236519774680526849",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "ne",
+    "timestamp_ms": "1587819531279"
+}

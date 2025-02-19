@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:03:41 +0000 2020",
+    "id": 1254048438884409345,
+    "id_str": "1254048438884409345",
+    "text": "@RobinMa46884829 A speculative set of figures\n\nThe 40,000 includes people who died at home from conditions other th… https://t.co/EZgp3qrhrI",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254045483925938179,
+    "in_reply_to_status_id_str": "1254045483925938179",
+    "in_reply_to_user_id": 1234907061185585157,
+    "in_reply_to_user_id_str": "1234907061185585157",
+    "in_reply_to_screen_name": "RobinMa46884829",
+    "user": {
+        "id": 754635115368685568,
+        "id_str": "754635115368685568",
+        "name": "James Gray",
+        "screen_name": "ukreloaded",
+        "location": "United Kingdom",
+        "url": null,
+        "description": "Just sharing my views & listening to others\nAppreciate all followers & I will follow back ASAP",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 13096,
+        "friends_count": 10793,
+        "listed_count": 29,
+        "favourites_count": 62037,
+        "statuses_count": 15,
+        "created_at": "Sun Jul 17 11:13:26 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247667341044912128/2KZ31a7w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247667341044912128/2KZ31a7w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/754635115368685568/1585605645",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@RobinMa46884829 A speculative set of figures\n\nThe 40,000 includes people who died at home from conditions other than Corona Virus, because they didnt want to burden the NHS\n\nThey may as well have included road traffic fatalities in that report",
+        "display_text_range": [
+            17,
+            244
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RobinMa46884829",
+                    "name": "Robin Martin",
+                    "id": 1234907061185585157,
+                    "id_str": "1234907061185585157",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/EZgp3qrhrI",
+                "expanded_url": "https://twitter.com/i/web/status/1254048438884409345",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RobinMa46884829",
+                "name": "Robin Martin",
+                "id": 1234907061185585157,
+                "id_str": "1234907061185585157",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823421580"
+}

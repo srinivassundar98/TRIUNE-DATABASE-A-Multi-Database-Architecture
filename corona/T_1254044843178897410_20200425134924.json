@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:49:24 +0000 2020",
+    "id": 1254044843178897410,
+    "id_str": "1254044843178897410",
+    "text": "@szmmire Acho que não peguei corona pra vir pegar aqui, tô indo embora!🤦🏻‍♀️",
+    "display_text_range": [
+        9,
+        76
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254042846748979200,
+    "in_reply_to_status_id_str": "1254042846748979200",
+    "in_reply_to_user_id": 304815096,
+    "in_reply_to_user_id_str": "304815096",
+    "in_reply_to_screen_name": "szmmire",
+    "user": {
+        "id": 287805273,
+        "id_str": "287805273",
+        "name": "Raiana",
+        "screen_name": "raianagarcez",
+        "location": "Uruguaiana - RS",
+        "url": null,
+        "description": "27 anos, Gaúcha, GREMISTA, Cirurgiã-Dentista - UFRGS, Uruguaianense, moradora de POA e amante da vida!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 255,
+        "friends_count": 364,
+        "listed_count": 1,
+        "favourites_count": 2752,
+        "statuses_count": 7567,
+        "created_at": "Mon Apr 25 18:22:28 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "9610E3",
+        "profile_sidebar_fill_color": "03CBE6",
+        "profile_text_color": "218DB5",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/914502061877792768/9_H50ct2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/914502061877792768/9_H50ct2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/287805273/1359569238",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "04bd524a682efd1f",
+        "url": "https://api.twitter.com/1.1/geo/id/04bd524a682efd1f.json",
+        "place_type": "city",
+        "name": "Uruguaiana",
+        "full_name": "Uruguaiana, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -57.328706,
+                        -30.205325
+                    ],
+                    [
+                        -57.328706,
+                        -29.399023
+                    ],
+                    [
+                        -56.150745,
+                        -29.399023
+                    ],
+                    [
+                        -56.150745,
+                        -30.205325
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "szmmire",
+                "name": "Mire",
+                "id": 304815096,
+                "id_str": "304815096",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587822564297"
+}

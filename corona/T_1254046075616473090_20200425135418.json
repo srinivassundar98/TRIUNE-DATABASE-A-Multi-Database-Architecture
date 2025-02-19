@@ -1,0 +1,354 @@
+{
+    "created_at": "Sat Apr 25 13:54:18 +0000 2020",
+    "id": 1254046075616473090,
+    "id_str": "1254046075616473090",
+    "text": "Bottoms up! @POTUS",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 211358203,
+        "id_str": "211358203",
+        "name": "Larry Swatuk",
+        "screen_name": "lswatuk",
+        "location": "Waterloo Ontario Canada",
+        "url": "http://www.shapetheworld.uwaterloo.ca/people/swatuk/",
+        "description": "Professor of International Development,University of Waterloo & author of The Last Cup https://www.amazon.com/Last-Cup-Hockey-Stanley-Toronto/dp/09940905",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2347,
+        "friends_count": 3272,
+        "listed_count": 100,
+        "favourites_count": 7529,
+        "statuses_count": 9927,
+        "created_at": "Wed Nov 03 01:16:57 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/783280069603127296/kPPKtedc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/783280069603127296/kPPKtedc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211358203/1475583851",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "667f0a52cdcd0ad5",
+        "url": "https://api.twitter.com/1.1/geo/id/667f0a52cdcd0ad5.json",
+        "place_type": "city",
+        "name": "Antigonish, Subd. A",
+        "full_name": "Antigonish, Subd. A, Nova Scotia",
+        "country_code": "CA",
+        "country": "Canada",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -62.478757,
+                        45.383598
+                    ],
+                    [
+                        -62.478757,
+                        46.184535
+                    ],
+                    [
+                        -61.568709,
+                        46.184535
+                    ],
+                    [
+                        -61.568709,
+                        45.383598
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "quoted_status_id": 1254040181734289408,
+    "quoted_status_id_str": "1254040181734289408",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 13:30:52 +0000 2020",
+        "id": 1254040181734289408,
+        "id_str": "1254040181734289408",
+        "text": "#BLEACH \"I take my lead from Mr Trump/ I'm feeling in fine fettle/ Inserted batteries in my rump/ Now for a pint of… https://t.co/i3SRThFNS7",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 27609474,
+            "id_str": "27609474",
+            "name": "Laurie Lipton",
+            "screen_name": "laurielipton",
+            "location": "Liptonland, Los Angeles",
+            "url": "http://www.laurielipton.com",
+            "description": "The 21st Century's greatest draughtswoman... but humble with it.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 5694,
+            "friends_count": 270,
+            "listed_count": 183,
+            "favourites_count": 738,
+            "statuses_count": 3040,
+            "created_at": "Mon Mar 30 09:19:39 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "130103",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "0F0D0E",
+            "profile_sidebar_border_color": "02060E",
+            "profile_sidebar_fill_color": "FCFDFD",
+            "profile_text_color": "1A1818",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1241740783272640514/2lm1isOP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241740783272640514/2lm1isOP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27609474/1582680027",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#BLEACH \"I take my lead from Mr Trump/ I'm feeling in fine fettle/ Inserted batteries in my rump/ Now for a pint of Dettol\" TonyThorne #Corona (\"POST TRUTH\", detail, 4ft10\"x8ft9\", #charcoal &amp; #pencil on paper) #drawingoftheday #art https://t.co/aXY6EIufSs",
+            "display_text_range": [
+                0,
+                235
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "BLEACH",
+                        "indices": [
+                            0,
+                            7
+                        ]
+                    },
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            135,
+                            142
+                        ]
+                    },
+                    {
+                        "text": "charcoal",
+                        "indices": [
+                            180,
+                            189
+                        ]
+                    },
+                    {
+                        "text": "pencil",
+                        "indices": [
+                            196,
+                            203
+                        ]
+                    },
+                    {
+                        "text": "drawingoftheday",
+                        "indices": [
+                            214,
+                            230
+                        ]
+                    },
+                    {
+                        "text": "art",
+                        "indices": [
+                            231,
+                            235
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1254039991996432386,
+                        "id_str": "1254039991996432386",
+                        "indices": [
+                            236,
+                            259
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWc-uoEUwAIpiCQ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWc-uoEUwAIpiCQ.jpg",
+                        "url": "https://t.co/aXY6EIufSs",
+                        "display_url": "pic.twitter.com/aXY6EIufSs",
+                        "expanded_url": "https://twitter.com/laurielipton/status/1254040181734289408/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1127,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 660,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 374,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1254039991996432386,
+                        "id_str": "1254039991996432386",
+                        "indices": [
+                            236,
+                            259
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWc-uoEUwAIpiCQ.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWc-uoEUwAIpiCQ.jpg",
+                        "url": "https://t.co/aXY6EIufSs",
+                        "display_url": "pic.twitter.com/aXY6EIufSs",
+                        "expanded_url": "https://twitter.com/laurielipton/status/1254040181734289408/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1127,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 660,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 374,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BLEACH",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/i3SRThFNS7",
+                    "expanded_url": "https://twitter.com/i/web/status/1254040181734289408",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/PSuAYd9bcW",
+        "expanded": "https://twitter.com/laurielipton/status/1254040181734289408",
+        "display": "twitter.com/laurielipton/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "POTUS",
+                "name": "President Trump",
+                "id": 822215679726100480,
+                "id_str": "822215679726100480",
+                "indices": [
+                    12,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822858133"
+}

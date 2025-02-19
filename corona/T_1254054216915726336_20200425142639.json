@@ -1,0 +1,172 @@
+{
+    "created_at": "Sat Apr 25 14:26:39 +0000 2020",
+    "id": 1254054216915726336,
+    "id_str": "1254054216915726336",
+    "text": "Kö till matbutiken #Edinburgh #corona https://t.co/lwQrgc8EO5",
+    "display_text_range": [
+        0,
+        37
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 51166401,
+        "id_str": "51166401",
+        "name": "Anne-Marie Körling",
+        "screen_name": "Korlingsord",
+        "location": "Här är jag!",
+        "url": "http://www.korlingsord.se",
+        "description": "Lärare, författare. Klassrumsnära, elevnära. Handleder lärare. Modellar undervisning! Skriver för livet. Läsambassadör 2015-2017. Ingvar Lundbergs pris 2018.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 8992,
+        "friends_count": 541,
+        "listed_count": 125,
+        "favourites_count": 2496,
+        "statuses_count": 53105,
+        "created_at": "Fri Jun 26 18:25:48 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0F0D0D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "0ADAFF",
+        "profile_text_color": "473247",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2274491430/z90k6l0n9zy9k1dxi0h9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2274491430/z90k6l0n9zy9k1dxi0h9_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51166401/1564691896",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Edinburgh",
+                "indices": [
+                    19,
+                    29
+                ]
+            },
+            {
+                "text": "corona",
+                "indices": [
+                    30,
+                    37
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254054210464858113,
+                "id_str": "1254054210464858113",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdLqP_XQAE_KO0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdLqP_XQAE_KO0.jpg",
+                "url": "https://t.co/lwQrgc8EO5",
+                "display_url": "pic.twitter.com/lwQrgc8EO5",
+                "expanded_url": "https://twitter.com/Korlingsord/status/1254054216915726336/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 529,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 828,
+                        "h": 1065,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 828,
+                        "h": 1065,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254054210464858113,
+                "id_str": "1254054210464858113",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdLqP_XQAE_KO0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdLqP_XQAE_KO0.jpg",
+                "url": "https://t.co/lwQrgc8EO5",
+                "display_url": "pic.twitter.com/lwQrgc8EO5",
+                "expanded_url": "https://twitter.com/Korlingsord/status/1254054216915726336/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 529,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 828,
+                        "h": 1065,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 828,
+                        "h": 1065,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587824799170"
+}

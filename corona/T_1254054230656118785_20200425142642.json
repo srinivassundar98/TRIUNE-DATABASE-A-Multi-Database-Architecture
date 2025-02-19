@@ -1,0 +1,166 @@
+{
+    "created_at": "Sat Apr 25 14:26:42 +0000 2020",
+    "id": 1254054230656118785,
+    "id_str": "1254054230656118785",
+    "text": "https://t.co/OqShgif5gK https://t.co/WtttUZCQpH",
+    "display_text_range": [
+        0,
+        23
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1216370884568436736,
+        "id_str": "1216370884568436736",
+        "name": "Humas Polsek Gandusari",
+        "screen_name": "HumasGandusari",
+        "location": null,
+        "url": null,
+        "description": "berita",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 71,
+        "friends_count": 119,
+        "listed_count": 0,
+        "favourites_count": 5960,
+        "statuses_count": 12712,
+        "created_at": "Sun Jan 12 14:46:44 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1216371039501897730/llDOdnr5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216371039501897730/llDOdnr5_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/OqShgif5gK",
+                "expanded_url": "http://polrestrenggalek.com/2020/04/25/saat-patroli-siang-hari-personil-polsek-gandusari-sambil-imbau-warga-agar-waspada-penyebaran-wabah-corona/",
+                "display_url": "polrestrenggalek.com/2020/04/25/saa…",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254054212071088129,
+                "id_str": "1254054212071088129",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdLqV-UYAE6ZfL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdLqV-UYAE6ZfL.jpg",
+                "url": "https://t.co/WtttUZCQpH",
+                "display_url": "pic.twitter.com/WtttUZCQpH",
+                "expanded_url": "https://twitter.com/HumasGandusari/status/1254054230656118785/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 526,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1009,
+                        "h": 780,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1009,
+                        "h": 780,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254054212071088129,
+                "id_str": "1254054212071088129",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdLqV-UYAE6ZfL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdLqV-UYAE6ZfL.jpg",
+                "url": "https://t.co/WtttUZCQpH",
+                "display_url": "pic.twitter.com/WtttUZCQpH",
+                "expanded_url": "https://twitter.com/HumasGandusari/status/1254054230656118785/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 526,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1009,
+                        "h": 780,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1009,
+                        "h": 780,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587824802446"
+}

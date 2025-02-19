@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 12:55:12 +0000 2020",
+    "id": 1254031202723430400,
+    "id_str": "1254031202723430400",
+    "text": "@tuessl @RadentscheidAC ... Corona hat wohl auch geholfen. So richtig kann man sich darüber natürlich nicht freuen,… https://t.co/iC0cxKM5gM",
+    "display_text_range": [
+        24,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254019976471760898,
+    "in_reply_to_status_id_str": "1254019976471760898",
+    "in_reply_to_user_id": 3049271385,
+    "in_reply_to_user_id_str": "3049271385",
+    "in_reply_to_screen_name": "tuessl",
+    "user": {
+        "id": 1259447372,
+        "id_str": "1259447372",
+        "name": "Jan van den Hurk",
+        "screen_name": "jvdhurk",
+        "location": "Aachen, Deutschland",
+        "url": "http://www.jvdh.de",
+        "description": "Doktor-Ingenieur | #OLED mit #OVPD | #Radentscheid Aachen | stv. Sachkundiger #Bürger | aus dem tiefsten Westen | #Aachen",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 266,
+        "friends_count": 1530,
+        "listed_count": 6,
+        "favourites_count": 3163,
+        "statuses_count": 1317,
+        "created_at": "Mon Mar 11 13:18:48 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1218841867124727808/ht-w8Cw7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218841867124727808/ht-w8Cw7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1259447372/1575024835",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@tuessl @RadentscheidAC ... Corona hat wohl auch geholfen. So richtig kann man sich darüber natürlich nicht freuen, aber trotzdem gut für #Aachen.",
+        "display_text_range": [
+            24,
+            146
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Aachen",
+                    "indices": [
+                        138,
+                        145
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "tuessl",
+                    "name": "Thijs daheim in Kurzarbeit 🚲🇪🇺🛣️",
+                    "id": 3049271385,
+                    "id_str": "3049271385",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "RadentscheidAC",
+                    "name": "Radentscheid Aachen",
+                    "id": 963540608873914369,
+                    "id_str": "963540608873914369",
+                    "indices": [
+                        8,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/iC0cxKM5gM",
+                "expanded_url": "https://twitter.com/i/web/status/1254031202723430400",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "tuessl",
+                "name": "Thijs daheim in Kurzarbeit 🚲🇪🇺🛣️",
+                "id": 3049271385,
+                "id_str": "3049271385",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "RadentscheidAC",
+                "name": "Radentscheid Aachen",
+                "id": 963540608873914369,
+                "id_str": "963540608873914369",
+                "indices": [
+                    8,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819312159"
+}

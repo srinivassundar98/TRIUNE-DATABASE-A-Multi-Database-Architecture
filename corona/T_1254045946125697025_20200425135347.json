@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 13:53:47 +0000 2020",
+    "id": 1254045946125697025,
+    "id_str": "1254045946125697025",
+    "text": "@DonaldJTrumpJr The cyclist is a senior citizen who meant well &amp; Cuomo menaced him. The Cuomo brothers were raised… https://t.co/PRcyOafQ3b",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253855253436534793,
+    "in_reply_to_status_id_str": "1253855253436534793",
+    "in_reply_to_user_id": 39344374,
+    "in_reply_to_user_id_str": "39344374",
+    "in_reply_to_screen_name": "DonaldJTrumpJr",
+    "user": {
+        "id": 802302414581809152,
+        "id_str": "802302414581809152",
+        "name": "Carolyn Reilly",
+        "screen_name": "casareilly",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 143,
+        "friends_count": 291,
+        "listed_count": 2,
+        "favourites_count": 18538,
+        "statuses_count": 7531,
+        "created_at": "Sat Nov 26 00:06:16 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@DonaldJTrumpJr The cyclist is a senior citizen who meant well &amp; Cuomo menaced him. The Cuomo brothers were raised in a political family, their father was governor of New York. Chris's brother demonstrated a lot of arrogance during his Corona briefings: They both show entitlement.",
+        "display_text_range": [
+            16,
+            285
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DonaldJTrumpJr",
+                    "name": "Donald Trump Jr.",
+                    "id": 39344374,
+                    "id_str": "39344374",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/PRcyOafQ3b",
+                "expanded_url": "https://twitter.com/i/web/status/1254045946125697025",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    120,
+                    143
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DonaldJTrumpJr",
+                "name": "Donald Trump Jr.",
+                "id": 39344374,
+                "id_str": "39344374",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822827260"
+}

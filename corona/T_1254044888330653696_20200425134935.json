@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:49:35 +0000 2020",
+    "id": 1254044888330653696,
+    "id_str": "1254044888330653696",
+    "text": "@wagshoww @Leozera2903 ele ta com corona mesmo??",
+    "display_text_range": [
+        23,
+        48
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253815374279315456,
+    "in_reply_to_status_id_str": "1253815374279315456",
+    "in_reply_to_user_id": 1004018494013353985,
+    "in_reply_to_user_id_str": "1004018494013353985",
+    "in_reply_to_screen_name": "wagshoww",
+    "user": {
+        "id": 1048941008979988480,
+        "id_str": "1048941008979988480",
+        "name": "kemikemi",
+        "screen_name": "camillegarrcia",
+        "location": "Campo Grande, Brasil",
+        "url": "http://Instagram.com/camille_garrcia",
+        "description": "eu não sou daquela laia não",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 352,
+        "friends_count": 401,
+        "listed_count": 0,
+        "favourites_count": 3368,
+        "statuses_count": 8316,
+        "created_at": "Sun Oct 07 14:19:59 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250186413796196354/aOvwh87B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250186413796196354/aOvwh87B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048941008979988480/1586206518",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "wagshoww",
+                "name": "lewandowski",
+                "id": 1004018494013353985,
+                "id_str": "1004018494013353985",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "Leozera2903",
+                "name": "Leonardo Souza",
+                "id": 1072336522781835264,
+                "id_str": "1072336522781835264",
+                "indices": [
+                    10,
+                    22
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587822575062"
+}

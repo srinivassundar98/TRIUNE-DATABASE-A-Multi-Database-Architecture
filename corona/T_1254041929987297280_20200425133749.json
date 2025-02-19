@@ -1,0 +1,135 @@
+{
+    "created_at": "Sat Apr 25 13:37:49 +0000 2020",
+    "id": 1254041929987297280,
+    "id_str": "1254041929987297280",
+    "text": "#Covid19 Das ist kein Panik Beitrag, vielmehr erläutert er die unterliegenden Modelle. \"Wir sind erst am Anfang der… https://t.co/YZPuhiQxSh",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1613914974,
+        "id_str": "1613914974",
+        "name": "Volker Plöhn",
+        "screen_name": "VolkerPloehn",
+        "location": "Wiesbaden",
+        "url": null,
+        "description": null,
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 93,
+        "friends_count": 823,
+        "listed_count": 7,
+        "favourites_count": 9839,
+        "statuses_count": 8220,
+        "created_at": "Tue Jul 23 00:06:45 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/485428472756445186/-foehl9I_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/485428472756445186/-foehl9I_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613914974/1404579760",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "#Covid19 Das ist kein Panik Beitrag, vielmehr erläutert er die unterliegenden Modelle. \"Wir sind erst am Anfang der Krise (Corona-Modelle)\" https://t.co/spOa2v5M1o via @YouTube",
+        "display_text_range": [
+            0,
+            176
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Covid19",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/spOa2v5M1o",
+                    "expanded_url": "https://youtu.be/zKVKc_XwfIk",
+                    "display_url": "youtu.be/zKVKc_XwfIk",
+                    "indices": [
+                        140,
+                        163
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube at 🏠",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        168,
+                        176
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Covid19",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/YZPuhiQxSh",
+                "expanded_url": "https://twitter.com/i/web/status/1254041929987297280",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821869738"
+}

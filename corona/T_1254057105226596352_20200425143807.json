@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 14:38:07 +0000 2020",
+    "id": 1254057105226596352,
+    "id_str": "1254057105226596352",
+    "text": "@Santosh66317658 @seemi_pasha @MehboobaMufti Zada Paap Na Karo Pad Lo Theek Kaise Faila Hai Corona",
+    "display_text_range": [
+        45,
+        98
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253961250448515072,
+    "in_reply_to_status_id_str": "1253961250448515072",
+    "in_reply_to_user_id": 2974562599,
+    "in_reply_to_user_id_str": "2974562599",
+    "in_reply_to_screen_name": "Santosh66317658",
+    "user": {
+        "id": 1016176194633396226,
+        "id_str": "1016176194633396226",
+        "name": "Salman Alam",
+        "screen_name": "Salman21626979",
+        "location": null,
+        "url": null,
+        "description": "Business",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 45,
+        "listed_count": 0,
+        "favourites_count": 67,
+        "statuses_count": 167,
+        "created_at": "Mon Jul 09 04:24:19 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198440034539454464/MzplVL2C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198440034539454464/MzplVL2C_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Santosh66317658",
+                "name": "Santosh Panda",
+                "id": 2974562599,
+                "id_str": "2974562599",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "seemi_pasha",
+                "name": "seemi pasha",
+                "id": 96709645,
+                "id_str": "96709645",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "screen_name": "MehboobaMufti",
+                "name": "Mehbooba Mufti",
+                "id": 2647058209,
+                "id_str": "2647058209",
+                "indices": [
+                    30,
+                    44
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1587825487797"
+}

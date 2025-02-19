@@ -1,0 +1,198 @@
+{
+    "created_at": "Sat Apr 25 13:27:04 +0000 2020",
+    "id": 1254039225202348032,
+    "id_str": "1254039225202348032",
+    "text": "#FicaEmCasa na luta contra ao corona vírus no Brasil https://t.co/D2QsmS3XSp",
+    "display_text_range": [
+        0,
+        52
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1252005901478907904,
+        "id_str": "1252005901478907904",
+        "name": "Herika Cristina",
+        "screen_name": "HerikaC86710745",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 37,
+        "listed_count": 0,
+        "favourites_count": 7,
+        "statuses_count": 6,
+        "created_at": "Sun Apr 19 22:47:34 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252006273589133312/gsSfrf9L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252006273589133312/gsSfrf9L_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FicaEmCasa",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254039054787719171,
+                "id_str": "1254039054787719171",
+                "indices": [
+                    53,
+                    76
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254039054787719171/pu/img/0PBFoE8ngRzgo2mF.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254039054787719171/pu/img/0PBFoE8ngRzgo2mF.jpg",
+                "url": "https://t.co/D2QsmS3XSp",
+                "display_url": "pic.twitter.com/D2QsmS3XSp",
+                "expanded_url": "https://twitter.com/HerikaC86710745/status/1254039225202348032/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254039054787719171,
+                "id_str": "1254039054787719171",
+                "indices": [
+                    53,
+                    76
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254039054787719171/pu/img/0PBFoE8ngRzgo2mF.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254039054787719171/pu/img/0PBFoE8ngRzgo2mF.jpg",
+                "url": "https://t.co/D2QsmS3XSp",
+                "display_url": "pic.twitter.com/D2QsmS3XSp",
+                "expanded_url": "https://twitter.com/HerikaC86710745/status/1254039225202348032/video/1",
+                "type": "video",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 14037,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254039054787719171/pu/vid/480x480/D671PFngYV4oePHx.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254039054787719171/pu/vid/320x320/6zLlI4eJaLtok5Sl.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1254039054787719171/pu/pl/l_c9Yw0su8yI93Ti.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254039054787719171/pu/vid/640x640/Sy7lrZns70yKRxKE.mp4?tag=10"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "medium": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 640,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587821224867"
+}

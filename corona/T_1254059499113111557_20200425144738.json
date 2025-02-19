@@ -1,0 +1,137 @@
+{
+    "created_at": "Sat Apr 25 14:47:38 +0000 2020",
+    "id": 1254059499113111557,
+    "id_str": "1254059499113111557",
+    "text": "Corona crisis, Greens politicians are demanding a “purchase on-site voucher” for every citizen in the amount of 250… https://t.co/MFVWbc7MLw",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254057729037160452,
+    "in_reply_to_status_id_str": "1254057729037160452",
+    "in_reply_to_user_id": 1229671191230763012,
+    "in_reply_to_user_id_str": "1229671191230763012",
+    "in_reply_to_screen_name": "SteinBergRD",
+    "user": {
+        "id": 1229671191230763012,
+        "id_str": "1229671191230763012",
+        "name": "Ramy's #StayAtHome",
+        "screen_name": "SteinBergRD",
+        "location": "Hildesheim, Deutschland",
+        "url": null,
+        "description": "Head #Chef 👨‍🍳Modern #Cuisine🍲 #traveler 🗣#Cricketing🏏  Borth in Nepal #Sportslover  Views my own👇",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 181,
+        "friends_count": 179,
+        "listed_count": 0,
+        "favourites_count": 2133,
+        "statuses_count": 1422,
+        "created_at": "Tue Feb 18 07:37:29 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230397531496108032/HMkMEOrv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230397531496108032/HMkMEOrv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229671191230763012/1587647448",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "ecd86c2679d9a421",
+        "url": "https://api.twitter.com/1.1/geo/id/ecd86c2679d9a421.json",
+        "place_type": "city",
+        "name": "Schellerten",
+        "full_name": "Schellerten, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        10.010699,
+                        52.110325
+                    ],
+                    [
+                        10.010699,
+                        52.236379
+                    ],
+                    [
+                        10.15629,
+                        52.236379
+                    ],
+                    [
+                        10.15629,
+                        52.110325
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Corona crisis, Greens politicians are demanding a “purchase on-site voucher” for every citizen in the amount of 250 euros. \n#coronavirusdeutschland",
+        "display_text_range": [
+            0,
+            147
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "coronavirusdeutschland",
+                    "indices": [
+                        124,
+                        147
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/MFVWbc7MLw",
+                "expanded_url": "https://twitter.com/i/web/status/1254059499113111557",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587826058544"
+}

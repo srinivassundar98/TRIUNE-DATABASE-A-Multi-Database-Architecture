@@ -1,0 +1,201 @@
+{
+    "created_at": "Sat Apr 25 12:28:19 +0000 2020",
+    "id": 1254024437940342784,
+    "id_str": "1254024437940342784",
+    "text": "@drharshvardhan \nDear sir song sung by my daughter in honour of our corona warriors https://t.co/naxiQ21jQc",
+    "display_text_range": [
+        0,
+        83
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 77732185,
+    "in_reply_to_user_id_str": "77732185",
+    "in_reply_to_screen_name": "drharshvardhan",
+    "user": {
+        "id": 3543622339,
+        "id_str": "3543622339",
+        "name": "Rakesh Mandliya",
+        "screen_name": "RaksMandliya",
+        "location": "Indore, India",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 19,
+        "friends_count": 100,
+        "listed_count": 0,
+        "favourites_count": 324,
+        "statuses_count": 278,
+        "created_at": "Sun Sep 13 00:43:21 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183357437627092993/hPIMVZ5O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183357437627092993/hPIMVZ5O_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "drharshvardhan",
+                "name": "Dr Harsh Vardhan",
+                "id": 77732185,
+                "id_str": "77732185",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254024221145157633,
+                "id_str": "1254024221145157633",
+                "indices": [
+                    84,
+                    107
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254024221145157633/pu/img/y1maEwC1mNiihNCa.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254024221145157633/pu/img/y1maEwC1mNiihNCa.jpg",
+                "url": "https://t.co/naxiQ21jQc",
+                "display_url": "pic.twitter.com/naxiQ21jQc",
+                "expanded_url": "https://twitter.com/RaksMandliya/status/1254024437940342784/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254024221145157633,
+                "id_str": "1254024221145157633",
+                "indices": [
+                    84,
+                    107
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254024221145157633/pu/img/y1maEwC1mNiihNCa.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254024221145157633/pu/img/y1maEwC1mNiihNCa.jpg",
+                "url": "https://t.co/naxiQ21jQc",
+                "display_url": "pic.twitter.com/naxiQ21jQc",
+                "expanded_url": "https://twitter.com/RaksMandliya/status/1254024437940342784/video/1",
+                "type": "video",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 44978,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254024221145157633/pu/vid/320x568/62HbMA3q4thfaNXU.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254024221145157633/pu/vid/720x1280/x_Be_uLEyjR-GwUf.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254024221145157633/pu/vid/360x640/8-i1d2OPyARKTBkA.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1254024221145157633/pu/pl/XmkvbJULVBYHtNoQ.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817699309"
+}

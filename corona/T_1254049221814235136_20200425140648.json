@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 14:06:48 +0000 2020",
+    "id": 1254049221814235136,
+    "id_str": "1254049221814235136",
+    "text": "@mkkeck @SPIEGEL_Politik Deshalb würde ich es mit kleinen Dosen probieren. Grippe oder Corona können das eigene Leb… https://t.co/sfPHv3MqZi",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254026809663991808,
+    "in_reply_to_status_id_str": "1254026809663991808",
+    "in_reply_to_user_id": 574480927,
+    "in_reply_to_user_id_str": "574480927",
+    "in_reply_to_screen_name": "mkkeck",
+    "user": {
+        "id": 2988005277,
+        "id_str": "2988005277",
+        "name": "bruno petz",
+        "screen_name": "quasselonkel",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 30,
+        "friends_count": 37,
+        "listed_count": 0,
+        "favourites_count": 1344,
+        "statuses_count": 14977,
+        "created_at": "Tue Jan 20 21:20:42 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@mkkeck @SPIEGEL_Politik Deshalb würde ich es mit kleinen Dosen probieren. Grippe oder Corona können das eigene Leben beenden. In Amerika war mal ein Holzfäller auf den ein Baum fiel. Er hat sich selbst ein Arm oder Bein abgesägt nur um zu überleben.",
+        "display_text_range": [
+            25,
+            250
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mkkeck",
+                    "name": "M Keck",
+                    "id": 574480927,
+                    "id_str": "574480927",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "SPIEGEL_Politik",
+                    "name": "SPIEGEL Politik",
+                    "id": 17875848,
+                    "id_str": "17875848",
+                    "indices": [
+                        8,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sfPHv3MqZi",
+                "expanded_url": "https://twitter.com/i/web/status/1254049221814235136",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "mkkeck",
+                "name": "M Keck",
+                "id": 574480927,
+                "id_str": "574480927",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "SPIEGEL_Politik",
+                "name": "SPIEGEL Politik",
+                "id": 17875848,
+                "id_str": "17875848",
+                "indices": [
+                    8,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823608245"
+}

@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:22:54 +0000 2020",
+    "id": 1254038174655021061,
+    "id_str": "1254038174655021061",
+    "text": "@AdoraVastra Ja, das ist als Grund extrem lächerlich. Aber einen anderen kann ich dir leider nicht nennen. Die Schu… https://t.co/2cCWXnu1nF",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254037641911324673,
+    "in_reply_to_status_id_str": "1254037641911324673",
+    "in_reply_to_user_id": 139371804,
+    "in_reply_to_user_id_str": "139371804",
+    "in_reply_to_screen_name": "AdoraVastra",
+    "user": {
+        "id": 20643174,
+        "id_str": "20643174",
+        "name": "Shiva 🦋",
+        "screen_name": "ginnyvere",
+        "location": "Berlin",
+        "url": null,
+        "description": "~ hochgradig süchtig ~ chuuu chuuuuu ~ Zeug ~ he, she, it, das s muss mit!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 63,
+        "friends_count": 95,
+        "listed_count": 3,
+        "favourites_count": 13303,
+        "statuses_count": 13406,
+        "created_at": "Thu Feb 12 00:31:07 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017980240583372801/if__x7h-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017980240583372801/if__x7h-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20643174/1441768283",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@AdoraVastra Ja, das ist als Grund extrem lächerlich. Aber einen anderen kann ich dir leider nicht nennen. Die Schulen usw. machen doch alle auch wieder auf, Corona ist dann doch jetzt vorbei...",
+        "display_text_range": [
+            13,
+            194
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AdoraVastra",
+                    "name": "Renée 🇧🇪",
+                    "id": 139371804,
+                    "id_str": "139371804",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/2cCWXnu1nF",
+                "expanded_url": "https://twitter.com/i/web/status/1254038174655021061",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AdoraVastra",
+                "name": "Renée 🇧🇪",
+                "id": 139371804,
+                "id_str": "139371804",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820974397"
+}

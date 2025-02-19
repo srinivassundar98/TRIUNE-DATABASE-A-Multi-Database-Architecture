@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:04:34 +0000 2020",
+    "id": 1254033561939841027,
+    "id_str": "1254033561939841027",
+    "text": "@kioto_eddy @cdenv Beetje kort door de bocht, nee? Corona kan zich verspreiden via mensen die er gezond uitzien. Vo… https://t.co/vPqRr8pWSd",
+    "display_text_range": [
+        19,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254000941944188928,
+    "in_reply_to_status_id_str": "1254000941944188928",
+    "in_reply_to_user_id": 2277693252,
+    "in_reply_to_user_id_str": "2277693252",
+    "in_reply_to_screen_name": "kioto_eddy",
+    "user": {
+        "id": 985098351526973440,
+        "id_str": "985098351526973440",
+        "name": "WROschrIT",
+        "screen_name": "wroschj",
+        "location": "Luxembourg",
+        "url": null,
+        "description": "Bio & IT engineering - Let’s move your business to the online world.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 117,
+        "listed_count": 0,
+        "favourites_count": 138,
+        "statuses_count": 234,
+        "created_at": "Sat Apr 14 10:12:04 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985100827042963458/VxOgIdjk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985100827042963458/VxOgIdjk_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@kioto_eddy @cdenv Beetje kort door de bocht, nee? Corona kan zich verspreiden via mensen die er gezond uitzien. Vooral eigenlijk. De zieken blijven namelijk thuis. It’s complicated.",
+        "display_text_range": [
+            19,
+            182
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kioto_eddy",
+                    "name": "Kioto",
+                    "id": 2277693252,
+                    "id_str": "2277693252",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "cdenv",
+                    "name": "CD&V",
+                    "id": 15753618,
+                    "id_str": "15753618",
+                    "indices": [
+                        12,
+                        18
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/vPqRr8pWSd",
+                "expanded_url": "https://twitter.com/i/web/status/1254033561939841027",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "kioto_eddy",
+                "name": "Kioto",
+                "id": 2277693252,
+                "id_str": "2277693252",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "cdenv",
+                "name": "CD&V",
+                "id": 15753618,
+                "id_str": "15753618",
+                "indices": [
+                    12,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587819874640"
+}

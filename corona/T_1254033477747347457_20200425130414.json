@@ -1,0 +1,164 @@
+{
+    "created_at": "Sat Apr 25 13:04:14 +0000 2020",
+    "id": 1254033477747347457,
+    "id_str": "1254033477747347457",
+    "text": "#IndiaFightsCorona\nIndia’s endeavour to fight corona\nvia NaMo App https://t.co/hB0lwz56ci",
+    "display_text_range": [
+        0,
+        65
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1248935725833150464,
+        "id_str": "1248935725833150464",
+        "name": "Tanvi",
+        "screen_name": "Tanvi9891",
+        "location": null,
+        "url": null,
+        "description": "Charming, Honest, Born To Excel",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 6,
+        "listed_count": 0,
+        "favourites_count": 9,
+        "statuses_count": 94,
+        "created_at": "Sat Apr 11 11:27:48 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "IndiaFightsCorona",
+                "indices": [
+                    0,
+                    18
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254033341642235904,
+                "id_str": "1254033341642235904",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc4rhkU4AAeloN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc4rhkU4AAeloN.jpg",
+                "url": "https://t.co/hB0lwz56ci",
+                "display_url": "pic.twitter.com/hB0lwz56ci",
+                "expanded_url": "https://twitter.com/Tanvi9891/status/1254033477747347457/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254033341642235904,
+                "id_str": "1254033341642235904",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc4rhkU4AAeloN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc4rhkU4AAeloN.jpg",
+                "url": "https://t.co/hB0lwz56ci",
+                "display_url": "pic.twitter.com/hB0lwz56ci",
+                "expanded_url": "https://twitter.com/Tanvi9891/status/1254033477747347457/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819854567"
+}

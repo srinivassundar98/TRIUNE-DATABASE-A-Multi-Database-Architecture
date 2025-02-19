@@ -1,0 +1,202 @@
+{
+    "created_at": "Sat Apr 25 12:37:33 +0000 2020",
+    "id": 1254026760678752258,
+    "id_str": "1254026760678752258",
+    "text": "Great highlights of some of the fantastic work carried out my Parish &amp; Town Councils in Shropshire @mhclg @nalc… https://t.co/kibUe9LAR9",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 426815640,
+        "id_str": "426815640",
+        "name": "Helen Ball",
+        "screen_name": "ball_helen",
+        "location": "Shrewsbury, Shropshire",
+        "url": null,
+        "description": "Town Clerk of Shrewsbury Town Council, county town of Shropshire. Best Job Ever. All views are my own.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1369,
+        "friends_count": 1176,
+        "listed_count": 32,
+        "favourites_count": 3564,
+        "statuses_count": 4499,
+        "created_at": "Fri Dec 02 18:46:59 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/532251114851565568/eSxWLof0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/532251114851565568/eSxWLof0_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/426815640/1415733530",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "2bcd1de1f2c965c3",
+        "url": "https://api.twitter.com/1.1/geo/id/2bcd1de1f2c965c3.json",
+        "place_type": "city",
+        "name": "Bayston Hill",
+        "full_name": "Bayston Hill, England",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -2.783573,
+                        52.667642
+                    ],
+                    [
+                        -2.783573,
+                        52.680526
+                    ],
+                    [
+                        -2.755239,
+                        52.680526
+                    ],
+                    [
+                        -2.755239,
+                        52.667642
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Great highlights of some of the fantastic work carried out my Parish &amp; Town Councils in Shropshire @mhclg @nalc @SLCCnews @DKShrewsbury  https://t.co/pixnxMRa8N",
+        "display_text_range": [
+            0,
+            164
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pixnxMRa8N",
+                    "expanded_url": "https://newsroom.shropshire.gov.uk/2020/04/coronavirus-shropshire-towns-parishes-together/",
+                    "display_url": "newsroom.shropshire.gov.uk/2020/04/corona…",
+                    "indices": [
+                        141,
+                        164
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "mhclg",
+                    "name": "Ministry of Housing, Communities and Local Govt",
+                    "id": 15340496,
+                    "id_str": "15340496",
+                    "indices": [
+                        103,
+                        109
+                    ]
+                },
+                {
+                    "screen_name": "NALC",
+                    "name": "NALC",
+                    "id": 20527656,
+                    "id_str": "20527656",
+                    "indices": [
+                        110,
+                        115
+                    ]
+                },
+                {
+                    "screen_name": "SLCCnews",
+                    "name": "SLCC",
+                    "id": 299567111,
+                    "id_str": "299567111",
+                    "indices": [
+                        116,
+                        125
+                    ]
+                },
+                {
+                    "screen_name": "DKShrewsbury",
+                    "name": "Daniel Kawczynski",
+                    "id": 2286550590,
+                    "id_str": "2286550590",
+                    "indices": [
+                        126,
+                        139
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/kibUe9LAR9",
+                "expanded_url": "https://twitter.com/i/web/status/1254026760678752258",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "mhclg",
+                "name": "Ministry of Housing, Communities and Local Govt",
+                "id": 15340496,
+                "id_str": "15340496",
+                "indices": [
+                    103,
+                    109
+                ]
+            },
+            {
+                "screen_name": "NALC",
+                "name": "NALC",
+                "id": 20527656,
+                "id_str": "20527656",
+                "indices": [
+                    110,
+                    115
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818253093"
+}

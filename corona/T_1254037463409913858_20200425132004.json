@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 13:20:04 +0000 2020",
+    "id": 1254037463409913858,
+    "id_str": "1254037463409913858",
+    "text": "Wow in @middenwaard &amp; winkels als drogisterijen grote drukte zonder de 1.5m te waarborgen, elke week wordt het erge… https://t.co/aPGI71OxQG",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1139444124988428290,
+        "id_str": "1139444124988428290",
+        "name": "GoatOfTruth",
+        "screen_name": "GoatOfTruth1",
+        "location": "Satire stad, parodie laan",
+        "url": null,
+        "description": "The goat is right. Always. The goat. JOIN US.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7,
+        "friends_count": 0,
+        "listed_count": 0,
+        "favourites_count": 4,
+        "statuses_count": 247,
+        "created_at": "Fri Jun 14 08:07:04 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139444481411952640/D59l5gQ5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139444481411952640/D59l5gQ5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1139444124988428290/1560500253",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Wow in @middenwaard &amp; winkels als drogisterijen grote drukte zonder de 1.5m te waarborgen, elke week wordt het erger en handhaving lijkt ver te zoeken. Elke week meer gezinnen die uitjes houden zonder afstand in #Heerhugowaard en het mag allemaal in @GemHHW ? #corona #BlijfThuis",
+        "display_text_range": [
+            0,
+            283
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Heerhugowaard",
+                    "indices": [
+                        216,
+                        230
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        264,
+                        271
+                    ]
+                },
+                {
+                    "text": "BlijfThuis",
+                    "indices": [
+                        272,
+                        283
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Middenwaard",
+                    "name": "Middenwaard",
+                    "id": 522065123,
+                    "id_str": "522065123",
+                    "indices": [
+                        7,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "GemHHW",
+                    "name": "Gemeente Heerhugowaard",
+                    "id": 94108584,
+                    "id_str": "94108584",
+                    "indices": [
+                        254,
+                        261
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/aPGI71OxQG",
+                "expanded_url": "https://twitter.com/i/web/status/1254037463409913858",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Middenwaard",
+                "name": "Middenwaard",
+                "id": 522065123,
+                "id_str": "522065123",
+                "indices": [
+                    7,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587820804823"
+}

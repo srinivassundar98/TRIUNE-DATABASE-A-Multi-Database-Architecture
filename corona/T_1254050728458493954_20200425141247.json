@@ -1,0 +1,223 @@
+{
+    "created_at": "Sat Apr 25 14:12:47 +0000 2020",
+    "id": 1254050728458493954,
+    "id_str": "1254050728458493954",
+    "text": "In Hetero-Beziehungen verteilt sich - selbst wenn beide Feministin/Feminist sind - die Hausarbeit nicht von alleine… https://t.co/6sgrsqp5d5",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1686056641,
+        "id_str": "1686056641",
+        "name": "Henning Flaskamp",
+        "screen_name": "HerrDienst",
+        "location": "Berlin",
+        "url": "https://www.facebook.com/henning.flaskamp",
+        "description": "Geschäftsführer bei werk21 Kommunikation GmbH (@werk21k). Hier privat.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 457,
+        "friends_count": 411,
+        "listed_count": 9,
+        "favourites_count": 2620,
+        "statuses_count": 1123,
+        "created_at": "Tue Aug 20 15:16:28 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/922938986770857990/9ihMXkJ__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/922938986770857990/9ihMXkJ__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686056641/1540639763",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3078869807f9dd36",
+        "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+        "place_type": "city",
+        "name": "Berlin",
+        "full_name": "Berlin, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        13.088304,
+                        52.338079
+                    ],
+                    [
+                        13.088304,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.338079
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "In Hetero-Beziehungen verteilt sich - selbst wenn beide Feministin/Feminist sind - die Hausarbeit nicht von alleine gerecht. Da das durch Corona gerade wieder mehr Leuten auffällt: @MonaFlaskamp &amp; ich haben den neurotisch-bürokratischen Lösungsweg gewählt. Funktioniert! https://t.co/PUVrm0fehA",
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MonaFlaskamp",
+                    "name": "Mona Flaskamp",
+                    "id": 1201560227075764225,
+                    "id_str": "1201560227075764225",
+                    "indices": [
+                        181,
+                        194
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254050722464882689,
+                    "id_str": "1254050722464882689",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdIfOLXYAE9i9K.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdIfOLXYAE9i9K.jpg",
+                    "url": "https://t.co/PUVrm0fehA",
+                    "display_url": "pic.twitter.com/PUVrm0fehA",
+                    "expanded_url": "https://twitter.com/HerrDienst/status/1254050728458493954/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1336,
+                            "h": 611,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 311,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 549,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254050722464882689,
+                    "id_str": "1254050722464882689",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdIfOLXYAE9i9K.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdIfOLXYAE9i9K.jpg",
+                    "url": "https://t.co/PUVrm0fehA",
+                    "display_url": "pic.twitter.com/PUVrm0fehA",
+                    "expanded_url": "https://twitter.com/HerrDienst/status/1254050728458493954/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1336,
+                            "h": 611,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 311,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 549,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/6sgrsqp5d5",
+                "expanded_url": "https://twitter.com/i/web/status/1254050728458493954",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823967457"
+}

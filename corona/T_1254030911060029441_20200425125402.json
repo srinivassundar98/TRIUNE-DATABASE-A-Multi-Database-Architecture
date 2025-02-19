@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:54:02 +0000 2020",
+    "id": 1254030911060029441,
+    "id_str": "1254030911060029441",
+    "text": "@UNGeneva @WHO How many successful vaccines have you had for other corona viruses? Would that be ZERO? You better f… https://t.co/ExL7EYQpKo",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254004980257824773,
+    "in_reply_to_status_id_str": "1254004980257824773",
+    "in_reply_to_user_id": 164263382,
+    "in_reply_to_user_id_str": "164263382",
+    "in_reply_to_screen_name": "UNGeneva",
+    "user": {
+        "id": 34759202,
+        "id_str": "34759202",
+        "name": "Mary Stewart",
+        "screen_name": "MaryStewart01",
+        "location": "Philadelphia, Pa",
+        "url": null,
+        "description": "Conservative in liberal Philly..Blessed to have grown up in Kentucky..Go Big Blue!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3235,
+        "friends_count": 4852,
+        "listed_count": 48,
+        "favourites_count": 48955,
+        "statuses_count": 32672,
+        "created_at": "Thu Apr 23 22:49:57 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3117097785/273161857bdb6e9daadad36e55320bb5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3117097785/273161857bdb6e9daadad36e55320bb5_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34759202/1486653735",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@UNGeneva @WHO How many successful vaccines have you had for other corona viruses? Would that be ZERO? You better find treatments because a vaccine is iffy at best.",
+        "display_text_range": [
+            15,
+            164
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "UNGeneva",
+                    "name": "UN Geneva",
+                    "id": 164263382,
+                    "id_str": "164263382",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "WHO",
+                    "name": "World Health Organization (WHO)",
+                    "id": 14499829,
+                    "id_str": "14499829",
+                    "indices": [
+                        10,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ExL7EYQpKo",
+                "expanded_url": "https://twitter.com/i/web/status/1254030911060029441",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "UNGeneva",
+                "name": "UN Geneva",
+                "id": 164263382,
+                "id_str": "164263382",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "WHO",
+                "name": "World Health Organization (WHO)",
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    10,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819242621"
+}

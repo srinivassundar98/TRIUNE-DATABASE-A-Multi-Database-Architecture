@@ -1,0 +1,196 @@
+{
+    "created_at": "Sat Apr 25 12:35:27 +0000 2020",
+    "id": 1254026232255123457,
+    "id_str": "1254026232255123457",
+    "text": "@CNN After drinking #Dettol  #Corona #Covid_19 #GOP https://t.co/4X9TDrRjOV",
+    "display_text_range": [
+        5,
+        51
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253959669128757248,
+    "in_reply_to_status_id_str": "1253959669128757248",
+    "in_reply_to_user_id": 759251,
+    "in_reply_to_user_id_str": "759251",
+    "in_reply_to_screen_name": "CNN",
+    "user": {
+        "id": 1072119317217587200,
+        "id_str": "1072119317217587200",
+        "name": "EuroPMedia",
+        "screen_name": "EuroP_Media",
+        "location": "lives in Belgium",
+        "url": null,
+        "description": "Former TV Producer\nFormer Prod. Manager (for an American TV-Production Cie )\ninterested in politics and US politics, loves USA but do NOT support Donald Trump.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 8,
+        "friends_count": 49,
+        "listed_count": 0,
+        "favourites_count": 205,
+        "statuses_count": 792,
+        "created_at": "Mon Dec 10 13:22:19 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1072122066290257928/e0jbFXso_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072122066290257928/e0jbFXso_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Dettol",
+                "indices": [
+                    20,
+                    27
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    29,
+                    36
+                ]
+            },
+            {
+                "text": "Covid_19",
+                "indices": [
+                    37,
+                    46
+                ]
+            },
+            {
+                "text": "GOP",
+                "indices": [
+                    47,
+                    51
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "CNN",
+                "name": "CNN",
+                "id": 759251,
+                "id_str": "759251",
+                "indices": [
+                    0,
+                    4
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254026227867955206,
+                "id_str": "1254026227867955206",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcyNcsXsAYMuBq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcyNcsXsAYMuBq.jpg",
+                "url": "https://t.co/4X9TDrRjOV",
+                "display_url": "pic.twitter.com/4X9TDrRjOV",
+                "expanded_url": "https://twitter.com/EuroP_Media/status/1254026232255123457/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 644,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 754,
+                        "h": 796,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 754,
+                        "h": 796,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254026227867955206,
+                "id_str": "1254026227867955206",
+                "indices": [
+                    52,
+                    75
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcyNcsXsAYMuBq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcyNcsXsAYMuBq.jpg",
+                "url": "https://t.co/4X9TDrRjOV",
+                "display_url": "pic.twitter.com/4X9TDrRjOV",
+                "expanded_url": "https://twitter.com/EuroP_Media/status/1254026232255123457/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 644,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 754,
+                        "h": 796,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 754,
+                        "h": 796,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818127107"
+}

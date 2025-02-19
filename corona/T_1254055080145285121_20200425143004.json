@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 14:30:04 +0000 2020",
+    "id": 1254055080145285121,
+    "id_str": "1254055080145285121",
+    "text": "@idtodayco https://t.co/VgIO42ao4n\n@jokowi",
+    "display_text_range": [
+        11,
+        42
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254045596266098695,
+    "in_reply_to_status_id_str": "1254045596266098695",
+    "in_reply_to_user_id": 1082992095361609728,
+    "in_reply_to_user_id_str": "1082992095361609728",
+    "in_reply_to_screen_name": "idtodayco",
+    "user": {
+        "id": 1037719827996000257,
+        "id_str": "1037719827996000257",
+        "name": "Xman warior",
+        "screen_name": "WariorXman",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 90,
+        "friends_count": 147,
+        "listed_count": 0,
+        "favourites_count": 3637,
+        "statuses_count": 20172,
+        "created_at": "Thu Sep 06 15:11:01 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/VgIO42ao4n",
+                "expanded_url": "https://idtoday.co/regional/bukan-corona-tapi-kelaparan-seorang-tukang-becak-pingsan/",
+                "display_url": "idtoday.co/regional/bukan…",
+                "indices": [
+                    11,
+                    34
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "idtodayco",
+                "name": "IndonesiaToday",
+                "id": 1082992095361609728,
+                "id_str": "1082992095361609728",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "jokowi",
+                "name": "Joko Widodo",
+                "id": 366987179,
+                "id_str": "366987179",
+                "indices": [
+                    35,
+                    42
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587825004980"
+}

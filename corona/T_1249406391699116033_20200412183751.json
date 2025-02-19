@@ -1,0 +1,122 @@
+{
+    "created_at": "Sun Apr 12 18:37:51 +0000 2020",
+    "id": 1249406391699116033,
+    "id_str": "1249406391699116033",
+    "text": "@thehill Your employees are ore likely to die from a preventable medical mistake than from the corona. AMA estimate… https://t.co/ON4el09CTp",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249391101913505793,
+    "in_reply_to_status_id_str": "1249391101913505793",
+    "in_reply_to_user_id": 1917731,
+    "in_reply_to_user_id_str": "1917731",
+    "in_reply_to_screen_name": "thehill",
+    "user": {
+        "id": 1205488963168829440,
+        "id_str": "1205488963168829440",
+        "name": "Force DeNature",
+        "screen_name": "DenatureForce",
+        "location": null,
+        "url": null,
+        "description": "Proud American, Constitutional minded, free thinking, based AF",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 114,
+        "friends_count": 151,
+        "listed_count": 0,
+        "favourites_count": 10738,
+        "statuses_count": 2976,
+        "created_at": "Fri Dec 13 14:05:52 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1208380061461540865/fOYtw18A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208380061461540865/fOYtw18A_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@thehill Your employees are ore likely to die from a preventable medical mistake than from the corona. AMA estimates 295,000 Americans die each year from these mistake. Mayo Clinic says it is closer to 400,000. The science says that Mark, are you going to let them go to their doctors?",
+        "display_text_range": [
+            9,
+            285
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "thehill",
+                    "name": "The Hill",
+                    "id": 1917731,
+                    "id_str": "1917731",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ON4el09CTp",
+                "expanded_url": "https://twitter.com/i/web/status/1249406391699116033",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "thehill",
+                "name": "The Hill",
+                "id": 1917731,
+                "id_str": "1917731",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716671286"
+}

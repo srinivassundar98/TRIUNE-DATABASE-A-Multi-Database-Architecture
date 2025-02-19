@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 14:19:41 +0000 2020",
+    "id": 1254052466368397319,
+    "id_str": "1254052466368397319",
+    "text": "Se o corona não me matar a quarentena mata. https://t.co/61Oy7NAAFg",
+    "display_text_range": [
+        0,
+        43
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4847515870,
+        "id_str": "4847515870",
+        "name": "Dinizinha",
+        "screen_name": "IGBEK",
+        "location": "Rio de Janeiro, Brasil",
+        "url": null,
+        "description": "sad and alone\n\n18y",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 334,
+        "friends_count": 214,
+        "listed_count": 0,
+        "favourites_count": 6587,
+        "statuses_count": 4478,
+        "created_at": "Tue Jan 26 00:20:56 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1224739192527257606/EspkUcW1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224739192527257606/EspkUcW1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4847515870/1573344003",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254052460207001601,
+                "id_str": "1254052460207001601",
+                "indices": [
+                    44,
+                    67
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdKEXxX0AEXm6I.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdKEXxX0AEXm6I.jpg",
+                "url": "https://t.co/61Oy7NAAFg",
+                "display_url": "pic.twitter.com/61Oy7NAAFg",
+                "expanded_url": "https://twitter.com/IGBEK/status/1254052466368397319/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254052460207001601,
+                "id_str": "1254052460207001601",
+                "indices": [
+                    44,
+                    67
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdKEXxX0AEXm6I.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdKEXxX0AEXm6I.jpg",
+                "url": "https://t.co/61Oy7NAAFg",
+                "display_url": "pic.twitter.com/61Oy7NAAFg",
+                "expanded_url": "https://twitter.com/IGBEK/status/1254052466368397319/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587824381807"
+}

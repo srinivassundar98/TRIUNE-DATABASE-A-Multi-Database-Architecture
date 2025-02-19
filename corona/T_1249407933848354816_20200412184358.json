@@ -1,0 +1,142 @@
+{
+    "created_at": "Sun Apr 12 18:43:58 +0000 2020",
+    "id": 1249407933848354816,
+    "id_str": "1249407933848354816",
+    "text": "@sypwynia @leentje_e Na Pasen komen er meer corona gevallen bij.  Zou heer Rutte bedoelen met golfende beweging bij… https://t.co/HHviqQZFAX",
+    "display_text_range": [
+        21,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1246331474942603264,
+    "in_reply_to_status_id_str": "1246331474942603264",
+    "in_reply_to_user_id": 2799495035,
+    "in_reply_to_user_id_str": "2799495035",
+    "in_reply_to_screen_name": "terugnaaraf",
+    "user": {
+        "id": 2799495035,
+        "id_str": "2799495035",
+        "name": "Zonet 9",
+        "screen_name": "terugnaaraf",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 13,
+        "friends_count": 69,
+        "listed_count": 0,
+        "favourites_count": 1647,
+        "statuses_count": 1326,
+        "created_at": "Thu Oct 02 06:58:25 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@sypwynia @leentje_e Na Pasen komen er meer corona gevallen bij.  Zou heer Rutte bedoelen met golfende beweging bij afnamen versoepelen bij toenamen strenger.  Vandaag heel vroeg naar buiten en nu het wat koeler is een klein blokje.",
+        "display_text_range": [
+            21,
+            232
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sypwynia",
+                    "name": "Syp Wynia",
+                    "id": 48015202,
+                    "id_str": "48015202",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "leentje_e",
+                    "name": "Leentje😎",
+                    "id": 800829566793158657,
+                    "id_str": "800829566793158657",
+                    "indices": [
+                        10,
+                        20
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/HHviqQZFAX",
+                "expanded_url": "https://twitter.com/i/web/status/1249407933848354816",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sypwynia",
+                "name": "Syp Wynia",
+                "id": 48015202,
+                "id_str": "48015202",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "leentje_e",
+                "name": "Leentje😎",
+                "id": 800829566793158657,
+                "id_str": "800829566793158657",
+                "indices": [
+                    10,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586717038963"
+}

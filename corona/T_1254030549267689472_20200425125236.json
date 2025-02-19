@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 12:52:36 +0000 2020",
+    "id": 1254030549267689472,
+    "id_str": "1254030549267689472",
+    "text": "@paco_lorente @Tonicanto1 @CiudadanosCs El 8M va a pasar a la historia por el Dia del Corona Virus.",
+    "display_text_range": [
+        40,
+        99
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254029229190262785,
+    "in_reply_to_status_id_str": "1254029229190262785",
+    "in_reply_to_user_id": 373934692,
+    "in_reply_to_user_id_str": "373934692",
+    "in_reply_to_screen_name": "paco_lorente",
+    "user": {
+        "id": 1450008793,
+        "id_str": "1450008793",
+        "name": "edu vallejo",
+        "screen_name": "eduvallejo33",
+        "location": "malaga",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 92,
+        "friends_count": 532,
+        "listed_count": 0,
+        "favourites_count": 7807,
+        "statuses_count": 5121,
+        "created_at": "Wed May 22 22:06:59 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1203822413101834243/oMoWlaeQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203822413101834243/oMoWlaeQ_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "paco_lorente",
+                "name": "FRANCISCO LORENTE",
+                "id": 373934692,
+                "id_str": "373934692",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Tonicanto1",
+                "name": "Toni Cantó 🖤🇪🇸",
+                "id": 249122306,
+                "id_str": "249122306",
+                "indices": [
+                    14,
+                    25
+                ]
+            },
+            {
+                "screen_name": "CiudadanosCs",
+                "name": "Ciudadanos 🇪🇸🇪🇺",
+                "id": 19028805,
+                "id_str": "19028805",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "ca",
+    "timestamp_ms": "1587819156363"
+}

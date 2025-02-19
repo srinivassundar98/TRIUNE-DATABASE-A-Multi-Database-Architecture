@@ -1,0 +1,175 @@
+{
+    "created_at": "Sat Apr 25 12:27:39 +0000 2020",
+    "id": 1254024269123784707,
+    "id_str": "1254024269123784707",
+    "text": "@SaschaKrolzig @PolizeiBhv Gegen die Corona Auflagen demonstrieren und dann solche einfordern. Ist das irgendwie ei… https://t.co/6PMEiF3zwn",
+    "display_text_range": [
+        27,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254023280995991553,
+    "in_reply_to_status_id_str": "1254023280995991553",
+    "in_reply_to_user_id": 2289450010,
+    "in_reply_to_user_id_str": "2289450010",
+    "in_reply_to_screen_name": "SaschaKrolzig",
+    "user": {
+        "id": 23237698,
+        "id_str": "23237698",
+        "name": "☣ Cpt Rutger ☣",
+        "screen_name": "Cpt_Rutger",
+        "location": "Bremen, Germany",
+        "url": null,
+        "description": "Part-time politician, Undercover CoD VIP, 52 years old, still gaming. Xbox GT: Cpt Rutger ,  PS4: Cpt_Rutger , ATVI ID: Cpt_Rutger  #TeamDRKN #TeamIW",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2038,
+        "friends_count": 2191,
+        "listed_count": 27,
+        "favourites_count": 41623,
+        "statuses_count": 45556,
+        "created_at": "Sat Mar 07 21:36:08 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "16181A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "8B0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979495078375972864/wGLeYlRj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979495078375972864/wGLeYlRj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23237698/1522749502",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5b1a29f98ababf57",
+        "url": "https://api.twitter.com/1.1/geo/id/5b1a29f98ababf57.json",
+        "place_type": "city",
+        "name": "Bremen",
+        "full_name": "Bremen, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        8.481599,
+                        53.011035
+                    ],
+                    [
+                        8.481599,
+                        53.228969
+                    ],
+                    [
+                        8.990593,
+                        53.228969
+                    ],
+                    [
+                        8.990593,
+                        53.011035
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@SaschaKrolzig @PolizeiBhv Gegen die Corona Auflagen demonstrieren und dann solche einfordern. Ist das irgendwie eine komische Art von Nazi Humor? LOL",
+        "display_text_range": [
+            27,
+            150
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SaschaKrolzig",
+                    "name": "Sascha Krolzig",
+                    "id": 2289450010,
+                    "id_str": "2289450010",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "PolizeiBhv",
+                    "name": "Polizei Bremerhaven",
+                    "id": 3350504651,
+                    "id_str": "3350504651",
+                    "indices": [
+                        15,
+                        26
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/6PMEiF3zwn",
+                "expanded_url": "https://twitter.com/i/web/status/1254024269123784707",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "SaschaKrolzig",
+                "name": "Sascha Krolzig",
+                "id": 2289450010,
+                "id_str": "2289450010",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "PolizeiBhv",
+                "name": "Polizei Bremerhaven",
+                "id": 3350504651,
+                "id_str": "3350504651",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587817659060"
+}

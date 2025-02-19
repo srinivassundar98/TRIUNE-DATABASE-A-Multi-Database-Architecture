@@ -1,0 +1,170 @@
+{
+    "created_at": "Sat Apr 25 13:25:24 +0000 2020",
+    "id": 1254038802290507777,
+    "id_str": "1254038802290507777",
+    "text": "@CMOMaharashtra  @VarshaEGaikwad  corona चा वाढता प्रादुर्भाव पाहता आणखी काही दिवस ऑफिस चालू होईल असे वाटत नाही. लो… https://t.co/plobH57JvK",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2597666894,
+    "in_reply_to_user_id_str": "2597666894",
+    "in_reply_to_screen_name": "CMOMaharashtra",
+    "user": {
+        "id": 360674386,
+        "id_str": "360674386",
+        "name": "nitin mhatre",
+        "screen_name": "nitin10031980",
+        "location": "मुंबई, भारत",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 23,
+        "listed_count": 0,
+        "favourites_count": 34,
+        "statuses_count": 13,
+        "created_at": "Tue Aug 23 15:48:49 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246716234013364224/xl1oqe_F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246716234013364224/xl1oqe_F_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "2c323d824adb6dc4",
+        "url": "https://api.twitter.com/1.1/geo/id/2c323d824adb6dc4.json",
+        "place_type": "city",
+        "name": "Kalyan Dombivali",
+        "full_name": "Kalyan Dombivali, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        73.063131,
+                        19.139733
+                    ],
+                    [
+                        73.063131,
+                        19.401009
+                    ],
+                    [
+                        73.321579,
+                        19.401009
+                    ],
+                    [
+                        73.321579,
+                        19.139733
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CMOMaharashtra  @VarshaEGaikwad  corona चा वाढता प्रादुर्भाव पाहता आणखी काही दिवस ऑफिस चालू होईल असे वाटत नाही. लोकांचे पगार मिळतील,  नाही मिळणार कि कमी मिळणार हे सुद्धा माहित नाही.. कृपया या वर्षी महाराष्ट्रातल्या कोणत्याही शाळेची फी वाढणार नाही या बद्दल काहीतरी तजविज करावी.",
+        "display_text_range": [
+            0,
+            277
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CMOMaharashtra",
+                    "name": "CMO Maharashtra",
+                    "id": 2597666894,
+                    "id_str": "2597666894",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "VarshaEGaikwad",
+                    "name": "Varsha Gaikwad",
+                    "id": 2605164164,
+                    "id_str": "2605164164",
+                    "indices": [
+                        17,
+                        32
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/plobH57JvK",
+                "expanded_url": "https://twitter.com/i/web/status/1254038802290507777",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CMOMaharashtra",
+                "name": "CMO Maharashtra",
+                "id": 2597666894,
+                "id_str": "2597666894",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "VarshaEGaikwad",
+                "name": "Varsha Gaikwad",
+                "id": 2605164164,
+                "id_str": "2605164164",
+                "indices": [
+                    17,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "mr",
+    "timestamp_ms": "1587821124037"
+}

@@ -1,0 +1,166 @@
+{
+    "created_at": "Sat Apr 25 13:33:26 +0000 2020",
+    "id": 1254040826348519425,
+    "id_str": "1254040826348519425",
+    "text": "An 86-year-old corona patient with background illness passed away at Kaplan Hospital https://t.co/UMit0eZVbG https://t.co/t71VT4gBMA",
+    "display_text_range": [
+        0,
+        108
+    ],
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1246474735019528192,
+        "id_str": "1246474735019528192",
+        "name": "News1 English",
+        "screen_name": "News1En",
+        "location": null,
+        "url": null,
+        "description": "News1 English",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 1,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 34201,
+        "created_at": "Sat Apr 04 16:28:42 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246474827348750336/mJxlnNky_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246474827348750336/mJxlnNky_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/UMit0eZVbG",
+                "expanded_url": "https://www.news1.news/i/2020/04/an-86-year-old-corona-patient-with-background-illness-passed-away-at-kaplan-hospital.html",
+                "display_url": "news1.news/i/2020/04/an-8…",
+                "indices": [
+                    85,
+                    108
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254040824909832197,
+                "id_str": "1254040824909832197",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_fG6WoAU_r0-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_fG6WoAU_r0-.jpg",
+                "url": "https://t.co/t71VT4gBMA",
+                "display_url": "pic.twitter.com/t71VT4gBMA",
+                "expanded_url": "https://twitter.com/News1En/status/1254040826348519425/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254040824909832197,
+                "id_str": "1254040824909832197",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_fG6WoAU_r0-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_fG6WoAU_r0-.jpg",
+                "url": "https://t.co/t71VT4gBMA",
+                "display_url": "pic.twitter.com/t71VT4gBMA",
+                "expanded_url": "https://twitter.com/News1En/status/1254040826348519425/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 500,
+                        "h": 280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821606610"
+}

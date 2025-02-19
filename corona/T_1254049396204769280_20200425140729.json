@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 14:07:29 +0000 2020",
+    "id": 1254049396204769280,
+    "id_str": "1254049396204769280",
+    "text": "corona pergi dong, aku butuh liburan! https://t.co/I9KE2IpdwK",
+    "display_text_range": [
+        0,
+        37
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 727847923,
+        "id_str": "727847923",
+        "name": "Roni",
+        "screen_name": "larisaya_",
+        "location": "location unknown ",
+        "url": null,
+        "description": "hobi musiman",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 215,
+        "friends_count": 197,
+        "listed_count": 0,
+        "favourites_count": 444,
+        "statuses_count": 4575,
+        "created_at": "Tue Jul 31 07:45:47 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249148755950985217/qPgde1AH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249148755950985217/qPgde1AH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/727847923/1583331825",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254049384477585408,
+                "id_str": "1254049384477585408",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdHRVyVcAAddIs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdHRVyVcAAddIs.jpg",
+                "url": "https://t.co/I9KE2IpdwK",
+                "display_url": "pic.twitter.com/I9KE2IpdwK",
+                "expanded_url": "https://twitter.com/larisaya_/status/1254049396204769280/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254049384477585408,
+                "id_str": "1254049384477585408",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdHRVyVcAAddIs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdHRVyVcAAddIs.jpg",
+                "url": "https://t.co/I9KE2IpdwK",
+                "display_url": "pic.twitter.com/I9KE2IpdwK",
+                "expanded_url": "https://twitter.com/larisaya_/status/1254049396204769280/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587823649823"
+}

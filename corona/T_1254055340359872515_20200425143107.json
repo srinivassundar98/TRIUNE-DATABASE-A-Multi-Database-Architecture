@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:31:07 +0000 2020",
+    "id": 1254055340359872515,
+    "id_str": "1254055340359872515",
+    "text": "@anandmahindra I would think using a leaf is  worse than no mask at all because of the ease of contaminating the us… https://t.co/ihK4r64NmN",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254009255595855872,
+    "in_reply_to_status_id_str": "1254009255595855872",
+    "in_reply_to_user_id": 34197952,
+    "in_reply_to_user_id_str": "34197952",
+    "in_reply_to_screen_name": "anandmahindra",
+    "user": {
+        "id": 134277781,
+        "id_str": "134277781",
+        "name": "Michelle Auger",
+        "screen_name": "MichelleAuger",
+        "location": "British Columbia, Canada",
+        "url": "http://linkedin.com/in/augerm",
+        "description": "Healthcare, Patient Experience, Staff Experience, Impact,  Quality Care, Leadership, Forever Student #FraserHealth. 🇨🇦",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 774,
+        "friends_count": 601,
+        "listed_count": 34,
+        "favourites_count": 2009,
+        "statuses_count": 6486,
+        "created_at": "Sun Apr 18 00:06:58 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150117808904163328/HN99DpHc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150117808904163328/HN99DpHc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134277781/1563086876",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@anandmahindra I would think using a leaf is  worse than no mask at all because of the ease of contaminating the user.\n\nThe tragic irony of this tweet is that the Corona virus is nature. Providing itself all that it needs to survive and it does so very efficiently. Humans, not so much.",
+        "display_text_range": [
+            15,
+            286
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "anandmahindra",
+                    "name": "anand mahindra",
+                    "id": 34197952,
+                    "id_str": "34197952",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ihK4r64NmN",
+                "expanded_url": "https://twitter.com/i/web/status/1254055340359872515",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "anandmahindra",
+                "name": "anand mahindra",
+                "id": 34197952,
+                "id_str": "34197952",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825067020"
+}

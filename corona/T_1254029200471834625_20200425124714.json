@@ -1,0 +1,175 @@
+{
+    "created_at": "Sat Apr 25 12:47:14 +0000 2020",
+    "id": 1254029200471834625,
+    "id_str": "1254029200471834625",
+    "text": "@AlexJonesWins @DrButtar I’ve been looking for this too today and see it’s been taken down from YouTube. I signed u… https://t.co/FAPz9FBZSB",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253910117587787776,
+    "in_reply_to_status_id_str": "1253910117587787776",
+    "in_reply_to_user_id": 784509729372372994,
+    "in_reply_to_user_id_str": "784509729372372994",
+    "in_reply_to_screen_name": "AlexJonesWins",
+    "user": {
+        "id": 3501746896,
+        "id_str": "3501746896",
+        "name": "Jo Arnold",
+        "screen_name": "HobojoboSurrey",
+        "location": "Banstead, England",
+        "url": "http://www.arnoldandbaldwin.co.uk",
+        "description": "Surrey Mum to 5 year old Alys & 1 year old Seren. Taking over the world one day at a time with my amazing husband. Animal lover, spiritual & love to laugh.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 34,
+        "friends_count": 126,
+        "listed_count": 1,
+        "favourites_count": 335,
+        "statuses_count": 127,
+        "created_at": "Mon Aug 31 12:25:35 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/779053875873669145/4ATIR4kx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/779053875873669145/4ATIR4kx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3501746896/1484664206",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "1bfd34ea190a59c2",
+        "url": "https://api.twitter.com/1.1/geo/id/1bfd34ea190a59c2.json",
+        "place_type": "city",
+        "name": "Banstead",
+        "full_name": "Banstead, South East",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -0.253407,
+                        51.269527
+                    ],
+                    [
+                        -0.253407,
+                        51.336645
+                    ],
+                    [
+                        -0.155273,
+                        51.336645
+                    ],
+                    [
+                        -0.155273,
+                        51.269527
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@AlexJonesWins @DrButtar I’ve been looking for this too today and see it’s been taken down from YouTube. I signed up Dr Buttar’s page but can’t find the links to this. If anyone finds them please share them with me. Dr Buttar’s videos on Corona are powerful and explained much better than anything else🙏",
+        "display_text_range": [
+            25,
+            303
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AlexJonesWins",
+                    "name": "📢 We are ALL Alex Jones ❌ BANNED(dot)VIDEO",
+                    "id": 784509729372372994,
+                    "id_str": "784509729372372994",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "DrButtar",
+                    "name": "Dr Rashid A Buttar",
+                    "id": 64423855,
+                    "id_str": "64423855",
+                    "indices": [
+                        15,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/FAPz9FBZSB",
+                "expanded_url": "https://twitter.com/i/web/status/1254029200471834625",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AlexJonesWins",
+                "name": "📢 We are ALL Alex Jones ❌ BANNED(dot)VIDEO",
+                "id": 784509729372372994,
+                "id_str": "784509729372372994",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "DrButtar",
+                "name": "Dr Rashid A Buttar",
+                "id": 64423855,
+                "id_str": "64423855",
+                "indices": [
+                    15,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818834785"
+}

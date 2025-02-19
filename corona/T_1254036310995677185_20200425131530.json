@@ -1,0 +1,223 @@
+{
+    "created_at": "Sat Apr 25 13:15:30 +0000 2020",
+    "id": 1254036310995677185,
+    "id_str": "1254036310995677185",
+    "text": "I'm missing all the special outdoor moments and grooves with my lady. Corona please 😩 https://t.co/rxLCHf1hos",
+    "display_text_range": [
+        0,
+        85
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 740955933455482880,
+        "id_str": "740955933455482880",
+        "name": "Ogiri Anayochukwu",
+        "screen_name": "OgiriAnayo",
+        "location": "Enugu, Nigeria",
+        "url": "http://www.OgiriAnayoNotes.wordpress.com",
+        "description": "Architect • Writer\n•Telling our Stories•\nMail✉️: anayochukwuogiri@gmail.com",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 422,
+        "friends_count": 466,
+        "listed_count": 0,
+        "favourites_count": 27132,
+        "statuses_count": 532,
+        "created_at": "Thu Jun 09 17:17:15 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253624071096598528/1Qyztk6N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253624071096598528/1Qyztk6N_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/740955933455482880/1563381996",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "003973ed379a1a85",
+        "url": "https://api.twitter.com/1.1/geo/id/003973ed379a1a85.json",
+        "place_type": "city",
+        "name": "Okigwe",
+        "full_name": "Okigwe, Nigeria",
+        "country_code": "NG",
+        "country": "Nigeria",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        7.331702,
+                        5.813708
+                    ],
+                    [
+                        7.331702,
+                        5.843893
+                    ],
+                    [
+                        7.366363,
+                        5.843893
+                    ],
+                    [
+                        7.366363,
+                        5.813708
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254036146142797824,
+                "id_str": "1254036146142797824",
+                "indices": [
+                    86,
+                    109
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254036146142797824/pu/img/vGoTxp0FgzwKnRZO.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254036146142797824/pu/img/vGoTxp0FgzwKnRZO.jpg",
+                "url": "https://t.co/rxLCHf1hos",
+                "display_url": "pic.twitter.com/rxLCHf1hos",
+                "expanded_url": "https://twitter.com/OgiriAnayo/status/1254036310995677185/video/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 480,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254036146142797824,
+                "id_str": "1254036146142797824",
+                "indices": [
+                    86,
+                    109
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254036146142797824/pu/img/vGoTxp0FgzwKnRZO.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254036146142797824/pu/img/vGoTxp0FgzwKnRZO.jpg",
+                "url": "https://t.co/rxLCHf1hos",
+                "display_url": "pic.twitter.com/rxLCHf1hos",
+                "expanded_url": "https://twitter.com/OgiriAnayo/status/1254036310995677185/video/1",
+                "type": "video",
+                "video_info": {
+                    "aspect_ratio": [
+                        3,
+                        4
+                    ],
+                    "duration_millis": 17072,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254036146142797824/pu/vid/480x640/c1qxrNqIoQ2A4NwO.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1254036146142797824/pu/pl/Hj2--3R5orFw2eig.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254036146142797824/pu/vid/360x480/f5XymAyUP_n2NlGD.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254036146142797824/pu/vid/320x426/q-SHbDx2W-wHIXau.mp4?tag=10"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "small": {
+                        "w": 480,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820530066"
+}

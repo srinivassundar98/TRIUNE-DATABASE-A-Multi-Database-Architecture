@@ -1,0 +1,193 @@
+{
+    "created_at": "Sat Apr 25 13:19:48 +0000 2020",
+    "id": 1254037396955398145,
+    "id_str": "1254037396955398145",
+    "text": "@Informativo102 @IvanMercadoNews @Concanaco @jm_lopezcampos Provocada en parte por el Corona Virus, pero por otra G… https://t.co/5uux4wmpdL",
+    "display_text_range": [
+        60,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253660415818477568,
+    "in_reply_to_status_id_str": "1253660415818477568",
+    "in_reply_to_user_id": 150407590,
+    "in_reply_to_user_id_str": "150407590",
+    "in_reply_to_screen_name": "Informativo102",
+    "user": {
+        "id": 410709400,
+        "id_str": "410709400",
+        "name": "Manuel Miranda",
+        "screen_name": "mmr8571",
+        "location": "México",
+        "url": null,
+        "description": "Licenciatura en Dirección de Recursos Humanos - 25 años disfrutando este medio - Consultor y Asesor",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 236,
+        "friends_count": 53,
+        "listed_count": 0,
+        "favourites_count": 21858,
+        "statuses_count": 15210,
+        "created_at": "Sat Nov 12 13:19:26 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214595522994020352/HbKGvrpd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214595522994020352/HbKGvrpd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/410709400/1578417413",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Informativo102 @IvanMercadoNews @Concanaco @jm_lopezcampos Provocada en parte por el Corona Virus, pero por otra GRAN PARTE provocada por la mayor desgracia que ha tenido México al frente del Ejecutivo @lopezobrador_",
+        "display_text_range": [
+            60,
+            217
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Informativo102",
+                    "name": "Informativo 102",
+                    "id": 150407590,
+                    "id_str": "150407590",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "IvanMercadoNews",
+                    "name": "IVAN MERCADO",
+                    "id": 128311557,
+                    "id_str": "128311557",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "Concanaco",
+                    "name": "Concanaco Servytur",
+                    "id": 85431245,
+                    "id_str": "85431245",
+                    "indices": [
+                        33,
+                        43
+                    ]
+                },
+                {
+                    "screen_name": "jm_lopezcampos",
+                    "name": "José M. López Campos",
+                    "id": 4786724180,
+                    "id_str": "4786724180",
+                    "indices": [
+                        44,
+                        59
+                    ]
+                },
+                {
+                    "screen_name": "lopezobrador_",
+                    "name": "Andrés Manuel",
+                    "id": 82119937,
+                    "id_str": "82119937",
+                    "indices": [
+                        203,
+                        217
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/5uux4wmpdL",
+                "expanded_url": "https://twitter.com/i/web/status/1254037396955398145",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Informativo102",
+                "name": "Informativo 102",
+                "id": 150407590,
+                "id_str": "150407590",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "IvanMercadoNews",
+                "name": "IVAN MERCADO",
+                "id": 128311557,
+                "id_str": "128311557",
+                "indices": [
+                    16,
+                    32
+                ]
+            },
+            {
+                "screen_name": "Concanaco",
+                "name": "Concanaco Servytur",
+                "id": 85431245,
+                "id_str": "85431245",
+                "indices": [
+                    33,
+                    43
+                ]
+            },
+            {
+                "screen_name": "jm_lopezcampos",
+                "name": "José M. López Campos",
+                "id": 4786724180,
+                "id_str": "4786724180",
+                "indices": [
+                    44,
+                    59
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587820788979"
+}

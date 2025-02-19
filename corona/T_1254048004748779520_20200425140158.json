@@ -1,0 +1,128 @@
+{
+    "created_at": "Sat Apr 25 14:01:58 +0000 2020",
+    "id": 1254048004748779520,
+    "id_str": "1254048004748779520",
+    "text": "Nothing is better than Nature.\nCorona virus ne learn kra diya🌱🌲🌳🌴🌵🌷🍀🌸🍁🍂🌻🌈🌈⛅☀️🌿🌾🌾🌾🌎🌎🌏🌍 @ India https://t.co/knuSUCkbV7",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1192088524582871040,
+        "id_str": "1192088524582871040",
+        "name": "Deepak Prakash",
+        "screen_name": "DeepakP26428642",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 4,
+        "listed_count": 0,
+        "favourites_count": 9,
+        "statuses_count": 16,
+        "created_at": "Wed Nov 06 14:37:26 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192088739029241857/G6lcpIpK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192088739029241857/G6lcpIpK_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            21.0,
+            77.0
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            77.0,
+            21.0
+        ]
+    },
+    "place": {
+        "id": "4c6bf2b7c14c8f88",
+        "url": "https://api.twitter.com/1.1/geo/id/4c6bf2b7c14c8f88.json",
+        "place_type": "admin",
+        "name": "Maharashtra",
+        "full_name": "Maharashtra, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        72.64293,
+                        15.606794
+                    ],
+                    [
+                        72.64293,
+                        22.029028
+                    ],
+                    [
+                        80.899558,
+                        22.029028
+                    ],
+                    [
+                        80.899558,
+                        15.606794
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/knuSUCkbV7",
+                "expanded_url": "https://www.instagram.com/p/B_aA3g9H0d7/?igshid=17n8lo5un7pgo",
+                "display_url": "instagram.com/p/B_aA3g9H0d7/…",
+                "indices": [
+                    94,
+                    117
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823318074"
+}

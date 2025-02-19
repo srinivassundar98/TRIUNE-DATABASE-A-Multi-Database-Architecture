@@ -1,0 +1,167 @@
+{
+    "created_at": "Sun Apr 12 18:35:09 +0000 2020",
+    "id": 1249405713715204097,
+    "id_str": "1249405713715204097",
+    "text": "UPDATE: COVID-19 IN SOUTH AFRICA https://t.co/MrvuR0hOlL https://t.co/l304sNcOLd",
+    "display_text_range": [
+        0,
+        56
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1148834039559860224,
+        "id_str": "1148834039559860224",
+        "name": "KAE News",
+        "screen_name": "news_kae",
+        "location": "Kaalfontein",
+        "url": "http://www.kaenews.co.za",
+        "description": "Kaalfontein Allandale Ebony Park News",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 535,
+        "friends_count": 706,
+        "listed_count": 1,
+        "favourites_count": 45,
+        "statuses_count": 731,
+        "created_at": "Wed Jul 10 05:59:14 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248389007332892673/8ioBZUqf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248389007332892673/8ioBZUqf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1148834039559860224/1586474014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/MrvuR0hOlL",
+                "expanded_url": "https://kaenews.co.za/blog/update-covid-19-in-south-africa/health/corona-virus/",
+                "display_url": "kaenews.co.za/blog/update-co…",
+                "indices": [
+                    33,
+                    56
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249405703082606592,
+                "id_str": "1249405703082606592",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbH3giWAAAMp91.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbH3giWAAAMp91.jpg",
+                "url": "https://t.co/l304sNcOLd",
+                "display_url": "pic.twitter.com/l304sNcOLd",
+                "expanded_url": "https://twitter.com/news_kae/status/1249405713715204097/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1500,
+                        "h": 844,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249405703082606592,
+                "id_str": "1249405703082606592",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbH3giWAAAMp91.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbH3giWAAAMp91.jpg",
+                "url": "https://t.co/l304sNcOLd",
+                "display_url": "pic.twitter.com/l304sNcOLd",
+                "expanded_url": "https://twitter.com/news_kae/status/1249405713715204097/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1500,
+                        "h": 844,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716509642"
+}

@@ -1,0 +1,96 @@
+{
+    "created_at": "Sat Apr 25 13:44:53 +0000 2020",
+    "id": 1254043708028325888,
+    "id_str": "1254043708028325888",
+    "text": "@CDCgov you need to update your U.S. cause of death statistics. https://t.co/Snr7Vf7wci\nCorona virus has breached the top 10.",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 146569971,
+    "in_reply_to_user_id_str": "146569971",
+    "in_reply_to_screen_name": "CDCgov",
+    "user": {
+        "id": 798946441687400450,
+        "id_str": "798946441687400450",
+        "name": "EisenNears",
+        "screen_name": "EisenNears",
+        "location": null,
+        "url": null,
+        "description": "🌊",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 516,
+        "friends_count": 882,
+        "listed_count": 0,
+        "favourites_count": 19074,
+        "statuses_count": 11784,
+        "created_at": "Wed Nov 16 17:50:50 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/798950543137865730/4v3_gVod_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/798950543137865730/4v3_gVod_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/798946441687400450/1479319832",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Snr7Vf7wci",
+                "expanded_url": "https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm",
+                "display_url": "cdc.gov/nchs/fastats/l…",
+                "indices": [
+                    64,
+                    87
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CDCgov",
+                "name": "CDC",
+                "id": 146569971,
+                "id_str": "146569971",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822293656"
+}

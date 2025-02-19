@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 12:25:40 +0000 2020",
+    "id": 1254023773617086464,
+    "id_str": "1254023773617086464",
+    "text": "25 aprile, il sindaco di Viareggio deposita una corona al monumento dei caduti - https://t.co/BttCXNLdbC https://t.co/GmUi5Wl4D7",
+    "display_text_range": [
+        0,
+        104
+    ],
+    "source": "<a href=\"http://www.versiliatoday.it\" rel=\"nofollow\">Versiliatodayapp</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 403693431,
+        "id_str": "403693431",
+        "name": "Versiliatoday.it",
+        "screen_name": "Versiliatoday",
+        "location": null,
+        "url": "http://www.versiliatoday.it",
+        "description": "Notizie in tempo reale",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 9025,
+        "friends_count": 365,
+        "listed_count": 82,
+        "favourites_count": 2462,
+        "statuses_count": 95501,
+        "created_at": "Wed Nov 02 21:29:28 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1619500724/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1619500724/image_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403693431/1398991792",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/BttCXNLdbC",
+                "expanded_url": "https://www.versiliatoday.it/2020/04/25/25-aprile-sindaco-viareggio-deposita-corona-al-monumento-dei-caduti/",
+                "display_url": "versiliatoday.it/2020/04/25/25-…",
+                "indices": [
+                    81,
+                    104
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254023771347976192,
+                "id_str": "1254023771347976192",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcv-dcXgAAaeJ5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcv-dcXgAAaeJ5.jpg",
+                "url": "https://t.co/GmUi5Wl4D7",
+                "display_url": "pic.twitter.com/GmUi5Wl4D7",
+                "expanded_url": "https://twitter.com/Versiliatoday/status/1254023773617086464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 683,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 728,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 387,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254023771347976192,
+                "id_str": "1254023771347976192",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcv-dcXgAAaeJ5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcv-dcXgAAaeJ5.jpg",
+                "url": "https://t.co/GmUi5Wl4D7",
+                "display_url": "pic.twitter.com/GmUi5Wl4D7",
+                "expanded_url": "https://twitter.com/Versiliatoday/status/1254023773617086464/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 683,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 728,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 387,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1587817540922"
+}

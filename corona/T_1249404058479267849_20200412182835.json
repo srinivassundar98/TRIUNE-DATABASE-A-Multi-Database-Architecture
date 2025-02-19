@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:28:35 +0000 2020",
+    "id": 1249404058479267849,
+    "id_str": "1249404058479267849",
+    "text": "@N_Heisterhagen @Tinimaus1110 Corona Bonds, Verallgemeinerung von Schulden.Für Staaten,die über Ihre Verhältnisse g… https://t.co/L3Iusun5Mm",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249369663299112961,
+    "in_reply_to_status_id_str": "1249369663299112961",
+    "in_reply_to_user_id": 2868893927,
+    "in_reply_to_user_id_str": "2868893927",
+    "in_reply_to_screen_name": "N_Heisterhagen",
+    "user": {
+        "id": 1157708054936379392,
+        "id_str": "1157708054936379392",
+        "name": "Werner Meisner",
+        "screen_name": "MeisnerWerner",
+        "location": null,
+        "url": null,
+        "description": "Humorist, Nachrichten bitte per Fernschreiber.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 163,
+        "friends_count": 67,
+        "listed_count": 2,
+        "favourites_count": 16216,
+        "statuses_count": 4957,
+        "created_at": "Sat Aug 03 17:41:24 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246860499440058368/NItFd4Lb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246860499440058368/NItFd4Lb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1157708054936379392/1566149102",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@N_Heisterhagen @Tinimaus1110 Corona Bonds, Verallgemeinerung von Schulden.Für Staaten,die über Ihre Verhältnisse gelebt haben.Diese EU hat schon lange abgehalftert und wird lediglich noch durch finanzielle Zuwendungen am Leben gehalten. Fr. Thatcher: \"Wenn den Deutschen das Geld ausgeht,ist die EU am Ende\".",
+        "display_text_range": [
+            30,
+            309
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "N_Heisterhagen",
+                    "name": "Nils Heisterhagen",
+                    "id": 2868893927,
+                    "id_str": "2868893927",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "Tinimaus1110",
+                    "name": "Martina Kiehnle",
+                    "id": 758670622654337025,
+                    "id_str": "758670622654337025",
+                    "indices": [
+                        16,
+                        29
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/L3Iusun5Mm",
+                "expanded_url": "https://twitter.com/i/web/status/1249404058479267849",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "N_Heisterhagen",
+                "name": "Nils Heisterhagen",
+                "id": 2868893927,
+                "id_str": "2868893927",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "Tinimaus1110",
+                "name": "Martina Kiehnle",
+                "id": 758670622654337025,
+                "id_str": "758670622654337025",
+                "indices": [
+                    16,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716115003"
+}

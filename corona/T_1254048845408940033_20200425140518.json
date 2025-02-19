@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 14:05:18 +0000 2020",
+    "id": 1254048845408940033,
+    "id_str": "1254048845408940033",
+    "text": "@murtazawahab1 @tanvirkolachi Results of corona is positive in LUMHS diagnostic labs and negative in AKU labs.",
+    "display_text_range": [
+        30,
+        110
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254040201149722627,
+    "in_reply_to_status_id_str": "1254040201149722627",
+    "in_reply_to_user_id": 724554176366284800,
+    "in_reply_to_user_id_str": "724554176366284800",
+    "in_reply_to_screen_name": "murtazawahab1",
+    "user": {
+        "id": 1252582523667992577,
+        "id_str": "1252582523667992577",
+        "name": "Dr Tasveer Hussain",
+        "screen_name": "tasveer_dr",
+        "location": "Hyderabad",
+        "url": null,
+        "description": "Doctor#child especialist#social activist",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 131,
+        "listed_count": 0,
+        "favourites_count": 44,
+        "statuses_count": 47,
+        "created_at": "Tue Apr 21 12:59:00 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252991790778646529/WPUm721h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252991790778646529/WPUm721h_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "murtazawahab1",
+                "name": "SenatorMurtaza Wahab",
+                "id": 724554176366284800,
+                "id_str": "724554176366284800",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "tanvirkolachi",
+                "name": "Tanveer Kolachi",
+                "id": 1674967704,
+                "id_str": "1674967704",
+                "indices": [
+                    15,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823518503"
+}

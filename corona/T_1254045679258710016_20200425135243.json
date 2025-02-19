@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 13:52:43 +0000 2020",
+    "id": 1254045679258710016,
+    "id_str": "1254045679258710016",
+    "text": "@ArvindKejriwal @Olacabs Sir agr hm kisi 1 person ko\nJo puri tarah se healthy ho\nAur corona se infected ho\nAgr hm u… https://t.co/zTV8z2LwBV",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254033447884029952,
+    "in_reply_to_status_id_str": "1254033447884029952",
+    "in_reply_to_user_id": 405427035,
+    "in_reply_to_user_id_str": "405427035",
+    "in_reply_to_screen_name": "ArvindKejriwal",
+    "user": {
+        "id": 819121887984762880,
+        "id_str": "819121887984762880",
+        "name": "Suraj Sahani",
+        "screen_name": "Sahaniji210786",
+        "location": "Azamgarh, India",
+        "url": null,
+        "description": "Sports",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 49,
+        "listed_count": 0,
+        "favourites_count": 1,
+        "statuses_count": 1,
+        "created_at": "Wed Jan 11 10:00:51 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253503433635586049/1wVYnRdP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253503433635586049/1wVYnRdP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/819121887984762880/1587693586",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ArvindKejriwal @Olacabs Sir agr hm kisi 1 person ko\nJo puri tarah se healthy ho\nAur corona se infected ho\nAgr hm use healthy diet, regular exercise aur jitna ho ske km dwao ko use kr k sirf uske immunity system k base pr corona ko consume kr k usse fight krne den",
+        "display_text_range": [
+            25,
+            264
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ArvindKejriwal",
+                    "name": "Arvind Kejriwal",
+                    "id": 405427035,
+                    "id_str": "405427035",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "Olacabs",
+                    "name": "Ola",
+                    "id": 233973953,
+                    "id_str": "233973953",
+                    "indices": [
+                        16,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/zTV8z2LwBV",
+                "expanded_url": "https://twitter.com/i/web/status/1254045679258710016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ArvindKejriwal",
+                "name": "Arvind Kejriwal",
+                "id": 405427035,
+                "id_str": "405427035",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "Olacabs",
+                "name": "Ola",
+                "id": 233973953,
+                "id_str": "233973953",
+                "indices": [
+                    16,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587822763634"
+}

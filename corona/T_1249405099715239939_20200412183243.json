@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun Apr 12 18:32:43 +0000 2020",
+    "id": 1249405099715239939,
+    "id_str": "1249405099715239939",
+    "text": "@dear_sangeeta So what ...chilled to Corona hi better hai",
+    "display_text_range": [
+        15,
+        57
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249394494577008640,
+    "in_reply_to_status_id_str": "1249394494577008640",
+    "in_reply_to_user_id": 1413893760,
+    "in_reply_to_user_id_str": "1413893760",
+    "in_reply_to_screen_name": "dear_sangeeta",
+    "user": {
+        "id": 117344439,
+        "id_str": "117344439",
+        "name": "जागरूक भारतीय नितिन",
+        "screen_name": "nitinsharma13",
+        "location": "Bahrain",
+        "url": null,
+        "description": "Be good, do good! C.A, Supporter of @INCIndia, Member @ProfCong",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2141,
+        "friends_count": 3778,
+        "listed_count": 45,
+        "favourites_count": 4566,
+        "statuses_count": 41381,
+        "created_at": "Thu Feb 25 08:21:13 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228333322067234816/zL4S0Q4h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228333322067234816/zL4S0Q4h_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117344439/1563595500",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "e3e9c55876b99760",
+        "url": "https://api.twitter.com/1.1/geo/id/e3e9c55876b99760.json",
+        "place_type": "country",
+        "name": "Bahrain",
+        "full_name": "Bahrain",
+        "country_code": "BH",
+        "country": "Bahrain",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        50.325113,
+                        25.570496
+                    ],
+                    [
+                        50.325113,
+                        26.334108
+                    ],
+                    [
+                        50.822634,
+                        26.334108
+                    ],
+                    [
+                        50.822634,
+                        25.570496
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "dear_sangeeta",
+                "name": "Kashmiri M🌶rch",
+                "id": 1413893760,
+                "id_str": "1413893760",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716363253"
+}

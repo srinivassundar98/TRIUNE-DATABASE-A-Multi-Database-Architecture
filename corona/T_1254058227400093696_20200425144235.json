@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 14:42:35 +0000 2020",
+    "id": 1254058227400093696,
+    "id_str": "1254058227400093696",
+    "text": "@SkyWilliams @Tolgeyy @visecs Hahahahaha sky's bout to find the cure to Corona virus",
+    "display_text_range": [
+        30,
+        84
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254056367494594560,
+    "in_reply_to_status_id_str": "1254056367494594560",
+    "in_reply_to_user_id": 291859009,
+    "in_reply_to_user_id_str": "291859009",
+    "in_reply_to_screen_name": "SkyWilliams",
+    "user": {
+        "id": 2316067026,
+        "id_str": "2316067026",
+        "name": "me mech",
+        "screen_name": "Patiicakess",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 119,
+        "friends_count": 188,
+        "listed_count": 4,
+        "favourites_count": 12052,
+        "statuses_count": 19314,
+        "created_at": "Tue Jan 28 21:01:23 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976054575135412224/JVey2ftQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976054575135412224/JVey2ftQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2316067026/1521544939",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "SkyWilliams",
+                "name": "♡♪!?",
+                "id": 291859009,
+                "id_str": "291859009",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "Tolgeyy",
+                "name": "CEO of Headpats",
+                "id": 1600917289,
+                "id_str": "1600917289",
+                "indices": [
+                    13,
+                    21
+                ]
+            },
+            {
+                "screen_name": "visecs",
+                "name": "juice wayne",
+                "id": 113511245,
+                "id_str": "113511245",
+                "indices": [
+                    22,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825755344"
+}

@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 13:30:29 +0000 2020",
+    "id": 1254040082119643137,
+    "id_str": "1254040082119643137",
+    "text": "@Destiny3650 @JCKIGHTII https://t.co/NMFR5VieAt",
+    "display_text_range": [
+        24,
+        47
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253882708134170625,
+    "in_reply_to_status_id_str": "1253882708134170625",
+    "in_reply_to_user_id": 810943316,
+    "in_reply_to_user_id_str": "810943316",
+    "in_reply_to_screen_name": "Destiny3650",
+    "user": {
+        "id": 2953119371,
+        "id_str": "2953119371",
+        "name": "Thüringen",
+        "screen_name": "Thueringen_",
+        "location": null,
+        "url": null,
+        "description": "Thüringen und die Welt",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1555,
+        "friends_count": 1761,
+        "listed_count": 29,
+        "favourites_count": 1,
+        "statuses_count": 41816,
+        "created_at": "Wed Dec 31 13:44:03 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1054484521079463936/aLJ-wX29_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054484521079463936/aLJ-wX29_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/NMFR5VieAt",
+                "expanded_url": "https://www.mena-watch.com/politisiert-trump-in-der-corona-krise-die-weltgesundheitsorganisation-who/",
+                "display_url": "mena-watch.com/politisiert-tr…",
+                "indices": [
+                    24,
+                    47
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Destiny3650",
+                "name": "🌻Destiny, RN, BSN🌻",
+                "id": 810943316,
+                "id_str": "810943316",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "JCKIGHTII",
+                "name": "Just J",
+                "id": 938090069872832513,
+                "id_str": "938090069872832513",
+                "indices": [
+                    13,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587821429172"
+}

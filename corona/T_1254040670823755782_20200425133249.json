@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:32:49 +0000 2020",
+    "id": 1254040670823755782,
+    "id_str": "1254040670823755782",
+    "text": "@firatfstk @fatih_yasli Test negatif ama Corona tedavisi uygulanmış ve eks olmuş. Yarın tazminat davasına konu olur mu?",
+    "display_text_range": [
+        24,
+        119
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254011552602169344,
+    "in_reply_to_status_id_str": "1254011552602169344",
+    "in_reply_to_user_id": 459581128,
+    "in_reply_to_user_id_str": "459581128",
+    "in_reply_to_screen_name": "firatfstk",
+    "user": {
+        "id": 1423743355,
+        "id_str": "1423743355",
+        "name": "Barney küçük şehrin özgür bireyi",
+        "screen_name": "piyikacaliyoruz",
+        "location": null,
+        "url": null,
+        "description": "Derdimi anlatacak kadar sövebiliyorum.\nKedi babası.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 299,
+        "friends_count": 441,
+        "listed_count": 2,
+        "favourites_count": 49455,
+        "statuses_count": 9906,
+        "created_at": "Sun May 12 18:18:46 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010026474810716161/xhSBVRHm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010026474810716161/xhSBVRHm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1423743355/1514012194",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "firatfstk",
+                "name": "fırat",
+                "id": 459581128,
+                "id_str": "459581128",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "fatih_yasli",
+                "name": "fatih yaşlı",
+                "id": 409568623,
+                "id_str": "409568623",
+                "indices": [
+                    11,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587821569530"
+}

@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 12:57:40 +0000 2020",
+    "id": 1254031826806398977,
+    "id_str": "1254031826806398977",
+    "text": "Kalo rolenya Corona sih Assassin https://t.co/nDqHdCsu9f",
+    "display_text_range": [
+        0,
+        32
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1608037776,
+        "id_str": "1608037776",
+        "name": "Juan Antony",
+        "screen_name": "aliencacat",
+        "location": "Sleman, Yogyakarta",
+        "url": "http://juanesia.wordpress.com",
+        "description": "cuma mas-mas biasa",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 357,
+        "friends_count": 558,
+        "listed_count": 0,
+        "favourites_count": 698,
+        "statuses_count": 6173,
+        "created_at": "Sat Jul 20 11:28:03 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "94D487",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "4BB7DF",
+        "profile_sidebar_fill_color": "191F22",
+        "profile_text_color": "4BB7DF",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234924450371358720/6deaRKme_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234924450371358720/6deaRKme_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608037776/1565524842",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254031810004221954,
+                "id_str": "1254031810004221954",
+                "indices": [
+                    33,
+                    56
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc3SXxXgAI11T6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc3SXxXgAI11T6.jpg",
+                "url": "https://t.co/nDqHdCsu9f",
+                "display_url": "pic.twitter.com/nDqHdCsu9f",
+                "expanded_url": "https://twitter.com/aliencacat/status/1254031826806398977/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 526,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 557,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254031810004221954,
+                "id_str": "1254031810004221954",
+                "indices": [
+                    33,
+                    56
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc3SXxXgAI11T6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc3SXxXgAI11T6.jpg",
+                "url": "https://t.co/nDqHdCsu9f",
+                "display_url": "pic.twitter.com/nDqHdCsu9f",
+                "expanded_url": "https://twitter.com/aliencacat/status/1254031826806398977/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 526,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 557,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 557,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819460952"
+}

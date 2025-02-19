@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:27:18 +0000 2020",
+    "id": 1254024183970967552,
+    "id_str": "1254024183970967552",
+    "text": "@realDonaldTrump @TripleH Over 50 millions Americans have died in the past two months from the Corona Virus pandemi… https://t.co/SqjrhUbd4g",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254022414058631170,
+    "in_reply_to_status_id_str": "1254022414058631170",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "user": {
+        "id": 21971175,
+        "id_str": "21971175",
+        "name": "Christopher Jones",
+        "screen_name": "yerliberal",
+        "location": "Earth",
+        "url": null,
+        "description": "♠️ Hoosier Oligarch ♠️ Gluten Glutton ♠️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 275,
+        "friends_count": 720,
+        "listed_count": 5,
+        "favourites_count": 3358,
+        "statuses_count": 6604,
+        "created_at": "Thu Feb 26 04:41:10 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1028491649683468288/UeqjkO-4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028491649683468288/UeqjkO-4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21971175/1573740903",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@realDonaldTrump @TripleH Over 50 millions Americans have died in the past two months from the Corona Virus pandemic, and our President is focused solely on a WWE wrestler, and trying to convince Americans to inject Lysol while sticking UV lights up their sphincters.",
+        "display_text_range": [
+            26,
+            267
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "TripleH",
+                    "name": "Triple H",
+                    "id": 355708717,
+                    "id_str": "355708717",
+                    "indices": [
+                        17,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/SqjrhUbd4g",
+                "expanded_url": "https://twitter.com/i/web/status/1254024183970967552",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "TripleH",
+                "name": "Triple H",
+                "id": 355708717,
+                "id_str": "355708717",
+                "indices": [
+                    17,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817638758"
+}

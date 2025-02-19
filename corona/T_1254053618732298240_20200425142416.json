@@ -1,0 +1,222 @@
+{
+    "created_at": "Sat Apr 25 14:24:16 +0000 2020",
+    "id": 1254053618732298240,
+    "id_str": "1254053618732298240",
+    "text": "KPFM SAMARINDA - Pasien terkonfirmasi positif virus corona di Kaltim pada Sabtu, 25 April 2020 bertambah 12 kasus.… https://t.co/1kufw1Evna",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 159463473,
+        "id_str": "159463473",
+        "name": "96.8KPFM",
+        "screen_name": "KPFM968",
+        "location": "Samarinda-Kaltim",
+        "url": "http://www.968kpfm.co.id",
+        "description": "Jl.Untung Suropati Ged.Kaltim Post Lt.3 | Phone : (0541)272000 \\ 08115577968 | E : kpfmsamarinda@gmail.com | IG : kpfm968 | FB : KPFM 968 samarinda",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6137,
+        "friends_count": 346,
+        "listed_count": 14,
+        "favourites_count": 350,
+        "statuses_count": 53223,
+        "created_at": "Fri Jun 25 12:54:33 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "302A2A",
+        "profile_text_color": "79B00C",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252212252125487109/ytjNcyX-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252212252125487109/ytjNcyX-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/159463473/1540351855",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "8f6d8fbc7060e679",
+        "url": "https://api.twitter.com/1.1/geo/id/8f6d8fbc7060e679.json",
+        "place_type": "admin",
+        "name": "Kalimantan Timur",
+        "full_name": "Kalimantan Timur, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        113.836655,
+                        -2.409401
+                    ],
+                    [
+                        113.836655,
+                        2.606556
+                    ],
+                    [
+                        118.9908,
+                        2.606556
+                    ],
+                    [
+                        118.9908,
+                        -2.409401
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "KPFM SAMARINDA - Pasien terkonfirmasi positif virus corona di Kaltim pada Sabtu, 25 April 2020 bertambah 12 kasus.\n\nhttps://t.co/LXTjpVQbp0 https://t.co/unDQuEAjRG",
+        "display_text_range": [
+            0,
+            139
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/LXTjpVQbp0",
+                    "expanded_url": "https://968kpfm.co.id/berita/benua-etam/total-pasien-positif-covid-19-kaltim-capai-97-kasus",
+                    "display_url": "968kpfm.co.id/berita/benua-e…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254053603284672514,
+                    "id_str": "1254053603284672514",
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdLG6EU4AItmhq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdLG6EU4AItmhq.jpg",
+                    "url": "https://t.co/unDQuEAjRG",
+                    "display_url": "pic.twitter.com/unDQuEAjRG",
+                    "expanded_url": "https://twitter.com/KPFM968/status/1254053618732298240/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1000,
+                            "h": 1000,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 1000,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254053603284672514,
+                    "id_str": "1254053603284672514",
+                    "indices": [
+                        140,
+                        163
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdLG6EU4AItmhq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdLG6EU4AItmhq.jpg",
+                    "url": "https://t.co/unDQuEAjRG",
+                    "display_url": "pic.twitter.com/unDQuEAjRG",
+                    "expanded_url": "https://twitter.com/KPFM968/status/1254053618732298240/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1000,
+                            "h": 1000,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1000,
+                            "h": 1000,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/1kufw1Evna",
+                "expanded_url": "https://twitter.com/i/web/status/1254053618732298240",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587824656552"
+}

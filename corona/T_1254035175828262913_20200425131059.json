@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 13:10:59 +0000 2020",
+    "id": 1254035175828262913,
+    "id_str": "1254035175828262913",
+    "text": "Efter corona-krisen - Piteå önskar kompensation för resor https://t.co/Y4cfE6uqyX #twittboll #damallsvenskan",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 106846483,
+        "id_str": "106846483",
+        "name": "SVT Sport",
+        "screen_name": "SVTSport",
+        "location": "Sweden",
+        "url": "http://www.svtsport.se",
+        "description": "SVT Sports officiella twitterkonto. Här hänger du med i de senaste sportnyheterna!\nFölj oss även på instagram: @svtsport!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 161244,
+        "friends_count": 4122,
+        "listed_count": 610,
+        "favourites_count": 5338,
+        "statuses_count": 71720,
+        "created_at": "Wed Jan 20 21:49:56 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/802059275287883776/7vRSAoIl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/802059275287883776/7vRSAoIl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/106846483/1569958584",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "twittboll",
+                "indices": [
+                    82,
+                    92
+                ]
+            },
+            {
+                "text": "damallsvenskan",
+                "indices": [
+                    93,
+                    108
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Y4cfE6uqyX",
+                "expanded_url": "https://www.svt.se/sport/fotboll/fahlman-norberg",
+                "display_url": "svt.se/sport/fotboll/…",
+                "indices": [
+                    58,
+                    81
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587820259421"
+}

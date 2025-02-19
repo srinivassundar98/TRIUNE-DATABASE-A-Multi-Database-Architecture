@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:09:24 +0000 2020",
+    "id": 1254034778384285696,
+    "id_str": "1254034778384285696",
+    "text": "Terimakasih Corona, kami lupa ada yang namanya Kalender. https://t.co/HZbI2neTum",
+    "display_text_range": [
+        0,
+        56
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2506192686,
+        "id_str": "2506192686",
+        "name": "Dionisius Yosan C",
+        "screen_name": "bukanmayoritas",
+        "location": "Malang, Jawa Timur",
+        "url": null,
+        "description": "http://Bolalob.com's Football Writer",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 71,
+        "friends_count": 92,
+        "listed_count": 0,
+        "favourites_count": 70,
+        "statuses_count": 569,
+        "created_at": "Mon May 19 02:59:34 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "333333",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "1241B8",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248641183858839554/Kmt459dO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248641183858839554/Kmt459dO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2506192686/1568625137",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254034730380431360,
+                "id_str": "1254034730380431360",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc58XBUEAABDbe.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc58XBUEAABDbe.jpg",
+                "url": "https://t.co/HZbI2neTum",
+                "display_url": "pic.twitter.com/HZbI2neTum",
+                "expanded_url": "https://twitter.com/bukanmayoritas/status/1254034778384285696/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1079,
+                        "h": 698,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1079,
+                        "h": 698,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 440,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254034730380431360,
+                "id_str": "1254034730380431360",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc58XBUEAABDbe.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc58XBUEAABDbe.jpg",
+                "url": "https://t.co/HZbI2neTum",
+                "display_url": "pic.twitter.com/HZbI2neTum",
+                "expanded_url": "https://twitter.com/bukanmayoritas/status/1254034778384285696/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1079,
+                        "h": 698,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1079,
+                        "h": 698,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 440,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587820164663"
+}

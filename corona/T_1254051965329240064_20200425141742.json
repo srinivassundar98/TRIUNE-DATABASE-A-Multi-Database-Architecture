@@ -1,0 +1,596 @@
+{
+    "created_at": "Sat Apr 25 14:17:42 +0000 2020",
+    "id": 1254051965329240064,
+    "id_str": "1254051965329240064",
+    "text": "Some more COVID-19 #MythBusters #corona @icsi_cs @MadrasChamber @theicai @TheOfficialSBI @CREDAINational… https://t.co/zUjsastNHj",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1163753304486117376,
+        "id_str": "1163753304486117376",
+        "name": "GST Chennai Outer",
+        "screen_name": "gstchennaiouter",
+        "location": "Chennai, India",
+        "url": null,
+        "description": "Official handle of GST and Central Excise, Chennai Outer Commissionerate, Ministry of Finance, Government of India. RT does not imply endorsement.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 792,
+        "friends_count": 19,
+        "listed_count": 1,
+        "favourites_count": 73,
+        "statuses_count": 285,
+        "created_at": "Tue Aug 20 10:03:17 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228294805781770240/TWPhm9zY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228294805781770240/TWPhm9zY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163753304486117376/1581683079",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Some more COVID-19 #MythBusters #corona @icsi_cs @MadrasChamber @theicai @TheOfficialSBI @CREDAINational @ASSOCHAM4India @ficci_india @FieoHq @eepcindia @IMC_India @FollowCII @hindcham @htTweets @timesofindia @IndianExpress @the_hindu @pibchennai @Chennai_Customs @NewIndianXpress https://t.co/9dAKTRKwRz",
+        "display_text_range": [
+            0,
+            280
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MythBusters",
+                    "indices": [
+                        19,
+                        31
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        32,
+                        39
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "icsi_cs",
+                    "name": "ICSI 🇮🇳 #StayHome #StaySafe",
+                    "id": 176095819,
+                    "id_str": "176095819",
+                    "indices": [
+                        40,
+                        48
+                    ]
+                },
+                {
+                    "screen_name": "MadrasChamber",
+                    "name": "The Madras Chamber",
+                    "id": 291564502,
+                    "id_str": "291564502",
+                    "indices": [
+                        49,
+                        63
+                    ]
+                },
+                {
+                    "screen_name": "theicai",
+                    "name": "The Institute of Chartered Accountants of India",
+                    "id": 1526678654,
+                    "id_str": "1526678654",
+                    "indices": [
+                        64,
+                        72
+                    ]
+                },
+                {
+                    "screen_name": "TheOfficialSBI",
+                    "name": "State Bank of India",
+                    "id": 2251588934,
+                    "id_str": "2251588934",
+                    "indices": [
+                        73,
+                        88
+                    ]
+                },
+                {
+                    "screen_name": "CREDAINational",
+                    "name": "CREDAI National",
+                    "id": 551706549,
+                    "id_str": "551706549",
+                    "indices": [
+                        89,
+                        104
+                    ]
+                },
+                {
+                    "screen_name": "ASSOCHAM4India",
+                    "name": "ASSOCHAM #StayHome",
+                    "id": 1046976224390778880,
+                    "id_str": "1046976224390778880",
+                    "indices": [
+                        105,
+                        120
+                    ]
+                },
+                {
+                    "screen_name": "ficci_india",
+                    "name": "FICCI",
+                    "id": 375474419,
+                    "id_str": "375474419",
+                    "indices": [
+                        121,
+                        133
+                    ]
+                },
+                {
+                    "screen_name": "FieoHq",
+                    "name": "FIEO HQ",
+                    "id": 2894677938,
+                    "id_str": "2894677938",
+                    "indices": [
+                        134,
+                        141
+                    ]
+                },
+                {
+                    "screen_name": "eepcindia",
+                    "name": "EEPC India",
+                    "id": 3164950424,
+                    "id_str": "3164950424",
+                    "indices": [
+                        142,
+                        152
+                    ]
+                },
+                {
+                    "screen_name": "IMC_India",
+                    "name": "IMC Chamber of Commerce and Industry",
+                    "id": 176738799,
+                    "id_str": "176738799",
+                    "indices": [
+                        153,
+                        163
+                    ]
+                },
+                {
+                    "screen_name": "FollowCII",
+                    "name": "Confederation of Indian Industry",
+                    "id": 86479411,
+                    "id_str": "86479411",
+                    "indices": [
+                        164,
+                        174
+                    ]
+                },
+                {
+                    "screen_name": "hindcham",
+                    "name": "Hindustan Chamber of Commerce",
+                    "id": 190529432,
+                    "id_str": "190529432",
+                    "indices": [
+                        175,
+                        184
+                    ]
+                },
+                {
+                    "screen_name": "htTweets",
+                    "name": "Hindustan Times",
+                    "id": 36327407,
+                    "id_str": "36327407",
+                    "indices": [
+                        185,
+                        194
+                    ]
+                },
+                {
+                    "screen_name": "timesofindia",
+                    "name": "The Times Of India",
+                    "id": 134758540,
+                    "id_str": "134758540",
+                    "indices": [
+                        195,
+                        208
+                    ]
+                },
+                {
+                    "screen_name": "IndianExpress",
+                    "name": "The Indian Express",
+                    "id": 38647512,
+                    "id_str": "38647512",
+                    "indices": [
+                        209,
+                        223
+                    ]
+                },
+                {
+                    "screen_name": "the_hindu",
+                    "name": "The Hindu",
+                    "id": 20751449,
+                    "id_str": "20751449",
+                    "indices": [
+                        224,
+                        234
+                    ]
+                },
+                {
+                    "screen_name": "pibchennai",
+                    "name": "PIB in Tamil Nadu 🇮🇳 #StayHome #StaySafe",
+                    "id": 884660418714652672,
+                    "id_str": "884660418714652672",
+                    "indices": [
+                        235,
+                        246
+                    ]
+                },
+                {
+                    "screen_name": "Chennai_Customs",
+                    "name": "Chennai_Customs",
+                    "id": 973780501034078208,
+                    "id_str": "973780501034078208",
+                    "indices": [
+                        247,
+                        263
+                    ]
+                },
+                {
+                    "screen_name": "NewIndianXpress",
+                    "name": "The New Indian Express",
+                    "id": 94761188,
+                    "id_str": "94761188",
+                    "indices": [
+                        264,
+                        280
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254051941253910530,
+                    "id_str": "1254051941253910530",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJmKhUEAItwZ6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJmKhUEAItwZ6.jpg",
+                    "url": "https://t.co/9dAKTRKwRz",
+                    "display_url": "pic.twitter.com/9dAKTRKwRz",
+                    "expanded_url": "https://twitter.com/gstchennaiouter/status/1254051965329240064/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 610,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 346,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1440,
+                            "h": 732,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254051949399273472,
+                    "id_str": "1254051949399273472",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJmo3UcAA2NE0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJmo3UcAA2NE0.jpg",
+                    "url": "https://t.co/9dAKTRKwRz",
+                    "display_url": "pic.twitter.com/9dAKTRKwRz",
+                    "expanded_url": "https://twitter.com/gstchennaiouter/status/1254051965329240064/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 342,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1438,
+                            "h": 723,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 603,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254051957603364864,
+                    "id_str": "1254051957603364864",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJnHbU8AALK7j.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJnHbU8AALK7j.jpg",
+                    "url": "https://t.co/9dAKTRKwRz",
+                    "display_url": "pic.twitter.com/9dAKTRKwRz",
+                    "expanded_url": "https://twitter.com/gstchennaiouter/status/1254051965329240064/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1440,
+                            "h": 713,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 594,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 337,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254051941253910530,
+                    "id_str": "1254051941253910530",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJmKhUEAItwZ6.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJmKhUEAItwZ6.jpg",
+                    "url": "https://t.co/9dAKTRKwRz",
+                    "display_url": "pic.twitter.com/9dAKTRKwRz",
+                    "expanded_url": "https://twitter.com/gstchennaiouter/status/1254051965329240064/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 610,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 346,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1440,
+                            "h": 732,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254051949399273472,
+                    "id_str": "1254051949399273472",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJmo3UcAA2NE0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJmo3UcAA2NE0.jpg",
+                    "url": "https://t.co/9dAKTRKwRz",
+                    "display_url": "pic.twitter.com/9dAKTRKwRz",
+                    "expanded_url": "https://twitter.com/gstchennaiouter/status/1254051965329240064/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 342,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1438,
+                            "h": 723,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 603,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254051957603364864,
+                    "id_str": "1254051957603364864",
+                    "indices": [
+                        281,
+                        304
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJnHbU8AALK7j.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJnHbU8AALK7j.jpg",
+                    "url": "https://t.co/9dAKTRKwRz",
+                    "display_url": "pic.twitter.com/9dAKTRKwRz",
+                    "expanded_url": "https://twitter.com/gstchennaiouter/status/1254051965329240064/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1440,
+                            "h": 713,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 594,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 337,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "MythBusters",
+                "indices": [
+                    19,
+                    31
+                ]
+            },
+            {
+                "text": "corona",
+                "indices": [
+                    32,
+                    39
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/zUjsastNHj",
+                "expanded_url": "https://twitter.com/i/web/status/1254051965329240064",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    106,
+                    129
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "icsi_cs",
+                "name": "ICSI 🇮🇳 #StayHome #StaySafe",
+                "id": 176095819,
+                "id_str": "176095819",
+                "indices": [
+                    40,
+                    48
+                ]
+            },
+            {
+                "screen_name": "MadrasChamber",
+                "name": "The Madras Chamber",
+                "id": 291564502,
+                "id_str": "291564502",
+                "indices": [
+                    49,
+                    63
+                ]
+            },
+            {
+                "screen_name": "theicai",
+                "name": "The Institute of Chartered Accountants of India",
+                "id": 1526678654,
+                "id_str": "1526678654",
+                "indices": [
+                    64,
+                    72
+                ]
+            },
+            {
+                "screen_name": "TheOfficialSBI",
+                "name": "State Bank of India",
+                "id": 2251588934,
+                "id_str": "2251588934",
+                "indices": [
+                    73,
+                    88
+                ]
+            },
+            {
+                "screen_name": "CREDAINational",
+                "name": "CREDAI National",
+                "id": 551706549,
+                "id_str": "551706549",
+                "indices": [
+                    89,
+                    104
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824262350"
+}

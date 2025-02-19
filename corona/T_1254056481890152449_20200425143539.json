@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:35:39 +0000 2020",
+    "id": 1254056481890152449,
+    "id_str": "1254056481890152449",
+    "text": "@fvdr @wouterkeller Alleen is Corona geen griepvirus en is immuniteit nog omstreden, laat staan groepsimmuniteit",
+    "display_text_range": [
+        20,
+        112
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254052957521350656,
+    "in_reply_to_status_id_str": "1254052957521350656",
+    "in_reply_to_user_id": 41191256,
+    "in_reply_to_user_id_str": "41191256",
+    "in_reply_to_screen_name": "fvdr",
+    "user": {
+        "id": 1268504352,
+        "id_str": "1268504352",
+        "name": "Monique vd Kist 🇪🇺 #FBPE",
+        "screen_name": "mvanderKist",
+        "location": "Apeldoorn e.o.  Netherlands ",
+        "url": null,
+        "description": "Jurist, oud-advocaat, kinderrechten, (jeugd)strafrecht, advocatuur kan en moet anders, veilige werkomgeving, (psychische) gezondheidszorg",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3836,
+        "friends_count": 5002,
+        "listed_count": 214,
+        "favourites_count": 151768,
+        "statuses_count": 231089,
+        "created_at": "Fri Mar 15 01:56:57 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/988898703418232839/EqnQexUh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/988898703418232839/EqnQexUh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268504352/1546005941",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "fvdr",
+                "name": "Frans van der Reep",
+                "id": 41191256,
+                "id_str": "41191256",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "screen_name": "wouterkeller",
+                "name": "Wouter J. Keller",
+                "id": 323676592,
+                "id_str": "323676592",
+                "indices": [
+                    6,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587825339182"
+}

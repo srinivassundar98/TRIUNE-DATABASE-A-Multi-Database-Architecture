@@ -1,0 +1,188 @@
+{
+    "created_at": "Sun Apr 12 18:44:23 +0000 2020",
+    "id": 1249408037456134147,
+    "id_str": "1249408037456134147",
+    "text": "It’s worst to living alone missing my mom...Lockdown 🔐..Go CORONA GO 🙏😔🌺# stay safe and stay home 🏠 https://t.co/W8c0VlFtiq",
+    "display_text_range": [
+        0,
+        99
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2969142008,
+        "id_str": "2969142008",
+        "name": "Supriya Masurkar",
+        "screen_name": "SupMasurkar",
+        "location": "Mumbai, India",
+        "url": null,
+        "description": "SELF-MADE GIRL",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 108,
+        "friends_count": 117,
+        "listed_count": 0,
+        "favourites_count": 606,
+        "statuses_count": 321,
+        "created_at": "Fri Jan 09 12:16:37 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196538902842167296/vtt6DzuD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196538902842167296/vtt6DzuD_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7929cea6bd5b32bd",
+        "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+        "place_type": "city",
+        "name": "Mumbai",
+        "full_name": "Mumbai, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        72.74484,
+                        18.845343
+                    ],
+                    [
+                        72.74484,
+                        19.502937
+                    ],
+                    [
+                        73.003648,
+                        19.502937
+                    ],
+                    [
+                        73.003648,
+                        18.845343
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249408024005009408,
+                "id_str": "1249408024005009408",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbJ-mpXYAAJgAI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbJ-mpXYAAJgAI.jpg",
+                "url": "https://t.co/W8c0VlFtiq",
+                "display_url": "pic.twitter.com/W8c0VlFtiq",
+                "expanded_url": "https://twitter.com/SupMasurkar/status/1249408037456134147/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249408024005009408,
+                "id_str": "1249408024005009408",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbJ-mpXYAAJgAI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbJ-mpXYAAJgAI.jpg",
+                "url": "https://t.co/W8c0VlFtiq",
+                "display_url": "pic.twitter.com/W8c0VlFtiq",
+                "expanded_url": "https://twitter.com/SupMasurkar/status/1249408037456134147/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717063665"
+}

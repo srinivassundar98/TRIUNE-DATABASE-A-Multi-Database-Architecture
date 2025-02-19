@@ -1,0 +1,107 @@
+{
+    "created_at": "Sat Apr 25 13:42:26 +0000 2020",
+    "id": 1254043092698697728,
+    "id_str": "1254043092698697728",
+    "text": "Mein #Gedicht im #Corona-Sammlungsprojekt des #WienMuseums.\nhttps://t.co/vqYBjH9dho",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3861918137,
+        "id_str": "3861918137",
+        "name": "Ömer Faruk",
+        "screen_name": "oemer_68",
+        "location": "Wien | Aksaray",
+        "url": null,
+        "description": "Mathematik/Universität Wien - profecto enim #vita vigilia est - sözlerim ihanete varacak doğrulukta olsaydı",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 46,
+        "friends_count": 23,
+        "listed_count": 1,
+        "favourites_count": 91,
+        "statuses_count": 299,
+        "created_at": "Sun Oct 04 13:09:01 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712708703359787009/Dnifmz-m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712708703359787009/Dnifmz-m_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3861918137/1519491091",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Gedicht",
+                "indices": [
+                    5,
+                    13
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    17,
+                    24
+                ]
+            },
+            {
+                "text": "WienMuseums",
+                "indices": [
+                    46,
+                    58
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/vqYBjH9dho",
+                "expanded_url": "https://www.wienmuseum.at/de/corona-sammlungsprojekt?fbclid=IwAR1YMSZQJKLRhFfxwI3kzCuZ02117l6kWaHS4FjbUkIKwnw2q4H0IY-LYUo#corona-123",
+                "display_url": "wienmuseum.at/de/corona-samm…",
+                "indices": [
+                    60,
+                    83
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822146950"
+}

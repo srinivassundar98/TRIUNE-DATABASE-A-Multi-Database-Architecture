@@ -1,0 +1,365 @@
+{
+    "created_at": "Sun Apr 12 18:30:55 +0000 2020",
+    "id": 1249404649544642561,
+    "id_str": "1249404649544642561",
+    "text": "@AmdavadAMC @AMC_Complaints @JayantiRavi @vnehra @VanaliyaKiran now that there are positive cases in motera which i… https://t.co/bTxci1DB0m",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 378542994,
+    "in_reply_to_user_id_str": "378542994",
+    "in_reply_to_screen_name": "AmdavadAMC",
+    "user": {
+        "id": 557588544,
+        "id_str": "557588544",
+        "name": "hiren karnani",
+        "screen_name": "KarnaniHiren",
+        "location": "Ahmadabad City, India",
+        "url": "http://www.azkka.com",
+        "description": "startup!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 278,
+        "friends_count": 2029,
+        "listed_count": 12,
+        "favourites_count": 78,
+        "statuses_count": 1242,
+        "created_at": "Thu Apr 19 07:32:32 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/514790219829092352/OuuO5tLk_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/514790219829092352/OuuO5tLk_normal.jpeg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "64a2dbba3da7cc07",
+        "url": "https://api.twitter.com/1.1/geo/id/64a2dbba3da7cc07.json",
+        "place_type": "city",
+        "name": "Gandhinagar",
+        "full_name": "Gandhinagar, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        72.529616,
+                        23.088656
+                    ],
+                    [
+                        72.529616,
+                        23.341798
+                    ],
+                    [
+                        72.814936,
+                        23.341798
+                    ],
+                    [
+                        72.814936,
+                        23.088656
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@AmdavadAMC @AMC_Complaints @JayantiRavi @vnehra @VanaliyaKiran now that there are positive cases in motera which is densely populated, hope u wont ignore it the way it was till @realDonaldTrump came! #coronavirusindia #Corona #AhmedabadPolice @vijayrupanibjp @AhmedabadPolice https://t.co/SklS31E1pO",
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "coronavirusindia",
+                    "indices": [
+                        201,
+                        218
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        219,
+                        226
+                    ]
+                },
+                {
+                    "text": "AhmedabadPolice",
+                    "indices": [
+                        227,
+                        243
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AmdavadAMC",
+                    "name": "Amdavad Municipal Corporation",
+                    "id": 378542994,
+                    "id_str": "378542994",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "AMC_Complaints",
+                    "name": "AMC Complaints",
+                    "id": 1026391597552943104,
+                    "id_str": "1026391597552943104",
+                    "indices": [
+                        12,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "JayantiRavi",
+                    "name": "Jayanti Ravi",
+                    "id": 1369518931,
+                    "id_str": "1369518931",
+                    "indices": [
+                        28,
+                        40
+                    ]
+                },
+                {
+                    "screen_name": "vnehra",
+                    "name": "Vijay Nehra",
+                    "id": 277846715,
+                    "id_str": "277846715",
+                    "indices": [
+                        41,
+                        48
+                    ]
+                },
+                {
+                    "screen_name": "VanaliyaKiran",
+                    "name": "KiranVanaliya",
+                    "id": 1023592659879960576,
+                    "id_str": "1023592659879960576",
+                    "indices": [
+                        49,
+                        63
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        178,
+                        194
+                    ]
+                },
+                {
+                    "screen_name": "vijayrupanibjp",
+                    "name": "Vijay Rupani",
+                    "id": 627355202,
+                    "id_str": "627355202",
+                    "indices": [
+                        244,
+                        259
+                    ]
+                },
+                {
+                    "screen_name": "AhmedabadPolice",
+                    "name": "Ahmedabad Police",
+                    "id": 959681983755546624,
+                    "id_str": "959681983755546624",
+                    "indices": [
+                        260,
+                        276
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1249404640501747712,
+                    "id_str": "1249404640501747712",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbG5qHU0AA0Z7J.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbG5qHU0AA0Z7J.jpg",
+                    "url": "https://t.co/SklS31E1pO",
+                    "display_url": "pic.twitter.com/SklS31E1pO",
+                    "expanded_url": "https://twitter.com/KarnaniHiren/status/1249404649544642561/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 718,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 381,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 673,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1249404640501747712,
+                    "id_str": "1249404640501747712",
+                    "indices": [
+                        277,
+                        300
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbG5qHU0AA0Z7J.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbG5qHU0AA0Z7J.jpg",
+                    "url": "https://t.co/SklS31E1pO",
+                    "display_url": "pic.twitter.com/SklS31E1pO",
+                    "expanded_url": "https://twitter.com/KarnaniHiren/status/1249404649544642561/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 718,
+                            "h": 1280,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 381,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 673,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/bTxci1DB0m",
+                "expanded_url": "https://twitter.com/i/web/status/1249404649544642561",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AmdavadAMC",
+                "name": "Amdavad Municipal Corporation",
+                "id": 378542994,
+                "id_str": "378542994",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "AMC_Complaints",
+                "name": "AMC Complaints",
+                "id": 1026391597552943104,
+                "id_str": "1026391597552943104",
+                "indices": [
+                    12,
+                    27
+                ]
+            },
+            {
+                "screen_name": "JayantiRavi",
+                "name": "Jayanti Ravi",
+                "id": 1369518931,
+                "id_str": "1369518931",
+                "indices": [
+                    28,
+                    40
+                ]
+            },
+            {
+                "screen_name": "vnehra",
+                "name": "Vijay Nehra",
+                "id": 277846715,
+                "id_str": "277846715",
+                "indices": [
+                    41,
+                    48
+                ]
+            },
+            {
+                "screen_name": "VanaliyaKiran",
+                "name": "KiranVanaliya",
+                "id": 1023592659879960576,
+                "id_str": "1023592659879960576",
+                "indices": [
+                    49,
+                    63
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716255924"
+}

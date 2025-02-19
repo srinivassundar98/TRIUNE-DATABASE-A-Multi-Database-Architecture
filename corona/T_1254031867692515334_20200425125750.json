@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 12:57:50 +0000 2020",
+    "id": 1254031867692515334,
+    "id_str": "1254031867692515334",
+    "text": "@srivatsayb Who spread the corona in india ???\nHave INC ever condemned Markaz ???\nI am  glad manmohan singh is not… https://t.co/BpRZEV34MW",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254001569692958721,
+    "in_reply_to_status_id_str": "1254001569692958721",
+    "in_reply_to_user_id": 45261768,
+    "in_reply_to_user_id_str": "45261768",
+    "in_reply_to_screen_name": "srivatsayb",
+    "user": {
+        "id": 1093744927043768320,
+        "id_str": "1093744927043768320",
+        "name": "Vishal",
+        "screen_name": "Chowkidar_Vi",
+        "location": "Rewari, India",
+        "url": null,
+        "description": "Life is beautiful",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 61,
+        "friends_count": 171,
+        "listed_count": 0,
+        "favourites_count": 19600,
+        "statuses_count": 6105,
+        "created_at": "Fri Feb 08 05:34:46 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1094185252115820544/kAZ_Z7WW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094185252115820544/kAZ_Z7WW_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@srivatsayb Who spread the corona in india ???\nHave INC ever condemned Markaz ???\nI am  glad manmohan singh is not in power...you would be tweeting this in hospital???",
+        "display_text_range": [
+            12,
+            167
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "srivatsayb",
+                    "name": "Srivatsa",
+                    "id": 45261768,
+                    "id_str": "45261768",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/BpRZEV34MW",
+                "expanded_url": "https://twitter.com/i/web/status/1254031867692515334",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "srivatsayb",
+                "name": "Srivatsa",
+                "id": 45261768,
+                "id_str": "45261768",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819470700"
+}

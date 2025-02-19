@@ -1,0 +1,358 @@
+{
+    "created_at": "Sat Apr 25 13:52:00 +0000 2020",
+    "id": 1254045500271202307,
+    "id_str": "1254045500271202307",
+    "text": "RT @mark_mclaughlin: John Paterson, deputy director of the @ScotGov legal directorate, is also the head of a building firm\n\nWork continued…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1088726953,
+        "id_str": "1088726953",
+        "name": "Neil Findlay MSP",
+        "screen_name": "NeilFindlay_MSP",
+        "location": "Fauldhouse",
+        "url": "http://neilfindlaymsp.com",
+        "description": "Socialist, trade unionist and campaigner",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 13058,
+        "friends_count": 3749,
+        "listed_count": 206,
+        "favourites_count": 431,
+        "statuses_count": 28845,
+        "created_at": "Mon Jan 14 11:14:16 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/789947985127931904/V1vYBcWg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/789947985127931904/V1vYBcWg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088726953/1544204994",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 10:45:15 +0000 2020",
+        "id": 1253998499533905920,
+        "id_str": "1253998499533905920",
+        "text": "John Paterson, deputy director of the @ScotGov legal directorate, is also the head of a building firm\n\nWork continu… https://t.co/b37wYQlCtU",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 33484460,
+            "id_str": "33484460",
+            "name": "Mark McLaughlin",
+            "screen_name": "mark_mclaughlin",
+            "location": "Edinburgh",
+            "url": "https://www.thetimes.co.uk",
+            "description": "Politics and Education Correspondent | @thetimesscot | Enemy Of The [Dishonest] People |  mark.mclaughlin@thetimes.co.uk |      Formerly @AFP and @PA | DMs open",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3300,
+            "friends_count": 2367,
+            "listed_count": 107,
+            "favourites_count": 434,
+            "statuses_count": 6769,
+            "created_at": "Mon Apr 20 11:25:22 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/910525372701306880/qDTaDauX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/910525372701306880/qDTaDauX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/33484460/1505921862",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "7ae9e2f2ff7a87cd",
+            "url": "https://api.twitter.com/1.1/geo/id/7ae9e2f2ff7a87cd.json",
+            "place_type": "city",
+            "name": "Edinburgh",
+            "full_name": "Edinburgh, Scotland",
+            "country_code": "GB",
+            "country": "United Kingdom",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -3.328512,
+                            55.894729
+                        ],
+                        [
+                            -3.328512,
+                            55.991662
+                        ],
+                        [
+                            -3.077505,
+                            55.991662
+                        ],
+                        [
+                            -3.077505,
+                            55.894729
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "John Paterson, deputy director of the @ScotGov legal directorate, is also the head of a building firm\n\nWork continued on his luxury property development this week, despite @NicolaSturgeon ordering all construction to stop\n\nExclusive in @thetimesscot \n\nhttps://t.co/gPKZDbrsWn https://t.co/xlzpq7lcwi",
+            "display_text_range": [
+                0,
+                275
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/gPKZDbrsWn",
+                        "expanded_url": "https://www.thetimes.co.uk/article/coronavirus-in-scotland-senior-civil-servants-builders-ignore-ban-597dh630q",
+                        "display_url": "thetimes.co.uk/article/corona…",
+                        "indices": [
+                            252,
+                            275
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "scotgov",
+                        "name": "Scottish Government",
+                        "id": 46650770,
+                        "id_str": "46650770",
+                        "indices": [
+                            38,
+                            46
+                        ]
+                    },
+                    {
+                        "screen_name": "NicolaSturgeon",
+                        "name": "Nicola Sturgeon",
+                        "id": 160952087,
+                        "id_str": "160952087",
+                        "indices": [
+                            172,
+                            187
+                        ]
+                    },
+                    {
+                        "screen_name": "thetimesscot",
+                        "name": "The Times Scotland",
+                        "id": 839163893519888384,
+                        "id_str": "839163893519888384",
+                        "indices": [
+                            236,
+                            249
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253998495532552193,
+                        "id_str": "1253998495532552193",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcY_NsXkAE_eJs.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcY_NsXkAE_eJs.jpg",
+                        "url": "https://t.co/xlzpq7lcwi",
+                        "display_url": "pic.twitter.com/xlzpq7lcwi",
+                        "expanded_url": "https://twitter.com/mark_mclaughlin/status/1253998499533905920/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 326,
+                                "h": 434,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 326,
+                                "h": 434,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 326,
+                                "h": 434,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253998495532552193,
+                        "id_str": "1253998495532552193",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcY_NsXkAE_eJs.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcY_NsXkAE_eJs.jpg",
+                        "url": "https://t.co/xlzpq7lcwi",
+                        "display_url": "pic.twitter.com/xlzpq7lcwi",
+                        "expanded_url": "https://twitter.com/mark_mclaughlin/status/1253998499533905920/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 326,
+                                "h": 434,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 326,
+                                "h": 434,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 326,
+                                "h": 434,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 5,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/b37wYQlCtU",
+                    "expanded_url": "https://twitter.com/i/web/status/1253998499533905920",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "scotgov",
+                    "name": "Scottish Government",
+                    "id": 46650770,
+                    "id_str": "46650770",
+                    "indices": [
+                        38,
+                        46
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "mark_mclaughlin",
+                "name": "Mark McLaughlin",
+                "id": 33484460,
+                "id_str": "33484460",
+                "indices": [
+                    3,
+                    19
+                ]
+            },
+            {
+                "screen_name": "scotgov",
+                "name": "Scottish Government",
+                "id": 46650770,
+                "id_str": "46650770",
+                "indices": [
+                    59,
+                    67
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822720960"
+}

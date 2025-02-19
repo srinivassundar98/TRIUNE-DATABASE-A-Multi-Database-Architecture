@@ -1,0 +1,579 @@
+{
+    "created_at": "Sat Apr 25 13:39:44 +0000 2020",
+    "id": 1254042412042915841,
+    "id_str": "1254042412042915841",
+    "text": "RT @dpiloncita: #VenceremosAlCovid19 corona Trump y sus estupideces acelerando en exterminio... https://t.co/SS3mdkwxoP",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1386834583,
+        "id_str": "1386834583",
+        "name": "nacelys meza",
+        "screen_name": "NacelysM",
+        "location": null,
+        "url": null,
+        "description": "Estudio en Universidad Experimental Libertador Upel",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1418,
+        "friends_count": 364,
+        "listed_count": 1,
+        "favourites_count": 138,
+        "statuses_count": 170804,
+        "created_at": "Sun Apr 28 12:11:31 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1012832231130353666/Xry8Od_L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012832231130353666/Xry8Od_L_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 13:31:13 +0000 2020",
+        "id": 1254040269424668672,
+        "id_str": "1254040269424668672",
+        "text": "#VenceremosAlCovid19 corona Trump y sus estupideces acelerando en exterminio... https://t.co/SS3mdkwxoP",
+        "display_text_range": [
+            0,
+            79
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 141940558,
+            "id_str": "141940558",
+            "name": "Rebeca #ChávezVive 🇻🇪",
+            "screen_name": "dpiloncita",
+            "location": "Caracas",
+            "url": null,
+            "description": "Rebeca ama de casa chaburra, super chaburra  Fanatismo Oscurantismo en Revolución http://foro.revolucionaldia.org/viewtopic.php?…",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 25314,
+            "friends_count": 20759,
+            "listed_count": 263,
+            "favourites_count": 174576,
+            "statuses_count": 1028797,
+            "created_at": "Sun May 09 13:27:33 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "24B300",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/492383683915943937/H494WiVt_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/492383683915943937/H494WiVt_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/141940558/1368708238",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "00ec4c32070f5076",
+            "url": "https://api.twitter.com/1.1/geo/id/00ec4c32070f5076.json",
+            "place_type": "city",
+            "name": "Caracas",
+            "full_name": "Caracas, Venezuela",
+            "country_code": "VE",
+            "country": "Venezuela",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -66.998581,
+                            10.440464
+                        ],
+                        [
+                            -66.998581,
+                            10.526614
+                        ],
+                        [
+                            -66.862707,
+                            10.526614
+                        ],
+                        [
+                            -66.862707,
+                            10.440464
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253860131001061377,
+        "quoted_status_id_str": "1253860131001061377",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 01:35:25 +0000 2020",
+            "id": 1253860131001061377,
+            "id_str": "1253860131001061377",
+            "text": "@CMonteroOficial https://t.co/iApK99ZNWz",
+            "display_text_range": [
+                16,
+                16
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": 1253807559305318400,
+            "in_reply_to_status_id_str": "1253807559305318400",
+            "in_reply_to_user_id": 119758810,
+            "in_reply_to_user_id_str": "119758810",
+            "in_reply_to_screen_name": "CMonteroOficial",
+            "user": {
+                "id": 592651367,
+                "id_str": "592651367",
+                "name": "EvangelinoIII",
+                "screen_name": "EvangelinoIII",
+                "location": null,
+                "url": null,
+                "description": "Mecanico de profesion, chavista hasta las metras, y ahora en cuarentena, que vaina!!",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 165,
+                "friends_count": 361,
+                "listed_count": 0,
+                "favourites_count": 1194,
+                "statuses_count": 5112,
+                "created_at": "Mon May 28 11:42:40 +0000 2012",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1250617415475646464/n8qx5uzE_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250617415475646464/n8qx5uzE_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/592651367/1360298651",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CMonteroOficial",
+                        "name": "Carlos Montero",
+                        "id": 119758810,
+                        "id_str": "119758810",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253860127771373570,
+                        "id_str": "1253860127771373570",
+                        "indices": [
+                            17,
+                            40
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWabJJnWsAIs4e9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWabJJnWsAIs4e9.jpg",
+                        "url": "https://t.co/iApK99ZNWz",
+                        "display_url": "pic.twitter.com/iApK99ZNWz",
+                        "expanded_url": "https://twitter.com/EvangelinoIII/status/1253860131001061377/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253860127771373570,
+                        "id_str": "1253860127771373570",
+                        "indices": [
+                            17,
+                            40
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWabJJnWsAIs4e9.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWabJJnWsAIs4e9.jpg",
+                        "url": "https://t.co/iApK99ZNWz",
+                        "display_url": "pic.twitter.com/iApK99ZNWz",
+                        "expanded_url": "https://twitter.com/EvangelinoIII/status/1253860131001061377/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "und"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/SS3mdkwxoP",
+            "expanded": "https://twitter.com/EvangelinoIII/status/1253860131001061377",
+            "display": "twitter.com/EvangelinoIII/…"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VenceremosAlCovid19",
+                    "indices": [
+                        0,
+                        20
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/SS3mdkwxoP",
+                    "expanded_url": "https://twitter.com/EvangelinoIII/status/1253860131001061377",
+                    "display_url": "twitter.com/EvangelinoIII/…",
+                    "indices": [
+                        80,
+                        103
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "es"
+    },
+    "quoted_status_id": 1253860131001061377,
+    "quoted_status_id_str": "1253860131001061377",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 01:35:25 +0000 2020",
+        "id": 1253860131001061377,
+        "id_str": "1253860131001061377",
+        "text": "@CMonteroOficial https://t.co/iApK99ZNWz",
+        "display_text_range": [
+            16,
+            16
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1253807559305318400,
+        "in_reply_to_status_id_str": "1253807559305318400",
+        "in_reply_to_user_id": 119758810,
+        "in_reply_to_user_id_str": "119758810",
+        "in_reply_to_screen_name": "CMonteroOficial",
+        "user": {
+            "id": 592651367,
+            "id_str": "592651367",
+            "name": "EvangelinoIII",
+            "screen_name": "EvangelinoIII",
+            "location": null,
+            "url": null,
+            "description": "Mecanico de profesion, chavista hasta las metras, y ahora en cuarentena, que vaina!!",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 165,
+            "friends_count": 361,
+            "listed_count": 0,
+            "favourites_count": 1194,
+            "statuses_count": 5112,
+            "created_at": "Mon May 28 11:42:40 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250617415475646464/n8qx5uzE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250617415475646464/n8qx5uzE_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/592651367/1360298651",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CMonteroOficial",
+                    "name": "Carlos Montero",
+                    "id": 119758810,
+                    "id_str": "119758810",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1253860127771373570,
+                    "id_str": "1253860127771373570",
+                    "indices": [
+                        17,
+                        40
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWabJJnWsAIs4e9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWabJJnWsAIs4e9.jpg",
+                    "url": "https://t.co/iApK99ZNWz",
+                    "display_url": "pic.twitter.com/iApK99ZNWz",
+                    "expanded_url": "https://twitter.com/EvangelinoIII/status/1253860131001061377/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1253860127771373570,
+                    "id_str": "1253860127771373570",
+                    "indices": [
+                        17,
+                        40
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWabJJnWsAIs4e9.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWabJJnWsAIs4e9.jpg",
+                    "url": "https://t.co/iApK99ZNWz",
+                    "display_url": "pic.twitter.com/iApK99ZNWz",
+                    "expanded_url": "https://twitter.com/EvangelinoIII/status/1253860131001061377/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 720,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "und"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/SS3mdkwxoP",
+        "expanded": "https://twitter.com/EvangelinoIII/status/1253860131001061377",
+        "display": "twitter.com/EvangelinoIII/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "VenceremosAlCovid19",
+                "indices": [
+                    16,
+                    36
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/SS3mdkwxoP",
+                "expanded_url": "https://twitter.com/EvangelinoIII/status/1253860131001061377",
+                "display_url": "twitter.com/EvangelinoIII/…",
+                "indices": [
+                    96,
+                    119
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "dpiloncita",
+                "name": "Rebeca #ChávezVive 🇻🇪",
+                "id": 141940558,
+                "id_str": "141940558",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587821984669"
+}

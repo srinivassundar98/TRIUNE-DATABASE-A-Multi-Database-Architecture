@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:59:56 +0000 2020",
+    "id": 1254047495103016960,
+    "id_str": "1254047495103016960",
+    "text": "@iamyurnico @zorazrr Oke ntar kalo corona udah gak ada ajarin ya",
+    "display_text_range": [
+        21,
+        64
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254019609075658752,
+    "in_reply_to_status_id_str": "1254019609075658752",
+    "in_reply_to_user_id": 3262458012,
+    "in_reply_to_user_id_str": "3262458012",
+    "in_reply_to_screen_name": "iamyurnico",
+    "user": {
+        "id": 1141379506441080832,
+        "id_str": "1141379506441080832",
+        "name": "agoyy",
+        "screen_name": "YDprakoso",
+        "location": "Malang, Jawa Timur",
+        "url": null,
+        "description": "penikmat senyawa alkaloid xantina",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 98,
+        "friends_count": 129,
+        "listed_count": 0,
+        "favourites_count": 535,
+        "statuses_count": 1146,
+        "created_at": "Wed Jun 19 16:17:34 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248619356751155200/bfZK2b0k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248619356751155200/bfZK2b0k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1141379506441080832/1573720376",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "iamyurnico",
+                "name": "bukan siti nurbaya",
+                "id": 3262458012,
+                "id_str": "3262458012",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "zorazrr",
+                "name": "kadang puitis",
+                "id": 1128317041230766080,
+                "id_str": "1128317041230766080",
+                "indices": [
+                    12,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587823196565"
+}

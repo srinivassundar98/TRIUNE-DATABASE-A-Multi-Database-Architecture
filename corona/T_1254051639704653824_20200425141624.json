@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 14:16:24 +0000 2020",
+    "id": 1254051639704653824,
+    "id_str": "1254051639704653824",
+    "text": "How \"next big thing\" came out of some wunderkind who lost everything to medical debt, picked back up with a GoFundM… https://t.co/9l6viL0LU9",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254051638232395783,
+    "in_reply_to_status_id_str": "1254051638232395783",
+    "in_reply_to_user_id": 14079076,
+    "in_reply_to_user_id_str": "14079076",
+    "in_reply_to_screen_name": "erickam",
+    "user": {
+        "id": 14079076,
+        "id_str": "14079076",
+        "name": "Eric Kam",
+        "screen_name": "erickam",
+        "location": "Detroit MI 48243",
+        "url": "http://stringgirl.blogspot.com",
+        "description": "VR Evangelist, globetrotter, million-miler, Software product marketing manager. Opinions are my own, except when I'm right; then they should be yours too.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 202,
+        "friends_count": 348,
+        "listed_count": 26,
+        "favourites_count": 4680,
+        "statuses_count": 4609,
+        "created_at": "Tue Mar 04 18:20:00 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/758921479417233408/kCgmJvuz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/758921479417233408/kCgmJvuz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14079076/1357569895",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "d8a409bb33c9355b",
+        "url": "https://api.twitter.com/1.1/geo/id/d8a409bb33c9355b.json",
+        "place_type": "city",
+        "name": "Grosse Pointe Woods",
+        "full_name": "Grosse Pointe Woods, MI",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -82.923131,
+                        42.41827
+                    ],
+                    [
+                        -82.923131,
+                        42.450961
+                    ],
+                    [
+                        -82.877488,
+                        42.450961
+                    ],
+                    [
+                        -82.877488,
+                        42.41827
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "How \"next big thing\" came out of some wunderkind who lost everything to medical debt, picked back up with a GoFundMe campaign then persevered to start the worlds largest green energy concern or better yet, the actual and highly profitable cure to corona or cancer\n\n3/",
+        "display_text_range": [
+            0,
+            267
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/9l6viL0LU9",
+                "expanded_url": "https://twitter.com/i/web/status/1254051639704653824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824184715"
+}

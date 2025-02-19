@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:31:36 +0000 2020",
+    "id": 1254025265333899264,
+    "id_str": "1254025265333899264",
+    "text": "@Jay_Maa_Bharti1 @sambitswaraj 25000 mariz hai tho kya hum ab ghr baith kr bhi roza nhi rakh sakte hai kya tum jais… https://t.co/gBERp4BxcJ",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254019831738757121,
+    "in_reply_to_status_id_str": "1254019831738757121",
+    "in_reply_to_user_id": 503052388,
+    "in_reply_to_user_id_str": "503052388",
+    "in_reply_to_screen_name": "Jay_Maa_Bharti1",
+    "user": {
+        "id": 702531728448102401,
+        "id_str": "702531728448102401",
+        "name": "Arbaaz Khilji",
+        "screen_name": "arbaaz_khilji",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7,
+        "friends_count": 24,
+        "listed_count": 0,
+        "favourites_count": 3,
+        "statuses_count": 13,
+        "created_at": "Wed Feb 24 16:33:11 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244531001532932096/fQO2quOx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244531001532932096/fQO2quOx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/702531728448102401/1585554454",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Jay_Maa_Bharti1 @sambitswaraj 25000 mariz hai tho kya hum ab ghr baith kr bhi roza nhi rakh sakte hai kya tum jaise log he hindu muslim karte ho baaki hindu bhai tho humesha se he ache hai tum log bhadkate ho bas logo ko or rahi baat hamari tho ab corona ke ilaaj ke liye blood plasma bhi muslim he de rhe hai",
+        "display_text_range": [
+            31,
+            310
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Jay_Maa_Bharti1",
+                    "name": "Sujeet Kumar Baxi",
+                    "id": 503052388,
+                    "id_str": "503052388",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "sambitswaraj",
+                    "name": "Sambit Patra",
+                    "id": 1368737382,
+                    "id_str": "1368737382",
+                    "indices": [
+                        17,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gBERp4BxcJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254025265333899264",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Jay_Maa_Bharti1",
+                "name": "Sujeet Kumar Baxi",
+                "id": 503052388,
+                "id_str": "503052388",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "sambitswaraj",
+                "name": "Sambit Patra",
+                "id": 1368737382,
+                "id_str": "1368737382",
+                "indices": [
+                    17,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587817896575"
+}

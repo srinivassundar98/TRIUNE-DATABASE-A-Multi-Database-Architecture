@@ -1,0 +1,133 @@
+{
+    "created_at": "Sat Apr 25 13:15:05 +0000 2020",
+    "id": 1254036210022055937,
+    "id_str": "1254036210022055937",
+    "text": "@NilssonPM Anders Tegnell säger att det är en ”spännande” tendens att Corona börjat sprida sig ifrån Stlm till rest… https://t.co/nlJVDez5nJ",
+    "display_text_range": [
+        11,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253938527676612608,
+    "in_reply_to_status_id_str": "1253938527676612608",
+    "in_reply_to_user_id": 19240396,
+    "in_reply_to_user_id_str": "19240396",
+    "in_reply_to_screen_name": "NilssonPM",
+    "user": {
+        "id": 1213081981749063680,
+        "id_str": "1213081981749063680",
+        "name": "Hank",
+        "screen_name": "Hank43687958",
+        "location": null,
+        "url": null,
+        "description": "Trader på heltid. Kör mest indexpossar. Bor på Österlen.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 55,
+        "friends_count": 26,
+        "listed_count": 1,
+        "favourites_count": 2844,
+        "statuses_count": 1823,
+        "created_at": "Fri Jan 03 12:57:47 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220388966387634178/GtzNOI78_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220388966387634178/GtzNOI78_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@NilssonPM Anders Tegnell säger att det är en ”spännande” tendens att Corona börjat sprida sig ifrån Stlm till resten av landet. En person som saknar all form av empati. Varje dödsfall och smittad är bara en siffra för Tegnell. Läskig person.\n\nhttps://t.co/tkYlPZbZQu",
+        "display_text_range": [
+            11,
+            267
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/tkYlPZbZQu",
+                    "expanded_url": "https://sverigesradio.se/sida/artikel.aspx?programid=106&artikel=7459872",
+                    "display_url": "sverigesradio.se/sida/artikel.a…",
+                    "indices": [
+                        244,
+                        267
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "NilssonPM",
+                    "name": "PM Nilsson",
+                    "id": 19240396,
+                    "id_str": "19240396",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/nlJVDez5nJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254036210022055937",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "NilssonPM",
+                "name": "PM Nilsson",
+                "id": 19240396,
+                "id_str": "19240396",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587820505992"
+}

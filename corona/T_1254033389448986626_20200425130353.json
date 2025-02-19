@@ -1,0 +1,120 @@
+{
+    "created_at": "Sat Apr 25 13:03:53 +0000 2020",
+    "id": 1254033389448986626,
+    "id_str": "1254033389448986626",
+    "text": "The latest The News library Daily! https://t.co/e0sHkjsgGZ Thanks to @RepulsorRay @redcrab_library #books #corona",
+    "source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3971417613,
+        "id_str": "3971417613",
+        "name": "Татьяна Маликова",
+        "screen_name": "tanyan152",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 35,
+        "friends_count": 82,
+        "listed_count": 2,
+        "favourites_count": 0,
+        "statuses_count": 3309,
+        "created_at": "Fri Oct 16 10:52:08 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654976000518955010/JfwaB2Ov_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654976000518955010/JfwaB2Ov_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "books",
+                "indices": [
+                    99,
+                    105
+                ]
+            },
+            {
+                "text": "corona",
+                "indices": [
+                    106,
+                    113
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/e0sHkjsgGZ",
+                "expanded_url": "https://paper.li/tanyan152/1445000395?edition_id=35cf50b0-86f5-11ea-88ab-0cc47a0d1609",
+                "display_url": "paper.li/tanyan152/1445…",
+                "indices": [
+                    35,
+                    58
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RepulsorRay",
+                "name": "Jo Lantru",
+                "id": 1109226978891218944,
+                "id_str": "1109226978891218944",
+                "indices": [
+                    69,
+                    81
+                ]
+            },
+            {
+                "screen_name": "redcrab_library",
+                "name": "吉良青劉",
+                "id": 70047438,
+                "id_str": "70047438",
+                "indices": [
+                    82,
+                    98
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819833515"
+}

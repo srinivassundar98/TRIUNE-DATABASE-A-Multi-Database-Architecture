@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:35:46 +0000 2020",
+    "id": 1254056514274365440,
+    "id_str": "1254056514274365440",
+    "text": "@polemicas1 @DanteRivasQ @nacholacriatura Que pasa con Dante?No tiene s alguien que le advierta sobre esas cosas?Co… https://t.co/ju28AlJUwj",
+    "display_text_range": [
+        42,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254036549710352385,
+    "in_reply_to_status_id_str": "1254036549710352385",
+    "in_reply_to_user_id": 127939234,
+    "in_reply_to_user_id_str": "127939234",
+    "in_reply_to_screen_name": "polemicas1",
+    "user": {
+        "id": 1377678511,
+        "id_str": "1377678511",
+        "name": "REICECCHAPARRO",
+        "screen_name": "REICECCHAPARRO",
+        "location": null,
+        "url": null,
+        "description": "AMA DE CASA CHAVISTA Y REVOLUCIONARIA",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1677,
+        "friends_count": 1930,
+        "listed_count": 2,
+        "favourites_count": 297,
+        "statuses_count": 24132,
+        "created_at": "Wed Apr 24 18:12:06 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3719674710/72382fb2b1f29f7cf2f14b17ff81aa31_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3719674710/72382fb2b1f29f7cf2f14b17ff81aa31_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1377678511/1368451308",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@polemicas1 @DanteRivasQ @nacholacriatura Que pasa con Dante?No tiene s alguien que le advierta sobre esas cosas?Como se dejo meter ese straik con el Corona Virus?el debe tener a personas que lo ayuden, ahora el.tal Nacho?",
+        "display_text_range": [
+            42,
+            222
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "polemicas1",
+                    "name": "polemicas",
+                    "id": 127939234,
+                    "id_str": "127939234",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "DanteRivasQ",
+                    "name": "Dante Rivas",
+                    "id": 133373873,
+                    "id_str": "133373873",
+                    "indices": [
+                        12,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "nacholacriatura",
+                    "name": "NACHO",
+                    "id": 42473217,
+                    "id_str": "42473217",
+                    "indices": [
+                        25,
+                        41
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ju28AlJUwj",
+                "expanded_url": "https://twitter.com/i/web/status/1254056514274365440",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "polemicas1",
+                "name": "polemicas",
+                "id": 127939234,
+                "id_str": "127939234",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "DanteRivasQ",
+                "name": "Dante Rivas",
+                "id": 133373873,
+                "id_str": "133373873",
+                "indices": [
+                    12,
+                    24
+                ]
+            },
+            {
+                "screen_name": "nacholacriatura",
+                "name": "NACHO",
+                "id": 42473217,
+                "id_str": "42473217",
+                "indices": [
+                    25,
+                    41
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587825346903"
+}

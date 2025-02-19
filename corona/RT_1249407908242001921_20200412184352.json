@@ -1,0 +1,518 @@
+{
+    "created_at": "Sun Apr 12 18:43:52 +0000 2020",
+    "id": 1249407908242001921,
+    "id_str": "1249407908242001921",
+    "text": "RT @Dikshitsdoshi: Exactly 2 months ago Shri @RahulGandhi Ji warned the government about the threats that Corona Virus could unleash on Ind…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1437656672,
+        "id_str": "1437656672",
+        "name": "Vijay Upadhyay",
+        "screen_name": "vijayprakashu8",
+        "location": null,
+        "url": null,
+        "description": "A tutor wid a liberal mindset!!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 552,
+        "friends_count": 4997,
+        "listed_count": 1,
+        "favourites_count": 231864,
+        "statuses_count": 129987,
+        "created_at": "Sat May 18 07:20:28 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1087975654056955904/U-_lpAUn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087975654056955904/U-_lpAUn_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 11:55:49 +0000 2020",
+        "id": 1249305217889419264,
+        "id_str": "1249305217889419264",
+        "text": "Exactly 2 months ago Shri @RahulGandhi Ji warned the government about the threats that Corona Virus could unleash o… https://t.co/xOvuO5XgPo",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 308001764,
+            "id_str": "308001764",
+            "name": "CA Dikshit S Doshi",
+            "screen_name": "Dikshitsdoshi",
+            "location": "Mumbai | Hometown- Rajasthan",
+            "url": "https://dikshitdoshi.wordpress.com/",
+            "description": "Practising Chartered Accountant| LLB| भारतीय राष्ट्रीय कोंग्रेस का समर्थक @INCIndia | मारवाड़ी | समावेशी विकास का अधिवक्ता",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1080,
+            "friends_count": 418,
+            "listed_count": 21,
+            "favourites_count": 104529,
+            "statuses_count": 76893,
+            "created_at": "Mon May 30 17:22:15 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "91D2FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1243926693074464770/rzpApY8g_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243926693074464770/rzpApY8g_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/308001764/1576564620",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "7929cea6bd5b32bd",
+            "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+            "place_type": "city",
+            "name": "Mumbai",
+            "full_name": "Mumbai, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            72.74484,
+                            18.845343
+                        ],
+                        [
+                            72.74484,
+                            19.502937
+                        ],
+                        [
+                            73.003648,
+                            19.502937
+                        ],
+                        [
+                            73.003648,
+                            18.845343
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1227536939479228417,
+        "quoted_status_id_str": "1227536939479228417",
+        "quoted_status": {
+            "created_at": "Wed Feb 12 10:16:27 +0000 2020",
+            "id": 1227536939479228417,
+            "id_str": "1227536939479228417",
+            "text": "The Corona Virus is an extremely serious threat to our people and our economy. My sense is the government is not ta… https://t.co/pwevB2nHD9",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3171712086,
+                "id_str": "3171712086",
+                "name": "Rahul Gandhi",
+                "screen_name": "RahulGandhi",
+                "location": "12, Tughlak Lane, New Delhi",
+                "url": "http://www.inc.in",
+                "description": "This is the official account of Rahul Gandhi | Member of the Indian National Congress| Member of Parliament",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 13107961,
+                "friends_count": 253,
+                "listed_count": 2952,
+                "favourites_count": 357,
+                "statuses_count": 4584,
+                "created_at": "Sat Apr 25 06:39:15 +0000 2015",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3171712086/1430826926",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "The Corona Virus is an extremely serious threat to our people and our economy. My sense is the government is not taking this threat seriously. \n\nTimely action is critical.\n\n#coronavirus \n\nhttps://t.co/bspz4l1tFM",
+                "display_text_range": [
+                    0,
+                    211
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "coronavirus",
+                            "indices": [
+                                173,
+                                185
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/bspz4l1tFM",
+                            "expanded_url": "https://news.harvard.edu/gazette/story/2020/02/as-confirmed-cases-of-coronavirus-surge-path-grows-uncertain/",
+                            "display_url": "news.harvard.edu/gazette/story/…",
+                            "indices": [
+                                188,
+                                211
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 4072,
+            "reply_count": 5220,
+            "retweet_count": 15982,
+            "favorite_count": 47988,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pwevB2nHD9",
+                        "expanded_url": "https://twitter.com/i/web/status/1227536939479228417",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/2tL9c08MQv",
+            "expanded": "https://twitter.com/rahulgandhi/status/1227536939479228417",
+            "display": "twitter.com/rahulgandhi/st…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Exactly 2 months ago Shri @RahulGandhi Ji warned the government about the threats that Corona Virus could unleash on Indians. @HasibaAmin @SaralPatel @srivatsayb",
+            "display_text_range": [
+                0,
+                161
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "RahulGandhi",
+                        "name": "Rahul Gandhi",
+                        "id": 3171712086,
+                        "id_str": "3171712086",
+                        "indices": [
+                            26,
+                            38
+                        ]
+                    },
+                    {
+                        "screen_name": "HasibaAmin",
+                        "name": "Hasiba Amin 🌈",
+                        "id": 636276877,
+                        "id_str": "636276877",
+                        "indices": [
+                            126,
+                            137
+                        ]
+                    },
+                    {
+                        "screen_name": "SaralPatel",
+                        "name": "Saral Patel",
+                        "id": 1254474637,
+                        "id_str": "1254474637",
+                        "indices": [
+                            138,
+                            149
+                        ]
+                    },
+                    {
+                        "screen_name": "srivatsayb",
+                        "name": "Srivatsa",
+                        "id": 45261768,
+                        "id_str": "45261768",
+                        "indices": [
+                            150,
+                            161
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 21,
+        "favorite_count": 54,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/xOvuO5XgPo",
+                    "expanded_url": "https://twitter.com/i/web/status/1249305217889419264",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "RahulGandhi",
+                    "name": "Rahul Gandhi",
+                    "id": 3171712086,
+                    "id_str": "3171712086",
+                    "indices": [
+                        26,
+                        38
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1227536939479228417,
+    "quoted_status_id_str": "1227536939479228417",
+    "quoted_status": {
+        "created_at": "Wed Feb 12 10:16:27 +0000 2020",
+        "id": 1227536939479228417,
+        "id_str": "1227536939479228417",
+        "text": "The Corona Virus is an extremely serious threat to our people and our economy. My sense is the government is not ta… https://t.co/pwevB2nHD9",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3171712086,
+            "id_str": "3171712086",
+            "name": "Rahul Gandhi",
+            "screen_name": "RahulGandhi",
+            "location": "12, Tughlak Lane, New Delhi",
+            "url": "http://www.inc.in",
+            "description": "This is the official account of Rahul Gandhi | Member of the Indian National Congress| Member of Parliament",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 13107961,
+            "friends_count": 253,
+            "listed_count": 2952,
+            "favourites_count": 357,
+            "statuses_count": 4584,
+            "created_at": "Sat Apr 25 06:39:15 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974851878860312582/O-Zn2b72_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3171712086/1430826926",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "The Corona Virus is an extremely serious threat to our people and our economy. My sense is the government is not taking this threat seriously. \n\nTimely action is critical.\n\n#coronavirus \n\nhttps://t.co/bspz4l1tFM",
+            "display_text_range": [
+                0,
+                211
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "coronavirus",
+                        "indices": [
+                            173,
+                            185
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/bspz4l1tFM",
+                        "expanded_url": "https://news.harvard.edu/gazette/story/2020/02/as-confirmed-cases-of-coronavirus-surge-path-grows-uncertain/",
+                        "display_url": "news.harvard.edu/gazette/story/…",
+                        "indices": [
+                            188,
+                            211
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 4072,
+        "reply_count": 5220,
+        "retweet_count": 15982,
+        "favorite_count": 47988,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pwevB2nHD9",
+                    "expanded_url": "https://twitter.com/i/web/status/1227536939479228417",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/2tL9c08MQv",
+        "expanded": "https://twitter.com/rahulgandhi/status/1227536939479228417",
+        "display": "twitter.com/rahulgandhi/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Dikshitsdoshi",
+                "name": "CA Dikshit S Doshi",
+                "id": 308001764,
+                "id_str": "308001764",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "RahulGandhi",
+                "name": "Rahul Gandhi",
+                "id": 3171712086,
+                "id_str": "3171712086",
+                "indices": [
+                    45,
+                    57
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717032858"
+}

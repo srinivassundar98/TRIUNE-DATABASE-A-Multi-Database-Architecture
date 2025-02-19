@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun Apr 12 18:46:12 +0000 2020",
+    "id": 1249408492978475009,
+    "id_str": "1249408492978475009",
+    "text": "@dilan76619974 Yok yok yine de corona övülmez",
+    "display_text_range": [
+        15,
+        45
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249407696895344641,
+    "in_reply_to_status_id_str": "1249407696895344641",
+    "in_reply_to_user_id": 1230868567576514573,
+    "in_reply_to_user_id_str": "1230868567576514573",
+    "in_reply_to_screen_name": "dilan76619974",
+    "user": {
+        "id": 701089553197748226,
+        "id_str": "701089553197748226",
+        "name": "Hadi Cin",
+        "screen_name": "hadi_cin",
+        "location": "Konyaaltı, Antalya",
+        "url": null,
+        "description": "avukat/parezer/lawyer... (yani bu dilleri bilir) Antalya’da yaşar/okur/yazar...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4251,
+        "friends_count": 1385,
+        "listed_count": 2,
+        "favourites_count": 19067,
+        "statuses_count": 4691,
+        "created_at": "Sat Feb 20 17:02:30 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235288343119826946/C4U5Jj2d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235288343119826946/C4U5Jj2d_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701089553197748226/1557937832",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "65c984aac6dd3c2e",
+        "url": "https://api.twitter.com/1.1/geo/id/65c984aac6dd3c2e.json",
+        "place_type": "admin",
+        "name": "Konyaaltı",
+        "full_name": "Konyaaltı, Antalya",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        30.310725,
+                        36.67569
+                    ],
+                    [
+                        30.310725,
+                        36.947438
+                    ],
+                    [
+                        30.665419,
+                        36.947438
+                    ],
+                    [
+                        30.665419,
+                        36.67569
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "dilan76619974",
+                "name": "dilan",
+                "id": 1230868567576514573,
+                "id_str": "1230868567576514573",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586717172270"
+}

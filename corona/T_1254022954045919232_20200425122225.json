@@ -1,0 +1,269 @@
+{
+    "created_at": "Sat Apr 25 12:22:25 +0000 2020",
+    "id": 1254022954045919232,
+    "id_str": "1254022954045919232",
+    "text": "Govnati ga nama 😀",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 920979035420876800,
+        "id_str": "920979035420876800",
+        "name": "Ibrahim Abdulkadir",
+        "screen_name": "Abdulnicon",
+        "location": null,
+        "url": null,
+        "description": "Keep_it_simple",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 573,
+        "friends_count": 951,
+        "listed_count": 0,
+        "favourites_count": 1829,
+        "statuses_count": 166,
+        "created_at": "Thu Oct 19 11:44:47 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250428710802452480/QQ-YcarY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250428710802452480/QQ-YcarY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920979035420876800/1586960413",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "009c390b0b5a23de",
+        "url": "https://api.twitter.com/1.1/geo/id/009c390b0b5a23de.json",
+        "place_type": "city",
+        "name": "Bauchi",
+        "full_name": "Bauchi, Nigeria",
+        "country_code": "NG",
+        "country": "Nigeria",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        9.766631,
+                        10.264858
+                    ],
+                    [
+                        9.766631,
+                        10.367024
+                    ],
+                    [
+                        9.884417,
+                        10.367024
+                    ],
+                    [
+                        9.884417,
+                        10.264858
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "quoted_status_id": 1254022218427875329,
+    "quoted_status_id_str": "1254022218427875329",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 12:19:30 +0000 2020",
+        "id": 1254022218427875329,
+        "id_str": "1254022218427875329",
+        "text": "Ashe bansaniba najima Ina kwana akan Vita corona 😭😭😭 https://t.co/gafM4ECvjq",
+        "display_text_range": [
+            0,
+            52
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1207922728960974848,
+            "id_str": "1207922728960974848",
+            "name": "Uncle Burger 🍔🍔🍔",
+            "screen_name": "UncleBurger__",
+            "location": "Nigeria",
+            "url": null,
+            "description": "for more info: contact @antyburger_\n\nold account suspended  @uncleburger_",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 287,
+            "friends_count": 287,
+            "listed_count": 0,
+            "favourites_count": 1005,
+            "statuses_count": 422,
+            "created_at": "Fri Dec 20 07:16:47 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1207922987912945664/C98wEs0Q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207922987912945664/C98wEs0Q_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1207922728960974848/1576826497",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254022186983215105,
+                    "id_str": "1254022186983215105",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcuiPOX0AExK1I.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcuiPOX0AExK1I.jpg",
+                    "url": "https://t.co/gafM4ECvjq",
+                    "display_url": "pic.twitter.com/gafM4ECvjq",
+                    "expanded_url": "https://twitter.com/UncleBurger__/status/1254022218427875329/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1109,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 629,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1893,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254022186983215105,
+                    "id_str": "1254022186983215105",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcuiPOX0AExK1I.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcuiPOX0AExK1I.jpg",
+                    "url": "https://t.co/gafM4ECvjq",
+                    "display_url": "pic.twitter.com/gafM4ECvjq",
+                    "expanded_url": "https://twitter.com/UncleBurger__/status/1254022218427875329/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1109,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 629,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1893,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "tl"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/Hj0in7ZquZ",
+        "expanded": "https://twitter.com/uncleburger__/status/1254022218427875329",
+        "display": "twitter.com/uncleburger__/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587817345521"
+}

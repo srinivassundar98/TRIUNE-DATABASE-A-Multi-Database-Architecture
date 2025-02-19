@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:33:26 +0000 2020",
+    "id": 1254025726057119744,
+    "id_str": "1254025726057119744",
+    "text": "@francoislegault @Vadeboncoeur_Al L’OSM vient d’annoncer qu’il n’a aucune preuve qu’on est immunisé après avoir eu… https://t.co/lQY4V8fuPl",
+    "display_text_range": [
+        34,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253753170645450755,
+    "in_reply_to_status_id_str": "1253753170645450755",
+    "in_reply_to_user_id": 260846506,
+    "in_reply_to_user_id_str": "260846506",
+    "in_reply_to_screen_name": "francoislegault",
+    "user": {
+        "id": 918261735018106881,
+        "id_str": "918261735018106881",
+        "name": "@myanna_dm",
+        "screen_name": "DmMyanna",
+        "location": "Québec, Canada",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 4,
+        "listed_count": 0,
+        "favourites_count": 3,
+        "statuses_count": 13,
+        "created_at": "Wed Oct 11 23:47:12 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129965847898927110/PFeFhySp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129965847898927110/PFeFhySp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918261735018106881/1558239827",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@francoislegault @Vadeboncoeur_Al L’OSM vient d’annoncer qu’il n’a aucune preuve qu’on est immunisé après avoir eu le corona virus !!! Il faut trouver des alternatives au plus vite !!! Je trouve sa inquiétant !!!",
+        "display_text_range": [
+            34,
+            212
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "francoislegault",
+                    "name": "François Legault",
+                    "id": 260846506,
+                    "id_str": "260846506",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "Vadeboncoeur_Al",
+                    "name": "Alain Vadeboncoeur",
+                    "id": 16571214,
+                    "id_str": "16571214",
+                    "indices": [
+                        17,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/lQY4V8fuPl",
+                "expanded_url": "https://twitter.com/i/web/status/1254025726057119744",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "francoislegault",
+                "name": "François Legault",
+                "id": 260846506,
+                "id_str": "260846506",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "Vadeboncoeur_Al",
+                "name": "Alain Vadeboncoeur",
+                "id": 16571214,
+                "id_str": "16571214",
+                "indices": [
+                    17,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587818006420"
+}

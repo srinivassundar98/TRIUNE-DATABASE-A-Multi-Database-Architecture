@@ -1,0 +1,495 @@
+{
+    "created_at": "Sat Apr 25 12:29:39 +0000 2020",
+    "id": 1254024774348681216,
+    "id_str": "1254024774348681216",
+    "text": "RT @KFL3011: Wichtig ist für mich \"Studie zu Corona bei Kindern aus NL nicht aussagekräftig (\"statistisch nicht signifikant\"). Wegen dieser…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 35709404,
+        "id_str": "35709404",
+        "name": "Parzival 🏠",
+        "screen_name": "parz42ival",
+        "location": null,
+        "url": null,
+        "description": "#parzival #nodejs #javascript #hack1n9 #docker #gnu #linux  #freesoftware",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 345,
+        "friends_count": 1265,
+        "listed_count": 51,
+        "favourites_count": 26601,
+        "statuses_count": 10716,
+        "created_at": "Mon Apr 27 09:51:04 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152098219859615745/QmroM2Tm_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152098219859615745/QmroM2Tm_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35709404/1563516585",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 08:45:38 +0000 2020",
+        "id": 1253968396737282049,
+        "id_str": "1253968396737282049",
+        "text": "Wichtig ist für mich \"Studie zu Corona bei Kindern aus NL nicht aussagekräftig (\"statistisch nicht signifikant\"). W… https://t.co/XCuh4X1OMh",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1225309978770202624,
+            "id_str": "1225309978770202624",
+            "name": "KFL",
+            "screen_name": "KFL3011",
+            "location": "Thüringen, Deutschland",
+            "url": null,
+            "description": "🕊️",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 118,
+            "friends_count": 734,
+            "listed_count": 1,
+            "favourites_count": 9832,
+            "statuses_count": 2646,
+            "created_at": "Thu Feb 06 06:47:29 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1249699794165080064/yEaa3a0s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249699794165080064/yEaa3a0s_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225309978770202624/1581163587",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253965698579279872,
+        "quoted_status_id_str": "1253965698579279872",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 08:34:54 +0000 2020",
+            "id": 1253965698579279872,
+            "id_str": "1253965698579279872",
+            "text": "Artikel &amp; Video mit ORF-Interviews mit @c_drosten\n- zu erwarten, dass Infektionen wieder auf ein „nicht mehr erträg… https://t.co/aWCU0AckJ2",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1225089362288873474,
+                "id_str": "1225089362288873474",
+                "name": "Info on #coronavirus",
+                "screen_name": "AscotBlack",
+                "location": "Germany",
+                "url": "https://de.m.wikipedia.org/wiki/Li_Wenliang",
+                "description": "Kulturwirt B.A. (WiWi/Spanisch) · Informierter Laie · Account wurde Anfang Februar zur Aufklärung zu #COVID19 angelegt · Profilbild: Li Wenliang (Whistleblower)",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1888,
+                "friends_count": 222,
+                "listed_count": 39,
+                "favourites_count": 2888,
+                "statuses_count": 9220,
+                "created_at": "Wed Feb 05 16:10:58 +0000 2020",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1226315657085583360/bQw3IfJn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226315657085583360/bQw3IfJn_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225089362288873474/1583110230",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "quoted_status_id": 1253920373768413191,
+            "quoted_status_id_str": "1253920373768413191",
+            "is_quote_status": true,
+            "extended_tweet": {
+                "full_text": "Artikel &amp; Video mit ORF-Interviews mit @c_drosten\n- zu erwarten, dass Infektionen wieder auf ein „nicht mehr erträgliches Maß“ steigen\n- Vorsicht auch bei sommerlichen Aktivitäten draußen\n- Studie zu Corona bei Kindern aus NL nicht aussagekräftig (\"statistisch nicht signifikant\") https://t.co/eMyptljCYd",
+                "display_text_range": [
+                    0,
+                    284
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/eMyptljCYd",
+                            "expanded_url": "https://twitter.com/filmface1/status/1253920373768413191",
+                            "display_url": "twitter.com/filmface1/stat…",
+                            "indices": [
+                                285,
+                                308
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "c_drosten",
+                            "name": "Christian Drosten",
+                            "id": 2804548467,
+                            "id_str": "2804548467",
+                            "indices": [
+                                43,
+                                53
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 5,
+            "favorite_count": 11,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/aWCU0AckJ2",
+                        "expanded_url": "https://twitter.com/i/web/status/1253965698579279872",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "c_drosten",
+                        "name": "Christian Drosten",
+                        "id": 2804548467,
+                        "id_str": "2804548467",
+                        "indices": [
+                            43,
+                            53
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/PzJ1uB3Si8",
+            "expanded": "https://twitter.com/AscotBlack/status/1253965698579279872",
+            "display": "twitter.com/AscotBlack/sta…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Wichtig ist für mich \"Studie zu Corona bei Kindern aus NL nicht aussagekräftig (\"statistisch nicht signifikant\"). Wegen dieser Studie wollten manche diese Woche schon freudig jede Kita und jede Grundschule aufschließen. 🤦 #Verantwortungslos #BesserVorsichtalsNachsicht https://t.co/PzJ1uB3Si8",
+            "display_text_range": [
+                0,
+                268
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Verantwortungslos",
+                        "indices": [
+                            222,
+                            240
+                        ]
+                    },
+                    {
+                        "text": "BesserVorsichtalsNachsicht",
+                        "indices": [
+                            241,
+                            268
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/PzJ1uB3Si8",
+                        "expanded_url": "https://twitter.com/AscotBlack/status/1253965698579279872",
+                        "display_url": "twitter.com/AscotBlack/sta…",
+                        "indices": [
+                            269,
+                            292
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XCuh4X1OMh",
+                    "expanded_url": "https://twitter.com/i/web/status/1253968396737282049",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1253965698579279872,
+    "quoted_status_id_str": "1253965698579279872",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 08:34:54 +0000 2020",
+        "id": 1253965698579279872,
+        "id_str": "1253965698579279872",
+        "text": "Artikel &amp; Video mit ORF-Interviews mit @c_drosten\n- zu erwarten, dass Infektionen wieder auf ein „nicht mehr erträg… https://t.co/aWCU0AckJ2",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1225089362288873474,
+            "id_str": "1225089362288873474",
+            "name": "Info on #coronavirus",
+            "screen_name": "AscotBlack",
+            "location": "Germany",
+            "url": "https://de.m.wikipedia.org/wiki/Li_Wenliang",
+            "description": "Kulturwirt B.A. (WiWi/Spanisch) · Informierter Laie · Account wurde Anfang Februar zur Aufklärung zu #COVID19 angelegt · Profilbild: Li Wenliang (Whistleblower)",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1888,
+            "friends_count": 222,
+            "listed_count": 39,
+            "favourites_count": 2888,
+            "statuses_count": 9220,
+            "created_at": "Wed Feb 05 16:10:58 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1226315657085583360/bQw3IfJn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226315657085583360/bQw3IfJn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225089362288873474/1583110230",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253920373768413191,
+        "quoted_status_id_str": "1253920373768413191",
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Artikel &amp; Video mit ORF-Interviews mit @c_drosten\n- zu erwarten, dass Infektionen wieder auf ein „nicht mehr erträgliches Maß“ steigen\n- Vorsicht auch bei sommerlichen Aktivitäten draußen\n- Studie zu Corona bei Kindern aus NL nicht aussagekräftig (\"statistisch nicht signifikant\") https://t.co/eMyptljCYd",
+            "display_text_range": [
+                0,
+                284
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/eMyptljCYd",
+                        "expanded_url": "https://twitter.com/filmface1/status/1253920373768413191",
+                        "display_url": "twitter.com/filmface1/stat…",
+                        "indices": [
+                            285,
+                            308
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "c_drosten",
+                        "name": "Christian Drosten",
+                        "id": 2804548467,
+                        "id_str": "2804548467",
+                        "indices": [
+                            43,
+                            53
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 5,
+        "favorite_count": 11,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/aWCU0AckJ2",
+                    "expanded_url": "https://twitter.com/i/web/status/1253965698579279872",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "c_drosten",
+                    "name": "Christian Drosten",
+                    "id": 2804548467,
+                    "id_str": "2804548467",
+                    "indices": [
+                        43,
+                        53
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/PzJ1uB3Si8",
+        "expanded": "https://twitter.com/AscotBlack/status/1253965698579279872",
+        "display": "twitter.com/AscotBlack/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "KFL3011",
+                "name": "KFL",
+                "id": 1225309978770202624,
+                "id_str": "1225309978770202624",
+                "indices": [
+                    3,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587817779515"
+}

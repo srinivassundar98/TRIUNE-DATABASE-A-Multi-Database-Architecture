@@ -1,0 +1,120 @@
+{
+    "created_at": "Sat Apr 25 12:26:43 +0000 2020",
+    "id": 1254024037946318849,
+    "id_str": "1254024037946318849",
+    "text": "@Dingii_Mshua Mwambie kuna corona ,bora abaki ndani ,atakuwa salama zaid",
+    "display_text_range": [
+        14,
+        72
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253938060590546944,
+    "in_reply_to_status_id_str": "1253938060590546944",
+    "in_reply_to_user_id": 1250213310974263296,
+    "in_reply_to_user_id_str": "1250213310974263296",
+    "in_reply_to_screen_name": "Dingii_Mshua",
+    "user": {
+        "id": 1253722000041947142,
+        "id_str": "1253722000041947142",
+        "name": "Juma Daud",
+        "screen_name": "JumaDaud12",
+        "location": null,
+        "url": null,
+        "description": "Jmhoja Son",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 11,
+        "friends_count": 151,
+        "listed_count": 0,
+        "favourites_count": 15,
+        "statuses_count": 5,
+        "created_at": "Fri Apr 24 16:26:53 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253722390758031360/C3XcnEcG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253722390758031360/C3XcnEcG_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0180c5f42225ad92",
+        "url": "https://api.twitter.com/1.1/geo/id/0180c5f42225ad92.json",
+        "place_type": "admin",
+        "name": "Shinyanga",
+        "full_name": "Shinyanga, Tanzania",
+        "country_code": "TZ",
+        "country": "Tanzania",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        31.137829,
+                        -4.683193
+                    ],
+                    [
+                        31.137829,
+                        -2.257002
+                    ],
+                    [
+                        35.214237,
+                        -2.257002
+                    ],
+                    [
+                        35.214237,
+                        -4.683193
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Dingii_Mshua",
+                "name": "Kichaa La Twitte'r",
+                "id": 1250213310974263296,
+                "id_str": "1250213310974263296",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1587817603943"
+}

@@ -1,0 +1,231 @@
+{
+    "created_at": "Sat Apr 25 14:34:42 +0000 2020",
+    "id": 1254056245323063297,
+    "id_str": "1254056245323063297",
+    "text": "@jacvre @Jopinie Ik vraag mij ook af hoe betrouwbaar zo'n test is. In Heinsberg ging het eerder wel mis en werden o… https://t.co/hRL4e27r2i",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254029353819791364,
+    "in_reply_to_status_id_str": "1254029353819791364",
+    "in_reply_to_user_id": 39091844,
+    "in_reply_to_user_id_str": "39091844",
+    "in_reply_to_screen_name": "jacvre",
+    "user": {
+        "id": 1239681996139495430,
+        "id_str": "1239681996139495430",
+        "name": "Bas van de Beek",
+        "screen_name": "BasVandeBeek1",
+        "location": null,
+        "url": null,
+        "description": "All tweets are my own. Mainly interested in politics.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 273,
+        "friends_count": 123,
+        "listed_count": 3,
+        "favourites_count": 3343,
+        "statuses_count": 3184,
+        "created_at": "Mon Mar 16 22:36:41 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252941877994815488/l4J7I1ad_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252941877994815488/l4J7I1ad_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@jacvre @Jopinie Ik vraag mij ook af hoe betrouwbaar zo'n test is. In Heinsberg ging het eerder wel mis en werden ook antistoffen voor andere corona-verkoudsheidsvirussen meegeteld https://t.co/gJUlTOA7aB https://t.co/xak3XU28Gg",
+        "display_text_range": [
+            17,
+            204
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/gJUlTOA7aB",
+                    "expanded_url": "https://www.sueddeutsche.de/wissen/heinsberg-studie-herdenimmunitaet-kritik-1.4873480",
+                    "display_url": "sueddeutsche.de/wissen/heinsbe…",
+                    "indices": [
+                        181,
+                        204
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "jacvre",
+                    "name": "Jacqueline de Vree",
+                    "id": 39091844,
+                    "id_str": "39091844",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "Jopinie",
+                    "name": "Jop de Vrieze",
+                    "id": 40220874,
+                    "id_str": "40220874",
+                    "indices": [
+                        8,
+                        16
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254056225752461312,
+                    "id_str": "1254056225752461312",
+                    "indices": [
+                        205,
+                        228
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdNfjhXsAA_Kwg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdNfjhXsAA_Kwg.jpg",
+                    "url": "https://t.co/xak3XU28Gg",
+                    "display_url": "pic.twitter.com/xak3XU28Gg",
+                    "expanded_url": "https://twitter.com/BasVandeBeek1/status/1254056245323063297/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254056225752461312,
+                    "id_str": "1254056225752461312",
+                    "indices": [
+                        205,
+                        228
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdNfjhXsAA_Kwg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdNfjhXsAA_Kwg.jpg",
+                    "url": "https://t.co/xak3XU28Gg",
+                    "display_url": "pic.twitter.com/xak3XU28Gg",
+                    "expanded_url": "https://twitter.com/BasVandeBeek1/status/1254056245323063297/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1024,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/hRL4e27r2i",
+                "expanded_url": "https://twitter.com/i/web/status/1254056245323063297",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jacvre",
+                "name": "Jacqueline de Vree",
+                "id": 39091844,
+                "id_str": "39091844",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "Jopinie",
+                "name": "Jop de Vrieze",
+                "id": 40220874,
+                "id_str": "40220874",
+                "indices": [
+                    8,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587825282780"
+}

@@ -1,0 +1,805 @@
+{
+    "created_at": "Sat Apr 25 13:22:03 +0000 2020",
+    "id": 1254037960812617728,
+    "id_str": "1254037960812617728",
+    "text": "RT @GijsvanLoef: Ik vrees dat @AlexWFriedrich1 volkomen terecht deze vraag stelt&gt; https://t.co/xWrVIVlFJ9 https://t.co/eXzUlnIPXm",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 568078828,
+        "id_str": "568078828",
+        "name": "Thom Bijenhof",
+        "screen_name": "ThomBijenhof",
+        "location": "Amersfoort",
+        "url": "http://bijenhofconsultancy.nl/",
+        "description": "Vader, PenO-er & informatiemanager, puzzelaar en kok, Dunking Devil, verzin een list..., jonge vriend",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1483,
+        "friends_count": 3748,
+        "listed_count": 87,
+        "favourites_count": 14345,
+        "statuses_count": 52355,
+        "created_at": "Tue May 01 10:21:24 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2444311202/qtyg3gxy0ib3jfcbocpj_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2444311202/qtyg3gxy0ib3jfcbocpj_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/568078828/1477229567",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 13:21:07 +0000 2020",
+        "id": 1254037725159796736,
+        "id_str": "1254037725159796736",
+        "text": "Ik vrees dat @AlexWFriedrich1 volkomen terecht deze vraag stelt&gt; https://t.co/xWrVIVlFJ9 https://t.co/eXzUlnIPXm",
+        "display_text_range": [
+            0,
+            91
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1095097034,
+            "id_str": "1095097034",
+            "name": "Gijs van Loef",
+            "screen_name": "GijsvanLoef",
+            "location": "Nederland",
+            "url": "https://www.gijsvanloef.nl",
+            "description": "Zorgstelselexpert / prominent critic (http://Vox.com) / Platform Betrouwbare Zorgcijfers / bestuurskundig socioloog / kennisintegrator / http://gijsvanloef.nl",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 644,
+            "friends_count": 140,
+            "listed_count": 13,
+            "favourites_count": 585,
+            "statuses_count": 3237,
+            "created_at": "Wed Jan 16 12:41:21 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1240200817417871361/n1UZbQnh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240200817417871361/n1UZbQnh_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095097034/1580374208",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1254035298004205568,
+        "quoted_status_id_str": "1254035298004205568",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 13:11:28 +0000 2020",
+            "id": 1254035298004205568,
+            "id_str": "1254035298004205568",
+            "text": "‘Er zijn veel meer doden gevallen dan nodig was geweest’ Gelukkig is @AlexWFriedrich1 nu lid van het OMT… https://t.co/u8FoADvmds",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": 1254034681235988480,
+            "in_reply_to_status_id_str": "1254034681235988480",
+            "in_reply_to_user_id": 47743604,
+            "in_reply_to_user_id_str": "47743604",
+            "in_reply_to_screen_name": "mariannezw",
+            "user": {
+                "id": 47743604,
+                "id_str": "47743604",
+                "name": "Marianne Zwagerman",
+                "screen_name": "mariannezw",
+                "location": "Uit de kluit",
+                "url": "http://www.mariannezwagerman.nl",
+                "description": "Schrijver (bezig aan 4de boek) | Innovatiestrateeg | Dagvoorzitter | Keynotespeaker | Columnist BNR, Telegraaf en VLOT | Boekingen: @bukmanm",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 46398,
+                "friends_count": 950,
+                "listed_count": 403,
+                "favourites_count": 24122,
+                "statuses_count": 110660,
+                "created_at": "Tue Jun 16 20:50:57 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "EB0E2B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F6CCFF",
+                "profile_text_color": "782178",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1205961790838001669/bzNwxCTO_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205961790838001669/bzNwxCTO_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/47743604/1469795364",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "‘Er zijn veel meer doden gevallen dan nodig was geweest’ Gelukkig is @AlexWFriedrich1 nu lid van het OMT https://t.co/G5NrY5goWh https://t.co/tieojzN1GS",
+                "display_text_range": [
+                    0,
+                    128
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/G5NrY5goWh",
+                            "expanded_url": "https://www.telegraaf.nl/nieuws/298088485/in-noord-nederland-veel-minder-doden",
+                            "display_url": "telegraaf.nl/nieuws/2980884…",
+                            "indices": [
+                                105,
+                                128
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "AlexWFriedrich1",
+                            "name": "Alex W. Friedrich",
+                            "id": 1240718664032309249,
+                            "id_str": "1240718664032309249",
+                            "indices": [
+                                69,
+                                85
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1254035289833713664,
+                            "id_str": "1254035289833713664",
+                            "indices": [
+                                129,
+                                152
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWc6c7JXsAAMRFy.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWc6c7JXsAAMRFy.jpg",
+                            "url": "https://t.co/tieojzN1GS",
+                            "display_url": "pic.twitter.com/tieojzN1GS",
+                            "expanded_url": "https://twitter.com/mariannezw/status/1254035298004205568/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 486,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 857,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1124,
+                                    "h": 1574,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1254035289833713664,
+                            "id_str": "1254035289833713664",
+                            "indices": [
+                                129,
+                                152
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWc6c7JXsAAMRFy.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWc6c7JXsAAMRFy.jpg",
+                            "url": "https://t.co/tieojzN1GS",
+                            "display_url": "pic.twitter.com/tieojzN1GS",
+                            "expanded_url": "https://twitter.com/mariannezw/status/1254035298004205568/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 486,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 857,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1124,
+                                    "h": 1574,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/u8FoADvmds",
+                        "expanded_url": "https://twitter.com/i/web/status/1254035298004205568",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "AlexWFriedrich1",
+                        "name": "Alex W. Friedrich",
+                        "id": 1240718664032309249,
+                        "id_str": "1240718664032309249",
+                        "indices": [
+                            69,
+                            85
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/2YlE3rffhL",
+            "expanded": "https://twitter.com/mariannezw/status/1254035298004205568",
+            "display": "twitter.com/mariannezw/sta…"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/xWrVIVlFJ9",
+                    "expanded_url": "https://gijsvanloef.nl/2020/04/18/corona-dashboard-ew14-2/",
+                    "display_url": "gijsvanloef.nl/2020/04/18/cor…",
+                    "indices": [
+                        68,
+                        91
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "AlexWFriedrich1",
+                    "name": "Alex W. Friedrich",
+                    "id": 1240718664032309249,
+                    "id_str": "1240718664032309249",
+                    "indices": [
+                        13,
+                        29
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254037707585720321,
+                    "id_str": "1254037707585720321",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc8pp-XkAE5vTO.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc8pp-XkAE5vTO.png",
+                    "url": "https://t.co/eXzUlnIPXm",
+                    "display_url": "pic.twitter.com/eXzUlnIPXm",
+                    "expanded_url": "https://twitter.com/GijsvanLoef/status/1254037725159796736/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 500,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 500,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254037707585720321,
+                    "id_str": "1254037707585720321",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc8pp-XkAE5vTO.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc8pp-XkAE5vTO.png",
+                    "url": "https://t.co/eXzUlnIPXm",
+                    "display_url": "pic.twitter.com/eXzUlnIPXm",
+                    "expanded_url": "https://twitter.com/GijsvanLoef/status/1254037725159796736/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 500,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 500,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 500,
+                            "h": 244,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_id": 1254035298004205568,
+    "quoted_status_id_str": "1254035298004205568",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 13:11:28 +0000 2020",
+        "id": 1254035298004205568,
+        "id_str": "1254035298004205568",
+        "text": "‘Er zijn veel meer doden gevallen dan nodig was geweest’ Gelukkig is @AlexWFriedrich1 nu lid van het OMT… https://t.co/u8FoADvmds",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1254034681235988480,
+        "in_reply_to_status_id_str": "1254034681235988480",
+        "in_reply_to_user_id": 47743604,
+        "in_reply_to_user_id_str": "47743604",
+        "in_reply_to_screen_name": "mariannezw",
+        "user": {
+            "id": 47743604,
+            "id_str": "47743604",
+            "name": "Marianne Zwagerman",
+            "screen_name": "mariannezw",
+            "location": "Uit de kluit",
+            "url": "http://www.mariannezwagerman.nl",
+            "description": "Schrijver (bezig aan 4de boek) | Innovatiestrateeg | Dagvoorzitter | Keynotespeaker | Columnist BNR, Telegraaf en VLOT | Boekingen: @bukmanm",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 46398,
+            "friends_count": 950,
+            "listed_count": 403,
+            "favourites_count": 24122,
+            "statuses_count": 110660,
+            "created_at": "Tue Jun 16 20:50:57 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "EB0E2B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6CCFF",
+            "profile_text_color": "782178",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205961790838001669/bzNwxCTO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205961790838001669/bzNwxCTO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/47743604/1469795364",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "‘Er zijn veel meer doden gevallen dan nodig was geweest’ Gelukkig is @AlexWFriedrich1 nu lid van het OMT https://t.co/G5NrY5goWh https://t.co/tieojzN1GS",
+            "display_text_range": [
+                0,
+                128
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/G5NrY5goWh",
+                        "expanded_url": "https://www.telegraaf.nl/nieuws/298088485/in-noord-nederland-veel-minder-doden",
+                        "display_url": "telegraaf.nl/nieuws/2980884…",
+                        "indices": [
+                            105,
+                            128
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "AlexWFriedrich1",
+                        "name": "Alex W. Friedrich",
+                        "id": 1240718664032309249,
+                        "id_str": "1240718664032309249",
+                        "indices": [
+                            69,
+                            85
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1254035289833713664,
+                        "id_str": "1254035289833713664",
+                        "indices": [
+                            129,
+                            152
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWc6c7JXsAAMRFy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWc6c7JXsAAMRFy.jpg",
+                        "url": "https://t.co/tieojzN1GS",
+                        "display_url": "pic.twitter.com/tieojzN1GS",
+                        "expanded_url": "https://twitter.com/mariannezw/status/1254035298004205568/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 486,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 857,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1124,
+                                "h": 1574,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1254035289833713664,
+                        "id_str": "1254035289833713664",
+                        "indices": [
+                            129,
+                            152
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWc6c7JXsAAMRFy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWc6c7JXsAAMRFy.jpg",
+                        "url": "https://t.co/tieojzN1GS",
+                        "display_url": "pic.twitter.com/tieojzN1GS",
+                        "expanded_url": "https://twitter.com/mariannezw/status/1254035298004205568/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 486,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 857,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1124,
+                                "h": 1574,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/u8FoADvmds",
+                    "expanded_url": "https://twitter.com/i/web/status/1254035298004205568",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        106,
+                        129
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "AlexWFriedrich1",
+                    "name": "Alex W. Friedrich",
+                    "id": 1240718664032309249,
+                    "id_str": "1240718664032309249",
+                    "indices": [
+                        69,
+                        85
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/2YlE3rffhL",
+        "expanded": "https://twitter.com/mariannezw/status/1254035298004205568",
+        "display": "twitter.com/mariannezw/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/xWrVIVlFJ9",
+                "expanded_url": "https://gijsvanloef.nl/2020/04/18/corona-dashboard-ew14-2/",
+                "display_url": "gijsvanloef.nl/2020/04/18/cor…",
+                "indices": [
+                    85,
+                    108
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "GijsvanLoef",
+                "name": "Gijs van Loef",
+                "id": 1095097034,
+                "id_str": "1095097034",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "AlexWFriedrich1",
+                "name": "Alex W. Friedrich",
+                "id": 1240718664032309249,
+                "id_str": "1240718664032309249",
+                "indices": [
+                    30,
+                    46
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254037707585720321,
+                "id_str": "1254037707585720321",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc8pp-XkAE5vTO.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWc8pp-XkAE5vTO.png",
+                "url": "https://t.co/eXzUlnIPXm",
+                "display_url": "pic.twitter.com/eXzUlnIPXm",
+                "expanded_url": "https://twitter.com/GijsvanLoef/status/1254037725159796736/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 500,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 500,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1254037725159796736,
+                "source_status_id_str": "1254037725159796736",
+                "source_user_id": 1095097034,
+                "source_user_id_str": "1095097034"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254037707585720321,
+                "id_str": "1254037707585720321",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc8pp-XkAE5vTO.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWc8pp-XkAE5vTO.png",
+                "url": "https://t.co/eXzUlnIPXm",
+                "display_url": "pic.twitter.com/eXzUlnIPXm",
+                "expanded_url": "https://twitter.com/GijsvanLoef/status/1254037725159796736/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 500,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 500,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 500,
+                        "h": 244,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 1254037725159796736,
+                "source_status_id_str": "1254037725159796736",
+                "source_user_id": 1095097034,
+                "source_user_id_str": "1095097034"
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587820923413"
+}

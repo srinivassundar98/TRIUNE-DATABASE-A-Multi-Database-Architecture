@@ -1,0 +1,145 @@
+{
+    "created_at": "Sat Apr 25 13:10:54 +0000 2020",
+    "id": 1254035156626784257,
+    "id_str": "1254035156626784257",
+    "text": "@NadineDorries This public or the public?\n\nDon’t think this was a typo ... seemed pointed. So what was the point?… https://t.co/u6o9amrt3u",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253938332133994496,
+    "in_reply_to_status_id_str": "1253938332133994496",
+    "in_reply_to_user_id": 457060718,
+    "in_reply_to_user_id_str": "457060718",
+    "in_reply_to_screen_name": "NadineDorries",
+    "user": {
+        "id": 1140531695906635781,
+        "id_str": "1140531695906635781",
+        "name": "yol1s",
+        "screen_name": "yol1s1",
+        "location": null,
+        "url": null,
+        "description": "Former/ly diplomat/ic .. now just part time .. sometimes you just have to say it as it is! We’re all in this together. Value each other. Value what sustains us.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 241,
+        "friends_count": 747,
+        "listed_count": 0,
+        "favourites_count": 4090,
+        "statuses_count": 8683,
+        "created_at": "Mon Jun 17 08:08:41 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1140532551217537024/JIY8MQbJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140532551217537024/JIY8MQbJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140531695906635781/1567920857",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@NadineDorries This public or the public?\n\nDon’t think this was a typo ... seemed pointed. So what was the point?\n\n#Covid_19 #Corona #coronavirus",
+        "display_text_range": [
+            15,
+            145
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        115,
+                        124
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        125,
+                        132
+                    ]
+                },
+                {
+                    "text": "coronavirus",
+                    "indices": [
+                        133,
+                        145
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NadineDorries",
+                    "name": "Nadine Dorries 🇬🇧",
+                    "id": 457060718,
+                    "id_str": "457060718",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/u6o9amrt3u",
+                "expanded_url": "https://twitter.com/i/web/status/1254035156626784257",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "NadineDorries",
+                "name": "Nadine Dorries 🇬🇧",
+                "id": 457060718,
+                "id_str": "457060718",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820254843"
+}

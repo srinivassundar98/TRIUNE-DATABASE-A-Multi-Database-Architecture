@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 13:31:41 +0000 2020",
+    "id": 1254040386546348035,
+    "id_str": "1254040386546348035",
+    "text": "One dead, 40 more test corona positive in J&amp;K - https://t.co/pCxmDGnMW8 https://t.co/dUYl1kyq3P",
+    "display_text_range": [
+        0,
+        75
+    ],
+    "source": "<a href=\"https://www.yuvnews.com\" rel=\"nofollow\">YuvNewsOfficial</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 909662415284875265,
+        "id_str": "909662415284875265",
+        "name": "Yuv News",
+        "screen_name": "YuvNewsOfficial",
+        "location": "Hyderabad, India",
+        "url": "https://www.yuvnews.com/",
+        "description": "Get flash news and regular updates on Politics, Economy, Science and Technology, Entertainment, Sports, Health and Legal all over the world.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 288,
+        "friends_count": 78,
+        "listed_count": 2,
+        "favourites_count": 654,
+        "statuses_count": 20539,
+        "created_at": "Mon Sep 18 06:16:35 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/912636203849023489/HSNGn7pp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/912636203849023489/HSNGn7pp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/909662415284875265/1506424888",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/pCxmDGnMW8",
+                "expanded_url": "https://www.yuvnews.com/25512/one-dead-40-more-test-corona-positive-in-j-amp-k",
+                "display_url": "yuvnews.com/25512/one-dead…",
+                "indices": [
+                    52,
+                    75
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254040385644609536,
+                "id_str": "1254040385644609536",
+                "indices": [
+                    76,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_FihXQAAn83P.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_FihXQAAn83P.jpg",
+                "url": "https://t.co/dUYl1kyq3P",
+                "display_url": "pic.twitter.com/dUYl1kyq3P",
+                "expanded_url": "https://twitter.com/YuvNewsOfficial/status/1254040386546348035/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 104,
+                        "h": 104,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 192,
+                        "h": 104,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 192,
+                        "h": 104,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 192,
+                        "h": 104,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254040385644609536,
+                "id_str": "1254040385644609536",
+                "indices": [
+                    76,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_FihXQAAn83P.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_FihXQAAn83P.jpg",
+                "url": "https://t.co/dUYl1kyq3P",
+                "display_url": "pic.twitter.com/dUYl1kyq3P",
+                "expanded_url": "https://twitter.com/YuvNewsOfficial/status/1254040386546348035/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 104,
+                        "h": 104,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 192,
+                        "h": 104,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 192,
+                        "h": 104,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 192,
+                        "h": 104,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821501753"
+}

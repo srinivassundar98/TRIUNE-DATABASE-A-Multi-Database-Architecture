@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 14:16:17 +0000 2020",
+    "id": 1254051609161728001,
+    "id_str": "1254051609161728001",
+    "text": "@JohnCornyn Wait. That’s science stuff Senator. Y’all don’t believe in science, listen to Dr’s or Med professionals… https://t.co/22UMG0zr3v",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253672853897183233,
+    "in_reply_to_status_id_str": "1253672853897183233",
+    "in_reply_to_user_id": 13218102,
+    "in_reply_to_user_id_str": "13218102",
+    "in_reply_to_screen_name": "JohnCornyn",
+    "user": {
+        "id": 54027483,
+        "id_str": "54027483",
+        "name": "Eric Frankhouser",
+        "screen_name": "strictangel",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 84,
+        "friends_count": 199,
+        "listed_count": 1,
+        "favourites_count": 301,
+        "statuses_count": 433,
+        "created_at": "Sun Jul 05 22:31:57 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3075073997/973a298e6d33fd2836b8512b8934f5b2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3075073997/973a298e6d33fd2836b8512b8934f5b2_normal.jpeg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@JohnCornyn Wait. That’s science stuff Senator. Y’all don’t believe in science, listen to Dr’s or Med professionals or do anything not immediately in your self interest. Also: There are so many “Coulds and Could Of’s” in the Trump/R’s corona response, that it boggles the mind.",
+        "display_text_range": [
+            12,
+            277
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JohnCornyn",
+                    "name": "Senator John Cornyn",
+                    "id": 13218102,
+                    "id_str": "13218102",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/22UMG0zr3v",
+                "expanded_url": "https://twitter.com/i/web/status/1254051609161728001",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "JohnCornyn",
+                "name": "Senator John Cornyn",
+                "id": 13218102,
+                "id_str": "13218102",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824177433"
+}

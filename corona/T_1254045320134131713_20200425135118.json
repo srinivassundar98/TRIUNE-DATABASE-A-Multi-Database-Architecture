@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 13:51:18 +0000 2020",
+    "id": 1254045320134131713,
+    "id_str": "1254045320134131713",
+    "text": "@MarQinFa @JBCPERU @Carlos_Bruce El corona lleva dos ministros...",
+    "display_text_range": [
+        33,
+        65
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254022762093580290,
+    "in_reply_to_status_id_str": "1254022762093580290",
+    "in_reply_to_user_id": 355338765,
+    "in_reply_to_user_id_str": "355338765",
+    "in_reply_to_screen_name": "MarQinFa",
+    "user": {
+        "id": 1283209316,
+        "id_str": "1283209316",
+        "name": "Oziander Lopez, El hombre es el lobo del hombre",
+        "screen_name": "oziander1",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 247,
+        "friends_count": 972,
+        "listed_count": 0,
+        "favourites_count": 80,
+        "statuses_count": 5448,
+        "created_at": "Wed Mar 20 12:58:18 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1097095896712597504/ayrdqY0B_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097095896712597504/ayrdqY0B_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1283209316/1550406314",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "MarQinFa",
+                "name": "Marvin InFanTe",
+                "id": 355338765,
+                "id_str": "355338765",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "JBCPERU",
+                "name": "José Barba Caballero",
+                "id": 4452890315,
+                "id_str": "4452890315",
+                "indices": [
+                    10,
+                    18
+                ]
+            },
+            {
+                "screen_name": "Carlos_Bruce",
+                "name": "Carlos Bruce - Techito",
+                "id": 1416607974,
+                "id_str": "1416607974",
+                "indices": [
+                    19,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587822678012"
+}

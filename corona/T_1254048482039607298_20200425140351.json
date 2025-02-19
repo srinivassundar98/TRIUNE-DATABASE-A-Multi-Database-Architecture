@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 14:03:51 +0000 2020",
+    "id": 1254048482039607298,
+    "id_str": "1254048482039607298",
+    "text": "@timgluz Prof. Dr. Sucharit Bhakdi is asking why the RKI still declines autopsy of the Corona deaths. You have to k… https://t.co/KfACAdHQA7",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254046777218674690,
+    "in_reply_to_status_id_str": "1254046777218674690",
+    "in_reply_to_user_id": 58742447,
+    "in_reply_to_user_id_str": "58742447",
+    "in_reply_to_screen_name": "timgluz",
+    "user": {
+        "id": 96215367,
+        "id_str": "96215367",
+        "name": "Robert Reiz",
+        "screen_name": "RobertReiz",
+        "location": "Mannheim, Germany",
+        "url": "https://www.versioneye.com",
+        "description": "Sr. Software Development Manager @LivePerson. Creator of @VersionEye, @plointime, #Geek2Geek MeetUp Berlin. Plantbased. Tweets are my own.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1366,
+        "friends_count": 947,
+        "listed_count": 174,
+        "favourites_count": 6779,
+        "statuses_count": 12402,
+        "created_at": "Fri Dec 11 21:58:30 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907982682784780289/fAly_6Az_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907982682784780289/fAly_6Az_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96215367/1430481491",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@timgluz Prof. Dr. Sucharit Bhakdi is asking why the RKI still declines autopsy of the Corona deaths. You have to know if the deaths died on or with Corona. Otherwise it's not scienence, but misbelief. Autopsy is a very important part of research! No reason to decline it!",
+        "display_text_range": [
+            9,
+            272
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "timgluz",
+                    "name": "Timo Sulg",
+                    "id": 58742447,
+                    "id_str": "58742447",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/KfACAdHQA7",
+                "expanded_url": "https://twitter.com/i/web/status/1254048482039607298",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "timgluz",
+                "name": "Timo Sulg",
+                "id": 58742447,
+                "id_str": "58742447",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823431869"
+}

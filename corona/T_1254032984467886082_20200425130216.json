@@ -1,0 +1,254 @@
+{
+    "created_at": "Sat Apr 25 13:02:16 +0000 2020",
+    "id": 1254032984467886082,
+    "id_str": "1254032984467886082",
+    "text": "Don’t  worry about Pandemic disease #corona. Everything will be OK as soon as possible. #stay home #stay safe. Lear… https://t.co/XxrGgPJpFV",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 990504262462390273,
+        "id_str": "990504262462390273",
+        "name": "Sai Mahesh",
+        "screen_name": "SaiMahe88583835",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 21,
+        "listed_count": 0,
+        "favourites_count": 26,
+        "statuses_count": 70,
+        "created_at": "Sun Apr 29 08:13:13 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Don’t  worry about Pandemic disease #corona. Everything will be OK as soon as possible. #stay home #stay safe. Learn some new technology in this mean time through online classes in #GoLogica.\nhttps://t.co/TbUAlhdvVz\n\n#openstackadministratortraining #openstackadministrator https://t.co/mLLI75M8AK",
+        "display_text_range": [
+            0,
+            272
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "corona",
+                    "indices": [
+                        36,
+                        43
+                    ]
+                },
+                {
+                    "text": "stay",
+                    "indices": [
+                        88,
+                        93
+                    ]
+                },
+                {
+                    "text": "stay",
+                    "indices": [
+                        99,
+                        104
+                    ]
+                },
+                {
+                    "text": "GoLogica",
+                    "indices": [
+                        181,
+                        190
+                    ]
+                },
+                {
+                    "text": "openstackadministratortraining",
+                    "indices": [
+                        217,
+                        248
+                    ]
+                },
+                {
+                    "text": "openstackadministrator",
+                    "indices": [
+                        249,
+                        272
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/TbUAlhdvVz",
+                    "expanded_url": "https://www.gologica.com/course/openstack-administrator-training/",
+                    "display_url": "gologica.com/course/opensta…",
+                    "indices": [
+                        192,
+                        215
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254032699896942592,
+                    "id_str": "1254032699896942592",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc4GK4U0AAZ_iG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc4GK4U0AAZ_iG.jpg",
+                    "url": "https://t.co/mLLI75M8AK",
+                    "display_url": "pic.twitter.com/mLLI75M8AK",
+                    "expanded_url": "https://twitter.com/SaiMahe88583835/status/1254032984467886082/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 628,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 356,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 628,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254032699896942592,
+                    "id_str": "1254032699896942592",
+                    "indices": [
+                        273,
+                        296
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc4GK4U0AAZ_iG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc4GK4U0AAZ_iG.jpg",
+                    "url": "https://t.co/mLLI75M8AK",
+                    "display_url": "pic.twitter.com/mLLI75M8AK",
+                    "expanded_url": "https://twitter.com/SaiMahe88583835/status/1254032984467886082/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 628,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 356,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 628,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    36,
+                    43
+                ]
+            },
+            {
+                "text": "stay",
+                "indices": [
+                    88,
+                    93
+                ]
+            },
+            {
+                "text": "stay",
+                "indices": [
+                    99,
+                    104
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/XxrGgPJpFV",
+                "expanded_url": "https://twitter.com/i/web/status/1254032984467886082",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819736960"
+}

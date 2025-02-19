@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Apr 25 13:24:45 +0000 2020",
+    "id": 1254038641409527809,
+    "id_str": "1254038641409527809",
+    "text": "@TrueInd26978997 अरे बेवकूफ इनसे सीखो, ये मदद कर रहे हैं सरकार की Corona को भगाने में, और कुछ जाहिल जमातीयो को भगा… https://t.co/Q8Icy7KclG",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254032515955736576,
+    "in_reply_to_status_id_str": "1254032515955736576",
+    "in_reply_to_user_id": 1128506388487950336,
+    "in_reply_to_user_id_str": "1128506388487950336",
+    "in_reply_to_screen_name": "TrueInd26978997",
+    "user": {
+        "id": 142699742,
+        "id_str": "142699742",
+        "name": "Sandeep Sharda",
+        "screen_name": "sandeep_sharda",
+        "location": "Sarwar, India",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 68,
+        "friends_count": 130,
+        "listed_count": 1,
+        "favourites_count": 2474,
+        "statuses_count": 1384,
+        "created_at": "Tue May 11 14:32:32 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "37B8B2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5920782e29e11cac",
+        "url": "https://api.twitter.com/1.1/geo/id/5920782e29e11cac.json",
+        "place_type": "admin",
+        "name": "Rajasthan",
+        "full_name": "Rajasthan, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        69.484366,
+                        23.060464
+                    ],
+                    [
+                        69.484366,
+                        30.196367
+                    ],
+                    [
+                        78.270755,
+                        30.196367
+                    ],
+                    [
+                        78.270755,
+                        23.060464
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@TrueInd26978997 अरे बेवकूफ इनसे सीखो, ये मदद कर रहे हैं सरकार की Corona को भगाने में, और कुछ जाहिल जमातीयो को भगाने में। ये कम्युनिज्म मत फैलाओ, कट्टर हिंदू मुसलमान का दुश्मन नहीं है,बस जाहिलो को सहन नहीं कर पाता।\nयूसुफ अली को मेरा सलाम, यूसुफ अली को और बरकत मिले।",
+        "display_text_range": [
+            17,
+            265
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TrueInd26978997",
+                    "name": "True Indian",
+                    "id": 1128506388487950336,
+                    "id_str": "1128506388487950336",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Q8Icy7KclG",
+                "expanded_url": "https://twitter.com/i/web/status/1254038641409527809",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "TrueInd26978997",
+                "name": "True Indian",
+                "id": 1128506388487950336,
+                "id_str": "1128506388487950336",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587821085680"
+}

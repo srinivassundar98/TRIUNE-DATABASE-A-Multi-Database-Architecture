@@ -1,0 +1,118 @@
+{
+    "created_at": "Sat Apr 25 12:39:35 +0000 2020",
+    "id": 1254027272392183815,
+    "id_str": "1254027272392183815",
+    "text": "@CrisMenshova @Estadao O Corona foi para #GloboLixo \nhttps://t.co/ivh071KPCj",
+    "display_text_range": [
+        23,
+        76
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254026447997603840,
+    "in_reply_to_status_id_str": "1254026447997603840",
+    "in_reply_to_user_id": 2828823327,
+    "in_reply_to_user_id_str": "2828823327",
+    "in_reply_to_screen_name": "CrisMenshova",
+    "user": {
+        "id": 489353719,
+        "id_str": "489353719",
+        "name": "🤔Militante de ios 🤜🏻🇧🇷🤛🏻",
+        "screen_name": "Darlen_Rj",
+        "location": "Rio de Janeiro",
+        "url": null,
+        "description": "Ninguém pode voltar no tempo e fazer um novo começo.Mas podemos começar agora e fazer um novo Fim !",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 64,
+        "friends_count": 487,
+        "listed_count": 0,
+        "favourites_count": 1592,
+        "statuses_count": 1398,
+        "created_at": "Sat Feb 11 13:00:11 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246427008889995267/5mrHYWWi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246427008889995267/5mrHYWWi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/489353719/1479886038",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "GloboLixo",
+                "indices": [
+                    41,
+                    51
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ivh071KPCj",
+                "expanded_url": "https://dunapress.org/2020/04/25/hipocrisia-globo-quer-todos-em-casa-mas-ja-tem-93-funcionarios-infectados-pela-covid-19/",
+                "display_url": "dunapress.org/2020/04/25/hip…",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CrisMenshova",
+                "name": "Cristiana Menshova - Vírus Chinês!",
+                "id": 2828823327,
+                "id_str": "2828823327",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Estadao",
+                "name": "Estadão",
+                "id": 9317502,
+                "id_str": "9317502",
+                "indices": [
+                    14,
+                    22
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587818375095"
+}

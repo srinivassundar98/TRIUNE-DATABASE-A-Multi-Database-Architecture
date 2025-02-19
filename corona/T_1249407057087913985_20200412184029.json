@@ -1,0 +1,163 @@
+{
+    "created_at": "Sun Apr 12 18:40:29 +0000 2020",
+    "id": 1249407057087913985,
+    "id_str": "1249407057087913985",
+    "text": "@mattbendure @theRGK1 @birbigs I’m not sure it is:  once it takes hold in India and Africa it’s going to be a diffe… https://t.co/2Ouf8kfry9",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249406481859874822,
+    "in_reply_to_status_id_str": "1249406481859874822",
+    "in_reply_to_user_id": 347368618,
+    "in_reply_to_user_id_str": "347368618",
+    "in_reply_to_screen_name": "mattbendure",
+    "user": {
+        "id": 21859500,
+        "id_str": "21859500",
+        "name": "Alan!",
+        "screen_name": "o2bnobx",
+        "location": "D.C. but likely on an airplane",
+        "url": null,
+        "description": "Technologist. Worked, lived, played in 40 countries. Travel is the antidote to prejudice. Raised 2 humans, many more dogs. I do cyber, I collect cars RIP GOP",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1057,
+        "friends_count": 755,
+        "listed_count": 9,
+        "favourites_count": 917,
+        "statuses_count": 8904,
+        "created_at": "Wed Feb 25 12:23:01 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1211482164753293313/5Rs9EDTx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211482164753293313/5Rs9EDTx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21859500/1586647046",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@mattbendure @theRGK1 @birbigs I’m not sure it is:  once it takes hold in India and Africa it’s going to be a different story.  Also many corona deaths aren’t recorded as Virus-related.  In the US many  virus victims were never tested, and their deaths aren’t being attributed to Corona",
+        "display_text_range": [
+            31,
+            286
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mattbendure",
+                    "name": "Matthew Bendure",
+                    "id": 347368618,
+                    "id_str": "347368618",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "theRGK1",
+                    "name": "@theRGK",
+                    "id": 1245176516838920193,
+                    "id_str": "1245176516838920193",
+                    "indices": [
+                        13,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "birbigs",
+                    "name": "Mike Birbiglia",
+                    "id": 15147397,
+                    "id_str": "15147397",
+                    "indices": [
+                        22,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/2Ouf8kfry9",
+                "expanded_url": "https://twitter.com/i/web/status/1249407057087913985",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "mattbendure",
+                "name": "Matthew Bendure",
+                "id": 347368618,
+                "id_str": "347368618",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "theRGK1",
+                "name": "@theRGK",
+                "id": 1245176516838920193,
+                "id_str": "1245176516838920193",
+                "indices": [
+                    13,
+                    21
+                ]
+            },
+            {
+                "screen_name": "birbigs",
+                "name": "Mike Birbiglia",
+                "id": 15147397,
+                "id_str": "15147397",
+                "indices": [
+                    22,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716829927"
+}

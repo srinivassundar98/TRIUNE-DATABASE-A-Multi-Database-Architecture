@@ -1,0 +1,634 @@
+{
+    "created_at": "Sun Apr 12 18:45:41 +0000 2020",
+    "id": 1249408365899505664,
+    "id_str": "1249408365899505664",
+    "text": "RT @DrJohanLim: OLVG coronacheck-app: kijk uit dat de kostbare energie van zorgverleners niet aan verkeerde initiatieven worden besteed, zo…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1722774512,
+        "id_str": "1722774512",
+        "name": "Marco Blanker",
+        "screen_name": "Marco_Blanker",
+        "location": "Zwolle, Nederland",
+        "url": "http://www.rug.nl/staff/m.h.blanker/research",
+        "description": "huisarts (BIG 19048973501), epidemioloog, onderzoekt buik- en bekkenproblemen (@umcg), UHD, blogger @medischcontact, Lid Regionaal Tuchtcollege Zwolle",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3650,
+        "friends_count": 708,
+        "listed_count": 61,
+        "favourites_count": 17028,
+        "statuses_count": 22123,
+        "created_at": "Mon Sep 02 16:10:43 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241697020328509440/ZfhC-3hx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241697020328509440/ZfhC-3hx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1722774512/1564132462",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 15:32:21 +0000 2020",
+        "id": 1249359709792088065,
+        "id_str": "1249359709792088065",
+        "text": "OLVG coronacheck-app: kijk uit dat de kostbare energie van zorgverleners niet aan verkeerde initiatieven worden bes… https://t.co/9Ch37eC1lt",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 941425270837399552,
+            "id_str": "941425270837399552",
+            "name": "Johan Lim",
+            "screen_name": "DrJohanLim",
+            "location": "Amsterdam, Nederland",
+            "url": null,
+            "description": "Medical Doctor | PhD Candidate | Rehabilitation Medicine | Neuromuscular Diseases | Myositis",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1128,
+            "friends_count": 1067,
+            "listed_count": 11,
+            "favourites_count": 6094,
+            "statuses_count": 2302,
+            "created_at": "Thu Dec 14 21:50:50 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1201092395095527425/aFCqYV2P_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201092395095527425/aFCqYV2P_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/941425270837399552/1513290678",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1248551495253057537,
+        "quoted_status_id_str": "1248551495253057537",
+        "quoted_status": {
+            "created_at": "Fri Apr 10 10:00:48 +0000 2020",
+            "id": 1248551495253057537,
+            "id_str": "1248551495253057537",
+            "text": "Bijna 5% van de actieve gebruikers van de ‘OLVG Corona Check’-app kreeg de vermoedelijke diagnose ‘COVID-19’. Longa… https://t.co/OQyabNiqk7",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 97213844,
+                "id_str": "97213844",
+                "name": "NTvG",
+                "screen_name": "NTvG_actueel",
+                "location": "Amsterdam",
+                "url": "http://www.ntvg.nl",
+                "description": "NTvG is een Nederlandstalig weekblad dat het beste Nederlandse geneeskundig onderzoek publiceert, nadat het door erkende vakgenoten is beoordeeld.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 17625,
+                "friends_count": 1725,
+                "listed_count": 354,
+                "favourites_count": 511,
+                "statuses_count": 30397,
+                "created_at": "Wed Dec 16 13:58:31 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "E6352F",
+                "profile_sidebar_border_color": "C1CBE4",
+                "profile_sidebar_fill_color": "E1EFF7",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062704931096981505/cU9jPM7j_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062704931096981505/cU9jPM7j_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/97213844/1479901223",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Bijna 5% van de actieve gebruikers van de ‘OLVG Corona Check’-app kreeg de vermoedelijke diagnose ‘COVID-19’. Longarts Reesink deelt de eerste cijfers en ervaringen. https://t.co/NIdU4nuynX\nEn wat word je wijzer van de ‘corona check’-app? https://t.co/SxNc0Q8nad\nFoto: Luscii https://t.co/B1vlzTyV3C",
+                "display_text_range": [
+                    0,
+                    275
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/NIdU4nuynX",
+                            "expanded_url": "https://buff.ly/2Vbeqjs",
+                            "display_url": "buff.ly/2Vbeqjs",
+                            "indices": [
+                                166,
+                                189
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/SxNc0Q8nad",
+                            "expanded_url": "https://buff.ly/2Rq9eqW",
+                            "display_url": "buff.ly/2Rq9eqW",
+                            "indices": [
+                                239,
+                                262
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1248551493784858625,
+                            "id_str": "1248551493784858625",
+                            "indices": [
+                                276,
+                                299
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVO-9-7UcAEWjGK.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVO-9-7UcAEWjGK.jpg",
+                            "url": "https://t.co/B1vlzTyV3C",
+                            "display_url": "pic.twitter.com/B1vlzTyV3C",
+                            "expanded_url": "https://twitter.com/NTvG_actueel/status/1248551495253057537/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 248,
+                                    "h": 189,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 248,
+                                    "h": 189,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 248,
+                                    "h": 189,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1248551493784858625,
+                            "id_str": "1248551493784858625",
+                            "indices": [
+                                276,
+                                299
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVO-9-7UcAEWjGK.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVO-9-7UcAEWjGK.jpg",
+                            "url": "https://t.co/B1vlzTyV3C",
+                            "display_url": "pic.twitter.com/B1vlzTyV3C",
+                            "expanded_url": "https://twitter.com/NTvG_actueel/status/1248551495253057537/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 248,
+                                    "h": 189,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 248,
+                                    "h": 189,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 248,
+                                    "h": 189,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/OQyabNiqk7",
+                        "expanded_url": "https://twitter.com/i/web/status/1248551495253057537",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/HLsI3km14w",
+            "expanded": "https://twitter.com/NTvG_actueel/status/1248551495253057537",
+            "display": "twitter.com/NTvG_actueel/s…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "OLVG coronacheck-app: kijk uit dat de kostbare energie van zorgverleners niet aan verkeerde initiatieven worden besteed, zonder meerwaarde voor individuele patiënten of de algemene volksgezondheid\n\n@Marco_Blanker @NHChavannes #coronavirusNederland #coronanederland #COVID19NL",
+            "display_text_range": [
+                0,
+                275
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "coronavirusNederland",
+                        "indices": [
+                            226,
+                            247
+                        ]
+                    },
+                    {
+                        "text": "coronanederland",
+                        "indices": [
+                            248,
+                            264
+                        ]
+                    },
+                    {
+                        "text": "COVID19NL",
+                        "indices": [
+                            265,
+                            275
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Marco_Blanker",
+                        "name": "Marco Blanker",
+                        "id": 1722774512,
+                        "id_str": "1722774512",
+                        "indices": [
+                            198,
+                            212
+                        ]
+                    },
+                    {
+                        "screen_name": "NHChavannes",
+                        "name": "Niels H. Chavannes, MD, PhD",
+                        "id": 2907607907,
+                        "id_str": "2907607907",
+                        "indices": [
+                            213,
+                            225
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9Ch37eC1lt",
+                    "expanded_url": "https://twitter.com/i/web/status/1249359709792088065",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_id": 1248551495253057537,
+    "quoted_status_id_str": "1248551495253057537",
+    "quoted_status": {
+        "created_at": "Fri Apr 10 10:00:48 +0000 2020",
+        "id": 1248551495253057537,
+        "id_str": "1248551495253057537",
+        "text": "Bijna 5% van de actieve gebruikers van de ‘OLVG Corona Check’-app kreeg de vermoedelijke diagnose ‘COVID-19’. Longa… https://t.co/OQyabNiqk7",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 97213844,
+            "id_str": "97213844",
+            "name": "NTvG",
+            "screen_name": "NTvG_actueel",
+            "location": "Amsterdam",
+            "url": "http://www.ntvg.nl",
+            "description": "NTvG is een Nederlandstalig weekblad dat het beste Nederlandse geneeskundig onderzoek publiceert, nadat het door erkende vakgenoten is beoordeeld.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 17625,
+            "friends_count": 1725,
+            "listed_count": 354,
+            "favourites_count": 511,
+            "statuses_count": 30397,
+            "created_at": "Wed Dec 16 13:58:31 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "E6352F",
+            "profile_sidebar_border_color": "C1CBE4",
+            "profile_sidebar_fill_color": "E1EFF7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1062704931096981505/cU9jPM7j_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062704931096981505/cU9jPM7j_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/97213844/1479901223",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Bijna 5% van de actieve gebruikers van de ‘OLVG Corona Check’-app kreeg de vermoedelijke diagnose ‘COVID-19’. Longarts Reesink deelt de eerste cijfers en ervaringen. https://t.co/NIdU4nuynX\nEn wat word je wijzer van de ‘corona check’-app? https://t.co/SxNc0Q8nad\nFoto: Luscii https://t.co/B1vlzTyV3C",
+            "display_text_range": [
+                0,
+                275
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/NIdU4nuynX",
+                        "expanded_url": "https://buff.ly/2Vbeqjs",
+                        "display_url": "buff.ly/2Vbeqjs",
+                        "indices": [
+                            166,
+                            189
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/SxNc0Q8nad",
+                        "expanded_url": "https://buff.ly/2Rq9eqW",
+                        "display_url": "buff.ly/2Rq9eqW",
+                        "indices": [
+                            239,
+                            262
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1248551493784858625,
+                        "id_str": "1248551493784858625",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVO-9-7UcAEWjGK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVO-9-7UcAEWjGK.jpg",
+                        "url": "https://t.co/B1vlzTyV3C",
+                        "display_url": "pic.twitter.com/B1vlzTyV3C",
+                        "expanded_url": "https://twitter.com/NTvG_actueel/status/1248551495253057537/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 248,
+                                "h": 189,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 248,
+                                "h": 189,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 248,
+                                "h": 189,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1248551493784858625,
+                        "id_str": "1248551493784858625",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVO-9-7UcAEWjGK.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVO-9-7UcAEWjGK.jpg",
+                        "url": "https://t.co/B1vlzTyV3C",
+                        "display_url": "pic.twitter.com/B1vlzTyV3C",
+                        "expanded_url": "https://twitter.com/NTvG_actueel/status/1248551495253057537/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 248,
+                                "h": 189,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 248,
+                                "h": 189,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 248,
+                                "h": 189,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/OQyabNiqk7",
+                    "expanded_url": "https://twitter.com/i/web/status/1248551495253057537",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/HLsI3km14w",
+        "expanded": "https://twitter.com/NTvG_actueel/status/1248551495253057537",
+        "display": "twitter.com/NTvG_actueel/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "DrJohanLim",
+                "name": "Johan Lim",
+                "id": 941425270837399552,
+                "id_str": "941425270837399552",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586717141972"
+}

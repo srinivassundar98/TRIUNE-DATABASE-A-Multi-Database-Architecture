@@ -1,0 +1,162 @@
+{
+    "created_at": "Sun Apr 12 18:45:49 +0000 2020",
+    "id": 1249408396647956482,
+    "id_str": "1249408396647956482",
+    "text": "@carlosde_vargas @dani_jaming @folha Ela entende que os estudos até agora são fracos e não trazem uma confirmação.… https://t.co/ycu1NRvVrQ",
+    "display_text_range": [
+        37,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249406077726318593,
+    "in_reply_to_status_id_str": "1249406077726318593",
+    "in_reply_to_user_id": 3371045027,
+    "in_reply_to_user_id_str": "3371045027",
+    "in_reply_to_screen_name": "carlosde_vargas",
+    "user": {
+        "id": 918122232324423680,
+        "id_str": "918122232324423680",
+        "name": "Andre Nakahama",
+        "screen_name": "andre_nakahama",
+        "location": "E",
+        "url": null,
+        "description": "Meh. Covfefe. Covfefe",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 28,
+        "friends_count": 278,
+        "listed_count": 0,
+        "favourites_count": 7798,
+        "statuses_count": 3190,
+        "created_at": "Wed Oct 11 14:32:52 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1074979522246782977/jUrtw6YP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074979522246782977/jUrtw6YP_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@carlosde_vargas @dani_jaming @folha Ela entende que os estudos até agora são fracos e não trazem uma confirmação. O fato é que dentre os efeitos colaterais do remédio está trazer arritmia. E também é fato que muitos dos que se complicam com o Corona são cardiopatas. Vai tratar com a mesma cloroquina?",
+        "display_text_range": [
+            37,
+            302
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "carlosde_vargas",
+                    "name": "Carlos Vargas",
+                    "id": 3371045027,
+                    "id_str": "3371045027",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "dani_jaming",
+                    "name": "Dani Jaming 🐝",
+                    "id": 234718066,
+                    "id_str": "234718066",
+                    "indices": [
+                        17,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "folha",
+                    "name": "Folha de S.Paulo",
+                    "id": 14594813,
+                    "id_str": "14594813",
+                    "indices": [
+                        30,
+                        36
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ycu1NRvVrQ",
+                "expanded_url": "https://twitter.com/i/web/status/1249408396647956482",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "carlosde_vargas",
+                "name": "Carlos Vargas",
+                "id": 3371045027,
+                "id_str": "3371045027",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "dani_jaming",
+                "name": "Dani Jaming 🐝",
+                "id": 234718066,
+                "id_str": "234718066",
+                "indices": [
+                    17,
+                    29
+                ]
+            },
+            {
+                "screen_name": "folha",
+                "name": "Folha de S.Paulo",
+                "id": 14594813,
+                "id_str": "14594813",
+                "indices": [
+                    30,
+                    36
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586717149303"
+}

@@ -1,0 +1,175 @@
+{
+    "created_at": "Sat Apr 25 14:25:02 +0000 2020",
+    "id": 1254053810235981828,
+    "id_str": "1254053810235981828",
+    "text": "@Amrendra5815527 @NitishKumar Khajpura my place before leaving this place and settling in village , jad been there… https://t.co/cnZFTup9E1",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254053260354355202,
+    "in_reply_to_status_id_str": "1254053260354355202",
+    "in_reply_to_user_id": 4498207273,
+    "in_reply_to_user_id_str": "4498207273",
+    "in_reply_to_screen_name": "Amrendra5815527",
+    "user": {
+        "id": 1211110380249858049,
+        "id_str": "1211110380249858049",
+        "name": "Arun kumar Tripathi - Social Activist (Unofficial)",
+        "screen_name": "hope_india2014",
+        "location": "India",
+        "url": "https://www.linkedin.com/in/arun-kumar-tripathi-7b501438",
+        "description": "Founder and Chief Functionary /Secretary Hope India NGO ( SR Act 21, 1860 ) UID : JH/2015/0085454\nhttp://hopeindia.online\nLikes and RTs are not endorsement",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 132,
+        "friends_count": 124,
+        "listed_count": 1,
+        "favourites_count": 4529,
+        "statuses_count": 10369,
+        "created_at": "Sun Dec 29 02:28:55 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244915364720340992/NixCl8tq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244915364720340992/NixCl8tq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1211110380249858049/1587809864",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0bfe3ceab0eab897",
+        "url": "https://api.twitter.com/1.1/geo/id/0bfe3ceab0eab897.json",
+        "place_type": "admin",
+        "name": "Bihar",
+        "full_name": "Bihar, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        83.324301,
+                        24.286947
+                    ],
+                    [
+                        83.324301,
+                        27.52129
+                    ],
+                    [
+                        88.298296,
+                        27.52129
+                    ],
+                    [
+                        88.298296,
+                        24.286947
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Amrendra5815527 @NitishKumar Khajpura my place before leaving this place and settling in village , jad been there for more than 20 years did engineering, and lots of things, in now a hub - Corona 19 Hub..Be aware U r there....Pls don't step out ... We have do so may things in future...",
+        "display_text_range": [
+            30,
+            287
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Amrendra5815527",
+                    "name": "Amrendra Kumar Singh",
+                    "id": 4498207273,
+                    "id_str": "4498207273",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "NitishKumar",
+                    "name": "Nitish Kumar",
+                    "id": 143409075,
+                    "id_str": "143409075",
+                    "indices": [
+                        17,
+                        29
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/cnZFTup9E1",
+                "expanded_url": "https://twitter.com/i/web/status/1254053810235981828",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Amrendra5815527",
+                "name": "Amrendra Kumar Singh",
+                "id": 4498207273,
+                "id_str": "4498207273",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "NitishKumar",
+                "name": "Nitish Kumar",
+                "id": 143409075,
+                "id_str": "143409075",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824702210"
+}

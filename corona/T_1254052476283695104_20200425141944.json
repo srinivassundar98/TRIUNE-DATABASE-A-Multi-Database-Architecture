@@ -1,0 +1,410 @@
+{
+    "created_at": "Sat Apr 25 14:19:44 +0000 2020",
+    "id": 1254052476283695104,
+    "id_str": "1254052476283695104",
+    "text": "Wir haben @breitband vom @dlfkultur ganz viel Liebe und die Weltrettung im Angebot. Corona-Tracing-Apps diskutieren… https://t.co/qiXtx8BIeZ",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 21103522,
+        "id_str": "21103522",
+        "name": "Tim Wiese",
+        "screen_name": "timwiese",
+        "location": "Germany",
+        "url": "http://www.timwiese.de",
+        "description": "Ich kann keine Bälle halten, aber moderieren, reportieren, fabulieren, insistieren und buchstabieren.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 578,
+        "friends_count": 237,
+        "listed_count": 20,
+        "favourites_count": 2263,
+        "statuses_count": 899,
+        "created_at": "Tue Feb 17 16:35:40 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "0F0E0E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1031984726507184128/YRkCSVI6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031984726507184128/YRkCSVI6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21103522/1365370834",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3078869807f9dd36",
+        "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+        "place_type": "city",
+        "name": "Berlin",
+        "full_name": "Berlin, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        13.088304,
+                        52.338079
+                    ],
+                    [
+                        13.088304,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.675323
+                    ],
+                    [
+                        13.760909,
+                        52.338079
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "quoted_status_id": 1254047110162513920,
+    "quoted_status_id_str": "1254047110162513920",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 13:58:24 +0000 2020",
+        "id": 1254047110162513920,
+        "id_str": "1254047110162513920",
+        "text": "Unsere Moderatoren @timwiese und @cluychaz wünschen ein schönes Wochenende – mit Sicherheitsabstand und ganz viel H… https://t.co/8SfaUZLNZ2",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1496461,
+            "id_str": "1496461",
+            "name": "Breitband",
+            "screen_name": "breitband",
+            "location": "Berlin, Deutschland",
+            "url": "https://www.deutschlandfunkkultur.de/breitband.1263.de.html",
+            "description": "Magazin für Medien und digitale Kultur im @DLFkultur. Samstag, 13:05 Uhr. TvD: @ausnahmsweise",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 8745,
+            "friends_count": 1476,
+            "listed_count": 512,
+            "favourites_count": 3206,
+            "statuses_count": 12233,
+            "created_at": "Mon Mar 19 12:15:43 +0000 2007",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "595959",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/857218635609366529/v64XYbE__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/857218635609366529/v64XYbE__normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1496461/1493209033",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Unsere Moderatoren @timwiese und @cluychaz wünschen ein schönes Wochenende – mit Sicherheitsabstand und ganz viel Herz! ❤️❤️❤️ https://t.co/SrFjhyNdtm",
+            "display_text_range": [
+                0,
+                126
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "timwiese",
+                        "name": "Tim Wiese",
+                        "id": 21103522,
+                        "id_str": "21103522",
+                        "indices": [
+                            19,
+                            28
+                        ]
+                    },
+                    {
+                        "screen_name": "cluychaz",
+                        "name": "Teresa Sickert",
+                        "id": 33256466,
+                        "id_str": "33256466",
+                        "indices": [
+                            33,
+                            42
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1254046296681447425,
+                        "id_str": "1254046296681447425",
+                        "indices": [
+                            127,
+                            150
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWdEdm2XgAECikc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWdEdm2XgAECikc.jpg",
+                        "url": "https://t.co/SrFjhyNdtm",
+                        "display_url": "pic.twitter.com/SrFjhyNdtm",
+                        "expanded_url": "https://twitter.com/breitband/status/1254047110162513920/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1600,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1254046296681447425,
+                        "id_str": "1254046296681447425",
+                        "indices": [
+                            127,
+                            150
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWdEdm2XgAECikc.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWdEdm2XgAECikc.jpg",
+                        "url": "https://t.co/SrFjhyNdtm",
+                        "display_url": "pic.twitter.com/SrFjhyNdtm",
+                        "expanded_url": "https://twitter.com/breitband/status/1254047110162513920/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1600,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/8SfaUZLNZ2",
+                    "expanded_url": "https://twitter.com/i/web/status/1254047110162513920",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "timwiese",
+                    "name": "Tim Wiese",
+                    "id": 21103522,
+                    "id_str": "21103522",
+                    "indices": [
+                        19,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "cluychaz",
+                    "name": "Teresa Sickert",
+                    "id": 33256466,
+                    "id_str": "33256466",
+                    "indices": [
+                        33,
+                        42
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/53qEkEKc5W",
+        "expanded": "https://twitter.com/breitband/status/1254047110162513920",
+        "display": "twitter.com/breitband/stat…"
+    },
+    "is_quote_status": true,
+    "extended_tweet": {
+        "full_text": "Wir haben @breitband vom @dlfkultur ganz viel Liebe und die Weltrettung im Angebot. Corona-Tracing-Apps diskutieren wir auch. Jetzt mit etwas Abstand zum Nachhören 😉 : https://t.co/1DbxO03ezD",
+        "display_text_range": [
+            0,
+            191
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/1DbxO03ezD",
+                    "expanded_url": "https://www.deutschlandfunkkultur.de/breitband-sendungsueberblick-mit-technik-aus-dem-lockdown.1264.de.html?dram:article_id=475342",
+                    "display_url": "deutschlandfunkkultur.de/breitband-send…",
+                    "indices": [
+                        168,
+                        191
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "breitband",
+                    "name": "Breitband",
+                    "id": 1496461,
+                    "id_str": "1496461",
+                    "indices": [
+                        10,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "dlfkultur",
+                    "name": "Deutschlandfunk Kultur",
+                    "id": 320412967,
+                    "id_str": "320412967",
+                    "indices": [
+                        25,
+                        35
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/qiXtx8BIeZ",
+                "expanded_url": "https://twitter.com/i/web/status/1254052476283695104",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "breitband",
+                "name": "Breitband",
+                "id": 1496461,
+                "id_str": "1496461",
+                "indices": [
+                    10,
+                    20
+                ]
+            },
+            {
+                "screen_name": "dlfkultur",
+                "name": "Deutschlandfunk Kultur",
+                "id": 320412967,
+                "id_str": "320412967",
+                "indices": [
+                    25,
+                    35
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824384171"
+}

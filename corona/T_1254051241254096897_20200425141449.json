@@ -1,0 +1,168 @@
+{
+    "created_at": "Sat Apr 25 14:14:49 +0000 2020",
+    "id": 1254051241254096897,
+    "id_str": "1254051241254096897",
+    "text": "@Carolinerathabe The bat that gave us Corona https://t.co/ZjluVMgHi6",
+    "display_text_range": [
+        17,
+        44
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253963320052367361,
+    "in_reply_to_status_id_str": "1253963320052367361",
+    "in_reply_to_user_id": 1240338965674233857,
+    "in_reply_to_user_id_str": "1240338965674233857",
+    "in_reply_to_screen_name": "Carolinerathabe",
+    "user": {
+        "id": 784284973247246336,
+        "id_str": "784284973247246336",
+        "name": "This Respect Full",
+        "screen_name": "Lucas_Mofo251",
+        "location": "Cape Town, South Africa",
+        "url": null,
+        "description": "Proudly 🇿🇦",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1289,
+        "friends_count": 1643,
+        "listed_count": 0,
+        "favourites_count": 18013,
+        "statuses_count": 6368,
+        "created_at": "Fri Oct 07 06:51:23 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1178626549056188416/oSdYDe3M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1178626549056188416/oSdYDe3M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/784284973247246336/1559120756",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Carolinerathabe",
+                "name": "Caroline",
+                "id": 1240338965674233857,
+                "id_str": "1240338965674233857",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254051228989952005,
+                "id_str": "1254051228989952005",
+                "indices": [
+                    45,
+                    68
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdI8tIWkAU7fVP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdI8tIWkAU7fVP.jpg",
+                "url": "https://t.co/ZjluVMgHi6",
+                "display_url": "pic.twitter.com/ZjluVMgHi6",
+                "expanded_url": "https://twitter.com/Lucas_Mofo251/status/1254051241254096897/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1196,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1242,
+                        "h": 1246,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 678,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254051228989952005,
+                "id_str": "1254051228989952005",
+                "indices": [
+                    45,
+                    68
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdI8tIWkAU7fVP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdI8tIWkAU7fVP.jpg",
+                "url": "https://t.co/ZjluVMgHi6",
+                "display_url": "pic.twitter.com/ZjluVMgHi6",
+                "expanded_url": "https://twitter.com/Lucas_Mofo251/status/1254051241254096897/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1196,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1242,
+                        "h": 1246,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 678,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824089717"
+}

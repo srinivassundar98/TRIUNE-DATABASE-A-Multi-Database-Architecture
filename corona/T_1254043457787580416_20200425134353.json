@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:43:53 +0000 2020",
+    "id": 1254043457787580416,
+    "id_str": "1254043457787580416",
+    "text": "そう、fuck corona https://t.co/GyRuNoAuE6",
+    "display_text_range": [
+        0,
+        14
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1114885920430256128,
+        "id_str": "1114885920430256128",
+        "name": "ことね【Ω改】横浜2days❤︎",
+        "screen_name": "kotone___maru",
+        "location": "□△との別次元",
+        "url": null,
+        "description": "まるくんがすきだっちゃ~~☺︎✌︎ すきぴ➤@ryumaru_0430",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 319,
+        "friends_count": 361,
+        "listed_count": 10,
+        "favourites_count": 8477,
+        "statuses_count": 1812,
+        "created_at": "Sun Apr 07 13:41:31 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1211286332657393665/TO31ES0a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211286332657393665/TO31ES0a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1114885920430256128/1583912212",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254043452280455168,
+                "id_str": "1254043452280455168",
+                "indices": [
+                    15,
+                    38
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdB4CoUwAAYiC6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdB4CoUwAAYiC6.jpg",
+                "url": "https://t.co/GyRuNoAuE6",
+                "display_url": "pic.twitter.com/GyRuNoAuE6",
+                "expanded_url": "https://twitter.com/kotone___maru/status/1254043457787580416/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 169,
+                        "h": 364,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 169,
+                        "h": 364,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 169,
+                        "h": 364,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254043452280455168,
+                "id_str": "1254043452280455168",
+                "indices": [
+                    15,
+                    38
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdB4CoUwAAYiC6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdB4CoUwAAYiC6.jpg",
+                "url": "https://t.co/GyRuNoAuE6",
+                "display_url": "pic.twitter.com/GyRuNoAuE6",
+                "expanded_url": "https://twitter.com/kotone___maru/status/1254043457787580416/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 169,
+                        "h": 364,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 169,
+                        "h": 364,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 169,
+                        "h": 364,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "filter_level": "low",
+    "lang": "ja",
+    "timestamp_ms": "1587822233994"
+}

@@ -1,0 +1,575 @@
+{
+    "created_at": "Sat Apr 25 13:56:58 +0000 2020",
+    "id": 1254046747489435650,
+    "id_str": "1254046747489435650",
+    "text": "RT @TristanCorkPost: Huge queues at DIY stores in Bristol today next to a deserted mobile coronavirus testing centre. \nThe testing centre,…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 184865684,
+        "id_str": "184865684",
+        "name": "Josie",
+        "screen_name": "Josiestweet",
+        "location": "Bristolian",
+        "url": null,
+        "description": "lovely bubbly cuddly weirdo",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 342065,
+        "friends_count": 3957,
+        "listed_count": 940,
+        "favourites_count": 10670,
+        "statuses_count": 24183,
+        "created_at": "Mon Aug 30 17:38:52 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/986155709430665217/Pc-AIMrG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/986155709430665217/Pc-AIMrG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/184865684/1575153764",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 13:34:20 +0000 2020",
+        "id": 1254041054225092609,
+        "id_str": "1254041054225092609",
+        "text": "Huge queues at DIY stores in Bristol today next to a deserted mobile coronavirus testing centre. \nThe testing centr… https://t.co/tkZTtuHL8B",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 537299827,
+            "id_str": "537299827",
+            "name": "Tristan Cork BLive",
+            "screen_name": "TristanCorkPost",
+            "location": "Bristol, West Country",
+            "url": "https://www.bristolpost.co.uk/authors/tristan-cork/",
+            "description": "@BristolLive /Bristol Post reporter. News, esp south of the river & the housing crisis. Follow me on FB. DM or email me your story tristan.cork@reachplc.com",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 4867,
+            "friends_count": 1059,
+            "listed_count": 82,
+            "favourites_count": 11103,
+            "statuses_count": 32449,
+            "created_at": "Mon Mar 26 15:21:44 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/931322578559537153/6X6hFpF3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/931322578559537153/6X6hFpF3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/537299827/1543433320",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1254029120595529729,
+        "quoted_status_id_str": "1254029120595529729",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 12:46:55 +0000 2020",
+            "id": 1254029120595529729,
+            "id_str": "1254029120595529729",
+            "text": "Here's a short video from Bristol's Ashton Gate corona testing site yesterday.. Today is exactly the same. https://t.co/ozpbEi168m",
+            "display_text_range": [
+                0,
+                106
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 103529163,
+                "id_str": "103529163",
+                "name": "Ben Birchall",
+                "screen_name": "BenBirchallUK",
+                "location": "Bristol, UK",
+                "url": "http://www.paimages.co.uk",
+                "description": "Staff Photographer @PA wire & @PAimages. Living the dreams and nightmares of modern life - usually with a camera.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 2778,
+                "friends_count": 1639,
+                "listed_count": 87,
+                "favourites_count": 3592,
+                "statuses_count": 5397,
+                "created_at": "Sun Jan 10 09:30:52 +0000 2010",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "5D6161",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1127923842058477568/gDZAx1Tm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127923842058477568/gDZAx1Tm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/103529163/1572368388",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 2,
+            "reply_count": 1,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1254024131944886272,
+                        "id_str": "1254024131944886272",
+                        "indices": [
+                            107,
+                            130
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254024131944886272/pu/img/NaiC48T24J2PZc98.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254024131944886272/pu/img/NaiC48T24J2PZc98.jpg",
+                        "url": "https://t.co/ozpbEi168m",
+                        "display_url": "pic.twitter.com/ozpbEi168m",
+                        "expanded_url": "https://twitter.com/BenBirchallUK/status/1254029120595529729/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1254024131944886272,
+                        "id_str": "1254024131944886272",
+                        "indices": [
+                            107,
+                            130
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254024131944886272/pu/img/NaiC48T24J2PZc98.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254024131944886272/pu/img/NaiC48T24J2PZc98.jpg",
+                        "url": "https://t.co/ozpbEi168m",
+                        "display_url": "pic.twitter.com/ozpbEi168m",
+                        "expanded_url": "https://twitter.com/BenBirchallUK/status/1254029120595529729/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 23067,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1254024131944886272/pu/vid/480x270/w0FLMaZG2NQFzSFs.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1254024131944886272/pu/vid/640x360/E4B1ppIxxKQE7V6m.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1254024131944886272/pu/pl/xNWIqtwR5-zM2lL1.m3u8?tag=10"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1254024131944886272/pu/vid/1280x720/NobfBSXohAw76udF.mp4?tag=10"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/sRcLAiOAic",
+            "expanded": "https://twitter.com/benbirchalluk/status/1254029120595529729",
+            "display": "twitter.com/benbirchalluk/…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Huge queues at DIY stores in Bristol today next to a deserted mobile coronavirus testing centre. \nThe testing centre, for specific ‘by-invitation’ staff from 1 NHS trust, has been pretty much unused for a couple of weeks\nSomething very wrong with what’s happening in this country",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/tkZTtuHL8B",
+                    "expanded_url": "https://twitter.com/i/web/status/1254041054225092609",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1254029120595529729,
+    "quoted_status_id_str": "1254029120595529729",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 12:46:55 +0000 2020",
+        "id": 1254029120595529729,
+        "id_str": "1254029120595529729",
+        "text": "Here's a short video from Bristol's Ashton Gate corona testing site yesterday.. Today is exactly the same. https://t.co/ozpbEi168m",
+        "display_text_range": [
+            0,
+            106
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 103529163,
+            "id_str": "103529163",
+            "name": "Ben Birchall",
+            "screen_name": "BenBirchallUK",
+            "location": "Bristol, UK",
+            "url": "http://www.paimages.co.uk",
+            "description": "Staff Photographer @PA wire & @PAimages. Living the dreams and nightmares of modern life - usually with a camera.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 2778,
+            "friends_count": 1639,
+            "listed_count": 87,
+            "favourites_count": 3592,
+            "statuses_count": 5397,
+            "created_at": "Sun Jan 10 09:30:52 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "5D6161",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1127923842058477568/gDZAx1Tm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127923842058477568/gDZAx1Tm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/103529163/1572368388",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 2,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254024131944886272,
+                    "id_str": "1254024131944886272",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254024131944886272/pu/img/NaiC48T24J2PZc98.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254024131944886272/pu/img/NaiC48T24J2PZc98.jpg",
+                    "url": "https://t.co/ozpbEi168m",
+                    "display_url": "pic.twitter.com/ozpbEi168m",
+                    "expanded_url": "https://twitter.com/BenBirchallUK/status/1254029120595529729/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254024131944886272,
+                    "id_str": "1254024131944886272",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254024131944886272/pu/img/NaiC48T24J2PZc98.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254024131944886272/pu/img/NaiC48T24J2PZc98.jpg",
+                    "url": "https://t.co/ozpbEi168m",
+                    "display_url": "pic.twitter.com/ozpbEi168m",
+                    "expanded_url": "https://twitter.com/BenBirchallUK/status/1254029120595529729/video/1",
+                    "type": "video",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 23067,
+                        "variants": [
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1254024131944886272/pu/vid/480x270/w0FLMaZG2NQFzSFs.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1254024131944886272/pu/vid/640x360/E4B1ppIxxKQE7V6m.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1254024131944886272/pu/pl/xNWIqtwR5-zM2lL1.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1254024131944886272/pu/vid/1280x720/NobfBSXohAw76udF.mp4?tag=10"
+                            }
+                        ]
+                    },
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/sRcLAiOAic",
+        "expanded": "https://twitter.com/benbirchalluk/status/1254029120595529729",
+        "display": "twitter.com/benbirchalluk/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "TristanCorkPost",
+                "name": "Tristan Cork BLive",
+                "id": 537299827,
+                "id_str": "537299827",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823018320"
+}

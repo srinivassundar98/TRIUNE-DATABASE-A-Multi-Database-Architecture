@@ -1,0 +1,564 @@
+{
+    "created_at": "Sat Apr 25 14:29:47 +0000 2020",
+    "id": 1254055007332323330,
+    "id_str": "1254055007332323330",
+    "text": "RT @kausmickey: Apparently in Sweden if you die you are only counted as a corona death if they test you and you are positive. \"And Sweden i…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 79634298,
+        "id_str": "79634298",
+        "name": "Liliana",
+        "screen_name": "LilianaLolasana",
+        "location": "USA",
+        "url": null,
+        "description": "Enjoy gardening, yoga, cooking, being inspired by our glorious President. Intrigued by bitcoin.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1281,
+        "friends_count": 1032,
+        "listed_count": 26,
+        "favourites_count": 95182,
+        "statuses_count": 35362,
+        "created_at": "Sun Oct 04 03:17:58 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148750287202672640/k6iilr_0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148750287202672640/k6iilr_0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79634298/1522510033",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 06:40:56 +0000 2020",
+        "id": 1253937017093644288,
+        "id_str": "1253937017093644288",
+        "text": "Apparently in Sweden if you die you are only counted as a corona death if they test you and you are positive. \"And… https://t.co/CoLckj2uQU",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 30534986,
+            "id_str": "30534986",
+            "name": "Mickey Kaus",
+            "screen_name": "kausmickey",
+            "location": null,
+            "url": "http://www.kausfiles.com",
+            "description": "The End of Equality [1992, Basic Books] \"The venerable liberal crusade for income equality is doomed. ... Time [to] try a different strategy.\"",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 40133,
+            "friends_count": 6685,
+            "listed_count": 1140,
+            "favourites_count": 4438,
+            "statuses_count": 56466,
+            "created_at": "Sat Apr 11 22:00:09 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/464483293/facebook_photo1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/464483293/facebook_photo1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30534986/1564216462",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253796693180583938,
+        "quoted_status_id_str": "1253796693180583938",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 21:23:20 +0000 2020",
+            "id": 1253796693180583938,
+            "id_str": "1253796693180583938",
+            "text": "Here is a graph over the total number of deaths in Sweden in 2020 vs the 2015-2019 average.\n\nThe first coronavirus… https://t.co/wGkPRlNKlI",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 935991331016642560,
+                "id_str": "935991331016642560",
+                "name": "Paul Imanuelsen 🇸🇪",
+                "screen_name": "Paul_Imanuelsen",
+                "location": "Europe",
+                "url": "http://LatestfromEurope.com",
+                "description": "Swedish Photographer and Author. Christian. Editor for http://LatestfromEurope.com. Writer for @TimesofSweden. Reports on the latest news from Sweden. 🇸🇪",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1419,
+                "friends_count": 538,
+                "listed_count": 10,
+                "favourites_count": 1413,
+                "statuses_count": 2775,
+                "created_at": "Wed Nov 29 21:58:17 +0000 2017",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1225831572827451392/3_2CMLg9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225831572827451392/3_2CMLg9_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/935991331016642560/1583615247",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Here is a graph over the total number of deaths in Sweden in 2020 vs the 2015-2019 average.\n\nThe first coronavirus death was recorded in mid-march. https://t.co/ghyLjuGPRS",
+                "display_text_range": [
+                    0,
+                    147
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253796043612880896,
+                            "id_str": "1253796043612880896",
+                            "indices": [
+                                148,
+                                171
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWZg29hWAAAP-5P.png",
+                            "media_url_https": "https://pbs.twimg.com/media/EWZg29hWAAAP-5P.png",
+                            "url": "https://t.co/ghyLjuGPRS",
+                            "display_url": "pic.twitter.com/ghyLjuGPRS",
+                            "expanded_url": "https://twitter.com/Paul_Imanuelsen/status/1253796693180583938/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 680,
+                                    "h": 310,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2038,
+                                    "h": 930,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 548,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253796043612880896,
+                            "id_str": "1253796043612880896",
+                            "indices": [
+                                148,
+                                171
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWZg29hWAAAP-5P.png",
+                            "media_url_https": "https://pbs.twimg.com/media/EWZg29hWAAAP-5P.png",
+                            "url": "https://t.co/ghyLjuGPRS",
+                            "display_url": "pic.twitter.com/ghyLjuGPRS",
+                            "expanded_url": "https://twitter.com/Paul_Imanuelsen/status/1253796693180583938/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 680,
+                                    "h": 310,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2038,
+                                    "h": 930,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 548,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/wGkPRlNKlI",
+                        "expanded_url": "https://twitter.com/i/web/status/1253796693180583938",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/N6QbwF2ie1",
+            "expanded": "https://twitter.com/Paul_Imanuelsen/status/1253796693180583938",
+            "display": "twitter.com/Paul_Imanuelse…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Apparently in Sweden if you die you are only counted as a corona death if they test you and you are positive. \"And Sweden is not doing many tests.\" https://t.co/ENEOsfeFac",
+            "display_text_range": [
+                0,
+                171
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ENEOsfeFac",
+                        "expanded_url": "http://latestfromeurope.com/2020/03/29/latest-coronavirus-updates-from-sweden/",
+                        "display_url": "latestfromeurope.com/2020/03/29/lat…",
+                        "indices": [
+                            148,
+                            171
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 5,
+        "favorite_count": 5,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/CoLckj2uQU",
+                    "expanded_url": "https://twitter.com/i/web/status/1253937017093644288",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1253796693180583938,
+    "quoted_status_id_str": "1253796693180583938",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 21:23:20 +0000 2020",
+        "id": 1253796693180583938,
+        "id_str": "1253796693180583938",
+        "text": "Here is a graph over the total number of deaths in Sweden in 2020 vs the 2015-2019 average.\n\nThe first coronavirus… https://t.co/wGkPRlNKlI",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 935991331016642560,
+            "id_str": "935991331016642560",
+            "name": "Paul Imanuelsen 🇸🇪",
+            "screen_name": "Paul_Imanuelsen",
+            "location": "Europe",
+            "url": "http://LatestfromEurope.com",
+            "description": "Swedish Photographer and Author. Christian. Editor for http://LatestfromEurope.com. Writer for @TimesofSweden. Reports on the latest news from Sweden. 🇸🇪",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1419,
+            "friends_count": 538,
+            "listed_count": 10,
+            "favourites_count": 1413,
+            "statuses_count": 2775,
+            "created_at": "Wed Nov 29 21:58:17 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1225831572827451392/3_2CMLg9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225831572827451392/3_2CMLg9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/935991331016642560/1583615247",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Here is a graph over the total number of deaths in Sweden in 2020 vs the 2015-2019 average.\n\nThe first coronavirus death was recorded in mid-march. https://t.co/ghyLjuGPRS",
+            "display_text_range": [
+                0,
+                147
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253796043612880896,
+                        "id_str": "1253796043612880896",
+                        "indices": [
+                            148,
+                            171
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWZg29hWAAAP-5P.png",
+                        "media_url_https": "https://pbs.twimg.com/media/EWZg29hWAAAP-5P.png",
+                        "url": "https://t.co/ghyLjuGPRS",
+                        "display_url": "pic.twitter.com/ghyLjuGPRS",
+                        "expanded_url": "https://twitter.com/Paul_Imanuelsen/status/1253796693180583938/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 310,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2038,
+                                "h": 930,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 548,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253796043612880896,
+                        "id_str": "1253796043612880896",
+                        "indices": [
+                            148,
+                            171
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWZg29hWAAAP-5P.png",
+                        "media_url_https": "https://pbs.twimg.com/media/EWZg29hWAAAP-5P.png",
+                        "url": "https://t.co/ghyLjuGPRS",
+                        "display_url": "pic.twitter.com/ghyLjuGPRS",
+                        "expanded_url": "https://twitter.com/Paul_Imanuelsen/status/1253796693180583938/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 310,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2038,
+                                "h": 930,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 548,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wGkPRlNKlI",
+                    "expanded_url": "https://twitter.com/i/web/status/1253796693180583938",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/N6QbwF2ie1",
+        "expanded": "https://twitter.com/Paul_Imanuelsen/status/1253796693180583938",
+        "display": "twitter.com/Paul_Imanuelse…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "kausmickey",
+                "name": "Mickey Kaus",
+                "id": 30534986,
+                "id_str": "30534986",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824987620"
+}

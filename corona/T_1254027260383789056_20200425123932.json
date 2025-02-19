@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Apr 25 12:39:32 +0000 2020",
+    "id": 1254027260383789056,
+    "id_str": "1254027260383789056",
+    "text": "@chillinaris Lama lama bukan  mati Sama corona  mati kelaparan Di terapkan lock down  alias psbb tetap aja covid na… https://t.co/JxLnnWWES1",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253713086852198400,
+    "in_reply_to_status_id_str": "1253713086852198400",
+    "in_reply_to_user_id": 142547652,
+    "in_reply_to_user_id_str": "142547652",
+    "in_reply_to_screen_name": "chillinaris",
+    "user": {
+        "id": 1168604025618497536,
+        "id_str": "1168604025618497536",
+        "name": "alanswim pelatih renang di jakarta Selatan",
+        "screen_name": "Vanesa40638330",
+        "location": "DKI Jakarta, Indonesia",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 10,
+        "friends_count": 176,
+        "listed_count": 0,
+        "favourites_count": 26,
+        "statuses_count": 58,
+        "created_at": "Mon Sep 02 19:18:49 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198385720383004672/YPdI4U_M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198385720383004672/YPdI4U_M_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "8834c34f036f23cf",
+        "url": "https://api.twitter.com/1.1/geo/id/8834c34f036f23cf.json",
+        "place_type": "city",
+        "name": "Cicurug",
+        "full_name": "Cicurug, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.719292,
+                        -6.815709
+                    ],
+                    [
+                        106.719292,
+                        -6.700574
+                    ],
+                    [
+                        106.857496,
+                        -6.700574
+                    ],
+                    [
+                        106.857496,
+                        -6.815709
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@chillinaris Lama lama bukan  mati Sama corona  mati kelaparan Di terapkan lock down  alias psbb tetap aja covid naik terus. Psbb bahasanya aja  biar pemerintah ga  mengeluarkan  biaya hidup rakyat",
+        "display_text_range": [
+            13,
+            197
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "chillinaris",
+                    "name": "ＯＰＥＮ ＵＰ!",
+                    "id": 142547652,
+                    "id_str": "142547652",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/JxLnnWWES1",
+                "expanded_url": "https://twitter.com/i/web/status/1254027260383789056",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "chillinaris",
+                "name": "ＯＰＥＮ ＵＰ!",
+                "id": 142547652,
+                "id_str": "142547652",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587818372232"
+}

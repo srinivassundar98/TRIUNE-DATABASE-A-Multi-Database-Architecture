@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:48:19 +0000 2020",
+    "id": 1254044573485150215,
+    "id_str": "1254044573485150215",
+    "text": "@zhangschmidt Here is a funny observation. Some countries don't have this spike and are indeed in the low list of c… https://t.co/gGzPmQzy4v",
+    "display_text_range": [
+        14,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254042443953115137,
+    "in_reply_to_status_id_str": "1254042443953115137",
+    "in_reply_to_user_id": 274906608,
+    "in_reply_to_user_id_str": "274906608",
+    "in_reply_to_screen_name": "zhangschmidt",
+    "user": {
+        "id": 19505095,
+        "id_str": "19505095",
+        "name": "✪ Jimmy Kane ✪",
+        "screen_name": "JimmyKane9",
+        "location": "Vogelenzang, Bloemendaal",
+        "url": "https://quantified-self.io",
+        "description": "I like details and nature \n\n- Adventurer \n\n- No religion\n\n- No culture\n\nI do stunts and run fast as fuck\n\n@suunto 🔺\n#ultrarunner #swimmer #trxtrainer #webdev",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1151,
+        "friends_count": 174,
+        "listed_count": 54,
+        "favourites_count": 1605,
+        "statuses_count": 9247,
+        "created_at": "Sun Jan 25 21:10:50 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "32B8A2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "E5EBDA",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/916736289784901632/-J9-A-Wa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/916736289784901632/-J9-A-Wa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19505095/1538430338",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@zhangschmidt Here is a funny observation. Some countries don't have this spike and are indeed in the low list of corona leaderboard\n\nNow some like Greece even show a drop \n\nSo that means that eg lockdown prevented perhaps some fatalities... \nWich if correct shows more weight on the fatalities",
+        "display_text_range": [
+            14,
+            294
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "zhangschmidt",
+                    "name": "Dr. Gerald Zhang-Schmidt",
+                    "id": 274906608,
+                    "id_str": "274906608",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gGzPmQzy4v",
+                "expanded_url": "https://twitter.com/i/web/status/1254044573485150215",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "zhangschmidt",
+                "name": "Dr. Gerald Zhang-Schmidt",
+                "id": 274906608,
+                "id_str": "274906608",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822499997"
+}

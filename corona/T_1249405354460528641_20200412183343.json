@@ -1,0 +1,183 @@
+{
+    "created_at": "Sun Apr 12 18:33:43 +0000 2020",
+    "id": 1249405354460528641,
+    "id_str": "1249405354460528641",
+    "text": "@Eric_Bourges @Pierre_B_y @afpfr @StanTouchot En Italie, toutes les décédées testées positives au corona sont compt… https://t.co/nTuIwhxSUe",
+    "display_text_range": [
+        46,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249376798934261760,
+    "in_reply_to_status_id_str": "1249376798934261760",
+    "in_reply_to_user_id": 537626712,
+    "in_reply_to_user_id_str": "537626712",
+    "in_reply_to_screen_name": "Eric_Bourges",
+    "user": {
+        "id": 911953961833426944,
+        "id_str": "911953961833426944",
+        "name": "neme",
+        "screen_name": "monza2017",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 49,
+        "friends_count": 195,
+        "listed_count": 0,
+        "favourites_count": 2129,
+        "statuses_count": 4485,
+        "created_at": "Sun Sep 24 14:02:22 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/933303312316846081/P5XybrPc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/933303312316846081/P5XybrPc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/911953961833426944/1511351698",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Eric_Bourges @Pierre_B_y @afpfr @StanTouchot En Italie, toutes les décédées testées positives au corona sont comptabilisées comme des morts du corona,même en cas de co-morbidité. ca veut dire que si un homme vient aux urgence pour crise cardiaque et que si il est positif au covid19 il sera comptabilisé comme mort du corona!",
+        "display_text_range": [
+            46,
+            326
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Eric_Bourges",
+                    "name": "Eric Bourgès",
+                    "id": 537626712,
+                    "id_str": "537626712",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "Pierre_B_y",
+                    "name": "Pierre B.",
+                    "id": 104184883,
+                    "id_str": "104184883",
+                    "indices": [
+                        14,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "afpfr",
+                    "name": "Agence France-Presse",
+                    "id": 338985020,
+                    "id_str": "338985020",
+                    "indices": [
+                        26,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "StanTouchot",
+                    "name": "Stanislas Touchot",
+                    "id": 377308228,
+                    "id_str": "377308228",
+                    "indices": [
+                        33,
+                        45
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/nTuIwhxSUe",
+                "expanded_url": "https://twitter.com/i/web/status/1249405354460528641",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Eric_Bourges",
+                "name": "Eric Bourgès",
+                "id": 537626712,
+                "id_str": "537626712",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Pierre_B_y",
+                "name": "Pierre B.",
+                "id": 104184883,
+                "id_str": "104184883",
+                "indices": [
+                    14,
+                    25
+                ]
+            },
+            {
+                "screen_name": "afpfr",
+                "name": "Agence France-Presse",
+                "id": 338985020,
+                "id_str": "338985020",
+                "indices": [
+                    26,
+                    32
+                ]
+            },
+            {
+                "screen_name": "StanTouchot",
+                "name": "Stanislas Touchot",
+                "id": 377308228,
+                "id_str": "377308228",
+                "indices": [
+                    33,
+                    45
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1586716423989"
+}

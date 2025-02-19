@@ -1,0 +1,148 @@
+{
+    "created_at": "Sat Apr 25 12:23:01 +0000 2020",
+    "id": 1254023103765774336,
+    "id_str": "1254023103765774336",
+    "text": "Zwei Staaten, fünf Unterschiede: @NZZnbe 🇫🇷 und ich 🇩🇪sind den unterschiedlichen Wegen von Frankreich und Deutschla… https://t.co/uphrxMNCFZ",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 248714344,
+        "id_str": "248714344",
+        "name": "René Höltschi",
+        "screen_name": "RHoeltschi",
+        "location": "Berlin, Deutschland",
+        "url": "http://nzz.ch",
+        "description": "Wirtschaftskorrespondent für die Neue Zürcher Zeitung (@NZZ) in Berlin, zuvor in Zürich, Brüssel, Wien und Paris.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3148,
+        "friends_count": 690,
+        "listed_count": 131,
+        "favourites_count": 1119,
+        "statuses_count": 7305,
+        "created_at": "Mon Feb 07 15:36:18 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/587735245920870400/lF8xwz9I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/587735245920870400/lF8xwz9I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248714344/1399077730",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Zwei Staaten, fünf Unterschiede: @NZZnbe 🇫🇷 und ich 🇩🇪sind den unterschiedlichen Wegen von Frankreich und Deutschland durch die #Corona-Krise und den möglichen wirtschaftlichen Folgen nachgegangen:  https://t.co/Nxb0uoMIIg via @NZZ",
+        "display_text_range": [
+            0,
+            231
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        128,
+                        135
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Nxb0uoMIIg",
+                    "expanded_url": "https://www.nzz.ch/wirtschaft/vertieft-corona-die-kluft-zwischen-frankreich-und-deutschland-ld.1553151?mktcid=smsh&mktcval=Twitter",
+                    "display_url": "nzz.ch/wirtschaft/ver…",
+                    "indices": [
+                        199,
+                        222
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "NZZnbe",
+                    "name": "Nina Belz",
+                    "id": 627554876,
+                    "id_str": "627554876",
+                    "indices": [
+                        33,
+                        40
+                    ]
+                },
+                {
+                    "screen_name": "NZZ",
+                    "name": "Neue Zürcher Zeitung",
+                    "id": 14273050,
+                    "id_str": "14273050",
+                    "indices": [
+                        227,
+                        231
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/uphrxMNCFZ",
+                "expanded_url": "https://twitter.com/i/web/status/1254023103765774336",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "NZZnbe",
+                "name": "Nina Belz",
+                "id": 627554876,
+                "id_str": "627554876",
+                "indices": [
+                    33,
+                    40
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587817381217"
+}

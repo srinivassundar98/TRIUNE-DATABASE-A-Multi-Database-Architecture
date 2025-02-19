@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:47:21 +0000 2020",
+    "id": 1254059427805777921,
+    "id_str": "1254059427805777921",
+    "text": "@michdanninger @Alma_Zadic Vorsicht vor Corona-Paranoia: In Wirklichkeit ist da über Jahrzehnte schon einiges besse… https://t.co/Y6qfRblONX",
+    "display_text_range": [
+        27,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254056955095797760,
+    "in_reply_to_status_id_str": "1254056955095797760",
+    "in_reply_to_user_id": 724626638441459712,
+    "in_reply_to_user_id_str": "724626638441459712",
+    "in_reply_to_screen_name": "michdanninger",
+    "user": {
+        "id": 3784614321,
+        "id_str": "3784614321",
+        "name": "Helmut Klar",
+        "screen_name": "HelmutSiehtKlar",
+        "location": "Atlantis",
+        "url": null,
+        "description": "Kapitän unter billiger Bananenflagge. Eigentlich Weltraumpirat - Ist auf diesem Planeten zur Strafe ausgesetzt worden. Satireaccount, aber auch mal zynisch.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 297,
+        "friends_count": 692,
+        "listed_count": 3,
+        "favourites_count": 9655,
+        "statuses_count": 11381,
+        "created_at": "Sat Sep 26 18:39:44 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1087098582946271232/CnQLo9tK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087098582946271232/CnQLo9tK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3784614321/1548019758",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@michdanninger @Alma_Zadic Vorsicht vor Corona-Paranoia: In Wirklichkeit ist da über Jahrzehnte schon einiges besser geworden. Denken Sie mal an die 70er zurück.",
+        "display_text_range": [
+            27,
+            161
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "michdanninger",
+                    "name": "Michael Danninger @ home",
+                    "id": 724626638441459712,
+                    "id_str": "724626638441459712",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "Alma_Zadic",
+                    "name": "Alma Zadic",
+                    "id": 909751053754802181,
+                    "id_str": "909751053754802181",
+                    "indices": [
+                        15,
+                        26
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Y6qfRblONX",
+                "expanded_url": "https://twitter.com/i/web/status/1254059427805777921",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "michdanninger",
+                "name": "Michael Danninger @ home",
+                "id": 724626638441459712,
+                "id_str": "724626638441459712",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Alma_Zadic",
+                "name": "Alma Zadic",
+                "id": 909751053754802181,
+                "id_str": "909751053754802181",
+                "indices": [
+                    15,
+                    26
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587826041543"
+}

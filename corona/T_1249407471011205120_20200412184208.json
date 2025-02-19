@@ -1,0 +1,123 @@
+{
+    "created_at": "Sun Apr 12 18:42:08 +0000 2020",
+    "id": 1249407471011205120,
+    "id_str": "1249407471011205120",
+    "text": "Am Sonntagnachmittag soll die „Pelican of London“, ein Großsegler mit 27 Schülerinnen und Schülern an Bord, nach… https://t.co/uW9mXahqG2",
+    "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 77173017,
+        "id_str": "77173017",
+        "name": "Göttinger Tageblatt",
+        "screen_name": "goetageblatt",
+        "location": "Göttingen",
+        "url": "http://www.goettinger-tageblatt.de",
+        "description": "Das Göttinger Tageblatt ist die Tageszeitung der Universitätsstadt Göttingen und der angrenzenden Region.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7700,
+        "friends_count": 427,
+        "listed_count": 279,
+        "favourites_count": 648,
+        "statuses_count": 57888,
+        "created_at": "Fri Sep 25 09:09:19 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0062A7",
+        "profile_sidebar_border_color": "09304D",
+        "profile_sidebar_fill_color": "5486A9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574978715077083137/wSivJhc8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574978715077083137/wSivJhc8_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77173017/1425909030",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Am Sonntagnachmittag soll die „Pelican of London“, ein Großsegler mit 27 Schülerinnen und Schülern an Bord, nach #Cuxhaven zurückkehren. Daran sind in Zeiten der #Corona-Krise auch die Gesundheitsbehörden beteiligt. https://t.co/pOKqjBU3XE",
+        "display_text_range": [
+            0,
+            239
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Cuxhaven",
+                    "indices": [
+                        113,
+                        122
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        162,
+                        169
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/pOKqjBU3XE",
+                    "expanded_url": "https://www.goettinger-tageblatt.de/Nachrichten/Der-Norden/Corona-Krise-Schuelergruppe-kehrt-auf-Segler-nach-Deutschland-zurueck?utm_medium=Social&utm_source=Twitter#Echobox=1586688064",
+                    "display_url": "goettinger-tageblatt.de/Nachrichten/De…",
+                    "indices": [
+                        216,
+                        239
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/uW9mXahqG2",
+                "expanded_url": "https://twitter.com/i/web/status/1249407471011205120",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    114,
+                    137
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716928614"
+}

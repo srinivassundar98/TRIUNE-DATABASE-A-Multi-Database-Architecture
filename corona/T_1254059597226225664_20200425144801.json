@@ -1,0 +1,175 @@
+{
+    "created_at": "Sat Apr 25 14:48:01 +0000 2020",
+    "id": 1254059597226225664,
+    "id_str": "1254059597226225664",
+    "text": "@Lerberlisandro @AbadColorado Apenas ha trinado sobre su investigación por los entes de control y el reporte del co… https://t.co/XJZUcXc2Ks",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253974531745685504,
+    "in_reply_to_status_id_str": "1253974531745685504",
+    "in_reply_to_user_id": 227409759,
+    "in_reply_to_user_id_str": "227409759",
+    "in_reply_to_screen_name": "Lerberlisandro",
+    "user": {
+        "id": 139290924,
+        "id_str": "139290924",
+        "name": "Cristian Rojas",
+        "screen_name": "Cris_Reds",
+        "location": "Bogotá, Colombia",
+        "url": null,
+        "description": "Geógrafo - Géographe\nUniversal Nacional de Colombia &\nUniversité de Paris 7 Diderot\n🇨🇴😜🇫🇷",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 216,
+        "friends_count": 825,
+        "listed_count": 7,
+        "favourites_count": 803,
+        "statuses_count": 1169,
+        "created_at": "Sun May 02 04:27:37 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239599076632641538/lG2MH92F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239599076632641538/lG2MH92F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/139290924/1584378564",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0161be1b3f98d6c3",
+        "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+        "place_type": "city",
+        "name": "Bogotá, D.C.",
+        "full_name": "Bogotá, D.C., Colombia",
+        "country_code": "CO",
+        "country": "Colombia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -74.483289,
+                        3.717432
+                    ],
+                    [
+                        -74.483289,
+                        4.807135
+                    ],
+                    [
+                        -74.004053,
+                        4.807135
+                    ],
+                    [
+                        -74.004053,
+                        3.717432
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Lerberlisandro @AbadColorado Apenas ha trinado sobre su investigación por los entes de control y el reporte del corona virus. Esperemos a ver.",
+        "display_text_range": [
+            30,
+            143
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Lerberlisandro",
+                    "name": "Lerber Dimas Vásquez",
+                    "id": 227409759,
+                    "id_str": "227409759",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "AbadColorado",
+                    "name": "JesusAbadColorado",
+                    "id": 990316385925550081,
+                    "id_str": "990316385925550081",
+                    "indices": [
+                        16,
+                        29
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/XJZUcXc2Ks",
+                "expanded_url": "https://twitter.com/i/web/status/1254059597226225664",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Lerberlisandro",
+                "name": "Lerber Dimas Vásquez",
+                "id": 227409759,
+                "id_str": "227409759",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "AbadColorado",
+                "name": "JesusAbadColorado",
+                "id": 990316385925550081,
+                "id_str": "990316385925550081",
+                "indices": [
+                    16,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587826081936"
+}

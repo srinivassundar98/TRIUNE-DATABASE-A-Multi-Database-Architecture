@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun Apr 12 18:32:20 +0000 2020",
+    "id": 1249405004898807811,
+    "id_str": "1249405004898807811",
+    "text": "@Zezomuhammad @ashrafalarab Corona party",
+    "display_text_range": [
+        28,
+        40
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249402229314007051,
+    "in_reply_to_status_id_str": "1249402229314007051",
+    "in_reply_to_user_id": 211397878,
+    "in_reply_to_user_id_str": "211397878",
+    "in_reply_to_screen_name": "Zezomuhammad",
+    "user": {
+        "id": 260001659,
+        "id_str": "260001659",
+        "name": "Muhammad",
+        "screen_name": "MuhammadKhalil_",
+        "location": "Bonn - Germany",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 44,
+        "friends_count": 426,
+        "listed_count": 0,
+        "favourites_count": 499,
+        "statuses_count": 1986,
+        "created_at": "Thu Mar 03 00:59:36 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "009AB9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231120771617107969/C_cg38KE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231120771617107969/C_cg38KE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/260001659/1353883486",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Zezomuhammad",
+                "name": "لو بطلنا نحلم نموت",
+                "id": 211397878,
+                "id_str": "211397878",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "ashrafalarab",
+                "name": "Ashraf Mansour",
+                "id": 96297096,
+                "id_str": "96297096",
+                "indices": [
+                    14,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716340647"
+}

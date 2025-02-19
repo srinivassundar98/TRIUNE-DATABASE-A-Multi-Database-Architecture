@@ -1,0 +1,237 @@
+{
+    "created_at": "Sun Apr 12 18:44:54 +0000 2020",
+    "id": 1249408167315988480,
+    "id_str": "1249408167315988480",
+    "text": "O zaman dans...\nHer bıjî #Corona 😂\n#SüleymanSoylu  https://t.co/C1k8oNBbYS",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 791593075,
+        "id_str": "791593075",
+        "name": "Fatoş Çetinkaya",
+        "screen_name": "FatossCetinkaya",
+        "location": "Québec, Canada 🇨🇦",
+        "url": "https://m.facebook.com/HDPFatosCetinkaya",
+        "description": "Dersim-Dilok                                                              HDP",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1245,
+        "friends_count": 764,
+        "listed_count": 3,
+        "favourites_count": 6454,
+        "statuses_count": 7055,
+        "created_at": "Thu Aug 30 13:22:09 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1171496370164813824/hepFvZ2S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171496370164813824/hepFvZ2S_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/791593075/1478280694",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "36775d842cbec509",
+        "url": "https://api.twitter.com/1.1/geo/id/36775d842cbec509.json",
+        "place_type": "city",
+        "name": "Montréal",
+        "full_name": "Montréal, Québec",
+        "country_code": "CA",
+        "country": "Canada",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -73.972965,
+                        45.410095
+                    ],
+                    [
+                        -73.972965,
+                        45.705566
+                    ],
+                    [
+                        -73.473085,
+                        45.705566
+                    ],
+                    [
+                        -73.473085,
+                        45.410095
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    25,
+                    32
+                ]
+            },
+            {
+                "text": "SüleymanSoylu",
+                "indices": [
+                    35,
+                    49
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249406378592079872,
+                "id_str": "1249406378592079872",
+                "indices": [
+                    51,
+                    74
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249406378592079872/pu/img/7C_HkGrtUUMW2DgQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249406378592079872/pu/img/7C_HkGrtUUMW2DgQ.jpg",
+                "url": "https://t.co/C1k8oNBbYS",
+                "display_url": "pic.twitter.com/C1k8oNBbYS",
+                "expanded_url": "https://twitter.com/iskender_sezek/status/1249406472062148610/video/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 400,
+                        "h": 300,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 300,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 300,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1249406472062148610,
+                "source_status_id_str": "1249406472062148610",
+                "source_user_id": 2185638965,
+                "source_user_id_str": "2185638965"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249406378592079872,
+                "id_str": "1249406378592079872",
+                "indices": [
+                    51,
+                    74
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249406378592079872/pu/img/7C_HkGrtUUMW2DgQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249406378592079872/pu/img/7C_HkGrtUUMW2DgQ.jpg",
+                "url": "https://t.co/C1k8oNBbYS",
+                "display_url": "pic.twitter.com/C1k8oNBbYS",
+                "expanded_url": "https://twitter.com/iskender_sezek/status/1249406472062148610/video/1",
+                "type": "video",
+                "video_info": {
+                    "aspect_ratio": [
+                        4,
+                        3
+                    ],
+                    "duration_millis": 30367,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1249406378592079872/pu/vid/360x270/x5ZlsumluFH71IiH.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1249406378592079872/pu/vid/400x300/Ou9DlIlcEWPk1fzH.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1249406378592079872/pu/pl/wPHr68GkF8IKk8Wh.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "small": {
+                        "w": 400,
+                        "h": 300,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 400,
+                        "h": 300,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 400,
+                        "h": 300,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1249406472062148610,
+                "source_status_id_str": "1249406472062148610",
+                "source_user_id": 2185638965,
+                "source_user_id_str": "2185638965"
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586717094626"
+}

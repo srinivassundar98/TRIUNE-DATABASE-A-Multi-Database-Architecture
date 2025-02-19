@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 12:31:03 +0000 2020",
+    "id": 1254025126418485249,
+    "id_str": "1254025126418485249",
+    "text": "@madeiradez E vá pro olho da rua!\n\nMas acho melhor ficar em casa por causa do corona. Melhor nem colocar a mão no chão. E",
+    "display_text_range": [
+        12,
+        121
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254004675600420864,
+    "in_reply_to_status_id_str": "1254004675600420864",
+    "in_reply_to_user_id": 243009503,
+    "in_reply_to_user_id_str": "243009503",
+    "in_reply_to_screen_name": "madeiradez",
+    "user": {
+        "id": 109085659,
+        "id_str": "109085659",
+        "name": "Carol",
+        "screen_name": "Carol_Fugolari",
+        "location": "Rio de Janeiro",
+        "url": null,
+        "description": "Dona de um sorriso capaz de mover o mundo! É nisso que eu acredito! snapchat fugolari",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 760,
+        "friends_count": 1635,
+        "listed_count": 22,
+        "favourites_count": 42640,
+        "statuses_count": 68300,
+        "created_at": "Wed Jan 27 23:01:39 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227181392263553029/60W24Fgz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227181392263553029/60W24Fgz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109085659/1395285511",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "45e3bce63f2beeee",
+        "url": "https://api.twitter.com/1.1/geo/id/45e3bce63f2beeee.json",
+        "place_type": "city",
+        "name": "Manaus",
+        "full_name": "Manaus, Brazil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -60.802071,
+                        -3.221228
+                    ],
+                    [
+                        -60.802071,
+                        -1.923622
+                    ],
+                    [
+                        -59.15858,
+                        -1.923622
+                    ],
+                    [
+                        -59.15858,
+                        -3.221228
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "madeiradez",
+                "name": "Doctor Wood",
+                "id": 243009503,
+                "id_str": "243009503",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587817863455"
+}

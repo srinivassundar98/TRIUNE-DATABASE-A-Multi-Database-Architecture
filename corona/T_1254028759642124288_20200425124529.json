@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 12:45:29 +0000 2020",
+    "id": 1254028759642124288,
+    "id_str": "1254028759642124288",
+    "text": "Geweldige actie van Feyenoord! Respect \nFeyenoord heeft unaniem besloten om alle gewonnen trofeeën om te laten smel… https://t.co/cqhWKAfEVH",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1183086754104070144,
+        "id_str": "1183086754104070144",
+        "name": "Ajaxforever ❌❌❌🇳🇱🇮🇱🇳🇱",
+        "screen_name": "louishissink1",
+        "location": "Purmerend, Nederland",
+        "url": null,
+        "description": "Fotograferen is een hobby voor mij | Ajacied in hart en nieren | Libertarisch Partij | FC Barcelona | Manchester United | FvD | Belediging = blok | 🇳🇱🇮🇱🇳🇱",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 77,
+        "friends_count": 137,
+        "listed_count": 0,
+        "favourites_count": 526,
+        "statuses_count": 1727,
+        "created_at": "Sat Oct 12 18:27:33 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1218318834584752128/EBtx601J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218318834584752128/EBtx601J_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1183086754104070144/1570996637",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "ed7ecd6a755211bb",
+        "url": "https://api.twitter.com/1.1/geo/id/ed7ecd6a755211bb.json",
+        "place_type": "city",
+        "name": "Purmerend",
+        "full_name": "Purmerend, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        4.920435,
+                        52.470353
+                    ],
+                    [
+                        4.920435,
+                        52.528852
+                    ],
+                    [
+                        5.024581,
+                        52.528852
+                    ],
+                    [
+                        5.024581,
+                        52.470353
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Geweldige actie van Feyenoord! Respect \nFeyenoord heeft unaniem besloten om alle gewonnen trofeeën om te laten smelten. Dit om de noodzakelijke medische apparatuur tegen het Corona Virus te laten maken. Het Erasmus MC heeft zich bij Feyenoord bedankt voor de pincet\nKlasse actie!",
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/cqhWKAfEVH",
+                "expanded_url": "https://twitter.com/i/web/status/1254028759642124288",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587818729683"
+}

@@ -1,0 +1,209 @@
+{
+    "created_at": "Sat Apr 25 12:31:02 +0000 2020",
+    "id": 1254025121192267776,
+    "id_str": "1254025121192267776",
+    "text": "Last updated: 2020-04-25 12:05:01+00:00GMT\n  Coronavirus [COVID-19]\n    Cases: 2847238\n    Deaths: 197979\n\n#corona… https://t.co/G8fNy3wOvM",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://qiita.com/momohana\" rel=\"nofollow\">rate_twitte</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 20908378,
+        "id_str": "20908378",
+        "name": "Suke",
+        "screen_name": "sukemomo",
+        "location": "Japan",
+        "url": null,
+        "description": "👨🏽‍💻 System Engineer.\n📈 Tweet bot is graphing data scraped with python.\nRegarding coronaviruses, we may tweet individually...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 69,
+        "friends_count": 66,
+        "listed_count": 0,
+        "favourites_count": 28,
+        "statuses_count": 28978,
+        "created_at": "Sun Feb 15 13:02:09 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/620472384/4220760995_3422cd3841_o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/620472384/4220760995_3422cd3841_o_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Last updated: 2020-04-25 12:05:01+00:00GMT\n  Coronavirus [COVID-19]\n    Cases: 2847238\n    Deaths: 197979\n\n#corona #coronavirus #COVID19 https://t.co/bbHZJtymcj",
+        "display_text_range": [
+            0,
+            136
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "corona",
+                    "indices": [
+                        107,
+                        114
+                    ]
+                },
+                {
+                    "text": "coronavirus",
+                    "indices": [
+                        115,
+                        127
+                    ]
+                },
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        128,
+                        136
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254025119409729537,
+                    "id_str": "1254025119409729537",
+                    "indices": [
+                        137,
+                        160
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcxM7XVcAEywDC.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcxM7XVcAEywDC.png",
+                    "url": "https://t.co/bbHZJtymcj",
+                    "display_url": "pic.twitter.com/bbHZJtymcj",
+                    "expanded_url": "https://twitter.com/sukemomo/status/1254025121192267776/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 468,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1100,
+                            "h": 1600,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 825,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254025119409729537,
+                    "id_str": "1254025119409729537",
+                    "indices": [
+                        137,
+                        160
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcxM7XVcAEywDC.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcxM7XVcAEywDC.png",
+                    "url": "https://t.co/bbHZJtymcj",
+                    "display_url": "pic.twitter.com/bbHZJtymcj",
+                    "expanded_url": "https://twitter.com/sukemomo/status/1254025121192267776/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 468,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1100,
+                            "h": 1600,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 825,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    107,
+                    114
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/G8fNy3wOvM",
+                "expanded_url": "https://twitter.com/i/web/status/1254025121192267776",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817862209"
+}

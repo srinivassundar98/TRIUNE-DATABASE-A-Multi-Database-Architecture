@@ -1,0 +1,113 @@
+{
+    "created_at": "Sat Apr 25 14:20:09 +0000 2020",
+    "id": 1254052583943143424,
+    "id_str": "1254052583943143424",
+    "text": "@folha @monicabergamo #FORADORIA  CHEGA DE ROUBALHEIRA.... MUITO CONVENIENTE PRA ESTES POLITICOS A CRISE DO CORONA.... #FechadoComBolsonaro",
+    "display_text_range": [
+        22,
+        139
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254051285499645958,
+    "in_reply_to_status_id_str": "1254051285499645958",
+    "in_reply_to_user_id": 14594813,
+    "in_reply_to_user_id_str": "14594813",
+    "in_reply_to_screen_name": "folha",
+    "user": {
+        "id": 413046684,
+        "id_str": "413046684",
+        "name": "Natanael Rodrigues",
+        "screen_name": "natanaelrs1",
+        "location": "São Paulo, SP",
+        "url": null,
+        "description": "Empreendedor, Otimista e Compromissado com tudo que se propõe a fazer. \r\nEspecialista em Engenharia de Software, Coach and Mentoring para TI e Agile Teams.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 12,
+        "friends_count": 138,
+        "listed_count": 0,
+        "favourites_count": 15,
+        "statuses_count": 70,
+        "created_at": "Tue Nov 15 12:29:56 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1640284202/nata01_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1640284202/nata01_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FORADORIA",
+                "indices": [
+                    22,
+                    32
+                ]
+            },
+            {
+                "text": "FechadoComBolsonaro",
+                "indices": [
+                    119,
+                    139
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "folha",
+                "name": "Folha de S.Paulo",
+                "id": 14594813,
+                "id_str": "14594813",
+                "indices": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "screen_name": "monicabergamo",
+                "name": "Mônica Bergamo",
+                "id": 58951368,
+                "id_str": "58951368",
+                "indices": [
+                    7,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587824409839"
+}

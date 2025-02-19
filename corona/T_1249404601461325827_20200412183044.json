@@ -1,0 +1,133 @@
+{
+    "created_at": "Sun Apr 12 18:30:44 +0000 2020",
+    "id": 1249404601461325827,
+    "id_str": "1249404601461325827",
+    "text": "@suleymansoylu Corona duyduğum da by kadar tedirgin olmadı\nVar mı öyle yarı yolda bırakıp gitmek sayın bakanım mill… https://t.co/yWkc8DyAfF",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249403093151887362,
+    "in_reply_to_status_id_str": "1249403093151887362",
+    "in_reply_to_user_id": 18971997,
+    "in_reply_to_user_id_str": "18971997",
+    "in_reply_to_screen_name": "suleymansoylu",
+    "user": {
+        "id": 3400503717,
+        "id_str": "3400503717",
+        "name": "Galatasaraylı⚡️",
+        "screen_name": "GsMebusan",
+        "location": "Hayallerinin yıkıldığı yerde",
+        "url": "http://galatasaray.org",
+        "description": "Gizimiz yok isteyene açığız /Galatasaraylı /Devleti kıymetli 👀/ RTE/Fatih Terim /ÜnalAysal/Din Dil Irk ayrımı yapan kalabalık yapmasın/",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7285,
+        "friends_count": 2994,
+        "listed_count": 26,
+        "favourites_count": 72638,
+        "statuses_count": 125870,
+        "created_at": "Sun Aug 02 21:10:13 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243991586356289536/39vFEqj-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243991586356289536/39vFEqj-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3400503717/1585251562",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@suleymansoylu Corona duyduğum da by kadar tedirgin olmadı\nVar mı öyle yarı yolda bırakıp gitmek sayın bakanım millet bunu kabul etmiyor \n\nSayın Cumhurbaşkanım buna asla müsaade etmeyin\n@RTErdogan",
+        "display_text_range": [
+            15,
+            196
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "suleymansoylu",
+                    "name": "Süleyman Soylu",
+                    "id": 18971997,
+                    "id_str": "18971997",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "RTErdogan",
+                    "name": "Recep Tayyip Erdoğan",
+                    "id": 68034431,
+                    "id_str": "68034431",
+                    "indices": [
+                        186,
+                        196
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/yWkc8DyAfF",
+                "expanded_url": "https://twitter.com/i/web/status/1249404601461325827",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "suleymansoylu",
+                "name": "Süleyman Soylu",
+                "id": 18971997,
+                "id_str": "18971997",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586716244460"
+}

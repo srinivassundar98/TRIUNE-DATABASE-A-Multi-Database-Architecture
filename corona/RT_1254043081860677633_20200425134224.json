@@ -1,0 +1,640 @@
+{
+    "created_at": "Sat Apr 25 13:42:24 +0000 2020",
+    "id": 1254043081860677633,
+    "id_str": "1254043081860677633",
+    "text": "RT @umwalimu: Jumla ya watu waliopata maambukizi ya  #COVID19 nchini sasa ni 284 kutoka 254 tuliowatolea Taarifa tar 20 April 2020. Mchanga…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1251517651815464960,
+        "id_str": "1251517651815464960",
+        "name": "Berckan \" Berca",
+        "screen_name": "BerckanB",
+        "location": null,
+        "url": null,
+        "description": "my reactions depend on my success and failers **",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 8,
+        "listed_count": 0,
+        "favourites_count": 12,
+        "statuses_count": 12,
+        "created_at": "Sat Apr 18 14:27:50 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251518273734283269/N6x8UjpU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251518273734283269/N6x8UjpU_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Apr 22 10:38:38 +0000 2020",
+        "id": 1252909672094466049,
+        "id_str": "1252909672094466049",
+        "text": "Jumla ya watu waliopata maambukizi ya  #COVID19 nchini sasa ni 284 kutoka 254 tuliowatolea Taarifa tar 20 April 202… https://t.co/8nRYWhpnM6",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 525260096,
+            "id_str": "525260096",
+            "name": "Ummy Mwalimu, MP",
+            "screen_name": "umwalimu",
+            "location": "Dar Es Salaam - Tanzania",
+            "url": "http://www.moh.go.tz",
+            "description": "Minister for Health, Community Devl., Gender, Elderly & Children 2015 to date/ Member of Parliament, Women Seats (CCM) Tanga region 2010 - 2015 - 2020",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 245066,
+            "friends_count": 533,
+            "listed_count": 60,
+            "favourites_count": 11663,
+            "statuses_count": 3443,
+            "created_at": "Thu Mar 15 10:55:12 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/944155827933458432/kJL91VJ0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/944155827933458432/kJL91VJ0_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/525260096/1508817870",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "00d9827647c0ff5a",
+            "url": "https://api.twitter.com/1.1/geo/id/00d9827647c0ff5a.json",
+            "place_type": "admin",
+            "name": "Dar es Salaam",
+            "full_name": "Dar es Salaam, Tanzania",
+            "country_code": "TZ",
+            "country": "Tanzania",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            39.008111,
+                            -7.190649
+                        ],
+                        [
+                            39.008111,
+                            -6.566974
+                        ],
+                        [
+                            39.55667,
+                            -6.566974
+                        ],
+                        [
+                            39.55667,
+                            -7.190649
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1252869491328839680,
+        "quoted_status_id_str": "1252869491328839680",
+        "quoted_status": {
+            "created_at": "Wed Apr 22 07:58:58 +0000 2020",
+            "id": 1252869491328839680,
+            "id_str": "1252869491328839680",
+            "text": "\"Jumla ya wagonjwa 284 wamethibitika kuwa na maambukizi ya virusi vya #corona kati ya hao wagonjwa 256 wanaendelea… https://t.co/QUq0lfQbjf",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 47989062,
+                "id_str": "47989062",
+                "name": "Haki Ngowi",
+                "screen_name": "Hakingowi",
+                "location": "Tanzania🇹🇿",
+                "url": null,
+                "description": "🌍 Official Twitter Page Of Haki Ngowi ®\n\n💻📱\n\n🐦Tweets From Haki Ngowi are signed hn+",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 281182,
+                "friends_count": 10358,
+                "listed_count": 95,
+                "favourites_count": 43586,
+                "statuses_count": 100883,
+                "created_at": "Wed Jun 17 15:06:49 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "ACDED6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_link_color": "038543",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1251476919847190533/LSgcVDnX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251476919847190533/LSgcVDnX_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/47989062/1573565675",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "\"Jumla ya wagonjwa 284 wamethibitika kuwa na maambukizi ya virusi vya #corona kati ya hao wagonjwa 256 wanaendelea vizuri kiafya, wagonjwa 7 wako kwenye uangalizi wa karibu kadhalika wagonjwa 11 walishapona kabisa\" Mhe.Kassim Majaliwa  - Waziri Mkuu wa Tanzania. https://t.co/4cRf9dlmGH",
+                "display_text_range": [
+                    0,
+                    262
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "corona",
+                            "indices": [
+                                70,
+                                77
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1252869480230739969,
+                            "id_str": "1252869480230739969",
+                            "indices": [
+                                263,
+                                286
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWMWJ38U4AEUVrW.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWMWJ38U4AEUVrW.jpg",
+                            "url": "https://t.co/4cRf9dlmGH",
+                            "display_url": "pic.twitter.com/4cRf9dlmGH",
+                            "expanded_url": "https://twitter.com/Hakingowi/status/1252869491328839680/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 690,
+                                    "h": 437,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 690,
+                                    "h": 437,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 431,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1252869480230739969,
+                            "id_str": "1252869480230739969",
+                            "indices": [
+                                263,
+                                286
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWMWJ38U4AEUVrW.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWMWJ38U4AEUVrW.jpg",
+                            "url": "https://t.co/4cRf9dlmGH",
+                            "display_url": "pic.twitter.com/4cRf9dlmGH",
+                            "expanded_url": "https://twitter.com/Hakingowi/status/1252869491328839680/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 690,
+                                    "h": 437,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 690,
+                                    "h": 437,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 431,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 3,
+            "reply_count": 15,
+            "retweet_count": 36,
+            "favorite_count": 258,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "corona",
+                        "indices": [
+                            70,
+                            77
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/QUq0lfQbjf",
+                        "expanded_url": "https://twitter.com/i/web/status/1252869491328839680",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "in"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/KfoXg7jKUh",
+            "expanded": "https://twitter.com/hakingowi/status/1252869491328839680",
+            "display": "twitter.com/hakingowi/stat…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Jumla ya watu waliopata maambukizi ya  #COVID19 nchini sasa ni 284 kutoka 254 tuliowatolea Taarifa tar 20 April 2020. Mchanganuo wa wagonjwa wapya 30 ni kama ifuatavyo: Dar es salaam (10), Zanzibar (9), Mwanza (4), Pwani (2), Kagera (1), Dodoma (2), Manyara (1) na Morogoro (1)",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "COVID19",
+                        "indices": [
+                            39,
+                            47
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 23,
+        "reply_count": 142,
+        "retweet_count": 149,
+        "favorite_count": 919,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        39,
+                        47
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/8nRYWhpnM6",
+                    "expanded_url": "https://twitter.com/i/web/status/1252909672094466049",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "in"
+    },
+    "quoted_status_id": 1252869491328839680,
+    "quoted_status_id_str": "1252869491328839680",
+    "quoted_status": {
+        "created_at": "Wed Apr 22 07:58:58 +0000 2020",
+        "id": 1252869491328839680,
+        "id_str": "1252869491328839680",
+        "text": "\"Jumla ya wagonjwa 284 wamethibitika kuwa na maambukizi ya virusi vya #corona kati ya hao wagonjwa 256 wanaendelea… https://t.co/QUq0lfQbjf",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 47989062,
+            "id_str": "47989062",
+            "name": "Haki Ngowi",
+            "screen_name": "Hakingowi",
+            "location": "Tanzania🇹🇿",
+            "url": null,
+            "description": "🌍 Official Twitter Page Of Haki Ngowi ®\n\n💻📱\n\n🐦Tweets From Haki Ngowi are signed hn+",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 281182,
+            "friends_count": 10358,
+            "listed_count": 95,
+            "favourites_count": 43586,
+            "statuses_count": 100883,
+            "created_at": "Wed Jun 17 15:06:49 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251476919847190533/LSgcVDnX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251476919847190533/LSgcVDnX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/47989062/1573565675",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "\"Jumla ya wagonjwa 284 wamethibitika kuwa na maambukizi ya virusi vya #corona kati ya hao wagonjwa 256 wanaendelea vizuri kiafya, wagonjwa 7 wako kwenye uangalizi wa karibu kadhalika wagonjwa 11 walishapona kabisa\" Mhe.Kassim Majaliwa  - Waziri Mkuu wa Tanzania. https://t.co/4cRf9dlmGH",
+            "display_text_range": [
+                0,
+                262
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "corona",
+                        "indices": [
+                            70,
+                            77
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1252869480230739969,
+                        "id_str": "1252869480230739969",
+                        "indices": [
+                            263,
+                            286
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWMWJ38U4AEUVrW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWMWJ38U4AEUVrW.jpg",
+                        "url": "https://t.co/4cRf9dlmGH",
+                        "display_url": "pic.twitter.com/4cRf9dlmGH",
+                        "expanded_url": "https://twitter.com/Hakingowi/status/1252869491328839680/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 690,
+                                "h": 437,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 690,
+                                "h": 437,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 431,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1252869480230739969,
+                        "id_str": "1252869480230739969",
+                        "indices": [
+                            263,
+                            286
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWMWJ38U4AEUVrW.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWMWJ38U4AEUVrW.jpg",
+                        "url": "https://t.co/4cRf9dlmGH",
+                        "display_url": "pic.twitter.com/4cRf9dlmGH",
+                        "expanded_url": "https://twitter.com/Hakingowi/status/1252869491328839680/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 690,
+                                "h": 437,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 690,
+                                "h": 437,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 431,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 3,
+        "reply_count": 15,
+        "retweet_count": 36,
+        "favorite_count": 258,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "corona",
+                    "indices": [
+                        70,
+                        77
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/QUq0lfQbjf",
+                    "expanded_url": "https://twitter.com/i/web/status/1252869491328839680",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "in"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/KfoXg7jKUh",
+        "expanded": "https://twitter.com/hakingowi/status/1252869491328839680",
+        "display": "twitter.com/hakingowi/stat…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID19",
+                "indices": [
+                    53,
+                    61
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "umwalimu",
+                "name": "Ummy Mwalimu, MP",
+                "id": 525260096,
+                "id_str": "525260096",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822144366"
+}

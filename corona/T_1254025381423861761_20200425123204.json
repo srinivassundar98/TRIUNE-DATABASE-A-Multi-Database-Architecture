@@ -1,0 +1,93 @@
+{
+    "created_at": "Sat Apr 25 12:32:04 +0000 2020",
+    "id": 1254025381423861761,
+    "id_str": "1254025381423861761",
+    "text": "नीमच में कुछ पत्रकारों में कोरोना वायरस की मौजूदगी, जांच शुरू https://t.co/Lyj8VuiQZr https://t.co/dPLiveZVfb",
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1248161093836345347,
+        "id_str": "1248161093836345347",
+        "name": "K Khabar",
+        "screen_name": "KKhabar1",
+        "location": "Neemuch, Madhya Pradesh.",
+        "url": "http://www.kkhabar.com",
+        "description": "http://www.kkhabar.com",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 21,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 259,
+        "created_at": "Thu Apr 09 08:09:48 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248161225248108544/_t7s7pvd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248161225248108544/_t7s7pvd_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Lyj8VuiQZr",
+                "expanded_url": "http://youtube.com/watch?v=1zgfQUD_kPk&feature=youtu.be",
+                "display_url": "youtube.com/watch?v=1zgfQU…",
+                "indices": [
+                    62,
+                    85
+                ]
+            },
+            {
+                "url": "https://t.co/dPLiveZVfb",
+                "expanded_url": "http://kkhabar.com/neemuch-district-local-news-in-hindi/corona-in-journalists-neemuch/",
+                "display_url": "kkhabar.com/neemuch-distri…",
+                "indices": [
+                    86,
+                    109
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587817924253"
+}

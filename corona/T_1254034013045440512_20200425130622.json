@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:06:22 +0000 2020",
+    "id": 1254034013045440512,
+    "id_str": "1254034013045440512",
+    "text": "@zalyanuar @HeyBudie Paman gembul butuh dana\nGamau ngumpul takut corona",
+    "display_text_range": [
+        21,
+        71
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254033102751641600,
+    "in_reply_to_status_id_str": "1254033102751641600",
+    "in_reply_to_user_id": 1214909141317115905,
+    "in_reply_to_user_id_str": "1214909141317115905",
+    "in_reply_to_screen_name": "zalyanuar",
+    "user": {
+        "id": 1170184657834373121,
+        "id_str": "1170184657834373121",
+        "name": "Zayn.sadboy",
+        "screen_name": "itszayn_malik",
+        "location": "Kalimantan Selatan, Indonesia",
+        "url": null,
+        "description": "Feeling stressed\nNever blessed.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 76,
+        "friends_count": 88,
+        "listed_count": 0,
+        "favourites_count": 565,
+        "statuses_count": 878,
+        "created_at": "Sat Sep 07 03:59:09 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253359496694390784/THPiC_EQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253359496694390784/THPiC_EQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170184657834373121/1587659181",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "zalyanuar",
+                "name": "Rizal",
+                "id": 1214909141317115905,
+                "id_str": "1214909141317115905",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "HeyBudie",
+                "name": "Budi Prasetiyo.",
+                "id": 1138999651,
+                "id_str": "1138999651",
+                "indices": [
+                    11,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819982192"
+}

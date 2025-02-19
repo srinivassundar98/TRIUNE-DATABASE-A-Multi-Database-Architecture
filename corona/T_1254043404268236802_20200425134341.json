@@ -1,0 +1,96 @@
+{
+    "created_at": "Sat Apr 25 13:43:41 +0000 2020",
+    "id": 1254043404268236802,
+    "id_str": "1254043404268236802",
+    "text": "@AdityaRajKaul Inka #Corona kya bigaad sakta hai🤔🤔🙏\n\nSaala confuse ho jaayega kisko infact karna hai aur kaun ho chukka hai 😂😂😂",
+    "display_text_range": [
+        15,
+        127
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254002130932899845,
+    "in_reply_to_status_id_str": "1254002130932899845",
+    "in_reply_to_user_id": 44425241,
+    "in_reply_to_user_id_str": "44425241",
+    "in_reply_to_screen_name": "AdityaRajKaul",
+    "user": {
+        "id": 1235858140765155330,
+        "id_str": "1235858140765155330",
+        "name": "सचिन",
+        "screen_name": "SachinLkg",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 12,
+        "listed_count": 0,
+        "favourites_count": 47,
+        "statuses_count": 103,
+        "created_at": "Fri Mar 06 09:22:52 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236306121398210561/fS6HgKYH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236306121398210561/fS6HgKYH_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    20,
+                    27
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AdityaRajKaul",
+                "name": "Aditya Raj Kaul",
+                "id": 44425241,
+                "id_str": "44425241",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587822221234"
+}

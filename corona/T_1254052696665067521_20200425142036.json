@@ -1,0 +1,152 @@
+{
+    "created_at": "Sat Apr 25 14:20:36 +0000 2020",
+    "id": 1254052696665067521,
+    "id_str": "1254052696665067521",
+    "text": "Ahhhhhhh tem um pouquinho de abraço sim! Como não? Dupla imbatível na quarentena contra o Corona Vírus 🥰 em Varginh… https://t.co/rawUvjmVKQ",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1199659209937293312,
+        "id_str": "1199659209937293312",
+        "name": "Renata Dias",
+        "screen_name": "eu_renatadias",
+        "location": null,
+        "url": null,
+        "description": "Determinada a pregar a palavra de Deus!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 45,
+        "listed_count": 0,
+        "favourites_count": 43,
+        "statuses_count": 144,
+        "created_at": "Wed Nov 27 12:01:28 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199659600133406720/m2EWNO2N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199659600133406720/m2EWNO2N_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199659209937293312/1574861627",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            -21.55,
+            -45.4333
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -45.4333,
+            -21.55
+        ]
+    },
+    "place": {
+        "id": "d4ad950a190cbded",
+        "url": "https://api.twitter.com/1.1/geo/id/d4ad950a190cbded.json",
+        "place_type": "city",
+        "name": "Varginha",
+        "full_name": "Varginha, Brasil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -45.549321,
+                        -21.684773
+                    ],
+                    [
+                        -45.549321,
+                        -21.459777
+                    ],
+                    [
+                        -45.252212,
+                        -21.459777
+                    ],
+                    [
+                        -45.252212,
+                        -21.684773
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Ahhhhhhh tem um pouquinho de abraço sim! Como não? Dupla imbatível na quarentena contra o Corona Vírus 🥰 em Varginha, Brazil https://t.co/pmHUM1jwpL",
+        "display_text_range": [
+            0,
+            148
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pmHUM1jwpL",
+                    "expanded_url": "https://www.instagram.com/p/B_aDAHzAxLD/?igshid=bi4jsatwodig",
+                    "display_url": "instagram.com/p/B_aDAHzAxLD/…",
+                    "indices": [
+                        125,
+                        148
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/rawUvjmVKQ",
+                "expanded_url": "https://twitter.com/i/web/status/1254052696665067521",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587824436714"
+}

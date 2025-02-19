@@ -1,0 +1,441 @@
+{
+    "created_at": "Sat Apr 25 12:59:32 +0000 2020",
+    "id": 1254032295192940546,
+    "id_str": "1254032295192940546",
+    "text": "RT @RaderSerge: La Lombardie plus touchée par corona à cause campagne vaccination de masse contre méningite ( pour 6 cas). Le vaccin anti-g…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 362692766,
+        "id_str": "362692766",
+        "name": "johnjohn",
+        "screen_name": "JeepeemJohnjohn",
+        "location": null,
+        "url": null,
+        "description": "WWG1WGA Addict",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1230,
+        "friends_count": 1771,
+        "listed_count": 9,
+        "favourites_count": 27013,
+        "statuses_count": 34433,
+        "created_at": "Fri Aug 26 20:41:33 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2672663909/64f215772d348e026b6f56271ae47673_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2672663909/64f215772d348e026b6f56271ae47673_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/362692766/1549649379",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 11:44:36 +0000 2020",
+        "id": 1254013435811188737,
+        "id_str": "1254013435811188737",
+        "text": "La Lombardie plus touchée par corona à cause campagne vaccination de masse contre méningite ( pour 6 cas). Le vacci… https://t.co/hkx5xdNbJc",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 905769986668548097,
+            "id_str": "905769986668548097",
+            "name": "Serge Rader",
+            "screen_name": "RaderSerge",
+            "location": "Paris",
+            "url": null,
+            "description": "Livre \"Vaccins - Oui ou Non ?\"\n#Santé #vaccins #vaccination #lobby #obligationvaccinale #libertévaccinale #pharmacovigilance https://lc.cx/prGn",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1219,
+            "friends_count": 248,
+            "listed_count": 9,
+            "favourites_count": 878,
+            "statuses_count": 11371,
+            "created_at": "Thu Sep 07 12:29:28 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/906129855686828032/Awa2p8df_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/906129855686828032/Awa2p8df_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/905769986668548097/1504946367",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "09f6a7707f18e0b1",
+            "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json",
+            "place_type": "city",
+            "name": "Paris",
+            "full_name": "Paris, France",
+            "country_code": "FR",
+            "country": "France",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            2.224101,
+                            48.815521
+                        ],
+                        [
+                            2.224101,
+                            48.902146
+                        ],
+                        [
+                            2.469905,
+                            48.902146
+                        ],
+                        [
+                            2.469905,
+                            48.815521
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1254011816604241927,
+        "quoted_status_id_str": "1254011816604241927",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 11:38:10 +0000 2020",
+            "id": 1254011816604241927,
+            "id_str": "1254011816604241927",
+            "text": "Les vaccins contre les grippes saisonnières ne fonctionnent pas à 100%. Loin de là. Comment envisager qu'un vaccin… https://t.co/wZjsBW0kON",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 89431845,
+                "id_str": "89431845",
+                "name": "Michèle Rivasi 🌍",
+                "screen_name": "MicheleRivasi",
+                "location": "Valence Bruxelles Strasbourg",
+                "url": "http://www.michele-rivasi.eu/",
+                "description": "Députée européenne #EELV #Greens. Fondatrice du @CRIIREM @CRIIRAD. #santé #environnement #nucleaire #gazdeschiste #medicament #ondes #Europe #droitshumains",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 26196,
+                "friends_count": 3613,
+                "listed_count": 960,
+                "favourites_count": 2155,
+                "statuses_count": 21320,
+                "created_at": "Thu Nov 12 12:07:15 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "A7C6D6",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EDBB23",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/799625909741506560/Ws9mxAg4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/799625909741506560/Ws9mxAg4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/89431845/1568906128",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Les vaccins contre les grippes saisonnières ne fonctionnent pas à 100%. Loin de là. Comment envisager qu'un vaccin contre le coronavirus, qui mute sans arrêt,  puisse réellement être efficace ?\nA lire, cet article de 2015 relate l'expérience canadienne ⬇️ https://t.co/UHttYxGWTl",
+                "display_text_range": [
+                    0,
+                    279
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/UHttYxGWTl",
+                            "expanded_url": "https://www.lapresse.ca/actualites/sante/201501/30/01-4839815-vaccination-contre-la-grippe-un-taux-defficacite-de-0.php",
+                            "display_url": "lapresse.ca/actualites/san…",
+                            "indices": [
+                                256,
+                                279
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 46,
+            "reply_count": 48,
+            "retweet_count": 15,
+            "favorite_count": 20,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/wZjsBW0kON",
+                        "expanded_url": "https://twitter.com/i/web/status/1254011816604241927",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "fr"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/ESvgZFl3Dz",
+            "expanded": "https://twitter.com/MicheleRivasi/status/1254011816604241927",
+            "display": "twitter.com/MicheleRivasi/…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "La Lombardie plus touchée par corona à cause campagne vaccination de masse contre méningite ( pour 6 cas). Le vaccin anti-grippe facilite co-morbidité corona. Augmentation de 40% d'après 1ers résultats.",
+            "display_text_range": [
+                0,
+                202
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 12,
+        "favorite_count": 9,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/hkx5xdNbJc",
+                    "expanded_url": "https://twitter.com/i/web/status/1254013435811188737",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "fr"
+    },
+    "quoted_status_id": 1254011816604241927,
+    "quoted_status_id_str": "1254011816604241927",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 11:38:10 +0000 2020",
+        "id": 1254011816604241927,
+        "id_str": "1254011816604241927",
+        "text": "Les vaccins contre les grippes saisonnières ne fonctionnent pas à 100%. Loin de là. Comment envisager qu'un vaccin… https://t.co/wZjsBW0kON",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 89431845,
+            "id_str": "89431845",
+            "name": "Michèle Rivasi 🌍",
+            "screen_name": "MicheleRivasi",
+            "location": "Valence Bruxelles Strasbourg",
+            "url": "http://www.michele-rivasi.eu/",
+            "description": "Députée européenne #EELV #Greens. Fondatrice du @CRIIREM @CRIIRAD. #santé #environnement #nucleaire #gazdeschiste #medicament #ondes #Europe #droitshumains",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 26196,
+            "friends_count": 3613,
+            "listed_count": 960,
+            "favourites_count": 2155,
+            "statuses_count": 21320,
+            "created_at": "Thu Nov 12 12:07:15 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "A7C6D6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EDBB23",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/799625909741506560/Ws9mxAg4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/799625909741506560/Ws9mxAg4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/89431845/1568906128",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Les vaccins contre les grippes saisonnières ne fonctionnent pas à 100%. Loin de là. Comment envisager qu'un vaccin contre le coronavirus, qui mute sans arrêt,  puisse réellement être efficace ?\nA lire, cet article de 2015 relate l'expérience canadienne ⬇️ https://t.co/UHttYxGWTl",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/UHttYxGWTl",
+                        "expanded_url": "https://www.lapresse.ca/actualites/sante/201501/30/01-4839815-vaccination-contre-la-grippe-un-taux-defficacite-de-0.php",
+                        "display_url": "lapresse.ca/actualites/san…",
+                        "indices": [
+                            256,
+                            279
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 46,
+        "reply_count": 48,
+        "retweet_count": 15,
+        "favorite_count": 20,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wZjsBW0kON",
+                    "expanded_url": "https://twitter.com/i/web/status/1254011816604241927",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "fr"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/ESvgZFl3Dz",
+        "expanded": "https://twitter.com/MicheleRivasi/status/1254011816604241927",
+        "display": "twitter.com/MicheleRivasi/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "RaderSerge",
+                "name": "Serge Rader",
+                "id": 905769986668548097,
+                "id_str": "905769986668548097",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587819572624"
+}

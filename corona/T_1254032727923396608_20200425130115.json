@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:01:15 +0000 2020",
+    "id": 1254032727923396608,
+    "id_str": "1254032727923396608",
+    "text": "@VonWolf9 @LeeleeRanz I need some corona cash, because my mom is in the hospital fighting for her life and I need s… https://t.co/VBnoEgHMmj",
+    "display_text_range": [
+        22,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254032051285700608,
+    "in_reply_to_status_id_str": "1254032051285700608",
+    "in_reply_to_user_id": 222189121,
+    "in_reply_to_user_id_str": "222189121",
+    "in_reply_to_screen_name": "VonWolf9",
+    "user": {
+        "id": 934871474950819840,
+        "id_str": "934871474950819840",
+        "name": "LaTonya Perrie",
+        "screen_name": "latonya_perrie",
+        "location": "Illinois, USA",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 57,
+        "friends_count": 414,
+        "listed_count": 0,
+        "favourites_count": 7824,
+        "statuses_count": 2642,
+        "created_at": "Sun Nov 26 19:48:23 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1169680236365144064/VrioYv-x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169680236365144064/VrioYv-x_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@VonWolf9 @LeeleeRanz I need some corona cash, because my mom is in the hospital fighting for her life and I need some help with the fight 🙏🏽🙏🏽🙏🏽",
+        "display_text_range": [
+            22,
+            145
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VonWolf9",
+                    "name": "#CORONACASH",
+                    "id": 222189121,
+                    "id_str": "222189121",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "LeeleeRanz",
+                    "name": "Leelee#SugarFam💜💪🏽",
+                    "id": 816096542,
+                    "id_str": "816096542",
+                    "indices": [
+                        10,
+                        21
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/VBnoEgHMmj",
+                "expanded_url": "https://twitter.com/i/web/status/1254032727923396608",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "VonWolf9",
+                "name": "#CORONACASH",
+                "id": 222189121,
+                "id_str": "222189121",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "LeeleeRanz",
+                "name": "Leelee#SugarFam💜💪🏽",
+                "id": 816096542,
+                "id_str": "816096542",
+                "indices": [
+                    10,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819675795"
+}

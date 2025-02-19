@@ -1,0 +1,175 @@
+{
+    "created_at": "Sun Apr 12 18:31:52 +0000 2020",
+    "id": 1249404887248617473,
+    "id_str": "1249404887248617473",
+    "text": "@PMunozLedo @Woolfolk26 Sigo con atención al Porfirio de estos días y me pregunto porque no corona con enorme digni… https://t.co/ATxcjX6kHF",
+    "display_text_range": [
+        24,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249339471625170945,
+    "in_reply_to_status_id_str": "1249339471625170945",
+    "in_reply_to_user_id": 363978511,
+    "in_reply_to_user_id_str": "363978511",
+    "in_reply_to_screen_name": "PMunozLedo",
+    "user": {
+        "id": 48170731,
+        "id_str": "48170731",
+        "name": "victor m melendez a",
+        "screen_name": "vmmelendezSr",
+        "location": "Miami / Mexico City/San Salvad",
+        "url": "http://www.eximlogisticsadecv.com",
+        "description": "man, engineer, international commerce, textil, foods, reader, writer, good taste, good life, easy mind, hard work, enjoy the life.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 270,
+        "friends_count": 1227,
+        "listed_count": 2,
+        "favourites_count": 1710,
+        "statuses_count": 4200,
+        "created_at": "Thu Jun 18 00:00:51 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/846512598518456321/dfiJPwzw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/846512598518456321/dfiJPwzw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48170731/1402611899",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "253e07b9636d0061",
+        "url": "https://api.twitter.com/1.1/geo/id/253e07b9636d0061.json",
+        "place_type": "city",
+        "name": "Hallandale Beach",
+        "full_name": "Hallandale Beach, FL",
+        "country_code": "US",
+        "country": "Estados Unidos",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -80.207047,
+                        25.972852
+                    ],
+                    [
+                        -80.207047,
+                        25.997497
+                    ],
+                    [
+                        -80.11721,
+                        25.997497
+                    ],
+                    [
+                        -80.11721,
+                        25.972852
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@PMunozLedo @Woolfolk26 Sigo con atención al Porfirio de estos días y me pregunto porque no corona con enorme dignidad su carrera política rompiendo con Morena y con la 4.ª T de manera pública. Las opiniones de Porfirio difieren día a día de las de Amlo y mucho más de los ignorantes que lo siguen.",
+        "display_text_range": [
+            24,
+            298
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PMunozLedo",
+                    "name": "Porfirio Muñoz Ledo",
+                    "id": 363978511,
+                    "id_str": "363978511",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "Woolfolk26",
+                    "name": "Patricia Woolfolk",
+                    "id": 596182243,
+                    "id_str": "596182243",
+                    "indices": [
+                        12,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ATxcjX6kHF",
+                "expanded_url": "https://twitter.com/i/web/status/1249404887248617473",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "PMunozLedo",
+                "name": "Porfirio Muñoz Ledo",
+                "id": 363978511,
+                "id_str": "363978511",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "Woolfolk26",
+                "name": "Patricia Woolfolk",
+                "id": 596182243,
+                "id_str": "596182243",
+                "indices": [
+                    12,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1586716312597"
+}

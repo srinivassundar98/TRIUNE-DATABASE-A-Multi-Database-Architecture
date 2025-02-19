@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:37:04 +0000 2020",
+    "id": 1254041739880529922,
+    "id_str": "1254041739880529922",
+    "text": "İnsan seviyor bir kere. #BIRAKAMIYOR \n#AfterLife2 #απαγορευση_κυκλοφοριας #cumartesi #Corona",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1148256398599499778,
+        "id_str": "1148256398599499778",
+        "name": "İsmail KESKİN",
+        "screen_name": "ghostrider7739",
+        "location": "Bodrum, Muğla",
+        "url": null,
+        "description": "Biz ölümün gölgesinde özgürlüğümüzü yaşadık #şırnak #besta",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 40,
+        "friends_count": 146,
+        "listed_count": 0,
+        "favourites_count": 1677,
+        "statuses_count": 134,
+        "created_at": "Mon Jul 08 15:43:53 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148256861700972544/IzP3voqo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148256861700972544/IzP3voqo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1148256398599499778/1562781461",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0100f182473f5b02",
+        "url": "https://api.twitter.com/1.1/geo/id/0100f182473f5b02.json",
+        "place_type": "city",
+        "name": "Milas",
+        "full_name": "Milas, Türkiye",
+        "country_code": "TR",
+        "country": "Turkey",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        27.760328,
+                        37.282332
+                    ],
+                    [
+                        27.760328,
+                        37.33598
+                    ],
+                    [
+                        27.794976,
+                        37.33598
+                    ],
+                    [
+                        27.794976,
+                        37.282332
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BIRAKAMIYOR",
+                "indices": [
+                    24,
+                    36
+                ]
+            },
+            {
+                "text": "AfterLife2",
+                "indices": [
+                    38,
+                    49
+                ]
+            },
+            {
+                "text": "απαγορευση_κυκλοφοριας",
+                "indices": [
+                    50,
+                    73
+                ]
+            },
+            {
+                "text": "cumartesi",
+                "indices": [
+                    74,
+                    84
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    85,
+                    92
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587821824413"
+}

@@ -1,0 +1,111 @@
+{
+    "created_at": "Sat Apr 25 14:29:23 +0000 2020",
+    "id": 1254054906316705795,
+    "id_str": "1254054906316705795",
+    "text": "@SammytheAuthor Get yer hair did in the new corona style. #CoronavirusOutbreak #TrumpVirusCatastrophe #trumpandemic",
+    "display_text_range": [
+        16,
+        115
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253655089060945922,
+    "in_reply_to_status_id_str": "1253655089060945922",
+    "in_reply_to_user_id": 712074118443745280,
+    "in_reply_to_user_id_str": "712074118443745280",
+    "in_reply_to_screen_name": "SammytheAuthor",
+    "user": {
+        "id": 371556872,
+        "id_str": "371556872",
+        "name": "Mason",
+        "screen_name": "TypoToo",
+        "location": "Portlandia",
+        "url": null,
+        "description": "Stay-at-home bother",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2067,
+        "friends_count": 1530,
+        "listed_count": 0,
+        "favourites_count": 200539,
+        "statuses_count": 54676,
+        "created_at": "Sun Sep 11 02:45:57 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DBDBDB",
+        "profile_text_color": "737373",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/966070314659594240/qE7W7x8b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966070314659594240/qE7W7x8b_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/371556872/1474053077",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "CoronavirusOutbreak",
+                "indices": [
+                    58,
+                    78
+                ]
+            },
+            {
+                "text": "TrumpVirusCatastrophe",
+                "indices": [
+                    79,
+                    101
+                ]
+            },
+            {
+                "text": "trumpandemic",
+                "indices": [
+                    102,
+                    115
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "SammytheAuthor",
+                "name": "Samuel A. Darkwah",
+                "id": 712074118443745280,
+                "id_str": "712074118443745280",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824963536"
+}

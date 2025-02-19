@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 14:23:49 +0000 2020",
+    "id": 1254053504953602048,
+    "id_str": "1254053504953602048",
+    "text": "Kurtlar vadisi “Corona” yakında.. 😂 @drfahrettinkoca https://t.co/RIQiwn7Ihc",
+    "display_text_range": [
+        0,
+        52
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1242389154316591109,
+        "id_str": "1242389154316591109",
+        "name": "Islam Seyhan",
+        "screen_name": "islamseyhan2",
+        "location": null,
+        "url": null,
+        "description": "TÜRKLÜK bedenimiz, İslamiyet ruhumuzdur. Ruhsuz beden ceset olur..",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 237,
+        "friends_count": 138,
+        "listed_count": 0,
+        "favourites_count": 72,
+        "statuses_count": 130,
+        "created_at": "Tue Mar 24 09:54:02 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242390299055439873/8-IKwYyK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242390299055439873/8-IKwYyK_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "drfahrettinkoca",
+                "name": "Dr. Fahrettin Koca",
+                "id": 1016198241417822208,
+                "id_str": "1016198241417822208",
+                "indices": [
+                    36,
+                    52
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254053498318131200,
+                "id_str": "1254053498318131200",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdLAzCWkAA2vsX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdLAzCWkAA2vsX.jpg",
+                "url": "https://t.co/RIQiwn7Ihc",
+                "display_url": "pic.twitter.com/RIQiwn7Ihc",
+                "expanded_url": "https://twitter.com/islamseyhan2/status/1254053504953602048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 900,
+                        "h": 1600,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254053498318131200,
+                "id_str": "1254053498318131200",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdLAzCWkAA2vsX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdLAzCWkAA2vsX.jpg",
+                "url": "https://t.co/RIQiwn7Ihc",
+                "display_url": "pic.twitter.com/RIQiwn7Ihc",
+                "expanded_url": "https://twitter.com/islamseyhan2/status/1254053504953602048/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 900,
+                        "h": 1600,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587824629425"
+}

@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:30:45 +0000 2020",
+    "id": 1249404605844410371,
+    "id_str": "1249404605844410371",
+    "text": "@HarveyS51085033 @tagesschau 1. Der Anfang der Corona-Pandemie.\n2. Die Presse schreibt, was Frau Merkel und Dr. Dro… https://t.co/64hNmQFQ8z",
+    "display_text_range": [
+        29,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249403265613205505,
+    "in_reply_to_status_id_str": "1249403265613205505",
+    "in_reply_to_user_id": 1247480117670170624,
+    "in_reply_to_user_id_str": "1247480117670170624",
+    "in_reply_to_screen_name": "HarveyS51085033",
+    "user": {
+        "id": 24414800,
+        "id_str": "24414800",
+        "name": "Frau Lehrerin",
+        "screen_name": "Janine_Wolter",
+        "location": null,
+        "url": null,
+        "description": "Es gibt etwas Gutes in der Welt. Und dafür lohnt es sich, zu kämpfen.\n\n(#HerrderRinge\n#LordOfTheRings) ///\n#Bildungjetzt",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 321,
+        "friends_count": 519,
+        "listed_count": 14,
+        "favourites_count": 3113,
+        "statuses_count": 5319,
+        "created_at": "Sat Mar 14 19:18:16 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824340899777875969/dWD28MuD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/824340899777875969/dWD28MuD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24414800/1484605516",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@HarveyS51085033 @tagesschau 1. Der Anfang der Corona-Pandemie.\n2. Die Presse schreibt, was Frau Merkel und Dr. Drosten ihnen sagen? Verstehe ich das richtig?",
+        "display_text_range": [
+            29,
+            158
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HarveyS51085033",
+                    "name": "Clara Himmel",
+                    "id": 1247480117670170624,
+                    "id_str": "1247480117670170624",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "tagesschau",
+                    "name": "tagesschau",
+                    "id": 5734902,
+                    "id_str": "5734902",
+                    "indices": [
+                        17,
+                        28
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/64hNmQFQ8z",
+                "expanded_url": "https://twitter.com/i/web/status/1249404605844410371",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "HarveyS51085033",
+                "name": "Clara Himmel",
+                "id": 1247480117670170624,
+                "id_str": "1247480117670170624",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "tagesschau",
+                "name": "tagesschau",
+                "id": 5734902,
+                "id_str": "5734902",
+                "indices": [
+                    17,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716245505"
+}

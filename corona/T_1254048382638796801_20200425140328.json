@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 14:03:28 +0000 2020",
+    "id": 1254048382638796801,
+    "id_str": "1254048382638796801",
+    "text": "@AnnetHead @SchipholWatch @stopgroeiMAA MAA heeft altijd aangegeven deze geste in te kunnen trekken als het nodig i… https://t.co/6rM6OgmMGc",
+    "display_text_range": [
+        40,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253569313275105281,
+    "in_reply_to_status_id_str": "1253569313275105281",
+    "in_reply_to_user_id": 1111668409274642432,
+    "in_reply_to_user_id_str": "1111668409274642432",
+    "in_reply_to_screen_name": "AnnetHead",
+    "user": {
+        "id": 1107978985256992768,
+        "id_str": "1107978985256992768",
+        "name": "We Love MAA",
+        "screen_name": "maa_we",
+        "location": null,
+        "url": null,
+        "description": "We Love MAA staat voor een inhoudelijke discussie op basis van aantoonbare feiten ipv negatief sentiment en nepnieuws",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 32,
+        "friends_count": 40,
+        "listed_count": 0,
+        "favourites_count": 145,
+        "statuses_count": 468,
+        "created_at": "Tue Mar 19 12:15:50 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1107979422295093249/_X4nCqb9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107979422295093249/_X4nCqb9_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@AnnetHead @SchipholWatch @stopgroeiMAA MAA heeft altijd aangegeven deze geste in te kunnen trekken als het nodig is. Zowel MAA als de Europese Commissie zien deze noodzaak in gezien de huidige Corona crisis en de bijhorende vraag naar medische goederen en luchtvracht in het algemeen",
+        "display_text_range": [
+            40,
+            284
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AnnetHead",
+                    "name": "annet head",
+                    "id": 1111668409274642432,
+                    "id_str": "1111668409274642432",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "SchipholWatch",
+                    "name": "SchipholWatch",
+                    "id": 981851323372068865,
+                    "id_str": "981851323372068865",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "stopgroeiMAA",
+                    "name": "Alliantie Tegen Uitbreiding MAA",
+                    "id": 963086007750025217,
+                    "id_str": "963086007750025217",
+                    "indices": [
+                        26,
+                        39
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/6rM6OgmMGc",
+                "expanded_url": "https://twitter.com/i/web/status/1254048382638796801",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AnnetHead",
+                "name": "annet head",
+                "id": 1111668409274642432,
+                "id_str": "1111668409274642432",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "SchipholWatch",
+                "name": "SchipholWatch",
+                "id": 981851323372068865,
+                "id_str": "981851323372068865",
+                "indices": [
+                    11,
+                    25
+                ]
+            },
+            {
+                "screen_name": "stopgroeiMAA",
+                "name": "Alliantie Tegen Uitbreiding MAA",
+                "id": 963086007750025217,
+                "id_str": "963086007750025217",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587823408170"
+}

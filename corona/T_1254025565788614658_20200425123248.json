@@ -1,0 +1,171 @@
+{
+    "created_at": "Sat Apr 25 12:32:48 +0000 2020",
+    "id": 1254025565788614658,
+    "id_str": "1254025565788614658",
+    "text": "@larsklingbeil @RND_de @KochMatthias Wenn man stattdessen nach einer Art moralischem Verdienst von Gruppen priorisi… https://t.co/sMOZt8GHI0",
+    "display_text_range": [
+        37,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254024691582480386,
+    "in_reply_to_status_id_str": "1254024691582480386",
+    "in_reply_to_user_id": 1570948938,
+    "in_reply_to_user_id_str": "1570948938",
+    "in_reply_to_screen_name": "JCaktiv",
+    "user": {
+        "id": 1570948938,
+        "id_str": "1570948938",
+        "name": "Christel Thalmeier (Pseudonym) #ContainmentJetzt",
+        "screen_name": "JCaktiv",
+        "location": null,
+        "url": null,
+        "description": "Gegen Rassismus, gegen Klassismus, gegen das Virus!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 913,
+        "friends_count": 1105,
+        "listed_count": 53,
+        "favourites_count": 73126,
+        "statuses_count": 24793,
+        "created_at": "Fri Jul 05 17:22:18 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/848693551550648320/DviVwMj1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/848693551550648320/DviVwMj1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570948938/1553039792",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@larsklingbeil @RND_de @KochMatthias Wenn man stattdessen nach einer Art moralischem Verdienst von Gruppen priorisiert, die halt zur eigenen politischen Klientel gehören (zumindest in der eigenen Phantasie, wenn auch nicht in Wahlumfragen) dann entfernt man sich von der Realität und Corona bedankt sich #Klassismus",
+        "display_text_range": [
+            37,
+            315
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Klassismus",
+                    "indices": [
+                        304,
+                        315
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "larsklingbeil",
+                    "name": "Lars Klingbeil 🇪🇺",
+                    "id": 16255941,
+                    "id_str": "16255941",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "RND_de",
+                    "name": "RND",
+                    "id": 2885573171,
+                    "id_str": "2885573171",
+                    "indices": [
+                        15,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "KochMatthias",
+                    "name": "Matthias Koch",
+                    "id": 3253606221,
+                    "id_str": "3253606221",
+                    "indices": [
+                        23,
+                        36
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sMOZt8GHI0",
+                "expanded_url": "https://twitter.com/i/web/status/1254025565788614658",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "larsklingbeil",
+                "name": "Lars Klingbeil 🇪🇺",
+                "id": 16255941,
+                "id_str": "16255941",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "RND_de",
+                "name": "RND",
+                "id": 2885573171,
+                "id_str": "2885573171",
+                "indices": [
+                    15,
+                    22
+                ]
+            },
+            {
+                "screen_name": "KochMatthias",
+                "name": "Matthias Koch",
+                "id": 3253606221,
+                "id_str": "3253606221",
+                "indices": [
+                    23,
+                    36
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587817968209"
+}

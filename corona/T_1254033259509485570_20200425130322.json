@@ -1,0 +1,103 @@
+{
+    "created_at": "Sat Apr 25 13:03:22 +0000 2020",
+    "id": 1254033259509485570,
+    "id_str": "1254033259509485570",
+    "text": "Ebba Busch: Jag hade satt\nsvenska turister i karantän https://t.co/BYQWrZL5hE #Expressen via @Expressen",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1059804904540258304,
+        "id_str": "1059804904540258304",
+        "name": "Torbjörn Skog",
+        "screen_name": "SkogTorbjorn",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7,
+        "friends_count": 6,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 11093,
+        "created_at": "Tue Nov 06 13:49:14 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Expressen",
+                "indices": [
+                    78,
+                    88
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/BYQWrZL5hE",
+                "expanded_url": "https://www.expressen.se/nyheter/coronaviruset/ebba-busch-jag-hade-satt-svenska-turister-i-karantan/?utm_medium=link&utm_campaign=social_sharing&utm_source=twitter&social=twtr",
+                "display_url": "expressen.se/nyheter/corona…",
+                "indices": [
+                    54,
+                    77
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Expressen",
+                "name": "Expressen",
+                "id": 2097191,
+                "id_str": "2097191",
+                "indices": [
+                    93,
+                    103
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587819802535"
+}

@@ -1,0 +1,181 @@
+{
+    "created_at": "Sun Apr 12 18:32:27 +0000 2020",
+    "id": 1249405032828678144,
+    "id_str": "1249405032828678144",
+    "text": "@VirendraNehra9 सभी #AIIMS में नए भर्ती नियमों में #मेल_फीमेल_Ratio_20_80 किया गया है, जो सरासर गलत है, इससे मतभेद… https://t.co/YvB8nwJKLz",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 769756763608510464,
+    "in_reply_to_user_id_str": "769756763608510464",
+    "in_reply_to_screen_name": "VirendraNehra9",
+    "user": {
+        "id": 1020013084130271232,
+        "id_str": "1020013084130271232",
+        "name": "J. R. Huda",
+        "screen_name": "JRHuda1",
+        "location": "Chandigarh, India",
+        "url": null,
+        "description": "Nursing Officer",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 17,
+        "friends_count": 46,
+        "listed_count": 0,
+        "favourites_count": 139,
+        "statuses_count": 77,
+        "created_at": "Thu Jul 19 18:30:44 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024176013557690368/cAtHL2dN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024176013557690368/cAtHL2dN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1020013084130271232/1586716248",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "22aecab5acddee3b",
+        "url": "https://api.twitter.com/1.1/geo/id/22aecab5acddee3b.json",
+        "place_type": "city",
+        "name": "Chandigarh",
+        "full_name": "Chandigarh, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        76.703813,
+                        30.665455
+                    ],
+                    [
+                        76.703813,
+                        30.795316
+                    ],
+                    [
+                        76.849236,
+                        30.795316
+                    ],
+                    [
+                        76.849236,
+                        30.665455
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@VirendraNehra9 सभी #AIIMS में नए भर्ती नियमों में #मेल_फीमेल_Ratio_20_80 किया गया है, जो सरासर गलत है, इससे मतभेद के साथ पुरुष नर्सेज को भारी बेरोजगारी का सामना करना पड़ेगा जबकि corona isolation ward में सबसे ज्यादा male nurse's कार्यरत है।सरकार पुराने नियमानुसार भर्ती करे।",
+        "display_text_range": [
+            0,
+            275
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AIIMS",
+                    "indices": [
+                        20,
+                        26
+                    ]
+                },
+                {
+                    "text": "मेल_फीमेल_Ratio_20_80",
+                    "indices": [
+                        51,
+                        73
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VirendraNehra9",
+                    "name": "Virendra Nehra",
+                    "id": 769756763608510464,
+                    "id_str": "769756763608510464",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "AIIMS",
+                "indices": [
+                    20,
+                    26
+                ]
+            },
+            {
+                "text": "मेल_फीमेल_Ratio_20_80",
+                "indices": [
+                    51,
+                    73
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/YvB8nwJKLz",
+                "expanded_url": "https://twitter.com/i/web/status/1249405032828678144",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "VirendraNehra9",
+                "name": "Virendra Nehra",
+                "id": 769756763608510464,
+                "id_str": "769756763608510464",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1586716347306"
+}

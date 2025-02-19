@@ -1,0 +1,128 @@
+{
+    "created_at": "Sat Apr 25 13:25:22 +0000 2020",
+    "id": 1254038796993257472,
+    "id_str": "1254038796993257472",
+    "text": "@DrCamela @fitxemon @peric65 @azucar67419586 @eduardoinda Otro lameculos de la Corona. Y además homófobo",
+    "display_text_range": [
+        58,
+        104
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254033730991124480,
+    "in_reply_to_status_id_str": "1254033730991124480",
+    "in_reply_to_user_id": 1244830073082933249,
+    "in_reply_to_user_id_str": "1244830073082933249",
+    "in_reply_to_screen_name": "DrCamela",
+    "user": {
+        "id": 232827702,
+        "id_str": "232827702",
+        "name": "Pakito",
+        "screen_name": "Pakomarinp",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 165,
+        "friends_count": 433,
+        "listed_count": 1,
+        "favourites_count": 13624,
+        "statuses_count": 9600,
+        "created_at": "Sat Jan 01 12:34:55 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1187427410578464768/SZnpupQ6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187427410578464768/SZnpupQ6_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "DrCamela",
+                "name": "🏴Doc Camela 🇪🇸🇺🇸🇲🇽",
+                "id": 1244830073082933249,
+                "id_str": "1244830073082933249",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "fitxemon",
+                "name": "Fitness Xemon",
+                "id": 1245852160857985027,
+                "id_str": "1245852160857985027",
+                "indices": [
+                    10,
+                    19
+                ]
+            },
+            {
+                "screen_name": "peric65",
+                "name": "Manu LC 🇪🇸",
+                "id": 145736413,
+                "id_str": "145736413",
+                "indices": [
+                    20,
+                    28
+                ]
+            },
+            {
+                "screen_name": "azucar67419586",
+                "name": "azucar",
+                "id": 1176095179595505664,
+                "id_str": "1176095179595505664",
+                "indices": [
+                    29,
+                    44
+                ]
+            },
+            {
+                "screen_name": "eduardoinda",
+                "name": "Eduardo Inda",
+                "id": 698104968105095170,
+                "id_str": "698104968105095170",
+                "indices": [
+                    45,
+                    57
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587821122774"
+}

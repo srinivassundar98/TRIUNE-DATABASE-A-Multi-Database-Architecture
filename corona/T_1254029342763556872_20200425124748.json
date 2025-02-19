@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 12:47:48 +0000 2020",
+    "id": 1254029342763556872,
+    "id_str": "1254029342763556872",
+    "text": "@Steffen_AM @moellerthomas3 @CrackBaby1312 Det kan jo så være, at fordi børn har mildere symptomer, så giver de ikk… https://t.co/CiluvQfTJF",
+    "display_text_range": [
+        43,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253962062277103616,
+    "in_reply_to_status_id_str": "1253962062277103616",
+    "in_reply_to_user_id": 816706492330082312,
+    "in_reply_to_user_id_str": "816706492330082312",
+    "in_reply_to_screen_name": "Steffen_AM",
+    "user": {
+        "id": 3052601338,
+        "id_str": "3052601338",
+        "name": "lookaway",
+        "screen_name": "Boedens1",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 69,
+        "listed_count": 0,
+        "favourites_count": 1790,
+        "statuses_count": 345,
+        "created_at": "Sun Feb 22 12:16:09 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Steffen_AM @moellerthomas3 @CrackBaby1312 Det kan jo så være, at fordi børn har mildere symptomer, så giver de ikke så meget smitte videre til de andre børn? Nogle af de lande, der har bekæmpet Corona bedst er Island og Sydkorea. De har holdt vuggestuer åbne. Test, test &amp; test og bryd smittekilden har virket der.",
+        "display_text_range": [
+            43,
+            319
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Steffen_AM",
+                    "name": "Steffen A. Møller",
+                    "id": 816706492330082312,
+                    "id_str": "816706492330082312",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "moellerthomas3",
+                    "name": "Thomas Møller",
+                    "id": 1142367187,
+                    "id_str": "1142367187",
+                    "indices": [
+                        12,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "CrackBaby1312",
+                    "name": "Thomsen",
+                    "id": 789444522,
+                    "id_str": "789444522",
+                    "indices": [
+                        28,
+                        42
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/CiluvQfTJF",
+                "expanded_url": "https://twitter.com/i/web/status/1254029342763556872",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Steffen_AM",
+                "name": "Steffen A. Møller",
+                "id": 816706492330082312,
+                "id_str": "816706492330082312",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "moellerthomas3",
+                "name": "Thomas Møller",
+                "id": 1142367187,
+                "id_str": "1142367187",
+                "indices": [
+                    12,
+                    27
+                ]
+            },
+            {
+                "screen_name": "CrackBaby1312",
+                "name": "Thomsen",
+                "id": 789444522,
+                "id_str": "789444522",
+                "indices": [
+                    28,
+                    42
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "da",
+    "timestamp_ms": "1587818868710"
+}

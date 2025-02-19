@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:04:23 +0000 2020",
+    "id": 1254048616135655424,
+    "id_str": "1254048616135655424",
+    "text": "@Tonicanto1 A ver, #bandarra, en la #comunitatValenciana, la Diada es el 9 d’octubre. Ya quisierais imponernos algo… https://t.co/6g6SBsymSh",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253990378262466560,
+    "in_reply_to_status_id_str": "1253990378262466560",
+    "in_reply_to_user_id": 249122306,
+    "in_reply_to_user_id_str": "249122306",
+    "in_reply_to_screen_name": "Tonicanto1",
+    "user": {
+        "id": 1154713527933898753,
+        "id_str": "1154713527933898753",
+        "name": "BrujadeSalem 🖤",
+        "screen_name": "SalemBrujade",
+        "location": null,
+        "url": null,
+        "description": "Ni pongo velas negras, ni lanzo hechizos, pero me río mucho con las tonterías que leo.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 73,
+        "friends_count": 154,
+        "listed_count": 0,
+        "favourites_count": 2948,
+        "statuses_count": 2772,
+        "created_at": "Fri Jul 26 11:22:13 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154714380807868416/Ey77Tapb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154714380807868416/Ey77Tapb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154713527933898753/1574804362",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Tonicanto1 A ver, #bandarra, en la #comunitatValenciana, la Diada es el 9 d’octubre. Ya quisierais imponernos algo. Ni de coña. Corona de Aragón for ever , Reino de Valencia y Condados Catalanes. Y a joderse @QuimTorraiPla",
+        "display_text_range": [
+            12,
+            223
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "bandarra",
+                    "indices": [
+                        19,
+                        28
+                    ]
+                },
+                {
+                    "text": "comunitatValenciana",
+                    "indices": [
+                        36,
+                        56
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Tonicanto1",
+                    "name": "Toni Cantó 🖤🇪🇸",
+                    "id": 249122306,
+                    "id_str": "249122306",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "QuimTorraiPla",
+                    "name": "Quim Torra i Pla",
+                    "id": 4703390322,
+                    "id_str": "4703390322",
+                    "indices": [
+                        209,
+                        223
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "bandarra",
+                "indices": [
+                    19,
+                    28
+                ]
+            },
+            {
+                "text": "comunitatValenciana",
+                "indices": [
+                    36,
+                    56
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/6g6SBsymSh",
+                "expanded_url": "https://twitter.com/i/web/status/1254048616135655424",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Tonicanto1",
+                "name": "Toni Cantó 🖤🇪🇸",
+                "id": 249122306,
+                "id_str": "249122306",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587823463840"
+}

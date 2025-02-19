@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:15:43 +0000 2020",
+    "id": 1254051467243278342,
+    "id_str": "1254051467243278342",
+    "text": "@LeafyLols Corona is indeed fake .. they want us to stay at home so onision gets more views",
+    "display_text_range": [
+        11,
+        91
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254050802726916096,
+    "in_reply_to_status_id_str": "1254050802726916096",
+    "in_reply_to_user_id": 1249350606122143746,
+    "in_reply_to_user_id_str": "1249350606122143746",
+    "in_reply_to_screen_name": "LeafyLols",
+    "user": {
+        "id": 3152561627,
+        "id_str": "3152561627",
+        "name": "$andr 🌴 - frosted flakes nigga daamn",
+        "screen_name": "sandr_rs",
+        "location": "Portugal - Villa of Peniche",
+        "url": "http://sandrodesign.website",
+        "description": "text message, I don't know the number",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 135,
+        "friends_count": 126,
+        "listed_count": 0,
+        "favourites_count": 21405,
+        "statuses_count": 13338,
+        "created_at": "Thu Apr 09 19:28:38 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "353535",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253164598456471555/uOiDQmMV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253164598456471555/uOiDQmMV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3152561627/1585192202",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "9de471cda4f80c83",
+        "url": "https://api.twitter.com/1.1/geo/id/9de471cda4f80c83.json",
+        "place_type": "city",
+        "name": "Peniche",
+        "full_name": "Peniche, Portugal",
+        "country_code": "PT",
+        "country": "Portugal",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -9.546756,
+                        39.28348
+                    ],
+                    [
+                        -9.546756,
+                        39.48019
+                    ],
+                    [
+                        -9.256453,
+                        39.48019
+                    ],
+                    [
+                        -9.256453,
+                        39.28348
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "LeafyLols",
+                "name": "Leafy",
+                "id": 1249350606122143746,
+                "id_str": "1249350606122143746",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824143597"
+}

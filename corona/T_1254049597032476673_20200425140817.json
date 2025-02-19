@@ -1,0 +1,220 @@
+{
+    "created_at": "Sat Apr 25 14:08:17 +0000 2020",
+    "id": 1254049597032476673,
+    "id_str": "1254049597032476673",
+    "text": "If there is one learning for me from Corona, it is showing gratitude for even the smallest things in life that I no… https://t.co/iaxzwqZjVc",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 291586556,
+        "id_str": "291586556",
+        "name": "Mads Faurholt",
+        "screen_name": "MadsFaurholt",
+        "location": "London, England",
+        "url": "https://www.youtube.com/user/madsfj",
+        "description": "Serial entrepreneur, bestselling author, keynote speaker and father",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2078,
+        "friends_count": 2203,
+        "listed_count": 34,
+        "favourites_count": 142,
+        "statuses_count": 526,
+        "created_at": "Mon May 02 08:26:23 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186805560215310337/89Ycq5nv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186805560215310337/89Ycq5nv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/291586556/1564653194",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "548c663841efd529",
+        "url": "https://api.twitter.com/1.1/geo/id/548c663841efd529.json",
+        "place_type": "city",
+        "name": "Lemvig",
+        "full_name": "Lemvig, Danmark",
+        "country_code": "DK",
+        "country": "Denmark",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        8.1153,
+                        56.347125
+                    ],
+                    [
+                        8.1153,
+                        56.777022
+                    ],
+                    [
+                        8.527517,
+                        56.777022
+                    ],
+                    [
+                        8.527517,
+                        56.347125
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "If there is one learning for me from Corona, it is showing gratitude for even the smallest things in life that I normally take for granted\n\n#gratitude https://t.co/XutpkNGHdf",
+        "display_text_range": [
+            0,
+            150
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "gratitude",
+                    "indices": [
+                        140,
+                        150
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254049590552256512,
+                    "id_str": "1254049590552256512",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdHdVeXYAAHQSi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdHdVeXYAAHQSi.jpg",
+                    "url": "https://t.co/XutpkNGHdf",
+                    "display_url": "pic.twitter.com/XutpkNGHdf",
+                    "expanded_url": "https://twitter.com/MadsFaurholt/status/1254049597032476673/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254049590552256512,
+                    "id_str": "1254049590552256512",
+                    "indices": [
+                        151,
+                        174
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdHdVeXYAAHQSi.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdHdVeXYAAHQSi.jpg",
+                    "url": "https://t.co/XutpkNGHdf",
+                    "display_url": "pic.twitter.com/XutpkNGHdf",
+                    "expanded_url": "https://twitter.com/MadsFaurholt/status/1254049597032476673/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/iaxzwqZjVc",
+                "expanded_url": "https://twitter.com/i/web/status/1254049597032476673",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823697704"
+}

@@ -1,0 +1,129 @@
+{
+    "created_at": "Sun Apr 12 18:41:13 +0000 2020",
+    "id": 1249407239594614786,
+    "id_str": "1249407239594614786",
+    "text": "@nunnasia CORONA-19\naccompanying picture is not from #Afghanistan. It is from India",
+    "display_text_range": [
+        10,
+        83
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249360740538109956,
+    "in_reply_to_status_id_str": "1249360740538109956",
+    "in_reply_to_user_id": 250485665,
+    "in_reply_to_user_id_str": "250485665",
+    "in_reply_to_screen_name": "nunnasia",
+    "user": {
+        "id": 1047772215016656896,
+        "id_str": "1047772215016656896",
+        "name": "Sanjiv Ranjan Jha",
+        "screen_name": "SanjivRanjanJh1",
+        "location": "Delhi NCR India",
+        "url": null,
+        "description": "stone edAged,views sunrays,follows Eternity Planners, Security&Zones, 'Yayavar'.\nTested DNA- Himalayan Vedic.\nall cards on the table- always up\nAll That Jhazz🎺",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 463,
+        "friends_count": 800,
+        "listed_count": 1,
+        "favourites_count": 18249,
+        "statuses_count": 20742,
+        "created_at": "Thu Oct 04 08:55:37 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075251373409796096/znpVH4gz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075251373409796096/znpVH4gz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1047772215016656896/1545195288",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "4d51b7ea67b6f64b",
+        "url": "https://api.twitter.com/1.1/geo/id/4d51b7ea67b6f64b.json",
+        "place_type": "city",
+        "name": "Ghaziabad",
+        "full_name": "Ghaziabad, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.20469,
+                        28.620877
+                    ],
+                    [
+                        77.20469,
+                        28.926259
+                    ],
+                    [
+                        77.641989,
+                        28.926259
+                    ],
+                    [
+                        77.641989,
+                        28.620877
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Afghanistan",
+                "indices": [
+                    53,
+                    65
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "nunnasia",
+                "name": "nunn.asia",
+                "id": 250485665,
+                "id_str": "250485665",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716873440"
+}

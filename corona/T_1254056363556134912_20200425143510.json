@@ -1,0 +1,127 @@
+{
+    "created_at": "Sat Apr 25 14:35:10 +0000 2020",
+    "id": 1254056363556134912,
+    "id_str": "1254056363556134912",
+    "text": "@AdamMysliwy @flavius217 @Play2Grass @GovPritzker Because it’s for parasites and corona virus is a VIRUS #DUH",
+    "display_text_range": [
+        50,
+        109
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253927895283625984,
+    "in_reply_to_status_id_str": "1253927895283625984",
+    "in_reply_to_user_id": 741045670170103808,
+    "in_reply_to_user_id_str": "741045670170103808",
+    "in_reply_to_screen_name": "AdamMysliwy",
+    "user": {
+        "id": 1022699330421940224,
+        "id_str": "1022699330421940224",
+        "name": "dylan",
+        "screen_name": "dylpicklerick",
+        "location": "La Grande, OR",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 51,
+        "friends_count": 119,
+        "listed_count": 0,
+        "favourites_count": 4805,
+        "statuses_count": 1943,
+        "created_at": "Fri Jul 27 04:24:56 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239265113682526208/sV67yO8H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239265113682526208/sV67yO8H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022699330421940224/1584292209",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "DUH",
+                "indices": [
+                    105,
+                    109
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AdamMysliwy",
+                "name": "10yrs a sailor",
+                "id": 741045670170103808,
+                "id_str": "741045670170103808",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "flavius217",
+                "name": "jeff sports",
+                "id": 978801796390047744,
+                "id_str": "978801796390047744",
+                "indices": [
+                    13,
+                    24
+                ]
+            },
+            {
+                "screen_name": "Play2Grass",
+                "name": "scott",
+                "id": 3366016546,
+                "id_str": "3366016546",
+                "indices": [
+                    25,
+                    36
+                ]
+            },
+            {
+                "screen_name": "GovPritzker",
+                "name": "Governor JB Pritzker",
+                "id": 1084817523378454529,
+                "id_str": "1084817523378454529",
+                "indices": [
+                    37,
+                    49
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825310969"
+}

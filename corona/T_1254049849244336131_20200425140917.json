@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 14:09:17 +0000 2020",
+    "id": 1254049849244336131,
+    "id_str": "1254049849244336131",
+    "text": "@InnoxiousBear @MohdTou58580471 @rahulkanwal I agree on negligence point. But media is tarah se dikha raha hai jais… https://t.co/SIjd5oZXNE",
+    "display_text_range": [
+        45,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253981002701078531,
+    "in_reply_to_status_id_str": "1253981002701078531",
+    "in_reply_to_user_id": 366600790,
+    "in_reply_to_user_id_str": "366600790",
+    "in_reply_to_screen_name": "InnoxiousBear",
+    "user": {
+        "id": 897804699625062400,
+        "id_str": "897804699625062400",
+        "name": "Indian Byheart",
+        "screen_name": "IndianByheart6",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 71,
+        "listed_count": 0,
+        "favourites_count": 856,
+        "statuses_count": 1217,
+        "created_at": "Wed Aug 16 12:58:15 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@InnoxiousBear @MohdTou58580471 @rahulkanwal I agree on negligence point. But media is tarah se dikha raha hai jaise wo jan boojh kar desh mein corona phailana chahte hai.. usse main sahmat nahi. Waise apko shayad pata nahi ke police thana markaz ki deewar se mila hua hai. Police ko unke event ki puri jankari thi.",
+        "display_text_range": [
+            45,
+            315
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "InnoxiousBear",
+                    "name": "ऋषभ अग्रवाल",
+                    "id": 366600790,
+                    "id_str": "366600790",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "MohdTou58580471",
+                    "name": "Mohd Toufeeq",
+                    "id": 1090986434893205504,
+                    "id_str": "1090986434893205504",
+                    "indices": [
+                        15,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "rahulkanwal",
+                    "name": "Rahul Kanwal",
+                    "id": 75509967,
+                    "id_str": "75509967",
+                    "indices": [
+                        32,
+                        44
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/SIjd5oZXNE",
+                "expanded_url": "https://twitter.com/i/web/status/1254049849244336131",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "InnoxiousBear",
+                "name": "ऋषभ अग्रवाल",
+                "id": 366600790,
+                "id_str": "366600790",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "MohdTou58580471",
+                "name": "Mohd Toufeeq",
+                "id": 1090986434893205504,
+                "id_str": "1090986434893205504",
+                "indices": [
+                    15,
+                    31
+                ]
+            },
+            {
+                "screen_name": "rahulkanwal",
+                "name": "Rahul Kanwal",
+                "id": 75509967,
+                "id_str": "75509967",
+                "indices": [
+                    32,
+                    44
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587823757836"
+}

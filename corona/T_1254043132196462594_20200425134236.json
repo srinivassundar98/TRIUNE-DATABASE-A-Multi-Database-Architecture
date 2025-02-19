@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:42:36 +0000 2020",
+    "id": 1254043132196462594,
+    "id_str": "1254043132196462594",
+    "text": "@Charles_80 Wah broo, kupikir dia selama ini sehat &amp; masi muda lho, apakah Corona?",
+    "display_text_range": [
+        12,
+        86
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254029235913555968,
+    "in_reply_to_status_id_str": "1254029235913555968",
+    "in_reply_to_user_id": 82865689,
+    "in_reply_to_user_id_str": "82865689",
+    "in_reply_to_screen_name": "Charles_80",
+    "user": {
+        "id": 1279468897,
+        "id_str": "1279468897",
+        "name": "Jonggring Saloko",
+        "screen_name": "Druginesia",
+        "location": "Flawless as fuck ",
+        "url": null,
+        "description": "Tempat sampah favorit | Hana's |",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 487,
+        "friends_count": 474,
+        "listed_count": 3,
+        "favourites_count": 14640,
+        "statuses_count": 62545,
+        "created_at": "Tue Mar 19 03:51:36 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253163523149987843/2fAucB41_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253163523149987843/2fAucB41_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1279468897/1579656869",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "814feb98943c7ce1",
+        "url": "https://api.twitter.com/1.1/geo/id/814feb98943c7ce1.json",
+        "place_type": "city",
+        "name": "Kebomas",
+        "full_name": "Kebomas, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        112.57746,
+                        -7.20845
+                    ],
+                    [
+                        112.57746,
+                        -7.14433
+                    ],
+                    [
+                        112.666582,
+                        -7.14433
+                    ],
+                    [
+                        112.666582,
+                        -7.20845
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Charles_80",
+                "name": "Charles aja",
+                "id": 82865689,
+                "id_str": "82865689",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822156367"
+}

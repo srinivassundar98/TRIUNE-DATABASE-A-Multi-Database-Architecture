@@ -1,0 +1,131 @@
+{
+    "created_at": "Sat Apr 25 13:34:57 +0000 2020",
+    "id": 1254041206759337990,
+    "id_str": "1254041206759337990",
+    "text": "@BASSYDITLHARENG @EricanSA Against the directives to keep us all safe, Corona is not a relative",
+    "display_text_range": [
+        27,
+        95
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254034522234146821,
+    "in_reply_to_status_id_str": "1254034522234146821",
+    "in_reply_to_user_id": 1904588768,
+    "in_reply_to_user_id_str": "1904588768",
+    "in_reply_to_screen_name": "BASSYDITLHARENG",
+    "user": {
+        "id": 1153760675686223872,
+        "id_str": "1153760675686223872",
+        "name": "Chemowo",
+        "screen_name": "Chemowo3",
+        "location": "Eldoret",
+        "url": null,
+        "description": "The grace of God is sufficient all the time.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3887,
+        "friends_count": 4015,
+        "listed_count": 0,
+        "favourites_count": 3093,
+        "statuses_count": 4237,
+        "created_at": "Tue Jul 23 20:15:55 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153762835622768643/_0bfJM2__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153762835622768643/_0bfJM2__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153760675686223872/1563913473",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00cf233e16e9e785",
+        "url": "https://api.twitter.com/1.1/geo/id/00cf233e16e9e785.json",
+        "place_type": "admin",
+        "name": "Kapchorwa",
+        "full_name": "Kapchorwa, Uganda",
+        "country_code": "UG",
+        "country": "Uganda",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        34.308769,
+                        1.099101
+                    ],
+                    [
+                        34.308769,
+                        1.60184
+                    ],
+                    [
+                        34.754871,
+                        1.60184
+                    ],
+                    [
+                        34.754871,
+                        1.099101
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "BASSYDITLHARENG",
+                "name": "Richmond Ditlhareng",
+                "id": 1904588768,
+                "id_str": "1904588768",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "EricanSA",
+                "name": "Chief Erican",
+                "id": 870012684,
+                "id_str": "870012684",
+                "indices": [
+                    17,
+                    26
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821697307"
+}

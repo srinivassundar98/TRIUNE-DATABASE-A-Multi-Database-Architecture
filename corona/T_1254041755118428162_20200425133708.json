@@ -1,0 +1,95 @@
+{
+    "created_at": "Sat Apr 25 13:37:08 +0000 2020",
+    "id": 1254041755118428162,
+    "id_str": "1254041755118428162",
+    "text": "https://t.co/gOFUWnFTUH via @betterplace_org",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1254039296761303040,
+        "id_str": "1254039296761303040",
+        "name": "Coronasurvivor",
+        "screen_name": "Coronasurvivor1",
+        "location": null,
+        "url": null,
+        "description": "Offen und ehrlich, hilfreich wo immer es geht. Lasst uns Zukunft zusammen gestalten. Alle für alle! Zusammen können wir Ziele erreichen. Es ist nicht 5 vor 12!!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 4,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 1,
+        "created_at": "Sat Apr 25 13:28:00 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gOFUWnFTUH",
+                "expanded_url": "https://www.betterplace.me/corona-promille-challenge?utm_campaign=user_share&utm_medium=manage_share_twitter&utm_source=Twitter",
+                "display_url": "betterplace.me/corona-promill…",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "betterplace_org",
+                "name": "betterplace",
+                "id": 12398392,
+                "id_str": "12398392",
+                "indices": [
+                    28,
+                    44
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587821828046"
+}

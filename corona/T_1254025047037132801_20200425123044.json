@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 12:30:44 +0000 2020",
+    "id": 1254025047037132801,
+    "id_str": "1254025047037132801",
+    "text": "@n_roettgen @Röttgen Was meinen Sie bei Wahrheit bleiben? Weder haben Sie Sachverstand noch können Sie ihren missve… https://t.co/GL4Ug9Cmqp",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253614437661126656,
+    "in_reply_to_status_id_str": "1253614437661126656",
+    "in_reply_to_user_id": 1040160799208161280,
+    "in_reply_to_user_id_str": "1040160799208161280",
+    "in_reply_to_screen_name": "n_roettgen",
+    "user": {
+        "id": 969506602326876160,
+        "id_str": "969506602326876160",
+        "name": "TangoWhisky",
+        "screen_name": "TangoWhisky4",
+        "location": null,
+        "url": null,
+        "description": "Esprit ist geil. Wählen wir die Kriege ab und erschaffen eine Demokratie",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1986,
+        "friends_count": 1866,
+        "listed_count": 0,
+        "favourites_count": 64081,
+        "statuses_count": 4792,
+        "created_at": "Fri Mar 02 09:36:01 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1047412137877032960/qhfFdv6z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047412137877032960/qhfFdv6z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969506602326876160/1539171188",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@n_roettgen @Röttgen Was meinen Sie bei Wahrheit bleiben? Weder haben Sie Sachverstand noch können Sie ihren missverstand erklären. Sie haben ein CORONA wissen wie eine Dummdrossel die sich aufgeplustert",
+        "display_text_range": [
+            12,
+            203
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "n_roettgen",
+                    "name": "Norbert Röttgen",
+                    "id": 1040160799208161280,
+                    "id_str": "1040160799208161280",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/GL4Ug9Cmqp",
+                "expanded_url": "https://twitter.com/i/web/status/1254025047037132801",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "n_roettgen",
+                "name": "Norbert Röttgen",
+                "id": 1040160799208161280,
+                "id_str": "1040160799208161280",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587817844529"
+}

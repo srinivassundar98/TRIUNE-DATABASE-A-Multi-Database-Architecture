@@ -1,0 +1,93 @@
+{
+    "created_at": "Sat Apr 25 14:31:31 +0000 2020",
+    "id": 1254055441195315202,
+    "id_str": "1254055441195315202",
+    "text": "https://t.co/hGu1Aq5q35: LIVE: Protest gegen Corona-Maßnahmen in Berlin https://t.co/d2ZkcJ97Bu",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 14247639,
+        "id_str": "14247639",
+        "name": "watchtv.de",
+        "screen_name": "switchtv",
+        "location": "Bonn , Germany",
+        "url": "http://www.watchtv.de",
+        "description": "Wolfgang Rathgeber\nex: TV Journalist/Author German TV",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 187,
+        "friends_count": 304,
+        "listed_count": 6,
+        "favourites_count": 6,
+        "statuses_count": 8089,
+        "created_at": "Fri Mar 28 22:42:59 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2C4CCF",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1753077831/cmg1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1753077831/cmg1_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/hGu1Aq5q35",
+                "expanded_url": "http://watchtv.de",
+                "display_url": "watchtv.de",
+                "indices": [
+                    0,
+                    23
+                ]
+            },
+            {
+                "url": "https://t.co/d2ZkcJ97Bu",
+                "expanded_url": "https://watchtelevision.blogspot.com/2020/04/live-protest-gegen-corona-manahmen-in.html?spref=tw",
+                "display_url": "watchtelevision.blogspot.com/2020/04/live-p…",
+                "indices": [
+                    72,
+                    95
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587825091061"
+}

@@ -1,0 +1,953 @@
+{
+    "created_at": "Sat Apr 25 13:34:51 +0000 2020",
+    "id": 1254041183212441600,
+    "id_str": "1254041183212441600",
+    "text": "RT @ItalyinARG: #25aprile. Il Presidente #Mattarella ha deposto una corona all’Altare della Patria nel 75^ anniversario della #Liberazione.…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 844321904991354880,
+        "id_str": "844321904991354880",
+        "name": "martin brook",
+        "screen_name": "martinbrook29",
+        "location": "Rosario, Argentina",
+        "url": null,
+        "description": "Console Generale d'Italia - Rosario - Argentina",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 356,
+        "friends_count": 135,
+        "listed_count": 0,
+        "favourites_count": 5805,
+        "statuses_count": 2023,
+        "created_at": "Tue Mar 21 22:56:43 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/844502551412310021/v3s4R7Z-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/844502551412310021/v3s4R7Z-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/844321904991354880/1493219103",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 13:27:23 +0000 2020",
+        "id": 1254039302276775936,
+        "id_str": "1254039302276775936",
+        "text": "#25aprile. Il Presidente #Mattarella ha deposto una corona all’Altare della Patria nel 75^ anniversario della… https://t.co/u3QuS5Xdf2",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3018112143,
+            "id_str": "3018112143",
+            "name": "Italy in Argentina",
+            "screen_name": "ItalyinARG",
+            "location": "Buenos Aires, Argentina",
+            "url": "http://www.ambbuenosaires.esteri.it",
+            "description": "Profilo ufficiale dell'Ambasciata d'Italia in Argentina. Embajada de Italia en Argentina.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 13276,
+            "friends_count": 648,
+            "listed_count": 92,
+            "favourites_count": 5259,
+            "statuses_count": 10057,
+            "created_at": "Wed Feb 04 17:24:33 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1166794683571458048/b3fZakIO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166794683571458048/b3fZakIO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018112143/1546957990",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253986335297359874,
+        "quoted_status_id_str": "1253986335297359874",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 09:56:54 +0000 2020",
+            "id": 1253986335297359874,
+            "id_str": "1253986335297359874",
+            "text": "#25Aprile, nel 75° anniversario della #Liberazione il Presidente #Mattarella ha deposto una corona all’Altare della… https://t.co/vDcVcwEMQy",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 732819391,
+                "id_str": "732819391",
+                "name": "Quirinale",
+                "screen_name": "Quirinale",
+                "location": null,
+                "url": "http://www.quirinale.it",
+                "description": "Presidenza della Repubblica Italiana - Official Account",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 551152,
+                "friends_count": 6,
+                "listed_count": 1734,
+                "favourites_count": 152,
+                "statuses_count": 6473,
+                "created_at": "Thu Aug 02 13:19:56 +0000 2012",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2459192044/stendardo_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2459192044/stendardo_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/732819391/1509032756",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "#25Aprile, nel 75° anniversario della #Liberazione il Presidente #Mattarella ha deposto una corona all’Altare della Patria e ha scritto questo messaggio: https://t.co/bsRPrkIN7s https://t.co/EQaoInpE1W",
+                "display_text_range": [
+                    0,
+                    177
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "25Aprile",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        },
+                        {
+                            "text": "Liberazione",
+                            "indices": [
+                                38,
+                                50
+                            ]
+                        },
+                        {
+                            "text": "Mattarella",
+                            "indices": [
+                                65,
+                                76
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/bsRPrkIN7s",
+                            "expanded_url": "http://l.quirinale.it/POWSP",
+                            "display_url": "l.quirinale.it/POWSP",
+                            "indices": [
+                                154,
+                                177
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253980756172562432,
+                            "id_str": "1253980756172562432",
+                            "indices": [
+                                178,
+                                201
+                            ],
+                            "additional_media_info": {
+                                "title": "",
+                                "description": "",
+                                "embeddable": true,
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/media/EWcKl6RXsAITn37.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWcKl6RXsAITn37.jpg",
+                            "url": "https://t.co/EQaoInpE1W",
+                            "display_url": "pic.twitter.com/EQaoInpE1W",
+                            "expanded_url": "https://twitter.com/Quirinale/status/1253986335297359874/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 175120,
+                                "variants": [
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/1280x720/qvDnVvH0ZEWKcw7V.mp4?tag=13"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1253980756172562432/pl/f57uzq9Vg8JFNfDF.m3u8?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 288000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/480x270/h-_p29U9i7xW5b7Y.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/640x360/eeRv4N_zKmvEeQze.mp4?tag=13"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 807,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1377,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 457,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253980756172562432,
+                            "id_str": "1253980756172562432",
+                            "indices": [
+                                178,
+                                201
+                            ],
+                            "additional_media_info": {
+                                "title": "",
+                                "description": "",
+                                "embeddable": true,
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/media/EWcKl6RXsAITn37.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWcKl6RXsAITn37.jpg",
+                            "url": "https://t.co/EQaoInpE1W",
+                            "display_url": "pic.twitter.com/EQaoInpE1W",
+                            "expanded_url": "https://twitter.com/Quirinale/status/1253986335297359874/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 175120,
+                                "variants": [
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/1280x720/qvDnVvH0ZEWKcw7V.mp4?tag=13"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1253980756172562432/pl/f57uzq9Vg8JFNfDF.m3u8?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 288000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/480x270/h-_p29U9i7xW5b7Y.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/640x360/eeRv4N_zKmvEeQze.mp4?tag=13"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 807,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1377,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 457,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 227,
+            "reply_count": 267,
+            "retweet_count": 1848,
+            "favorite_count": 5292,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "25Aprile",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "text": "Liberazione",
+                        "indices": [
+                            38,
+                            50
+                        ]
+                    },
+                    {
+                        "text": "Mattarella",
+                        "indices": [
+                            65,
+                            76
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/vDcVcwEMQy",
+                        "expanded_url": "https://twitter.com/i/web/status/1253986335297359874",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "it"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/wGVdX63xt0",
+            "expanded": "https://twitter.com/quirinale/status/1253986335297359874",
+            "display": "twitter.com/quirinale/stat…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "#25aprile. Il Presidente #Mattarella ha deposto una corona all’Altare della Patria nel 75^ anniversario della #Liberazione. In #Argentina il tricolore sventola alto a Buenos Aires e in tutto il Paese. Buona #festadellaliberazione. Viva l’Italia! https://t.co/1xuGlsIFhP",
+            "display_text_range": [
+                0,
+                245
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "25aprile",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "text": "Mattarella",
+                        "indices": [
+                            25,
+                            36
+                        ]
+                    },
+                    {
+                        "text": "Liberazione",
+                        "indices": [
+                            110,
+                            122
+                        ]
+                    },
+                    {
+                        "text": "Argentina",
+                        "indices": [
+                            127,
+                            137
+                        ]
+                    },
+                    {
+                        "text": "festadellaliberazione",
+                        "indices": [
+                            207,
+                            229
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1254039294404186114,
+                        "id_str": "1254039294404186114",
+                        "indices": [
+                            246,
+                            269
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWc-GBVX0AIa_2L.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWc-GBVX0AIa_2L.jpg",
+                        "url": "https://t.co/1xuGlsIFhP",
+                        "display_url": "pic.twitter.com/1xuGlsIFhP",
+                        "expanded_url": "https://twitter.com/ItalyinARG/status/1254039302276775936/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1254039294404186114,
+                        "id_str": "1254039294404186114",
+                        "indices": [
+                            246,
+                            269
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWc-GBVX0AIa_2L.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWc-GBVX0AIa_2L.jpg",
+                        "url": "https://t.co/1xuGlsIFhP",
+                        "display_url": "pic.twitter.com/1xuGlsIFhP",
+                        "expanded_url": "https://twitter.com/ItalyinARG/status/1254039302276775936/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5,
+        "favorite_count": 8,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "25aprile",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "text": "Mattarella",
+                    "indices": [
+                        25,
+                        36
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/u3QuS5Xdf2",
+                    "expanded_url": "https://twitter.com/i/web/status/1254039302276775936",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        111,
+                        134
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "it"
+    },
+    "quoted_status_id": 1253986335297359874,
+    "quoted_status_id_str": "1253986335297359874",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 09:56:54 +0000 2020",
+        "id": 1253986335297359874,
+        "id_str": "1253986335297359874",
+        "text": "#25Aprile, nel 75° anniversario della #Liberazione il Presidente #Mattarella ha deposto una corona all’Altare della… https://t.co/vDcVcwEMQy",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 732819391,
+            "id_str": "732819391",
+            "name": "Quirinale",
+            "screen_name": "Quirinale",
+            "location": null,
+            "url": "http://www.quirinale.it",
+            "description": "Presidenza della Repubblica Italiana - Official Account",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 551152,
+            "friends_count": 6,
+            "listed_count": 1734,
+            "favourites_count": 152,
+            "statuses_count": 6473,
+            "created_at": "Thu Aug 02 13:19:56 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2459192044/stendardo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2459192044/stendardo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/732819391/1509032756",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#25Aprile, nel 75° anniversario della #Liberazione il Presidente #Mattarella ha deposto una corona all’Altare della Patria e ha scritto questo messaggio: https://t.co/bsRPrkIN7s https://t.co/EQaoInpE1W",
+            "display_text_range": [
+                0,
+                177
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "25Aprile",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "text": "Liberazione",
+                        "indices": [
+                            38,
+                            50
+                        ]
+                    },
+                    {
+                        "text": "Mattarella",
+                        "indices": [
+                            65,
+                            76
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/bsRPrkIN7s",
+                        "expanded_url": "http://l.quirinale.it/POWSP",
+                        "display_url": "l.quirinale.it/POWSP",
+                        "indices": [
+                            154,
+                            177
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253980756172562432,
+                        "id_str": "1253980756172562432",
+                        "indices": [
+                            178,
+                            201
+                        ],
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/media/EWcKl6RXsAITn37.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcKl6RXsAITn37.jpg",
+                        "url": "https://t.co/EQaoInpE1W",
+                        "display_url": "pic.twitter.com/EQaoInpE1W",
+                        "expanded_url": "https://twitter.com/Quirinale/status/1253986335297359874/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 175120,
+                            "variants": [
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/1280x720/qvDnVvH0ZEWKcw7V.mp4?tag=13"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1253980756172562432/pl/f57uzq9Vg8JFNfDF.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/480x270/h-_p29U9i7xW5b7Y.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/640x360/eeRv4N_zKmvEeQze.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 807,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1377,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 457,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253980756172562432,
+                        "id_str": "1253980756172562432",
+                        "indices": [
+                            178,
+                            201
+                        ],
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/media/EWcKl6RXsAITn37.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcKl6RXsAITn37.jpg",
+                        "url": "https://t.co/EQaoInpE1W",
+                        "display_url": "pic.twitter.com/EQaoInpE1W",
+                        "expanded_url": "https://twitter.com/Quirinale/status/1253986335297359874/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 175120,
+                            "variants": [
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/1280x720/qvDnVvH0ZEWKcw7V.mp4?tag=13"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1253980756172562432/pl/f57uzq9Vg8JFNfDF.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/480x270/h-_p29U9i7xW5b7Y.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253980756172562432/vid/640x360/eeRv4N_zKmvEeQze.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 807,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1377,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 457,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 227,
+        "reply_count": 267,
+        "retweet_count": 1848,
+        "favorite_count": 5292,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "25Aprile",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "text": "Liberazione",
+                    "indices": [
+                        38,
+                        50
+                    ]
+                },
+                {
+                    "text": "Mattarella",
+                    "indices": [
+                        65,
+                        76
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vDcVcwEMQy",
+                    "expanded_url": "https://twitter.com/i/web/status/1253986335297359874",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "it"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/wGVdX63xt0",
+        "expanded": "https://twitter.com/quirinale/status/1253986335297359874",
+        "display": "twitter.com/quirinale/stat…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "25aprile",
+                "indices": [
+                    16,
+                    25
+                ]
+            },
+            {
+                "text": "Mattarella",
+                "indices": [
+                    41,
+                    52
+                ]
+            },
+            {
+                "text": "Liberazione",
+                "indices": [
+                    126,
+                    138
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ItalyinARG",
+                "name": "Italy in Argentina",
+                "id": 3018112143,
+                "id_str": "3018112143",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1587821691693"
+}

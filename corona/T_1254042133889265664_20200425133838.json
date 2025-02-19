@@ -1,0 +1,148 @@
+{
+    "created_at": "Sat Apr 25 13:38:38 +0000 2020",
+    "id": 1254042133889265664,
+    "id_str": "1254042133889265664",
+    "text": "@Sophie_Wilmes tip: een goede #PowerPoint presentatie bestaat uit 3 (drie) schermen. Scherm 1: welkom. Scherm 3: to… https://t.co/797yuFYyYV",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 516626068,
+    "in_reply_to_user_id_str": "516626068",
+    "in_reply_to_screen_name": "Sophie_Wilmes",
+    "user": {
+        "id": 133754252,
+        "id_str": "133754252",
+        "name": "Lieven Maus",
+        "screen_name": "LievenMaus",
+        "location": "Antwerpen - België",
+        "url": "http://www.apomaus.be",
+        "description": "Pharmacy in the center of Antwerpen - Belgium.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 210,
+        "friends_count": 231,
+        "listed_count": 5,
+        "favourites_count": 33,
+        "statuses_count": 140,
+        "created_at": "Fri Apr 16 14:55:57 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1065924849841963008/7QiTYJBZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065924849841963008/7QiTYJBZ_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Sophie_Wilmes tip: een goede #PowerPoint presentatie bestaat uit 3 (drie) schermen. Scherm 1: welkom. Scherm 3: tot ziens. En op scherm 2 wat je te zeggen hebt. Past niet alles op scherm 2 dan wil je teveel zeggen. Graag gedaan.\n#corona #covid19",
+        "display_text_range": [
+            0,
+            246
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "PowerPoint",
+                    "indices": [
+                        30,
+                        41
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        230,
+                        237
+                    ]
+                },
+                {
+                    "text": "covid19",
+                    "indices": [
+                        238,
+                        246
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Sophie_Wilmes",
+                    "name": "Sophie Wilmès",
+                    "id": 516626068,
+                    "id_str": "516626068",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "PowerPoint",
+                "indices": [
+                    30,
+                    41
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/797yuFYyYV",
+                "expanded_url": "https://twitter.com/i/web/status/1254042133889265664",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Sophie_Wilmes",
+                "name": "Sophie Wilmès",
+                "id": 516626068,
+                "id_str": "516626068",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587821918352"
+}

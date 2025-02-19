@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 13:58:08 +0000 2020",
+    "id": 1254047043150123009,
+    "id_str": "1254047043150123009",
+    "text": "@lestatdelc @Coronavid019 @MBK_Alliance @BarackObama People who have died of heart attacks and other medical emerge… https://t.co/eqB3FwlU5n",
+    "display_text_range": [
+        53,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253878743132565504,
+    "in_reply_to_status_id_str": "1253878743132565504",
+    "in_reply_to_user_id": 139534126,
+    "in_reply_to_user_id_str": "139534126",
+    "in_reply_to_screen_name": "lestatdelc",
+    "user": {
+        "id": 1221572277994692608,
+        "id_str": "1221572277994692608",
+        "name": "J-ro",
+        "screen_name": "Jro57008799",
+        "location": null,
+        "url": null,
+        "description": "Blathering blatherskites.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 16,
+        "friends_count": 230,
+        "listed_count": 0,
+        "favourites_count": 6373,
+        "statuses_count": 1840,
+        "created_at": "Sun Jan 26 23:15:12 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221574916945928194/l2jteu52_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221574916945928194/l2jteu52_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@lestatdelc @Coronavid019 @MBK_Alliance @BarackObama People who have died of heart attacks and other medical emergencies with “probably Covid” are listed as Corona deaths. It’s inflated.",
+        "display_text_range": [
+            53,
+            186
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "lestatdelc",
+                    "name": "Mitchell Gore",
+                    "id": 139534126,
+                    "id_str": "139534126",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "Coronavid019",
+                    "name": "World Info",
+                    "id": 809529661747138560,
+                    "id_str": "809529661747138560",
+                    "indices": [
+                        12,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "MBK_Alliance",
+                    "name": "MBK Alliance",
+                    "id": 3157910605,
+                    "id_str": "3157910605",
+                    "indices": [
+                        26,
+                        39
+                    ]
+                },
+                {
+                    "screen_name": "BarackObama",
+                    "name": "Barack Obama",
+                    "id": 813286,
+                    "id_str": "813286",
+                    "indices": [
+                        40,
+                        52
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/eqB3FwlU5n",
+                "expanded_url": "https://twitter.com/i/web/status/1254047043150123009",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "lestatdelc",
+                "name": "Mitchell Gore",
+                "id": 139534126,
+                "id_str": "139534126",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "Coronavid019",
+                "name": "World Info",
+                "id": 809529661747138560,
+                "id_str": "809529661747138560",
+                "indices": [
+                    12,
+                    25
+                ]
+            },
+            {
+                "screen_name": "MBK_Alliance",
+                "name": "MBK Alliance",
+                "id": 3157910605,
+                "id_str": "3157910605",
+                "indices": [
+                    26,
+                    39
+                ]
+            },
+            {
+                "screen_name": "BarackObama",
+                "name": "Barack Obama",
+                "id": 813286,
+                "id_str": "813286",
+                "indices": [
+                    40,
+                    52
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823088811"
+}

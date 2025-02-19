@@ -1,0 +1,179 @@
+{
+    "created_at": "Sun Apr 12 18:41:24 +0000 2020",
+    "id": 1249407285669093376,
+    "id_str": "1249407285669093376",
+    "text": "So China decided to tell the world about corona virus on the same day @DjMaphorisa and @KabzaDeSmall_  decided to r… https://t.co/yChgMNBlH1",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1088525133780795392,
+        "id_str": "1088525133780795392",
+        "name": "terryotega",
+        "screen_name": "terrenc28957993",
+        "location": "Cape Town, South Africa",
+        "url": null,
+        "description": "Simple as always @Chelseafc biggest fan ,lost my old account 😔,doing this whole Twitter thing again #vino #gin 🔥🔥",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 11,
+        "friends_count": 58,
+        "listed_count": 0,
+        "favourites_count": 1,
+        "statuses_count": 24,
+        "created_at": "Thu Jan 24 19:53:10 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1088542644765102081/5ZmM2vOR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088542644765102081/5ZmM2vOR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088525133780795392/1548393081",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "dd9c0d7d7e07eb49",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c0d7d7e07eb49.json",
+        "place_type": "country",
+        "name": "South Africa",
+        "full_name": "South Africa",
+        "country_code": "ZA",
+        "country": "South Africa",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        16.447593,
+                        -34.834247
+                    ],
+                    [
+                        16.447593,
+                        -22.124724
+                    ],
+                    [
+                        32.892293,
+                        -22.124724
+                    ],
+                    [
+                        32.892293,
+                        -34.834247
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "So China decided to tell the world about corona virus on the same day @DjMaphorisa and @KabzaDeSmall_  decided to release Phoyisa 👏🏾 u welcome #BlackTwitter",
+        "display_text_range": [
+            0,
+            156
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BlackTwitter",
+                    "indices": [
+                        143,
+                        156
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DjMaphorisa",
+                    "name": "Scorpion Kings Live At Sun Arena 9 Aug",
+                    "id": 182573602,
+                    "id_str": "182573602",
+                    "indices": [
+                        70,
+                        82
+                    ]
+                },
+                {
+                    "screen_name": "KabzaDeSmall_",
+                    "name": "#ThePianoKing",
+                    "id": 1007191013742579712,
+                    "id_str": "1007191013742579712",
+                    "indices": [
+                        87,
+                        101
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/yChgMNBlH1",
+                "expanded_url": "https://twitter.com/i/web/status/1249407285669093376",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DjMaphorisa",
+                "name": "Scorpion Kings Live At Sun Arena 9 Aug",
+                "id": 182573602,
+                "id_str": "182573602",
+                "indices": [
+                    70,
+                    82
+                ]
+            },
+            {
+                "screen_name": "KabzaDeSmall_",
+                "name": "#ThePianoKing",
+                "id": 1007191013742579712,
+                "id_str": "1007191013742579712",
+                "indices": [
+                    87,
+                    101
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716884425"
+}

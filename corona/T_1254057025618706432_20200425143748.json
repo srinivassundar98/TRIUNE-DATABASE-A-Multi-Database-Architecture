@@ -1,0 +1,181 @@
+{
+    "created_at": "Sat Apr 25 14:37:48 +0000 2020",
+    "id": 1254057025618706432,
+    "id_str": "1254057025618706432",
+    "text": "@CP24 CP24 = Corona Panic 24/7 https://t.co/SrBsqiY6Fs",
+    "display_text_range": [
+        6,
+        30
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254056085914365952,
+    "in_reply_to_status_id_str": "1254056085914365952",
+    "in_reply_to_user_id": 19636948,
+    "in_reply_to_user_id_str": "19636948",
+    "in_reply_to_screen_name": "CP24",
+    "user": {
+        "id": 1248321369164709889,
+        "id_str": "1248321369164709889",
+        "name": "CoSTeO",
+        "screen_name": "c0s_t3o",
+        "location": "Toronto, Ontario",
+        "url": null,
+        "description": "》《》《》《》《》《》《",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 22,
+        "listed_count": 0,
+        "favourites_count": 26,
+        "statuses_count": 84,
+        "created_at": "Thu Apr 09 18:46:32 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248395186255704071/o9TPKp6Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248395186255704071/o9TPKp6Y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248321369164709889/1586475625",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "CP24",
+                "name": "CP24",
+                "id": 19636948,
+                "id_str": "19636948",
+                "indices": [
+                    0,
+                    5
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254057018895273984,
+                "id_str": "1254057018895273984",
+                "indices": [
+                    31,
+                    54
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdONuNWkAAWZ8Y.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdONuNWkAAWZ8Y.jpg",
+                "url": "https://t.co/SrBsqiY6Fs",
+                "display_url": "pic.twitter.com/SrBsqiY6Fs",
+                "expanded_url": "https://twitter.com/c0s_t3o/status/1254057025618706432/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 298,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254057018895273984,
+                "id_str": "1254057018895273984",
+                "indices": [
+                    31,
+                    54
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdONuNWkAAWZ8Y.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdONuNWkAAWZ8Y.jpg",
+                "url": "https://t.co/SrBsqiY6Fs",
+                "display_url": "pic.twitter.com/SrBsqiY6Fs",
+                "expanded_url": "https://twitter.com/c0s_t3o/status/1254057025618706432/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        249,
+                        149
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EWdONuNWkAAWZ8Y.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 498,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 498,
+                        "h": 298,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 498,
+                        "h": 298,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pl",
+    "timestamp_ms": "1587825468817"
+}

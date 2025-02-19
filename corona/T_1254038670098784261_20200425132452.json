@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 13:24:52 +0000 2020",
+    "id": 1254038670098784261,
+    "id_str": "1254038670098784261",
+    "text": "@TimesNow @tsrawatbjp @thenewshour What after 3rd May? When lockdown ends Corona will spread at faster rate like Singapore.",
+    "display_text_range": [
+        35,
+        123
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254038262563442693,
+    "in_reply_to_status_id_str": "1254038262563442693",
+    "in_reply_to_user_id": 240649814,
+    "in_reply_to_user_id_str": "240649814",
+    "in_reply_to_screen_name": "TimesNow",
+    "user": {
+        "id": 2192585733,
+        "id_str": "2192585733",
+        "name": "ABN",
+        "screen_name": "AbhiNdy",
+        "location": "London",
+        "url": null,
+        "description": "Capital Markets - Technology Analyst",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 69,
+        "friends_count": 315,
+        "listed_count": 1,
+        "favourites_count": 6796,
+        "statuses_count": 6890,
+        "created_at": "Sat Nov 23 11:14:36 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251644973121929217/t4d8YKVJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251644973121929217/t4d8YKVJ_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "TimesNow",
+                "name": "TIMES NOW",
+                "id": 240649814,
+                "id_str": "240649814",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "tsrawatbjp",
+                "name": "Trivendra Singh Rawat",
+                "id": 1853680447,
+                "id_str": "1853680447",
+                "indices": [
+                    10,
+                    21
+                ]
+            },
+            {
+                "screen_name": "thenewshour",
+                "name": "THE NEWSHOUR",
+                "id": 97442036,
+                "id_str": "97442036",
+                "indices": [
+                    22,
+                    34
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821092520"
+}

@@ -1,0 +1,220 @@
+{
+    "created_at": "Sat Apr 25 14:01:04 +0000 2020",
+    "id": 1254047781821411328,
+    "id_str": "1254047781821411328",
+    "text": "A picture is worth a thousand words. Just like our doctors &amp; paramedics, the policemen are working hard too &amp; they… https://t.co/AzURVLYER9",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 158323343,
+        "id_str": "158323343",
+        "name": "Kulpreet Yadav",
+        "screen_name": "Kulpreetyadav",
+        "location": "New Delhi",
+        "url": "http://bit.ly/toptruecrime",
+        "description": "Author | 20 yrs as Armed Forces Officer | 6 yrs as writer | Fledgling filmmaker | Books with Penguin, Bloomsbury, Rupa, & Srishti |\nNew book👇",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 19673,
+        "friends_count": 3862,
+        "listed_count": 418,
+        "favourites_count": 10423,
+        "statuses_count": 11750,
+        "created_at": "Tue Jun 22 11:01:28 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253953583277436935/yEOn2agp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253953583277436935/yEOn2agp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158323343/1585755386",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "b850c1bfd38f30e0",
+        "url": "https://api.twitter.com/1.1/geo/id/b850c1bfd38f30e0.json",
+        "place_type": "country",
+        "name": "India",
+        "full_name": "India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        67.997691,
+                        6.622513
+                    ],
+                    [
+                        67.997691,
+                        33.254896
+                    ],
+                    [
+                        97.170672,
+                        33.254896
+                    ],
+                    [
+                        97.170672,
+                        6.622513
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "A picture is worth a thousand words. Just like our doctors &amp; paramedics, the policemen are working hard too &amp; they deserve respect. And some rest, of course. BTW, India's police to population ratio is 192 policemen for one lakh people, one of the worst in the world!\n#Corona https://t.co/9XMjootFx3",
+        "display_text_range": [
+            0,
+            282
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        275,
+                        282
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254047766990319618,
+                    "id_str": "1254047766990319618",
+                    "indices": [
+                        283,
+                        306
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdFzMLUcAIbB3a.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdFzMLUcAIbB3a.jpg",
+                    "url": "https://t.co/9XMjootFx3",
+                    "display_url": "pic.twitter.com/9XMjootFx3",
+                    "expanded_url": "https://twitter.com/Kulpreetyadav/status/1254047781821411328/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1599,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 459,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 811,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254047766990319618,
+                    "id_str": "1254047766990319618",
+                    "indices": [
+                        283,
+                        306
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdFzMLUcAIbB3a.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdFzMLUcAIbB3a.jpg",
+                    "url": "https://t.co/9XMjootFx3",
+                    "display_url": "pic.twitter.com/9XMjootFx3",
+                    "expanded_url": "https://twitter.com/Kulpreetyadav/status/1254047781821411328/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1599,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 459,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 811,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/AzURVLYER9",
+                "expanded_url": "https://twitter.com/i/web/status/1254047781821411328",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    124,
+                    147
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823264924"
+}

@@ -1,0 +1,116 @@
+{
+    "created_at": "Sat Apr 25 13:47:18 +0000 2020",
+    "id": 1254044314457473026,
+    "id_str": "1254044314457473026",
+    "text": "5.5laks corona tests till https://t.co/Tk9VYvman0 it enough?",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 960398264083214336,
+        "id_str": "960398264083214336",
+        "name": "Dr. Madhusudan Mishra",
+        "screen_name": "drmmishra7",
+        "location": "Bhubaneswarl",
+        "url": null,
+        "description": "chairman,citizen forum,odisha.Former president,odisha medical services association,free thinker,and ever learner.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 23,
+        "friends_count": 147,
+        "listed_count": 0,
+        "favourites_count": 33,
+        "statuses_count": 140,
+        "created_at": "Mon Feb 05 06:22:44 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960405460707819521/Stc670Fr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960405460707819521/Stc670Fr_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "404494447ad0eb09",
+        "url": "https://api.twitter.com/1.1/geo/id/404494447ad0eb09.json",
+        "place_type": "city",
+        "name": "Bhubaneshwar",
+        "full_name": "Bhubaneshwar, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        85.624118,
+                        20.064307
+                    ],
+                    [
+                        85.624118,
+                        20.43391
+                    ],
+                    [
+                        86.082706,
+                        20.43391
+                    ],
+                    [
+                        86.082706,
+                        20.064307
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Tk9VYvman0",
+                "expanded_url": "http://now.Is",
+                "display_url": "now.Is",
+                "indices": [
+                    26,
+                    49
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822438240"
+}

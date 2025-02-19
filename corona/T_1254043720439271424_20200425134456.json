@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 13:44:56 +0000 2020",
+    "id": 1254043720439271424,
+    "id_str": "1254043720439271424",
+    "text": "@TheRealDisco @AEWonTNT 5 year old in Detroit died from Corona virus, her brain swelled, one of the more serious si… https://t.co/CesyrYcMzB",
+    "display_text_range": [
+        24,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253699306718203906,
+    "in_reply_to_status_id_str": "1253699306718203906",
+    "in_reply_to_user_id": 343549833,
+    "in_reply_to_user_id_str": "343549833",
+    "in_reply_to_screen_name": "TheRealDisco",
+    "user": {
+        "id": 837184013869662209,
+        "id_str": "837184013869662209",
+        "name": "David Wood II",
+        "screen_name": "NorthSideKang",
+        "location": "Lansing, MI",
+        "url": null,
+        "description": "Build a die, Troll a bum, Troll a celeb, wrestle with the dead..",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 29,
+        "friends_count": 523,
+        "listed_count": 0,
+        "favourites_count": 410,
+        "statuses_count": 985,
+        "created_at": "Thu Mar 02 06:13:17 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/837210131490275329/ba4b5fCl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/837210131490275329/ba4b5fCl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837184013869662209/1488441423",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@TheRealDisco @AEWonTNT 5 year old in Detroit died from Corona virus, her brain swelled, one of the more serious side effects of Corona. But sure the risk to young healthy people is low Glenn",
+        "display_text_range": [
+            24,
+            191
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "TheRealDisco",
+                    "name": "Glenn Gilbertti",
+                    "id": 343549833,
+                    "id_str": "343549833",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "AEWonTNT",
+                    "name": "All Elite Wrestling on TNT",
+                    "id": 1128707845589876736,
+                    "id_str": "1128707845589876736",
+                    "indices": [
+                        14,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/CesyrYcMzB",
+                "expanded_url": "https://twitter.com/i/web/status/1254043720439271424",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "TheRealDisco",
+                "name": "Glenn Gilbertti",
+                "id": 343549833,
+                "id_str": "343549833",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "AEWonTNT",
+                "name": "All Elite Wrestling on TNT",
+                "id": 1128707845589876736,
+                "id_str": "1128707845589876736",
+                "indices": [
+                    14,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822296615"
+}

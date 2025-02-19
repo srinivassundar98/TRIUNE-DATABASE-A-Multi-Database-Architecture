@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:00:06 +0000 2020",
+    "id": 1254047537243144197,
+    "id_str": "1254047537243144197",
+    "text": "@mohit8523 @drapr007 It is maybe delayed of corona",
+    "display_text_range": [
+        21,
+        50
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254047244946300928,
+    "in_reply_to_status_id_str": "1254047244946300928",
+    "in_reply_to_user_id": 778287925498753024,
+    "in_reply_to_user_id_str": "778287925498753024",
+    "in_reply_to_screen_name": "mohit8523",
+    "user": {
+        "id": 1249531048708304897,
+        "id_str": "1249531048708304897",
+        "name": "Anakin Skywalker",
+        "screen_name": "Anakin_IAF",
+        "location": "🏳️‍🌈",
+        "url": null,
+        "description": "Military enthusiast, Cricket lover, @IAF_MCC ♥️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 30,
+        "friends_count": 38,
+        "listed_count": 0,
+        "favourites_count": 1580,
+        "statuses_count": 967,
+        "created_at": "Mon Apr 13 02:53:21 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249531132372123648/JEiW3toG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249531132372123648/JEiW3toG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249531048708304897/1587746243",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "mohit8523",
+                "name": "Berret",
+                "id": 778287925498753024,
+                "id_str": "778287925498753024",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "drapr007",
+                "name": "Dr. APR",
+                "id": 1249686141931929602,
+                "id_str": "1249686141931929602",
+                "indices": [
+                    11,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823206612"
+}

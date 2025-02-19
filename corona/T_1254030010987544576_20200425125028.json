@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 12:50:28 +0000 2020",
+    "id": 1254030010987544576,
+    "id_str": "1254030010987544576",
+    "text": "@Hellewegen @woukevscherrenb @NOS Dat zou erg vervelend zijn en dat moet dan van paasweekend zijn of zo. Maar als d… https://t.co/B5V4aKePtK",
+    "display_text_range": [
+        34,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254028649231253507,
+    "in_reply_to_status_id_str": "1254028649231253507",
+    "in_reply_to_user_id": 150002108,
+    "in_reply_to_user_id_str": "150002108",
+    "in_reply_to_screen_name": "Hellewegen",
+    "user": {
+        "id": 149259138,
+        "id_str": "149259138",
+        "name": "Bas Schouwenberg",
+        "screen_name": "BasSchouwenberg",
+        "location": "Nijmegen",
+        "url": null,
+        "description": "Internist-Klinisch Farmacoloog|Diabetes|Curriculum 2015|OMT2|METC|stagecoördinator coschappen|@radboudumc|@kdcn024|vader van 2 jongens|persoonlijke titel",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1301,
+        "friends_count": 455,
+        "listed_count": 25,
+        "favourites_count": 1582,
+        "statuses_count": 6583,
+        "created_at": "Fri May 28 20:56:40 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/789486371979362304/vyjtORYJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/789486371979362304/vyjtORYJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/149259138/1448146256",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Hellewegen @woukevscherrenb @NOS Dat zou erg vervelend zijn en dat moet dan van paasweekend zijn of zo. Maar als die echt Corona hebben (kan alleen verdenking zijn en dat is al snel in deze tijd) duiken ze na het weekend pas in de statistieken op denk ik.",
+        "display_text_range": [
+            34,
+            256
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Hellewegen",
+                    "name": "Ruud Hellewegen",
+                    "id": 150002108,
+                    "id_str": "150002108",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "woukevscherrenb",
+                    "name": "wouke van scherrenbu",
+                    "id": 116425407,
+                    "id_str": "116425407",
+                    "indices": [
+                        12,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "NOS",
+                    "name": "NOS",
+                    "id": 7174972,
+                    "id_str": "7174972",
+                    "indices": [
+                        29,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/B5V4aKePtK",
+                "expanded_url": "https://twitter.com/i/web/status/1254030010987544576",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Hellewegen",
+                "name": "Ruud Hellewegen",
+                "id": 150002108,
+                "id_str": "150002108",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "woukevscherrenb",
+                "name": "wouke van scherrenbu",
+                "id": 116425407,
+                "id_str": "116425407",
+                "indices": [
+                    12,
+                    28
+                ]
+            },
+            {
+                "screen_name": "NOS",
+                "name": "NOS",
+                "id": 7174972,
+                "id_str": "7174972",
+                "indices": [
+                    29,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587819028027"
+}

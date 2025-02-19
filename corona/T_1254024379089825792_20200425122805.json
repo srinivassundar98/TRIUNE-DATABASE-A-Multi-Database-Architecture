@@ -1,0 +1,176 @@
+{
+    "created_at": "Sat Apr 25 12:28:05 +0000 2020",
+    "id": 1254024379089825792,
+    "id_str": "1254024379089825792",
+    "text": "@shitlicious Corona kelar kita gowes yaa :) #BiroJomblo https://t.co/d7MguGcHG6",
+    "display_text_range": [
+        13,
+        55
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254013550894313473,
+    "in_reply_to_status_id_str": "1254013550894313473",
+    "in_reply_to_user_id": 78226378,
+    "in_reply_to_user_id_str": "78226378",
+    "in_reply_to_screen_name": "shitlicious",
+    "user": {
+        "id": 1057125819259076609,
+        "id_str": "1057125819259076609",
+        "name": "IG : 1lham8achtiar 💮",
+        "screen_name": "1lham8achtiar",
+        "location": "Semarang",
+        "url": null,
+        "description": "Yuk ngerjain Tesis bareng :')",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 53,
+        "friends_count": 119,
+        "listed_count": 0,
+        "favourites_count": 3907,
+        "statuses_count": 3327,
+        "created_at": "Tue Oct 30 04:23:30 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196815897295384577/gWA9ZsLA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196815897295384577/gWA9ZsLA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1057125819259076609/1567914724",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BiroJomblo",
+                "indices": [
+                    44,
+                    55
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "shitlicious",
+                "name": "Alitt",
+                "id": 78226378,
+                "id_str": "78226378",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254024367786225665,
+                "id_str": "1254024367786225665",
+                "indices": [
+                    56,
+                    79
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcwhLWU8AE04Ze.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcwhLWU8AE04Ze.jpg",
+                "url": "https://t.co/d7MguGcHG6",
+                "display_url": "pic.twitter.com/d7MguGcHG6",
+                "expanded_url": "https://twitter.com/1lham8achtiar/status/1254024379089825792/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 567,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 321,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 605,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254024367786225665,
+                "id_str": "1254024367786225665",
+                "indices": [
+                    56,
+                    79
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcwhLWU8AE04Ze.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcwhLWU8AE04Ze.jpg",
+                "url": "https://t.co/d7MguGcHG6",
+                "display_url": "pic.twitter.com/d7MguGcHG6",
+                "expanded_url": "https://twitter.com/1lham8achtiar/status/1254024379089825792/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 567,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 321,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 605,
+                        "h": 1280,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587817685278"
+}

@@ -1,0 +1,163 @@
+{
+    "created_at": "Sun Apr 12 18:43:13 +0000 2020",
+    "id": 1249407744328818688,
+    "id_str": "1249407744328818688",
+    "text": "@Beaudroit2 @Manuelafuente1 @jlespert Hablemos de argumentos: Leíste el artículo? Si lo leíste te darías cuenta que… https://t.co/bFqAkpnAsU",
+    "display_text_range": [
+        38,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249405547050401792,
+    "in_reply_to_status_id_str": "1249405547050401792",
+    "in_reply_to_user_id": 1242792941703356422,
+    "in_reply_to_user_id_str": "1242792941703356422",
+    "in_reply_to_screen_name": "Beaudroit2",
+    "user": {
+        "id": 2803146796,
+        "id_str": "2803146796",
+        "name": "RUDY",
+        "screen_name": "xRudx",
+        "location": null,
+        "url": null,
+        "description": "Melomano,Dj de a ratos,vinilos, técnico electrónico, hago un programa de radio @LInimputables  📻🎧🎙️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 358,
+        "friends_count": 602,
+        "listed_count": 2,
+        "favourites_count": 26514,
+        "statuses_count": 13215,
+        "created_at": "Fri Oct 03 23:39:27 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234630290364125184/ZtcCZykz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234630290364125184/ZtcCZykz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2803146796/1552915435",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Beaudroit2 @Manuelafuente1 @jlespert Hablemos de argumentos: Leíste el artículo? Si lo leíste te darías cuenta que lo de este impresentable es una interpretación digna de una basura, ya q la nota dice q no lleven cadáveres muertos por corona virus para no tener q manipular cuerpos con virus y seguir la propagación.",
+        "display_text_range": [
+            38,
+            317
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Beaudroit2",
+                    "name": "Beaudroit",
+                    "id": 1242792941703356422,
+                    "id_str": "1242792941703356422",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "Manuelafuente1",
+                    "name": "Manuel",
+                    "id": 2848188779,
+                    "id_str": "2848188779",
+                    "indices": [
+                        12,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "jlespert",
+                    "name": "Jose Luis Espert",
+                    "id": 351953986,
+                    "id_str": "351953986",
+                    "indices": [
+                        28,
+                        37
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/bFqAkpnAsU",
+                "expanded_url": "https://twitter.com/i/web/status/1249407744328818688",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Beaudroit2",
+                "name": "Beaudroit",
+                "id": 1242792941703356422,
+                "id_str": "1242792941703356422",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "Manuelafuente1",
+                "name": "Manuel",
+                "id": 2848188779,
+                "id_str": "2848188779",
+                "indices": [
+                    12,
+                    27
+                ]
+            },
+            {
+                "screen_name": "jlespert",
+                "name": "Jose Luis Espert",
+                "id": 351953986,
+                "id_str": "351953986",
+                "indices": [
+                    28,
+                    37
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1586716993778"
+}

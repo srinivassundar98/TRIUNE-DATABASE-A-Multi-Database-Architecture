@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 12:56:08 +0000 2020",
+    "id": 1254031438724214784,
+    "id_str": "1254031438724214784",
+    "text": "@TvsandWbs 大丈夫です　開いてますｗ　https://t.co/A6DXGJ7Yz1",
+    "display_text_range": [
+        11,
+        47
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254031053150273537,
+    "in_reply_to_status_id_str": "1254031053150273537",
+    "in_reply_to_user_id": 2969704664,
+    "in_reply_to_user_id_str": "2969704664",
+    "in_reply_to_screen_name": "TvsandWbs",
+    "user": {
+        "id": 120157082,
+        "id_str": "120157082",
+        "name": "くまごろ",
+        "screen_name": "kumatanton",
+        "location": "明石",
+        "url": null,
+        "description": "広島東洋カープ/草野球/ファミコン/料理/ボードゲーム/ロマサガ/野球大喜利/水どう/EWI/クイズで暇をつぶす人/ちょっと頭がお菓子い人（熊）です。",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 813,
+        "friends_count": 748,
+        "listed_count": 37,
+        "favourites_count": 11180,
+        "statuses_count": 149814,
+        "created_at": "Fri Mar 05 16:49:21 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "3C38B5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/488133553700368384/LBdDn9tj_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/488133553700368384/LBdDn9tj_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/120157082/1455202714",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/A6DXGJ7Yz1",
+                "expanded_url": "https://www.police.pref.hyogo.lg.jp/corona/index_akashishikenjyou.htm",
+                "display_url": "police.pref.hyogo.lg.jp/corona/index_a…",
+                "indices": [
+                    24,
+                    47
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "TvsandWbs",
+                "name": "てれすな@和歌山で楽しくサークル活動中",
+                "id": 2969704664,
+                "id_str": "2969704664",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ja",
+    "timestamp_ms": "1587819368426"
+}

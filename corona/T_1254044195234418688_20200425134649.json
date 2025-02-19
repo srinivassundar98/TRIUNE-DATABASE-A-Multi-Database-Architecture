@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Apr 25 13:46:49 +0000 2020",
+    "id": 1254044195234418688,
+    "id_str": "1254044195234418688",
+    "text": "@BMG_Bund Wenn die wüssten, dass Masken nichts nützen. Hihihi! Gell, @BAG_OFSP_UFSP? #Corona",
+    "display_text_range": [
+        10,
+        92
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1251904305428402176,
+    "in_reply_to_status_id_str": "1251904305428402176",
+    "in_reply_to_user_id": 2478349112,
+    "in_reply_to_user_id_str": "2478349112",
+    "in_reply_to_screen_name": "BMG_Bund",
+    "user": {
+        "id": 542910889,
+        "id_str": "542910889",
+        "name": "Furcht & Tadel",
+        "screen_name": "furchtundtadel",
+        "location": "Sunny Switzerland",
+        "url": null,
+        "description": "Will nur spielen.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 594,
+        "friends_count": 774,
+        "listed_count": 29,
+        "favourites_count": 79720,
+        "statuses_count": 26039,
+        "created_at": "Sun Apr 01 22:46:25 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2251362366/bean_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2251362366/bean_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    85,
+                    92
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "BMG_Bund",
+                "name": "BMG",
+                "id": 2478349112,
+                "id_str": "2478349112",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "BAG_OFSP_UFSP",
+                "name": "BAG – OFSP – UFSP",
+                "id": 326650532,
+                "id_str": "326650532",
+                "indices": [
+                    69,
+                    83
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822409815"
+}

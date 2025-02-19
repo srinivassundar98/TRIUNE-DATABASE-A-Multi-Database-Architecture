@@ -1,0 +1,143 @@
+{
+    "created_at": "Sun Apr 12 18:46:21 +0000 2020",
+    "id": 1249408532895666178,
+    "id_str": "1249408532895666178",
+    "text": "@kachebass @AustinKellerman My 86 year old father died on February 22 2020 in NYC without being tested for Covid19… https://t.co/gaTtnQkU1R",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249396639179014144,
+    "in_reply_to_status_id_str": "1249396639179014144",
+    "in_reply_to_user_id": 19627728,
+    "in_reply_to_user_id_str": "19627728",
+    "in_reply_to_screen_name": "kachebass",
+    "user": {
+        "id": 783700735733096452,
+        "id_str": "783700735733096452",
+        "name": "MyBeautifulDadisInHeaven",
+        "screen_name": "EvolvedHumanity",
+        "location": "United States",
+        "url": null,
+        "description": "My Dad (pictured) Died on February 22, ‘20 my extended family are republicans who watch Fox News exclusively - I won’t allow myself to be willfully ignorant",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 22,
+        "friends_count": 313,
+        "listed_count": 1,
+        "favourites_count": 915,
+        "statuses_count": 4261,
+        "created_at": "Wed Oct 05 16:09:50 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239383168135966721/SVHLrPQC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239383168135966721/SVHLrPQC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/783700735733096452/1584326862",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@kachebass @AustinKellerman My 86 year old father died on February 22 2020 in NYC without being tested for Covid19 he had pneumonia  and some form of influenza he was so ill but none of the doctors or nurses thought corona virus was a threat at that time. The death certificate said he died of natural causes",
+        "display_text_range": [
+            28,
+            308
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kachebass",
+                    "name": "Kache in must exceed cash out",
+                    "id": 19627728,
+                    "id_str": "19627728",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "AustinKellerman",
+                    "name": "Austin Kellerman",
+                    "id": 22703339,
+                    "id_str": "22703339",
+                    "indices": [
+                        11,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gaTtnQkU1R",
+                "expanded_url": "https://twitter.com/i/web/status/1249408532895666178",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "kachebass",
+                "name": "Kache in must exceed cash out",
+                "id": 19627728,
+                "id_str": "19627728",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "AustinKellerman",
+                "name": "Austin Kellerman",
+                "id": 22703339,
+                "id_str": "22703339",
+                "indices": [
+                    11,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717181787"
+}

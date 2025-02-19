@@ -1,0 +1,184 @@
+{
+    "created_at": "Sat Apr 25 13:39:30 +0000 2020",
+    "id": 1254042351095418880,
+    "id_str": "1254042351095418880",
+    "text": "One of our talented Autism's got Talent performers @LakhileD has created this  video about how he feels about the… https://t.co/m3f3iuJzQt",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 33499481,
+        "id_str": "33499481",
+        "name": "Anna Kennedy OBE",
+        "screen_name": "AnnaKennedy1",
+        "location": "London, England",
+        "url": null,
+        "description": "Founder Charity AnnaKennedyonline, Founder Autism' got Talent /Autism Hero Awards .\nAny articles I post are FYI only should not be considered as an endorsement.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 66454,
+        "friends_count": 32778,
+        "listed_count": 678,
+        "favourites_count": 84406,
+        "statuses_count": 109309,
+        "created_at": "Mon Apr 20 12:44:25 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1228988036723224579/l_dxguhY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228988036723224579/l_dxguhY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33499481/1583924774",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "42d0cf7d49d27c95",
+        "url": "https://api.twitter.com/1.1/geo/id/42d0cf7d49d27c95.json",
+        "place_type": "city",
+        "name": "Hillingdon",
+        "full_name": "Hillingdon, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -0.508684,
+                        51.455116
+                    ],
+                    [
+                        -0.508684,
+                        51.619006
+                    ],
+                    [
+                        -0.376038,
+                        51.619006
+                    ],
+                    [
+                        -0.376038,
+                        51.455116
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "One of our talented Autism's got Talent performers @LakhileD has created this  video about how he feels about the #Corona. Great work Lakhile! #autism #weekendvibes \nhttps://t.co/RUkA8zErN6",
+        "display_text_range": [
+            0,
+            189
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        114,
+                        121
+                    ]
+                },
+                {
+                    "text": "autism",
+                    "indices": [
+                        143,
+                        150
+                    ]
+                },
+                {
+                    "text": "weekendvibes",
+                    "indices": [
+                        151,
+                        164
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/RUkA8zErN6",
+                    "expanded_url": "https://youtu.be/IcHn8caGc9A",
+                    "display_url": "youtu.be/IcHn8caGc9A",
+                    "indices": [
+                        166,
+                        189
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "LakhileD",
+                    "name": "Lakhile Dlamini",
+                    "id": 1114952896490156033,
+                    "id_str": "1114952896490156033",
+                    "indices": [
+                        51,
+                        60
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/m3f3iuJzQt",
+                "expanded_url": "https://twitter.com/i/web/status/1254042351095418880",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "LakhileD",
+                "name": "Lakhile Dlamini",
+                "id": 1114952896490156033,
+                "id_str": "1114952896490156033",
+                "indices": [
+                    51,
+                    60
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821970138"
+}

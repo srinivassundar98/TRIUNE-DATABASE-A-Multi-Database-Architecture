@@ -1,0 +1,131 @@
+{
+    "created_at": "Sat Apr 25 13:39:03 +0000 2020",
+    "id": 1254042238369267714,
+    "id_str": "1254042238369267714",
+    "text": "@AxorCreex Das ist doch noch garnix! Von denen, die jetzt vom Erdobomber abgeholt werden, geht garantiert mehr als… https://t.co/JsS1OFC9cs",
+    "display_text_range": [
+        11,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253722241776463874,
+    "in_reply_to_status_id_str": "1253722241776463874",
+    "in_reply_to_user_id": 4260260649,
+    "in_reply_to_user_id_str": "4260260649",
+    "in_reply_to_screen_name": "AxorCreex",
+    "user": {
+        "id": 1139585121932255232,
+        "id_str": "1139585121932255232",
+        "name": "Tingtong Macadangdang",
+        "screen_name": "GuterJunge10",
+        "location": "Deutschland",
+        "url": null,
+        "description": "we are one 🌏  kein Platz für Hass🍻\nbeauty is in the eye of the beerholder 🦚\nverheiratet mit Mr. Dudley👤",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 463,
+        "friends_count": 466,
+        "listed_count": 1,
+        "favourites_count": 27399,
+        "statuses_count": 3776,
+        "created_at": "Fri Jun 14 17:27:20 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156220850091253760/UvGjfiIh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156220850091253760/UvGjfiIh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1139585121932255232/1565457020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@AxorCreex Das ist doch noch garnix! Von denen, die jetzt vom Erdobomber abgeholt werden, geht garantiert mehr als Einer in der Türkei hopps...und dann fängt nämlich das Richtige Theater erst an.Bekannte von mir wohnen da und #Corona wird nach draußen tot geschwiegen, intern: Massensterben",
+        "display_text_range": [
+            11,
+            290
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        226,
+                        233
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AxorCreex",
+                    "name": "Axor Creex 🇩🇪",
+                    "id": 4260260649,
+                    "id_str": "4260260649",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/JsS1OFC9cs",
+                "expanded_url": "https://twitter.com/i/web/status/1254042238369267714",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AxorCreex",
+                "name": "Axor Creex 🇩🇪",
+                "id": 4260260649,
+                "id_str": "4260260649",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821943262"
+}

@@ -1,0 +1,215 @@
+{
+    "created_at": "Sat Apr 25 13:06:55 +0000 2020",
+    "id": 1254034153852612615,
+    "id_str": "1254034153852612615",
+    "text": "@cialtronix @pizia21 @EnricoLetta @Quirinale Un uomo che è il responsabile delle incostituzionalità che abbiamo dov… https://t.co/eVrUovaSJv",
+    "display_text_range": [
+        45,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254023547615424513,
+    "in_reply_to_status_id_str": "1254023547615424513",
+    "in_reply_to_user_id": 389711722,
+    "in_reply_to_user_id_str": "389711722",
+    "in_reply_to_screen_name": "cialtronix",
+    "user": {
+        "id": 6005252,
+        "id_str": "6005252",
+        "name": "Antonio",
+        "screen_name": "baanit",
+        "location": "Bologna, Italy",
+        "url": null,
+        "description": "Mechanical Engineer from 🇮🇹 born in Milan / advisor / father of 2 / Patriot / I ❤ Italy\n#ITALEXIT #TheGreatAwakeningWorldwide  🇺🇸 🇮🇹",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2153,
+        "friends_count": 3271,
+        "listed_count": 2,
+        "favourites_count": 13603,
+        "statuses_count": 4811,
+        "created_at": "Sun May 13 08:36:36 +0000 2007",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139612820595757057/ac1u5V2a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139612820595757057/ac1u5V2a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6005252/1585606599",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "1cdc7d8b277d9aaa",
+        "url": "https://api.twitter.com/1.1/geo/id/1cdc7d8b277d9aaa.json",
+        "place_type": "city",
+        "name": "San Lazzaro di Savena",
+        "full_name": "San Lazzaro di Savena, Emilia Romagna",
+        "country_code": "IT",
+        "country": "Italia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        11.358342,
+                        44.405735
+                    ],
+                    [
+                        11.358342,
+                        44.490729
+                    ],
+                    [
+                        11.486285,
+                        44.490729
+                    ],
+                    [
+                        11.486285,
+                        44.405735
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@cialtronix @pizia21 @EnricoLetta @Quirinale Un uomo che è il responsabile delle incostituzionalità che abbiamo dovuto vedere, subire ed ingoiare in questo periodo, la corona che ha appena appoggiato sono sicuro che il Milite Ignoto la rifiuterebbe perché Lui si sentirebbe tradito e come Lui moltissimi VERI italiani!🇮🇹🇮🇹🇮🇹",
+        "display_text_range": [
+            45,
+            324
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "cialtronix",
+                    "name": "🇮🇹cialtronix 🇮🇹EraSoloUnaInfluenza🇮🇹",
+                    "id": 389711722,
+                    "id_str": "389711722",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "pizia21",
+                    "name": "PiziaXXI",
+                    "id": 768275298181910528,
+                    "id_str": "768275298181910528",
+                    "indices": [
+                        12,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "EnricoLetta",
+                    "name": "Enrico Letta",
+                    "id": 419622371,
+                    "id_str": "419622371",
+                    "indices": [
+                        21,
+                        33
+                    ]
+                },
+                {
+                    "screen_name": "Quirinale",
+                    "name": "Quirinale",
+                    "id": 732819391,
+                    "id_str": "732819391",
+                    "indices": [
+                        34,
+                        44
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/eVrUovaSJv",
+                "expanded_url": "https://twitter.com/i/web/status/1254034153852612615",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "cialtronix",
+                "name": "🇮🇹cialtronix 🇮🇹EraSoloUnaInfluenza🇮🇹",
+                "id": 389711722,
+                "id_str": "389711722",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "pizia21",
+                "name": "PiziaXXI",
+                "id": 768275298181910528,
+                "id_str": "768275298181910528",
+                "indices": [
+                    12,
+                    20
+                ]
+            },
+            {
+                "screen_name": "EnricoLetta",
+                "name": "Enrico Letta",
+                "id": 419622371,
+                "id_str": "419622371",
+                "indices": [
+                    21,
+                    33
+                ]
+            },
+            {
+                "screen_name": "Quirinale",
+                "name": "Quirinale",
+                "id": 732819391,
+                "id_str": "732819391",
+                "indices": [
+                    34,
+                    44
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1587820015763"
+}

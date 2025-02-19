@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 12:54:31 +0000 2020",
+    "id": 1254031030341840898,
+    "id_str": "1254031030341840898",
+    "text": "@schuerm1 @zeltschmuck @AnsgarGilster @rolnam Zuviel braune Sauce im Gehirn, was? Oder hat dir Corona dein Gehirn z… https://t.co/Te3nfeDFfw",
+    "display_text_range": [
+        46,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253760682778079237,
+    "in_reply_to_status_id_str": "1253760682778079237",
+    "in_reply_to_user_id": 815200226474606592,
+    "in_reply_to_user_id_str": "815200226474606592",
+    "in_reply_to_screen_name": "schuerm1",
+    "user": {
+        "id": 2970545145,
+        "id_str": "2970545145",
+        "name": "Leyla Paker",
+        "screen_name": "Leypak",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 171,
+        "friends_count": 1125,
+        "listed_count": 1,
+        "favourites_count": 23314,
+        "statuses_count": 12492,
+        "created_at": "Fri Jan 09 23:16:02 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@schuerm1 @zeltschmuck @AnsgarGilster @rolnam Zuviel braune Sauce im Gehirn, was? Oder hat dir Corona dein Gehirn zerfetzt? Was anderes außer Beleidigungen hast du wohl nicht drauf du faschistischer schweizer Troll?",
+        "display_text_range": [
+            46,
+            215
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "schuerm1",
+                    "name": "Gerhard Schuermann",
+                    "id": 815200226474606592,
+                    "id_str": "815200226474606592",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "zeltschmuck",
+                    "name": "Selcuk 🇹🇷",
+                    "id": 1195087650610458626,
+                    "id_str": "1195087650610458626",
+                    "indices": [
+                        10,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "AnsgarGilster",
+                    "name": "Ansgar Gilster",
+                    "id": 102432356,
+                    "id_str": "102432356",
+                    "indices": [
+                        23,
+                        37
+                    ]
+                },
+                {
+                    "screen_name": "rolnam",
+                    "name": "Rolf, där, wo däheimä bliibt",
+                    "id": 1249117158,
+                    "id_str": "1249117158",
+                    "indices": [
+                        38,
+                        45
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Te3nfeDFfw",
+                "expanded_url": "https://twitter.com/i/web/status/1254031030341840898",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "schuerm1",
+                "name": "Gerhard Schuermann",
+                "id": 815200226474606592,
+                "id_str": "815200226474606592",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "zeltschmuck",
+                "name": "Selcuk 🇹🇷",
+                "id": 1195087650610458626,
+                "id_str": "1195087650610458626",
+                "indices": [
+                    10,
+                    22
+                ]
+            },
+            {
+                "screen_name": "AnsgarGilster",
+                "name": "Ansgar Gilster",
+                "id": 102432356,
+                "id_str": "102432356",
+                "indices": [
+                    23,
+                    37
+                ]
+            },
+            {
+                "screen_name": "rolnam",
+                "name": "Rolf, där, wo däheimä bliibt",
+                "id": 1249117158,
+                "id_str": "1249117158",
+                "indices": [
+                    38,
+                    45
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819271060"
+}

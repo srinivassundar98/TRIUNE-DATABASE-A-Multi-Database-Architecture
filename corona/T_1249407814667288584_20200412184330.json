@@ -1,0 +1,142 @@
+{
+    "created_at": "Sun Apr 12 18:43:30 +0000 2020",
+    "id": 1249407814667288584,
+    "id_str": "1249407814667288584",
+    "text": "@johnnjenga @StateHouseKenya Even if somebody have died of corona, that is not the way to do. How will those left b… https://t.co/bmWSPVvJVM",
+    "display_text_range": [
+        29,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249350694538182656,
+    "in_reply_to_status_id_str": "1249350694538182656",
+    "in_reply_to_user_id": 23851073,
+    "in_reply_to_user_id_str": "23851073",
+    "in_reply_to_screen_name": "johnnjenga",
+    "user": {
+        "id": 825649674409353216,
+        "id_str": "825649674409353216",
+        "name": "Kiruih Gibz",
+        "screen_name": "kiruih_gibz",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 19,
+        "friends_count": 68,
+        "listed_count": 0,
+        "favourites_count": 47,
+        "statuses_count": 41,
+        "created_at": "Sun Jan 29 10:19:57 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243076028228141056/eKnfht0R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243076028228141056/eKnfht0R_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@johnnjenga @StateHouseKenya Even if somebody have died of corona, that is not the way to do. How will those left behind feel, the is a sickness, disease left not only to the family but to many person which will never ever get healed. Kwani marehemu alijitakia kushikwa na kufa kwa huo ugonjwa??? Very painful",
+        "display_text_range": [
+            29,
+            309
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "johnnjenga",
+                    "name": "Dr. Njenga Karugia J., PhD",
+                    "id": 23851073,
+                    "id_str": "23851073",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "StateHouseKenya",
+                    "name": "State House Kenya",
+                    "id": 364830542,
+                    "id_str": "364830542",
+                    "indices": [
+                        12,
+                        28
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/bmWSPVvJVM",
+                "expanded_url": "https://twitter.com/i/web/status/1249407814667288584",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "johnnjenga",
+                "name": "Dr. Njenga Karugia J., PhD",
+                "id": 23851073,
+                "id_str": "23851073",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "StateHouseKenya",
+                "name": "State House Kenya",
+                "id": 364830542,
+                "id_str": "364830542",
+                "indices": [
+                    12,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717010548"
+}

@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 14:15:30 +0000 2020",
+    "id": 1254051414399234055,
+    "id_str": "1254051414399234055",
+    "text": "@Warmungus @Besterleo @c_drosten @ArminWolf Italien hat Ende März bestätigt das 88 der Toten nicht an corona versto… https://t.co/vVWqDDrnvI",
+    "display_text_range": [
+        44,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254005087116148737,
+    "in_reply_to_status_id_str": "1254005087116148737",
+    "in_reply_to_user_id": 2200063680,
+    "in_reply_to_user_id_str": "2200063680",
+    "in_reply_to_screen_name": "Warmungus",
+    "user": {
+        "id": 1106369143,
+        "id_str": "1106369143",
+        "name": "herman müller",
+        "screen_name": "mller_herman",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 30,
+        "listed_count": 0,
+        "favourites_count": 463,
+        "statuses_count": 706,
+        "created_at": "Sun Jan 20 14:21:31 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Warmungus @Besterleo @c_drosten @ArminWolf Italien hat Ende März bestätigt das 88 der Toten nicht an corona verstorben sind die Zahlen wurden trotzdem noch nicht bereinigt",
+        "display_text_range": [
+            44,
+            172
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Warmungus",
+                    "name": "Stephan Adam",
+                    "id": 2200063680,
+                    "id_str": "2200063680",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "Besterleo",
+                    "name": "Joseph Bajjali",
+                    "id": 95961263,
+                    "id_str": "95961263",
+                    "indices": [
+                        11,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "c_drosten",
+                    "name": "Christian Drosten",
+                    "id": 2804548467,
+                    "id_str": "2804548467",
+                    "indices": [
+                        22,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "ArminWolf",
+                    "name": "Armin Wolf",
+                    "id": 20694291,
+                    "id_str": "20694291",
+                    "indices": [
+                        33,
+                        43
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/vVWqDDrnvI",
+                "expanded_url": "https://twitter.com/i/web/status/1254051414399234055",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Warmungus",
+                "name": "Stephan Adam",
+                "id": 2200063680,
+                "id_str": "2200063680",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "Besterleo",
+                "name": "Joseph Bajjali",
+                "id": 95961263,
+                "id_str": "95961263",
+                "indices": [
+                    11,
+                    21
+                ]
+            },
+            {
+                "screen_name": "c_drosten",
+                "name": "Christian Drosten",
+                "id": 2804548467,
+                "id_str": "2804548467",
+                "indices": [
+                    22,
+                    32
+                ]
+            },
+            {
+                "screen_name": "ArminWolf",
+                "name": "Armin Wolf",
+                "id": 20694291,
+                "id_str": "20694291",
+                "indices": [
+                    33,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824130998"
+}

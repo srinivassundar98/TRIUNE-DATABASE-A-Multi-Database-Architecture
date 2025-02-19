@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 13:01:27 +0000 2020",
+    "id": 1254032778238275584,
+    "id_str": "1254032778238275584",
+    "text": "@Clara08469242 @BjoernLohse @Markus_Soeder Welche Corona Krise? Meinst du die von der Politik gemachte? Die von den… https://t.co/Y49prBruCB",
+    "display_text_range": [
+        43,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253378197850394625,
+    "in_reply_to_status_id_str": "1253378197850394625",
+    "in_reply_to_user_id": 1229483820732362752,
+    "in_reply_to_user_id_str": "1229483820732362752",
+    "in_reply_to_screen_name": "Clara08469242",
+    "user": {
+        "id": 1242128010498760714,
+        "id_str": "1242128010498760714",
+        "name": "Newfish",
+        "screen_name": "Newfish53685534",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 5,
+        "listed_count": 2,
+        "favourites_count": 381,
+        "statuses_count": 275,
+        "created_at": "Mon Mar 23 16:36:23 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Clara08469242 @BjoernLohse @Markus_Soeder Welche Corona Krise? Meinst du die von der Politik gemachte? Die von den Medien hoch geputscht wird? Schau mal auf mein Profil uns Belese dich mal betreffs Corona",
+        "display_text_range": [
+            43,
+            205
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Clara08469242",
+                    "name": "Clara",
+                    "id": 1229483820732362752,
+                    "id_str": "1229483820732362752",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "BjoernLohse",
+                    "name": "Bjoern Lohse",
+                    "id": 1213148702220513286,
+                    "id_str": "1213148702220513286",
+                    "indices": [
+                        15,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "Markus_Soeder",
+                    "name": "Markus Söder",
+                    "id": 793778228,
+                    "id_str": "793778228",
+                    "indices": [
+                        28,
+                        42
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Y49prBruCB",
+                "expanded_url": "https://twitter.com/i/web/status/1254032778238275584",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Clara08469242",
+                "name": "Clara",
+                "id": 1229483820732362752,
+                "id_str": "1229483820732362752",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "BjoernLohse",
+                "name": "Bjoern Lohse",
+                "id": 1213148702220513286,
+                "id_str": "1213148702220513286",
+                "indices": [
+                    15,
+                    27
+                ]
+            },
+            {
+                "screen_name": "Markus_Soeder",
+                "name": "Markus Söder",
+                "id": 793778228,
+                "id_str": "793778228",
+                "indices": [
+                    28,
+                    42
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819687791"
+}

@@ -1,0 +1,122 @@
+{
+    "created_at": "Sun Apr 12 18:39:26 +0000 2020",
+    "id": 1249406789189275648,
+    "id_str": "1249406789189275648",
+    "text": "@jesperborup Jeg laver fortælleture på Enebærodde og langs Inddæmningerne, Hvis de ikke bliver aflyst.\nOg så er jeg… https://t.co/cuNGQhVmzA",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249406154070986755,
+    "in_reply_to_status_id_str": "1249406154070986755",
+    "in_reply_to_user_id": 947559066,
+    "in_reply_to_user_id_str": "947559066",
+    "in_reply_to_screen_name": "jesperborup",
+    "user": {
+        "id": 52329723,
+        "id_str": "52329723",
+        "name": "Bjarne Kim Pedersen",
+        "screen_name": "bjarnekim",
+        "location": "Denmark",
+        "url": "http://bjarnekimpedersen.blogspot.com",
+        "description": "Danish storyteller and author. Writes short twit poems and novels. Human rights activist.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2290,
+        "friends_count": 4139,
+        "listed_count": 73,
+        "favourites_count": 55945,
+        "statuses_count": 47642,
+        "created_at": "Tue Jun 30 06:57:24 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/932873885913108480/jVwjJdYD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/932873885913108480/jVwjJdYD_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@jesperborup Jeg laver fortælleture på Enebærodde og langs Inddæmningerne, Hvis de ikke bliver aflyst.\nOg så er jeg på vej med min bog om Blomsterne og Bierne. \nDe flyver uanser Corona",
+        "display_text_range": [
+            13,
+            184
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jesperborup",
+                    "name": "Jesper Borup",
+                    "id": 947559066,
+                    "id_str": "947559066",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/cuNGQhVmzA",
+                "expanded_url": "https://twitter.com/i/web/status/1249406789189275648",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jesperborup",
+                "name": "Jesper Borup",
+                "id": 947559066,
+                "id_str": "947559066",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "da",
+    "timestamp_ms": "1586716766055"
+}

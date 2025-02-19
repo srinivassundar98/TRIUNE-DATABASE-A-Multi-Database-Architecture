@@ -1,0 +1,175 @@
+{
+    "created_at": "Sat Apr 25 14:39:40 +0000 2020",
+    "id": 1254057492050403328,
+    "id_str": "1254057492050403328",
+    "text": "@narendramodi @DDChandanaNews How you handle the situation Corona Case. I want tips. A humble request. \nBut every o… https://t.co/ZlstzQPmud",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254053311830822917,
+    "in_reply_to_status_id_str": "1254053311830822917",
+    "in_reply_to_user_id": 18839785,
+    "in_reply_to_user_id_str": "18839785",
+    "in_reply_to_screen_name": "narendramodi",
+    "user": {
+        "id": 725570893439721472,
+        "id_str": "725570893439721472",
+        "name": "PERFECT WORK",
+        "screen_name": "Lakshmeeshsagar",
+        "location": "Sagar, India",
+        "url": null,
+        "description": "Life has many twist and turns 🙂🙃",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 109,
+        "friends_count": 1142,
+        "listed_count": 0,
+        "favourites_count": 9340,
+        "statuses_count": 5410,
+        "created_at": "Thu Apr 28 06:22:36 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192453537084497921/GhPSiDBT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192453537084497921/GhPSiDBT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/725570893439721472/1582716673",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "4823c9fc5ad49068",
+        "url": "https://api.twitter.com/1.1/geo/id/4823c9fc5ad49068.json",
+        "place_type": "city",
+        "name": "Sagar",
+        "full_name": "Sagar, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        75.016502,
+                        14.148858
+                    ],
+                    [
+                        75.016502,
+                        14.178418
+                    ],
+                    [
+                        75.044288,
+                        14.178418
+                    ],
+                    [
+                        75.044288,
+                        14.148858
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@narendramodi @DDChandanaNews How you handle the situation Corona Case. I want tips. A humble request. \nBut every one told that kits is short to handle the situation. Lockdown + kits + socialdistance + 2 Adi + 132 crores people surrendered to your Administration.",
+        "display_text_range": [
+            30,
+            263
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "narendramodi",
+                    "name": "Narendra Modi",
+                    "id": 18839785,
+                    "id_str": "18839785",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "DDChandanaNews",
+                    "name": "DD Chandana News",
+                    "id": 3014172800,
+                    "id_str": "3014172800",
+                    "indices": [
+                        14,
+                        29
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ZlstzQPmud",
+                "expanded_url": "https://twitter.com/i/web/status/1254057492050403328",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "narendramodi",
+                "name": "Narendra Modi",
+                "id": 18839785,
+                "id_str": "18839785",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "DDChandanaNews",
+                "name": "DD Chandana News",
+                "id": 3014172800,
+                "id_str": "3014172800",
+                "indices": [
+                    14,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825580023"
+}

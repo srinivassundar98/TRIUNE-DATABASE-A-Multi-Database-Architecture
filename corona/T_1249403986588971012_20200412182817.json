@@ -1,0 +1,161 @@
+{
+    "created_at": "Sun Apr 12 18:28:17 +0000 2020",
+    "id": 1249403986588971012,
+    "id_str": "1249403986588971012",
+    "text": "@HeatingBarrett @Grundfos_UK @gasappuk @CosyWarmPlumber @Sterling4Gas Don’t worry Corona virus won’t last long...... it was made in China !!",
+    "display_text_range": [
+        70,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249285715529261057,
+    "in_reply_to_status_id_str": "1249285715529261057",
+    "in_reply_to_user_id": 3652922657,
+    "in_reply_to_user_id_str": "3652922657",
+    "in_reply_to_screen_name": "HeatingBarrett",
+    "user": {
+        "id": 1319972514,
+        "id_str": "1319972514",
+        "name": "Dmc & Son Heating",
+        "screen_name": "devonplumber",
+        "location": "Plymouth Devon",
+        "url": "http://dmcandsonheating.co.uk",
+        "description": "Dmc & Son are gas safe registered and are LPG calor gas caravan & parkhome specialists.boiler service/ gas safety checks from £55.00 call us today 01752 302106",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 455,
+        "friends_count": 892,
+        "listed_count": 5,
+        "favourites_count": 183,
+        "statuses_count": 530,
+        "created_at": "Mon Apr 01 09:26:54 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969995092026183680/ndg9jXKh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969995092026183680/ndg9jXKh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319972514/1520099721",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "03518754580ec414",
+        "url": "https://api.twitter.com/1.1/geo/id/03518754580ec414.json",
+        "place_type": "city",
+        "name": "Plympton",
+        "full_name": "Plympton, England",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -4.082926,
+                        50.377195
+                    ],
+                    [
+                        -4.082926,
+                        50.393474
+                    ],
+                    [
+                        -4.020856,
+                        50.393474
+                    ],
+                    [
+                        -4.020856,
+                        50.377195
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "HeatingBarrett",
+                "name": "Barrett Heating",
+                "id": 3652922657,
+                "id_str": "3652922657",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "Grundfos_UK",
+                "name": "Grundfos UK",
+                "id": 891915230175014912,
+                "id_str": "891915230175014912",
+                "indices": [
+                    16,
+                    28
+                ]
+            },
+            {
+                "screen_name": "gasappuk",
+                "name": "Gas App Uk Ltd 💦🔥🔧",
+                "id": 770336297856761856,
+                "id_str": "770336297856761856",
+                "indices": [
+                    29,
+                    38
+                ]
+            },
+            {
+                "screen_name": "CosyWarmPlumber",
+                "name": "Andy Cam",
+                "id": 1563039439,
+                "id_str": "1563039439",
+                "indices": [
+                    39,
+                    55
+                ]
+            },
+            {
+                "screen_name": "Sterling4Gas",
+                "name": "Sterling Assessments",
+                "id": 2769226289,
+                "id_str": "2769226289",
+                "indices": [
+                    56,
+                    69
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716097863"
+}

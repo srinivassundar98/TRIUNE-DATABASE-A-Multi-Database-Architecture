@@ -1,0 +1,240 @@
+{
+    "created_at": "Sat Apr 25 12:34:55 +0000 2020",
+    "id": 1254026099362856962,
+    "id_str": "1254026099362856962",
+    "text": "@boernison @derspiegel https://t.co/gRKD9rgzTg\n\nWenn man nach Experten wie Ihnen gehen würde, dann wären die Zahlen… https://t.co/pfq3zjApII",
+    "display_text_range": [
+        23,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254012746376654848,
+    "in_reply_to_status_id_str": "1254012746376654848",
+    "in_reply_to_user_id": 364780956,
+    "in_reply_to_user_id_str": "364780956",
+    "in_reply_to_screen_name": "boernison",
+    "user": {
+        "id": 740195352079392768,
+        "id_str": "740195352079392768",
+        "name": "Andreas Heim",
+        "screen_name": "Bayern1932",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 67,
+        "friends_count": 1267,
+        "listed_count": 1,
+        "favourites_count": 8598,
+        "statuses_count": 8636,
+        "created_at": "Tue Jun 07 14:54:58 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@boernison @derspiegel https://t.co/gRKD9rgzTg\n\nWenn man nach Experten wie Ihnen gehen würde, dann wären die Zahlen 2-3 mal so hoch. Mindestens. https://t.co/I3MiufEpb1",
+        "display_text_range": [
+            23,
+            144
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/gRKD9rgzTg",
+                    "expanded_url": "https://www.rnd.de/wirtschaft/corona-folgen-fur-deutschland-3-millionen-arbeitslose-und-mehr-als-2-millionen-kurzarbeiter-AYLZDHNUGFEPLOARMMBHFCASQU.html",
+                    "display_url": "rnd.de/wirtschaft/cor…",
+                    "indices": [
+                        23,
+                        46
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "boernison",
+                    "name": "Byrni 🇪🇺🇩🇪🇨🇷🇿🇦",
+                    "id": 364780956,
+                    "id_str": "364780956",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "derspiegel",
+                    "name": "DER SPIEGEL",
+                    "id": 2834511,
+                    "id_str": "2834511",
+                    "indices": [
+                        11,
+                        22
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254025769153630209,
+                    "id_str": "1254025769153630209",
+                    "indices": [
+                        145,
+                        168
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcxyv2WkAEIQzA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcxyv2WkAEIQzA.jpg",
+                    "url": "https://t.co/I3MiufEpb1",
+                    "display_url": "pic.twitter.com/I3MiufEpb1",
+                    "expanded_url": "https://twitter.com/Bayern1932/status/1254026099362856962/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 156,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1145,
+                            "h": 263,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1145,
+                            "h": 263,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254025769153630209,
+                    "id_str": "1254025769153630209",
+                    "indices": [
+                        145,
+                        168
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcxyv2WkAEIQzA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcxyv2WkAEIQzA.jpg",
+                    "url": "https://t.co/I3MiufEpb1",
+                    "display_url": "pic.twitter.com/I3MiufEpb1",
+                    "expanded_url": "https://twitter.com/Bayern1932/status/1254026099362856962/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 156,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1145,
+                            "h": 263,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1145,
+                            "h": 263,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gRKD9rgzTg",
+                "expanded_url": "https://www.rnd.de/wirtschaft/corona-folgen-fur-deutschland-3-millionen-arbeitslose-und-mehr-als-2-millionen-kurzarbeiter-AYLZDHNUGFEPLOARMMBHFCASQU.html",
+                "display_url": "rnd.de/wirtschaft/cor…",
+                "indices": [
+                    23,
+                    46
+                ]
+            },
+            {
+                "url": "https://t.co/pfq3zjApII",
+                "expanded_url": "https://twitter.com/i/web/status/1254026099362856962",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "boernison",
+                "name": "Byrni 🇪🇺🇩🇪🇨🇷🇿🇦",
+                "id": 364780956,
+                "id_str": "364780956",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "derspiegel",
+                "name": "DER SPIEGEL",
+                "id": 2834511,
+                "id_str": "2834511",
+                "indices": [
+                    11,
+                    22
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818095423"
+}

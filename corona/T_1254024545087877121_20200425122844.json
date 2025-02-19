@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 12:28:44 +0000 2020",
+    "id": 1254024545087877121,
+    "id_str": "1254024545087877121",
+    "text": "@ITCCorpCom @TOIIndiaNews Sir jo haath mei h uska hi kuchh kr lo..Atleast jo manufacture kr rhe ho uski supply to i… https://t.co/g9mqWMqUcH",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253572988684787712,
+    "in_reply_to_status_id_str": "1253572988684787712",
+    "in_reply_to_user_id": 2558347561,
+    "in_reply_to_user_id_str": "2558347561",
+    "in_reply_to_screen_name": "ITCCorpCom",
+    "user": {
+        "id": 132457719,
+        "id_str": "132457719",
+        "name": "vikas sarda",
+        "screen_name": "vikassarda",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 47,
+        "friends_count": 58,
+        "listed_count": 2,
+        "favourites_count": 22,
+        "statuses_count": 147,
+        "created_at": "Tue Apr 13 08:42:31 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "CC3300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7DA93",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ITCCorpCom @TOIIndiaNews Sir jo haath mei h uska hi kuchh kr lo..Atleast jo manufacture kr rhe ho uski supply to improve ke do..Corona se phle bhi apki company ka yehi haal tha..Or lgta h baad mei bhi yehi rhega..You never say anything on current situation of company",
+        "display_text_range": [
+            26,
+            268
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ITCCorpCom",
+                    "name": "ITC Limited",
+                    "id": 2558347561,
+                    "id_str": "2558347561",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "TOIIndiaNews",
+                    "name": "TOI India",
+                    "id": 29958928,
+                    "id_str": "29958928",
+                    "indices": [
+                        12,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/g9mqWMqUcH",
+                "expanded_url": "https://twitter.com/i/web/status/1254024545087877121",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ITCCorpCom",
+                "name": "ITC Limited",
+                "id": 2558347561,
+                "id_str": "2558347561",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "TOIIndiaNews",
+                "name": "TOI India",
+                "id": 29958928,
+                "id_str": "29958928",
+                "indices": [
+                    12,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817724855"
+}

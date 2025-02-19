@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 12:47:51 +0000 2020",
+    "id": 1254029353731657729,
+    "id_str": "1254029353731657729",
+    "text": "Under Corona يا باشا 😎 https://t.co/QAbjlP7AcW",
+    "display_text_range": [
+        0,
+        22
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 725860234451890176,
+        "id_str": "725860234451890176",
+        "name": "Ahmad Salem",
+        "screen_name": "Ahmad_ES5",
+        "location": "Abu Dhabi, United Arab Emirate",
+        "url": "https://instagram.com/a.salem125?utm_source=ig_profile_share&igshid=ato67raekzis",
+        "description": "أَنَا ابنُ جَلَا وطَلَّاعُِ الثَّنَايَا\nمتَى أضَعِ العِمامَةَ تَعرِفُوني",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 9972,
+        "friends_count": 6422,
+        "listed_count": 12,
+        "favourites_count": 43112,
+        "statuses_count": 34238,
+        "created_at": "Fri Apr 29 01:32:20 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251777515569455104/aS6w8poK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251777515569455104/aS6w8poK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/725860234451890176/1571178721",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254029344936206337,
+                "id_str": "1254029344936206337",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc1C4rWoAE18BK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc1C4rWoAE18BK.jpg",
+                "url": "https://t.co/QAbjlP7AcW",
+                "display_url": "pic.twitter.com/QAbjlP7AcW",
+                "expanded_url": "https://twitter.com/Ahmad_ES5/status/1254029353731657729/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 573,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1011,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1282,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254029344936206337,
+                "id_str": "1254029344936206337",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc1C4rWoAE18BK.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc1C4rWoAE18BK.jpg",
+                "url": "https://t.co/QAbjlP7AcW",
+                "display_url": "pic.twitter.com/QAbjlP7AcW",
+                "expanded_url": "https://twitter.com/Ahmad_ES5/status/1254029353731657729/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 573,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1011,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1282,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ca",
+    "timestamp_ms": "1587818871325"
+}

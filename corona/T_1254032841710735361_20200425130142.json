@@ -1,0 +1,156 @@
+{
+    "created_at": "Sat Apr 25 13:01:42 +0000 2020",
+    "id": 1254032841710735361,
+    "id_str": "1254032841710735361",
+    "text": "Corona virus spread 10 time more than Spanish flow as recent investigation shows. https://t.co/TJ7TFRRmE8",
+    "display_text_range": [
+        0,
+        81
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1251305452283015175,
+        "id_str": "1251305452283015175",
+        "name": "Tom Falater",
+        "screen_name": "AFalater",
+        "location": "New Jersey, USA",
+        "url": "http://www.tomfalater.com",
+        "description": "Hello Tom Falater is one of the best actor of the Movies He is known for his best behavior in his carrier since plz welcome him and follow him.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 12,
+        "friends_count": 97,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 10,
+        "created_at": "Sat Apr 18 00:24:16 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251305768785248256/ydmUPtBk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251305768785248256/ydmUPtBk_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254032832353185793,
+                "id_str": "1254032832353185793",
+                "indices": [
+                    82,
+                    105
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc4N4UWsAE5M5w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc4N4UWsAE5M5w.jpg",
+                "url": "https://t.co/TJ7TFRRmE8",
+                "display_url": "pic.twitter.com/TJ7TFRRmE8",
+                "expanded_url": "https://twitter.com/AFalater/status/1254032841710735361/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 426,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 402,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 426,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254032832353185793,
+                "id_str": "1254032832353185793",
+                "indices": [
+                    82,
+                    105
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc4N4UWsAE5M5w.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc4N4UWsAE5M5w.jpg",
+                "url": "https://t.co/TJ7TFRRmE8",
+                "display_url": "pic.twitter.com/TJ7TFRRmE8",
+                "expanded_url": "https://twitter.com/AFalater/status/1254032841710735361/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 426,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 402,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 426,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819702924"
+}

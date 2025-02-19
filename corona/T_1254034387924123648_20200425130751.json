@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 13:07:51 +0000 2020",
+    "id": 1254034387924123648,
+    "id_str": "1254034387924123648",
+    "text": "@Melmur5 @InsideTurkey @AhmetBeyefendi Hocam, argümanınızı bir dayanağa oturtacaksınız diye bekledim ama nafile...… https://t.co/Xhwowsqsr7",
+    "display_text_range": [
+        39,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254014031918182400,
+    "in_reply_to_status_id_str": "1254014031918182400",
+    "in_reply_to_user_id": 1227714339093782530,
+    "in_reply_to_user_id_str": "1227714339093782530",
+    "in_reply_to_screen_name": "Melmur5",
+    "user": {
+        "id": 2842726522,
+        "id_str": "2842726522",
+        "name": "Enki 🌱",
+        "screen_name": "ekoyurttas",
+        "location": "The Milky Way Galaxy",
+        "url": "https://duckduckgo.com/",
+        "description": "\"A cunning fox in the chickens lair\"\n\n#Edepsiz\n#BilgiAktivisti\n#EkoAktivist\n#YersizYurtsuz\n#VeganSporcu",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 747,
+        "friends_count": 2007,
+        "listed_count": 8,
+        "favourites_count": 34552,
+        "statuses_count": 9430,
+        "created_at": "Fri Oct 24 18:21:35 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248292759636566017/cRQ9nbDD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248292759636566017/cRQ9nbDD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842726522/1586968091",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Melmur5 @InsideTurkey @AhmetBeyefendi Hocam, argümanınızı bir dayanağa oturtacaksınız diye bekledim ama nafile... Corona Türk'lere bir şey yapmazdan öteye gitmiyor yorumunuz. Fen ve matematiğe, temel mantığa verilen değer ortada iken sadece hayal olur milyonlarca yazılımcı.",
+        "display_text_range": [
+            39,
+            275
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Melmur5",
+                    "name": "Melmur",
+                    "id": 1227714339093782530,
+                    "id_str": "1227714339093782530",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "InsideTurkey",
+                    "name": "Serap Tuna",
+                    "id": 277793267,
+                    "id_str": "277793267",
+                    "indices": [
+                        9,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "AhmetBeyefendi",
+                    "name": "Ahmet",
+                    "id": 159483463,
+                    "id_str": "159483463",
+                    "indices": [
+                        23,
+                        38
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Xhwowsqsr7",
+                "expanded_url": "https://twitter.com/i/web/status/1254034387924123648",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Melmur5",
+                "name": "Melmur",
+                "id": 1227714339093782530,
+                "id_str": "1227714339093782530",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "InsideTurkey",
+                "name": "Serap Tuna",
+                "id": 277793267,
+                "id_str": "277793267",
+                "indices": [
+                    9,
+                    22
+                ]
+            },
+            {
+                "screen_name": "AhmetBeyefendi",
+                "name": "Ahmet",
+                "id": 159483463,
+                "id_str": "159483463",
+                "indices": [
+                    23,
+                    38
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587820071570"
+}

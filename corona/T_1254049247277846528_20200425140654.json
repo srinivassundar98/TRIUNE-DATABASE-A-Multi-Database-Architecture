@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 14:06:54 +0000 2020",
+    "id": 1254049247277846528,
+    "id_str": "1254049247277846528",
+    "text": "@theyeezymafia @Forbes @adidas Meanwhile Adidas Germany got a small loan of 3 million euro to support them during the Corona stuff",
+    "display_text_range": [
+        31,
+        130
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254020705588559873,
+    "in_reply_to_status_id_str": "1254020705588559873",
+    "in_reply_to_user_id": 4879752741,
+    "in_reply_to_user_id_str": "4879752741",
+    "in_reply_to_screen_name": "theyeezymafia",
+    "user": {
+        "id": 2243955789,
+        "id_str": "2243955789",
+        "name": "Cryt3x",
+        "screen_name": "cry_t3x",
+        "location": "Yashio-shi, Saitama",
+        "url": null,
+        "description": "Founder: @skinwaste (dec. 2017 - aug. 2019)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 329,
+        "friends_count": 56,
+        "listed_count": 0,
+        "favourites_count": 2018,
+        "statuses_count": 3033,
+        "created_at": "Wed Dec 25 23:14:35 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/957583074308521984/Mgwh4fP2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/957583074308521984/Mgwh4fP2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2243955789/1451665536",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "theyeezymafia",
+                "name": "YEEZY MAFIA",
+                "id": 4879752741,
+                "id_str": "4879752741",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "Forbes",
+                "name": "Forbes",
+                "id": 91478624,
+                "id_str": "91478624",
+                "indices": [
+                    15,
+                    22
+                ]
+            },
+            {
+                "screen_name": "adidas",
+                "name": "adidas (at 🏡)",
+                "id": 300114634,
+                "id_str": "300114634",
+                "indices": [
+                    23,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823614316"
+}

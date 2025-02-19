@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 14:29:41 +0000 2020",
+    "id": 1254054983521230855,
+    "id_str": "1254054983521230855",
+    "text": "@nicovos3 @RET_controle Sowieso is het een leuk initiatief. Al leest maar 1 persoon het en hij/zij verspreid deze r… https://t.co/JWNXhvTEuT",
+    "display_text_range": [
+        24,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254053223054413825,
+    "in_reply_to_status_id_str": "1254053223054413825",
+    "in_reply_to_user_id": 454931651,
+    "in_reply_to_user_id_str": "454931651",
+    "in_reply_to_screen_name": "nicovos3",
+    "user": {
+        "id": 1194319582770683904,
+        "id_str": "1194319582770683904",
+        "name": "wijkagent Boulevard-Zuid/Walravenbuurt",
+        "screen_name": "WAboulevardzuid",
+        "location": "Rotterdam, Nederland",
+        "url": "http://www.politie.nl",
+        "description": "Wijkagent Maurice, gebied Boulevard-Zuid & Walravenbuurt Rotterdam, district Rotterdam Zuid, Eenheid Rotterdam. Spoed: 112 Geen spoed: 0900-8844",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 230,
+        "friends_count": 79,
+        "listed_count": 2,
+        "favourites_count": 2221,
+        "statuses_count": 955,
+        "created_at": "Tue Nov 12 18:22:52 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1194328931509293057/ChKvKnc9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1194328931509293057/ChKvKnc9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1194319582770683904/1573587326",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@nicovos3 @RET_controle Sowieso is het een leuk initiatief. Al leest maar 1 persoon het en hij/zij verspreid deze regels, en dus is de kans minder dat het Corona / COVID19 virus verspreid wordt, dan is dat mooi meegenomen. #alleensamen",
+        "display_text_range": [
+            24,
+            235
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "alleensamen",
+                    "indices": [
+                        223,
+                        235
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nicovos3",
+                    "name": "MisterFox@💑💖👊",
+                    "id": 454931651,
+                    "id_str": "454931651",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "RET_controle",
+                    "name": "RET Veiligheid",
+                    "id": 237207571,
+                    "id_str": "237207571",
+                    "indices": [
+                        10,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/JWNXhvTEuT",
+                "expanded_url": "https://twitter.com/i/web/status/1254054983521230855",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "nicovos3",
+                "name": "MisterFox@💑💖👊",
+                "id": 454931651,
+                "id_str": "454931651",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "RET_controle",
+                "name": "RET Veiligheid",
+                "id": 237207571,
+                "id_str": "237207571",
+                "indices": [
+                    10,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587824981943"
+}

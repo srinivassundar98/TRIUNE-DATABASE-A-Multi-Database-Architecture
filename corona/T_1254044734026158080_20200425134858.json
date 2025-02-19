@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:48:58 +0000 2020",
+    "id": 1254044734026158080,
+    "id_str": "1254044734026158080",
+    "text": "@ekyardiansyahh Tiatiii ketemu corona wkwk",
+    "display_text_range": [
+        16,
+        42
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254044285546029056,
+    "in_reply_to_status_id_str": "1254044285546029056",
+    "in_reply_to_user_id": 1182858979,
+    "in_reply_to_user_id_str": "1182858979",
+    "in_reply_to_screen_name": "ekyardiansyahh",
+    "user": {
+        "id": 735464027350962176,
+        "id_str": "735464027350962176",
+        "name": "mbakdep",
+        "screen_name": "sntiadevi",
+        "location": "Wonogiri, Indonesia",
+        "url": null,
+        "description": "panggil aku dep jangan sin",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 91,
+        "friends_count": 71,
+        "listed_count": 0,
+        "favourites_count": 100,
+        "statuses_count": 1157,
+        "created_at": "Wed May 25 13:34:23 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252591426505854977/PmnZkPQw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252591426505854977/PmnZkPQw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/735464027350962176/1584545967",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00ce43ecd091a5e8",
+        "url": "https://api.twitter.com/1.1/geo/id/00ce43ecd091a5e8.json",
+        "place_type": "city",
+        "name": "Kebayoran Baru",
+        "full_name": "Kebayoran Baru, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.792411,
+                        -6.268342
+                    ],
+                    [
+                        106.792411,
+                        -6.220827
+                    ],
+                    [
+                        106.825935,
+                        -6.220827
+                    ],
+                    [
+                        106.825935,
+                        -6.268342
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ekyardiansyahh",
+                "name": "EA",
+                "id": 1182858979,
+                "id_str": "1182858979",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822538273"
+}

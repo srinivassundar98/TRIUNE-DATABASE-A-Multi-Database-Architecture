@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 14:34:53 +0000 2020",
+    "id": 1254056291422531585,
+    "id_str": "1254056291422531585",
+    "text": "@samstein “I heard the Ebola virus breaks down cells. We should inject people that have the Corona virus with Ebola… https://t.co/VBiKp2Iclu",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253718779823034368,
+    "in_reply_to_status_id_str": "1253718779823034368",
+    "in_reply_to_user_id": 15463671,
+    "in_reply_to_user_id_str": "15463671",
+    "in_reply_to_screen_name": "samstein",
+    "user": {
+        "id": 866259382387884032,
+        "id_str": "866259382387884032",
+        "name": "Hotspur",
+        "screen_name": "evak2017",
+        "location": "Albuquerque, NM",
+        "url": null,
+        "description": "HAhaha yeah right",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7,
+        "friends_count": 66,
+        "listed_count": 1,
+        "favourites_count": 24,
+        "statuses_count": 5209,
+        "created_at": "Sun May 21 11:48:25 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195228650557169665/TUZl0b_x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195228650557169665/TUZl0b_x_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@samstein “I heard the Ebola virus breaks down cells. We should inject people that have the Corona virus with Ebola and let them fight it out. It would be great. Like that time I was at WrestleMania. I fake punched a guy. It was the best. “ Donald Trump (JK)",
+        "display_text_range": [
+            10,
+            258
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "samstein",
+                    "name": "Sam Stein",
+                    "id": 15463671,
+                    "id_str": "15463671",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/VBiKp2Iclu",
+                "expanded_url": "https://twitter.com/i/web/status/1254056291422531585",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "samstein",
+                "name": "Sam Stein",
+                "id": 15463671,
+                "id_str": "15463671",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825293771"
+}

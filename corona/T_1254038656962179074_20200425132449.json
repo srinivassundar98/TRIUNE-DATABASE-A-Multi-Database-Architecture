@@ -1,0 +1,252 @@
+{
+    "created_at": "Sat Apr 25 13:24:49 +0000 2020",
+    "id": 1254038656962179074,
+    "id_str": "1254038656962179074",
+    "text": "@viskot @hildemaren @veteprotein @rodaberget @Mesoy640 @jontin Leter du på https://t.co/H5FLyKsKko får du dødstall… https://t.co/t4WhGZjIJL",
+    "display_text_range": [
+        63,
+        140
+    ],
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254033016134995970,
+    "in_reply_to_status_id_str": "1254033016134995970",
+    "in_reply_to_user_id": 18954900,
+    "in_reply_to_user_id_str": "18954900",
+    "in_reply_to_screen_name": "viskot",
+    "user": {
+        "id": 9398622,
+        "id_str": "9398622",
+        "name": "Jonas Feiring",
+        "screen_name": "Feiring",
+        "location": "Oslo, Norway",
+        "url": "http://www.iterate.no",
+        "description": "Tonight I'm gonna party like its 2022!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1624,
+        "friends_count": 1279,
+        "listed_count": 56,
+        "favourites_count": 3019,
+        "statuses_count": 10236,
+        "created_at": "Fri Oct 12 07:50:12 +0000 2007",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "668800",
+        "profile_sidebar_border_color": "998877",
+        "profile_sidebar_fill_color": "DDEEFF",
+        "profile_text_color": "112233",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241079955766812673/Efo3U539_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241079955766812673/Efo3U539_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9398622/1576143727",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@viskot @hildemaren @veteprotein @rodaberget @Mesoy640 @jontin Leter du på https://t.co/H5FLyKsKko får du dødstall fra / i fylke. (Oslo og Viken får nok tilsendt en del syke).\nTallen er 43/55 for Oslo, og 75/80 fro Viken. Da har du fra 118 - 135 avhengig av hvordan det telles. https://t.co/n1gxc89iip oppgir 161 dødsfall pt. i Västra Götland.",
+        "display_text_range": [
+            63,
+            343
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/H5FLyKsKko",
+                    "expanded_url": "https://www.vg.no/spesial/2020/corona/fylker/03/kommuner/0301/",
+                    "display_url": "vg.no/spesial/2020/c…",
+                    "indices": [
+                        75,
+                        98
+                    ]
+                },
+                {
+                    "url": "https://t.co/n1gxc89iip",
+                    "expanded_url": "http://C19.se",
+                    "display_url": "C19.se",
+                    "indices": [
+                        278,
+                        301
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "viskot",
+                    "name": "Viktor Tullgren",
+                    "id": 18954900,
+                    "id_str": "18954900",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "hildemaren",
+                    "name": "Hilde Maren",
+                    "id": 26989391,
+                    "id_str": "26989391",
+                    "indices": [
+                        8,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "veteprotein",
+                    "name": "veteprotein",
+                    "id": 1143526999392210944,
+                    "id_str": "1143526999392210944",
+                    "indices": [
+                        20,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "rodaberget",
+                    "name": "Peter Johansson",
+                    "id": 133759065,
+                    "id_str": "133759065",
+                    "indices": [
+                        33,
+                        44
+                    ]
+                },
+                {
+                    "screen_name": "Mesoy640",
+                    "name": "Atle Mesøy",
+                    "id": 338296241,
+                    "id_str": "338296241",
+                    "indices": [
+                        45,
+                        54
+                    ]
+                },
+                {
+                    "screen_name": "jontin",
+                    "name": "Jon Tingvold",
+                    "id": 44213144,
+                    "id_str": "44213144",
+                    "indices": [
+                        55,
+                        62
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/H5FLyKsKko",
+                "expanded_url": "https://www.vg.no/spesial/2020/corona/fylker/03/kommuner/0301/",
+                "display_url": "vg.no/spesial/2020/c…",
+                "indices": [
+                    75,
+                    98
+                ]
+            },
+            {
+                "url": "https://t.co/t4WhGZjIJL",
+                "expanded_url": "https://twitter.com/i/web/status/1254038656962179074",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "viskot",
+                "name": "Viktor Tullgren",
+                "id": 18954900,
+                "id_str": "18954900",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "hildemaren",
+                "name": "Hilde Maren",
+                "id": 26989391,
+                "id_str": "26989391",
+                "indices": [
+                    8,
+                    19
+                ]
+            },
+            {
+                "screen_name": "veteprotein",
+                "name": "veteprotein",
+                "id": 1143526999392210944,
+                "id_str": "1143526999392210944",
+                "indices": [
+                    20,
+                    32
+                ]
+            },
+            {
+                "screen_name": "rodaberget",
+                "name": "Peter Johansson",
+                "id": 133759065,
+                "id_str": "133759065",
+                "indices": [
+                    33,
+                    44
+                ]
+            },
+            {
+                "screen_name": "Mesoy640",
+                "name": "Atle Mesøy",
+                "id": 338296241,
+                "id_str": "338296241",
+                "indices": [
+                    45,
+                    54
+                ]
+            },
+            {
+                "screen_name": "jontin",
+                "name": "Jon Tingvold",
+                "id": 44213144,
+                "id_str": "44213144",
+                "indices": [
+                    55,
+                    62
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "no",
+    "timestamp_ms": "1587821089388"
+}

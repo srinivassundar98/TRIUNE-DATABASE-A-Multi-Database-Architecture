@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 14:22:29 +0000 2020",
+    "id": 1254053168889171970,
+    "id_str": "1254053168889171970",
+    "text": "@Jaloone @rosariopalomi71 @gerardsese Más que infinita...típica ignorancia ñola... https://t.co/spHY8jcb8W",
+    "display_text_range": [
+        38,
+        106
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254029860080680961,
+    "in_reply_to_status_id_str": "1254029860080680961",
+    "in_reply_to_user_id": 577051448,
+    "in_reply_to_user_id_str": "577051448",
+    "in_reply_to_screen_name": "Jaloone",
+    "user": {
+        "id": 4091816379,
+        "id_str": "4091816379",
+        "name": "santiago boixados",
+        "screen_name": "taroperolet",
+        "location": "Tremp, Catalunya, Europa",
+        "url": null,
+        "description": "economista, fiscalista i censor jurat de comptes... Però visca la Ciencia, la Historia i el coneixement",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 591,
+        "friends_count": 505,
+        "listed_count": 4,
+        "favourites_count": 34371,
+        "statuses_count": 43051,
+        "created_at": "Sun Nov 01 18:54:09 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/936932508175949824/daMy9hII_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/936932508175949824/daMy9hII_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/spHY8jcb8W",
+                "expanded_url": "https://www.elnacional.cat/es/opinion/corona-aragon-confederacion-catalanoaragonesa_103428_102.html",
+                "display_url": "elnacional.cat/es/opinion/cor…",
+                "indices": [
+                    83,
+                    106
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Jaloone",
+                "name": "Juan A. Lozano",
+                "id": 577051448,
+                "id_str": "577051448",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "rosariopalomi71",
+                "name": "Rosario Palomino Otiniano",
+                "id": 3380716042,
+                "id_str": "3380716042",
+                "indices": [
+                    9,
+                    25
+                ]
+            },
+            {
+                "screen_name": "gerardsese",
+                "name": "Gerard Sesé",
+                "id": 46361129,
+                "id_str": "46361129",
+                "indices": [
+                    26,
+                    37
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587824549301"
+}

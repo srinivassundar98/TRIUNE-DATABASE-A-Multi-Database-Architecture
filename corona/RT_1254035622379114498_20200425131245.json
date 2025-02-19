@@ -1,0 +1,790 @@
+{
+    "created_at": "Sat Apr 25 13:12:45 +0000 2020",
+    "id": 1254035622379114498,
+    "id_str": "1254035622379114498",
+    "text": "RT @wijzijnvanaafje: Bedankt voor de bloemen en alle leuke acties die wij van iedereen hebben ontvangen in de afgelopen weken! Ondanks deze…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 204710445,
+        "id_str": "204710445",
+        "name": "ferrybezem",
+        "screen_name": "ferrybezem",
+        "location": "Rotterdam, The Netherlands",
+        "url": "http://www.aafje.nl",
+        "description": "Directeur bij Aafje thuiszorg huizen zorghotels",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 182,
+        "friends_count": 58,
+        "listed_count": 2,
+        "favourites_count": 60,
+        "statuses_count": 261,
+        "created_at": "Tue Oct 19 09:18:07 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/521383668573429760/vcsrUQrs_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/521383668573429760/vcsrUQrs_normal.jpeg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Apr 21 13:00:01 +0000 2020",
+        "id": 1252582864056496128,
+        "id_str": "1252582864056496128",
+        "text": "Bedankt voor de bloemen en alle leuke acties die wij van iedereen hebben ontvangen in de afgelopen weken! Ondanks d… https://t.co/wNaFj0jJUZ",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 199603956,
+            "id_str": "199603956",
+            "name": "Aafje",
+            "screen_name": "wijzijnvanaafje",
+            "location": null,
+            "url": "http://www.aafje.nl",
+            "description": "Ouderenzorg | Woon- en zorgcentra | Thuiszorg | Zorghotels| Vrijwilligerswerk | activiteiten voor 55+ | Verpleging  & Verzorging | Behandeling |\nRotterdam e.o.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2110,
+            "friends_count": 395,
+            "listed_count": 34,
+            "favourites_count": 437,
+            "statuses_count": 1623,
+            "created_at": "Thu Oct 07 08:53:38 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "85C714",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "4B195D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "00B6E8",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1201902555963498497/QlnjNNQY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201902555963498497/QlnjNNQY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/199603956/1575553058",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1248543658133110784,
+        "quoted_status_id_str": "1248543658133110784",
+        "quoted_status": {
+            "created_at": "Fri Apr 10 09:29:39 +0000 2020",
+            "id": 1248543658133110784,
+            "id_str": "1248543658133110784",
+            "text": "#FlowerBoostChallenge accepted én completed! Wij mochten vorige week de bloemetjes buiten zetten in Capelle a/d IJs… https://t.co/TSx16MhovO",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 21082230,
+                "id_str": "21082230",
+                "name": "Maaike van Zuilen",
+                "screen_name": "philogirl",
+                "location": "World",
+                "url": "http://www.philogirl.nl",
+                "description": "#Viroscience #virology #Vuurwerkmanifest #OrCam #healthcare #mosquitos #onehealth #ncoh #waeh #medicaldelta #LSH010 #eyecare #drsunshine#fitfestival",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 2465,
+                "friends_count": 4943,
+                "listed_count": 88,
+                "favourites_count": 3655,
+                "statuses_count": 4141,
+                "created_at": "Tue Feb 17 11:43:30 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "FFCC4D",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "2C2C2C",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/727443084213125122/qmXGOmwj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/727443084213125122/qmXGOmwj_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/21082230/1579860071",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "#FlowerBoostChallenge accepted én completed! Wij mochten vorige week de bloemetjes buiten zetten in Capelle a/d IJssel bij @wijzijnvanaafje Roo van Capelle, @hsbdevijverhof, d'Amandelhof. Een applausje voor de geweldige zorglocaties, de prachtige bloemen van @BeyondChrysant 👏👏 https://t.co/1saMwhfe0e",
+                "display_text_range": [
+                    0,
+                    277
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "FlowerBoostChallenge",
+                            "indices": [
+                                0,
+                                21
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "wijzijnvanaafje",
+                            "name": "Aafje",
+                            "id": 199603956,
+                            "id_str": "199603956",
+                            "indices": [
+                                123,
+                                139
+                            ]
+                        },
+                        {
+                            "screen_name": "hsbdevijverhof",
+                            "name": "De Vijverhof",
+                            "id": 1136567485,
+                            "id_str": "1136567485",
+                            "indices": [
+                                157,
+                                172
+                            ]
+                        },
+                        {
+                            "screen_name": "BeyondChrysant",
+                            "name": "BeyondChrysant",
+                            "id": 112660063,
+                            "id_str": "112660063",
+                            "indices": [
+                                259,
+                                274
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1248534315912159233,
+                            "id_str": "1248534315912159233",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVOvWGXUYAEtOr5.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVOvWGXUYAEtOr5.jpg",
+                            "url": "https://t.co/1saMwhfe0e",
+                            "display_url": "pic.twitter.com/1saMwhfe0e",
+                            "expanded_url": "https://twitter.com/philogirl/status/1248543658133110784/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1200,
+                                    "h": 1600,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1248534315907944448,
+                            "id_str": "1248534315907944448",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVOvWGWUEAAshR0.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVOvWGWUEAAshR0.jpg",
+                            "url": "https://t.co/1saMwhfe0e",
+                            "display_url": "pic.twitter.com/1saMwhfe0e",
+                            "expanded_url": "https://twitter.com/philogirl/status/1248543658133110784/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1200,
+                                    "h": 1600,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1248534315912159233,
+                            "id_str": "1248534315912159233",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVOvWGXUYAEtOr5.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVOvWGXUYAEtOr5.jpg",
+                            "url": "https://t.co/1saMwhfe0e",
+                            "display_url": "pic.twitter.com/1saMwhfe0e",
+                            "expanded_url": "https://twitter.com/philogirl/status/1248543658133110784/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1200,
+                                    "h": 1600,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1248534315907944448,
+                            "id_str": "1248534315907944448",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVOvWGWUEAAshR0.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVOvWGWUEAAshR0.jpg",
+                            "url": "https://t.co/1saMwhfe0e",
+                            "display_url": "pic.twitter.com/1saMwhfe0e",
+                            "expanded_url": "https://twitter.com/philogirl/status/1248543658133110784/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1200,
+                                    "h": 1600,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FlowerBoostChallenge",
+                        "indices": [
+                            0,
+                            21
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/TSx16MhovO",
+                        "expanded_url": "https://twitter.com/i/web/status/1248543658133110784",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/jO226agE0W",
+            "expanded": "https://twitter.com/philogirl/status/1248543658133110784",
+            "display": "twitter.com/philogirl/stat…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Bedankt voor de bloemen en alle leuke acties die wij van iedereen hebben ontvangen in de afgelopen weken! Ondanks deze rare tijden werken wij hard samen om corona de baas te blijven. Het is niet altijd even makkelijk, maar samen staan we sterk 💪",
+            "display_text_range": [
+                0,
+                245
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wNaFj0jJUZ",
+                    "expanded_url": "https://twitter.com/i/web/status/1252582864056496128",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_id": 1248543658133110784,
+    "quoted_status_id_str": "1248543658133110784",
+    "quoted_status": {
+        "created_at": "Fri Apr 10 09:29:39 +0000 2020",
+        "id": 1248543658133110784,
+        "id_str": "1248543658133110784",
+        "text": "#FlowerBoostChallenge accepted én completed! Wij mochten vorige week de bloemetjes buiten zetten in Capelle a/d IJs… https://t.co/TSx16MhovO",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 21082230,
+            "id_str": "21082230",
+            "name": "Maaike van Zuilen",
+            "screen_name": "philogirl",
+            "location": "World",
+            "url": "http://www.philogirl.nl",
+            "description": "#Viroscience #virology #Vuurwerkmanifest #OrCam #healthcare #mosquitos #onehealth #ncoh #waeh #medicaldelta #LSH010 #eyecare #drsunshine#fitfestival",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2465,
+            "friends_count": 4943,
+            "listed_count": 88,
+            "favourites_count": 3655,
+            "statuses_count": 4141,
+            "created_at": "Tue Feb 17 11:43:30 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "FFCC4D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "2C2C2C",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/727443084213125122/qmXGOmwj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/727443084213125122/qmXGOmwj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21082230/1579860071",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#FlowerBoostChallenge accepted én completed! Wij mochten vorige week de bloemetjes buiten zetten in Capelle a/d IJssel bij @wijzijnvanaafje Roo van Capelle, @hsbdevijverhof, d'Amandelhof. Een applausje voor de geweldige zorglocaties, de prachtige bloemen van @BeyondChrysant 👏👏 https://t.co/1saMwhfe0e",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FlowerBoostChallenge",
+                        "indices": [
+                            0,
+                            21
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "wijzijnvanaafje",
+                        "name": "Aafje",
+                        "id": 199603956,
+                        "id_str": "199603956",
+                        "indices": [
+                            123,
+                            139
+                        ]
+                    },
+                    {
+                        "screen_name": "hsbdevijverhof",
+                        "name": "De Vijverhof",
+                        "id": 1136567485,
+                        "id_str": "1136567485",
+                        "indices": [
+                            157,
+                            172
+                        ]
+                    },
+                    {
+                        "screen_name": "BeyondChrysant",
+                        "name": "BeyondChrysant",
+                        "id": 112660063,
+                        "id_str": "112660063",
+                        "indices": [
+                            259,
+                            274
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1248534315912159233,
+                        "id_str": "1248534315912159233",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVOvWGXUYAEtOr5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVOvWGXUYAEtOr5.jpg",
+                        "url": "https://t.co/1saMwhfe0e",
+                        "display_url": "pic.twitter.com/1saMwhfe0e",
+                        "expanded_url": "https://twitter.com/philogirl/status/1248543658133110784/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 1600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1248534315907944448,
+                        "id_str": "1248534315907944448",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVOvWGWUEAAshR0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVOvWGWUEAAshR0.jpg",
+                        "url": "https://t.co/1saMwhfe0e",
+                        "display_url": "pic.twitter.com/1saMwhfe0e",
+                        "expanded_url": "https://twitter.com/philogirl/status/1248543658133110784/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 1600,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1248534315912159233,
+                        "id_str": "1248534315912159233",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVOvWGXUYAEtOr5.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVOvWGXUYAEtOr5.jpg",
+                        "url": "https://t.co/1saMwhfe0e",
+                        "display_url": "pic.twitter.com/1saMwhfe0e",
+                        "expanded_url": "https://twitter.com/philogirl/status/1248543658133110784/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 1600,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1248534315907944448,
+                        "id_str": "1248534315907944448",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVOvWGWUEAAshR0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVOvWGWUEAAshR0.jpg",
+                        "url": "https://t.co/1saMwhfe0e",
+                        "display_url": "pic.twitter.com/1saMwhfe0e",
+                        "expanded_url": "https://twitter.com/philogirl/status/1248543658133110784/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 1600,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FlowerBoostChallenge",
+                    "indices": [
+                        0,
+                        21
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/TSx16MhovO",
+                    "expanded_url": "https://twitter.com/i/web/status/1248543658133110784",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/jO226agE0W",
+        "expanded": "https://twitter.com/philogirl/status/1248543658133110784",
+        "display": "twitter.com/philogirl/stat…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "wijzijnvanaafje",
+                "name": "Aafje",
+                "id": 199603956,
+                "id_str": "199603956",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587820365887"
+}

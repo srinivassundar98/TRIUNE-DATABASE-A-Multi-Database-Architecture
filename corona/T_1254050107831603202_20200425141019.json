@@ -1,0 +1,177 @@
+{
+    "created_at": "Sat Apr 25 14:10:19 +0000 2020",
+    "id": 1254050107831603202,
+    "id_str": "1254050107831603202",
+    "text": "@Abramjee @SAPoliceService This corona is going to reveal who your really is! https://t.co/rTe409omHT",
+    "display_text_range": [
+        27,
+        77
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253997335560040450,
+    "in_reply_to_status_id_str": "1253997335560040450",
+    "in_reply_to_user_id": 174365756,
+    "in_reply_to_user_id_str": "174365756",
+    "in_reply_to_screen_name": "Abramjee",
+    "user": {
+        "id": 253715446,
+        "id_str": "253715446",
+        "name": "NotYetUhuru",
+        "screen_name": "NotYetUhuru1",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4039,
+        "friends_count": 5001,
+        "listed_count": 1,
+        "favourites_count": 17750,
+        "statuses_count": 9197,
+        "created_at": "Thu Feb 17 20:36:48 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243222488953368577/kjh2OvVP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243222488953368577/kjh2OvVP_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Abramjee",
+                "name": "Yusuf Abramjee",
+                "id": 174365756,
+                "id_str": "174365756",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "SAPoliceService",
+                "name": "SA Police Service 🇿🇦",
+                "id": 320644276,
+                "id_str": "320644276",
+                "indices": [
+                    10,
+                    26
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254050104190926850,
+                "id_str": "1254050104190926850",
+                "indices": [
+                    78,
+                    101
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdH7O7XgAIcKxY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdH7O7XgAIcKxY.jpg",
+                "url": "https://t.co/rTe409omHT",
+                "display_url": "pic.twitter.com/rTe409omHT",
+                "expanded_url": "https://twitter.com/NotYetUhuru1/status/1254050107831603202/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 579,
+                        "h": 476,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 579,
+                        "h": 476,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 579,
+                        "h": 476,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254050104190926850,
+                "id_str": "1254050104190926850",
+                "indices": [
+                    78,
+                    101
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdH7O7XgAIcKxY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdH7O7XgAIcKxY.jpg",
+                "url": "https://t.co/rTe409omHT",
+                "display_url": "pic.twitter.com/rTe409omHT",
+                "expanded_url": "https://twitter.com/NotYetUhuru1/status/1254050107831603202/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 579,
+                        "h": 476,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 579,
+                        "h": 476,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 579,
+                        "h": 476,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823819488"
+}

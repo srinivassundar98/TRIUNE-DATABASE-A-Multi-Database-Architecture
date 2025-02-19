@@ -1,0 +1,213 @@
+{
+    "created_at": "Sun Apr 12 18:40:02 +0000 2020",
+    "id": 1249406940683341825,
+    "id_str": "1249406940683341825",
+    "text": "Seit Ausbruch der #Corona-Krise ist das Wort \"Systemrelevant\" in aller Munde. Leider wird es oft falsch verwendet.… https://t.co/pjeOVXin6K",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1226803579073290240,
+        "id_str": "1226803579073290240",
+        "name": "mediabasics",
+        "screen_name": "mediabasics2",
+        "location": "Germany",
+        "url": "https://mediabasics.org",
+        "description": "Aktuelle Informationen und Hintergründe zu Digitalisierung, Meinung und Medien. Wissenswertes rund um Social Media, Kommunikation und Datenschutz.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 30,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 36,
+        "created_at": "Mon Feb 10 09:42:31 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226879801081892865/9gKIgIoT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226879801081892865/9gKIgIoT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226803579073290240/1581345914",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Seit Ausbruch der #Corona-Krise ist das Wort \"Systemrelevant\" in aller Munde. Leider wird es oft falsch verwendet. Warum auch du #Systemrelevant bist.\nhttps://t.co/EFsMrd1M3l https://t.co/5jHYzJbdf6",
+        "display_text_range": [
+            0,
+            174
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        18,
+                        25
+                    ]
+                },
+                {
+                    "text": "Systemrelevant",
+                    "indices": [
+                        129,
+                        144
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/EFsMrd1M3l",
+                    "expanded_url": "https://mediabasics.org/wer-ist-systemrelevant",
+                    "display_url": "mediabasics.org/wer-ist-system…",
+                    "indices": [
+                        151,
+                        174
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1249406938846302211,
+                    "id_str": "1249406938846302211",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbI_cHXkAM0b5T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbI_cHXkAM0b5T.jpg",
+                    "url": "https://t.co/5jHYzJbdf6",
+                    "display_url": "pic.twitter.com/5jHYzJbdf6",
+                    "expanded_url": "https://twitter.com/mediabasics2/status/1249406940683341825/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 971,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 550,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 1036,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1249406938846302211,
+                    "id_str": "1249406938846302211",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbI_cHXkAM0b5T.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbI_cHXkAM0b5T.jpg",
+                    "url": "https://t.co/5jHYzJbdf6",
+                    "display_url": "pic.twitter.com/5jHYzJbdf6",
+                    "expanded_url": "https://twitter.com/mediabasics2/status/1249406940683341825/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 971,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 550,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 1036,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    18,
+                    25
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/pjeOVXin6K",
+                "expanded_url": "https://twitter.com/i/web/status/1249406940683341825",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716802174"
+}

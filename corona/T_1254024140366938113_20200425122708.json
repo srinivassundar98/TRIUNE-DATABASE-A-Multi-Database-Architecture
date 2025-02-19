@@ -1,0 +1,174 @@
+{
+    "created_at": "Sat Apr 25 12:27:08 +0000 2020",
+    "id": 1254024140366938113,
+    "id_str": "1254024140366938113",
+    "text": "@LuetzowQ @verusoss1 Man darf wirklich nicht vergessen das Trump in USA von den Medien auseinander gepflückt wird!… https://t.co/yGLYMBv0ZD",
+    "display_text_range": [
+        21,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253728539137826822,
+    "in_reply_to_status_id_str": "1253728539137826822",
+    "in_reply_to_user_id": 1049758147089506304,
+    "in_reply_to_user_id_str": "1049758147089506304",
+    "in_reply_to_screen_name": "LuetzowQ",
+    "user": {
+        "id": 823129160633765889,
+        "id_str": "823129160633765889",
+        "name": "Tommy Braun",
+        "screen_name": "thommy1010",
+        "location": "Berlin Pankow",
+        "url": null,
+        "description": "wenn ich mal erwachsen bin möchte ich so sein wie jetzt. Ich liebe Philosophie, Geschichte, Astronomie, französische Literatur und noch ganz viel mehr.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 272,
+        "friends_count": 113,
+        "listed_count": 2,
+        "favourites_count": 1121,
+        "statuses_count": 21319,
+        "created_at": "Sun Jan 22 11:24:19 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/823169406444404737/hcaZ_8YV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/823169406444404737/hcaZ_8YV_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "e7885ae8b79a8768",
+        "url": "https://api.twitter.com/1.1/geo/id/e7885ae8b79a8768.json",
+        "place_type": "city",
+        "name": "Panketal",
+        "full_name": "Panketal, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        13.474959,
+                        52.600567
+                    ],
+                    [
+                        13.474959,
+                        52.678772
+                    ],
+                    [
+                        13.580853,
+                        52.678772
+                    ],
+                    [
+                        13.580853,
+                        52.600567
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@LuetzowQ @verusoss1 Man darf wirklich nicht vergessen das Trump in USA von den Medien auseinander gepflückt wird! Die Stasi treuen Medien wenn Deutschland ticken anders! Hier wird keine Kritik geäußert! Es gibt genug Kritik an die inkompetente Politik der Regierung! Corona! Böses Erwachen danach!",
+        "display_text_range": [
+            21,
+            298
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LuetzowQ",
+                    "name": "LuetzowQ",
+                    "id": 1049758147089506304,
+                    "id_str": "1049758147089506304",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "verusoss1",
+                    "name": "Werner Weiß",
+                    "id": 4723069840,
+                    "id_str": "4723069840",
+                    "indices": [
+                        10,
+                        20
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/yGLYMBv0ZD",
+                "expanded_url": "https://twitter.com/i/web/status/1254024140366938113",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "LuetzowQ",
+                "name": "LuetzowQ",
+                "id": 1049758147089506304,
+                "id_str": "1049758147089506304",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "verusoss1",
+                "name": "Werner Weiß",
+                "id": 4723069840,
+                "id_str": "4723069840",
+                "indices": [
+                    10,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587817628362"
+}

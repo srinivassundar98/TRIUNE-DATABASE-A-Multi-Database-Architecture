@@ -1,0 +1,191 @@
+{
+    "created_at": "Sun Apr 12 18:40:26 +0000 2020",
+    "id": 1249407041610842114,
+    "id_str": "1249407041610842114",
+    "text": "Corona vírus https://t.co/WrTN59DR5Z",
+    "display_text_range": [
+        0,
+        12
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 788326101030502400,
+        "id_str": "788326101030502400",
+        "name": "🄶🄸🄾🅁🄶🅈",
+        "screen_name": "giorgy_willian",
+        "location": "Cabo Frio, Brasil",
+        "url": null,
+        "description": "Gostaria de saber o que faria se soubesse que esses foram meus últimos dias",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 148,
+        "friends_count": 147,
+        "listed_count": 0,
+        "favourites_count": 15218,
+        "statuses_count": 11083,
+        "created_at": "Tue Oct 18 10:29:23 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247346852435034112/LKbFkcyW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247346852435034112/LKbFkcyW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/788326101030502400/1584143973",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249406998493507585,
+                "id_str": "1249406998493507585",
+                "indices": [
+                    13,
+                    36
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249406998493507585/pu/img/53bb0MUmTz2feWi_.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249406998493507585/pu/img/53bb0MUmTz2feWi_.jpg",
+                "url": "https://t.co/WrTN59DR5Z",
+                "display_url": "pic.twitter.com/WrTN59DR5Z",
+                "expanded_url": "https://twitter.com/giorgy_willian/status/1249407041610842114/video/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 619,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 660,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 351,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249406998493507585,
+                "id_str": "1249406998493507585",
+                "indices": [
+                    13,
+                    36
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1249406998493507585/pu/img/53bb0MUmTz2feWi_.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1249406998493507585/pu/img/53bb0MUmTz2feWi_.jpg",
+                "url": "https://t.co/WrTN59DR5Z",
+                "display_url": "pic.twitter.com/WrTN59DR5Z",
+                "expanded_url": "https://twitter.com/giorgy_willian/status/1249407041610842114/video/1",
+                "type": "video",
+                "video_info": {
+                    "aspect_ratio": [
+                        33,
+                        64
+                    ],
+                    "duration_millis": 4667,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1249406998493507585/pu/vid/320x620/6fFNc4Gsme0txxtW.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1249406998493507585/pu/vid/360x698/bpQdIcvx0v4_lDF4.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1249406998493507585/pu/pl/c-E9cVPucLEA4_Sm.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1249406998493507585/pu/vid/660x1280/1ptZF1O7wkFH9iMY.mp4?tag=10"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "medium": {
+                        "w": 619,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 660,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 351,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716826237"
+}

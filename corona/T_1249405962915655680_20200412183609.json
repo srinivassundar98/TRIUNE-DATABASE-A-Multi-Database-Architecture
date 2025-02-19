@@ -1,0 +1,162 @@
+{
+    "created_at": "Sun Apr 12 18:36:09 +0000 2020",
+    "id": 1249405962915655680,
+    "id_str": "1249405962915655680",
+    "text": "@MilatosluMahir @sen_googlem @suleymansoylu Corona virüsünü piyasaya salana da,\nEroin hazırlayana da bilim insanı d… https://t.co/KcE8yDp71S",
+    "display_text_range": [
+        44,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249404295247794177,
+    "in_reply_to_status_id_str": "1249404295247794177",
+    "in_reply_to_user_id": 896634635416989696,
+    "in_reply_to_user_id_str": "896634635416989696",
+    "in_reply_to_screen_name": "MilatosluMahir",
+    "user": {
+        "id": 1233816071527895041,
+        "id_str": "1233816071527895041",
+        "name": "Serdal GÜLTEKİN",
+        "screen_name": "SerdalG13420186",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 104,
+        "friends_count": 388,
+        "listed_count": 0,
+        "favourites_count": 5426,
+        "statuses_count": 4972,
+        "created_at": "Sat Feb 29 18:07:48 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233816845960073218/miJugvI6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233816845960073218/miJugvI6_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@MilatosluMahir @sen_googlem @suleymansoylu Corona virüsünü piyasaya salana da,\nEroin hazırlayana da bilim insanı diyorlar...\nSiktir et bilimi...",
+        "display_text_range": [
+            44,
+            145
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MilatosluMahir",
+                    "name": "Miletoslu Mahir",
+                    "id": 896634635416989696,
+                    "id_str": "896634635416989696",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "sen_googlem",
+                    "name": "Ali Şükrü Bey 🇹🇷",
+                    "id": 1317242792,
+                    "id_str": "1317242792",
+                    "indices": [
+                        16,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "suleymansoylu",
+                    "name": "Süleyman Soylu",
+                    "id": 18971997,
+                    "id_str": "18971997",
+                    "indices": [
+                        29,
+                        43
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/KcE8yDp71S",
+                "expanded_url": "https://twitter.com/i/web/status/1249405962915655680",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MilatosluMahir",
+                "name": "Miletoslu Mahir",
+                "id": 896634635416989696,
+                "id_str": "896634635416989696",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "sen_googlem",
+                "name": "Ali Şükrü Bey 🇹🇷",
+                "id": 1317242792,
+                "id_str": "1317242792",
+                "indices": [
+                    16,
+                    28
+                ]
+            },
+            {
+                "screen_name": "suleymansoylu",
+                "name": "Süleyman Soylu",
+                "id": 18971997,
+                "id_str": "18971997",
+                "indices": [
+                    29,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586716569056"
+}

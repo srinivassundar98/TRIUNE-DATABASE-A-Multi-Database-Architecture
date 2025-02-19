@@ -1,0 +1,158 @@
+{
+    "created_at": "Sat Apr 25 14:47:49 +0000 2020",
+    "id": 1254059543245590528,
+    "id_str": "1254059543245590528",
+    "text": "@AUThackeray @nawabmalikncp @Awhadspeaks their is patient with kidney infection she has done operations 6 month ago… https://t.co/vmAXZzjPnZ",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1606048885,
+    "in_reply_to_user_id_str": "1606048885",
+    "in_reply_to_screen_name": "AUThackeray",
+    "user": {
+        "id": 1065824982,
+        "id_str": "1065824982",
+        "name": "sameer ebrahim peerb",
+        "screen_name": "peerb_sameer",
+        "location": "Andheri West, Mumbai",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 145,
+        "listed_count": 0,
+        "favourites_count": 374,
+        "statuses_count": 1189,
+        "created_at": "Sun Jan 06 14:22:39 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3403764849/8c5ab398cf61fa4355dd97e7d2be6c46_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3403764849/8c5ab398cf61fa4355dd97e7d2be6c46_normal.jpeg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@AUThackeray @nawabmalikncp @Awhadspeaks their is patient with kidney infection she has done operations 6 month ago at JJ hospital now she in critical pain at mira road, from last 2 days she is visiting to copper hospital but due to corona patient they are not excepting her can",
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AUThackeray",
+                    "name": "Aaditya Thackeray",
+                    "id": 1606048885,
+                    "id_str": "1606048885",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "nawabmalikncp",
+                    "name": "Nawab Malik نواب ملک नवाब मलिक",
+                    "id": 1172482152,
+                    "id_str": "1172482152",
+                    "indices": [
+                        13,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "Awhadspeaks",
+                    "name": "Dr.Jitendra Awhad",
+                    "id": 802056194,
+                    "id_str": "802056194",
+                    "indices": [
+                        28,
+                        40
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/vmAXZzjPnZ",
+                "expanded_url": "https://twitter.com/i/web/status/1254059543245590528",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AUThackeray",
+                "name": "Aaditya Thackeray",
+                "id": 1606048885,
+                "id_str": "1606048885",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "nawabmalikncp",
+                "name": "Nawab Malik نواب ملک नवाब मलिक",
+                "id": 1172482152,
+                "id_str": "1172482152",
+                "indices": [
+                    13,
+                    27
+                ]
+            },
+            {
+                "screen_name": "Awhadspeaks",
+                "name": "Dr.Jitendra Awhad",
+                "id": 802056194,
+                "id_str": "802056194",
+                "indices": [
+                    28,
+                    40
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587826069066"
+}

@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 12:45:36 +0000 2020",
+    "id": 1254028789199310849,
+    "id_str": "1254028789199310849",
+    "text": "@Reblauserle noch ein paar Tipps dazu\nhttps://t.co/z1QBi9U1Zv",
+    "display_text_range": [
+        13,
+        61
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254025317649469440,
+    "in_reply_to_status_id_str": "1254025317649469440",
+    "in_reply_to_user_id": 1233957668102066177,
+    "in_reply_to_user_id_str": "1233957668102066177",
+    "in_reply_to_screen_name": "Reblauserle",
+    "user": {
+        "id": 2436760988,
+        "id_str": "2436760988",
+        "name": "Leo Toifl",
+        "screen_name": "leotleotleot",
+        "location": "Wien, Weinviertel, Österreich",
+        "url": null,
+        "description": "kein Freund der Einheitsmeinung, Mainstream führt zum Stau",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1247,
+        "friends_count": 1311,
+        "listed_count": 2,
+        "favourites_count": 47991,
+        "statuses_count": 19952,
+        "created_at": "Thu Apr 10 09:19:52 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081990699103539200/UyH00Rgg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081990699103539200/UyH00Rgg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2436760988/1530131144",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/z1QBi9U1Zv",
+                "expanded_url": "https://kurier.at/freizeit/leben-liebe-sex/sex-in-corona-zeiten-dieses-rollenspiel-ist-besonders-beliebt/400822067",
+                "display_url": "kurier.at/freizeit/leben…",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Reblauserle",
+                "name": "Val",
+                "id": 1233957668102066177,
+                "id_str": "1233957668102066177",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818736730"
+}

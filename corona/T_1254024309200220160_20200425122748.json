@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Apr 25 12:27:48 +0000 2020",
+    "id": 1254024309200220160,
+    "id_str": "1254024309200220160",
+    "text": "@ScottAdamsSays @mseiler1 No he isn't Scott. He clarified shortly after. He was asking a sarcastic question \"just t… https://t.co/ZIZQfN7nuF",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254022353559760897,
+    "in_reply_to_status_id_str": "1254022353559760897",
+    "in_reply_to_user_id": 2853461537,
+    "in_reply_to_user_id_str": "2853461537",
+    "in_reply_to_screen_name": "ScottAdamsSays",
+    "user": {
+        "id": 17587749,
+        "id_str": "17587749",
+        "name": "Ben McEvoy",
+        "screen_name": "bmcevoy",
+        "location": "Sydney, New South Wales",
+        "url": null,
+        "description": "I'm into business strategy, management and tech. I also travel and sail a bit and am a confessed cricket & rugby tragic.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 220,
+        "friends_count": 298,
+        "listed_count": 13,
+        "favourites_count": 17,
+        "statuses_count": 2043,
+        "created_at": "Mon Nov 24 06:59:00 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252615467849494529/zqyIUNRN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252615467849494529/zqyIUNRN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17587749/1407300800",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ScottAdamsSays @mseiler1 No he isn't Scott. He clarified shortly after. He was asking a sarcastic question \"just to see what would happen\".\n\nWe can debate whether making sarcy comments to bait reporters during a press conf. on corona is wise, but not that that's what he did.\n\nhttps://t.co/E5HaGsOIfP",
+        "display_text_range": [
+            26,
+            301
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/E5HaGsOIfP",
+                    "expanded_url": "https://thehill.com/homenews/administration/494519-trump-says-remarks-about-heat-light-disinfectant-were-sarcastic",
+                    "display_url": "thehill.com/homenews/admin…",
+                    "indices": [
+                        278,
+                        301
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "ScottAdamsSays",
+                    "name": "Scott Adams",
+                    "id": 2853461537,
+                    "id_str": "2853461537",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "mseiler1",
+                    "name": "Mikers",
+                    "id": 17630233,
+                    "id_str": "17630233",
+                    "indices": [
+                        16,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ZIZQfN7nuF",
+                "expanded_url": "https://twitter.com/i/web/status/1254024309200220160",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ScottAdamsSays",
+                "name": "Scott Adams",
+                "id": 2853461537,
+                "id_str": "2853461537",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "mseiler1",
+                "name": "Mikers",
+                "id": 17630233,
+                "id_str": "17630233",
+                "indices": [
+                    16,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817668615"
+}

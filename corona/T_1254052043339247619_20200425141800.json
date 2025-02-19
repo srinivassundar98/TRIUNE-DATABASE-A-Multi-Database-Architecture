@@ -1,0 +1,357 @@
+{
+    "created_at": "Sat Apr 25 14:18:00 +0000 2020",
+    "id": 1254052043339247619,
+    "id_str": "1254052043339247619",
+    "text": "A picture of two policemen sleeping on the ground after their duty amid the #lockdown has gone #viral.… https://t.co/SnAens9OYC",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 17830429,
+        "id_str": "17830429",
+        "name": "Sakal Times",
+        "screen_name": "sakaltimes",
+        "location": "Maharashtra, India",
+        "url": "http://www.sakaltimes.com/",
+        "description": "English daily 🗞️ from Pune bringing the latest news, updates & features from Maharashtra and around the world.\nA part of Sakal Media Group (@sakalmedianews).",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 20404,
+        "friends_count": 11,
+        "listed_count": 86,
+        "favourites_count": 332,
+        "statuses_count": 40033,
+        "created_at": "Wed Dec 03 05:54:15 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0CC39",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "5F2349",
+        "profile_sidebar_fill_color": "80205C",
+        "profile_text_color": "FFF9C6",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201791495021453312/w_lW1gjx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201791495021453312/w_lW1gjx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17830429/1585828296",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "b850c1bfd38f30e0",
+        "url": "https://api.twitter.com/1.1/geo/id/b850c1bfd38f30e0.json",
+        "place_type": "country",
+        "name": "India",
+        "full_name": "India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        67.997691,
+                        6.622513
+                    ],
+                    [
+                        67.997691,
+                        33.254896
+                    ],
+                    [
+                        97.170672,
+                        33.254896
+                    ],
+                    [
+                        97.170672,
+                        6.622513
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "A picture of two policemen sleeping on the ground after their duty amid the #lockdown has gone #viral.\n\nhttps://t.co/vxEcwxKDfY \n\n#Sakal #SakalNews #viral #SakalTimes #news #Corona #COVID #COVID2019india #coronaupdatesindia #police #hardwork #work #stress #curfew #level4lockdown https://t.co/oufSUkHvqc",
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "lockdown",
+                    "indices": [
+                        76,
+                        85
+                    ]
+                },
+                {
+                    "text": "viral",
+                    "indices": [
+                        95,
+                        101
+                    ]
+                },
+                {
+                    "text": "Sakal",
+                    "indices": [
+                        130,
+                        136
+                    ]
+                },
+                {
+                    "text": "SakalNews",
+                    "indices": [
+                        137,
+                        147
+                    ]
+                },
+                {
+                    "text": "viral",
+                    "indices": [
+                        148,
+                        154
+                    ]
+                },
+                {
+                    "text": "SakalTimes",
+                    "indices": [
+                        155,
+                        166
+                    ]
+                },
+                {
+                    "text": "news",
+                    "indices": [
+                        167,
+                        172
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        173,
+                        180
+                    ]
+                },
+                {
+                    "text": "COVID",
+                    "indices": [
+                        181,
+                        187
+                    ]
+                },
+                {
+                    "text": "COVID2019india",
+                    "indices": [
+                        188,
+                        203
+                    ]
+                },
+                {
+                    "text": "coronaupdatesindia",
+                    "indices": [
+                        204,
+                        223
+                    ]
+                },
+                {
+                    "text": "police",
+                    "indices": [
+                        224,
+                        231
+                    ]
+                },
+                {
+                    "text": "hardwork",
+                    "indices": [
+                        232,
+                        241
+                    ]
+                },
+                {
+                    "text": "work",
+                    "indices": [
+                        242,
+                        247
+                    ]
+                },
+                {
+                    "text": "stress",
+                    "indices": [
+                        248,
+                        255
+                    ]
+                },
+                {
+                    "text": "curfew",
+                    "indices": [
+                        256,
+                        263
+                    ]
+                },
+                {
+                    "text": "level4lockdown",
+                    "indices": [
+                        264,
+                        279
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vxEcwxKDfY",
+                    "expanded_url": "http://www.sakaltimes.com",
+                    "display_url": "sakaltimes.com",
+                    "indices": [
+                        104,
+                        127
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254052031498792962,
+                    "id_str": "1254052031498792962",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJratXsAIQlhH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJratXsAIQlhH.jpg",
+                    "url": "https://t.co/oufSUkHvqc",
+                    "display_url": "pic.twitter.com/oufSUkHvqc",
+                    "expanded_url": "https://twitter.com/sakaltimes/status/1254052043339247619/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 719,
+                            "h": 511,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 483,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 719,
+                            "h": 511,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254052031498792962,
+                    "id_str": "1254052031498792962",
+                    "indices": [
+                        280,
+                        303
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdJratXsAIQlhH.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdJratXsAIQlhH.jpg",
+                    "url": "https://t.co/oufSUkHvqc",
+                    "display_url": "pic.twitter.com/oufSUkHvqc",
+                    "expanded_url": "https://twitter.com/sakaltimes/status/1254052043339247619/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 719,
+                            "h": 511,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 483,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 719,
+                            "h": 511,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "lockdown",
+                "indices": [
+                    76,
+                    85
+                ]
+            },
+            {
+                "text": "viral",
+                "indices": [
+                    95,
+                    101
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/SnAens9OYC",
+                "expanded_url": "https://twitter.com/i/web/status/1254052043339247619",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    104,
+                    127
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824280949"
+}

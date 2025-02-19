@@ -1,0 +1,138 @@
+{
+    "created_at": "Sat Apr 25 14:40:30 +0000 2020",
+    "id": 1254057702080348160,
+    "id_str": "1254057702080348160",
+    "text": "@freestylejump25 @Westworld_host_ @zen_garten @Besterleo @c_drosten @ArminWolf Nur ein Corona Experte in Deutschland ??",
+    "display_text_range": [
+        79,
+        119
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254038314933465089,
+    "in_reply_to_status_id_str": "1254038314933465089",
+    "in_reply_to_user_id": 2934398021,
+    "in_reply_to_user_id_str": "2934398021",
+    "in_reply_to_screen_name": "freestylejump25",
+    "user": {
+        "id": 1251953241509814273,
+        "id_str": "1251953241509814273",
+        "name": "Diogenis81",
+        "screen_name": "diogenis81",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 57,
+        "listed_count": 0,
+        "favourites_count": 10,
+        "statuses_count": 4,
+        "created_at": "Sun Apr 19 19:18:28 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251953948061204483/m4d1Ymrf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251953948061204483/m4d1Ymrf_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "freestylejump25",
+                "name": "Augsburger Huhn",
+                "id": 2934398021,
+                "id_str": "2934398021",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "Westworld_host_",
+                "name": "Ford",
+                "id": 327460762,
+                "id_str": "327460762",
+                "indices": [
+                    17,
+                    33
+                ]
+            },
+            {
+                "screen_name": "zen_garten",
+                "name": "Thomas",
+                "id": 2428765073,
+                "id_str": "2428765073",
+                "indices": [
+                    34,
+                    45
+                ]
+            },
+            {
+                "screen_name": "Besterleo",
+                "name": "Joseph Bajjali",
+                "id": 95961263,
+                "id_str": "95961263",
+                "indices": [
+                    46,
+                    56
+                ]
+            },
+            {
+                "screen_name": "c_drosten",
+                "name": "Christian Drosten",
+                "id": 2804548467,
+                "id_str": "2804548467",
+                "indices": [
+                    57,
+                    67
+                ]
+            },
+            {
+                "screen_name": "ArminWolf",
+                "name": "Armin Wolf",
+                "id": 20694291,
+                "id_str": "20694291",
+                "indices": [
+                    68,
+                    78
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587825630098"
+}

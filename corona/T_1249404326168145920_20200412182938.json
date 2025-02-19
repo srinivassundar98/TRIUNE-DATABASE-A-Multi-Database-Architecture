@@ -1,0 +1,123 @@
+{
+    "created_at": "Sun Apr 12 18:29:38 +0000 2020",
+    "id": 1249404326168145920,
+    "id_str": "1249404326168145920",
+    "text": "@whateverliana Sim! Corona não deixou, né :( mas mesmo assim, foi bom. Depois daquela queda grotesca com a história… https://t.co/3V3gSKUipR",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1248678429123362818,
+    "in_reply_to_status_id_str": "1248678429123362818",
+    "in_reply_to_user_id": 4257883311,
+    "in_reply_to_user_id_str": "4257883311",
+    "in_reply_to_screen_name": "whateverliana",
+    "user": {
+        "id": 70865868,
+        "id_str": "70865868",
+        "name": "sarabruxa ☮️",
+        "screen_name": "saramartinsb_",
+        "location": "Natal, Brazil",
+        "url": "http://saramartinsb.tumblr.com/",
+        "description": "porque quando eu tô de boas, eu quero que todo mundo fique de boas também",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 688,
+        "friends_count": 1527,
+        "listed_count": 10,
+        "favourites_count": 116752,
+        "statuses_count": 42037,
+        "created_at": "Wed Sep 02 03:00:57 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "BCA9F5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "7003BA",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1207734191095459842/jK_Pg-V5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207734191095459842/jK_Pg-V5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70865868/1496223543",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@whateverliana Sim! Corona não deixou, né :( mas mesmo assim, foi bom. Depois daquela queda grotesca com a história do Karev, etc... Grey's voltou a ser Grey's",
+        "display_text_range": [
+            15,
+            159
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "whateverliana",
+                    "name": "Liana",
+                    "id": 4257883311,
+                    "id_str": "4257883311",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/3V3gSKUipR",
+                "expanded_url": "https://twitter.com/i/web/status/1249404326168145920",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "whateverliana",
+                "name": "Liana",
+                "id": 4257883311,
+                "id_str": "4257883311",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716178825"
+}

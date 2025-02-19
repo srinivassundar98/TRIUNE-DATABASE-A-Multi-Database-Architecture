@@ -1,0 +1,162 @@
+{
+    "created_at": "Sun Apr 12 18:40:14 +0000 2020",
+    "id": 1249406993078591489,
+    "id_str": "1249406993078591489",
+    "text": "@groby @CreatedInTheD @MaxCRoser ad hominem while not recognizing in any way the specific situation - hundreds of s… https://t.co/87tZEZ8rGX",
+    "display_text_range": [
+        33,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249405720199450624,
+    "in_reply_to_status_id_str": "1249405720199450624",
+    "in_reply_to_user_id": 794186,
+    "in_reply_to_user_id_str": "794186",
+    "in_reply_to_screen_name": "groby",
+    "user": {
+        "id": 45961185,
+        "id_str": "45961185",
+        "name": "CK (not Calvin Klein)",
+        "screen_name": "ClemoHA",
+        "location": "Bécs, früher Hamburg und Amsterdam",
+        "url": null,
+        "description": "freier Geist, volkswirtschaftlich konservativ, Möchtegern-Papa von 3 Kindern",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 455,
+        "friends_count": 586,
+        "listed_count": 5,
+        "favourites_count": 24120,
+        "statuses_count": 20765,
+        "created_at": "Tue Jun 09 22:17:44 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/853667595270180864/OBEhsQbb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/853667595270180864/OBEhsQbb_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@groby @CreatedInTheD @MaxCRoser ad hominem while not recognizing in any way the specific situation - hundreds of smaller yet completely different files containing health data on Corona. And many of those evolving every few days or so.",
+        "display_text_range": [
+            33,
+            235
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "groby",
+                    "name": "(((Rachel Blum)))",
+                    "id": 794186,
+                    "id_str": "794186",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "screen_name": "CreatedInTheD",
+                    "name": "Created In The D",
+                    "id": 1211451533839097856,
+                    "id_str": "1211451533839097856",
+                    "indices": [
+                        7,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "MaxCRoser",
+                    "name": "Max Roser",
+                    "id": 610659001,
+                    "id_str": "610659001",
+                    "indices": [
+                        22,
+                        32
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/87tZEZ8rGX",
+                "expanded_url": "https://twitter.com/i/web/status/1249406993078591489",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "groby",
+                "name": "(((Rachel Blum)))",
+                "id": 794186,
+                "id_str": "794186",
+                "indices": [
+                    0,
+                    6
+                ]
+            },
+            {
+                "screen_name": "CreatedInTheD",
+                "name": "Created In The D",
+                "id": 1211451533839097856,
+                "id_str": "1211451533839097856",
+                "indices": [
+                    7,
+                    21
+                ]
+            },
+            {
+                "screen_name": "MaxCRoser",
+                "name": "Max Roser",
+                "id": 610659001,
+                "id_str": "610659001",
+                "indices": [
+                    22,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716814666"
+}

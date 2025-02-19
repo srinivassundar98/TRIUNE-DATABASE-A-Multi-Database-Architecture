@@ -1,0 +1,171 @@
+{
+    "created_at": "Sat Apr 25 13:38:01 +0000 2020",
+    "id": 1254041977659801601,
+    "id_str": "1254041977659801601",
+    "text": "@pdr2002 @Die_Kehrseite @Volker_Beck Die Digitalisierung wird kommen. Das steht für mich außer Frage. Braucht aufgr… https://t.co/ha8MWHb0C7",
+    "display_text_range": [
+        37,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254022533227184128,
+    "in_reply_to_status_id_str": "1254022533227184128",
+    "in_reply_to_user_id": 34554431,
+    "in_reply_to_user_id_str": "34554431",
+    "in_reply_to_screen_name": "pdr2002",
+    "user": {
+        "id": 343065428,
+        "id_str": "343065428",
+        "name": "Oliver Peters",
+        "screen_name": "salz_zur_sahne",
+        "location": "Germany",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 133,
+        "friends_count": 149,
+        "listed_count": 4,
+        "favourites_count": 658,
+        "statuses_count": 7484,
+        "created_at": "Wed Jul 27 00:52:03 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2218666766/IMAG0164_03_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2218666766/IMAG0164_03_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/343065428/1414965461",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@pdr2002 @Die_Kehrseite @Volker_Beck Die Digitalisierung wird kommen. Das steht für mich außer Frage. Braucht aufgrund der Widerstände halt seine Zeit und #Corona bietet sicherlich eine Gelegenheit zur Beschleunigung. Trotzdem steckt das Grundübel im System: der mündige Bürger ist [nicht] gewollt.",
+        "display_text_range": [
+            37,
+            298
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        155,
+                        162
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "pdr2002",
+                    "name": "Peter",
+                    "id": 34554431,
+                    "id_str": "34554431",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "Die_Kehrseite",
+                    "name": "ǝʇıǝsɹɥǝʞ_ǝıp",
+                    "id": 236777835,
+                    "id_str": "236777835",
+                    "indices": [
+                        9,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "Volker_Beck",
+                    "name": "Volker Beck",
+                    "id": 16337664,
+                    "id_str": "16337664",
+                    "indices": [
+                        24,
+                        36
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ha8MWHb0C7",
+                "expanded_url": "https://twitter.com/i/web/status/1254041977659801601",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "pdr2002",
+                "name": "Peter",
+                "id": 34554431,
+                "id_str": "34554431",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "Die_Kehrseite",
+                "name": "ǝʇıǝsɹɥǝʞ_ǝıp",
+                "id": 236777835,
+                "id_str": "236777835",
+                "indices": [
+                    9,
+                    23
+                ]
+            },
+            {
+                "screen_name": "Volker_Beck",
+                "name": "Volker Beck",
+                "id": 16337664,
+                "id_str": "16337664",
+                "indices": [
+                    24,
+                    36
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821881104"
+}

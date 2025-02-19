@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 12:56:15 +0000 2020",
+    "id": 1254031469825134594,
+    "id_str": "1254031469825134594",
+    "text": "@trixasis4 Did you see the studies they are doing with nicotine patches ? It seems smokers are 4x less likely to ge… https://t.co/kExX92SIxG",
+    "display_text_range": [
+        11,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254019326090399745,
+    "in_reply_to_status_id_str": "1254019326090399745",
+    "in_reply_to_user_id": 1211639952611500033,
+    "in_reply_to_user_id_str": "1211639952611500033",
+    "in_reply_to_screen_name": "trixasis4",
+    "user": {
+        "id": 463058325,
+        "id_str": "463058325",
+        "name": "Ilene Pretorius",
+        "screen_name": "Ilenetjie",
+        "location": "Pretoria, South Africa",
+        "url": null,
+        "description": "South African",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 354,
+        "friends_count": 344,
+        "listed_count": 1,
+        "favourites_count": 16560,
+        "statuses_count": 9543,
+        "created_at": "Fri Jan 13 17:37:07 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1107956116363845632/LSnrVbeo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107956116363845632/LSnrVbeo_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@trixasis4 Did you see the studies they are doing with nicotine patches ? It seems smokers are 4x less likely to get sick from corona virus. I am not a fan of smoking but I would love for this to be proven as true to see her reaction.",
+        "display_text_range": [
+            11,
+            234
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "trixasis4",
+                    "name": "Trixasis4",
+                    "id": 1211639952611500033,
+                    "id_str": "1211639952611500033",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/kExX92SIxG",
+                "expanded_url": "https://twitter.com/i/web/status/1254031469825134594",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "trixasis4",
+                "name": "Trixasis4",
+                "id": 1211639952611500033,
+                "id_str": "1211639952611500033",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819375841"
+}

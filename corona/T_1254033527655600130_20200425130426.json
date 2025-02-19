@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 13:04:26 +0000 2020",
+    "id": 1254033527655600130,
+    "id_str": "1254033527655600130",
+    "text": "@juvvct @Conflits_FR Oui mais lui on se rends compte que c'est de moins en moins un corona. Niveau caractéristique… https://t.co/DhiXnfBhx0",
+    "display_text_range": [
+        21,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254032288008024066,
+    "in_reply_to_status_id_str": "1254032288008024066",
+    "in_reply_to_user_id": 997184353653460992,
+    "in_reply_to_user_id_str": "997184353653460992",
+    "in_reply_to_screen_name": "juvvct",
+    "user": {
+        "id": 1162051959454613504,
+        "id_str": "1162051959454613504",
+        "name": "Hoxcy",
+        "screen_name": "RadiumHoxcy",
+        "location": "France",
+        "url": null,
+        "description": "_20_\nJe retweet ce qui me parait intéressant (des fois c'est raté)\nA suivi de près le dossier Covid-19 depuis fin décembre 2019.\nInfos-dispo en retweet.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 37,
+        "friends_count": 63,
+        "listed_count": 0,
+        "favourites_count": 11327,
+        "statuses_count": 1437,
+        "created_at": "Thu Aug 15 17:22:31 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217863831407484930/Lbq1BlGQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217863831407484930/Lbq1BlGQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1162051959454613504/1566179997",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@juvvct @Conflits_FR Oui mais lui on se rends compte que c'est de moins en moins un corona. Niveau caractéristique il a presque plus rien à voir. Un corona n'attaque pas le système sanguin et le système immunitaire.",
+        "display_text_range": [
+            21,
+            215
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "juvvct",
+                    "name": "Juvvct",
+                    "id": 997184353653460992,
+                    "id_str": "997184353653460992",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "Conflits_FR",
+                    "name": "Conflits",
+                    "id": 1214315619031478272,
+                    "id_str": "1214315619031478272",
+                    "indices": [
+                        8,
+                        20
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/DhiXnfBhx0",
+                "expanded_url": "https://twitter.com/i/web/status/1254033527655600130",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "juvvct",
+                "name": "Juvvct",
+                "id": 997184353653460992,
+                "id_str": "997184353653460992",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "Conflits_FR",
+                "name": "Conflits",
+                "id": 1214315619031478272,
+                "id_str": "1214315619031478272",
+                "indices": [
+                    8,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587819866466"
+}

@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 14:11:34 +0000 2020",
+    "id": 1254050422937071619,
+    "id_str": "1254050422937071619",
+    "text": "@saraclemos @DianaNeutel @souacpc @Tatiana61143686 Se não fosse o corona já lá estávamos 😠",
+    "display_text_range": [
+        51,
+        90
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254047300349038592,
+    "in_reply_to_status_id_str": "1254047300349038592",
+    "in_reply_to_user_id": 1168641649624440833,
+    "in_reply_to_user_id_str": "1168641649624440833",
+    "in_reply_to_screen_name": "saraclemos",
+    "user": {
+        "id": 4698450205,
+        "id_str": "4698450205",
+        "name": "ماريا",
+        "screen_name": "mariaajso",
+        "location": "Seia, Portugal",
+        "url": "https://curiouscat.me/lxstinmaria",
+        "description": "18y || sm || ig: mariaajso",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1168,
+        "friends_count": 370,
+        "listed_count": 18,
+        "favourites_count": 34681,
+        "statuses_count": 73266,
+        "created_at": "Sat Jan 02 20:33:35 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251651083291820033/sCyq-KeA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251651083291820033/sCyq-KeA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4698450205/1587036488",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "saraclemos",
+                "name": "Sara Lemos",
+                "id": 1168641649624440833,
+                "id_str": "1168641649624440833",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "DianaNeutel",
+                "name": "neutel🤡",
+                "id": 1061645457502470144,
+                "id_str": "1061645457502470144",
+                "indices": [
+                    12,
+                    24
+                ]
+            },
+            {
+                "screen_name": "souacpc",
+                "name": "Cardoso 🥵",
+                "id": 999921871821795328,
+                "id_str": "999921871821795328",
+                "indices": [
+                    25,
+                    33
+                ]
+            },
+            {
+                "screen_name": "Tatiana61143686",
+                "name": "Tatiana Santos",
+                "id": 1166414701225533446,
+                "id_str": "1166414701225533446",
+                "indices": [
+                    34,
+                    50
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587823894615"
+}

@@ -1,0 +1,171 @@
+{
+    "created_at": "Sat Apr 25 13:42:29 +0000 2020",
+    "id": 1254043103977246720,
+    "id_str": "1254043103977246720",
+    "text": "@03lafaye @paultoo @yaronbrook I’ve also read that hospitals don’t always test for corona for some deaths but are i… https://t.co/ldoDxOoZAe",
+    "display_text_range": [
+        31,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254040339922501632,
+    "in_reply_to_status_id_str": "1254040339922501632",
+    "in_reply_to_user_id": 1643140148,
+    "in_reply_to_user_id_str": "1643140148",
+    "in_reply_to_screen_name": "maddrus",
+    "user": {
+        "id": 1643140148,
+        "id_str": "1643140148",
+        "name": "Russell Madden",
+        "screen_name": "maddrus",
+        "location": "United States",
+        "url": "http://amazon.com/author/russellmadden",
+        "description": "Writer, Objectivist, freedom-lover, gamer. Enjoys films, mysteries, thrillers, sci-fi. Reason, reality, liberty in all things. Buy my work on Amazon.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 85,
+        "friends_count": 65,
+        "listed_count": 5,
+        "favourites_count": 1774,
+        "statuses_count": 3628,
+        "created_at": "Sat Aug 03 16:08:19 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000723438119/e74f6f2417771baef0d2cfecd3ed05c2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000723438119/e74f6f2417771baef0d2cfecd3ed05c2_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643140148/1384125491",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@03lafaye @paultoo @yaronbrook I’ve also read that hospitals don’t always test for corona for some deaths but are instructed to make a best guess; that gov. gives them financial incentives to do so; that Medicare reimburses hospitals more when the cause of death is listed as coronavirus. If true, #s too high",
+        "display_text_range": [
+            31,
+            309
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "s",
+                    "indices": [
+                        298,
+                        300
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "03lafaye",
+                    "name": "Pierre LaFayette",
+                    "id": 37383541,
+                    "id_str": "37383541",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "paultoo",
+                    "name": "Paul Buchheit",
+                    "id": 769254,
+                    "id_str": "769254",
+                    "indices": [
+                        10,
+                        18
+                    ]
+                },
+                {
+                    "screen_name": "yaronbrook",
+                    "name": "Yaron Brook",
+                    "id": 21637092,
+                    "id_str": "21637092",
+                    "indices": [
+                        19,
+                        30
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ldoDxOoZAe",
+                "expanded_url": "https://twitter.com/i/web/status/1254043103977246720",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "03lafaye",
+                "name": "Pierre LaFayette",
+                "id": 37383541,
+                "id_str": "37383541",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "paultoo",
+                "name": "Paul Buchheit",
+                "id": 769254,
+                "id_str": "769254",
+                "indices": [
+                    10,
+                    18
+                ]
+            },
+            {
+                "screen_name": "yaronbrook",
+                "name": "Yaron Brook",
+                "id": 21637092,
+                "id_str": "21637092",
+                "indices": [
+                    19,
+                    30
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822149639"
+}

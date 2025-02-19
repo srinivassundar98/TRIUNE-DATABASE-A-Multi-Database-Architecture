@@ -1,0 +1,179 @@
+{
+    "created_at": "Sat Apr 25 13:27:27 +0000 2020",
+    "id": 1254039319343497217,
+    "id_str": "1254039319343497217",
+    "text": "#FamilienAlleinZuHaus: @colliencollien mit ihrer brandaktuellen Doku heute Abend bei @ZDFneo - und schon jetzt bei… https://t.co/H6pxJIxcQW",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 71480053,
+        "id_str": "71480053",
+        "name": "TV Wunschliste",
+        "screen_name": "tvwunschliste",
+        "location": "Köln Germany",
+        "url": "http://www.wunschliste.de/",
+        "description": "TV- und DVD-News von Deutschlands größtem Fernsehserien- und TV-Infoportal.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3468,
+        "friends_count": 305,
+        "listed_count": 155,
+        "favourites_count": 255,
+        "statuses_count": 33166,
+        "created_at": "Fri Sep 04 07:25:08 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "CAD4DD",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/798110018746859520/tXsr97AZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/798110018746859520/tXsr97AZ_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "#FamilienAlleinZuHaus: @colliencollien mit ihrer brandaktuellen Doku heute Abend bei @ZDFneo - und schon jetzt bei uns im Interview. Über #Corona, #TheMaskedSinger und mehr: https://t.co/0PsTI2s2TL",
+        "display_text_range": [
+            0,
+            197
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FamilienAlleinZuHaus",
+                    "indices": [
+                        0,
+                        21
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        138,
+                        145
+                    ]
+                },
+                {
+                    "text": "TheMaskedSinger",
+                    "indices": [
+                        147,
+                        163
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/0PsTI2s2TL",
+                    "expanded_url": "https://www.wunschliste.de/interview/collien-ulmen-fernandes-niemand-kann-voraussehen-ab-wann-man-wieder-ein-einigermassen-normales-leben-fuehren-kann",
+                    "display_url": "wunschliste.de/interview/coll…",
+                    "indices": [
+                        174,
+                        197
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "colliencollien",
+                    "name": "Collien U.-Fernandes",
+                    "id": 2402278657,
+                    "id_str": "2402278657",
+                    "indices": [
+                        23,
+                        38
+                    ]
+                },
+                {
+                    "screen_name": "ZDFneo",
+                    "name": "ZDFneo",
+                    "id": 66986123,
+                    "id_str": "66986123",
+                    "indices": [
+                        85,
+                        92
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FamilienAlleinZuHaus",
+                "indices": [
+                    0,
+                    21
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/H6pxJIxcQW",
+                "expanded_url": "https://twitter.com/i/web/status/1254039319343497217",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "colliencollien",
+                "name": "Collien U.-Fernandes",
+                "id": 2402278657,
+                "id_str": "2402278657",
+                "indices": [
+                    23,
+                    38
+                ]
+            },
+            {
+                "screen_name": "ZDFneo",
+                "name": "ZDFneo",
+                "id": 66986123,
+                "id_str": "66986123",
+                "indices": [
+                    85,
+                    92
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821247312"
+}

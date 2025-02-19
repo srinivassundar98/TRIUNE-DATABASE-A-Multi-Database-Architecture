@@ -1,0 +1,144 @@
+{
+    "created_at": "Sat Apr 25 13:00:25 +0000 2020",
+    "id": 1254032517532966912,
+    "id_str": "1254032517532966912",
+    "text": "Two best #Covid_19 Update sites https://t.co/3ikuUwmVs2\n\nand\n\nhttps://t.co/Z2GhSjMJ6R\n\n@ahmednasirlaw",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 211795271,
+        "id_str": "211795271",
+        "name": "Abdirashid Abdullahi",
+        "screen_name": "_abdirashid",
+        "location": "Wajir, Kenya",
+        "url": null,
+        "description": "A Kenyan 🇰🇪 from #WajirCounty. Interested in African and Middle East News.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1737,
+        "friends_count": 981,
+        "listed_count": 8,
+        "favourites_count": 1501,
+        "statuses_count": 5314,
+        "created_at": "Thu Nov 04 08:32:28 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EBC1D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "B3A400",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250742777413013504/RJc39xds_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250742777413013504/RJc39xds_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "001a6ecd74396345",
+        "url": "https://api.twitter.com/1.1/geo/id/001a6ecd74396345.json",
+        "place_type": "admin",
+        "name": "North Eastern",
+        "full_name": "North Eastern, Kenya",
+        "country_code": "KE",
+        "country": "Kenya",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        38.659526,
+                        -2.036128
+                    ],
+                    [
+                        38.659526,
+                        4.286328
+                    ],
+                    [
+                        41.899867,
+                        4.286328
+                    ],
+                    [
+                        41.899867,
+                        -2.036128
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Covid_19",
+                "indices": [
+                    9,
+                    18
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/3ikuUwmVs2",
+                "expanded_url": "https://corona-scanner.com/country",
+                "display_url": "corona-scanner.com/country",
+                "indices": [
+                    32,
+                    55
+                ]
+            },
+            {
+                "url": "https://t.co/Z2GhSjMJ6R",
+                "expanded_url": "https://www.worldometers.info/coronavirus/#countries",
+                "display_url": "worldometers.info/coronavirus/#c…",
+                "indices": [
+                    62,
+                    85
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ahmednasirlaw",
+                "name": "Ahmednasir Abdullahi SC",
+                "id": 401579858,
+                "id_str": "401579858",
+                "indices": [
+                    87,
+                    101
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819625634"
+}

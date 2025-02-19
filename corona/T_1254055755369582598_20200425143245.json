@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 14:32:45 +0000 2020",
+    "id": 1254055755369582598,
+    "id_str": "1254055755369582598",
+    "text": "@ConorsCornerFR please help me Conor. My kids are trying to talk me into getting a dog. Do me a solid and tell them… https://t.co/YarppJzvPX",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1191370290883973120,
+    "in_reply_to_user_id_str": "1191370290883973120",
+    "in_reply_to_screen_name": "ConorsCornerFR",
+    "user": {
+        "id": 145803904,
+        "id_str": "145803904",
+        "name": "goog applebaum",
+        "screen_name": "goog13",
+        "location": "North St Paul, MN",
+        "url": "https://anchor.fm/craig-goog-applebaum",
+        "description": "Host of The Selfie Life Podcast on most streaming services like Spotify http://Anchor.FM,  Apple,  Google and more",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 61,
+        "friends_count": 273,
+        "listed_count": 0,
+        "favourites_count": 151,
+        "statuses_count": 196,
+        "created_at": "Wed May 19 22:50:20 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1203717312169365504/LVVdEIaT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203717312169365504/LVVdEIaT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/145803904/1562805158",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00236f5805cdb176",
+        "url": "https://api.twitter.com/1.1/geo/id/00236f5805cdb176.json",
+        "place_type": "city",
+        "name": "North St Paul",
+        "full_name": "North St Paul, MN",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -93.016212,
+                        44.995614
+                    ],
+                    [
+                        -93.016212,
+                        45.031903
+                    ],
+                    [
+                        -92.984625,
+                        45.031903
+                    ],
+                    [
+                        -92.984625,
+                        44.995614
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ConorsCornerFR please help me Conor. My kids are trying to talk me into getting a dog. Do me a solid and tell them dogs have a higher risk of getting the Corona Virus.",
+        "display_text_range": [
+            0,
+            168
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ConorsCornerFR",
+                    "name": "Conor's Corner",
+                    "id": 1191370290883973120,
+                    "id_str": "1191370290883973120",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/YarppJzvPX",
+                "expanded_url": "https://twitter.com/i/web/status/1254055755369582598",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ConorsCornerFR",
+                "name": "Conor's Corner",
+                "id": 1191370290883973120,
+                "id_str": "1191370290883973120",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825165966"
+}

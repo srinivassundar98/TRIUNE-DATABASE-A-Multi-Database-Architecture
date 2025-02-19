@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Apr 25 13:51:29 +0000 2020",
+    "id": 1254045368708259846,
+    "id_str": "1254045368708259846",
+    "text": "@Rajinderrana999 Mr. Rajender  Rana, Instead of criticising the Good Work  done by  the State &amp; Center  Govt would… https://t.co/CyV5XmkxqN",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253699513241329666,
+    "in_reply_to_status_id_str": "1253699513241329666",
+    "in_reply_to_user_id": 1004572606622646273,
+    "in_reply_to_user_id_str": "1004572606622646273",
+    "in_reply_to_screen_name": "Rajinderrana999",
+    "user": {
+        "id": 3025608210,
+        "id_str": "3025608210",
+        "name": "Er. Kultar Chand Guleria",
+        "screen_name": "GuleriaKultar",
+        "location": "Himachal Pradesh, India",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 25,
+        "friends_count": 85,
+        "listed_count": 0,
+        "favourites_count": 413,
+        "statuses_count": 541,
+        "created_at": "Wed Feb 18 11:55:40 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131548110721675266/mq_LoN0K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131548110721675266/mq_LoN0K_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5b1f3da62a20c9c1",
+        "url": "https://api.twitter.com/1.1/geo/id/5b1f3da62a20c9c1.json",
+        "place_type": "city",
+        "name": "Dharmsala",
+        "full_name": "Dharmsala, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        76.317532,
+                        32.190952
+                    ],
+                    [
+                        76.317532,
+                        32.227955
+                    ],
+                    [
+                        76.348809,
+                        32.227955
+                    ],
+                    [
+                        76.348809,
+                        32.190952
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Rajinderrana999 Mr. Rajender  Rana, Instead of criticising the Good Work  done by  the State &amp; Center  Govt would be better if you or your Party can suggest some better alternative  which  can help the State and Nation to fight the immediate  threat of CORONA  &amp; Economy as well.\nJai Hind",
+        "display_text_range": [
+            17,
+            297
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Rajinderrana999",
+                    "name": "Rajinder Rana",
+                    "id": 1004572606622646273,
+                    "id_str": "1004572606622646273",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/CyV5XmkxqN",
+                "expanded_url": "https://twitter.com/i/web/status/1254045368708259846",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    120,
+                    143
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Rajinderrana999",
+                "name": "Rajinder Rana",
+                "id": 1004572606622646273,
+                "id_str": "1004572606622646273",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822689593"
+}

@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 14:08:50 +0000 2020",
+    "id": 1254049735071105025,
+    "id_str": "1254049735071105025",
+    "text": "Agora é só no estilo Mortal Kombat. Não lembro mas acho que toma o ninja branco, né?\n\nChupa, corona vírus!!! https://t.co/Gs2IcTlSuJ",
+    "display_text_range": [
+        0,
+        108
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1162354928741953536,
+        "id_str": "1162354928741953536",
+        "name": "André Soares - VENCI O CORONA!!!",
+        "screen_name": "kalelandre1980",
+        "location": "Vila Matilde",
+        "url": null,
+        "description": "O porco tem coice curto, mas embala quando a cancha é reta!!!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 485,
+        "friends_count": 598,
+        "listed_count": 0,
+        "favourites_count": 18361,
+        "statuses_count": 4554,
+        "created_at": "Fri Aug 16 13:26:36 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1230474528695910405/drmEV8sI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230474528695910405/drmEV8sI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1162354928741953536/1584361073",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254049725646544896,
+                "id_str": "1254049725646544896",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdHlMvWoAAe_Ti.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdHlMvWoAAe_Ti.jpg",
+                "url": "https://t.co/Gs2IcTlSuJ",
+                "display_url": "pic.twitter.com/Gs2IcTlSuJ",
+                "expanded_url": "https://twitter.com/kalelandre1980/status/1254049735071105025/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254049725646544896,
+                "id_str": "1254049725646544896",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdHlMvWoAAe_Ti.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdHlMvWoAAe_Ti.jpg",
+                "url": "https://t.co/Gs2IcTlSuJ",
+                "display_url": "pic.twitter.com/Gs2IcTlSuJ",
+                "expanded_url": "https://twitter.com/kalelandre1980/status/1254049735071105025/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587823730615"
+}

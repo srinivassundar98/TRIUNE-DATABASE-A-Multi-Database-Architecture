@@ -1,0 +1,167 @@
+{
+    "created_at": "Sun Apr 12 18:46:03 +0000 2020",
+    "id": 1249408454789189633,
+    "id_str": "1249408454789189633",
+    "text": "Pandemie: Palliativarzt: „Alte Corona-Patienten sind kaum zu retten“ https://t.co/7HLOhVygn7 https://t.co/ChWEsrgB13",
+    "display_text_range": [
+        0,
+        92
+    ],
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 718145940,
+        "id_str": "718145940",
+        "name": "PNR24",
+        "screen_name": "CityReport",
+        "location": "Potsdam",
+        "url": "https://cityreport.pnr24-online.de",
+        "description": "online Nachrichtenportal mit aktuellen Meldungen des Tages",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2055,
+        "friends_count": 4996,
+        "listed_count": 117,
+        "favourites_count": 2842,
+        "statuses_count": 1014613,
+        "created_at": "Thu Jul 26 13:48:05 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185653026670952449/EEusXlU2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185653026670952449/EEusXlU2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/718145940/1571516686",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/7HLOhVygn7",
+                "expanded_url": "http://dlvr.it/RTfFrb",
+                "display_url": "dlvr.it/RTfFrb",
+                "indices": [
+                    69,
+                    92
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249408453094694913,
+                "id_str": "1249408453094694913",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKXlIUYAEFNV9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKXlIUYAEFNV9.jpg",
+                "url": "https://t.co/ChWEsrgB13",
+                "display_url": "pic.twitter.com/ChWEsrgB13",
+                "expanded_url": "https://twitter.com/CityReport/status/1249408454789189633/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 820,
+                        "h": 461,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 820,
+                        "h": 461,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249408453094694913,
+                "id_str": "1249408453094694913",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbKXlIUYAEFNV9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbKXlIUYAEFNV9.jpg",
+                "url": "https://t.co/ChWEsrgB13",
+                "display_url": "pic.twitter.com/ChWEsrgB13",
+                "expanded_url": "https://twitter.com/CityReport/status/1249408454789189633/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 820,
+                        "h": 461,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 820,
+                        "h": 461,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586717163165"
+}

@@ -1,0 +1,802 @@
+{
+    "created_at": "Sat Apr 25 14:00:43 +0000 2020",
+    "id": 1254047691421687808,
+    "id_str": "1254047691421687808",
+    "text": "RT @RomanWenzl: Schon vor Corona wurden kaum Unternehmen in der EU gegründet und hunderte Mrd.€ an Kapital aus der EU abgezogen.\n@peteraltm…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 105409096,
+        "id_str": "105409096",
+        "name": "Karol Kolesar",
+        "screen_name": "kaltenstein",
+        "location": null,
+        "url": "http://www.flickr.com/j153",
+        "description": "#Jesus #Isten #Boh #Gott #God\nhttp://psalm23.pen.io",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2137,
+        "friends_count": 2993,
+        "listed_count": 8,
+        "favourites_count": 29060,
+        "statuses_count": 34200,
+        "created_at": "Sat Jan 16 07:40:33 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1768279909/kkk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1768279909/kkk_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 13:34:12 +0000 2020",
+        "id": 1254041018535759872,
+        "id_str": "1254041018535759872",
+        "text": "Schon vor Corona wurden kaum Unternehmen in der EU gegründet und hunderte Mrd.€ an Kapital aus der EU abgezogen.… https://t.co/TNrmF9M6Kw",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2759295654,
+            "id_str": "2759295654",
+            "name": "Roman Wenzl",
+            "screen_name": "RomanWenzl",
+            "location": "Wien, Österreich",
+            "url": null,
+            "description": "MBA Corporate Finance\nMBA Strategisches Marketing\nLangjährige Erfahrung: M&A/PE/Corporate Restructurings",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2380,
+            "friends_count": 3907,
+            "listed_count": 14,
+            "favourites_count": 78308,
+            "statuses_count": 66159,
+            "created_at": "Sat Aug 23 16:16:13 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1142685590607028224/Sxo-rZL6_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142685590607028224/Sxo-rZL6_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2759295654/1416917181",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1254038954073972737,
+        "quoted_status_id_str": "1254038954073972737",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 13:26:00 +0000 2020",
+            "id": 1254038954073972737,
+            "id_str": "1254038954073972737",
+            "text": "Jahre des Booms der #Wirtschaft haben die Zahl derer, die eine #Existenzgründung in #Deutschland gewagt haben, 2018… https://t.co/EXQ64Ykljj",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 84531982,
+                "id_str": "84531982",
+                "name": "Franke-Media.net",
+                "screen_name": "franke_media",
+                "location": "Germany",
+                "url": "http://www.franke-media.net",
+                "description": "Quality Content Provider - objektive #Tests #Vergleiche und #Infografiken zu Finanz- und Geldanlagen.  Impressum: http://www.franke-media.net/impressum.html",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 15520,
+                "friends_count": 8953,
+                "listed_count": 353,
+                "favourites_count": 39904,
+                "statuses_count": 53994,
+                "created_at": "Fri Oct 23 07:40:33 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "ECECEC",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/431047003091398657/VwNnWrzp_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/431047003091398657/VwNnWrzp_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/84531982/1534830599",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Jahre des Booms der #Wirtschaft haben die Zahl derer, die eine #Existenzgründung in #Deutschland gewagt haben, 2018 auf ein Rekordtief von 547.000 gedrückt. 2001 waren es mit 1.548.000 dreimal so viele: https://t.co/T5YahKWedj\n\n#Unternehmen #startups #startup #Selbstständige https://t.co/yOxTSzTqIG",
+                "display_text_range": [
+                    0,
+                    275
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Wirtschaft",
+                            "indices": [
+                                20,
+                                31
+                            ]
+                        },
+                        {
+                            "text": "Existenzgründung",
+                            "indices": [
+                                63,
+                                80
+                            ]
+                        },
+                        {
+                            "text": "Deutschland",
+                            "indices": [
+                                84,
+                                96
+                            ]
+                        },
+                        {
+                            "text": "Unternehmen",
+                            "indices": [
+                                228,
+                                240
+                            ]
+                        },
+                        {
+                            "text": "startups",
+                            "indices": [
+                                241,
+                                250
+                            ]
+                        },
+                        {
+                            "text": "startup",
+                            "indices": [
+                                251,
+                                259
+                            ]
+                        },
+                        {
+                            "text": "Selbstständige",
+                            "indices": [
+                                260,
+                                275
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/T5YahKWedj",
+                            "expanded_url": "https://www.kreditvergleich.net/ratgeber/startup-finanzierung/",
+                            "display_url": "kreditvergleich.net/ratgeber/start…",
+                            "indices": [
+                                203,
+                                226
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253671621035986944,
+                            "id_str": "1253671621035986944",
+                            "indices": [
+                                276,
+                                299
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWXvsnTWkAAtjz-.png",
+                            "media_url_https": "https://pbs.twimg.com/media/EWXvsnTWkAAtjz-.png",
+                            "url": "https://t.co/yOxTSzTqIG",
+                            "display_url": "pic.twitter.com/yOxTSzTqIG",
+                            "expanded_url": "https://twitter.com/franke_media/status/1254038954073972737/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 680,
+                                    "h": 744,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 622,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 680,
+                                    "h": 744,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253671621035986944,
+                            "id_str": "1253671621035986944",
+                            "indices": [
+                                276,
+                                299
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWXvsnTWkAAtjz-.png",
+                            "media_url_https": "https://pbs.twimg.com/media/EWXvsnTWkAAtjz-.png",
+                            "url": "https://t.co/yOxTSzTqIG",
+                            "display_url": "pic.twitter.com/yOxTSzTqIG",
+                            "expanded_url": "https://twitter.com/franke_media/status/1254038954073972737/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 680,
+                                    "h": 744,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 622,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 680,
+                                    "h": 744,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Wirtschaft",
+                        "indices": [
+                            20,
+                            31
+                        ]
+                    },
+                    {
+                        "text": "Existenzgründung",
+                        "indices": [
+                            63,
+                            80
+                        ]
+                    },
+                    {
+                        "text": "Deutschland",
+                        "indices": [
+                            84,
+                            96
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/EXQ64Ykljj",
+                        "expanded_url": "https://twitter.com/i/web/status/1254038954073972737",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/et7F7GaAup",
+            "expanded": "https://twitter.com/franke_media/status/1254038954073972737",
+            "display": "twitter.com/franke_media/s…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Schon vor Corona wurden kaum Unternehmen in der EU gegründet und hunderte Mrd.€ an Kapital aus der EU abgezogen.\n@peteraltmaier @sebastiankurz @Amdalleq @Schuldensuehner @Deerstet_Music @nasanasal @fluechtlingAUSd https://t.co/et7F7GaAup",
+            "display_text_range": [
+                0,
+                213
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/et7F7GaAup",
+                        "expanded_url": "https://twitter.com/franke_media/status/1254038954073972737",
+                        "display_url": "twitter.com/franke_media/s…",
+                        "indices": [
+                            214,
+                            237
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "peteraltmaier",
+                        "name": "Peter Altmaier",
+                        "id": 378693834,
+                        "id_str": "378693834",
+                        "indices": [
+                            113,
+                            127
+                        ]
+                    },
+                    {
+                        "screen_name": "sebastiankurz",
+                        "name": "Sebastian Kurz",
+                        "id": 46623193,
+                        "id_str": "46623193",
+                        "indices": [
+                            128,
+                            142
+                        ]
+                    },
+                    {
+                        "screen_name": "Amdalleq",
+                        "name": "Sebastian Sienkiewicz",
+                        "id": 2344321530,
+                        "id_str": "2344321530",
+                        "indices": [
+                            143,
+                            152
+                        ]
+                    },
+                    {
+                        "screen_name": "Schuldensuehner",
+                        "name": "Holger Zschaepitz",
+                        "id": 40129171,
+                        "id_str": "40129171",
+                        "indices": [
+                            153,
+                            169
+                        ]
+                    },
+                    {
+                        "screen_name": "Deerstet_Music",
+                        "name": "Derek Van Deerstet",
+                        "id": 28084427,
+                        "id_str": "28084427",
+                        "indices": [
+                            170,
+                            185
+                        ]
+                    },
+                    {
+                        "screen_name": "nasanasal",
+                        "name": "peter cisco",
+                        "id": 2522828272,
+                        "id_str": "2522828272",
+                        "indices": [
+                            186,
+                            196
+                        ]
+                    },
+                    {
+                        "screen_name": "fluechtlingAUSd",
+                        "name": "Dr. E. O.",
+                        "id": 4162573767,
+                        "id_str": "4162573767",
+                        "indices": [
+                            197,
+                            213
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/TNrmF9M6Kw",
+                    "expanded_url": "https://twitter.com/i/web/status/1254041018535759872",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        114,
+                        137
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1254038954073972737,
+    "quoted_status_id_str": "1254038954073972737",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 13:26:00 +0000 2020",
+        "id": 1254038954073972737,
+        "id_str": "1254038954073972737",
+        "text": "Jahre des Booms der #Wirtschaft haben die Zahl derer, die eine #Existenzgründung in #Deutschland gewagt haben, 2018… https://t.co/EXQ64Ykljj",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 84531982,
+            "id_str": "84531982",
+            "name": "Franke-Media.net",
+            "screen_name": "franke_media",
+            "location": "Germany",
+            "url": "http://www.franke-media.net",
+            "description": "Quality Content Provider - objektive #Tests #Vergleiche und #Infografiken zu Finanz- und Geldanlagen.  Impressum: http://www.franke-media.net/impressum.html",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 15520,
+            "friends_count": 8953,
+            "listed_count": 353,
+            "favourites_count": 39904,
+            "statuses_count": 53994,
+            "created_at": "Fri Oct 23 07:40:33 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "ECECEC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/431047003091398657/VwNnWrzp_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/431047003091398657/VwNnWrzp_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/84531982/1534830599",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Jahre des Booms der #Wirtschaft haben die Zahl derer, die eine #Existenzgründung in #Deutschland gewagt haben, 2018 auf ein Rekordtief von 547.000 gedrückt. 2001 waren es mit 1.548.000 dreimal so viele: https://t.co/T5YahKWedj\n\n#Unternehmen #startups #startup #Selbstständige https://t.co/yOxTSzTqIG",
+            "display_text_range": [
+                0,
+                275
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Wirtschaft",
+                        "indices": [
+                            20,
+                            31
+                        ]
+                    },
+                    {
+                        "text": "Existenzgründung",
+                        "indices": [
+                            63,
+                            80
+                        ]
+                    },
+                    {
+                        "text": "Deutschland",
+                        "indices": [
+                            84,
+                            96
+                        ]
+                    },
+                    {
+                        "text": "Unternehmen",
+                        "indices": [
+                            228,
+                            240
+                        ]
+                    },
+                    {
+                        "text": "startups",
+                        "indices": [
+                            241,
+                            250
+                        ]
+                    },
+                    {
+                        "text": "startup",
+                        "indices": [
+                            251,
+                            259
+                        ]
+                    },
+                    {
+                        "text": "Selbstständige",
+                        "indices": [
+                            260,
+                            275
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/T5YahKWedj",
+                        "expanded_url": "https://www.kreditvergleich.net/ratgeber/startup-finanzierung/",
+                        "display_url": "kreditvergleich.net/ratgeber/start…",
+                        "indices": [
+                            203,
+                            226
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253671621035986944,
+                        "id_str": "1253671621035986944",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXvsnTWkAAtjz-.png",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXvsnTWkAAtjz-.png",
+                        "url": "https://t.co/yOxTSzTqIG",
+                        "display_url": "pic.twitter.com/yOxTSzTqIG",
+                        "expanded_url": "https://twitter.com/franke_media/status/1254038954073972737/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 680,
+                                "h": 744,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 622,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 680,
+                                "h": 744,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253671621035986944,
+                        "id_str": "1253671621035986944",
+                        "indices": [
+                            276,
+                            299
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWXvsnTWkAAtjz-.png",
+                        "media_url_https": "https://pbs.twimg.com/media/EWXvsnTWkAAtjz-.png",
+                        "url": "https://t.co/yOxTSzTqIG",
+                        "display_url": "pic.twitter.com/yOxTSzTqIG",
+                        "expanded_url": "https://twitter.com/franke_media/status/1254038954073972737/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 680,
+                                "h": 744,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 622,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 680,
+                                "h": 744,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Wirtschaft",
+                    "indices": [
+                        20,
+                        31
+                    ]
+                },
+                {
+                    "text": "Existenzgründung",
+                    "indices": [
+                        63,
+                        80
+                    ]
+                },
+                {
+                    "text": "Deutschland",
+                    "indices": [
+                        84,
+                        96
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/EXQ64Ykljj",
+                    "expanded_url": "https://twitter.com/i/web/status/1254038954073972737",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/et7F7GaAup",
+        "expanded": "https://twitter.com/franke_media/status/1254038954073972737",
+        "display": "twitter.com/franke_media/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "RomanWenzl",
+                "name": "Roman Wenzl",
+                "id": 2759295654,
+                "id_str": "2759295654",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823243371"
+}

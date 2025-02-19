@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 12:35:49 +0000 2020",
+    "id": 1254026326694125570,
+    "id_str": "1254026326694125570",
+    "text": "@News24 @Sport24news China please focus on ending Corona virus 🦠 first",
+    "display_text_range": [
+        21,
+        70
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253681366618824705,
+    "in_reply_to_status_id_str": "1253681366618824705",
+    "in_reply_to_user_id": 14697575,
+    "in_reply_to_user_id_str": "14697575",
+    "in_reply_to_screen_name": "News24",
+    "user": {
+        "id": 1160609124293500930,
+        "id_str": "1160609124293500930",
+        "name": "Seventh May",
+        "screen_name": "SeventhMay2",
+        "location": null,
+        "url": null,
+        "description": "Brooks was Here",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 103,
+        "friends_count": 88,
+        "listed_count": 0,
+        "favourites_count": 386,
+        "statuses_count": 3662,
+        "created_at": "Sun Aug 11 17:49:13 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241324334330908674/IvNoR_QP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241324334330908674/IvNoR_QP_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "News24",
+                "name": "News24",
+                "id": 14697575,
+                "id_str": "14697575",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "Sport24news",
+                "name": "Sport24",
+                "id": 29945848,
+                "id_str": "29945848",
+                "indices": [
+                    8,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818149623"
+}

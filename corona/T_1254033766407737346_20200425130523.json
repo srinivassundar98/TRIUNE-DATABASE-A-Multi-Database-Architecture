@@ -1,0 +1,130 @@
+{
+    "created_at": "Sat Apr 25 13:05:23 +0000 2020",
+    "id": 1254033766407737346,
+    "id_str": "1254033766407737346",
+    "text": "@Chinmayi @smsurya This bastard should be spit by corona affected patients and no treatment should be given",
+    "display_text_range": [
+        19,
+        107
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253762539403403266,
+    "in_reply_to_status_id_str": "1253762539403403266",
+    "in_reply_to_user_id": 8443752,
+    "in_reply_to_user_id_str": "8443752",
+    "in_reply_to_screen_name": "Chinmayi",
+    "user": {
+        "id": 255877066,
+        "id_str": "255877066",
+        "name": "santhanakrishnan",
+        "screen_name": "santha9999",
+        "location": "Chennai, India",
+        "url": null,
+        "description": "cool, hardworking, honest and lovable person.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 11,
+        "friends_count": 36,
+        "listed_count": 0,
+        "favourites_count": 75,
+        "statuses_count": 184,
+        "created_at": "Tue Feb 22 06:20:22 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/912370337743986688/ahl9Qfw7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/912370337743986688/ahl9Qfw7_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "2a3a6daaec3b0848",
+        "url": "https://api.twitter.com/1.1/geo/id/2a3a6daaec3b0848.json",
+        "place_type": "city",
+        "name": "Sholinganallur",
+        "full_name": "Sholinganallur, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        80.056161,
+                        12.850328
+                    ],
+                    [
+                        80.056161,
+                        13.028593
+                    ],
+                    [
+                        80.268192,
+                        13.028593
+                    ],
+                    [
+                        80.268192,
+                        12.850328
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Chinmayi",
+                "name": "Chinmayi Sripaada",
+                "id": 8443752,
+                "id_str": "8443752",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "smsurya",
+                "name": "Surya",
+                "id": 127180612,
+                "id_str": "127180612",
+                "indices": [
+                    10,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819923389"
+}

@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:24:42 +0000 2020",
+    "id": 1254023528002789377,
+    "id_str": "1254023528002789377",
+    "text": "@patig_moreira @sergioalbanus Olha... acho que até corona eu encaro para comemorar!!! (brincadeira... suspiro... ma… https://t.co/mt96elz4it",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253888247891218435,
+    "in_reply_to_status_id_str": "1253888247891218435",
+    "in_reply_to_user_id": 3355201395,
+    "in_reply_to_user_id_str": "3355201395",
+    "in_reply_to_screen_name": "patig_moreira",
+    "user": {
+        "id": 56075829,
+        "id_str": "56075829",
+        "name": "Miguel Vicentim",
+        "screen_name": "LeugimV",
+        "location": "São Paulo",
+        "url": "http://ocasional-mente.blogspot.com.br/",
+        "description": "Dentro da mente humana existe a necessidade de um mundo lógico, que faça sentido. Mas o mundo real está sempre um passo adiante da lógica. (Hermann Hesse)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 335,
+        "friends_count": 440,
+        "listed_count": 0,
+        "favourites_count": 66988,
+        "statuses_count": 11380,
+        "created_at": "Sun Jul 12 11:46:43 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217069756051795968/8ZCtKoiU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217069756051795968/8ZCtKoiU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56075829/1418883040",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@patig_moreira @sergioalbanus Olha... acho que até corona eu encaro para comemorar!!! (brincadeira... suspiro... mas a festa será imensa!!! mesmo adiada)",
+        "display_text_range": [
+            30,
+            153
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "patig_moreira",
+                    "name": "Pati Moreira 🇧🇼🚩",
+                    "id": 3355201395,
+                    "id_str": "3355201395",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "sergioalbanus",
+                    "name": "FLYING SAUCER 🚩 🚩 🚩👽👽",
+                    "id": 1141103264584409095,
+                    "id_str": "1141103264584409095",
+                    "indices": [
+                        15,
+                        29
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/mt96elz4it",
+                "expanded_url": "https://twitter.com/i/web/status/1254023528002789377",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "patig_moreira",
+                "name": "Pati Moreira 🇧🇼🚩",
+                "id": 3355201395,
+                "id_str": "3355201395",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "sergioalbanus",
+                "name": "FLYING SAUCER 🚩 🚩 🚩👽👽",
+                "id": 1141103264584409095,
+                "id_str": "1141103264584409095",
+                "indices": [
+                    15,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587817482363"
+}

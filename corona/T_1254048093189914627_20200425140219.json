@@ -1,0 +1,174 @@
+{
+    "created_at": "Sat Apr 25 14:02:19 +0000 2020",
+    "id": 1254048093189914627,
+    "id_str": "1254048093189914627",
+    "text": "@jramonfernandez @eilish_zapata @jmlloreda1 Pues por ese lado no andaba muy desencaminado Trump ...\nAlguna vez tení… https://t.co/nODjryIpKI",
+    "display_text_range": [
+        44,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254021001584795650,
+    "in_reply_to_status_id_str": "1254021001584795650",
+    "in_reply_to_user_id": 85924352,
+    "in_reply_to_user_id_str": "85924352",
+    "in_reply_to_screen_name": "jramonfernandez",
+    "user": {
+        "id": 903730298671779840,
+        "id_str": "903730298671779840",
+        "name": "Usuari@ tweeter",
+        "screen_name": "Musicaypaz501",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 75,
+        "friends_count": 209,
+        "listed_count": 2,
+        "favourites_count": 2619,
+        "statuses_count": 4899,
+        "created_at": "Fri Sep 01 21:24:28 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196720293387161605/isG7qBUH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196720293387161605/isG7qBUH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/903730298671779840/1572891749",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@jramonfernandez @eilish_zapata @jmlloreda1 Pues por ese lado no andaba muy desencaminado Trump ...\nAlguna vez tenía que acertar! 😰\n\nhttps://t.co/2WICMVesAn",
+        "display_text_range": [
+            44,
+            156
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2WICMVesAn",
+                    "expanded_url": "https://time.com/5825860/coronavirus-robot/?utm_source=twitter&utm_medium=social&utm_campaign=editorial&utm_term=health_covid-19&linkId=87269479",
+                    "display_url": "time.com/5825860/corona…",
+                    "indices": [
+                        133,
+                        156
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "jramonfernandez",
+                    "name": "Joserra",
+                    "id": 85924352,
+                    "id_str": "85924352",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "eilish_zapata",
+                    "name": "Isabel Zapata Moreno",
+                    "id": 628620401,
+                    "id_str": "628620401",
+                    "indices": [
+                        17,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "jmlloreda1",
+                    "name": "JM Lloreda",
+                    "id": 1150432981980536834,
+                    "id_str": "1150432981980536834",
+                    "indices": [
+                        32,
+                        43
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/nODjryIpKI",
+                "expanded_url": "https://twitter.com/i/web/status/1254048093189914627",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jramonfernandez",
+                "name": "Joserra",
+                "id": 85924352,
+                "id_str": "85924352",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "eilish_zapata",
+                "name": "Isabel Zapata Moreno",
+                "id": 628620401,
+                "id_str": "628620401",
+                "indices": [
+                    17,
+                    31
+                ]
+            },
+            {
+                "screen_name": "jmlloreda1",
+                "name": "JM Lloreda",
+                "id": 1150432981980536834,
+                "id_str": "1150432981980536834",
+                "indices": [
+                    32,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587823339160"
+}

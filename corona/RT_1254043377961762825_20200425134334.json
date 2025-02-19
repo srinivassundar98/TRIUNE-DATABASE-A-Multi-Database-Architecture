@@ -1,0 +1,576 @@
+{
+    "created_at": "Sat Apr 25 13:43:34 +0000 2020",
+    "id": 1254043377961762825,
+    "id_str": "1254043377961762825",
+    "text": "RT @supermegadrivin: 50 ans de campagnes anti-tabac ruinés par un pangolin https://t.co/sPZv5JxSvJ",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1449157394,
+        "id_str": "1449157394",
+        "name": "MalØu ♪ !",
+        "screen_name": "M_a_l_o_u_",
+        "location": "Franche-Comté",
+        "url": null,
+        "description": "Psychologue clinicienne spécialisée en criminologie et victimologie Ψ ~ perpétuelle indignée féministe et athée revendiquée",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 65,
+        "friends_count": 127,
+        "listed_count": 0,
+        "favourites_count": 804,
+        "statuses_count": 2793,
+        "created_at": "Wed May 22 14:55:35 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "D136D1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685049534632824832/LZKLhF47_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685049534632824832/LZKLhF47_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1449157394/1431345208",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Apr 22 14:02:43 +0000 2020",
+        "id": 1252961033230131202,
+        "id_str": "1252961033230131202",
+        "text": "50 ans de campagnes anti-tabac ruinés par un pangolin https://t.co/sPZv5JxSvJ",
+        "display_text_range": [
+            0,
+            53
+        ],
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 108570813,
+            "id_str": "108570813",
+            "name": "Jean-Moundir",
+            "screen_name": "supermegadrivin",
+            "location": "Marseille",
+            "url": null,
+            "description": "de Twitter",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 230991,
+            "friends_count": 1824,
+            "listed_count": 1172,
+            "favourites_count": 26573,
+            "statuses_count": 49159,
+            "created_at": "Tue Jan 26 10:37:10 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "B3204F",
+            "profile_sidebar_border_color": "F0F4FA",
+            "profile_sidebar_fill_color": "36728A",
+            "profile_text_color": "CBD0D6",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/660001521694875648/yHLVuWv0_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/660001521694875648/yHLVuWv0_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/108570813/1348118685",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1252959462605950978,
+        "quoted_status_id_str": "1252959462605950978",
+        "quoted_status": {
+            "created_at": "Wed Apr 22 13:56:29 +0000 2020",
+            "id": 1252959462605950978,
+            "id_str": "1252959462605950978",
+            "text": "Et si la nicotine permettait de lutter contre le Covid-19 ? Une étude menée à la Pitié Salpêtrière relève que les f… https://t.co/DTkRaQFwsi",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 38142665,
+                "id_str": "38142665",
+                "name": "Le Parisien",
+                "screen_name": "le_Parisien",
+                "location": "Paris, France",
+                "url": "http://www.leparisien.fr",
+                "description": "Le Parisien-Aujourd'hui en France, 1er quotidien généraliste de France",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 2527312,
+                "friends_count": 841,
+                "listed_count": 9462,
+                "favourites_count": 545,
+                "statuses_count": 392407,
+                "created_at": "Wed May 06 08:50:13 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "0A506E",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "225CC7",
+                "profile_sidebar_fill_color": "AABABF",
+                "profile_text_color": "333366",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1021286354699915264/oddr_i3x_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021286354699915264/oddr_i3x_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/38142665/1585130465",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Et si la nicotine permettait de lutter contre le Covid-19 ? Une étude menée à la Pitié Salpêtrière relève que les fumeurs sont très peu nombreux parmi les malades. Des essais vont êtres menés pour en savoir plus &gt; https://t.co/zAL2I9eHcG https://t.co/gDJ24cPmch",
+                "display_text_range": [
+                    0,
+                    240
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/zAL2I9eHcG",
+                            "expanded_url": "http://www.leparisien.fr/societe/coronavirus-et-si-la-nicotine-permettait-de-lutter-contre-le-covid-19-22-04-2020-8303883.php",
+                            "display_url": "leparisien.fr/societe/corona…",
+                            "indices": [
+                                217,
+                                240
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1252959431500972032,
+                            "id_str": "1252959431500972032",
+                            "indices": [
+                                241,
+                                264
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWNn9uiXQAALsyz.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWNn9uiXQAALsyz.jpg",
+                            "url": "https://t.co/gDJ24cPmch",
+                            "display_url": "pic.twitter.com/gDJ24cPmch",
+                            "expanded_url": "https://twitter.com/le_Parisien/status/1252959462605950978/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 425,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 932,
+                                    "h": 582,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 932,
+                                    "h": 582,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1252959431500972032,
+                            "id_str": "1252959431500972032",
+                            "indices": [
+                                241,
+                                264
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWNn9uiXQAALsyz.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWNn9uiXQAALsyz.jpg",
+                            "url": "https://t.co/gDJ24cPmch",
+                            "display_url": "pic.twitter.com/gDJ24cPmch",
+                            "expanded_url": "https://twitter.com/le_Parisien/status/1252959462605950978/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 425,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 932,
+                                    "h": 582,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 932,
+                                    "h": 582,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 262,
+            "reply_count": 166,
+            "retweet_count": 193,
+            "favorite_count": 313,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/DTkRaQFwsi",
+                        "expanded_url": "https://twitter.com/i/web/status/1252959462605950978",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "fr"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/sPZv5JxSvJ",
+            "expanded": "https://twitter.com/le_Parisien/status/1252959462605950978",
+            "display": "twitter.com/le_Parisien/st…"
+        },
+        "is_quote_status": true,
+        "quote_count": 30,
+        "reply_count": 87,
+        "retweet_count": 1747,
+        "favorite_count": 6104,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/sPZv5JxSvJ",
+                    "expanded_url": "https://twitter.com/le_Parisien/status/1252959462605950978",
+                    "display_url": "twitter.com/le_Parisien/st…",
+                    "indices": [
+                        54,
+                        77
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "fr"
+    },
+    "quoted_status_id": 1252959462605950978,
+    "quoted_status_id_str": "1252959462605950978",
+    "quoted_status": {
+        "created_at": "Wed Apr 22 13:56:29 +0000 2020",
+        "id": 1252959462605950978,
+        "id_str": "1252959462605950978",
+        "text": "Et si la nicotine permettait de lutter contre le Covid-19 ? Une étude menée à la Pitié Salpêtrière relève que les f… https://t.co/DTkRaQFwsi",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 38142665,
+            "id_str": "38142665",
+            "name": "Le Parisien",
+            "screen_name": "le_Parisien",
+            "location": "Paris, France",
+            "url": "http://www.leparisien.fr",
+            "description": "Le Parisien-Aujourd'hui en France, 1er quotidien généraliste de France",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 2527312,
+            "friends_count": 841,
+            "listed_count": 9462,
+            "favourites_count": 545,
+            "statuses_count": 392407,
+            "created_at": "Wed May 06 08:50:13 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "0A506E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "225CC7",
+            "profile_sidebar_fill_color": "AABABF",
+            "profile_text_color": "333366",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1021286354699915264/oddr_i3x_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1021286354699915264/oddr_i3x_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38142665/1585130465",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Et si la nicotine permettait de lutter contre le Covid-19 ? Une étude menée à la Pitié Salpêtrière relève que les fumeurs sont très peu nombreux parmi les malades. Des essais vont êtres menés pour en savoir plus &gt; https://t.co/zAL2I9eHcG https://t.co/gDJ24cPmch",
+            "display_text_range": [
+                0,
+                240
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/zAL2I9eHcG",
+                        "expanded_url": "http://www.leparisien.fr/societe/coronavirus-et-si-la-nicotine-permettait-de-lutter-contre-le-covid-19-22-04-2020-8303883.php",
+                        "display_url": "leparisien.fr/societe/corona…",
+                        "indices": [
+                            217,
+                            240
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1252959431500972032,
+                        "id_str": "1252959431500972032",
+                        "indices": [
+                            241,
+                            264
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWNn9uiXQAALsyz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWNn9uiXQAALsyz.jpg",
+                        "url": "https://t.co/gDJ24cPmch",
+                        "display_url": "pic.twitter.com/gDJ24cPmch",
+                        "expanded_url": "https://twitter.com/le_Parisien/status/1252959462605950978/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 932,
+                                "h": 582,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 932,
+                                "h": 582,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1252959431500972032,
+                        "id_str": "1252959431500972032",
+                        "indices": [
+                            241,
+                            264
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWNn9uiXQAALsyz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWNn9uiXQAALsyz.jpg",
+                        "url": "https://t.co/gDJ24cPmch",
+                        "display_url": "pic.twitter.com/gDJ24cPmch",
+                        "expanded_url": "https://twitter.com/le_Parisien/status/1252959462605950978/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 425,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 932,
+                                "h": 582,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 932,
+                                "h": 582,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 262,
+        "reply_count": 166,
+        "retweet_count": 193,
+        "favorite_count": 313,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/DTkRaQFwsi",
+                    "expanded_url": "https://twitter.com/i/web/status/1252959462605950978",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "fr"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/sPZv5JxSvJ",
+        "expanded": "https://twitter.com/le_Parisien/status/1252959462605950978",
+        "display": "twitter.com/le_Parisien/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sPZv5JxSvJ",
+                "expanded_url": "https://twitter.com/le_Parisien/status/1252959462605950978",
+                "display_url": "twitter.com/le_Parisien/st…",
+                "indices": [
+                    75,
+                    98
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "supermegadrivin",
+                "name": "Jean-Moundir",
+                "id": 108570813,
+                "id_str": "108570813",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587822214962"
+}

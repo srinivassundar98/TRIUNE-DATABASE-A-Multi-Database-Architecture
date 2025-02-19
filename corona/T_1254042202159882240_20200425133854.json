@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:38:54 +0000 2020",
+    "id": 1254042202159882240,
+    "id_str": "1254042202159882240",
+    "text": "@tomyhub Hoffentlich wird es so sein. Kommt darauf an, wie lange Corona geht. Aber man sollte nie unterschätzen, wi… https://t.co/UGFsZX7xTJ",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253946450528133121,
+    "in_reply_to_status_id_str": "1253946450528133121",
+    "in_reply_to_user_id": 1186492557846614017,
+    "in_reply_to_user_id_str": "1186492557846614017",
+    "in_reply_to_screen_name": "tomyhub",
+    "user": {
+        "id": 1231608861968273410,
+        "id_str": "1231608861968273410",
+        "name": "horst",
+        "screen_name": "Horst41636815",
+        "location": null,
+        "url": null,
+        "description": "Jeder hat eine Strategie. Bis er auf die Fresse kriegt. \n                                                                               Mike Tyson",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 42,
+        "friends_count": 258,
+        "listed_count": 0,
+        "favourites_count": 352,
+        "statuses_count": 1011,
+        "created_at": "Sun Feb 23 15:57:03 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250474952123453443/bUzMihK9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250474952123453443/bUzMihK9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231608861968273410/1586779456",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@tomyhub Hoffentlich wird es so sein. Kommt darauf an, wie lange Corona geht. Aber man sollte nie unterschätzen, wie penetrant das Gutmenschentum die eigenen Themen beansprucht.",
+        "display_text_range": [
+            9,
+            177
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "tomyhub",
+                    "name": "Thomas H. @𝗵𝗼𝗺𝗲 🏠",
+                    "id": 1186492557846614017,
+                    "id_str": "1186492557846614017",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/UGFsZX7xTJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254042202159882240",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "tomyhub",
+                "name": "Thomas H. @𝗵𝗼𝗺𝗲 🏠",
+                "id": 1186492557846614017,
+                "id_str": "1186492557846614017",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821934629"
+}

@@ -1,0 +1,168 @@
+{
+    "created_at": "Sat Apr 25 12:36:05 +0000 2020",
+    "id": 1254026395262562307,
+    "id_str": "1254026395262562307",
+    "text": "#Saturday shopping silliness \n\nMy preference for killing Corona virus. ( JK!!🤣)         Even without the science, i… https://t.co/QzwIgr7MII",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 29099996,
+        "id_str": "29099996",
+        "name": "Hugh Flax DDS",
+        "screen_name": "AtlantaSmiles",
+        "location": "Atlanta, GA",
+        "url": "http://www.FlaxDental.com",
+        "description": "Former @TheAACD president, habitual lecturer, & smile beautifier. Seeker of both intellectual & personal self improvement. ATL's cosmetic dentistry expert.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1450,
+        "friends_count": 1532,
+        "listed_count": 32,
+        "favourites_count": 353,
+        "statuses_count": 3070,
+        "created_at": "Mon Apr 06 00:07:23 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "375B88",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "BD994E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5AB63",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827917967044247552/4y0RXt9G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827917967044247552/4y0RXt9G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29099996/1402343284",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            33.7566,
+            -84.3889
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -84.3889,
+            33.7566
+        ]
+    },
+    "place": {
+        "id": "8173485c72e78ca5",
+        "url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+        "place_type": "city",
+        "name": "Atlanta",
+        "full_name": "Atlanta, GA",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -84.576827,
+                        33.647503
+                    ],
+                    [
+                        -84.576827,
+                        33.886886
+                    ],
+                    [
+                        -84.289385,
+                        33.886886
+                    ],
+                    [
+                        -84.289385,
+                        33.647503
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "#Saturday shopping silliness \n\nMy preference for killing Corona virus. ( JK!!🤣)         Even without the science, it is still my favorite candy- even with no cavities in 54 years!\n\nHope we really do find some cures… https://t.co/ljmtvOOM0t",
+        "display_text_range": [
+            0,
+            239
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Saturday",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ljmtvOOM0t",
+                    "expanded_url": "https://www.instagram.com/p/B_Z3CkpJYFr/?igshid=1q42jcxw8xinm",
+                    "display_url": "instagram.com/p/B_Z3CkpJYFr/…",
+                    "indices": [
+                        216,
+                        239
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Saturday",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/QzwIgr7MII",
+                "expanded_url": "https://twitter.com/i/web/status/1254026395262562307",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818165971"
+}

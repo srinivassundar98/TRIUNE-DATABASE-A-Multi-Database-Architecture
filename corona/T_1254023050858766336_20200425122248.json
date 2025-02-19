@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 12:22:48 +0000 2020",
+    "id": 1254023050858766336,
+    "id_str": "1254023050858766336",
+    "text": "https://t.co/0HhGbozYtR https://t.co/ho47V8csds",
+    "display_text_range": [
+        0,
+        23
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254023041492926464,
+    "in_reply_to_status_id_str": "1254023041492926464",
+    "in_reply_to_user_id": 372826555,
+    "in_reply_to_user_id_str": "372826555",
+    "in_reply_to_screen_name": "Friskygolfer",
+    "user": {
+        "id": 372826555,
+        "id_str": "372826555",
+        "name": "Mike Freels",
+        "screen_name": "Friskygolfer",
+        "location": "Tennessee",
+        "url": null,
+        "description": "golf can't be beat, so enjoy!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1034,
+        "friends_count": 2266,
+        "listed_count": 1,
+        "favourites_count": 9337,
+        "statuses_count": 6204,
+        "created_at": "Tue Sep 13 13:58:19 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1541095804/MikeFreels_ETA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1541095804/MikeFreels_ETA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/372826555/1519737137",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/0HhGbozYtR",
+                "expanded_url": "https://time.com/5825860/coronavirus-robot/",
+                "display_url": "time.com/5825860/corona…",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254023043543961602,
+                "id_str": "1254023043543961602",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcvUGKXkAIGcXZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcvUGKXkAIGcXZ.jpg",
+                "url": "https://t.co/ho47V8csds",
+                "display_url": "pic.twitter.com/ho47V8csds",
+                "expanded_url": "https://twitter.com/Friskygolfer/status/1254023050858766336/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 614,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1125,
+                        "h": 1016,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1125,
+                        "h": 1016,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254023043543961602,
+                "id_str": "1254023043543961602",
+                "indices": [
+                    24,
+                    47
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcvUGKXkAIGcXZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcvUGKXkAIGcXZ.jpg",
+                "url": "https://t.co/ho47V8csds",
+                "display_url": "pic.twitter.com/ho47V8csds",
+                "expanded_url": "https://twitter.com/Friskygolfer/status/1254023050858766336/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 614,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1125,
+                        "h": 1016,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1125,
+                        "h": 1016,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587817368603"
+}

@@ -1,0 +1,130 @@
+{
+    "created_at": "Sat Apr 25 13:13:49 +0000 2020",
+    "id": 1254035891233984512,
+    "id_str": "1254035891233984512",
+    "text": "@Wanheda_I @mlriess @jep_ @faznet https://t.co/ZKk0XBj56l",
+    "display_text_range": [
+        34,
+        57
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253961561565167616,
+    "in_reply_to_status_id_str": "1253961561565167616",
+    "in_reply_to_user_id": 735484793089974272,
+    "in_reply_to_user_id_str": "735484793089974272",
+    "in_reply_to_screen_name": "Wanheda_I",
+    "user": {
+        "id": 3437738411,
+        "id_str": "3437738411",
+        "name": "Ruben Spruck/Böhmermanngelistet",
+        "screen_name": "RubenSpruck",
+        "location": null,
+        "url": null,
+        "description": "wo weder liebe noch hass ist endlich nirwana",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 751,
+        "friends_count": 805,
+        "listed_count": 49,
+        "favourites_count": 3681,
+        "statuses_count": 90847,
+        "created_at": "Mon Aug 24 09:36:09 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876826689145376769/KOp_raWo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876826689145376769/KOp_raWo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3437738411/1456321083",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ZKk0XBj56l",
+                "expanded_url": "https://scilogs.spektrum.de/menschen-bilder/von-der-fehlenden-wissenschaftlichen-begruendung-der-corona-massnahmen/",
+                "display_url": "scilogs.spektrum.de/menschen-bilde…",
+                "indices": [
+                    34,
+                    57
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Wanheda_I",
+                "name": "Calamity Jane☀️",
+                "id": 735484793089974272,
+                "id_str": "735484793089974272",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "mlriess",
+                "name": "Michael Riess",
+                "id": 1253023704445059077,
+                "id_str": "1253023704445059077",
+                "indices": [
+                    11,
+                    19
+                ]
+            },
+            {
+                "screen_name": "jep_",
+                "name": "Jan-Eric Peters",
+                "id": 18717137,
+                "id_str": "18717137",
+                "indices": [
+                    20,
+                    25
+                ]
+            },
+            {
+                "screen_name": "faznet",
+                "name": "Frankfurter Allgemeine",
+                "id": 18047862,
+                "id_str": "18047862",
+                "indices": [
+                    26,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587820429987"
+}

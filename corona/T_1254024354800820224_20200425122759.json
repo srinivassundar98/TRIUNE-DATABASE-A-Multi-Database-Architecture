@@ -1,0 +1,155 @@
+{
+    "created_at": "Sat Apr 25 12:27:59 +0000 2020",
+    "id": 1254024354800820224,
+    "id_str": "1254024354800820224",
+    "text": "@nl_misstanden Hier alleen diabetis 2, komt door de stress, huisarts ontkent het helaas. Hart en longen is best wel… https://t.co/bSjEs23Jdq",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253464461039603714,
+    "in_reply_to_status_id_str": "1253464461039603714",
+    "in_reply_to_user_id": 750326760412250112,
+    "in_reply_to_user_id_str": "750326760412250112",
+    "in_reply_to_screen_name": "nl_misstanden",
+    "user": {
+        "id": 210615762,
+        "id_str": "210615762",
+        "name": "Linux4Ever",
+        "screen_name": "TuxICT",
+        "location": null,
+        "url": "https://gravatar.com/tuxict",
+        "description": "Linux, OpenSource, OpenStandards, Photography, Video, Music, Hiking, Nature, Maritime, RadioAmateur, CivilRights, HumanRights, Privacy.  \n\nLibertad o muerte",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 321,
+        "friends_count": 621,
+        "listed_count": 67,
+        "favourites_count": 8573,
+        "statuses_count": 72195,
+        "created_at": "Sun Oct 31 21:41:11 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "95AFBE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "C4D7E4",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229830939758514176/scSQ86Re_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229830939758514176/scSQ86Re_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/210615762/1564223878",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "ea0a61fa0c646676",
+        "url": "https://api.twitter.com/1.1/geo/id/ea0a61fa0c646676.json",
+        "place_type": "city",
+        "name": "Rotterdam",
+        "full_name": "Rotterdam, The Netherlands",
+        "country_code": "NL",
+        "country": "The Netherlands",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        3.941836,
+                        51.842113
+                    ],
+                    [
+                        3.941836,
+                        52.006802
+                    ],
+                    [
+                        4.601379,
+                        52.006802
+                    ],
+                    [
+                        4.601379,
+                        51.842113
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@nl_misstanden Hier alleen diabetis 2, komt door de stress, huisarts ontkent het helaas. Hart en longen is best wel tricky met het corona virus op de loer. Op naar de volgende 58 jaar 🍻🍻",
+        "display_text_range": [
+            15,
+            186
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nl_misstanden",
+                    "name": "MisstandenNL",
+                    "id": 750326760412250112,
+                    "id_str": "750326760412250112",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/bSjEs23Jdq",
+                "expanded_url": "https://twitter.com/i/web/status/1254024354800820224",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "nl_misstanden",
+                "name": "MisstandenNL",
+                "id": 750326760412250112,
+                "id_str": "750326760412250112",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587817679487"
+}

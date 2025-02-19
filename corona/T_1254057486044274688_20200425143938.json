@@ -1,0 +1,419 @@
+{
+    "created_at": "Sat Apr 25 14:39:38 +0000 2020",
+    "id": 1254057486044274688,
+    "id_str": "1254057486044274688",
+    "text": "We are well on track to beat the Corona Virus in SA, moving from Level 5 to Level 4 from 1 May 2020. #Covid19SA… https://t.co/K0qpnM8iR8",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 618988047,
+        "id_str": "618988047",
+        "name": "FPB",
+        "screen_name": "FPB_ZA",
+        "location": "South Africa",
+        "url": "http://www.fpb.org.za",
+        "description": "The Film & Publication Board classifies films, games & certain publications & Campaigns against Child Porn.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": true,
+        "followers_count": 4422,
+        "friends_count": 1031,
+        "listed_count": 35,
+        "favourites_count": 1369,
+        "statuses_count": 6413,
+        "created_at": "Tue Jun 26 09:33:48 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FED72B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153288314331508736/D4AaoTM5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153288314331508736/D4AaoTM5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/618988047/1579154619",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "We are well on track to beat the Corona Virus in SA, moving from Level 5 to Level 4 from 1 May 2020. #Covid19SA #StayAtHomeSA https://t.co/TNxR7LCXbi",
+        "display_text_range": [
+            0,
+            125
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Covid19SA",
+                    "indices": [
+                        101,
+                        111
+                    ]
+                },
+                {
+                    "text": "StayAtHomeSA",
+                    "indices": [
+                        112,
+                        125
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254056969100562439,
+                    "id_str": "1254056969100562439",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdOK0tXkAcUytz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdOK0tXkAcUytz.jpg",
+                    "url": "https://t.co/TNxR7LCXbi",
+                    "display_url": "pic.twitter.com/TNxR7LCXbi",
+                    "expanded_url": "https://twitter.com/FPB_ZA/status/1254057486044274688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254057008627621889,
+                    "id_str": "1254057008627621889",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdONH9WoAEECeC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdONH9WoAEECeC.jpg",
+                    "url": "https://t.co/TNxR7LCXbi",
+                    "display_url": "pic.twitter.com/TNxR7LCXbi",
+                    "expanded_url": "https://twitter.com/FPB_ZA/status/1254057486044274688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254057031100706818,
+                    "id_str": "1254057031100706818",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdOObrWsAIaFXf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdOObrWsAIaFXf.jpg",
+                    "url": "https://t.co/TNxR7LCXbi",
+                    "display_url": "pic.twitter.com/TNxR7LCXbi",
+                    "expanded_url": "https://twitter.com/FPB_ZA/status/1254057486044274688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254057052101578760,
+                    "id_str": "1254057052101578760",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdOPp6WkAgAxTf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdOPp6WkAgAxTf.jpg",
+                    "url": "https://t.co/TNxR7LCXbi",
+                    "display_url": "pic.twitter.com/TNxR7LCXbi",
+                    "expanded_url": "https://twitter.com/FPB_ZA/status/1254057486044274688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254056969100562439,
+                    "id_str": "1254056969100562439",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdOK0tXkAcUytz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdOK0tXkAcUytz.jpg",
+                    "url": "https://t.co/TNxR7LCXbi",
+                    "display_url": "pic.twitter.com/TNxR7LCXbi",
+                    "expanded_url": "https://twitter.com/FPB_ZA/status/1254057486044274688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254057008627621889,
+                    "id_str": "1254057008627621889",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdONH9WoAEECeC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdONH9WoAEECeC.jpg",
+                    "url": "https://t.co/TNxR7LCXbi",
+                    "display_url": "pic.twitter.com/TNxR7LCXbi",
+                    "expanded_url": "https://twitter.com/FPB_ZA/status/1254057486044274688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254057031100706818,
+                    "id_str": "1254057031100706818",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdOObrWsAIaFXf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdOObrWsAIaFXf.jpg",
+                    "url": "https://t.co/TNxR7LCXbi",
+                    "display_url": "pic.twitter.com/TNxR7LCXbi",
+                    "expanded_url": "https://twitter.com/FPB_ZA/status/1254057486044274688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254057052101578760,
+                    "id_str": "1254057052101578760",
+                    "indices": [
+                        126,
+                        149
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdOPp6WkAgAxTf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdOPp6WkAgAxTf.jpg",
+                    "url": "https://t.co/TNxR7LCXbi",
+                    "display_url": "pic.twitter.com/TNxR7LCXbi",
+                    "expanded_url": "https://twitter.com/FPB_ZA/status/1254057486044274688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 576,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Covid19SA",
+                "indices": [
+                    101,
+                    111
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/K0qpnM8iR8",
+                "expanded_url": "https://twitter.com/i/web/status/1254057486044274688",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    113,
+                    136
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825578591"
+}

@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:03:49 +0000 2020",
+    "id": 1254048472665391117,
+    "id_str": "1254048472665391117",
+    "text": "@OfficialBWFC @EFL Corona kept us up x",
+    "display_text_range": [
+        19,
+        38
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254048073271123968,
+    "in_reply_to_status_id_str": "1254048073271123968",
+    "in_reply_to_user_id": 65068197,
+    "in_reply_to_user_id_str": "65068197",
+    "in_reply_to_screen_name": "OfficialBWFC",
+    "user": {
+        "id": 1223306931483430920,
+        "id_str": "1223306931483430920",
+        "name": "Josh",
+        "screen_name": "HeysBWFC",
+        "location": null,
+        "url": null,
+        "description": "11’s player",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 79,
+        "friends_count": 158,
+        "listed_count": 0,
+        "favourites_count": 125,
+        "statuses_count": 367,
+        "created_at": "Fri Jan 31 18:08:06 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243340670452019203/XfVS8kz9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243340670452019203/XfVS8kz9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223306931483430920/1586282046",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "OfficialBWFC",
+                "name": "Bolton Wanderers (🏠)",
+                "id": 65068197,
+                "id_str": "65068197",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "EFL",
+                "name": "E F L",
+                "id": 31083978,
+                "id_str": "31083978",
+                "indices": [
+                    14,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823429634"
+}

@@ -1,0 +1,426 @@
+{
+    "created_at": "Sat Apr 25 14:01:05 +0000 2020",
+    "id": 1254047782652055553,
+    "id_str": "1254047782652055553",
+    "text": "Om de dagen tijdens de #corona crisis wat te vullen een #audiozelfbouw projectje van vorige jaar weer opgepakt. Of… https://t.co/mNMSpkCBY3",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 516418446,
+        "id_str": "516418446",
+        "name": "Erik van der Wiel",
+        "screen_name": "ErikvanderWiel1",
+        "location": null,
+        "url": null,
+        "description": "Mag op zijn werk knutselen met elektronica.....waar andere mensen dan weer een Quantum computer van proberen te knutselen. Loopt rondjes hard en luistert muziek",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 29,
+        "friends_count": 55,
+        "listed_count": 0,
+        "favourites_count": 516,
+        "statuses_count": 603,
+        "created_at": "Tue Mar 06 10:48:07 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1078945183436296192/oQVYmsrR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078945183436296192/oQVYmsrR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/516418446/1546075806",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Om de dagen tijdens de #corona crisis wat te vullen een #audiozelfbouw projectje van vorige jaar weer opgepakt. Of \"hoe bouw een een centerspeaker in 500 eenvoudige stappen 🤓 https://t.co/fhekyt7jpH",
+        "display_text_range": [
+            0,
+            174
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "corona",
+                    "indices": [
+                        23,
+                        30
+                    ]
+                },
+                {
+                    "text": "audiozelfbouw",
+                    "indices": [
+                        56,
+                        70
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254046683484295168,
+                    "id_str": "1254046683484295168",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdE0HzWkAAnhTs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdE0HzWkAAnhTs.jpg",
+                    "url": "https://t.co/fhekyt7jpH",
+                    "display_url": "pic.twitter.com/fhekyt7jpH",
+                    "expanded_url": "https://twitter.com/ErikvanderWiel1/status/1254047782652055553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1152,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046774295171077,
+                    "id_str": "1254046774295171077",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdE5aGWkAUliG7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdE5aGWkAUliG7.jpg",
+                    "url": "https://t.co/fhekyt7jpH",
+                    "display_url": "pic.twitter.com/fhekyt7jpH",
+                    "expanded_url": "https://twitter.com/ErikvanderWiel1/status/1254047782652055553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046848798674944,
+                    "id_str": "1254046848798674944",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdE9vpX0AAr51C.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdE9vpX0AAr51C.jpg",
+                    "url": "https://t.co/fhekyt7jpH",
+                    "display_url": "pic.twitter.com/fhekyt7jpH",
+                    "expanded_url": "https://twitter.com/ErikvanderWiel1/status/1254047782652055553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046983356125185,
+                    "id_str": "1254046983356125185",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdFFk6XkAE_AQ8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdFFk6XkAE_AQ8.jpg",
+                    "url": "https://t.co/fhekyt7jpH",
+                    "display_url": "pic.twitter.com/fhekyt7jpH",
+                    "expanded_url": "https://twitter.com/ErikvanderWiel1/status/1254047782652055553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254046683484295168,
+                    "id_str": "1254046683484295168",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdE0HzWkAAnhTs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdE0HzWkAAnhTs.jpg",
+                    "url": "https://t.co/fhekyt7jpH",
+                    "display_url": "pic.twitter.com/fhekyt7jpH",
+                    "expanded_url": "https://twitter.com/ErikvanderWiel1/status/1254047782652055553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1152,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046774295171077,
+                    "id_str": "1254046774295171077",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdE5aGWkAUliG7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdE5aGWkAUliG7.jpg",
+                    "url": "https://t.co/fhekyt7jpH",
+                    "display_url": "pic.twitter.com/fhekyt7jpH",
+                    "expanded_url": "https://twitter.com/ErikvanderWiel1/status/1254047782652055553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046848798674944,
+                    "id_str": "1254046848798674944",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdE9vpX0AAr51C.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdE9vpX0AAr51C.jpg",
+                    "url": "https://t.co/fhekyt7jpH",
+                    "display_url": "pic.twitter.com/fhekyt7jpH",
+                    "expanded_url": "https://twitter.com/ErikvanderWiel1/status/1254047782652055553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254046983356125185,
+                    "id_str": "1254046983356125185",
+                    "indices": [
+                        175,
+                        198
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdFFk6XkAE_AQ8.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdFFk6XkAE_AQ8.jpg",
+                    "url": "https://t.co/fhekyt7jpH",
+                    "display_url": "pic.twitter.com/fhekyt7jpH",
+                    "expanded_url": "https://twitter.com/ErikvanderWiel1/status/1254047782652055553/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1152,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    23,
+                    30
+                ]
+            },
+            {
+                "text": "audiozelfbouw",
+                "indices": [
+                    56,
+                    70
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/mNMSpkCBY3",
+                "expanded_url": "https://twitter.com/i/web/status/1254047782652055553",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587823265122"
+}

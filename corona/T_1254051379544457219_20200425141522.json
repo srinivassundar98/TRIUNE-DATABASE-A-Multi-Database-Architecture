@@ -1,0 +1,171 @@
+{
+    "created_at": "Sat Apr 25 14:15:22 +0000 2020",
+    "id": 1254051379544457219,
+    "id_str": "1254051379544457219",
+    "text": "@KenHicken @mariannecarro14 @wsbtv How many people will die from NOT being diagnosed with disease because they aren… https://t.co/GlAbnEIYBp",
+    "display_text_range": [
+        35,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254013416597082112,
+    "in_reply_to_status_id_str": "1254013416597082112",
+    "in_reply_to_user_id": 4768264288,
+    "in_reply_to_user_id_str": "4768264288",
+    "in_reply_to_screen_name": "KenHicken",
+    "user": {
+        "id": 1214351459187404800,
+        "id_str": "1214351459187404800",
+        "name": "Big Tripper",
+        "screen_name": "Triphammer111",
+        "location": "Magnificent America ",
+        "url": null,
+        "description": "Refuse to be a victim.\nNothing fucks you harder than time. ~Ser Davos",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 25,
+        "friends_count": 199,
+        "listed_count": 0,
+        "favourites_count": 2160,
+        "statuses_count": 1376,
+        "created_at": "Tue Jan 07 01:03:17 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227643766326124545/qPmWUWeU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227643766326124545/qPmWUWeU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1214351459187404800/1585699009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@KenHicken @mariannecarro14 @wsbtv How many people will die from NOT being diagnosed with disease because they aren't seeking medical appointments? I know,  you haven't an answer.  How many jobs will be lost forever?  Yep, you have no answer.  Chinese corona on tap to have a 0.1 fatality rate. Stay inside. #stupid",
+        "display_text_range": [
+            35,
+            315
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "stupid",
+                    "indices": [
+                        308,
+                        315
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KenHicken",
+                    "name": "keñ_c_hickeñ",
+                    "id": 4768264288,
+                    "id_str": "4768264288",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "mariannecarro14",
+                    "name": "marianne carroll",
+                    "id": 2505703152,
+                    "id_str": "2505703152",
+                    "indices": [
+                        11,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "wsbtv",
+                    "name": "WSB-TV",
+                    "id": 21094888,
+                    "id_str": "21094888",
+                    "indices": [
+                        28,
+                        34
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/GlAbnEIYBp",
+                "expanded_url": "https://twitter.com/i/web/status/1254051379544457219",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "KenHicken",
+                "name": "keñ_c_hickeñ",
+                "id": 4768264288,
+                "id_str": "4768264288",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "mariannecarro14",
+                "name": "marianne carroll",
+                "id": 2505703152,
+                "id_str": "2505703152",
+                "indices": [
+                    11,
+                    27
+                ]
+            },
+            {
+                "screen_name": "wsbtv",
+                "name": "WSB-TV",
+                "id": 21094888,
+                "id_str": "21094888",
+                "indices": [
+                    28,
+                    34
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824122688"
+}

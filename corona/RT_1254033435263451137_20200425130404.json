@@ -1,0 +1,660 @@
+{
+    "created_at": "Sat Apr 25 13:04:04 +0000 2020",
+    "id": 1254033435263451137,
+    "id_str": "1254033435263451137",
+    "text": "RT @elskewits: Help! Ik zie in de winkelstraat overal groepjes mensen die gezellig bijpraten en geen afstand houden. In de winkel geen afst…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 701349778706329600,
+        "id_str": "701349778706329600",
+        "name": "De Nieuwe GGZ",
+        "screen_name": "NieuweGGZ",
+        "location": null,
+        "url": "http://www.denieuweggz.nl",
+        "description": "Open beweging voor een duurzame, gekantelde GGZ. Publiceerde oa boek Goede GGZ.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1995,
+        "friends_count": 593,
+        "listed_count": 19,
+        "favourites_count": 511,
+        "statuses_count": 672,
+        "created_at": "Sun Feb 21 10:16:32 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710098869133185024/SaillKU8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710098869133185024/SaillKU8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/701349778706329600/1456117708",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 09:42:50 +0000 2020",
+        "id": 1253982794356854784,
+        "id_str": "1253982794356854784",
+        "text": "Help! Ik zie in de winkelstraat overal groepjes mensen die gezellig bijpraten en geen afstand houden. In de winkel… https://t.co/mnJZHYfzvX",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 55797788,
+            "id_str": "55797788",
+            "name": "Elske Wits",
+            "screen_name": "elskewits",
+            "location": "Rotterdam, Nederland",
+            "url": "https://nl.linkedin.com/in/elske-wits-665622b/nl",
+            "description": "Onderzoekscoördinator @IVO_Research | Interim beleidsadviseur @AllRookvrij",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 189,
+            "friends_count": 410,
+            "listed_count": 7,
+            "favourites_count": 786,
+            "statuses_count": 1235,
+            "created_at": "Sat Jul 11 09:28:12 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1091303880112128002/VCvv_8Ft_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091303880112128002/VCvv_8Ft_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/55797788/1549181279",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1241687038472175616,
+        "quoted_status_id_str": "1241687038472175616",
+        "quoted_status": {
+            "created_at": "Sun Mar 22 11:23:54 +0000 2020",
+            "id": 1241687038472175616,
+            "id_str": "1241687038472175616",
+            "text": "Volg de instructies van Rijksoverheid op: houd 1,5 meter afstand! Ziek of verkouden? Blijf thuis. Bescherm uzelf en… https://t.co/85bdPQoWJ6",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 35527415,
+                "id_str": "35527415",
+                "name": "RIVM",
+                "screen_name": "rivm",
+                "location": "Bilthoven, The Netherlands",
+                "url": "https://www.rivm.nl/coronavirus/covid-19",
+                "description": "Rijksinstituut voor Volksgezondheid en Milieu. Webcare: 9:00-17:00\n\nVragen over coronavirus? Bel 0800-1351 (8:00-20:00)\nhttp://www.rijksoverheid.nl/coronavirus",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 137797,
+                "friends_count": 727,
+                "listed_count": 856,
+                "favourites_count": 2331,
+                "statuses_count": 9470,
+                "created_at": "Sun Apr 26 18:28:35 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "E17000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "D9EBF7",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1067726394212446209/FNCRZVLr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067726394212446209/FNCRZVLr_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/35527415/1585133466",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Volg de instructies van Rijksoverheid op: houd 1,5 meter afstand! Ziek of verkouden? Blijf thuis. Bescherm uzelf en de mensen om u heen. Samen tegen #corona.\n#COVID19 #coronavirus #nlalert\nhttps://t.co/N6wQUxHMEG https://t.co/bRHmE7DKXN",
+                "display_text_range": [
+                    0,
+                    212
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "corona",
+                            "indices": [
+                                149,
+                                156
+                            ]
+                        },
+                        {
+                            "text": "COVID19",
+                            "indices": [
+                                158,
+                                166
+                            ]
+                        },
+                        {
+                            "text": "coronavirus",
+                            "indices": [
+                                167,
+                                179
+                            ]
+                        },
+                        {
+                            "text": "nlalert",
+                            "indices": [
+                                180,
+                                188
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/N6wQUxHMEG",
+                            "expanded_url": "https://bit.ly/2QBeKq2",
+                            "display_url": "bit.ly/2QBeKq2",
+                            "indices": [
+                                189,
+                                212
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1241687036257619970,
+                            "id_str": "1241687036257619970",
+                            "indices": [
+                                213,
+                                236
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ETtbx95X0AIDiAG.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/ETtbx95X0AIDiAG.jpg",
+                            "url": "https://t.co/bRHmE7DKXN",
+                            "display_url": "pic.twitter.com/bRHmE7DKXN",
+                            "expanded_url": "https://twitter.com/rivm/status/1241687038472175616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 646,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1103,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 366,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1241687036257619970,
+                            "id_str": "1241687036257619970",
+                            "indices": [
+                                213,
+                                236
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ETtbx95X0AIDiAG.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/ETtbx95X0AIDiAG.jpg",
+                            "url": "https://t.co/bRHmE7DKXN",
+                            "display_url": "pic.twitter.com/bRHmE7DKXN",
+                            "expanded_url": "https://twitter.com/rivm/status/1241687038472175616/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 646,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1103,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 366,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 62,
+            "reply_count": 209,
+            "retweet_count": 853,
+            "favorite_count": 937,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/85bdPQoWJ6",
+                        "expanded_url": "https://twitter.com/i/web/status/1241687038472175616",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/BDjMks04C2",
+            "expanded": "https://twitter.com/rivm/status/1241687038472175616",
+            "display": "twitter.com/rivm/status/12…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Help! Ik zie in de winkelstraat overal groepjes mensen die gezellig bijpraten en geen afstand houden. In de winkel geen afstand. \nAfstand houden, handen wassen: het BLIJFT nodig om snel van alle rampzalige maatregelen af te komen! #Corona #lockdown #SocialDistance #RIVM",
+            "display_text_range": [
+                0,
+                270
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            231,
+                            238
+                        ]
+                    },
+                    {
+                        "text": "lockdown",
+                        "indices": [
+                            239,
+                            248
+                        ]
+                    },
+                    {
+                        "text": "SocialDistance",
+                        "indices": [
+                            249,
+                            264
+                        ]
+                    },
+                    {
+                        "text": "RIVM",
+                        "indices": [
+                            265,
+                            270
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/mnJZHYfzvX",
+                    "expanded_url": "https://twitter.com/i/web/status/1253982794356854784",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_id": 1241687038472175616,
+    "quoted_status_id_str": "1241687038472175616",
+    "quoted_status": {
+        "created_at": "Sun Mar 22 11:23:54 +0000 2020",
+        "id": 1241687038472175616,
+        "id_str": "1241687038472175616",
+        "text": "Volg de instructies van Rijksoverheid op: houd 1,5 meter afstand! Ziek of verkouden? Blijf thuis. Bescherm uzelf en… https://t.co/85bdPQoWJ6",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 35527415,
+            "id_str": "35527415",
+            "name": "RIVM",
+            "screen_name": "rivm",
+            "location": "Bilthoven, The Netherlands",
+            "url": "https://www.rivm.nl/coronavirus/covid-19",
+            "description": "Rijksinstituut voor Volksgezondheid en Milieu. Webcare: 9:00-17:00\n\nVragen over coronavirus? Bel 0800-1351 (8:00-20:00)\nhttp://www.rijksoverheid.nl/coronavirus",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 137797,
+            "friends_count": 727,
+            "listed_count": 856,
+            "favourites_count": 2331,
+            "statuses_count": 9470,
+            "created_at": "Sun Apr 26 18:28:35 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "E17000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D9EBF7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1067726394212446209/FNCRZVLr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067726394212446209/FNCRZVLr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/35527415/1585133466",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Volg de instructies van Rijksoverheid op: houd 1,5 meter afstand! Ziek of verkouden? Blijf thuis. Bescherm uzelf en de mensen om u heen. Samen tegen #corona.\n#COVID19 #coronavirus #nlalert\nhttps://t.co/N6wQUxHMEG https://t.co/bRHmE7DKXN",
+            "display_text_range": [
+                0,
+                212
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "corona",
+                        "indices": [
+                            149,
+                            156
+                        ]
+                    },
+                    {
+                        "text": "COVID19",
+                        "indices": [
+                            158,
+                            166
+                        ]
+                    },
+                    {
+                        "text": "coronavirus",
+                        "indices": [
+                            167,
+                            179
+                        ]
+                    },
+                    {
+                        "text": "nlalert",
+                        "indices": [
+                            180,
+                            188
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/N6wQUxHMEG",
+                        "expanded_url": "https://bit.ly/2QBeKq2",
+                        "display_url": "bit.ly/2QBeKq2",
+                        "indices": [
+                            189,
+                            212
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1241687036257619970,
+                        "id_str": "1241687036257619970",
+                        "indices": [
+                            213,
+                            236
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/ETtbx95X0AIDiAG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ETtbx95X0AIDiAG.jpg",
+                        "url": "https://t.co/bRHmE7DKXN",
+                        "display_url": "pic.twitter.com/bRHmE7DKXN",
+                        "expanded_url": "https://twitter.com/rivm/status/1241687038472175616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 646,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1103,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 366,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1241687036257619970,
+                        "id_str": "1241687036257619970",
+                        "indices": [
+                            213,
+                            236
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/ETtbx95X0AIDiAG.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ETtbx95X0AIDiAG.jpg",
+                        "url": "https://t.co/bRHmE7DKXN",
+                        "display_url": "pic.twitter.com/bRHmE7DKXN",
+                        "expanded_url": "https://twitter.com/rivm/status/1241687038472175616/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 646,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1103,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 366,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 62,
+        "reply_count": 209,
+        "retweet_count": 853,
+        "favorite_count": 937,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/85bdPQoWJ6",
+                    "expanded_url": "https://twitter.com/i/web/status/1241687038472175616",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/BDjMks04C2",
+        "expanded": "https://twitter.com/rivm/status/1241687038472175616",
+        "display": "twitter.com/rivm/status/12…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "elskewits",
+                "name": "Elske Wits",
+                "id": 55797788,
+                "id_str": "55797788",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587819844438"
+}

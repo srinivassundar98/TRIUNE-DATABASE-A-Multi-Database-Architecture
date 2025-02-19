@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 14:29:15 +0000 2020",
+    "id": 1254054873022320641,
+    "id_str": "1254054873022320641",
+    "text": "@dreylei @YouTube Me acabas de estropear el día David. Esto es peor del “corona ciao”. Una cosa es cierta, mucho da… https://t.co/3P3A11giVS",
+    "display_text_range": [
+        18,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254022084642119682,
+    "in_reply_to_status_id_str": "1254022084642119682",
+    "in_reply_to_user_id": 764176219260813313,
+    "in_reply_to_user_id_str": "764176219260813313",
+    "in_reply_to_screen_name": "dreylei",
+    "user": {
+        "id": 4714834527,
+        "id_str": "4714834527",
+        "name": "Salvatore Rudilosso",
+        "screen_name": "srudilos82",
+        "location": "Barcelona",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 176,
+        "friends_count": 506,
+        "listed_count": 2,
+        "favourites_count": 9008,
+        "statuses_count": 8719,
+        "created_at": "Tue Jan 05 13:02:20 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/917044880932786176/pUnkSori_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/917044880932786176/pUnkSori_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@dreylei @YouTube Me acabas de estropear el día David. Esto es peor del “corona ciao”. Una cosa es cierta, mucho daño le ha hecho a “bella ciao” esa serie. Ya le he pillado manía sin verla y jamás la veré 🤣",
+        "display_text_range": [
+            18,
+            206
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "dreylei",
+                    "name": "David Reyes",
+                    "id": 764176219260813313,
+                    "id_str": "764176219260813313",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "YouTube",
+                    "name": "YouTube at 🏠",
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        9,
+                        17
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/3P3A11giVS",
+                "expanded_url": "https://twitter.com/i/web/status/1254054873022320641",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "dreylei",
+                "name": "David Reyes",
+                "id": 764176219260813313,
+                "id_str": "764176219260813313",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "YouTube",
+                "name": "YouTube at 🏠",
+                "id": 10228272,
+                "id_str": "10228272",
+                "indices": [
+                    9,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587824955598"
+}

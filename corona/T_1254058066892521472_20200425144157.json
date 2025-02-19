@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:41:57 +0000 2020",
+    "id": 1254058066892521472,
+    "id_str": "1254058066892521472",
+    "text": "@viniciussf_a @mclarapaiva_ O corona chega lambe os beiços",
+    "display_text_range": [
+        28,
+        58
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254055713925709824,
+    "in_reply_to_status_id_str": "1254055713925709824",
+    "in_reply_to_user_id": 1162214064681967616,
+    "in_reply_to_user_id_str": "1162214064681967616",
+    "in_reply_to_screen_name": "viniciussf_a",
+    "user": {
+        "id": 1235309674813173760,
+        "id_str": "1235309674813173760",
+        "name": "Tiago Ferro",
+        "screen_name": "TiagoFerro87",
+        "location": "Caruaru, Brasil",
+        "url": null,
+        "description": "foda se",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 116,
+        "friends_count": 140,
+        "listed_count": 0,
+        "favourites_count": 81,
+        "statuses_count": 216,
+        "created_at": "Wed Mar 04 21:02:46 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253822867839516672/wBGvYhI__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253822867839516672/wBGvYhI__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1235309674813173760/1585082362",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "viniciussf_a",
+                "name": "Vinícius Feitosa",
+                "id": 1162214064681967616,
+                "id_str": "1162214064681967616",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "mclarapaiva_",
+                "name": "meu nome é ari",
+                "id": 714518916048035842,
+                "id_str": "714518916048035842",
+                "indices": [
+                    14,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587825717076"
+}

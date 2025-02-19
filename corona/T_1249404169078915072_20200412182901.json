@@ -1,0 +1,128 @@
+{
+    "created_at": "Sun Apr 12 18:29:01 +0000 2020",
+    "id": 1249404169078915072,
+    "id_str": "1249404169078915072",
+    "text": "@NetraamRebooted @Pensioenspook @HendrikVuye @Sophie_Wilmes @Maggie_DeBlock Corona is niet gezond !",
+    "display_text_range": [
+        76,
+        99
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249371716654108673,
+    "in_reply_to_status_id_str": "1249371716654108673",
+    "in_reply_to_user_id": 1180507450002362369,
+    "in_reply_to_user_id_str": "1180507450002362369",
+    "in_reply_to_screen_name": "NetraamRebooted",
+    "user": {
+        "id": 2870497949,
+        "id_str": "2870497949",
+        "name": "De Keyser Eddy",
+        "screen_name": "Eddy110355",
+        "location": null,
+        "url": null,
+        "description": "Geblokkeerd door zowat alle roeptoeters à la Annick De Ridder.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 365,
+        "friends_count": 1088,
+        "listed_count": 3,
+        "favourites_count": 24077,
+        "statuses_count": 13979,
+        "created_at": "Mon Nov 10 12:34:49 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/978655635112955904/_iCYnlsY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/978655635112955904/_iCYnlsY_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "NetraamRebooted",
+                "name": "Netraam",
+                "id": 1180507450002362369,
+                "id_str": "1180507450002362369",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "Pensioenspook",
+                "name": "Pensioenspook",
+                "id": 415067387,
+                "id_str": "415067387",
+                "indices": [
+                    17,
+                    31
+                ]
+            },
+            {
+                "screen_name": "HendrikVuye",
+                "name": "Hendrik Vuye",
+                "id": 2793877337,
+                "id_str": "2793877337",
+                "indices": [
+                    32,
+                    44
+                ]
+            },
+            {
+                "screen_name": "Sophie_Wilmes",
+                "name": "Sophie Wilmès",
+                "id": 516626068,
+                "id_str": "516626068",
+                "indices": [
+                    45,
+                    59
+                ]
+            },
+            {
+                "screen_name": "Maggie_DeBlock",
+                "name": "Maggie De Block",
+                "id": 2860510937,
+                "id_str": "2860510937",
+                "indices": [
+                    60,
+                    75
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586716141372"
+}

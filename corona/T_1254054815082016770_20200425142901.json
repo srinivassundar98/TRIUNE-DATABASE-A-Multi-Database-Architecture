@@ -1,0 +1,153 @@
+{
+    "created_at": "Sat Apr 25 14:29:01 +0000 2020",
+    "id": 1254054815082016770,
+    "id_str": "1254054815082016770",
+    "text": "@NIH @realDonaldTrump Dr. Peter Achutha says, \"Don't wait for a vaccine any longer as it may never come. Use virgin… https://t.co/r5I700GiLN",
+    "display_text_range": [
+        22,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254054272515227648,
+    "in_reply_to_status_id_str": "1254054272515227648",
+    "in_reply_to_user_id": 1139233401712496640,
+    "in_reply_to_user_id_str": "1139233401712496640",
+    "in_reply_to_screen_name": "DavidGosal4",
+    "user": {
+        "id": 1139233401712496640,
+        "id_str": "1139233401712496640",
+        "name": "David Gosal",
+        "screen_name": "DavidGosal4",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 101,
+        "listed_count": 0,
+        "favourites_count": 60,
+        "statuses_count": 11337,
+        "created_at": "Thu Jun 13 18:09:43 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196974665379405824/fW5NILh5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196974665379405824/fW5NILh5_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@NIH @realDonaldTrump Dr. Peter Achutha says, \"Don't wait for a vaccine any longer as it may never come. Use virgin coconut oil as a potential cure for Covid-19. Many doctors do not  about VCO and therefore never prescribe it. It is not taught in medical school.\nhttps://t.co/K4fmBYiU6F",
+        "display_text_range": [
+            22,
+            286
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/K4fmBYiU6F",
+                    "expanded_url": "http://www.cbs19news.com/story/41988610/a-potential-cure-for-covid-19-caused-by-the-corona-virus",
+                    "display_url": "cbs19news.com/story/41988610…",
+                    "indices": [
+                        263,
+                        286
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "NIH",
+                    "name": "NIH",
+                    "id": 15134240,
+                    "id_str": "15134240",
+                    "indices": [
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        5,
+                        21
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/r5I700GiLN",
+                "expanded_url": "https://twitter.com/i/web/status/1254054815082016770",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "NIH",
+                "name": "NIH",
+                "id": 15134240,
+                "id_str": "15134240",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    5,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824941784"
+}

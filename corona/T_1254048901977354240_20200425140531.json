@@ -1,0 +1,166 @@
+{
+    "created_at": "Sat Apr 25 14:05:31 +0000 2020",
+    "id": 1254048901977354240,
+    "id_str": "1254048901977354240",
+    "text": "COVID 19 SEEDS distributes 1 million meals across 8 states amid corona crisis https://t.co/D135o979gQ https://t.co/05ntxW5JCJ",
+    "display_text_range": [
+        0,
+        101
+    ],
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 733321758523019264,
+        "id_str": "733321758523019264",
+        "name": "YourChennai",
+        "screen_name": "YourChennai",
+        "location": "Chennai, India",
+        "url": "http://www.yourchennai.com",
+        "description": "http://YourChennai.com - News You Want to Know!!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 93,
+        "friends_count": 6,
+        "listed_count": 2,
+        "favourites_count": 0,
+        "statuses_count": 2004,
+        "created_at": "Thu May 19 15:41:46 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/739666445060083712/g1CzJxNV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/739666445060083712/g1CzJxNV_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/D135o979gQ",
+                "expanded_url": "https://ift.tt/3cNhtFC",
+                "display_url": "ift.tt/3cNhtFC",
+                "indices": [
+                    78,
+                    101
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254048900802949121,
+                "id_str": "1254048900802949121",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdG1L9UMAEQNJv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdG1L9UMAEQNJv.jpg",
+                "url": "https://t.co/05ntxW5JCJ",
+                "display_url": "pic.twitter.com/05ntxW5JCJ",
+                "expanded_url": "https://twitter.com/YourChennai/status/1254048901977354240/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 900,
+                        "h": 500,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254048900802949121,
+                "id_str": "1254048900802949121",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdG1L9UMAEQNJv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdG1L9UMAEQNJv.jpg",
+                "url": "https://t.co/05ntxW5JCJ",
+                "display_url": "pic.twitter.com/05ntxW5JCJ",
+                "expanded_url": "https://twitter.com/YourChennai/status/1254048901977354240/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 378,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 900,
+                        "h": 500,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823531990"
+}

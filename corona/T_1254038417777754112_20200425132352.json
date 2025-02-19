@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:23:52 +0000 2020",
+    "id": 1254038417777754112,
+    "id_str": "1254038417777754112",
+    "text": "@D66 Ga eerst eens op zoek naar nuttige onderwerpen, het milieu gaan we straks wel weer mee verder nadat jullie onz… https://t.co/D30aT9yvbV",
+    "display_text_range": [
+        5,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253712625093009408,
+    "in_reply_to_status_id_str": "1253712625093009408",
+    "in_reply_to_user_id": 28076891,
+    "in_reply_to_user_id_str": "28076891",
+    "in_reply_to_screen_name": "D66",
+    "user": {
+        "id": 1107667909663444994,
+        "id_str": "1107667909663444994",
+        "name": "Ik",
+        "screen_name": "man_oude",
+        "location": null,
+        "url": null,
+        "description": "Mijn tweets bevatten mijn persoonlijke mening gevormd door de kennis van dat moment.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 25,
+        "friends_count": 25,
+        "listed_count": 0,
+        "favourites_count": 1014,
+        "statuses_count": 1307,
+        "created_at": "Mon Mar 18 15:39:43 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234091036340871168/5Fi-8kJg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234091036340871168/5Fi-8kJg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1107667909663444994/1553334452",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@D66 Ga eerst eens op zoek naar nuttige onderwerpen, het milieu gaan we straks wel weer mee verder nadat jullie onze ouderen hebben gered van corona",
+        "display_text_range": [
+            5,
+            148
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "D66",
+                    "name": "D66",
+                    "id": 28076891,
+                    "id_str": "28076891",
+                    "indices": [
+                        0,
+                        4
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/D30aT9yvbV",
+                "expanded_url": "https://twitter.com/i/web/status/1254038417777754112",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "D66",
+                "name": "D66",
+                "id": 28076891,
+                "id_str": "28076891",
+                "indices": [
+                    0,
+                    4
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587821032362"
+}

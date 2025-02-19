@@ -1,0 +1,182 @@
+{
+    "created_at": "Sat Apr 25 13:31:07 +0000 2020",
+    "id": 1254040243617116160,
+    "id_str": "1254040243617116160",
+    "text": "@FloGehm @welt @The_Sommerfeldt @Tesla Die Autoindustrie kämpft nicht wegen der Corona Krise , sie wurde schon vorh… https://t.co/jndokXaniI",
+    "display_text_range": [
+        39,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254006369520242694,
+    "in_reply_to_status_id_str": "1254006369520242694",
+    "in_reply_to_user_id": 18379810,
+    "in_reply_to_user_id_str": "18379810",
+    "in_reply_to_screen_name": "FloGehm",
+    "user": {
+        "id": 1058083420918702080,
+        "id_str": "1058083420918702080",
+        "name": "Geli",
+        "screen_name": "Geli46635590",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 6,
+        "listed_count": 0,
+        "favourites_count": 2382,
+        "statuses_count": 1769,
+        "created_at": "Thu Nov 01 19:48:40 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@FloGehm @welt @The_Sommerfeldt @Tesla Die Autoindustrie kämpft nicht wegen der Corona Krise , sie wurde schon vorher systematisch zerschlagen. Corona ist jetzt der Sündenbock für alles. Sehr praktisch dieses Virus 😉 Ein Schelm, wer Böses dabei denkt.",
+        "display_text_range": [
+            39,
+            251
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FloGehm",
+                    "name": "Florian Carlo Gehm",
+                    "id": 18379810,
+                    "id_str": "18379810",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "welt",
+                    "name": "WELT",
+                    "id": 8720562,
+                    "id_str": "8720562",
+                    "indices": [
+                        9,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "The_Sommerfeldt",
+                    "name": "Nando Sommerfeldt",
+                    "id": 954385610113998849,
+                    "id_str": "954385610113998849",
+                    "indices": [
+                        15,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "Tesla",
+                    "name": "Tesla",
+                    "id": 13298072,
+                    "id_str": "13298072",
+                    "indices": [
+                        32,
+                        38
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/jndokXaniI",
+                "expanded_url": "https://twitter.com/i/web/status/1254040243617116160",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "FloGehm",
+                "name": "Florian Carlo Gehm",
+                "id": 18379810,
+                "id_str": "18379810",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "welt",
+                "name": "WELT",
+                "id": 8720562,
+                "id_str": "8720562",
+                "indices": [
+                    9,
+                    14
+                ]
+            },
+            {
+                "screen_name": "The_Sommerfeldt",
+                "name": "Nando Sommerfeldt",
+                "id": 954385610113998849,
+                "id_str": "954385610113998849",
+                "indices": [
+                    15,
+                    31
+                ]
+            },
+            {
+                "screen_name": "Tesla",
+                "name": "Tesla",
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    32,
+                    38
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821467676"
+}

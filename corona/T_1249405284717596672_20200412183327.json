@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun Apr 12 18:33:27 +0000 2020",
+    "id": 1249405284717596672,
+    "id_str": "1249405284717596672",
+    "text": "@HolisticallyTk @LEC Well, Perkz might have gotten sick with the corona virus last year at worlds.",
+    "display_text_range": [
+        21,
+        98
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249363020356227074,
+    "in_reply_to_status_id_str": "1249363020356227074",
+    "in_reply_to_user_id": 999358370472759296,
+    "in_reply_to_user_id_str": "999358370472759296",
+    "in_reply_to_screen_name": "HolisticallyTk",
+    "user": {
+        "id": 2987502709,
+        "id_str": "2987502709",
+        "name": "ThatJack",
+        "screen_name": "YesThatJack",
+        "location": "Texas, USA",
+        "url": null,
+        "description": "What in tar nation",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 9,
+        "friends_count": 275,
+        "listed_count": 0,
+        "favourites_count": 422,
+        "statuses_count": 741,
+        "created_at": "Sat Jan 17 20:24:02 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239648851151249410/0TvPcIQy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239648851151249410/0TvPcIQy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2987502709/1547229436",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "HolisticallyTk",
+                "name": "TalesofTkay",
+                "id": 999358370472759296,
+                "id_str": "999358370472759296",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "LEC",
+                "name": "LEC",
+                "id": 1076110847947300865,
+                "id_str": "1076110847947300865",
+                "indices": [
+                    16,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716407361"
+}

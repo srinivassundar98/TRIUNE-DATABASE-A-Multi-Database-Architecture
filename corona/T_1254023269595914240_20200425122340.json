@@ -1,0 +1,105 @@
+{
+    "created_at": "Sat Apr 25 12:23:40 +0000 2020",
+    "id": 1254023269595914240,
+    "id_str": "1254023269595914240",
+    "text": "Kama Taifa tungependa kumuona Rais akilifariji Taifa dhidhi ya janga hili hatari la Corona badala yake ni tofauti kabisa.",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3365508845,
+        "id_str": "3365508845",
+        "name": "samwelntogoro",
+        "screen_name": "samwelntogoro2",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 123,
+        "listed_count": 0,
+        "favourites_count": 4,
+        "statuses_count": 11,
+        "created_at": "Wed Jul 08 06:49:21 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253996580128120833/dPeGeB_1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253996580128120833/dPeGeB_1_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "008020f4726d962a",
+        "url": "https://api.twitter.com/1.1/geo/id/008020f4726d962a.json",
+        "place_type": "admin",
+        "name": "Mara",
+        "full_name": "Mara, Tanzania",
+        "country_code": "TZ",
+        "country": "Tanzania",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        32.717864,
+                        -2.572048
+                    ],
+                    [
+                        32.717864,
+                        -0.99881
+                    ],
+                    [
+                        35.281878,
+                        -0.99881
+                    ],
+                    [
+                        35.281878,
+                        -2.572048
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587817420754"
+}

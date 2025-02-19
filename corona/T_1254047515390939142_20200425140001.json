@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Apr 25 14:00:01 +0000 2020",
+    "id": 1254047515390939142,
+    "id_str": "1254047515390939142",
+    "text": "@derekobrienmp You people just lier as everybody knows what is going on in Bengal ..how Corona death number reduced… https://t.co/aMOLQmd0hw",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254009530473680896,
+    "in_reply_to_status_id_str": "1254009530473680896",
+    "in_reply_to_user_id": 120965579,
+    "in_reply_to_user_id_str": "120965579",
+    "in_reply_to_screen_name": "derekobrienmp",
+    "user": {
+        "id": 354235460,
+        "id_str": "354235460",
+        "name": "Arun Kumar",
+        "screen_name": "arunbhattachary",
+        "location": "kolkata ",
+        "url": null,
+        "description": "Civil and Environment Engineer ,  Regd. Lead auditor  Environmental management system  ,Ex.G .M project , Active member Swachh Bharat ..",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 182,
+        "friends_count": 184,
+        "listed_count": 0,
+        "favourites_count": 9576,
+        "statuses_count": 18891,
+        "created_at": "Sat Aug 13 11:02:22 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136474701939634177/8HRWnNy2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136474701939634177/8HRWnNy2_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "123ad1f35e190c93",
+        "url": "https://api.twitter.com/1.1/geo/id/123ad1f35e190c93.json",
+        "place_type": "city",
+        "name": "Anekal Bangaluru",
+        "full_name": "Anekal Bangaluru, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.556362,
+                        12.657055
+                    ],
+                    [
+                        77.556362,
+                        12.937701
+                    ],
+                    [
+                        77.835486,
+                        12.937701
+                    ],
+                    [
+                        77.835486,
+                        12.657055
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@derekobrienmp You people just lier as everybody knows what is going on in Bengal ..how Corona death number reduced ,  the worst condition of Bangur other hopitals and red zone area,@ playing game with human lives ,lockdown so casual and useles...shame",
+        "display_text_range": [
+            15,
+            252
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "derekobrienmp",
+                    "name": "Citizen Derek | নাগরিক ডেরেক",
+                    "id": 120965579,
+                    "id_str": "120965579",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/aMOLQmd0hw",
+                "expanded_url": "https://twitter.com/i/web/status/1254047515390939142",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "derekobrienmp",
+                "name": "Citizen Derek | নাগরিক ডেরেক",
+                "id": 120965579,
+                "id_str": "120965579",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823201402"
+}

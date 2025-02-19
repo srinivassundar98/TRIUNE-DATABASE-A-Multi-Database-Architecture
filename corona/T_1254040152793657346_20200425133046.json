@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:30:46 +0000 2020",
+    "id": 1254040152793657346,
+    "id_str": "1254040152793657346",
+    "text": "@Schr31ber @EbbeSand Kein Thema. https://t.co/g85R7RgBeA",
+    "display_text_range": [
+        21,
+        56
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254036164962631681,
+    "in_reply_to_status_id_str": "1254036164962631681",
+    "in_reply_to_user_id": 184901217,
+    "in_reply_to_user_id_str": "184901217",
+    "in_reply_to_screen_name": "Schr31ber",
+    "user": {
+        "id": 13244082,
+        "id_str": "13244082",
+        "name": "Bjoern-Christian Hasse",
+        "screen_name": "bch",
+        "location": "Suburbs of Frankfurt, Germany",
+        "url": "http://www.linkedin.com/in/bjoernhasse",
+        "description": "Global communications executive | Creating + managing integrated teams + businesses | Intrapreneur | MD at @BCWGlobal",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1284,
+        "friends_count": 509,
+        "listed_count": 112,
+        "favourites_count": 10017,
+        "statuses_count": 15699,
+        "created_at": "Fri Feb 08 12:02:06 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1080767505981943809/fUG7c7ZG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080767505981943809/fUG7c7ZG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13244082/1546509995",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "f32ddf9b5becfd39",
+        "url": "https://api.twitter.com/1.1/geo/id/f32ddf9b5becfd39.json",
+        "place_type": "city",
+        "name": "Kelkheim (Taunus)",
+        "full_name": "Kelkheim (Taunus), Deutschland",
+        "country_code": "DE",
+        "country": "Germany",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        8.376292,
+                        50.101125
+                    ],
+                    [
+                        8.376292,
+                        50.187939
+                    ],
+                    [
+                        8.490229,
+                        50.187939
+                    ],
+                    [
+                        8.490229,
+                        50.101125
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/g85R7RgBeA",
+                "expanded_url": "https://www.tagesschau.de/faktenfinder/corona-masken-kinder-101.html",
+                "display_url": "tagesschau.de/faktenfinder/c…",
+                "indices": [
+                    33,
+                    56
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Schr31ber",
+                "name": "Basti",
+                "id": 184901217,
+                "id_str": "184901217",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "EbbeSand",
+                "name": "Markus Henkel",
+                "id": 26648932,
+                "id_str": "26648932",
+                "indices": [
+                    11,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821446022"
+}

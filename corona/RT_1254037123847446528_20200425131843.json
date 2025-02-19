@@ -1,0 +1,709 @@
+{
+    "created_at": "Sat Apr 25 13:18:43 +0000 2020",
+    "id": 1254037123847446528,
+    "id_str": "1254037123847446528",
+    "text": "RT @anoopnm007: We have launched a dashboard for predicting the Corona transmission in India. Please see: https://t.co/Eq5CIAZST4. It would…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 45299364,
+        "id_str": "45299364",
+        "name": "Dr. Manabendra Saharia",
+        "screen_name": "m_saharia",
+        "location": "New Delhi",
+        "url": "http://msaharia.com",
+        "description": "Assistant Professor @IITDelhi 🇮🇳 | Water Resources | Interests - land surface modeling, flood forecasting, and #scicomm | Ex-@NASAGoddard @NCAR_Science",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 634,
+        "friends_count": 98,
+        "listed_count": 9,
+        "favourites_count": 920,
+        "statuses_count": 5820,
+        "created_at": "Sun Jun 07 06:52:40 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112078771908153344/-HWtySC6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112078771908153344/-HWtySC6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45299364/1553975146",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 11:36:51 +0000 2020",
+        "id": 1254011484868235267,
+        "id_str": "1254011484868235267",
+        "text": "We have launched a dashboard for predicting the Corona transmission in India. Please see: https://t.co/Eq5CIAZST4.… https://t.co/ICnokmi8pN",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 24206757,
+            "id_str": "24206757",
+            "name": "N M Anoop Krishnan",
+            "screen_name": "anoopnm007",
+            "location": "New Delhi, India",
+            "url": "https://sites.google.com/site/nmakrishnaniitd/",
+            "description": "Designing and decoding materials through data- and physics-based modeling | Teaching Civil and Materials Science @iitdelhi | Classical musician",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 258,
+            "friends_count": 380,
+            "listed_count": 6,
+            "favourites_count": 427,
+            "statuses_count": 187,
+            "created_at": "Fri Mar 13 17:07:24 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1304245492/DSC_7849_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304245492/DSC_7849_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253988473716895744,
+        "quoted_status_id_str": "1253988473716895744",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 10:05:24 +0000 2020",
+            "id": 1253988473716895744,
+            "id_str": "1253988473716895744",
+            "text": "IIT Delhi researchers develop web-based COVID-19 dashboard ‘PRACRITI’- PRediction and Assessment of CoRona Infectio… https://t.co/pNDWZfBEW8",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 101800941,
+                "id_str": "101800941",
+                "name": "V.Ramgopal Rao",
+                "screen_name": "ramgopal_rao",
+                "location": "New Delhi, India",
+                "url": "https://www.ee.iitb.ac.in/~rrao/",
+                "description": "Director, IIT Delhi.\nTweeting in personal capacity...",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 4153,
+                "friends_count": 90,
+                "listed_count": 11,
+                "favourites_count": 673,
+                "statuses_count": 773,
+                "created_at": "Mon Jan 04 16:29:01 +0000 2010",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1250607659541094401/imE42dkV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250607659541094401/imE42dkV_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/101800941/1576084491",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "IIT Delhi researchers develop web-based COVID-19 dashboard ‘PRACRITI’- PRediction and Assessment of CoRona Infections and Transmission in India.\nClick here for the site: https://t.co/dl5Wjsmkga\n@iitdelhi @narendramodi @DrRPNishank\n@PMOIndia https://t.co/8JnSS8fTk3",
+                "display_text_range": [
+                    0,
+                    240
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/dl5Wjsmkga",
+                            "expanded_url": "http://pracriti.iitd.ac.in",
+                            "display_url": "pracriti.iitd.ac.in",
+                            "indices": [
+                                170,
+                                193
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "iitdelhi",
+                            "name": "IIT Delhi",
+                            "id": 27686420,
+                            "id_str": "27686420",
+                            "indices": [
+                                194,
+                                203
+                            ]
+                        },
+                        {
+                            "screen_name": "narendramodi",
+                            "name": "Narendra Modi",
+                            "id": 18839785,
+                            "id_str": "18839785",
+                            "indices": [
+                                204,
+                                217
+                            ]
+                        },
+                        {
+                            "screen_name": "DrRPNishank",
+                            "name": "Dr Ramesh Pokhriyal Nishank",
+                            "id": 2617066206,
+                            "id_str": "2617066206",
+                            "indices": [
+                                218,
+                                230
+                            ]
+                        },
+                        {
+                            "screen_name": "PMOIndia",
+                            "name": "PMO India",
+                            "id": 471741741,
+                            "id_str": "471741741",
+                            "indices": [
+                                231,
+                                240
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253988464325873665,
+                            "id_str": "1253988464325873665",
+                            "indices": [
+                                241,
+                                264
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWcP3UiU0AEjINn.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWcP3UiU0AEjINn.jpg",
+                            "url": "https://t.co/8JnSS8fTk3",
+                            "display_url": "pic.twitter.com/8JnSS8fTk3",
+                            "expanded_url": "https://twitter.com/ramgopal_rao/status/1253988473716895744/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 535,
+                                    "h": 365,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 535,
+                                    "h": 365,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 535,
+                                    "h": 365,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253988464325873665,
+                            "id_str": "1253988464325873665",
+                            "indices": [
+                                241,
+                                264
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWcP3UiU0AEjINn.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWcP3UiU0AEjINn.jpg",
+                            "url": "https://t.co/8JnSS8fTk3",
+                            "display_url": "pic.twitter.com/8JnSS8fTk3",
+                            "expanded_url": "https://twitter.com/ramgopal_rao/status/1253988473716895744/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 535,
+                                    "h": 365,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 535,
+                                    "h": 365,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 535,
+                                    "h": 365,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 8,
+            "favorite_count": 24,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pNDWZfBEW8",
+                        "expanded_url": "https://twitter.com/i/web/status/1253988473716895744",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/zTUAPJWkKc",
+            "expanded": "https://twitter.com/ramgopal_rao/status/1253988473716895744",
+            "display": "twitter.com/ramgopal_rao/s…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "We have launched a dashboard for predicting the Corona transmission in India. Please see: https://t.co/Eq5CIAZST4. It wouldn’t have been possible without the support of Prof. @ramgopal_rao! Thank you!!! We hope this will be highly useful for the authorities, and public alike. https://t.co/zTUAPJWkKc",
+            "display_text_range": [
+                0,
+                276
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Eq5CIAZST4",
+                        "expanded_url": "http://pracriti.iitd.ac.in",
+                        "display_url": "pracriti.iitd.ac.in",
+                        "indices": [
+                            90,
+                            113
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/zTUAPJWkKc",
+                        "expanded_url": "https://twitter.com/ramgopal_rao/status/1253988473716895744",
+                        "display_url": "twitter.com/ramgopal_rao/s…",
+                        "indices": [
+                            277,
+                            300
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ramgopal_rao",
+                        "name": "V.Ramgopal Rao",
+                        "id": 101800941,
+                        "id_str": "101800941",
+                        "indices": [
+                            175,
+                            188
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Eq5CIAZST4",
+                    "expanded_url": "http://pracriti.iitd.ac.in",
+                    "display_url": "pracriti.iitd.ac.in",
+                    "indices": [
+                        90,
+                        113
+                    ]
+                },
+                {
+                    "url": "https://t.co/ICnokmi8pN",
+                    "expanded_url": "https://twitter.com/i/web/status/1254011484868235267",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1253988473716895744,
+    "quoted_status_id_str": "1253988473716895744",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 10:05:24 +0000 2020",
+        "id": 1253988473716895744,
+        "id_str": "1253988473716895744",
+        "text": "IIT Delhi researchers develop web-based COVID-19 dashboard ‘PRACRITI’- PRediction and Assessment of CoRona Infectio… https://t.co/pNDWZfBEW8",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 101800941,
+            "id_str": "101800941",
+            "name": "V.Ramgopal Rao",
+            "screen_name": "ramgopal_rao",
+            "location": "New Delhi, India",
+            "url": "https://www.ee.iitb.ac.in/~rrao/",
+            "description": "Director, IIT Delhi.\nTweeting in personal capacity...",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4153,
+            "friends_count": 90,
+            "listed_count": 11,
+            "favourites_count": 673,
+            "statuses_count": 773,
+            "created_at": "Mon Jan 04 16:29:01 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250607659541094401/imE42dkV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250607659541094401/imE42dkV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/101800941/1576084491",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "IIT Delhi researchers develop web-based COVID-19 dashboard ‘PRACRITI’- PRediction and Assessment of CoRona Infections and Transmission in India.\nClick here for the site: https://t.co/dl5Wjsmkga\n@iitdelhi @narendramodi @DrRPNishank\n@PMOIndia https://t.co/8JnSS8fTk3",
+            "display_text_range": [
+                0,
+                240
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/dl5Wjsmkga",
+                        "expanded_url": "http://pracriti.iitd.ac.in",
+                        "display_url": "pracriti.iitd.ac.in",
+                        "indices": [
+                            170,
+                            193
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "iitdelhi",
+                        "name": "IIT Delhi",
+                        "id": 27686420,
+                        "id_str": "27686420",
+                        "indices": [
+                            194,
+                            203
+                        ]
+                    },
+                    {
+                        "screen_name": "narendramodi",
+                        "name": "Narendra Modi",
+                        "id": 18839785,
+                        "id_str": "18839785",
+                        "indices": [
+                            204,
+                            217
+                        ]
+                    },
+                    {
+                        "screen_name": "DrRPNishank",
+                        "name": "Dr Ramesh Pokhriyal Nishank",
+                        "id": 2617066206,
+                        "id_str": "2617066206",
+                        "indices": [
+                            218,
+                            230
+                        ]
+                    },
+                    {
+                        "screen_name": "PMOIndia",
+                        "name": "PMO India",
+                        "id": 471741741,
+                        "id_str": "471741741",
+                        "indices": [
+                            231,
+                            240
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253988464325873665,
+                        "id_str": "1253988464325873665",
+                        "indices": [
+                            241,
+                            264
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcP3UiU0AEjINn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcP3UiU0AEjINn.jpg",
+                        "url": "https://t.co/8JnSS8fTk3",
+                        "display_url": "pic.twitter.com/8JnSS8fTk3",
+                        "expanded_url": "https://twitter.com/ramgopal_rao/status/1253988473716895744/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 535,
+                                "h": 365,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 535,
+                                "h": 365,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 535,
+                                "h": 365,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253988464325873665,
+                        "id_str": "1253988464325873665",
+                        "indices": [
+                            241,
+                            264
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcP3UiU0AEjINn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcP3UiU0AEjINn.jpg",
+                        "url": "https://t.co/8JnSS8fTk3",
+                        "display_url": "pic.twitter.com/8JnSS8fTk3",
+                        "expanded_url": "https://twitter.com/ramgopal_rao/status/1253988473716895744/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 535,
+                                "h": 365,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 535,
+                                "h": 365,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 535,
+                                "h": 365,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 8,
+        "favorite_count": 24,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pNDWZfBEW8",
+                    "expanded_url": "https://twitter.com/i/web/status/1253988473716895744",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/zTUAPJWkKc",
+        "expanded": "https://twitter.com/ramgopal_rao/status/1253988473716895744",
+        "display": "twitter.com/ramgopal_rao/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Eq5CIAZST4",
+                "expanded_url": "http://pracriti.iitd.ac.in",
+                "display_url": "pracriti.iitd.ac.in",
+                "indices": [
+                    106,
+                    129
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "anoopnm007",
+                "name": "N M Anoop Krishnan",
+                "id": 24206757,
+                "id_str": "24206757",
+                "indices": [
+                    3,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820723865"
+}

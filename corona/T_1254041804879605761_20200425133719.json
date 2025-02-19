@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 13:37:19 +0000 2020",
+    "id": 1254041804879605761,
+    "id_str": "1254041804879605761",
+    "text": "@sternde btw: Stichwort ÖPNV - erst wegen Corona bundesweit die Fahrpläne reduzieren und damit die drastische Erhöh… https://t.co/CLF9YOZ8SR",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254036024012963840,
+    "in_reply_to_status_id_str": "1254036024012963840",
+    "in_reply_to_user_id": 18774524,
+    "in_reply_to_user_id_str": "18774524",
+    "in_reply_to_screen_name": "sternde",
+    "user": {
+        "id": 1618301503,
+        "id_str": "1618301503",
+        "name": "Dritte_Person",
+        "screen_name": "Dritte_Person",
+        "location": "Germany",
+        "url": null,
+        "description": "Frau, intelligent, ua immun gegenüber Greta-Fanatismus, Fußgängerin, die Welt braucht keine Radfahrer ....",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 5,
+        "listed_count": 0,
+        "favourites_count": 958,
+        "statuses_count": 1789,
+        "created_at": "Wed Jul 24 17:45:40 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@sternde btw: Stichwort ÖPNV - erst wegen Corona bundesweit die Fahrpläne reduzieren und damit die drastische Erhöhung des Infektionsrisiko der Fahrgäste wochenlang billigend in Kauf nehmen und jetzt auf einmal so tun, als ob die Gesundheit der Fahrgäste wichtig wäre.",
+        "display_text_range": [
+            9,
+            268
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sternde",
+                    "name": "stern",
+                    "id": 18774524,
+                    "id_str": "18774524",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/CLF9YOZ8SR",
+                "expanded_url": "https://twitter.com/i/web/status/1254041804879605761",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sternde",
+                "name": "stern",
+                "id": 18774524,
+                "id_str": "18774524",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821839910"
+}

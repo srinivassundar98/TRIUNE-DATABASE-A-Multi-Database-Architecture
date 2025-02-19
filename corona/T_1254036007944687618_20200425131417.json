@@ -1,0 +1,159 @@
+{
+    "created_at": "Sat Apr 25 13:14:17 +0000 2020",
+    "id": 1254036007944687618,
+    "id_str": "1254036007944687618",
+    "text": "@FFFDresden @fffBochum Das Tiefbauamt war schon immer die Seuchenschutz Nr. 1 🙄\nseit ich #fff mitverfolgen (und Cor… https://t.co/UAuO6TyGYZ",
+    "display_text_range": [
+        23,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254008692481064963,
+    "in_reply_to_status_id_str": "1254008692481064963",
+    "in_reply_to_user_id": 1081603778699296770,
+    "in_reply_to_user_id_str": "1081603778699296770",
+    "in_reply_to_screen_name": "FFFDresden",
+    "user": {
+        "id": 47377107,
+        "id_str": "47377107",
+        "name": "Nußkati",
+        "screen_name": "Nusskati",
+        "location": null,
+        "url": null,
+        "description": "Ich interessiere mich für Gaming, gute Küche, Kreativität und lebe mich als Stammtischpolitiker aus.\nMontags kriegen meine Patreons Nacktbilder. #mondaymourning",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 71,
+        "friends_count": 65,
+        "listed_count": 0,
+        "favourites_count": 13527,
+        "statuses_count": 8489,
+        "created_at": "Mon Jun 15 16:38:59 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/830756285/eiko3_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/830756285/eiko3_normal.gif",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47377107/1566561253",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@FFFDresden @fffBochum Das Tiefbauamt war schon immer die Seuchenschutz Nr. 1 🙄\nseit ich #fff mitverfolgen (und Corona), lese ich von vielen. Behördlichen Übergriffen gegen die Meinungsfreiheit und Grundrechte trotz ausdrücklicher Genehmigungen :( Fehler im System oder Fehlersystem?",
+        "display_text_range": [
+            23,
+            283
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "fff",
+                    "indices": [
+                        89,
+                        93
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FFFDresden",
+                    "name": "Fridays for Future Dresden",
+                    "id": 1081603778699296770,
+                    "id_str": "1081603778699296770",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "fffBochum",
+                    "name": "Fridays For Future Bochum",
+                    "id": 1092745507389272069,
+                    "id_str": "1092745507389272069",
+                    "indices": [
+                        12,
+                        22
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "fff",
+                "indices": [
+                    89,
+                    93
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/UAuO6TyGYZ",
+                "expanded_url": "https://twitter.com/i/web/status/1254036007944687618",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "FFFDresden",
+                "name": "Fridays for Future Dresden",
+                "id": 1081603778699296770,
+                "id_str": "1081603778699296770",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "fffBochum",
+                "name": "Fridays For Future Bochum",
+                "id": 1092745507389272069,
+                "id_str": "1092745507389272069",
+                "indices": [
+                    12,
+                    22
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820457813"
+}

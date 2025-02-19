@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 13:09:40 +0000 2020",
+    "id": 1254034846495752193,
+    "id_str": "1254034846495752193",
+    "text": "@CreemersErik @cdenv @Koen_Geens1 Mij leek het net dat die ouderen beschermen aan de basis lag. Beeld je eens in, e… https://t.co/18Ajq2IxmX",
+    "display_text_range": [
+        34,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254026980569350144,
+    "in_reply_to_status_id_str": "1254026980569350144",
+    "in_reply_to_user_id": 1195752783955320832,
+    "in_reply_to_user_id_str": "1195752783955320832",
+    "in_reply_to_screen_name": "CreemersErik",
+    "user": {
+        "id": 985098351526973440,
+        "id_str": "985098351526973440",
+        "name": "WROschrIT",
+        "screen_name": "wroschj",
+        "location": "Luxembourg",
+        "url": null,
+        "description": "Bio & IT engineering - Let’s move your business to the online world.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 117,
+        "listed_count": 0,
+        "favourites_count": 139,
+        "statuses_count": 237,
+        "created_at": "Sat Apr 14 10:12:04 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985100827042963458/VxOgIdjk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985100827042963458/VxOgIdjk_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CreemersErik @cdenv @Koen_Geens1 Mij leek het net dat die ouderen beschermen aan de basis lag. Beeld je eens in, een Corona exit met als eerste stap: ouderen samen met de rest in een grote volle ruimte... zoals zovele ontmoetingsplaatsen zijn in de tehuizen.",
+        "display_text_range": [
+            34,
+            259
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CreemersErik",
+                    "name": "Erik Creemers",
+                    "id": 1195752783955320832,
+                    "id_str": "1195752783955320832",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "cdenv",
+                    "name": "CD&V",
+                    "id": 15753618,
+                    "id_str": "15753618",
+                    "indices": [
+                        14,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "Koen_Geens1",
+                    "name": "Koen Geens",
+                    "id": 1585166444,
+                    "id_str": "1585166444",
+                    "indices": [
+                        21,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/18Ajq2IxmX",
+                "expanded_url": "https://twitter.com/i/web/status/1254034846495752193",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CreemersErik",
+                "name": "Erik Creemers",
+                "id": 1195752783955320832,
+                "id_str": "1195752783955320832",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "cdenv",
+                "name": "CD&V",
+                "id": 15753618,
+                "id_str": "15753618",
+                "indices": [
+                    14,
+                    20
+                ]
+            },
+            {
+                "screen_name": "Koen_Geens1",
+                "name": "Koen Geens",
+                "id": 1585166444,
+                "id_str": "1585166444",
+                "indices": [
+                    21,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587820180902"
+}

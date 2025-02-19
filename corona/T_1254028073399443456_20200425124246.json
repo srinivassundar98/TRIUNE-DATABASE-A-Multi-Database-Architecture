@@ -1,0 +1,107 @@
+{
+    "created_at": "Sat Apr 25 12:42:46 +0000 2020",
+    "id": 1254028073399443456,
+    "id_str": "1254028073399443456",
+    "text": "Mehr als 120.000 #Corona-#Tote in #Europa https://t.co/8iqlhKANkz",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 62741234,
+        "id_str": "62741234",
+        "name": "SALZBURG24",
+        "screen_name": "Salzburg24",
+        "location": "Karolingerstraße 40, 5020 Salz",
+        "url": "http://www.salzburg24.at",
+        "description": "😀",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2742,
+        "friends_count": 466,
+        "listed_count": 129,
+        "favourites_count": 453,
+        "statuses_count": 67785,
+        "created_at": "Tue Aug 04 06:47:11 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F8B600",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "84848C",
+        "profile_sidebar_border_color": "F2E96A",
+        "profile_sidebar_fill_color": "F2E96A",
+        "profile_text_color": "9E969E",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167069538829111298/och9Dnn__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167069538829111298/och9Dnn__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62741234/1428533259",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    17,
+                    24
+                ]
+            },
+            {
+                "text": "Tote",
+                "indices": [
+                    25,
+                    30
+                ]
+            },
+            {
+                "text": "Europa",
+                "indices": [
+                    34,
+                    41
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/8iqlhKANkz",
+                "expanded_url": "https://www.salzburg24.at/news/welt/coronavirus-mehr-als-120-000-tote-in-europa-86720737",
+                "display_url": "salzburg24.at/news/welt/coro…",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818566070"
+}

@@ -1,0 +1,181 @@
+{
+    "created_at": "Sat Apr 25 12:36:20 +0000 2020",
+    "id": 1254026457506107393,
+    "id_str": "1254026457506107393",
+    "text": "@GvanderGarde Hahaha gekkie ! Proficiat , zo te zien heb je het naar je zin. Corona is nothing.......... https://t.co/G8bTLh1YAK",
+    "display_text_range": [
+        14,
+        104
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254003423260880897,
+    "in_reply_to_status_id_str": "1254003423260880897",
+    "in_reply_to_user_id": 45575696,
+    "in_reply_to_user_id_str": "45575696",
+    "in_reply_to_screen_name": "GvanderGarde",
+    "user": {
+        "id": 383661247,
+        "id_str": "383661247",
+        "name": "Reny Pauly",
+        "screen_name": "RenyPauly",
+        "location": "maastricht",
+        "url": null,
+        "description": "Drie geweldige kids, vier kleinkinders, gek van F1 . inmiddels gepensioneerd, voorheen, groepsbegeleider\nGeboren in Venlo.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 276,
+        "friends_count": 278,
+        "listed_count": 1,
+        "favourites_count": 19394,
+        "statuses_count": 6321,
+        "created_at": "Sun Oct 02 08:36:56 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1173633953955233793/I-Om_P5c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1173633953955233793/I-Om_P5c_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/383661247/1582534156",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "GvanderGarde",
+                "name": "Giedo van der Garde",
+                "id": 45575696,
+                "id_str": "45575696",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254026446177284097,
+                "id_str": "1254026446177284097",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWcyaJ9XsAEjxMe.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWcyaJ9XsAEjxMe.jpg",
+                "url": "https://t.co/G8bTLh1YAK",
+                "display_url": "pic.twitter.com/G8bTLh1YAK",
+                "expanded_url": "https://twitter.com/RenyPauly/status/1254026457506107393/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 360,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 360,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 360,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254026446177284097,
+                "id_str": "1254026446177284097",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWcyaJ9XsAEjxMe.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWcyaJ9XsAEjxMe.jpg",
+                "url": "https://t.co/G8bTLh1YAK",
+                "display_url": "pic.twitter.com/G8bTLh1YAK",
+                "expanded_url": "https://twitter.com/RenyPauly/status/1254026457506107393/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EWcyaJ9XsAEjxMe.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 360,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 360,
+                        "h": 640,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 360,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587818180811"
+}

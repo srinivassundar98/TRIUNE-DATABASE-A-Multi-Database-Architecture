@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:42:19 +0000 2020",
+    "id": 1254043062176755712,
+    "id_str": "1254043062176755712",
+    "text": "@heltloco Jag tänker alltså att det är rätt så makabert att låsa in en del av populationen på det här sättet. I min… https://t.co/L5RfEkqxUc",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254042485543796737,
+    "in_reply_to_status_id_str": "1254042485543796737",
+    "in_reply_to_user_id": 317075432,
+    "in_reply_to_user_id_str": "317075432",
+    "in_reply_to_screen_name": "vonTanellen",
+    "user": {
+        "id": 317075432,
+        "id_str": "317075432",
+        "name": "zleksand ibrabajovic",
+        "screen_name": "vonTanellen",
+        "location": null,
+        "url": null,
+        "description": "äldre dam i hårig mans kropp",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 201,
+        "friends_count": 124,
+        "listed_count": 7,
+        "favourites_count": 3557,
+        "statuses_count": 11123,
+        "created_at": "Tue Jun 14 11:57:07 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249236969105883141/P4kRdx4__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249236969105883141/P4kRdx4__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/317075432/1426712357",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@heltloco Jag tänker alltså att det är rätt så makabert att låsa in en del av populationen på det här sättet. I min (inte helt genomtänkta) fantasi upplåter man gator och torg för (corona)friska från riskgrupper vissa tider på dygnet då alla vi andra får hålla oss hemma.",
+        "display_text_range": [
+            10,
+            271
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "heltloco",
+                    "name": "Kaveh Corona-Högrisk",
+                    "id": 25091939,
+                    "id_str": "25091939",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/L5RfEkqxUc",
+                "expanded_url": "https://twitter.com/i/web/status/1254043062176755712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "heltloco",
+                "name": "Kaveh Corona-Högrisk",
+                "id": 25091939,
+                "id_str": "25091939",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587822139673"
+}

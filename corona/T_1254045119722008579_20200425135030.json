@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 13:50:30 +0000 2020",
+    "id": 1254045119722008579,
+    "id_str": "1254045119722008579",
+    "text": "@AdaSecen @Ateistinsan_ Corona kuran da geçiyormu",
+    "display_text_range": [
+        24,
+        49
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254015810630307840,
+    "in_reply_to_status_id_str": "1254015810630307840",
+    "in_reply_to_user_id": 3785244466,
+    "in_reply_to_user_id_str": "3785244466",
+    "in_reply_to_screen_name": "AdaSecen",
+    "user": {
+        "id": 1231145322723905536,
+        "id_str": "1231145322723905536",
+        "name": "Recep Çevik",
+        "screen_name": "Recepev77395280",
+        "location": null,
+        "url": null,
+        "description": "ben olmam",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 88,
+        "listed_count": 0,
+        "favourites_count": 1319,
+        "statuses_count": 143,
+        "created_at": "Sat Feb 22 09:15:01 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235620880597815296/QoLxMXde_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235620880597815296/QoLxMXde_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AdaSecen",
+                "name": "Mustafa Secen",
+                "id": 3785244466,
+                "id_str": "3785244466",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "Ateistinsan_",
+                "name": "Ateistinsan_",
+                "id": 1251829282910896128,
+                "id_str": "1251829282910896128",
+                "indices": [
+                    10,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587822630230"
+}

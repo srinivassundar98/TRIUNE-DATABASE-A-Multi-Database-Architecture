@@ -1,0 +1,197 @@
+{
+    "created_at": "Sat Apr 25 14:28:19 +0000 2020",
+    "id": 1254054636253704192,
+    "id_str": "1254054636253704192",
+    "text": "@wiwikherma Sama hmmmmm... Obat CORONA https://t.co/iCCxzdGkCB",
+    "display_text_range": [
+        12,
+        38
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253994130201391104,
+    "in_reply_to_status_id_str": "1253994130201391104",
+    "in_reply_to_user_id": 315040374,
+    "in_reply_to_user_id_str": "315040374",
+    "in_reply_to_screen_name": "wiwikherma",
+    "user": {
+        "id": 546079773,
+        "id_str": "546079773",
+        "name": "Rifai",
+        "screen_name": "Rifai2053",
+        "location": "Palembang",
+        "url": "https://www.twitter.com",
+        "description": "Wong KAMPUNG TULEN..\nSemua Photo adalah Rezeky\ndari Allah SWT.",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 370,
+        "friends_count": 536,
+        "listed_count": 0,
+        "favourites_count": 1495,
+        "statuses_count": 430,
+        "created_at": "Thu Apr 05 14:00:52 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243816679794020353/B4wvY_K8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243816679794020353/B4wvY_K8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/546079773/1578399620",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "wiwikherma",
+                "name": "Wiwik Hermawati",
+                "id": 315040374,
+                "id_str": "315040374",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254053601787252737,
+                "id_str": "1254053601787252737",
+                "indices": [
+                    39,
+                    62
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254053601787252737/pu/img/k_kpU0NFiUtAZOk1.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254053601787252737/pu/img/k_kpU0NFiUtAZOk1.jpg",
+                "url": "https://t.co/iCCxzdGkCB",
+                "display_url": "pic.twitter.com/iCCxzdGkCB",
+                "expanded_url": "https://twitter.com/Rifai2053/status/1254054636253704192/video/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 368,
+                        "h": 656,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 368,
+                        "h": 656,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 368,
+                        "h": 656,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254053601787252737,
+                "id_str": "1254053601787252737",
+                "indices": [
+                    39,
+                    62
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254053601787252737/pu/img/k_kpU0NFiUtAZOk1.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254053601787252737/pu/img/k_kpU0NFiUtAZOk1.jpg",
+                "url": "https://t.co/iCCxzdGkCB",
+                "display_url": "pic.twitter.com/iCCxzdGkCB",
+                "expanded_url": "https://twitter.com/Rifai2053/status/1254054636253704192/video/1",
+                "type": "video",
+                "video_info": {
+                    "aspect_ratio": [
+                        23,
+                        41
+                    ],
+                    "duration_millis": 37700,
+                    "variants": [
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254053601787252737/pu/vid/320x570/yvEl5843J4thLsmR.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254053601787252737/pu/vid/368x656/npzSo4zsshOZqjLw.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1254053601787252737/pu/pl/a7qL1JWOqlJI6QVa.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "large": {
+                        "w": 368,
+                        "h": 656,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 368,
+                        "h": 656,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 368,
+                        "h": 656,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587824899148"
+}

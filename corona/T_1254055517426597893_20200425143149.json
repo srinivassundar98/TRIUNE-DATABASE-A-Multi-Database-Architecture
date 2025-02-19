@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:31:49 +0000 2020",
+    "id": 1254055517426597893,
+    "id_str": "1254055517426597893",
+    "text": "@tedlieu @realDonaldTrump People who use the test kits say it detects ANY corona virus, not specifically Wuhan viru… https://t.co/NkHYmh4sZ2",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253957699231870976,
+    "in_reply_to_status_id_str": "1253957699231870976",
+    "in_reply_to_user_id": 21059255,
+    "in_reply_to_user_id_str": "21059255",
+    "in_reply_to_screen_name": "tedlieu",
+    "user": {
+        "id": 1059970188722954240,
+        "id_str": "1059970188722954240",
+        "name": "xrayeyes",
+        "screen_name": "xrayeyes1",
+        "location": null,
+        "url": null,
+        "description": "Nothing cleans you out like a bowl of Chinese bioweapon.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 81,
+        "listed_count": 0,
+        "favourites_count": 40,
+        "statuses_count": 2729,
+        "created_at": "Wed Nov 07 00:46:01 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149834538203459584/SETGl7V3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149834538203459584/SETGl7V3_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059970188722954240/1585096426",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@tedlieu @realDonaldTrump People who use the test kits say it detects ANY corona virus, not specifically Wuhan virus, so the body count could easily be vastly inflated.   Additionally, the number of  people who recover without ever being tested is currently unknown. We may never know if Trump is right.",
+        "display_text_range": [
+            26,
+            303
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "tedlieu",
+                    "name": "Ted Lieu",
+                    "id": 21059255,
+                    "id_str": "21059255",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        9,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/NkHYmh4sZ2",
+                "expanded_url": "https://twitter.com/i/web/status/1254055517426597893",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "tedlieu",
+                "name": "Ted Lieu",
+                "id": 21059255,
+                "id_str": "21059255",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    9,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825109236"
+}

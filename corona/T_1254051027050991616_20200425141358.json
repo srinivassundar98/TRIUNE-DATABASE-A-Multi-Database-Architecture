@@ -1,0 +1,131 @@
+{
+    "created_at": "Sat Apr 25 14:13:58 +0000 2020",
+    "id": 1254051027050991616,
+    "id_str": "1254051027050991616",
+    "text": "@z2A_91 @RebeuCope77 T’es sure t’a pas le corona ? Perte de gout tout sa ? 🤣",
+    "display_text_range": [
+        21,
+        76
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254050286395678720,
+    "in_reply_to_status_id_str": "1254050286395678720",
+    "in_reply_to_user_id": 1106197387696136194,
+    "in_reply_to_user_id_str": "1106197387696136194",
+    "in_reply_to_screen_name": "z2A_91",
+    "user": {
+        "id": 1221166696536428551,
+        "id_str": "1221166696536428551",
+        "name": "Yvss_213 🇩🇿",
+        "screen_name": "213Yvss",
+        "location": "Essonne, Ile-de-France",
+        "url": null,
+        "description": "DZ POWER ♓️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 174,
+        "friends_count": 167,
+        "listed_count": 0,
+        "favourites_count": 2355,
+        "statuses_count": 1075,
+        "created_at": "Sat Jan 25 20:23:31 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245491668926844938/PiMcAv8Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245491668926844938/PiMcAv8Z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221166696536428551/1586233253",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0450b3f0fcc90f3a",
+        "url": "https://api.twitter.com/1.1/geo/id/0450b3f0fcc90f3a.json",
+        "place_type": "city",
+        "name": "Athis-Mons",
+        "full_name": "Athis-Mons, France",
+        "country_code": "FR",
+        "country": "France",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.353833,
+                        48.692002
+                    ],
+                    [
+                        2.353833,
+                        48.72652
+                    ],
+                    [
+                        2.415052,
+                        48.72652
+                    ],
+                    [
+                        2.415052,
+                        48.692002
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "z2A_91",
+                "name": "أزهار’🇲🇦Uchiha",
+                "id": 1106197387696136194,
+                "id_str": "1106197387696136194",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "RebeuCope77",
+                "name": "Portgas D. Meh 🇲🇦",
+                "id": 608214940,
+                "id_str": "608214940",
+                "indices": [
+                    8,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587824038647"
+}

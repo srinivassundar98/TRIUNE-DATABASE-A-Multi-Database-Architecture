@@ -1,0 +1,163 @@
+{
+    "created_at": "Sun Apr 12 18:41:23 +0000 2020",
+    "id": 1249407281302851586,
+    "id_str": "1249407281302851586",
+    "text": "@luizbssantos @pandainbadmood @AiltonBenedito Isso mesmo! Nem familiares podem ter contato. Cabrini fez uma reporta… https://t.co/eK3sQeKbyj",
+    "display_text_range": [
+        46,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1248999652919255041,
+    "in_reply_to_status_id_str": "1248999652919255041",
+    "in_reply_to_user_id": 103127282,
+    "in_reply_to_user_id_str": "103127282",
+    "in_reply_to_screen_name": "luizbssantos",
+    "user": {
+        "id": 1138223056562921472,
+        "id_str": "1138223056562921472",
+        "name": "Regina",
+        "screen_name": "Regina67246421",
+        "location": null,
+        "url": null,
+        "description": ".",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 101,
+        "friends_count": 628,
+        "listed_count": 0,
+        "favourites_count": 2815,
+        "statuses_count": 798,
+        "created_at": "Mon Jun 10 23:14:58 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149175593575047168/HCY1vfp7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149175593575047168/HCY1vfp7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138223056562921472/1562819790",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@luizbssantos @pandainbadmood @AiltonBenedito Isso mesmo! Nem familiares podem ter contato. Cabrini fez uma reportagem do corona  Taubaté e outras cidades tinha macas com pacientes  deu medo! Que situação!!",
+        "display_text_range": [
+            46,
+            206
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "luizbssantos",
+                    "name": "Luiz LULA",
+                    "id": 103127282,
+                    "id_str": "103127282",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "pandainbadmood",
+                    "name": "Pando",
+                    "id": 1235173708026777600,
+                    "id_str": "1235173708026777600",
+                    "indices": [
+                        14,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "AiltonBenedito",
+                    "name": "🇧🇷Ailton Benedito",
+                    "id": 342403919,
+                    "id_str": "342403919",
+                    "indices": [
+                        30,
+                        45
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/eK3sQeKbyj",
+                "expanded_url": "https://twitter.com/i/web/status/1249407281302851586",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "luizbssantos",
+                "name": "Luiz LULA",
+                "id": 103127282,
+                "id_str": "103127282",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "pandainbadmood",
+                "name": "Pando",
+                "id": 1235173708026777600,
+                "id_str": "1235173708026777600",
+                "indices": [
+                    14,
+                    29
+                ]
+            },
+            {
+                "screen_name": "AiltonBenedito",
+                "name": "🇧🇷Ailton Benedito",
+                "id": 342403919,
+                "id_str": "342403919",
+                "indices": [
+                    30,
+                    45
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716883384"
+}

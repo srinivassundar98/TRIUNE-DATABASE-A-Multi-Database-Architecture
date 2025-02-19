@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 12:24:36 +0000 2020",
+    "id": 1254023504808144896,
+    "id_str": "1254023504808144896",
+    "text": "@ZulfiqarBadri Kalau kukus pun tak pandai baik bagi kena corona",
+    "display_text_range": [
+        15,
+        63
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254023082974445568,
+    "in_reply_to_status_id_str": "1254023082974445568",
+    "in_reply_to_user_id": 340708306,
+    "in_reply_to_user_id_str": "340708306",
+    "in_reply_to_screen_name": "ZulfiqarBadri",
+    "user": {
+        "id": 543500748,
+        "id_str": "543500748",
+        "name": "NazreenGyllenhaal",
+        "screen_name": "MohamedNazreen",
+        "location": "Penang",
+        "url": null,
+        "description": "mohamednazreen25@gmail.com Jake Gyllenhaal biggest fan.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 519,
+        "friends_count": 631,
+        "listed_count": 2,
+        "favourites_count": 85008,
+        "statuses_count": 14356,
+        "created_at": "Mon Apr 02 13:35:58 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112170795864748033/p3uP4aZQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112170795864748033/p3uP4aZQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/543500748/1562652568",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "4b379e63f06aa178",
+        "url": "https://api.twitter.com/1.1/geo/id/4b379e63f06aa178.json",
+        "place_type": "admin",
+        "name": "Kuala Muda",
+        "full_name": "Kuala Muda, Kedah",
+        "country_code": "MY",
+        "country": "Malaysia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        100.331322,
+                        5.530437
+                    ],
+                    [
+                        100.331322,
+                        5.872248
+                    ],
+                    [
+                        100.671715,
+                        5.872248
+                    ],
+                    [
+                        100.671715,
+                        5.530437
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ZulfiqarBadri",
+                "name": "Zulfiqar Badri",
+                "id": 340708306,
+                "id_str": "340708306",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587817476833"
+}

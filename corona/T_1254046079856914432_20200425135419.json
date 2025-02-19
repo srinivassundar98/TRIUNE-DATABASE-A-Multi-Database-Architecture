@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:54:19 +0000 2020",
+    "id": 1254046079856914432,
+    "id_str": "1254046079856914432",
+    "text": "@jazzdancer1 Lamentablemente, en USA la ignorancia abunda. Por allí escuché una mujer diciendo que la pandemia es c… https://t.co/zFoJcFOUe7",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254003124320305152,
+    "in_reply_to_status_id_str": "1254003124320305152",
+    "in_reply_to_user_id": 48362042,
+    "in_reply_to_user_id_str": "48362042",
+    "in_reply_to_screen_name": "jazzdancer1",
+    "user": {
+        "id": 7851372,
+        "id_str": "7851372",
+        "name": "Kika",
+        "screen_name": "la_kika_",
+        "location": "here",
+        "url": "http://naturisima.net",
+        "description": "In a time of universal deceit - telling the truth is a revolutionary act. - George Orwell",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2889,
+        "friends_count": 2592,
+        "listed_count": 95,
+        "favourites_count": 9627,
+        "statuses_count": 52204,
+        "created_at": "Tue Jul 31 16:17:26 +0000 2007",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3343941698/86c9a923ed0c6d2a2b9cc4082f0505f4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3343941698/86c9a923ed0c6d2a2b9cc4082f0505f4_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7851372/1430443332",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@jazzdancer1 Lamentablemente, en USA la ignorancia abunda. Por allí escuché una mujer diciendo que la pandemia es culpa de los mexicanos porque ellos son los que producen el “corona beer” (beer=virus???)",
+        "display_text_range": [
+            13,
+            203
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jazzdancer1",
+                    "name": "Jazzdancer1",
+                    "id": 48362042,
+                    "id_str": "48362042",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/zFoJcFOUe7",
+                "expanded_url": "https://twitter.com/i/web/status/1254046079856914432",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jazzdancer1",
+                "name": "Jazzdancer1",
+                "id": 48362042,
+                "id_str": "48362042",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587822859144"
+}

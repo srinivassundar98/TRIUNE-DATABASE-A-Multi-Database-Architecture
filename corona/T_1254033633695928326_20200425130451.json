@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 13:04:51 +0000 2020",
+    "id": 1254033633695928326,
+    "id_str": "1254033633695928326",
+    "text": "@AlbertoBagnai Anche perché queste disposizioni sono state esplicitamente accettate dalla controparte: https://t.co/wBZzp1sK46",
+    "display_text_range": [
+        15,
+        126
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254011871608344576,
+    "in_reply_to_status_id_str": "1254011871608344576",
+    "in_reply_to_user_id": 560653350,
+    "in_reply_to_user_id_str": "560653350",
+    "in_reply_to_screen_name": "MarcoCroce",
+    "user": {
+        "id": 560653350,
+        "id_str": "560653350",
+        "name": "Marco Croce",
+        "screen_name": "MarcoCroce",
+        "location": "unifi.academia.edu/MarcoCroce",
+        "url": "http://www.dsg.unifi.it/p-doc2-2017-0-C-3f2b342f3b3031-0.html",
+        "description": "Precario da sempre.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 12,
+        "friends_count": 28,
+        "listed_count": 0,
+        "favourites_count": 59,
+        "statuses_count": 50,
+        "created_at": "Sun Apr 22 20:24:01 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193661801025744898/UCgMJNub_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193661801025744898/UCgMJNub_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/560653350/1573426126",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/wBZzp1sK46",
+                "expanded_url": "https://www.chiesacattolica.it/decreto-coronavirus-la-posizione-della-cei/",
+                "display_url": "chiesacattolica.it/decreto-corona…",
+                "indices": [
+                    103,
+                    126
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AlbertoBagnai",
+                "name": "Alberto Bagnai",
+                "id": 876541483,
+                "id_str": "876541483",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "it",
+    "timestamp_ms": "1587819891748"
+}

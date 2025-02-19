@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:41:00 +0000 2020",
+    "id": 1254042732172947456,
+    "id_str": "1254042732172947456",
+    "text": "@hernindashf Tos dong lulus jalur Corona yg blm pasti di dapet setiap tahunnya 🍻 selamat nin",
+    "display_text_range": [
+        13,
+        92
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253955989616951296,
+    "in_reply_to_status_id_str": "1253955989616951296",
+    "in_reply_to_user_id": 575364867,
+    "in_reply_to_user_id_str": "575364867",
+    "in_reply_to_screen_name": "hernindashf",
+    "user": {
+        "id": 1096807751907328000,
+        "id_str": "1096807751907328000",
+        "name": "Driver Grab",
+        "screen_name": "egi_rat",
+        "location": "Pekalongan, Indonesia",
+        "url": null,
+        "description": "sing Penting YAKIN Senggol tabrak",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 83,
+        "friends_count": 120,
+        "listed_count": 0,
+        "favourites_count": 527,
+        "statuses_count": 987,
+        "created_at": "Sat Feb 16 16:25:20 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190642403805483013/dWhMan5S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190642403805483013/dWhMan5S_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096807751907328000/1575801176",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0670d4f5f55479a0",
+        "url": "https://api.twitter.com/1.1/geo/id/0670d4f5f55479a0.json",
+        "place_type": "city",
+        "name": "Pekalongan Timur",
+        "full_name": "Pekalongan Timur, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        109.670474,
+                        -6.91264
+                    ],
+                    [
+                        109.670474,
+                        -6.872063
+                    ],
+                    [
+                        109.705691,
+                        -6.872063
+                    ],
+                    [
+                        109.705691,
+                        -6.91264
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "hernindashf",
+                "name": "Herninda Shifa",
+                "id": 575364867,
+                "id_str": "575364867",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822060994"
+}

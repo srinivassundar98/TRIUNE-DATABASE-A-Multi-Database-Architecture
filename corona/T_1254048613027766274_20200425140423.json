@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 14:04:23 +0000 2020",
+    "id": 1254048613027766274,
+    "id_str": "1254048613027766274",
+    "text": "Pal naast Schiphol wonen en dan vanmiddag ineens opschrikken van een overvliegend vliegtuig. ✈️ Wat corona al niet… https://t.co/jG5Yq88zJc",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 290710664,
+        "id_str": "290710664",
+        "name": "Ronald hh Ganzeboom",
+        "screen_name": "RhhG_Gans",
+        "location": "de polder",
+        "url": null,
+        "description": "Een poule is geen pool is geen poel en zeker geen Pool ...\nRhhG_Gans heeft een telefoon.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 300,
+        "friends_count": 576,
+        "listed_count": 9,
+        "favourites_count": 497,
+        "statuses_count": 6587,
+        "created_at": "Sat Apr 30 19:28:04 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/547688929453826050/ee4ZwOZP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/547688929453826050/ee4ZwOZP_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/290710664/1392718847",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "d8b140854485d594",
+        "url": "https://api.twitter.com/1.1/geo/id/d8b140854485d594.json",
+        "place_type": "city",
+        "name": "Aalsmeer",
+        "full_name": "Aalsmeer, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        4.669566,
+                        52.216469
+                    ],
+                    [
+                        4.669566,
+                        52.305786
+                    ],
+                    [
+                        4.824061,
+                        52.305786
+                    ],
+                    [
+                        4.824061,
+                        52.216469
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Pal naast Schiphol wonen en dan vanmiddag ineens opschrikken van een overvliegend vliegtuig. ✈️ Wat corona al niet met je doet ... 🤔 #Covid_19 #blijfinuwkot #Aalsmeer",
+        "display_text_range": [
+            0,
+            166
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        133,
+                        142
+                    ]
+                },
+                {
+                    "text": "blijfinuwkot",
+                    "indices": [
+                        143,
+                        156
+                    ]
+                },
+                {
+                    "text": "Aalsmeer",
+                    "indices": [
+                        157,
+                        166
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/jG5Yq88zJc",
+                "expanded_url": "https://twitter.com/i/web/status/1254048613027766274",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587823463099"
+}

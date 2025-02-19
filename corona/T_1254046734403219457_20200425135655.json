@@ -1,0 +1,183 @@
+{
+    "created_at": "Sat Apr 25 13:56:55 +0000 2020",
+    "id": 1254046734403219457,
+    "id_str": "1254046734403219457",
+    "text": "@zenutopia1 @BThekick @dr_l_alexandre @ARosencher Vous ne répondez pas a la question. Au début de la crise du coron… https://t.co/4fZLvUV8To",
+    "display_text_range": [
+        50,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254045576091635713,
+    "in_reply_to_status_id_str": "1254045576091635713",
+    "in_reply_to_user_id": 1070981206190288897,
+    "in_reply_to_user_id_str": "1070981206190288897",
+    "in_reply_to_screen_name": "zenutopia1",
+    "user": {
+        "id": 1243864132060950528,
+        "id_str": "1243864132060950528",
+        "name": "Messager d'Allah.",
+        "screen_name": "Allah_M1",
+        "location": null,
+        "url": null,
+        "description": "Guide spirituel.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 61,
+        "listed_count": 0,
+        "favourites_count": 33,
+        "statuses_count": 175,
+        "created_at": "Sat Mar 28 11:35:05 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243889330713694208/_pIjfBW1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243889330713694208/_pIjfBW1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243864132060950528/1585401775",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@zenutopia1 @BThekick @dr_l_alexandre @ARosencher Vous ne répondez pas a la question. Au début de la crise du corona vous êtes passé d un profil d un gars passionné de SF a pendant un ou 2 jours une description de profil laissant penser que vous aviez des compétences en médecine. Profil que vous avez rapidement abandonné.",
+        "display_text_range": [
+            50,
+            323
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "zenutopia1",
+                    "name": "zenutopia",
+                    "id": 1070981206190288897,
+                    "id_str": "1070981206190288897",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "BThekick",
+                    "name": "Billy thekick",
+                    "id": 1173969305664458752,
+                    "id_str": "1173969305664458752",
+                    "indices": [
+                        12,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "dr_l_alexandre",
+                    "name": "Laurent Alexandre",
+                    "id": 945473418,
+                    "id_str": "945473418",
+                    "indices": [
+                        22,
+                        37
+                    ]
+                },
+                {
+                    "screen_name": "ARosencher",
+                    "name": "Anne Rosencher",
+                    "id": 432399815,
+                    "id_str": "432399815",
+                    "indices": [
+                        38,
+                        49
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/4fZLvUV8To",
+                "expanded_url": "https://twitter.com/i/web/status/1254046734403219457",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "zenutopia1",
+                "name": "zenutopia",
+                "id": 1070981206190288897,
+                "id_str": "1070981206190288897",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "BThekick",
+                "name": "Billy thekick",
+                "id": 1173969305664458752,
+                "id_str": "1173969305664458752",
+                "indices": [
+                    12,
+                    21
+                ]
+            },
+            {
+                "screen_name": "dr_l_alexandre",
+                "name": "Laurent Alexandre",
+                "id": 945473418,
+                "id_str": "945473418",
+                "indices": [
+                    22,
+                    37
+                ]
+            },
+            {
+                "screen_name": "ARosencher",
+                "name": "Anne Rosencher",
+                "id": 432399815,
+                "id_str": "432399815",
+                "indices": [
+                    38,
+                    49
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587823015200"
+}

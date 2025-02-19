@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:03:15 +0000 2020",
+    "id": 1254033229734121472,
+    "id_str": "1254033229734121472",
+    "text": "@NPR @ElaineYoung94 THE CORONA IS COMING HOME TO ROOST, Mr PRESIDENT,",
+    "display_text_range": [
+        20,
+        69
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253775340612259840,
+    "in_reply_to_status_id_str": "1253775340612259840",
+    "in_reply_to_user_id": 5392522,
+    "in_reply_to_user_id_str": "5392522",
+    "in_reply_to_screen_name": "NPR",
+    "user": {
+        "id": 1253393796508930048,
+        "id_str": "1253393796508930048",
+        "name": "Steve Gadd",
+        "screen_name": "SteveGadd17",
+        "location": "Dun Laoghaire-Rathdown, Irelan",
+        "url": null,
+        "description": "Musician",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 32,
+        "listed_count": 0,
+        "favourites_count": 10,
+        "statuses_count": 24,
+        "created_at": "Thu Apr 23 18:42:45 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253781726859612161/aVUhdjTF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253781726859612161/aVUhdjTF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253393796508930048/1587668125",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "NPR",
+                "name": "NPR",
+                "id": 5392522,
+                "id_str": "5392522",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "screen_name": "ElaineYoung94",
+                "name": "Elaine Young",
+                "id": 447457752,
+                "id_str": "447457752",
+                "indices": [
+                    5,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819795436"
+}

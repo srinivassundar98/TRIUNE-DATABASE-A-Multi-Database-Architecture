@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:55:02 +0000 2020",
+    "id": 1254046262346887169,
+    "id_str": "1254046262346887169",
+    "text": "@NicoleSpiering @erikmouthaanRTL Voorlopig ...Het grootste begrotingstekort buiten oorlogstijd.  Nu we zo ongeloofl… https://t.co/hFLEX26BHG",
+    "display_text_range": [
+        33,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254039695098548224,
+    "in_reply_to_status_id_str": "1254039695098548224",
+    "in_reply_to_user_id": 322261581,
+    "in_reply_to_user_id_str": "322261581",
+    "in_reply_to_screen_name": "NicoleSpiering",
+    "user": {
+        "id": 560566506,
+        "id_str": "560566506",
+        "name": "hetta schultz",
+        "screen_name": "hettaschultz",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 90,
+        "friends_count": 285,
+        "listed_count": 0,
+        "favourites_count": 2760,
+        "statuses_count": 896,
+        "created_at": "Sun Apr 22 18:11:55 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2157279467/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2157279467/image_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@NicoleSpiering @erikmouthaanRTL Voorlopig ...Het grootste begrotingstekort buiten oorlogstijd.  Nu we zo ongelooflijk veel uitgeven, geldt baanzekerheid ook voor ambtenaren alleen tot corona het land uit is. Maar goed, wat moet dat moet. Eerst deze crisis maar te boven zien te komen.",
+        "display_text_range": [
+            33,
+            285
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NicoleSpiering",
+                    "name": "Nicole Spiering",
+                    "id": 322261581,
+                    "id_str": "322261581",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "erikmouthaanRTL",
+                    "name": "Erik Mouthaan",
+                    "id": 9130642,
+                    "id_str": "9130642",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/hFLEX26BHG",
+                "expanded_url": "https://twitter.com/i/web/status/1254046262346887169",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "NicoleSpiering",
+                "name": "Nicole Spiering",
+                "id": 322261581,
+                "id_str": "322261581",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "erikmouthaanRTL",
+                "name": "Erik Mouthaan",
+                "id": 9130642,
+                "id_str": "9130642",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587822902653"
+}

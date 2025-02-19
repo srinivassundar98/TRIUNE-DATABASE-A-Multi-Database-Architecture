@@ -1,0 +1,251 @@
+{
+    "created_at": "Sat Apr 25 12:44:24 +0000 2020",
+    "id": 1254028485959446529,
+    "id_str": "1254028485959446529",
+    "text": "\"I share a special bond with my grandchildren and this is the first time in the last 8 years where I am unable to m… https://t.co/8s858cijxB",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 914437375131918338,
+        "id_str": "914437375131918338",
+        "name": "Humans Of Andhra",
+        "screen_name": "HumansOfAndhra",
+        "location": "Andhra Pradesh, India",
+        "url": "https://www.facebook.com/HumansOfAndhraOrg/",
+        "description": "Humans of Andhra will bring you stories that will mirror the social, economic and cultural snapshot of vibrant Andhra Pradesh.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 283,
+        "friends_count": 3,
+        "listed_count": 1,
+        "favourites_count": 124,
+        "statuses_count": 434,
+        "created_at": "Sun Oct 01 10:30:34 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/914438631363715072/sjlT4k6N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/914438631363715072/sjlT4k6N_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/914437375131918338/1543583623",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "11518b24a4c98c53",
+        "url": "https://api.twitter.com/1.1/geo/id/11518b24a4c98c53.json",
+        "place_type": "city",
+        "name": "Repalle",
+        "full_name": "Repalle, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        80.810456,
+                        16.007727
+                    ],
+                    [
+                        80.810456,
+                        16.028502
+                    ],
+                    [
+                        80.846787,
+                        16.028502
+                    ],
+                    [
+                        80.846787,
+                        16.007727
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "\"I share a special bond with my grandchildren and this is the first time in the last 8 years where I am unable to meet them during the summer vacation because of the nation wide lockdown. \"\n\nFull Story &gt;&gt; https://t.co/bfyvjCKNWX\n\n#Family #Covid19India #CoronaVirusLockdown #Corona https://t.co/7WtPZ3Xo89",
+        "display_text_range": [
+            0,
+            286
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Family",
+                    "indices": [
+                        236,
+                        243
+                    ]
+                },
+                {
+                    "text": "Covid19India",
+                    "indices": [
+                        244,
+                        257
+                    ]
+                },
+                {
+                    "text": "CoronaVirusLockdown",
+                    "indices": [
+                        258,
+                        278
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        279,
+                        286
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/bfyvjCKNWX",
+                    "expanded_url": "http://bit.ly/3bEhTho",
+                    "display_url": "bit.ly/3bEhTho",
+                    "indices": [
+                        211,
+                        234
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254028476283105283,
+                    "id_str": "1254028476283105283",
+                    "indices": [
+                        287,
+                        310
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc0QUsUMAMFLcM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc0QUsUMAMFLcM.jpg",
+                    "url": "https://t.co/7WtPZ3Xo89",
+                    "display_url": "pic.twitter.com/7WtPZ3Xo89",
+                    "expanded_url": "https://twitter.com/HumansOfAndhra/status/1254028485959446529/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 454,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 684,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 684,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254028476283105283,
+                    "id_str": "1254028476283105283",
+                    "indices": [
+                        287,
+                        310
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc0QUsUMAMFLcM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc0QUsUMAMFLcM.jpg",
+                    "url": "https://t.co/7WtPZ3Xo89",
+                    "display_url": "pic.twitter.com/7WtPZ3Xo89",
+                    "expanded_url": "https://twitter.com/HumansOfAndhra/status/1254028485959446529/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 454,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 684,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 684,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/8s858cijxB",
+                "expanded_url": "https://twitter.com/i/web/status/1254028485959446529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818664432"
+}

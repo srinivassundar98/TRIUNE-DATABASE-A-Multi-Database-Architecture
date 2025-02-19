@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:57:13 +0000 2020",
+    "id": 1254046809162301440,
+    "id_str": "1254046809162301440",
+    "text": "Masih membahas corona🙃 https://t.co/mRrx00qEYJ",
+    "display_text_range": [
+        0,
+        22
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 921940387,
+        "id_str": "921940387",
+        "name": "devina",
+        "screen_name": "yunseongaku",
+        "location": "Terabithia",
+        "url": "https://www.instagram.com/p/B2gw4XSlPSg/?igshid=73rgdhrw9e8l",
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 501,
+        "friends_count": 905,
+        "listed_count": 1,
+        "favourites_count": 10539,
+        "statuses_count": 29019,
+        "created_at": "Fri Nov 02 22:41:09 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "913F4F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "693261",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248169745527885824/ZoD0CXB__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248169745527885824/ZoD0CXB__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/921940387/1587726940",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254046794557743105,
+                "id_str": "1254046794557743105",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdE6llU4AEU18r.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdE6llU4AEU18r.jpg",
+                "url": "https://t.co/mRrx00qEYJ",
+                "display_url": "pic.twitter.com/mRrx00qEYJ",
+                "expanded_url": "https://twitter.com/yunseongaku/status/1254046809162301440/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 1334,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 382,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254046794557743105,
+                "id_str": "1254046794557743105",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdE6llU4AEU18r.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdE6llU4AEU18r.jpg",
+                "url": "https://t.co/mRrx00qEYJ",
+                "display_url": "pic.twitter.com/mRrx00qEYJ",
+                "expanded_url": "https://twitter.com/yunseongaku/status/1254046809162301440/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 750,
+                        "h": 1334,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 382,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587823033024"
+}

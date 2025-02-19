@@ -1,0 +1,106 @@
+{
+    "created_at": "Sun Apr 12 18:34:15 +0000 2020",
+    "id": 1249405487654694912,
+    "id_str": "1249405487654694912",
+    "text": "I can't wait to buy a dog cage for my baby corona 🐶💕",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 323293231,
+        "id_str": "323293231",
+        "name": "Maverick Miranda Arceo",
+        "screen_name": "HeyMaverick1993",
+        "location": "Angeles City, Central Luzon",
+        "url": "http://www.instagram.com/heymaverick1993",
+        "description": "27 | 90's Kid | Out & Proud | Kapampangan | Non-conformist",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 88979,
+        "friends_count": 220,
+        "listed_count": 182,
+        "favourites_count": 7750,
+        "statuses_count": 9869,
+        "created_at": "Fri Jun 24 15:49:20 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C9FA05",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "0A0A0A",
+        "profile_sidebar_fill_color": "020008",
+        "profile_text_color": "F70AF7",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246148268121190400/za6vjZ5H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246148268121190400/za6vjZ5H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/323293231/1586551998",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0106455f3a843910",
+        "url": "https://api.twitter.com/1.1/geo/id/0106455f3a843910.json",
+        "place_type": "city",
+        "name": "Angeles City",
+        "full_name": "Angeles City, Central Luzon",
+        "country_code": "PH",
+        "country": "Republic of the Philippines",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        120.497794,
+                        15.112006
+                    ],
+                    [
+                        120.497794,
+                        15.187234
+                    ],
+                    [
+                        120.64,
+                        15.187234
+                    ],
+                    [
+                        120.64,
+                        15.112006
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716455745"
+}

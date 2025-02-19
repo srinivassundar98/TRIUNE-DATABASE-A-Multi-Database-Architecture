@@ -1,0 +1,162 @@
+{
+    "created_at": "Sun Apr 12 18:38:46 +0000 2020",
+    "id": 1249406624684339200,
+    "id_str": "1249406624684339200",
+    "text": "@aajtak @nstomar @manjeetnegilive Garib majdur/kisan log hi marenge. Corona wajase ho ya bhuk ke wajase.govt Soch r… https://t.co/25JaLEtBO7",
+    "display_text_range": [
+        34,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249402511691149314,
+    "in_reply_to_status_id_str": "1249402511691149314",
+    "in_reply_to_user_id": 42606652,
+    "in_reply_to_user_id_str": "42606652",
+    "in_reply_to_screen_name": "aajtak",
+    "user": {
+        "id": 1249397770210824192,
+        "id_str": "1249397770210824192",
+        "name": "Sachin kumar Sahu",
+        "screen_name": "Sachink69085656",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 38,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 1,
+        "created_at": "Sun Apr 12 18:03:55 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249398209518030848/H2ubdhc7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249398209518030848/H2ubdhc7_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@aajtak @nstomar @manjeetnegilive Garib majdur/kisan log hi marenge. Corona wajase ho ya bhuk ke wajase.govt Soch rahi he. de v rahi he garib logo keliye par garib k Pas Kaha pahach Raha he sab to kha de rahe hai amir log.or garib mar rahe hai..",
+        "display_text_range": [
+            34,
+            245
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "aajtak",
+                    "name": "aajtak",
+                    "id": 42606652,
+                    "id_str": "42606652",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "nstomar",
+                    "name": "Narendra Singh Tomar",
+                    "id": 2591161099,
+                    "id_str": "2591161099",
+                    "indices": [
+                        8,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "manjeetnegilive",
+                    "name": "Manjeet Negi",
+                    "id": 564506627,
+                    "id_str": "564506627",
+                    "indices": [
+                        17,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/25JaLEtBO7",
+                "expanded_url": "https://twitter.com/i/web/status/1249406624684339200",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "aajtak",
+                "name": "aajtak",
+                "id": 42606652,
+                "id_str": "42606652",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "nstomar",
+                "name": "Narendra Singh Tomar",
+                "id": 2591161099,
+                "id_str": "2591161099",
+                "indices": [
+                    8,
+                    16
+                ]
+            },
+            {
+                "screen_name": "manjeetnegilive",
+                "name": "Manjeet Negi",
+                "id": 564506627,
+                "id_str": "564506627",
+                "indices": [
+                    17,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1586716726834"
+}

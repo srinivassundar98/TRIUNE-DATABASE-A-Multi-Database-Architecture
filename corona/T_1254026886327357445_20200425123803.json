@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:38:03 +0000 2020",
+    "id": 1254026886327357445,
+    "id_str": "1254026886327357445",
+    "text": "@elongreen @BrandyLJensen It's like what's on special, throw it in the cart, let's get home and try not to die from corona",
+    "display_text_range": [
+        26,
+        122
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253851845824589833,
+    "in_reply_to_status_id_str": "1253851845824589833",
+    "in_reply_to_user_id": 340644602,
+    "in_reply_to_user_id_str": "340644602",
+    "in_reply_to_screen_name": "elongreen",
+    "user": {
+        "id": 487179602,
+        "id_str": "487179602",
+        "name": "Ryan Hopprich",
+        "screen_name": "zinoviev1",
+        "location": "Adelaide, Australia",
+        "url": "http://www.pathologyjournal.rcpa.edu.au/article/S0031-3025(16)32455-2/references",
+        "description": "Microbiology Medical Scientist, Progressive, Environmentalist, Pro Worker, Australian, New York Knicks fan. Not in that order.\n\nTweets are my own.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 651,
+        "friends_count": 990,
+        "listed_count": 7,
+        "favourites_count": 54427,
+        "statuses_count": 24192,
+        "created_at": "Thu Feb 09 02:54:20 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151765701352230912/7sjZRXPE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151765701352230912/7sjZRXPE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/487179602/1563436965",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "elongreen",
+                "name": "Elon Green",
+                "id": 340644602,
+                "id_str": "340644602",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "BrandyLJensen",
+                "name": "Brandy Jensen",
+                "id": 3099901028,
+                "id_str": "3099901028",
+                "indices": [
+                    11,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818283050"
+}

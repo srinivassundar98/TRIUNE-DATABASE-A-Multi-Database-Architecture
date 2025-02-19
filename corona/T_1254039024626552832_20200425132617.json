@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:26:17 +0000 2020",
+    "id": 1254039024626552832,
+    "id_str": "1254039024626552832",
+    "text": "Corona Effects https://t.co/Raig8rSzfs",
+    "display_text_range": [
+        0,
+        14
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 4387205068,
+        "id_str": "4387205068",
+        "name": "Nauman",
+        "screen_name": "NaumanPhonak",
+        "location": "Kingdom of Saudi Arabia",
+        "url": "http://www.almadina.com.sa/hearing",
+        "description": "Respect / ‏Trust / Friends",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 6,
+        "listed_count": 0,
+        "favourites_count": 1,
+        "statuses_count": 21,
+        "created_at": "Sat Dec 05 21:43:17 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253064420508536832/YajyldsV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253064420508536832/YajyldsV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4387205068/1587588813",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254039020587360256,
+                "id_str": "1254039020587360256",
+                "indices": [
+                    15,
+                    38
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc92FSWoAAD4ok.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc92FSWoAAD4ok.jpg",
+                "url": "https://t.co/Raig8rSzfs",
+                "display_url": "pic.twitter.com/Raig8rSzfs",
+                "expanded_url": "https://twitter.com/NaumanPhonak/status/1254039024626552832/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 499,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 752,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 752,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254039020587360256,
+                "id_str": "1254039020587360256",
+                "indices": [
+                    15,
+                    38
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc92FSWoAAD4ok.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc92FSWoAAD4ok.jpg",
+                "url": "https://t.co/Raig8rSzfs",
+                "display_url": "pic.twitter.com/Raig8rSzfs",
+                "expanded_url": "https://twitter.com/NaumanPhonak/status/1254039024626552832/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 499,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 752,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 752,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821177046"
+}

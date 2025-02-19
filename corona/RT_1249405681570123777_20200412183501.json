@@ -1,0 +1,641 @@
+{
+    "created_at": "Sun Apr 12 18:35:01 +0000 2020",
+    "id": 1249405681570123777,
+    "id_str": "1249405681570123777",
+    "text": "RT @ohakan58: Live har Sveavägen 68 förbjudit Stefan uppträda, det går alltid åt pipsvängen. Det måste spelas in, frågorna mailas på Svensk…",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 996791401,
+        "id_str": "996791401",
+        "name": "Thomas Axelsson",
+        "screen_name": "AxelssonTha",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 104,
+        "friends_count": 84,
+        "listed_count": 0,
+        "favourites_count": 32373,
+        "statuses_count": 55689,
+        "created_at": "Sat Dec 08 09:10:54 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3166277079/cc494c10dc4013ef2123941600ddb40d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3166277079/cc494c10dc4013ef2123941600ddb40d_normal.jpeg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 17:16:35 +0000 2020",
+        "id": 1249385940264595457,
+        "id_str": "1249385940264595457",
+        "text": "Live har Sveavägen 68 förbjudit Stefan uppträda, det går alltid åt pipsvängen. Det måste spelas in, frågorna mailas… https://t.co/BSbVbIoCyu",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2769799019,
+            "id_str": "2769799019",
+            "name": "Håkan Olofsson",
+            "screen_name": "ohakan58",
+            "location": null,
+            "url": null,
+            "description": "Trött på allt hyckleri från etablerade politiker och Vänstermedia samt att detta är min högst personliga åsikt jag framför här på Twitter🌞",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1777,
+            "friends_count": 1924,
+            "listed_count": 0,
+            "favourites_count": 18819,
+            "statuses_count": 11707,
+            "created_at": "Sun Sep 14 08:09:33 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1027473973989330944/Q1zwVD0f_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027473973989330944/Q1zwVD0f_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2769799019/1525788517",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1249361529981603848,
+        "quoted_status_id_str": "1249361529981603848",
+        "quoted_status": {
+            "created_at": "Sun Apr 12 15:39:35 +0000 2020",
+            "id": 1249361529981603848,
+            "id_str": "1249361529981603848",
+            "text": "Direktsänd presskonferens i USA på @CNN . Är det någon som vet när Löfven har direktsänd pressträff idag med fria o… https://t.co/XNVMKqJ3js",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 298744792,
+                "id_str": "298744792",
+                "name": "Lars Beckman",
+                "screen_name": "beckmansasikter",
+                "location": "Gävle, Sverige",
+                "url": "http://www.larsbeckman.se",
+                "description": "Hela länets personvalda Riksdagsledamot för Gävleborg! (M) Sverige behöver fler i jobb och ökad företagsamhet! Ledamot Civilutskottet 070-3613696",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 18038,
+                "friends_count": 19807,
+                "listed_count": 182,
+                "favourites_count": 224155,
+                "statuses_count": 333307,
+                "created_at": "Sat May 14 21:19:24 +0000 2011",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/965939263761137664/xqIZfysG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/965939263761137664/xqIZfysG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/298744792/1519133276",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Direktsänd presskonferens i USA på @CNN . Är det någon som vet när Löfven har direktsänd pressträff idag med fria och oberoende medier som kan ställa frågor? #corona #cnn https://t.co/32kaaRyMMr",
+                "display_text_range": [
+                    0,
+                    170
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "corona",
+                            "indices": [
+                                158,
+                                165
+                            ]
+                        },
+                        {
+                            "text": "cnn",
+                            "indices": [
+                                166,
+                                170
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "CNN",
+                            "name": "CNN",
+                            "id": 759251,
+                            "id_str": "759251",
+                            "indices": [
+                                35,
+                                39
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1249361522087866368,
+                            "id_str": "1249361522087866368",
+                            "indices": [
+                                171,
+                                194
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVafr1gWsAAPta4.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVafr1gWsAAPta4.jpg",
+                            "url": "https://t.co/32kaaRyMMr",
+                            "display_url": "pic.twitter.com/32kaaRyMMr",
+                            "expanded_url": "https://twitter.com/beckmansasikter/status/1249361529981603848/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1249361522087866368,
+                            "id_str": "1249361522087866368",
+                            "indices": [
+                                171,
+                                194
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVafr1gWsAAPta4.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVafr1gWsAAPta4.jpg",
+                            "url": "https://t.co/32kaaRyMMr",
+                            "display_url": "pic.twitter.com/32kaaRyMMr",
+                            "expanded_url": "https://twitter.com/beckmansasikter/status/1249361529981603848/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 3,
+            "reply_count": 5,
+            "retweet_count": 1,
+            "favorite_count": 15,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/XNVMKqJ3js",
+                        "expanded_url": "https://twitter.com/i/web/status/1249361529981603848",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "CNN",
+                        "name": "CNN",
+                        "id": 759251,
+                        "id_str": "759251",
+                        "indices": [
+                            35,
+                            39
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "sv"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/zecFi5eqnl",
+            "expanded": "https://twitter.com/beckmansasikter/status/1249361529981603848",
+            "display": "twitter.com/beckmansasikte…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Live har Sveavägen 68 förbjudit Stefan uppträda, det går alltid åt pipsvängen. Det måste spelas in, frågorna mailas på Svenska i god tid (2 dgr innan),  bara säkra journalister på SVT som är  S/MP väljare (99% av alla). https://t.co/zecFi5eqnl",
+            "display_text_range": [
+                0,
+                219
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/zecFi5eqnl",
+                        "expanded_url": "https://twitter.com/beckmansasikter/status/1249361529981603848",
+                        "display_url": "twitter.com/beckmansasikte…",
+                        "indices": [
+                            220,
+                            243
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 5,
+        "favorite_count": 19,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/BSbVbIoCyu",
+                    "expanded_url": "https://twitter.com/i/web/status/1249385940264595457",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "sv"
+    },
+    "quoted_status_id": 1249361529981603848,
+    "quoted_status_id_str": "1249361529981603848",
+    "quoted_status": {
+        "created_at": "Sun Apr 12 15:39:35 +0000 2020",
+        "id": 1249361529981603848,
+        "id_str": "1249361529981603848",
+        "text": "Direktsänd presskonferens i USA på @CNN . Är det någon som vet när Löfven har direktsänd pressträff idag med fria o… https://t.co/XNVMKqJ3js",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 298744792,
+            "id_str": "298744792",
+            "name": "Lars Beckman",
+            "screen_name": "beckmansasikter",
+            "location": "Gävle, Sverige",
+            "url": "http://www.larsbeckman.se",
+            "description": "Hela länets personvalda Riksdagsledamot för Gävleborg! (M) Sverige behöver fler i jobb och ökad företagsamhet! Ledamot Civilutskottet 070-3613696",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 18038,
+            "friends_count": 19807,
+            "listed_count": 182,
+            "favourites_count": 224155,
+            "statuses_count": 333307,
+            "created_at": "Sat May 14 21:19:24 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/965939263761137664/xqIZfysG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/965939263761137664/xqIZfysG_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/298744792/1519133276",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Direktsänd presskonferens i USA på @CNN . Är det någon som vet när Löfven har direktsänd pressträff idag med fria och oberoende medier som kan ställa frågor? #corona #cnn https://t.co/32kaaRyMMr",
+            "display_text_range": [
+                0,
+                170
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "corona",
+                        "indices": [
+                            158,
+                            165
+                        ]
+                    },
+                    {
+                        "text": "cnn",
+                        "indices": [
+                            166,
+                            170
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CNN",
+                        "name": "CNN",
+                        "id": 759251,
+                        "id_str": "759251",
+                        "indices": [
+                            35,
+                            39
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1249361522087866368,
+                        "id_str": "1249361522087866368",
+                        "indices": [
+                            171,
+                            194
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVafr1gWsAAPta4.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVafr1gWsAAPta4.jpg",
+                        "url": "https://t.co/32kaaRyMMr",
+                        "display_url": "pic.twitter.com/32kaaRyMMr",
+                        "expanded_url": "https://twitter.com/beckmansasikter/status/1249361529981603848/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1249361522087866368,
+                        "id_str": "1249361522087866368",
+                        "indices": [
+                            171,
+                            194
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVafr1gWsAAPta4.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVafr1gWsAAPta4.jpg",
+                        "url": "https://t.co/32kaaRyMMr",
+                        "display_url": "pic.twitter.com/32kaaRyMMr",
+                        "expanded_url": "https://twitter.com/beckmansasikter/status/1249361529981603848/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 3,
+        "reply_count": 5,
+        "retweet_count": 1,
+        "favorite_count": 15,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/XNVMKqJ3js",
+                    "expanded_url": "https://twitter.com/i/web/status/1249361529981603848",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "CNN",
+                    "name": "CNN",
+                    "id": 759251,
+                    "id_str": "759251",
+                    "indices": [
+                        35,
+                        39
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "sv"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/zecFi5eqnl",
+        "expanded": "https://twitter.com/beckmansasikter/status/1249361529981603848",
+        "display": "twitter.com/beckmansasikte…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ohakan58",
+                "name": "Håkan Olofsson",
+                "id": 2769799019,
+                "id_str": "2769799019",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1586716501978"
+}

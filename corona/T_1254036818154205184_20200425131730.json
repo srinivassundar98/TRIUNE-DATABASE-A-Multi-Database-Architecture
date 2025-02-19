@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 13:17:30 +0000 2020",
+    "id": 1254036818154205184,
+    "id_str": "1254036818154205184",
+    "text": "Puan: Perempuan Berperan Besar Atasi Pandemi Corona https://t.co/Aqee6IYS6v https://t.co/dN2dwQK4zc",
+    "display_text_range": [
+        0,
+        75
+    ],
+    "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 887616625175707649,
+        "id_str": "887616625175707649",
+        "name": "suaraindonews.com",
+        "screen_name": "suaraindonewss",
+        "location": "Jakarta Capital Region",
+        "url": "http://suaraindonews.com/",
+        "description": "Media Online / Portal Berita",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 27,
+        "friends_count": 115,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 2152,
+        "created_at": "Wed Jul 19 10:14:29 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/887979652257415169/dncqIew5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/887979652257415169/dncqIew5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/887616625175707649/1500549247",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Aqee6IYS6v",
+                "expanded_url": "http://suaraindonews.com/puan-perempuan-berperan-besar-atasi-pandemi-corona/",
+                "display_url": "suaraindonews.com/puan-perempuan…",
+                "indices": [
+                    52,
+                    75
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254036816312893445,
+                "id_str": "1254036816312893445",
+                "indices": [
+                    76,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc71xuXgAUtDUZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc71xuXgAUtDUZ.jpg",
+                "url": "https://t.co/dN2dwQK4zc",
+                "display_url": "pic.twitter.com/dN2dwQK4zc",
+                "expanded_url": "https://twitter.com/suaraindonewss/status/1254036818154205184/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254036816312893445,
+                "id_str": "1254036816312893445",
+                "indices": [
+                    76,
+                    99
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc71xuXgAUtDUZ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc71xuXgAUtDUZ.jpg",
+                "url": "https://t.co/dN2dwQK4zc",
+                "display_url": "pic.twitter.com/dN2dwQK4zc",
+                "expanded_url": "https://twitter.com/suaraindonewss/status/1254036818154205184/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 800,
+                        "h": 533,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587820650982"
+}

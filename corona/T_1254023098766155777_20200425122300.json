@@ -1,0 +1,220 @@
+{
+    "created_at": "Sat Apr 25 12:23:00 +0000 2020",
+    "id": 1254023098766155777,
+    "id_str": "1254023098766155777",
+    "text": "@NOS Waarom mondkapjes WEL enorm verschil maken !!! @corona @covid19 https://t.co/VIwJsvEOo2",
+    "display_text_range": [
+        5,
+        68
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253915721035403265,
+    "in_reply_to_status_id_str": "1253915721035403265",
+    "in_reply_to_user_id": 7174972,
+    "in_reply_to_user_id_str": "7174972",
+    "in_reply_to_screen_name": "NOS",
+    "user": {
+        "id": 557884090,
+        "id_str": "557884090",
+        "name": "Mathis Heller",
+        "screen_name": "MathisHeller",
+        "location": "Amsterdam, The Netherlands",
+        "url": null,
+        "description": "International Award-winning Designer l Professor I Columnist I Keynote Speaker I After-Corona Politician | Design is the Solution I Amsterdam-Shanghai",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 488,
+        "friends_count": 1514,
+        "listed_count": 14,
+        "favourites_count": 383,
+        "statuses_count": 963,
+        "created_at": "Thu Apr 19 17:10:29 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "850062",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251660306184626176/HtG0Ax7L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251660306184626176/HtG0Ax7L_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/557884090/1587223235",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, The Netherlands",
+        "country_code": "NL",
+        "country": "The Netherlands",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        4.7289,
+                        52.278227
+                    ],
+                    [
+                        4.7289,
+                        52.431229
+                    ],
+                    [
+                        5.079207,
+                        52.431229
+                    ],
+                    [
+                        5.079207,
+                        52.278227
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "NOS",
+                "name": "NOS",
+                "id": 7174972,
+                "id_str": "7174972",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "screen_name": "corona",
+                "name": "Corona",
+                "id": 289900457,
+                "id_str": "289900457",
+                "indices": [
+                    52,
+                    59
+                ]
+            },
+            {
+                "screen_name": "COVID19",
+                "name": "Corona",
+                "id": 158904899,
+                "id_str": "158904899",
+                "indices": [
+                    60,
+                    68
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254023086061518848,
+                "id_str": "1254023086061518848",
+                "indices": [
+                    69,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcvWkjWAAAa3LC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcvWkjWAAAa3LC.jpg",
+                "url": "https://t.co/VIwJsvEOo2",
+                "display_url": "pic.twitter.com/VIwJsvEOo2",
+                "expanded_url": "https://twitter.com/MathisHeller/status/1254023098766155777/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 766,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 543,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 766,
+                        "h": 960,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254023086061518848,
+                "id_str": "1254023086061518848",
+                "indices": [
+                    69,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcvWkjWAAAa3LC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcvWkjWAAAa3LC.jpg",
+                "url": "https://t.co/VIwJsvEOo2",
+                "display_url": "pic.twitter.com/VIwJsvEOo2",
+                "expanded_url": "https://twitter.com/MathisHeller/status/1254023098766155777/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 766,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 543,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 766,
+                        "h": 960,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587817380025"
+}

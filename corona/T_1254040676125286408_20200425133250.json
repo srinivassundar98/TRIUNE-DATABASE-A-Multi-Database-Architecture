@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 13:32:50 +0000 2020",
+    "id": 1254040676125286408,
+    "id_str": "1254040676125286408",
+    "text": "@UnionLeader Oh, says the Union Leader, I forgot to say we had over 15,000 negative tested and these totals are bas… https://t.co/sRGcJdwfkC",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254035234057830400,
+    "in_reply_to_status_id_str": "1254035234057830400",
+    "in_reply_to_user_id": 20073589,
+    "in_reply_to_user_id_str": "20073589",
+    "in_reply_to_screen_name": "UnionLeader",
+    "user": {
+        "id": 103956643,
+        "id_str": "103956643",
+        "name": "Jon Schippani",
+        "screen_name": "jonschippani",
+        "location": "Merrimack, NH",
+        "url": null,
+        "description": "Piano Learner, Dog Hiker, starter of one more business. I’m a joker, I’m a smoker, I’m a midnight toker, I get my lovin’ on the run, Wooo wooo.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 21,
+        "friends_count": 213,
+        "listed_count": 0,
+        "favourites_count": 284,
+        "statuses_count": 215,
+        "created_at": "Mon Jan 11 20:11:27 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233212327438278656/Uu0OVXMz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233212327438278656/Uu0OVXMz_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@UnionLeader Oh, says the Union Leader, I forgot to say we had over 15,000 negative tested and these totals are based on 1.36 Million NH residents.  And to date we don’t know if those 51 deaths died with Corona or Of Corona, or just a way to get $39K for hospital relief.",
+        "display_text_range": [
+            13,
+            271
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "UnionLeader",
+                    "name": "UnionLeader.com",
+                    "id": 20073589,
+                    "id_str": "20073589",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sRGcJdwfkC",
+                "expanded_url": "https://twitter.com/i/web/status/1254040676125286408",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "UnionLeader",
+                "name": "UnionLeader.com",
+                "id": 20073589,
+                "id_str": "20073589",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821570794"
+}

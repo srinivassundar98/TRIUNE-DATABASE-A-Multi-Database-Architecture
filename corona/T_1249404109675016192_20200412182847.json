@@ -1,0 +1,131 @@
+{
+    "created_at": "Sun Apr 12 18:28:47 +0000 2020",
+    "id": 1249404109675016192,
+    "id_str": "1249404109675016192",
+    "text": "@thierrybaudet @fvdemocratie En Corona is een mooie naam voor de nieuwe munt.\nAansteller.",
+    "display_text_range": [
+        29,
+        89
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249359775348875267,
+    "in_reply_to_status_id_str": "1249359775348875267",
+    "in_reply_to_user_id": 367703310,
+    "in_reply_to_user_id_str": "367703310",
+    "in_reply_to_screen_name": "thierrybaudet",
+    "user": {
+        "id": 240657722,
+        "id_str": "240657722",
+        "name": "Henk Steenmans",
+        "screen_name": "HenkSteenmans",
+        "location": "Duiven, Netherlands",
+        "url": null,
+        "description": "De zin van het leven is je te ontwikkelen en om elkaar daarbij te helpen - The goal of our lives is to develop oneself and help one another to do so.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 182,
+        "friends_count": 1596,
+        "listed_count": 3,
+        "favourites_count": 306,
+        "statuses_count": 1343,
+        "created_at": "Thu Jan 20 12:44:13 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1C130E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "008B29",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "140E0A",
+        "profile_text_color": "4F3F38",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/833394497576923137/_LFko0Jo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/833394497576923137/_LFko0Jo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240657722/1528229406",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "fdacc46d87a907af",
+        "url": "https://api.twitter.com/1.1/geo/id/fdacc46d87a907af.json",
+        "place_type": "city",
+        "name": "Duiven",
+        "full_name": "Duiven, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        5.965716,
+                        51.912376
+                    ],
+                    [
+                        5.965716,
+                        51.981916
+                    ],
+                    [
+                        6.068797,
+                        51.981916
+                    ],
+                    [
+                        6.068797,
+                        51.912376
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "thierrybaudet",
+                "name": "Thierry Baudet",
+                "id": 367703310,
+                "id_str": "367703310",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "fvdemocratie",
+                "name": "Forum voor Democratie",
+                "id": 2822530175,
+                "id_str": "2822530175",
+                "indices": [
+                    15,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586716127209"
+}

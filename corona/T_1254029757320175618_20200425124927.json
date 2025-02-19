@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 12:49:27 +0000 2020",
+    "id": 1254029757320175618,
+    "id_str": "1254029757320175618",
+    "text": "This is Marius helping me work from home in Corona quarantine. I normally go to an office. https://t.co/MVWcESLnFp",
+    "display_text_range": [
+        0,
+        90
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254029371456851968,
+    "in_reply_to_status_id_str": "1254029371456851968",
+    "in_reply_to_user_id": 49756677,
+    "in_reply_to_user_id_str": "49756677",
+    "in_reply_to_screen_name": "discord37",
+    "user": {
+        "id": 49756677,
+        "id_str": "49756677",
+        "name": "Debbie Gloom",
+        "screen_name": "discord37",
+        "location": "NJ",
+        "url": "http://www.neitherland.com",
+        "description": "Agent of SHIELD, Timelord,gamer (Zehl EQ2II), geek,goth. Love fashion dolls,action figures,fantasy,scifi,X-Men, Avengers, Loki,cats,Krav Maga. I do what I want.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 115,
+        "friends_count": 1242,
+        "listed_count": 1,
+        "favourites_count": 2970,
+        "statuses_count": 812,
+        "created_at": "Mon Jun 22 20:37:20 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "0E4D31",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/595994015268352000/mIfLF0co_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/595994015268352000/mIfLF0co_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49756677/1388305819",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254029655499292678,
+                "id_str": "1254029655499292678",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc1U9nXQAYiaZf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc1U9nXQAYiaZf.jpg",
+                "url": "https://t.co/MVWcESLnFp",
+                "display_url": "pic.twitter.com/MVWcESLnFp",
+                "expanded_url": "https://twitter.com/discord37/status/1254029757320175618/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254029655499292678,
+                "id_str": "1254029655499292678",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc1U9nXQAYiaZf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc1U9nXQAYiaZf.jpg",
+                "url": "https://t.co/MVWcESLnFp",
+                "display_url": "pic.twitter.com/MVWcESLnFp",
+                "expanded_url": "https://twitter.com/discord37/status/1254029757320175618/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818967548"
+}

@@ -1,0 +1,155 @@
+{
+    "created_at": "Sun Apr 12 18:40:03 +0000 2020",
+    "id": 1249406944978370560,
+    "id_str": "1249406944978370560",
+    "text": "@larapwhore Esse fds tô igual as crianças sem aula gritando corona, pq agora o show deles aqui vai ser depois do la… https://t.co/GuQ65nQIG7",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249400613835886592,
+    "in_reply_to_status_id_str": "1249400613835886592",
+    "in_reply_to_user_id": 868846814,
+    "in_reply_to_user_id_str": "868846814",
+    "in_reply_to_screen_name": "larapwhore",
+    "user": {
+        "id": 354082084,
+        "id_str": "354082084",
+        "name": "Giselo__",
+        "screen_name": "Guedynil",
+        "location": "Parada de Lucas",
+        "url": "http://google.com",
+        "description": "Eu amo vocês, eu só tô defendendo uma parada que é pra sempre e nunca mais volta",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 298,
+        "friends_count": 458,
+        "listed_count": 0,
+        "favourites_count": 3945,
+        "statuses_count": 7895,
+        "created_at": "Sat Aug 13 03:17:15 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244805035709603840/JmKL9iOq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244805035709603840/JmKL9iOq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/354082084/1563909631",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "8e18e3b1d9ef33af",
+        "url": "https://api.twitter.com/1.1/geo/id/8e18e3b1d9ef33af.json",
+        "place_type": "city",
+        "name": "Mendes",
+        "full_name": "Mendes, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -43.797683,
+                        -22.606867
+                    ],
+                    [
+                        -43.797683,
+                        -22.459537
+                    ],
+                    [
+                        -43.697663,
+                        -22.459537
+                    ],
+                    [
+                        -43.697663,
+                        -22.606867
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@larapwhore Esse fds tô igual as crianças sem aula gritando corona, pq agora o show deles aqui vai ser depois do lançamento dessa obra prima!!  Kkkkk",
+        "display_text_range": [
+            12,
+            149
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "larapwhore",
+                    "name": "lara penna",
+                    "id": 868846814,
+                    "id_str": "868846814",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/GuQ65nQIG7",
+                "expanded_url": "https://twitter.com/i/web/status/1249406944978370560",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "larapwhore",
+                "name": "lara penna",
+                "id": 868846814,
+                "id_str": "868846814",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716803198"
+}

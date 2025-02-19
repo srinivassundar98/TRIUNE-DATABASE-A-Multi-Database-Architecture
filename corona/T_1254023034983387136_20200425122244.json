@@ -1,0 +1,128 @@
+{
+    "created_at": "Sat Apr 25 12:22:44 +0000 2020",
+    "id": 1254023034983387136,
+    "id_str": "1254023034983387136",
+    "text": "@itvnews please put your news items on here it's all free new Corona virus 19 BORDOM club\nhttps://t.co/51sYtwYQMu",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 21866939,
+    "in_reply_to_user_id_str": "21866939",
+    "in_reply_to_screen_name": "itvnews",
+    "user": {
+        "id": 40490240,
+        "id_str": "40490240",
+        "name": "PHIL WHITE",
+        "screen_name": "SONGWRITERPHIL",
+        "location": "uk",
+        "url": "http://www.facebook.com/profile.php?id=552637355",
+        "description": "EXECUTIVE FILM PRODUCER & SONGWRITER UK\nFace book page , Food with Phil ,http://neptune-clothing.co.uk/https://www.reverbnation.com/philwhite/song/14890207-a-tr",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 229,
+        "friends_count": 2283,
+        "listed_count": 8,
+        "favourites_count": 67,
+        "statuses_count": 2504,
+        "created_at": "Sat May 16 16:15:01 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000862105541/M6fg_sW3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000862105541/M6fg_sW3_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40490240/1576310310",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "189817caf6977373",
+        "url": "https://api.twitter.com/1.1/geo/id/189817caf6977373.json",
+        "place_type": "city",
+        "name": "Taunton",
+        "full_name": "Taunton, England",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -3.148037,
+                        50.98599
+                    ],
+                    [
+                        -3.148037,
+                        51.040527
+                    ],
+                    [
+                        -3.060128,
+                        51.040527
+                    ],
+                    [
+                        -3.060128,
+                        50.98599
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/51sYtwYQMu",
+                "expanded_url": "https://www.facebook.com/groups/2319526491690230/?ref=share",
+                "display_url": "facebook.com/groups/2319526…",
+                "indices": [
+                    90,
+                    113
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "itvnews",
+                "name": "ITV News",
+                "id": 21866939,
+                "id_str": "21866939",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817364818"
+}

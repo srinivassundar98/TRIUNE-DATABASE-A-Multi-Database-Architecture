@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:40:20 +0000 2020",
+    "id": 1254042562643595265,
+    "id_str": "1254042562643595265",
+    "text": "@Taschentroll - ausgegrenzt. Sie kriegt eh schon die Kriese, ob mit Corona oder ohne. Genauso sinnfrei ist es, dass… https://t.co/9IG5GztroV",
+    "display_text_range": [
+        14,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254041918348156928,
+    "in_reply_to_status_id_str": "1254041918348156928",
+    "in_reply_to_user_id": 3934707503,
+    "in_reply_to_user_id_str": "3934707503",
+    "in_reply_to_screen_name": "sperl42",
+    "user": {
+        "id": 3934707503,
+        "id_str": "3934707503",
+        "name": "Stefan Sperling",
+        "screen_name": "sperl42",
+        "location": "Hardert, Westerwald",
+        "url": null,
+        "description": "Die 🌍 braucht uns nicht. Aber wir brauchen die 🌏. — Fröhlicher Agnostiker, SW-Entwickler, Netzwerk-Admin, DSGVO-Schnüffler, Gitarren-Quälgeist.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 197,
+        "friends_count": 177,
+        "listed_count": 3,
+        "favourites_count": 50866,
+        "statuses_count": 12515,
+        "created_at": "Mon Oct 12 06:28:38 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1070230357730054144/OFFLeZxY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070230357730054144/OFFLeZxY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3934707503/1493056404",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Taschentroll - ausgegrenzt. Sie kriegt eh schon die Kriese, ob mit Corona oder ohne. Genauso sinnfrei ist es, dass vielerorts die Sitzgelegenheiten entfernt wurden. Jemand, der nicht weit gehen kann... aber hey, kann ja zu Hause bleiben! Das sollte jetzt nichts gegen euch ... 2/",
+        "display_text_range": [
+            14,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Taschentroll",
+                    "name": "Taschentroll (🏡)",
+                    "id": 1174571833582116866,
+                    "id_str": "1174571833582116866",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/9IG5GztroV",
+                "expanded_url": "https://twitter.com/i/web/status/1254042562643595265",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Taschentroll",
+                "name": "Taschentroll (🏡)",
+                "id": 1174571833582116866,
+                "id_str": "1174571833582116866",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822020575"
+}

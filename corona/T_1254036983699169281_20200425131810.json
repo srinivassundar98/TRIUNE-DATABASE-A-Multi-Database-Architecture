@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:18:10 +0000 2020",
+    "id": 1254036983699169281,
+    "id_str": "1254036983699169281",
+    "text": "@sugusvante Es como el váter de oro o la corona de rosas dorada, es pa hacerse el chulo. Yo tengo ya varias recetas… https://t.co/4Gm4bMGSwi",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254036691976892416,
+    "in_reply_to_status_id_str": "1254036691976892416",
+    "in_reply_to_user_id": 705267224,
+    "in_reply_to_user_id_str": "705267224",
+    "in_reply_to_screen_name": "sugusvante",
+    "user": {
+        "id": 901811098231373824,
+        "id_str": "901811098231373824",
+        "name": "Nya Exiled",
+        "screen_name": "NyaExiled",
+        "location": "Mordor",
+        "url": "http://twitch.tv/nyaexiled",
+        "description": "Gamer manca, streamer de pacotilla.\nMi aspiración es convertirme en pelusa algún dia.\nPelo multicolor, nunca sabrás cuál será el siguiente.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 60,
+        "friends_count": 82,
+        "listed_count": 2,
+        "favourites_count": 4449,
+        "statuses_count": 6599,
+        "created_at": "Sun Aug 27 14:18:15 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252327869713432576/dqhRqp41_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252327869713432576/dqhRqp41_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/901811098231373824/1578571127",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@sugusvante Es como el váter de oro o la corona de rosas dorada, es pa hacerse el chulo. Yo tengo ya varias recetas de oro y no he construido NADA porque es todo bastante feo, como mucho haría la corona de rosas",
+        "display_text_range": [
+            12,
+            211
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sugusvante",
+                    "name": "𝒑𝒂𝒕𝒓𝒊⁷",
+                    "id": 705267224,
+                    "id_str": "705267224",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/4Gm4bMGSwi",
+                "expanded_url": "https://twitter.com/i/web/status/1254036983699169281",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sugusvante",
+                "name": "𝒑𝒂𝒕𝒓𝒊⁷",
+                "id": 705267224,
+                "id_str": "705267224",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587820690451"
+}

@@ -1,0 +1,150 @@
+{
+    "created_at": "Sat Apr 25 12:34:44 +0000 2020",
+    "id": 1254026055444320257,
+    "id_str": "1254026055444320257",
+    "text": "@112Twente @POL_Overijssel  Instapjes bij de distibutiepunten waar de dope vandaan komt in Enschede en omstreken. O… https://t.co/M91hjjVERo",
+    "display_text_range": [
+        11,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254008855115292673,
+    "in_reply_to_status_id_str": "1254008855115292673",
+    "in_reply_to_user_id": 194908659,
+    "in_reply_to_user_id_str": "194908659",
+    "in_reply_to_screen_name": "112Twente",
+    "user": {
+        "id": 1123619243453554688,
+        "id_str": "1123619243453554688",
+        "name": "setContentView",
+        "screen_name": "api_app_gz",
+        "location": null,
+        "url": "https://www.meldmisdaadanoniem.nl/",
+        "description": "api_app_get\n \n\nFeedback verzenden\n\nGeschiedenis\n\nOpgeslag",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 8,
+        "friends_count": 113,
+        "listed_count": 0,
+        "favourites_count": 1050,
+        "statuses_count": 1124,
+        "created_at": "Wed May 01 16:04:38 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1200600797874139136/8fisLMVI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200600797874139136/8fisLMVI_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@112Twente @POL_Overijssel  Instapjes bij de distibutiepunten waar de dope vandaan komt in Enschede en omstreken. Omgeving centrum #Enschede veel activiteit ! Omdat het nu zo rustig is ivm corona vallen die criminelen en klanten op.",
+        "display_text_range": [
+            11,
+            232
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Enschede",
+                    "indices": [
+                        131,
+                        140
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "112Twente",
+                    "name": "112Twente.nl",
+                    "id": 194908659,
+                    "id_str": "194908659",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "POL_Overijssel",
+                    "name": "Politie Overijssel",
+                    "id": 92952986,
+                    "id_str": "92952986",
+                    "indices": [
+                        11,
+                        26
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/M91hjjVERo",
+                "expanded_url": "https://twitter.com/i/web/status/1254026055444320257",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "112Twente",
+                "name": "112Twente.nl",
+                "id": 194908659,
+                "id_str": "194908659",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "POL_Overijssel",
+                "name": "Politie Overijssel",
+                "id": 92952986,
+                "id_str": "92952986",
+                "indices": [
+                    11,
+                    26
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587818084952"
+}

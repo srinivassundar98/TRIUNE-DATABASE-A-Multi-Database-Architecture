@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:31:06 +0000 2020",
+    "id": 1254040236872654848,
+    "id_str": "1254040236872654848",
+    "text": "@softgotica ela tá com uma linha de pele negra pra lançar, miga, achei que ja tivesse lançado mas atrasou por causa… https://t.co/eA67tri1CX",
+    "display_text_range": [
+        12,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254038332490858498,
+    "in_reply_to_status_id_str": "1254038332490858498",
+    "in_reply_to_user_id": 61934517,
+    "in_reply_to_user_id_str": "61934517",
+    "in_reply_to_screen_name": "softgotica",
+    "user": {
+        "id": 42258413,
+        "id_str": "42258413",
+        "name": "laís.",
+        "screen_name": "lalisrb",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3609,
+        "friends_count": 909,
+        "listed_count": 39,
+        "favourites_count": 46221,
+        "statuses_count": 287731,
+        "created_at": "Sun May 24 18:41:40 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "FF9999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "70153A",
+        "profile_text_color": "D4C58A",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251993432840646658/F2_mHzjt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251993432840646658/F2_mHzjt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42258413/1587165819",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@softgotica ela tá com uma linha de pele negra pra lançar, miga, achei que ja tivesse lançado mas atrasou por causa do corona. por isso que ia dar uma olhada.",
+        "display_text_range": [
+            12,
+            158
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "softgotica",
+                    "name": "𝖆𝖒𝖆𝖓𝖉𝖆",
+                    "id": 61934517,
+                    "id_str": "61934517",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/eA67tri1CX",
+                "expanded_url": "https://twitter.com/i/web/status/1254040236872654848",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "softgotica",
+                "name": "𝖆𝖒𝖆𝖓𝖉𝖆",
+                "id": 61934517,
+                "id_str": "61934517",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587821466068"
+}

@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Apr 25 14:40:11 +0000 2020",
+    "id": 1254057625714593793,
+    "id_str": "1254057625714593793",
+    "text": "in times of corona viruses",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 464069895,
+        "id_str": "464069895",
+        "name": "eduardo romero",
+        "screen_name": "eduja_romero",
+        "location": "Barranquilla, Colombia",
+        "url": null,
+        "description": "Amo a Dios sobre todas las cosas. 🇨🇴",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 521,
+        "friends_count": 518,
+        "listed_count": 3,
+        "favourites_count": 7397,
+        "statuses_count": 24434,
+        "created_at": "Sat Jan 14 20:15:56 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "64DBA2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "8D2BAD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249570066754154496/WUGrk9Nm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249570066754154496/WUGrk9Nm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/464069895/1570631548",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0105a80417c159b4",
+        "url": "https://api.twitter.com/1.1/geo/id/0105a80417c159b4.json",
+        "place_type": "city",
+        "name": "Barranquilla",
+        "full_name": "Barranquilla, Colombia",
+        "country_code": "CO",
+        "country": "Colombia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -74.925765,
+                        10.869528
+                    ],
+                    [
+                        -74.925765,
+                        11.046618
+                    ],
+                    [
+                        -74.774101,
+                        11.046618
+                    ],
+                    [
+                        -74.774101,
+                        10.869528
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825611891"
+}

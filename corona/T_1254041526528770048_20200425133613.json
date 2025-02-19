@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:36:13 +0000 2020",
+    "id": 1254041526528770048,
+    "id_str": "1254041526528770048",
+    "text": "Lekker dan. Sinds #corona al 582 km op een mountainbike door de stad gecrost.  #inbewegingblijven",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 28856142,
+        "id_str": "28856142",
+        "name": "Hoogeland Catering",
+        "screen_name": "Harriedevries",
+        "location": "heel nederland ",
+        "url": "http://www.hoogelandcatering.nl",
+        "description": "Hayemaheerd,Kapitein WinterWelvaart,FC fan,Vakspecialist Spoor naar Werk,Huiskamerdiners,Zwammerij,vader van 3 kids,kooklessen,kokenbijdeboer en op scholen",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1184,
+        "friends_count": 1468,
+        "listed_count": 28,
+        "favourites_count": 2208,
+        "statuses_count": 18353,
+        "created_at": "Sat Apr 04 19:42:23 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876210070442450945/Fp6N0obp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876210070442450945/Fp6N0obp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28856142/1539256022",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "1b6ebeaa6394f50e",
+        "url": "https://api.twitter.com/1.1/geo/id/1b6ebeaa6394f50e.json",
+        "place_type": "city",
+        "name": "Groningen",
+        "full_name": "Groningen, Nederland",
+        "country_code": "NL",
+        "country": "The Netherlands",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        6.46262,
+                        53.178577
+                    ],
+                    [
+                        6.46262,
+                        53.264905
+                    ],
+                    [
+                        6.666928,
+                        53.264905
+                    ],
+                    [
+                        6.666928,
+                        53.178577
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    18,
+                    25
+                ]
+            },
+            {
+                "text": "inbewegingblijven",
+                "indices": [
+                    79,
+                    97
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587821773546"
+}

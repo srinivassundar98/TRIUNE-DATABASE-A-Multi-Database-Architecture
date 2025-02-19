@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 14:20:25 +0000 2020",
+    "id": 1254052647608475648,
+    "id_str": "1254052647608475648",
+    "text": "@punishedrice @ToTheWest9 @YungVinsmoke @badtakesonlyy at least if I dont die of corona",
+    "display_text_range": [
+        55,
+        87
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253868372279783425,
+    "in_reply_to_status_id_str": "1253868372279783425",
+    "in_reply_to_user_id": 1147564189302571008,
+    "in_reply_to_user_id_str": "1147564189302571008",
+    "in_reply_to_screen_name": "punishedrice",
+    "user": {
+        "id": 976832308543217664,
+        "id_str": "976832308543217664",
+        "name": "grizz.",
+        "screen_name": "lagrizzaille",
+        "location": "La Réunion",
+        "url": null,
+        "description": "when shit hit the fan, is u still a fan?",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 40,
+        "friends_count": 212,
+        "listed_count": 0,
+        "favourites_count": 1258,
+        "statuses_count": 2061,
+        "created_at": "Thu Mar 22 14:45:45 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253156139811901441/cShsw_1p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253156139811901441/cShsw_1p_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/976832308543217664/1580993400",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "punishedrice",
+                "name": "alex",
+                "id": 1147564189302571008,
+                "id_str": "1147564189302571008",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "ToTheWest9",
+                "name": "Headband Tatum",
+                "id": 948089944303656960,
+                "id_str": "948089944303656960",
+                "indices": [
+                    14,
+                    25
+                ]
+            },
+            {
+                "screen_name": "YungVinsmoke",
+                "name": "Blackthony Mantano",
+                "id": 1035389913527709697,
+                "id_str": "1035389913527709697",
+                "indices": [
+                    26,
+                    39
+                ]
+            },
+            {
+                "screen_name": "badtakesonlyy",
+                "name": "elijah",
+                "id": 1232095865575219206,
+                "id_str": "1232095865575219206",
+                "indices": [
+                    40,
+                    54
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824425018"
+}

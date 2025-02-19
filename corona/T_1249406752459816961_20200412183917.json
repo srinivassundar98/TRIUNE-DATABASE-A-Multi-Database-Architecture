@@ -1,0 +1,119 @@
+{
+    "created_at": "Sun Apr 12 18:39:17 +0000 2020",
+    "id": 1249406752459816961,
+    "id_str": "1249406752459816961",
+    "text": "@GeeClary @ericbudke @realDonaldTrump @BrentTerhune I won’t drink Corona, I don’t want the virus",
+    "display_text_range": [
+        52,
+        96
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249402955679195136,
+    "in_reply_to_status_id_str": "1249402955679195136",
+    "in_reply_to_user_id": 1102965710517686272,
+    "in_reply_to_user_id_str": "1102965710517686272",
+    "in_reply_to_screen_name": "GeeClary",
+    "user": {
+        "id": 1087219487001202693,
+        "id_str": "1087219487001202693",
+        "name": "Chris Ray 🧢",
+        "screen_name": "ChrisRay179",
+        "location": "Trumpistan",
+        "url": "https://medium.com/@ChrisRay179",
+        "description": "@AndrewYang stan. Memer. Writer. Interests: AI, automation, UBI, ethics & philosophy, mindfulness,psychiatry, psychology, botany, #YangGang gamin:@crayhasissues",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3527,
+        "friends_count": 4990,
+        "listed_count": 9,
+        "favourites_count": 15575,
+        "statuses_count": 3048,
+        "created_at": "Mon Jan 21 05:25:00 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249066539594264580/qWUJC9gN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249066539594264580/qWUJC9gN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087219487001202693/1575441924",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "GeeClary",
+                "name": "Clarissa",
+                "id": 1102965710517686272,
+                "id_str": "1102965710517686272",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "ericbudke",
+                "name": "ericbudke",
+                "id": 16385083,
+                "id_str": "16385083",
+                "indices": [
+                    10,
+                    20
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    21,
+                    37
+                ]
+            },
+            {
+                "screen_name": "BrentTerhune",
+                "name": "Brent Terhune",
+                "id": 30826525,
+                "id_str": "30826525",
+                "indices": [
+                    38,
+                    51
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716757298"
+}

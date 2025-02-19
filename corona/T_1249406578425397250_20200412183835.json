@@ -1,0 +1,96 @@
+{
+    "created_at": "Sun Apr 12 18:38:35 +0000 2020",
+    "id": 1249406578425397250,
+    "id_str": "1249406578425397250",
+    "text": "@debubertebaran Gw colong juga ni masker nya biar kalo Corona nyamper lu bingung. #mampus",
+    "display_text_range": [
+        16,
+        89
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249310426975723520,
+    "in_reply_to_status_id_str": "1249310426975723520",
+    "in_reply_to_user_id": 956337151238553600,
+    "in_reply_to_user_id_str": "956337151238553600",
+    "in_reply_to_screen_name": "debubertebaran",
+    "user": {
+        "id": 1242005629872439296,
+        "id_str": "1242005629872439296",
+        "name": "NdaNanda",
+        "screen_name": "ndha_pertiwi",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 1,
+        "listed_count": 0,
+        "favourites_count": 13,
+        "statuses_count": 10,
+        "created_at": "Mon Mar 23 08:30:05 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1242045780753436672/UIELlCQE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242045780753436672/UIELlCQE_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "mampus",
+                "indices": [
+                    82,
+                    89
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "debubertebaran",
+                "name": "callmesan",
+                "id": 956337151238553600,
+                "id_str": "956337151238553600",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1586716715805"
+}

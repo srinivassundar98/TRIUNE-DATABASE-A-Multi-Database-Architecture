@@ -1,0 +1,118 @@
+{
+    "created_at": "Sat Apr 25 14:23:37 +0000 2020",
+    "id": 1254053453413978113,
+    "id_str": "1254053453413978113",
+    "text": "@NightingaleHosp I have a friend who works at Nightingale Hospital. You only have around 42 patients and not one of… https://t.co/ArAR1FcQ1E",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2409202184,
+    "in_reply_to_user_id_str": "2409202184",
+    "in_reply_to_screen_name": "NightingaleHosp",
+    "user": {
+        "id": 1126084358824169474,
+        "id_str": "1126084358824169474",
+        "name": "Graham R",
+        "screen_name": "Dontplaymemate",
+        "location": "London",
+        "url": null,
+        "description": "Me",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 8,
+        "friends_count": 34,
+        "listed_count": 1,
+        "favourites_count": 347,
+        "statuses_count": 268,
+        "created_at": "Wed May 08 11:20:07 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251607182069678081/SwUAS6A3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251607182069678081/SwUAS6A3_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@NightingaleHosp I have a friend who works at Nightingale Hospital. You only have around 42 patients and not one of the them has Covid or Corona, or whatever you want to call it. No doubt, if any of them do die, it will go down on the death toll. Total Hoax",
+        "display_text_range": [
+            0,
+            257
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NightingaleHosp",
+                    "name": "Nightingale Hospital",
+                    "id": 2409202184,
+                    "id_str": "2409202184",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ArAR1FcQ1E",
+                "expanded_url": "https://twitter.com/i/web/status/1254053453413978113",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "NightingaleHosp",
+                "name": "Nightingale Hospital",
+                "id": 2409202184,
+                "id_str": "2409202184",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824617137"
+}

@@ -1,0 +1,224 @@
+{
+    "created_at": "Sat Apr 25 14:37:06 +0000 2020",
+    "id": 1254056847818002433,
+    "id_str": "1254056847818002433",
+    "text": "Der Preis für #Rohöl fällt ins Bodenlose und wird sogar negativ. Durch #Corona realisieren viele Menschen, wie toll… https://t.co/Y8jrxVwqYq",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1016207782964441088,
+        "id_str": "1016207782964441088",
+        "name": "Miet Tesla",
+        "screen_name": "MietTesla",
+        "location": "Rastatt, Deutschland",
+        "url": "http://miet-tesla.de",
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 407,
+        "friends_count": 2133,
+        "listed_count": 7,
+        "favourites_count": 1700,
+        "statuses_count": 1220,
+        "created_at": "Mon Jul 09 06:29:50 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1053972435517759488/Xljk_q6P_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053972435517759488/Xljk_q6P_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016207782964441088/1540121708",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Der Preis für #Rohöl fällt ins Bodenlose und wird sogar negativ. Durch #Corona realisieren viele Menschen, wie toll saubere Luft ist und die Nachfrage für #Elektroautos steigt deutlich. Ist das der Anfang vom Ende des Verbrenner-Zeitalters und #BigOil? Was denkt ihr? https://t.co/JKbpvpApu0",
+        "display_text_range": [
+            0,
+            267
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rohöl",
+                    "indices": [
+                        14,
+                        20
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        71,
+                        78
+                    ]
+                },
+                {
+                    "text": "Elektroautos",
+                    "indices": [
+                        155,
+                        168
+                    ]
+                },
+                {
+                    "text": "BigOil",
+                    "indices": [
+                        244,
+                        251
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254056845079085057,
+                    "id_str": "1254056845079085057",
+                    "indices": [
+                        268,
+                        291
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdODmsWAAEHz6Y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdODmsWAAEHz6Y.jpg",
+                    "url": "https://t.co/JKbpvpApu0",
+                    "display_url": "pic.twitter.com/JKbpvpApu0",
+                    "expanded_url": "https://twitter.com/MietTesla/status/1254056847818002433/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 822,
+                            "h": 462,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 822,
+                            "h": 462,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254056845079085057,
+                    "id_str": "1254056845079085057",
+                    "indices": [
+                        268,
+                        291
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdODmsWAAEHz6Y.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdODmsWAAEHz6Y.jpg",
+                    "url": "https://t.co/JKbpvpApu0",
+                    "display_url": "pic.twitter.com/JKbpvpApu0",
+                    "expanded_url": "https://twitter.com/MietTesla/status/1254056847818002433/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 822,
+                            "h": 462,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 382,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 822,
+                            "h": 462,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rohöl",
+                "indices": [
+                    14,
+                    20
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    71,
+                    78
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/Y8jrxVwqYq",
+                "expanded_url": "https://twitter.com/i/web/status/1254056847818002433",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587825426426"
+}

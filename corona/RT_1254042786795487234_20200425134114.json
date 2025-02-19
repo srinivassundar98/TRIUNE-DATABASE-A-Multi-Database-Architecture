@@ -1,0 +1,512 @@
+{
+    "created_at": "Sat Apr 25 13:41:14 +0000 2020",
+    "id": 1254042786795487234,
+    "id_str": "1254042786795487234",
+    "text": "RT @OtiAdjei: Because man must eat. It's a bigger fear than anything else",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1146698953901191168,
+        "id_str": "1146698953901191168",
+        "name": "SWAGGER",
+        "screen_name": "SWAGGER32819439",
+        "location": null,
+        "url": null,
+        "description": "In God I trust 📖📖📖",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 498,
+        "friends_count": 836,
+        "listed_count": 0,
+        "favourites_count": 8526,
+        "statuses_count": 8399,
+        "created_at": "Thu Jul 04 08:35:10 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245270030822051840/iKUfd7gR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245270030822051840/iKUfd7gR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1146698953901191168/1568671958",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 13:40:48 +0000 2020",
+        "id": 1254042678561509377,
+        "id_str": "1254042678561509377",
+        "text": "Because man must eat. It's a bigger fear than anything else",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 32858257,
+            "id_str": "32858257",
+            "name": "Michael Oti Adjei",
+            "screen_name": "OtiAdjei",
+            "location": "Accra, Ghana ",
+            "url": null,
+            "description": "Hobby=Work. Writer l Talker",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 437244,
+            "friends_count": 806,
+            "listed_count": 295,
+            "favourites_count": 10268,
+            "statuses_count": 95668,
+            "created_at": "Sat Apr 18 11:35:17 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1210867979505852417/u3wnNbRO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210867979505852417/u3wnNbRO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32858257/1515086014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "003e299707d0375b",
+            "url": "https://api.twitter.com/1.1/geo/id/003e299707d0375b.json",
+            "place_type": "city",
+            "name": "Accra",
+            "full_name": "Accra, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.347025,
+                            5.51713
+                        ],
+                        [
+                            -0.347025,
+                            5.729267
+                        ],
+                        [
+                            -0.021562,
+                            5.729267
+                        ],
+                        [
+                            -0.021562,
+                            5.51713
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1254041970433052672,
+        "quoted_status_id_str": "1254041970433052672",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 13:37:59 +0000 2020",
+            "id": 1254041970433052672,
+            "id_str": "1254041970433052672",
+            "text": "@OtiAdjei It's because most people think our Corona situation esp mortality rate is low. U will certainly not see a… https://t.co/MYxBBJMuY9",
+            "display_text_range": [
+                10,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": 1253943228367339520,
+            "in_reply_to_status_id_str": "1253943228367339520",
+            "in_reply_to_user_id": 32858257,
+            "in_reply_to_user_id_str": "32858257",
+            "in_reply_to_screen_name": "OtiAdjei",
+            "user": {
+                "id": 354579176,
+                "id_str": "354579176",
+                "name": "d_denzel",
+                "screen_name": "denzel_asante",
+                "location": "accra, Ghana.",
+                "url": null,
+                "description": "#Santaclausian... #ManchesterUnited... #NanaAkufo-Addo",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1018,
+                "friends_count": 717,
+                "listed_count": 12,
+                "favourites_count": 3094,
+                "statuses_count": 16321,
+                "created_at": "Sat Aug 13 23:37:49 +0000 2011",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "DBE9ED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1079895959608479746/62OoXgQX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079895959608479746/62OoXgQX_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/354579176/1537519582",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "0014e6ca6a149842",
+                "url": "https://api.twitter.com/1.1/geo/id/0014e6ca6a149842.json",
+                "place_type": "city",
+                "name": "Agona Swedru",
+                "full_name": "Agona Swedru, Ghana",
+                "country_code": "GH",
+                "country": "Ghana",
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -0.72145,
+                                5.5172
+                            ],
+                            [
+                                -0.72145,
+                                5.552583
+                            ],
+                            [
+                                -0.669238,
+                                5.552583
+                            ],
+                            [
+                                -0.669238,
+                                5.5172
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "@OtiAdjei It's because most people think our Corona situation esp mortality rate is low. U will certainly not see anyone on the streets should we experience half of what Italy and Spain are going  thru..",
+                "display_text_range": [
+                    10,
+                    203
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "OtiAdjei",
+                            "name": "Michael Oti Adjei",
+                            "id": 32858257,
+                            "id_str": "32858257",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/MYxBBJMuY9",
+                        "expanded_url": "https://twitter.com/i/web/status/1254041970433052672",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "OtiAdjei",
+                        "name": "Michael Oti Adjei",
+                        "id": 32858257,
+                        "id_str": "32858257",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/LqT0o0nqoz",
+            "expanded": "https://twitter.com/denzel_asante/status/1254041970433052672",
+            "display": "twitter.com/denzel_asante/…"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1254041970433052672,
+    "quoted_status_id_str": "1254041970433052672",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 13:37:59 +0000 2020",
+        "id": 1254041970433052672,
+        "id_str": "1254041970433052672",
+        "text": "@OtiAdjei It's because most people think our Corona situation esp mortality rate is low. U will certainly not see a… https://t.co/MYxBBJMuY9",
+        "display_text_range": [
+            10,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1253943228367339520,
+        "in_reply_to_status_id_str": "1253943228367339520",
+        "in_reply_to_user_id": 32858257,
+        "in_reply_to_user_id_str": "32858257",
+        "in_reply_to_screen_name": "OtiAdjei",
+        "user": {
+            "id": 354579176,
+            "id_str": "354579176",
+            "name": "d_denzel",
+            "screen_name": "denzel_asante",
+            "location": "accra, Ghana.",
+            "url": null,
+            "description": "#Santaclausian... #ManchesterUnited... #NanaAkufo-Addo",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1018,
+            "friends_count": 717,
+            "listed_count": 12,
+            "favourites_count": 3094,
+            "statuses_count": 16321,
+            "created_at": "Sat Aug 13 23:37:49 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1079895959608479746/62OoXgQX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079895959608479746/62OoXgQX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/354579176/1537519582",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "0014e6ca6a149842",
+            "url": "https://api.twitter.com/1.1/geo/id/0014e6ca6a149842.json",
+            "place_type": "city",
+            "name": "Agona Swedru",
+            "full_name": "Agona Swedru, Ghana",
+            "country_code": "GH",
+            "country": "Ghana",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.72145,
+                            5.5172
+                        ],
+                        [
+                            -0.72145,
+                            5.552583
+                        ],
+                        [
+                            -0.669238,
+                            5.552583
+                        ],
+                        [
+                            -0.669238,
+                            5.5172
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@OtiAdjei It's because most people think our Corona situation esp mortality rate is low. U will certainly not see anyone on the streets should we experience half of what Italy and Spain are going  thru..",
+            "display_text_range": [
+                10,
+                203
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "OtiAdjei",
+                        "name": "Michael Oti Adjei",
+                        "id": 32858257,
+                        "id_str": "32858257",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/MYxBBJMuY9",
+                    "expanded_url": "https://twitter.com/i/web/status/1254041970433052672",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "OtiAdjei",
+                    "name": "Michael Oti Adjei",
+                    "id": 32858257,
+                    "id_str": "32858257",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/LqT0o0nqoz",
+        "expanded": "https://twitter.com/denzel_asante/status/1254041970433052672",
+        "display": "twitter.com/denzel_asante/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "OtiAdjei",
+                "name": "Michael Oti Adjei",
+                "id": 32858257,
+                "id_str": "32858257",
+                "indices": [
+                    3,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822074017"
+}

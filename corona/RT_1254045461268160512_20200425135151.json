@@ -1,0 +1,660 @@
+{
+    "created_at": "Sat Apr 25 13:51:51 +0000 2020",
+    "id": 1254045461268160512,
+    "id_str": "1254045461268160512",
+    "text": "RT @RajitaBagga: Join us for this important conversation. The corona impact on higher education will affect every family in some way.",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2224037240,
+        "id_str": "2224037240",
+        "name": "Shweta Tikoo",
+        "screen_name": "ShwetaTikooAOL",
+        "location": "Bengaluru, Karnataka, India",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 707,
+        "friends_count": 613,
+        "listed_count": 263,
+        "favourites_count": 23815,
+        "statuses_count": 93131,
+        "created_at": "Sun Dec 01 02:05:00 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/841239635875381249/ev9WD8PX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/841239635875381249/ev9WD8PX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2224037240/1491864484",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Apr 23 03:22:23 +0000 2020",
+        "id": 1253162273025060865,
+        "id_str": "1253162273025060865",
+        "text": "Join us for this important conversation. The corona impact on higher education will affect every family in some way.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 95193484,
+            "id_str": "95193484",
+            "name": "Rajita Bagga",
+            "screen_name": "RajitaBagga",
+            "location": null,
+            "url": "http://www.srisriuniversity.edu.in",
+            "description": "President Sri Sri University. President World Forum for Ethics In Business. Featured in top 100 Inspirational women of India. Leadership Coach. Global citizen.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 15337,
+            "friends_count": 392,
+            "listed_count": 130,
+            "favourites_count": 11120,
+            "statuses_count": 17114,
+            "created_at": "Mon Dec 07 12:43:11 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "4444A6",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/464418362898923521/r-DqnZj__normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/464418362898923521/r-DqnZj__normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/95193484/1505052010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "7929cea6bd5b32bd",
+            "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+            "place_type": "city",
+            "name": "Mumbai",
+            "full_name": "Mumbai, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            72.74484,
+                            18.845343
+                        ],
+                        [
+                            72.74484,
+                            19.502937
+                        ],
+                        [
+                            73.003648,
+                            19.502937
+                        ],
+                        [
+                            73.003648,
+                            18.845343
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253030724636155910,
+        "quoted_status_id_str": "1253030724636155910",
+        "quoted_status": {
+            "created_at": "Wed Apr 22 18:39:39 +0000 2020",
+            "id": 1253030724636155910,
+            "id_str": "1253030724636155910",
+            "text": "We are proud to host our Poojya Gurudev @SriSri, feature in the live session “Higher Education post Corona” with ke… https://t.co/zahpArGcok",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 163455033,
+                "id_str": "163455033",
+                "name": "Sri Sri University",
+                "screen_name": "SriSriU",
+                "location": "Odisha, India",
+                "url": "http://www.srisriuniversity.edu.in",
+                "description": "Envisioned by Gurudev Sri Sri Ravi Shankar ji, Sri Sri University Blends the Best of the East & the West, Enabling the Holistic Development of its Students.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 34253,
+                "friends_count": 44,
+                "listed_count": 75,
+                "favourites_count": 2539,
+                "statuses_count": 4839,
+                "created_at": "Tue Jul 06 13:23:52 +0000 2010",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "872E30",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EADEAA",
+                "profile_text_color": "990F99",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/587986301246246912/oM5zn4r0_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/587986301246246912/oM5zn4r0_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/163455033/1587533045",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "We are proud to host our Poojya Gurudev @SriSri, feature in the live session “Higher Education post Corona” with keynote speakers including our hon'ble President &amp; VC on April 23, 2020, at 11:30 AM.\n\nFB Live: https://t.co/RXNi0SEsJe\n\nYouTube: https://t.co/iyFYYL4ea3\n\n#ExpertsTalk https://t.co/EpRmzNpEVV",
+                "display_text_range": [
+                    0,
+                    284
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "ExpertsTalk",
+                            "indices": [
+                                272,
+                                284
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/RXNi0SEsJe",
+                            "expanded_url": "http://bit.ly/3cCQ1dS",
+                            "display_url": "bit.ly/3cCQ1dS",
+                            "indices": [
+                                213,
+                                236
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/iyFYYL4ea3",
+                            "expanded_url": "https://bit.ly/2yvAIVr",
+                            "display_url": "bit.ly/2yvAIVr",
+                            "indices": [
+                                247,
+                                270
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "SriSri",
+                            "name": "Gurudev Sri Sri Ravi Shankar",
+                            "id": 61126132,
+                            "id_str": "61126132",
+                            "indices": [
+                                40,
+                                47
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253028458164338689,
+                            "id_str": "1253028458164338689",
+                            "indices": [
+                                285,
+                                308
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWOmvm5XQAEjMF-.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWOmvm5XQAEjMF-.jpg",
+                            "url": "https://t.co/EpRmzNpEVV",
+                            "display_url": "pic.twitter.com/EpRmzNpEVV",
+                            "expanded_url": "https://twitter.com/SriSriU/status/1253030724636155910/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 684,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 388,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 730,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253028458164338689,
+                            "id_str": "1253028458164338689",
+                            "indices": [
+                                285,
+                                308
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWOmvm5XQAEjMF-.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWOmvm5XQAEjMF-.jpg",
+                            "url": "https://t.co/EpRmzNpEVV",
+                            "display_url": "pic.twitter.com/EpRmzNpEVV",
+                            "expanded_url": "https://twitter.com/SriSriU/status/1253030724636155910/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 684,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 388,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 730,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 2,
+            "reply_count": 0,
+            "retweet_count": 38,
+            "favorite_count": 95,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/zahpArGcok",
+                        "expanded_url": "https://twitter.com/i/web/status/1253030724636155910",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "SriSri",
+                        "name": "Gurudev Sri Sri Ravi Shankar",
+                        "id": 61126132,
+                        "id_str": "61126132",
+                        "indices": [
+                            40,
+                            47
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/SLKByxMD2c",
+            "expanded": "https://twitter.com/SriSriU/status/1253030724636155910",
+            "display": "twitter.com/SriSriU/status…"
+        },
+        "is_quote_status": true,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 18,
+        "favorite_count": 42,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1253030724636155910,
+    "quoted_status_id_str": "1253030724636155910",
+    "quoted_status": {
+        "created_at": "Wed Apr 22 18:39:39 +0000 2020",
+        "id": 1253030724636155910,
+        "id_str": "1253030724636155910",
+        "text": "We are proud to host our Poojya Gurudev @SriSri, feature in the live session “Higher Education post Corona” with ke… https://t.co/zahpArGcok",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 163455033,
+            "id_str": "163455033",
+            "name": "Sri Sri University",
+            "screen_name": "SriSriU",
+            "location": "Odisha, India",
+            "url": "http://www.srisriuniversity.edu.in",
+            "description": "Envisioned by Gurudev Sri Sri Ravi Shankar ji, Sri Sri University Blends the Best of the East & the West, Enabling the Holistic Development of its Students.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 34253,
+            "friends_count": 44,
+            "listed_count": 75,
+            "favourites_count": 2539,
+            "statuses_count": 4839,
+            "created_at": "Tue Jul 06 13:23:52 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "872E30",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "990F99",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/587986301246246912/oM5zn4r0_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/587986301246246912/oM5zn4r0_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/163455033/1587533045",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "We are proud to host our Poojya Gurudev @SriSri, feature in the live session “Higher Education post Corona” with keynote speakers including our hon'ble President &amp; VC on April 23, 2020, at 11:30 AM.\n\nFB Live: https://t.co/RXNi0SEsJe\n\nYouTube: https://t.co/iyFYYL4ea3\n\n#ExpertsTalk https://t.co/EpRmzNpEVV",
+            "display_text_range": [
+                0,
+                284
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ExpertsTalk",
+                        "indices": [
+                            272,
+                            284
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/RXNi0SEsJe",
+                        "expanded_url": "http://bit.ly/3cCQ1dS",
+                        "display_url": "bit.ly/3cCQ1dS",
+                        "indices": [
+                            213,
+                            236
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/iyFYYL4ea3",
+                        "expanded_url": "https://bit.ly/2yvAIVr",
+                        "display_url": "bit.ly/2yvAIVr",
+                        "indices": [
+                            247,
+                            270
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "SriSri",
+                        "name": "Gurudev Sri Sri Ravi Shankar",
+                        "id": 61126132,
+                        "id_str": "61126132",
+                        "indices": [
+                            40,
+                            47
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253028458164338689,
+                        "id_str": "1253028458164338689",
+                        "indices": [
+                            285,
+                            308
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWOmvm5XQAEjMF-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWOmvm5XQAEjMF-.jpg",
+                        "url": "https://t.co/EpRmzNpEVV",
+                        "display_url": "pic.twitter.com/EpRmzNpEVV",
+                        "expanded_url": "https://twitter.com/SriSriU/status/1253030724636155910/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 684,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 388,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 730,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253028458164338689,
+                        "id_str": "1253028458164338689",
+                        "indices": [
+                            285,
+                            308
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWOmvm5XQAEjMF-.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWOmvm5XQAEjMF-.jpg",
+                        "url": "https://t.co/EpRmzNpEVV",
+                        "display_url": "pic.twitter.com/EpRmzNpEVV",
+                        "expanded_url": "https://twitter.com/SriSriU/status/1253030724636155910/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 684,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 388,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 730,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 2,
+        "reply_count": 0,
+        "retweet_count": 38,
+        "favorite_count": 95,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/zahpArGcok",
+                    "expanded_url": "https://twitter.com/i/web/status/1253030724636155910",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "SriSri",
+                    "name": "Gurudev Sri Sri Ravi Shankar",
+                    "id": 61126132,
+                    "id_str": "61126132",
+                    "indices": [
+                        40,
+                        47
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/SLKByxMD2c",
+        "expanded": "https://twitter.com/SriSriU/status/1253030724636155910",
+        "display": "twitter.com/SriSriU/status…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "RajitaBagga",
+                "name": "Rajita Bagga",
+                "id": 95193484,
+                "id_str": "95193484",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822711661"
+}

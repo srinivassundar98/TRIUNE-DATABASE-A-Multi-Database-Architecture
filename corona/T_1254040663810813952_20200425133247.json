@@ -1,0 +1,93 @@
+{
+    "created_at": "Sat Apr 25 13:32:47 +0000 2020",
+    "id": 1254040663810813952,
+    "id_str": "1254040663810813952",
+    "text": "Alternative à l appli #StopCovid, un bracelet connecté....\nQuelle solution est la plus pertinente selon vous ?\nhttps://t.co/ejQYfsUkLY",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1138423287451725824,
+        "id_str": "1138423287451725824",
+        "name": "Le Petit bougnat",
+        "screen_name": "LePetitBougnat8",
+        "location": null,
+        "url": null,
+        "description": "Un reveil des consciences est primordial pour notre survie. Les peuples ont peur de leurs gouvernements mais c est les gouvernants qui devraient avoir peur.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 263,
+        "friends_count": 564,
+        "listed_count": 0,
+        "favourites_count": 6250,
+        "statuses_count": 5941,
+        "created_at": "Tue Jun 11 12:30:37 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138888584352686086/2E7SgROs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138888584352686086/2E7SgROs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138423287451725824/1572215407",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "StopCovid",
+                "indices": [
+                    22,
+                    32
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ejQYfsUkLY",
+                "expanded_url": "https://www.lepoint.fr/societe/coronavirus-un-bracelet-electronique-pour-sortir-du-confinement-24-04-2020-2372770_23.php",
+                "display_url": "lepoint.fr/societe/corona…",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587821567858"
+}

@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 12:25:39 +0000 2020",
+    "id": 1254023767992516610,
+    "id_str": "1254023767992516610",
+    "text": "@NoncedoDlamini 😂😂😂 if Corona doesn't take me out, I'm giving you the privilege",
+    "display_text_range": [
+        16,
+        79
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254022454231666688,
+    "in_reply_to_status_id_str": "1254022454231666688",
+    "in_reply_to_user_id": 1251995150,
+    "in_reply_to_user_id_str": "1251995150",
+    "in_reply_to_screen_name": "NoncedoDlamini",
+    "user": {
+        "id": 490030165,
+        "id_str": "490030165",
+        "name": "Mbulelo Ndlovu",
+        "screen_name": "Mbulelo_Ndlovu6",
+        "location": null,
+        "url": null,
+        "description": "Photographer. Creative. Computer Science Graduate.\nChairman of the Great Guys World Association",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3070,
+        "friends_count": 752,
+        "listed_count": 6,
+        "favourites_count": 7649,
+        "statuses_count": 11402,
+        "created_at": "Sun Feb 12 04:42:23 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252846746079596544/ltjjCdJl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252846746079596544/ltjjCdJl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/490030165/1587537040",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "02127c41c77b85ad",
+        "url": "https://api.twitter.com/1.1/geo/id/02127c41c77b85ad.json",
+        "place_type": "country",
+        "name": "Swaziland",
+        "full_name": "Swaziland",
+        "country_code": "SZ",
+        "country": "Swaziland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        30.790905,
+                        -27.317418
+                    ],
+                    [
+                        30.790905,
+                        -25.71794
+                    ],
+                    [
+                        32.134741,
+                        -25.71794
+                    ],
+                    [
+                        32.134741,
+                        -27.317418
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "NoncedoDlamini",
+                "name": "Noncedo Dlamini",
+                "id": 1251995150,
+                "id_str": "1251995150",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817539581"
+}

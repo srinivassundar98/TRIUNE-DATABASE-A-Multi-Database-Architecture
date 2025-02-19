@@ -1,0 +1,175 @@
+{
+    "created_at": "Sun Apr 12 18:27:28 +0000 2020",
+    "id": 1249403777544859650,
+    "id_str": "1249403777544859650",
+    "text": "@mattias99125379 @candundaradasi Allah ne büyük sizin rezil alçak halinizi bize gösterdi dune kadar açıyorduk söze… https://t.co/JAxaQ5W3nI",
+    "display_text_range": [
+        33,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1248356541889208322,
+    "in_reply_to_status_id_str": "1248356541889208322",
+    "in_reply_to_user_id": 1244329915610279942,
+    "in_reply_to_user_id_str": "1244329915610279942",
+    "in_reply_to_screen_name": "mattias99125379",
+    "user": {
+        "id": 1217879610672717829,
+        "id_str": "1217879610672717829",
+        "name": "hARPUTLU",
+        "screen_name": "muslimizbiz16",
+        "location": null,
+        "url": null,
+        "description": "Yarabbi biz müslimlere zulmeden tağutları kahret zelil et yerle bir et sevdiklerinden ayır",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 241,
+        "friends_count": 979,
+        "listed_count": 1,
+        "favourites_count": 2410,
+        "statuses_count": 532,
+        "created_at": "Thu Jan 16 18:41:55 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248203474459738114/T3dWNB4z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248203474459738114/T3dWNB4z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1217879610672717829/1579202120",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3166615088e5d058",
+        "url": "https://api.twitter.com/1.1/geo/id/3166615088e5d058.json",
+        "place_type": "city",
+        "name": "Nilüfer",
+        "full_name": "Nilüfer, Türkiye",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        28.89592,
+                        40.176966
+                    ],
+                    [
+                        28.89592,
+                        40.27546
+                    ],
+                    [
+                        29.012762,
+                        40.27546
+                    ],
+                    [
+                        29.012762,
+                        40.176966
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@mattias99125379 @candundaradasi Allah ne büyük sizin rezil alçak halinizi bize gösterdi dune kadar açıyorduk söze ama hata etmişiz siz hala akillanmayacaksiniz iftira atmaya devam ediyorsunuz Allah sizi kahretsin corona virüsüyle surundursun",
+        "display_text_range": [
+            33,
+            242
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "mattias99125379",
+                    "name": "mattias",
+                    "id": 1244329915610279942,
+                    "id_str": "1244329915610279942",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "candundaradasi",
+                    "name": "Can Dündar",
+                    "id": 1638231860,
+                    "id_str": "1638231860",
+                    "indices": [
+                        17,
+                        32
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/JAxaQ5W3nI",
+                "expanded_url": "https://twitter.com/i/web/status/1249403777544859650",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "mattias99125379",
+                "name": "mattias",
+                "id": 1244329915610279942,
+                "id_str": "1244329915610279942",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "candundaradasi",
+                "name": "Can Dündar",
+                "id": 1638231860,
+                "id_str": "1638231860",
+                "indices": [
+                    17,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586716048023"
+}

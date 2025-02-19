@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Apr 25 14:39:33 +0000 2020",
+    "id": 1254057462694416384,
+    "id_str": "1254057462694416384",
+    "text": "oke fixs , jadi pengangguran terhormat di negeri orang ! Thankyou corona (ajg) !",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3123559891,
+        "id_str": "3123559891",
+        "name": "Ica",
+        "screen_name": "indulcahya",
+        "location": "Johore, Malaysia",
+        "url": "https://www.instagram.com/itsindah98/",
+        "description": "Indeed we belong to Allah, and indeed to him we will return. (Q.S Al-Baqarah: 156)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 191,
+        "friends_count": 105,
+        "listed_count": 0,
+        "favourites_count": 197,
+        "statuses_count": 542,
+        "created_at": "Wed Apr 01 08:35:26 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253090638154756096/FfQZxIUO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253090638154756096/FfQZxIUO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3123559891/1584547104",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "299bcf9388bcaef4",
+        "url": "https://api.twitter.com/1.1/geo/id/299bcf9388bcaef4.json",
+        "place_type": "city",
+        "name": "Senai Kulai",
+        "full_name": "Senai Kulai, Johor",
+        "country_code": "MY",
+        "country": "Malaysia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        103.449616,
+                        1.522834
+                    ],
+                    [
+                        103.449616,
+                        1.767571
+                    ],
+                    [
+                        103.73819,
+                        1.767571
+                    ],
+                    [
+                        103.73819,
+                        1.522834
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587825573024"
+}

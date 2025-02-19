@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 12:39:03 +0000 2020",
+    "id": 1254027139357147136,
+    "id_str": "1254027139357147136",
+    "text": "@WHO @UNICEF Corona was planned to harm economies.",
+    "display_text_range": [
+        13,
+        50
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253464496443658249,
+    "in_reply_to_status_id_str": "1253464496443658249",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "in_reply_to_screen_name": "WHO",
+    "user": {
+        "id": 1091926777482493953,
+        "id_str": "1091926777482493953",
+        "name": "sibi samuel",
+        "screen_name": "sibi012",
+        "location": "kerala (India)",
+        "url": null,
+        "description": "in God I trust.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 13,
+        "friends_count": 46,
+        "listed_count": 0,
+        "favourites_count": 2378,
+        "statuses_count": 2726,
+        "created_at": "Sun Feb 03 05:10:05 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253584872314036225/3l5romej_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253584872314036225/3l5romej_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091926777482493953/1587712897",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "WHO",
+                "name": "World Health Organization (WHO)",
+                "id": 14499829,
+                "id_str": "14499829",
+                "indices": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "screen_name": "UNICEF",
+                "name": "UNICEF",
+                "id": 33933259,
+                "id_str": "33933259",
+                "indices": [
+                    5,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818343377"
+}

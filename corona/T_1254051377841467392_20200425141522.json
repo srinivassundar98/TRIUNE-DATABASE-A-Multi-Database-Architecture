@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 14:15:22 +0000 2020",
+    "id": 1254051377841467392,
+    "id_str": "1254051377841467392",
+    "text": "@pradeepraturig @realDonaldTrump @BillGates india is far better combating corona virus than the most powerful count… https://t.co/ExuKKn4QAd",
+    "display_text_range": [
+        44,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254050180984221696,
+    "in_reply_to_status_id_str": "1254050180984221696",
+    "in_reply_to_user_id": 1179788616597299200,
+    "in_reply_to_user_id_str": "1179788616597299200",
+    "in_reply_to_screen_name": "pradeepraturig",
+    "user": {
+        "id": 1244847902150643712,
+        "id_str": "1244847902150643712",
+        "name": "A guy sense",
+        "screen_name": "Aguysense",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 15,
+        "listed_count": 0,
+        "favourites_count": 53,
+        "statuses_count": 210,
+        "created_at": "Tue Mar 31 04:44:13 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253271655696134144/_4aoWHus_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253271655696134144/_4aoWHus_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@pradeepraturig @realDonaldTrump @BillGates india is far better combating corona virus than the most powerful country in the world tf so wrong on so many levels",
+        "display_text_range": [
+            44,
+            160
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "pradeepraturig",
+                    "name": "Pradeep Raturi 🇮🇳 पहाड़ी भुला ॐ थराली विधानसभा",
+                    "id": 1179788616597299200,
+                    "id_str": "1179788616597299200",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "BillGates",
+                    "name": "Bill Gates",
+                    "id": 50393960,
+                    "id_str": "50393960",
+                    "indices": [
+                        33,
+                        43
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ExuKKn4QAd",
+                "expanded_url": "https://twitter.com/i/web/status/1254051377841467392",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "pradeepraturig",
+                "name": "Pradeep Raturi 🇮🇳 पहाड़ी भुला ॐ थराली विधानसभा",
+                "id": 1179788616597299200,
+                "id_str": "1179788616597299200",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    16,
+                    32
+                ]
+            },
+            {
+                "screen_name": "BillGates",
+                "name": "Bill Gates",
+                "id": 50393960,
+                "id_str": "50393960",
+                "indices": [
+                    33,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824122282"
+}

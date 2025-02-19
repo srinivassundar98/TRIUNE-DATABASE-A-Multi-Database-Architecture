@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 13:23:12 +0000 2020",
+    "id": 1254038252199251969,
+    "id_str": "1254038252199251969",
+    "text": "@APompliano On Corona https://t.co/xdrn4dWJ5F",
+    "display_text_range": [
+        12,
+        45
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254032104737976323,
+    "in_reply_to_status_id_str": "1254032104737976323",
+    "in_reply_to_user_id": 339061487,
+    "in_reply_to_user_id_str": "339061487",
+    "in_reply_to_screen_name": "APompliano",
+    "user": {
+        "id": 159405978,
+        "id_str": "159405978",
+        "name": "Ruben H.",
+        "screen_name": "GKRuben",
+        "location": "Hongkong",
+        "url": null,
+        "description": "Agnostic Trader | Scalpeur 👌 | #ES #NQ #GC #BTC | BLAMMO | Entrepreneur | Expat living",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2246,
+        "friends_count": 178,
+        "listed_count": 46,
+        "favourites_count": 6015,
+        "statuses_count": 3456,
+        "created_at": "Fri Jun 25 08:21:16 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/557595750591655936/pXmK0C5X_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/557595750591655936/pXmK0C5X_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/159405978/1584119468",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/xdrn4dWJ5F",
+                "expanded_url": "https://www.maurice.nl/2020/04/24/this-is-how-the-spread-of-covid-19-generally-takes-place/",
+                "display_url": "maurice.nl/2020/04/24/thi…",
+                "indices": [
+                    22,
+                    45
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "APompliano",
+                "name": "Pomp 🌪",
+                "id": 339061487,
+                "id_str": "339061487",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820992885"
+}

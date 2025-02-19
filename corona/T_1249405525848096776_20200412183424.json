@@ -1,0 +1,162 @@
+{
+    "created_at": "Sun Apr 12 18:34:24 +0000 2020",
+    "id": 1249405525848096776,
+    "id_str": "1249405525848096776",
+    "text": "@RickyNadir @AbelFris @TweetHola Het was Baudet die al 2 maanden aan Singapore refereerde. Om corona op hun manier… https://t.co/AoGMwlZYnS",
+    "display_text_range": [
+        33,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1248582547405254656,
+    "in_reply_to_status_id_str": "1248582547405254656",
+    "in_reply_to_user_id": 20974240,
+    "in_reply_to_user_id_str": "20974240",
+    "in_reply_to_screen_name": "RickyNadir",
+    "user": {
+        "id": 156160037,
+        "id_str": "156160037",
+        "name": "corne hartogs",
+        "screen_name": "plaatmagnaat",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 115,
+        "listed_count": 0,
+        "favourites_count": 17,
+        "statuses_count": 51,
+        "created_at": "Wed Jun 16 05:01:29 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240753689482145793/7ffBqnfP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240753689482145793/7ffBqnfP_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@RickyNadir @AbelFris @TweetHola Het was Baudet die al 2 maanden aan Singapore refereerde. Om corona op hun manier aan te pakken. Die gebruiken een app waar de NSB jaloers op zou zijn. Privacy? No.",
+        "display_text_range": [
+            33,
+            197
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RickyNadir",
+                    "name": "Hendrik Roskam 🙈🙉🙊",
+                    "id": 20974240,
+                    "id_str": "20974240",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "AbelFris",
+                    "name": "Abel Fris",
+                    "id": 202656594,
+                    "id_str": "202656594",
+                    "indices": [
+                        12,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "TweetHola",
+                    "name": "Petra 🇳🇱 🏛️🦉🤘🔥🤘",
+                    "id": 151199438,
+                    "id_str": "151199438",
+                    "indices": [
+                        22,
+                        32
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/AoGMwlZYnS",
+                "expanded_url": "https://twitter.com/i/web/status/1249405525848096776",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RickyNadir",
+                "name": "Hendrik Roskam 🙈🙉🙊",
+                "id": 20974240,
+                "id_str": "20974240",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "AbelFris",
+                "name": "Abel Fris",
+                "id": 202656594,
+                "id_str": "202656594",
+                "indices": [
+                    12,
+                    21
+                ]
+            },
+            {
+                "screen_name": "TweetHola",
+                "name": "Petra 🇳🇱 🏛️🦉🤘🔥🤘",
+                "id": 151199438,
+                "id_str": "151199438",
+                "indices": [
+                    22,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586716464851"
+}

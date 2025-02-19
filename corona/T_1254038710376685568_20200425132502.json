@@ -1,0 +1,116 @@
+{
+    "created_at": "Sat Apr 25 13:25:02 +0000 2020",
+    "id": 1254038710376685568,
+    "id_str": "1254038710376685568",
+    "text": "https://t.co/kD0IU2uCBL\nRewa मे corona का पहला केस",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1250805202405318657,
+        "id_str": "1250805202405318657",
+        "name": "Netrapal Sharma",
+        "screen_name": "netrapalbsr",
+        "location": "रीवा, भारत",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 8,
+        "listed_count": 0,
+        "favourites_count": 14,
+        "statuses_count": 7,
+        "created_at": "Thu Apr 16 15:16:48 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251091246392553473/HSWsiwgT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251091246392553473/HSWsiwgT_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "159a141cad06f102",
+        "url": "https://api.twitter.com/1.1/geo/id/159a141cad06f102.json",
+        "place_type": "admin",
+        "name": "Madhya Pradesh",
+        "full_name": "Madhya Pradesh, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        74.030686,
+                        21.073255
+                    ],
+                    [
+                        74.030686,
+                        26.868535
+                    ],
+                    [
+                        82.809772,
+                        26.868535
+                    ],
+                    [
+                        82.809772,
+                        21.073255
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/kD0IU2uCBL",
+                "expanded_url": "https://youtu.be/g0h1fnHWlsM",
+                "display_url": "youtu.be/g0h1fnHWlsM",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587821102123"
+}

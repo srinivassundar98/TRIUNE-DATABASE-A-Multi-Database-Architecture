@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 14:47:23 +0000 2020",
+    "id": 1254059435170783234,
+    "id_str": "1254059435170783234",
+    "text": "@Su4ita @RanaAyyub @ketto nagin seems to have heavy antibodies against Corona",
+    "display_text_range": [
+        26,
+        77
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253958401907781632,
+    "in_reply_to_status_id_str": "1253958401907781632",
+    "in_reply_to_user_id": 350728896,
+    "in_reply_to_user_id_str": "350728896",
+    "in_reply_to_screen_name": "Su4ita",
+    "user": {
+        "id": 65405938,
+        "id_str": "65405938",
+        "name": "Adi🇮🇳",
+        "screen_name": "ajeebinsaan",
+        "location": null,
+        "url": null,
+        "description": "India first...rest is perception.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 55,
+        "friends_count": 580,
+        "listed_count": 0,
+        "favourites_count": 111,
+        "statuses_count": 445,
+        "created_at": "Thu Aug 13 16:45:19 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109297738183630848/RW4n8MGv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109297738183630848/RW4n8MGv_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Su4ita",
+                "name": "Sucharita Tyagi",
+                "id": 350728896,
+                "id_str": "350728896",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "RanaAyyub",
+                "name": "Rana Ayyub",
+                "id": 268676434,
+                "id_str": "268676434",
+                "indices": [
+                    8,
+                    18
+                ]
+            },
+            {
+                "screen_name": "ketto",
+                "name": "Ketto",
+                "id": 549243040,
+                "id_str": "549243040",
+                "indices": [
+                    19,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587826043299"
+}

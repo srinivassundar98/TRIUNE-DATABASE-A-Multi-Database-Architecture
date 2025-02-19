@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:09:33 +0000 2020",
+    "id": 1254034815583760384,
+    "id_str": "1254034815583760384",
+    "text": "@AllyHapi @AllyHapi Watu wanapima vitu practically na siyo haya maandishi mliyo copy kutoka Kenya. Nenda hapo sokon… https://t.co/sX8IDAsyIN",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254032666506276864,
+    "in_reply_to_status_id_str": "1254032666506276864",
+    "in_reply_to_user_id": 1241121817,
+    "in_reply_to_user_id_str": "1241121817",
+    "in_reply_to_screen_name": "AllyHapi",
+    "user": {
+        "id": 1085774652897669120,
+        "id_str": "1085774652897669120",
+        "name": "Jchris",
+        "screen_name": "Jchris66283712",
+        "location": "Tanzania",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1728,
+        "friends_count": 405,
+        "listed_count": 0,
+        "favourites_count": 31020,
+        "statuses_count": 38662,
+        "created_at": "Thu Jan 17 05:43:44 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196769280047616001/H5A6Qe54_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196769280047616001/H5A6Qe54_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@AllyHapi @AllyHapi Watu wanapima vitu practically na siyo haya maandishi mliyo copy kutoka Kenya. Nenda hapo sokoni Iringa kama watu wana practice social distancing. Kama huamini basi peleka haya maandishi yako WB au IMF kama utapata hela yoyote. Corona haina propaganda.",
+        "display_text_range": [
+            10,
+            272
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AllyHapi",
+                    "name": "Ally Salum Hapi",
+                    "id": 1241121817,
+                    "id_str": "1241121817",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "AllyHapi",
+                    "name": "Ally Salum Hapi",
+                    "id": 1241121817,
+                    "id_str": "1241121817",
+                    "indices": [
+                        10,
+                        19
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/sX8IDAsyIN",
+                "expanded_url": "https://twitter.com/i/web/status/1254034815583760384",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "AllyHapi",
+                "name": "Ally Salum Hapi",
+                "id": 1241121817,
+                "id_str": "1241121817",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "AllyHapi",
+                "name": "Ally Salum Hapi",
+                "id": 1241121817,
+                "id_str": "1241121817",
+                "indices": [
+                    10,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587820173532"
+}

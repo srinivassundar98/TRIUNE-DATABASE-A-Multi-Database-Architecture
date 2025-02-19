@@ -1,0 +1,411 @@
+{
+    "created_at": "Sat Apr 25 14:30:29 +0000 2020",
+    "id": 1254055183216070662,
+    "id_str": "1254055183216070662",
+    "text": "RT @attorneybharti: Such a hasty n knee-jerk decision n that too when figures of corona affected is increasing like never b4 casts doubts o…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 398661490,
+        "id_str": "398661490",
+        "name": "JEETENDER PATHAK",
+        "screen_name": "jeetenderpathak",
+        "location": "chandigarh",
+        "url": null,
+        "description": "working in Phasr-2 Ind, Area chandigarh study in gss school sector-19D volantier in aam aadmi party chandigarh married and have 1 child",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1596,
+        "friends_count": 1986,
+        "listed_count": 55,
+        "favourites_count": 228863,
+        "statuses_count": 265089,
+        "created_at": "Wed Oct 26 11:16:52 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227473518574678016/GjbSXtnb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227473518574678016/GjbSXtnb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/398661490/1567327800",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 06:33:11 +0000 2020",
+        "id": 1253935065131708421,
+        "id_str": "1253935065131708421",
+        "text": "Such a hasty n knee-jerk decision n that too when figures of corona affected is increasing like never b4 casts doub… https://t.co/OjzZkG5fNF",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 83663427,
+            "id_str": "83663427",
+            "name": "Adv. Somnath Bharti",
+            "screen_name": "attorneybharti",
+            "location": "New Delhi, India",
+            "url": "http://www.somnathbharti.com",
+            "description": "Member of Legislative Assembly 4m @aapmalviyanagar; Founder Member,  Aam Aadmi Party, Auth Member, Delhi Development Authority; Advocate, Supreme Court of India",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 168904,
+            "friends_count": 1401,
+            "listed_count": 319,
+            "favourites_count": 380,
+            "statuses_count": 22625,
+            "created_at": "Mon Oct 19 18:52:17 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "DFDFDF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1225545705458196482/PRBt1XEs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225545705458196482/PRBt1XEs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/83663427/1581853319",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "317fcc4b21a604d5",
+            "url": "https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json",
+            "place_type": "city",
+            "name": "New Delhi",
+            "full_name": "New Delhi, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            76.84252,
+                            28.397657
+                        ],
+                        [
+                            76.84252,
+                            28.879322
+                        ],
+                        [
+                            77.347652,
+                            28.879322
+                        ],
+                        [
+                            77.347652,
+                            28.397657
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253780028887728128,
+        "quoted_status_id_str": "1253780028887728128",
+        "quoted_status": {
+            "created_at": "Fri Apr 24 20:17:07 +0000 2020",
+            "id": 1253780028887728128,
+            "id_str": "1253780028887728128",
+            "text": "कोरोना: आज से देश में खुलेंगी सभी दुकानें, लेकिन शर्तों के साथ सिर्फ 50% स्टाफ ही करेगा काम\n#Covid_19 \nhttps://t.co/QYp4K0D5YZ",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 39240673,
+                "id_str": "39240673",
+                "name": "ABP News",
+                "screen_name": "ABPNews",
+                "location": "India",
+                "url": "http://abplive.com",
+                "description": "Follow for latest news alerts from India",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 9563840,
+                "friends_count": 248,
+                "listed_count": 3942,
+                "favourites_count": 99,
+                "statuses_count": 236892,
+                "created_at": "Mon May 11 12:25:51 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "00326F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F5E216",
+                "profile_text_color": "080808",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1093087956141715456/uR5Dz8p2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093087956141715456/uR5Dz8p2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/39240673/1587813278",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 51,
+            "reply_count": 142,
+            "retweet_count": 291,
+            "favorite_count": 2430,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Covid_19",
+                        "indices": [
+                            92,
+                            101
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/QYp4K0D5YZ",
+                        "expanded_url": "https://www.abplive.com/news/india/home-ministry-ordered-to-open-all-shops-in-the-country-from-today-onwards-1361296",
+                        "display_url": "abplive.com/news/india/hom…",
+                        "indices": [
+                            103,
+                            126
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "hi"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/7cOFSUSLPo",
+            "expanded": "https://twitter.com/ABPNews/status/1253780028887728128",
+            "display": "twitter.com/ABPNews/status…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Such a hasty n knee-jerk decision n that too when figures of corona affected is increasing like never b4 casts doubts on seriousness of Central Govt in containing d pandemic becoz all along u hv bn advising pple to stay home showing severity of the situation is not in good taste!",
+            "display_text_range": [
+                0,
+                280
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 29,
+        "favorite_count": 51,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/OjzZkG5fNF",
+                    "expanded_url": "https://twitter.com/i/web/status/1253935065131708421",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1253780028887728128,
+    "quoted_status_id_str": "1253780028887728128",
+    "quoted_status": {
+        "created_at": "Fri Apr 24 20:17:07 +0000 2020",
+        "id": 1253780028887728128,
+        "id_str": "1253780028887728128",
+        "text": "कोरोना: आज से देश में खुलेंगी सभी दुकानें, लेकिन शर्तों के साथ सिर्फ 50% स्टाफ ही करेगा काम\n#Covid_19 \nhttps://t.co/QYp4K0D5YZ",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 39240673,
+            "id_str": "39240673",
+            "name": "ABP News",
+            "screen_name": "ABPNews",
+            "location": "India",
+            "url": "http://abplive.com",
+            "description": "Follow for latest news alerts from India",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 9563840,
+            "friends_count": 248,
+            "listed_count": 3942,
+            "favourites_count": 99,
+            "statuses_count": 236892,
+            "created_at": "Mon May 11 12:25:51 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "00326F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F5E216",
+            "profile_text_color": "080808",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1093087956141715456/uR5Dz8p2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093087956141715456/uR5Dz8p2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39240673/1587813278",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 51,
+        "reply_count": 142,
+        "retweet_count": 291,
+        "favorite_count": 2430,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        92,
+                        101
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/QYp4K0D5YZ",
+                    "expanded_url": "https://www.abplive.com/news/india/home-ministry-ordered-to-open-all-shops-in-the-country-from-today-onwards-1361296",
+                    "display_url": "abplive.com/news/india/hom…",
+                    "indices": [
+                        103,
+                        126
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "hi"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/7cOFSUSLPo",
+        "expanded": "https://twitter.com/ABPNews/status/1253780028887728128",
+        "display": "twitter.com/ABPNews/status…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "attorneybharti",
+                "name": "Adv. Somnath Bharti",
+                "id": 83663427,
+                "id_str": "83663427",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825029554"
+}

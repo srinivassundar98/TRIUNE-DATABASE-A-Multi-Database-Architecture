@@ -1,0 +1,134 @@
+{
+    "created_at": "Sat Apr 25 14:24:13 +0000 2020",
+    "id": 1254053604908052481,
+    "id_str": "1254053604908052481",
+    "text": "@pavel23 Christof Kuhbandner, Psychologieprofessor und Lehrstuhlinhaber an der Universität Regensburg, erklärt waru… https://t.co/z2Xam6xS7M",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1252959872620134403,
+    "in_reply_to_status_id_str": "1252959872620134403",
+    "in_reply_to_user_id": 17177278,
+    "in_reply_to_user_id_str": "17177278",
+    "in_reply_to_screen_name": "pavel23",
+    "user": {
+        "id": 65880875,
+        "id_str": "65880875",
+        "name": "Jürgen M. Möckel",
+        "screen_name": "1j2m",
+        "location": "Deutschland, NRW",
+        "url": "https://www.genbpm.com",
+        "description": "Generation ERP ist tot, es lebe Generation BPM",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 150,
+        "friends_count": 85,
+        "listed_count": 16,
+        "favourites_count": 383,
+        "statuses_count": 2264,
+        "created_at": "Sat Aug 15 11:35:59 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877640669048827904/XmXAC9qw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877640669048827904/XmXAC9qw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/65880875/1498081004",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@pavel23 Christof Kuhbandner, Psychologieprofessor und Lehrstuhlinhaber an der Universität Regensburg, erklärt warum die zunehmende Erhöhung der Anzahl der Coronavirus-Tests zu einer dramatischen Überschätzung des Anstiegs der Neuinfektionen führt. \n\nhttps://t.co/zdDp9eTrwx",
+        "display_text_range": [
+            9,
+            274
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/zdDp9eTrwx",
+                    "expanded_url": "https://scilogs.spektrum.de/menschen-bilder/von-der-fehlenden-wissenschaftlichen-begruendung-der-corona-massnahmen/",
+                    "display_url": "scilogs.spektrum.de/menschen-bilde…",
+                    "indices": [
+                        251,
+                        274
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "pavel23",
+                    "name": "Pavel Mayer",
+                    "id": 17177278,
+                    "id_str": "17177278",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/z2Xam6xS7M",
+                "expanded_url": "https://twitter.com/i/web/status/1254053604908052481",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "pavel23",
+                "name": "Pavel Mayer",
+                "id": 17177278,
+                "id_str": "17177278",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824653256"
+}

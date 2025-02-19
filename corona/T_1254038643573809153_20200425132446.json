@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:24:46 +0000 2020",
+    "id": 1254038643573809153,
+    "id_str": "1254038643573809153",
+    "text": "@dearoursummer Alhamdulillah sehat.\nSragen naik terus angkanya.bandel bandel sih. 😢\nSemenjak corona blm pulang, msh tertahan di jogja.",
+    "display_text_range": [
+        15,
+        134
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254031646459703296,
+    "in_reply_to_status_id_str": "1254031646459703296",
+    "in_reply_to_user_id": 233485814,
+    "in_reply_to_user_id_str": "233485814",
+    "in_reply_to_screen_name": "dearoursummer",
+    "user": {
+        "id": 746661206,
+        "id_str": "746661206",
+        "name": "Devita Aditya",
+        "screen_name": "devitaadityaw",
+        "location": "Sragen",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 268,
+        "friends_count": 266,
+        "listed_count": 0,
+        "favourites_count": 205,
+        "statuses_count": 8392,
+        "created_at": "Thu Aug 09 06:09:39 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "3F420D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "7D8A3A",
+        "profile_sidebar_fill_color": "A4D6C6",
+        "profile_text_color": "7D8A3A",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217525029702733824/quTzCSdh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217525029702733824/quTzCSdh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/746661206/1379348692",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "ea9809774c4145c3",
+        "url": "https://api.twitter.com/1.1/geo/id/ea9809774c4145c3.json",
+        "place_type": "city",
+        "name": "Mlati",
+        "full_name": "Mlati, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        110.304567,
+                        -7.773728
+                    ],
+                    [
+                        110.304567,
+                        -7.699502
+                    ],
+                    [
+                        110.38574,
+                        -7.699502
+                    ],
+                    [
+                        110.38574,
+                        -7.773728
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "dearoursummer",
+                "name": "Faa",
+                "id": 233485814,
+                "id_str": "233485814",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587821086196"
+}

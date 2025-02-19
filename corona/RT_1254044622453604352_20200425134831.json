@@ -1,0 +1,588 @@
+{
+    "created_at": "Sat Apr 25 13:48:31 +0000 2020",
+    "id": 1254044622453604352,
+    "id_str": "1254044622453604352",
+    "text": "RT @excelentememe: eu a questionar como estaria a minha vida agora sem o corona",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3422048116,
+        "id_str": "3422048116",
+        "name": "⌦",
+        "screen_name": "opetravndunemgn",
+        "location": "uk",
+        "url": null,
+        "description": "𝐬𝐡𝐨𝐫𝐭𝐲 𝐚𝐬𝐬𝐞𝐳 𝐨𝐫𝐝𝐢𝐧𝐚𝐢𝐫𝐞. x 𝑩𝑫𝑺... 𝒈𝒊𝒓𝒍⚧",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 286,
+        "friends_count": 184,
+        "listed_count": 0,
+        "favourites_count": 8580,
+        "statuses_count": 15099,
+        "created_at": "Fri Aug 14 11:26:39 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251982667836542978/C2hsTnHj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251982667836542978/C2hsTnHj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3422048116/1587503758",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Apr 21 01:22:27 +0000 2020",
+        "id": 1252407316994854915,
+        "id_str": "1252407316994854915",
+        "text": "eu a questionar como estaria a minha vida agora sem o corona",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3575833755,
+            "id_str": "3575833755",
+            "name": "flávia",
+            "screen_name": "excelentememe",
+            "location": "barreiro ",
+            "url": "https://www.instagram.com/flavvias/",
+            "description": "*+!:( !!* slatt _ ! (@toudoidoi)",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 953,
+            "friends_count": 414,
+            "listed_count": 10,
+            "favourites_count": 23633,
+            "statuses_count": 55532,
+            "created_at": "Mon Sep 07 10:20:20 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "227790",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252408929226616834/OXdt9xUQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252408929226616834/OXdt9xUQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3575833755/1587309891",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "8ac7f9d6b1d93333",
+            "url": "https://api.twitter.com/1.1/geo/id/8ac7f9d6b1d93333.json",
+            "place_type": "city",
+            "name": "Barreiro",
+            "full_name": "Barreiro, Portugal",
+            "country_code": "PT",
+            "country": "Portugal",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -9.09296,
+                            38.577962
+                        ],
+                        [
+                            -9.09296,
+                            38.684068
+                        ],
+                        [
+                            -8.997174,
+                            38.684068
+                        ],
+                        [
+                            -8.997174,
+                            38.577962
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1203262144696987649,
+        "quoted_status_id_str": "1203262144696987649",
+        "quoted_status": {
+            "created_at": "Sat Dec 07 10:37:05 +0000 2019",
+            "id": 1203262144696987649,
+            "id_str": "1203262144696987649",
+            "text": "bomboclaat https://t.co/MWNLvVMjDx",
+            "display_text_range": [
+                0,
+                10
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1088708711344939008,
+                "id_str": "1088708711344939008",
+                "name": "who is she?",
+                "screen_name": "callmeamahle",
+                "location": null,
+                "url": "http://www.instagram.com/callmeamahle",
+                "description": null,
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1301,
+                "friends_count": 38,
+                "listed_count": 1,
+                "favourites_count": 12955,
+                "statuses_count": 601,
+                "created_at": "Fri Jan 25 08:02:38 +0000 2019",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1253315093904982016/OdFxrBLL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253315093904982016/OdFxrBLL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088708711344939008/1587648582",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 9806,
+            "reply_count": 173,
+            "retweet_count": 499,
+            "favorite_count": 5055,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1203262092050075648,
+                        "id_str": "1203262092050075648",
+                        "indices": [
+                            11,
+                            34
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/ELLYf2BWkAAe7ac.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELLYf2BWkAAe7ac.jpg",
+                        "url": "https://t.co/MWNLvVMjDx",
+                        "display_url": "pic.twitter.com/MWNLvVMjDx",
+                        "expanded_url": "https://twitter.com/callmeamahle/status/1203262144696987649/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 599,
+                                "h": 599,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 599,
+                                "h": 599,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 599,
+                                "h": 599,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1203262092050075648,
+                        "id_str": "1203262092050075648",
+                        "indices": [
+                            11,
+                            34
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/ELLYf2BWkAAe7ac.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELLYf2BWkAAe7ac.jpg",
+                        "url": "https://t.co/MWNLvVMjDx",
+                        "display_url": "pic.twitter.com/MWNLvVMjDx",
+                        "expanded_url": "https://twitter.com/callmeamahle/status/1203262144696987649/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 599,
+                                "h": 599,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 599,
+                                "h": 599,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 599,
+                                "h": 599,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1203262093304184832,
+                        "id_str": "1203262093304184832",
+                        "indices": [
+                            11,
+                            34
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/ELLYf6sWwAAmJFf.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ELLYf6sWwAAmJFf.jpg",
+                        "url": "https://t.co/MWNLvVMjDx",
+                        "display_url": "pic.twitter.com/MWNLvVMjDx",
+                        "expanded_url": "https://twitter.com/callmeamahle/status/1203262144696987649/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 536,
+                                "h": 536,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 536,
+                                "h": 536,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 536,
+                                "h": 536,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "in"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/Y5TECmTVyq",
+            "expanded": "https://twitter.com/callmeamahle/status/1203262144696987649",
+            "display": "twitter.com/callmeamahle/s…"
+        },
+        "is_quote_status": true,
+        "quote_count": 43,
+        "reply_count": 8,
+        "retweet_count": 4862,
+        "favorite_count": 3932,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "pt"
+    },
+    "quoted_status_id": 1203262144696987649,
+    "quoted_status_id_str": "1203262144696987649",
+    "quoted_status": {
+        "created_at": "Sat Dec 07 10:37:05 +0000 2019",
+        "id": 1203262144696987649,
+        "id_str": "1203262144696987649",
+        "text": "bomboclaat https://t.co/MWNLvVMjDx",
+        "display_text_range": [
+            0,
+            10
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1088708711344939008,
+            "id_str": "1088708711344939008",
+            "name": "who is she?",
+            "screen_name": "callmeamahle",
+            "location": null,
+            "url": "http://www.instagram.com/callmeamahle",
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1301,
+            "friends_count": 38,
+            "listed_count": 1,
+            "favourites_count": 12955,
+            "statuses_count": 601,
+            "created_at": "Fri Jan 25 08:02:38 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1253315093904982016/OdFxrBLL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253315093904982016/OdFxrBLL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088708711344939008/1587648582",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 9806,
+        "reply_count": 173,
+        "retweet_count": 499,
+        "favorite_count": 5055,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1203262092050075648,
+                    "id_str": "1203262092050075648",
+                    "indices": [
+                        11,
+                        34
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ELLYf2BWkAAe7ac.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELLYf2BWkAAe7ac.jpg",
+                    "url": "https://t.co/MWNLvVMjDx",
+                    "display_url": "pic.twitter.com/MWNLvVMjDx",
+                    "expanded_url": "https://twitter.com/callmeamahle/status/1203262144696987649/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 599,
+                            "h": 599,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 599,
+                            "h": 599,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 599,
+                            "h": 599,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1203262092050075648,
+                    "id_str": "1203262092050075648",
+                    "indices": [
+                        11,
+                        34
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ELLYf2BWkAAe7ac.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELLYf2BWkAAe7ac.jpg",
+                    "url": "https://t.co/MWNLvVMjDx",
+                    "display_url": "pic.twitter.com/MWNLvVMjDx",
+                    "expanded_url": "https://twitter.com/callmeamahle/status/1203262144696987649/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 599,
+                            "h": 599,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 599,
+                            "h": 599,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 599,
+                            "h": 599,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1203262093304184832,
+                    "id_str": "1203262093304184832",
+                    "indices": [
+                        11,
+                        34
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ELLYf6sWwAAmJFf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ELLYf6sWwAAmJFf.jpg",
+                    "url": "https://t.co/MWNLvVMjDx",
+                    "display_url": "pic.twitter.com/MWNLvVMjDx",
+                    "expanded_url": "https://twitter.com/callmeamahle/status/1203262144696987649/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 536,
+                            "h": 536,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 536,
+                            "h": 536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 536,
+                            "h": 536,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "in"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/Y5TECmTVyq",
+        "expanded": "https://twitter.com/callmeamahle/status/1203262144696987649",
+        "display": "twitter.com/callmeamahle/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "excelentememe",
+                "name": "flávia",
+                "id": 3575833755,
+                "id_str": "3575833755",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587822511672"
+}

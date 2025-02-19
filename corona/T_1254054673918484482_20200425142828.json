@@ -1,0 +1,138 @@
+{
+    "created_at": "Sat Apr 25 14:28:28 +0000 2020",
+    "id": 1254054673918484482,
+    "id_str": "1254054673918484482",
+    "text": "One more thought to think about @realDonaldTrump \n\nhttps://t.co/ZtzsCoqrdW\n\nLet’s just let it linger around some mo… https://t.co/IAFIgxpj5X",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254048782586482693,
+    "in_reply_to_status_id_str": "1254048782586482693",
+    "in_reply_to_user_id": 1253552680393310209,
+    "in_reply_to_user_id_str": "1253552680393310209",
+    "in_reply_to_screen_name": "Brianme29226166",
+    "user": {
+        "id": 1253552680393310209,
+        "id_str": "1253552680393310209",
+        "name": "Brian meyer",
+        "screen_name": "Brianme29226166",
+        "location": null,
+        "url": null,
+        "description": "Out of the box eye doc",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 0,
+        "listed_count": 0,
+        "favourites_count": 1,
+        "statuses_count": 4,
+        "created_at": "Fri Apr 24 05:13:55 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "One more thought to think about @realDonaldTrump \n\nhttps://t.co/ZtzsCoqrdW\n\nLet’s just let it linger around some more.. infect more hospital staff, use more ppe, destroy the economy.  Nonsense!  I would do a betadine eyewash in a heartbeat.",
+        "display_text_range": [
+            0,
+            240
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ZtzsCoqrdW",
+                    "expanded_url": "https://www.foxnews.com/science/coronavirus-lingered-womans-eyes-long-after-it-cleared-from-her-nose-study-reveals",
+                    "display_url": "foxnews.com/science/corona…",
+                    "indices": [
+                        51,
+                        74
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        32,
+                        48
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ZtzsCoqrdW",
+                "expanded_url": "https://www.foxnews.com/science/coronavirus-lingered-womans-eyes-long-after-it-cleared-from-her-nose-study-reveals",
+                "display_url": "foxnews.com/science/corona…",
+                "indices": [
+                    51,
+                    74
+                ]
+            },
+            {
+                "url": "https://t.co/IAFIgxpj5X",
+                "expanded_url": "https://twitter.com/i/web/status/1254054673918484482",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    32,
+                    48
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824908128"
+}

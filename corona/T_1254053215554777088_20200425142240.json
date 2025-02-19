@@ -1,0 +1,168 @@
+{
+    "created_at": "Sat Apr 25 14:22:40 +0000 2020",
+    "id": 1254053215554777088,
+    "id_str": "1254053215554777088",
+    "text": "@Rectitude20 Here’s a good reason not to support the very rushed, UN safety tested corona virus vaccine. https://t.co/0CXZsDNiHm",
+    "display_text_range": [
+        13,
+        104
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253905509477871621,
+    "in_reply_to_status_id_str": "1253905509477871621",
+    "in_reply_to_user_id": 1013291026755317760,
+    "in_reply_to_user_id_str": "1013291026755317760",
+    "in_reply_to_screen_name": "Rectitude20",
+    "user": {
+        "id": 820071863632031744,
+        "id_str": "820071863632031744",
+        "name": "Ken Holt",
+        "screen_name": "KenHolt13",
+        "location": "California, USA",
+        "url": null,
+        "description": "Photography Science Hockey Sports Technology & Science Art",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1071,
+        "friends_count": 2461,
+        "listed_count": 1,
+        "favourites_count": 47705,
+        "statuses_count": 22233,
+        "created_at": "Sat Jan 14 00:55:43 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248111761766539264/XzSe5ly4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248111761766539264/XzSe5ly4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820071863632031744/1586115176",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Rectitude20",
+                "name": "VaccineTruths",
+                "id": 1013291026755317760,
+                "id_str": "1013291026755317760",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254053205102587906,
+                "id_str": "1254053205102587906",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdKvuuUcAI2p1i.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdKvuuUcAI2p1i.jpg",
+                "url": "https://t.co/0CXZsDNiHm",
+                "display_url": "pic.twitter.com/0CXZsDNiHm",
+                "expanded_url": "https://twitter.com/KenHolt13/status/1254053215554777088/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1152,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254053205102587906,
+                "id_str": "1254053205102587906",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdKvuuUcAI2p1i.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdKvuuUcAI2p1i.jpg",
+                "url": "https://t.co/0CXZsDNiHm",
+                "display_url": "pic.twitter.com/0CXZsDNiHm",
+                "expanded_url": "https://twitter.com/KenHolt13/status/1254053215554777088/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1152,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824560427"
+}

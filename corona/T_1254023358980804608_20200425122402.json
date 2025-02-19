@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 12:24:02 +0000 2020",
+    "id": 1254023358980804608,
+    "id_str": "1254023358980804608",
+    "text": "@bitterlemmer Unsere AfD gibt leider in Sachen Corona eine jämmerliche Figur ab. Weil sie intern über den Umgang mi… https://t.co/FemMfBwkaW",
+    "display_text_range": [
+        14,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254015371490754562,
+    "in_reply_to_status_id_str": "1254015371490754562",
+    "in_reply_to_user_id": 17893836,
+    "in_reply_to_user_id_str": "17893836",
+    "in_reply_to_screen_name": "bitterlemmer",
+    "user": {
+        "id": 907273215893962752,
+        "id_str": "907273215893962752",
+        "name": "Daniel Rödding",
+        "screen_name": "dan_roedding",
+        "location": "Berlin, Deutschland",
+        "url": null,
+        "description": "Software-Entwickler und Projektmanager, seit mittlerweile 22 Jahren selbstständig tätig. Schwerpunkte Backend, C/C++, Performance, systemnah, Linux.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 495,
+        "friends_count": 209,
+        "listed_count": 4,
+        "favourites_count": 17011,
+        "statuses_count": 31844,
+        "created_at": "Mon Sep 11 16:02:45 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061449517311115264/bZ8H7KVj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061449517311115264/bZ8H7KVj_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@bitterlemmer Unsere AfD gibt leider in Sachen Corona eine jämmerliche Figur ab. Weil sie intern über den Umgang mit der Krise auch gehörig gespalten ist.",
+        "display_text_range": [
+            14,
+            154
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "bitterlemmer",
+                    "name": "bitterlemmer",
+                    "id": 17893836,
+                    "id_str": "17893836",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/FemMfBwkaW",
+                "expanded_url": "https://twitter.com/i/web/status/1254023358980804608",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "bitterlemmer",
+                "name": "bitterlemmer",
+                "id": 17893836,
+                "id_str": "17893836",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587817442065"
+}

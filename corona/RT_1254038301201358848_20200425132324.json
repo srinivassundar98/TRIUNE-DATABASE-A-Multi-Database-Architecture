@@ -1,0 +1,631 @@
+{
+    "created_at": "Sat Apr 25 13:23:24 +0000 2020",
+    "id": 1254038301201358848,
+    "id_str": "1254038301201358848",
+    "text": "RT @SaalaJeng: I share some thoughts on #Care, #Parenting and #Working from #Home on @TimesCorona  (Thanks to the editorial team): https://…",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 45867369,
+        "id_str": "45867369",
+        "name": "CAS Edinburgh",
+        "screen_name": "africanstudies",
+        "location": "Edinburgh",
+        "url": null,
+        "description": "Interdisciplinary centre at the University of Edinburgh researching, teaching and engaging with Africa",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4861,
+        "friends_count": 528,
+        "listed_count": 70,
+        "favourites_count": 533,
+        "statuses_count": 3687,
+        "created_at": "Tue Jun 09 15:55:31 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000630159273/5cae0cc57a44503287319e1a5d81f4c4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000630159273/5cae0cc57a44503287319e1a5d81f4c4_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45867369/1557319306",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Apr 22 18:37:47 +0000 2020",
+        "id": 1253030254236622850,
+        "id_str": "1253030254236622850",
+        "text": "I share some thoughts on #Care, #Parenting and #Working from #Home on @TimesCorona  (Thanks to the editorial team):… https://t.co/ugg93M7T6w",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2888393537,
+            "id_str": "2888393537",
+            "name": "Dr Rama Dieng",
+            "screen_name": "SaalaJeng",
+            "location": "Scotland - Senegal ",
+            "url": null,
+            "description": "Migrant|Academic| Foodie| Feminist Pol. Econ. | Critical Agrarian Studies| Poetry |\nProgramme Director MSc Africa & International Development @edinburghuni",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2522,
+            "friends_count": 2046,
+            "listed_count": 39,
+            "favourites_count": 5783,
+            "statuses_count": 5909,
+            "created_at": "Sat Nov 22 21:52:29 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "89C9FA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1087077804053856256/Pf8UKN9n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087077804053856256/Pf8UKN9n_normal.jpg",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253026259753480192,
+        "quoted_status_id_str": "1253026259753480192",
+        "quoted_status": {
+            "created_at": "Wed Apr 22 18:21:55 +0000 2020",
+            "id": 1253026259753480192,
+            "id_str": "1253026259753480192",
+            "text": "\"My partner, toddler and I have always been champions at strategising, planning for every major decision. Then… https://t.co/qWi550Qkm4",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1241760742250098689,
+                "id_str": "1241760742250098689",
+                "name": "Corona Times",
+                "screen_name": "TimesCorona",
+                "location": null,
+                "url": null,
+                "description": "http://www.coronatimes.net \nUnderstanding the world through Covid-19. \nProject of HUMA - the Institute for the Humanities in Africa, University of Cape Town.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 221,
+                "friends_count": 161,
+                "listed_count": 0,
+                "favourites_count": 8,
+                "statuses_count": 370,
+                "created_at": "Sun Mar 22 16:17:25 +0000 2020",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1241760981572861960/HvHTHMwS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241760981572861960/HvHTHMwS_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241760742250098689/1586192747",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "\"My partner, toddler and I have always been champions at strategising, planning for every major decision. Then #Covid19 hit.\" - Dr Rama Dieng @SaalaJeng from University of Edinburgh for Corona Times.\n\n#Parenting #Gender #HomeOffice \n\nhttps://t.co/4byxoW4oTB",
+                "display_text_range": [
+                    0,
+                    257
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Covid19",
+                            "indices": [
+                                111,
+                                119
+                            ]
+                        },
+                        {
+                            "text": "Parenting",
+                            "indices": [
+                                201,
+                                211
+                            ]
+                        },
+                        {
+                            "text": "Gender",
+                            "indices": [
+                                212,
+                                219
+                            ]
+                        },
+                        {
+                            "text": "HomeOffice",
+                            "indices": [
+                                220,
+                                231
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/4byxoW4oTB",
+                            "expanded_url": "https://www.coronatimes.net/parenting-home-working-covid-19/",
+                            "display_url": "coronatimes.net/parenting-home…",
+                            "indices": [
+                                234,
+                                257
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "SaalaJeng",
+                            "name": "Dr Rama Dieng",
+                            "id": 2888393537,
+                            "id_str": "2888393537",
+                            "indices": [
+                                142,
+                                152
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 10,
+            "reply_count": 2,
+            "retweet_count": 23,
+            "favorite_count": 30,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/qWi550Qkm4",
+                        "expanded_url": "https://twitter.com/i/web/status/1253026259753480192",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            112,
+                            135
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/QBI0ceU3RO",
+            "expanded": "https://twitter.com/TimesCorona/status/1253026259753480192",
+            "display": "twitter.com/TimesCorona/st…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "I share some thoughts on #Care, #Parenting and #Working from #Home on @TimesCorona  (Thanks to the editorial team): https://t.co/EVYnQZ0Kql \nViews are my own. https://t.co/QBI0ceU3RO",
+            "display_text_range": [
+                0,
+                158
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Care",
+                        "indices": [
+                            25,
+                            30
+                        ]
+                    },
+                    {
+                        "text": "Parenting",
+                        "indices": [
+                            32,
+                            42
+                        ]
+                    },
+                    {
+                        "text": "Working",
+                        "indices": [
+                            47,
+                            55
+                        ]
+                    },
+                    {
+                        "text": "Home",
+                        "indices": [
+                            61,
+                            66
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/EVYnQZ0Kql",
+                        "expanded_url": "https://www.coronatimes.net/parenting-home-working-covid-19/",
+                        "display_url": "coronatimes.net/parenting-home…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/QBI0ceU3RO",
+                        "expanded_url": "https://twitter.com/TimesCorona/status/1253026259753480192",
+                        "display_url": "twitter.com/TimesCorona/st…",
+                        "indices": [
+                            159,
+                            182
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "TimesCorona",
+                        "name": "Corona Times",
+                        "id": 1241760742250098689,
+                        "id_str": "1241760742250098689",
+                        "indices": [
+                            70,
+                            82
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 6,
+        "reply_count": 5,
+        "retweet_count": 28,
+        "favorite_count": 51,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Care",
+                    "indices": [
+                        25,
+                        30
+                    ]
+                },
+                {
+                    "text": "Parenting",
+                    "indices": [
+                        32,
+                        42
+                    ]
+                },
+                {
+                    "text": "Working",
+                    "indices": [
+                        47,
+                        55
+                    ]
+                },
+                {
+                    "text": "Home",
+                    "indices": [
+                        61,
+                        66
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ugg93M7T6w",
+                    "expanded_url": "https://twitter.com/i/web/status/1253030254236622850",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "TimesCorona",
+                    "name": "Corona Times",
+                    "id": 1241760742250098689,
+                    "id_str": "1241760742250098689",
+                    "indices": [
+                        70,
+                        82
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_id": 1253026259753480192,
+    "quoted_status_id_str": "1253026259753480192",
+    "quoted_status": {
+        "created_at": "Wed Apr 22 18:21:55 +0000 2020",
+        "id": 1253026259753480192,
+        "id_str": "1253026259753480192",
+        "text": "\"My partner, toddler and I have always been champions at strategising, planning for every major decision. Then… https://t.co/qWi550Qkm4",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1241760742250098689,
+            "id_str": "1241760742250098689",
+            "name": "Corona Times",
+            "screen_name": "TimesCorona",
+            "location": null,
+            "url": null,
+            "description": "http://www.coronatimes.net \nUnderstanding the world through Covid-19. \nProject of HUMA - the Institute for the Humanities in Africa, University of Cape Town.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 221,
+            "friends_count": 161,
+            "listed_count": 0,
+            "favourites_count": 8,
+            "statuses_count": 370,
+            "created_at": "Sun Mar 22 16:17:25 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1241760981572861960/HvHTHMwS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241760981572861960/HvHTHMwS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241760742250098689/1586192747",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "\"My partner, toddler and I have always been champions at strategising, planning for every major decision. Then #Covid19 hit.\" - Dr Rama Dieng @SaalaJeng from University of Edinburgh for Corona Times.\n\n#Parenting #Gender #HomeOffice \n\nhttps://t.co/4byxoW4oTB",
+            "display_text_range": [
+                0,
+                257
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Covid19",
+                        "indices": [
+                            111,
+                            119
+                        ]
+                    },
+                    {
+                        "text": "Parenting",
+                        "indices": [
+                            201,
+                            211
+                        ]
+                    },
+                    {
+                        "text": "Gender",
+                        "indices": [
+                            212,
+                            219
+                        ]
+                    },
+                    {
+                        "text": "HomeOffice",
+                        "indices": [
+                            220,
+                            231
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/4byxoW4oTB",
+                        "expanded_url": "https://www.coronatimes.net/parenting-home-working-covid-19/",
+                        "display_url": "coronatimes.net/parenting-home…",
+                        "indices": [
+                            234,
+                            257
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "SaalaJeng",
+                        "name": "Dr Rama Dieng",
+                        "id": 2888393537,
+                        "id_str": "2888393537",
+                        "indices": [
+                            142,
+                            152
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 10,
+        "reply_count": 2,
+        "retweet_count": 23,
+        "favorite_count": 30,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qWi550Qkm4",
+                    "expanded_url": "https://twitter.com/i/web/status/1253026259753480192",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        112,
+                        135
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/QBI0ceU3RO",
+        "expanded": "https://twitter.com/TimesCorona/status/1253026259753480192",
+        "display": "twitter.com/TimesCorona/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Care",
+                "indices": [
+                    40,
+                    45
+                ]
+            },
+            {
+                "text": "Parenting",
+                "indices": [
+                    47,
+                    57
+                ]
+            },
+            {
+                "text": "Working",
+                "indices": [
+                    62,
+                    70
+                ]
+            },
+            {
+                "text": "Home",
+                "indices": [
+                    76,
+                    81
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "SaalaJeng",
+                "name": "Dr Rama Dieng",
+                "id": 2888393537,
+                "id_str": "2888393537",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "TimesCorona",
+                "name": "Corona Times",
+                "id": 1241760742250098689,
+                "id_str": "1241760742250098689",
+                "indices": [
+                    85,
+                    97
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821004568"
+}

@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:10:37 +0000 2020",
+    "id": 1254050183991701505,
+    "id_str": "1254050183991701505",
+    "text": "@linnas79 @wouterkeller Ik denk dat we inderdaad Zweden niet als ons voorbeeld of model (hadden) moeten nemen of ku… https://t.co/5T74GsywJA",
+    "display_text_range": [
+        24,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254049346653499393,
+    "in_reply_to_status_id_str": "1254049346653499393",
+    "in_reply_to_user_id": 51489126,
+    "in_reply_to_user_id_str": "51489126",
+    "in_reply_to_screen_name": "linnas79",
+    "user": {
+        "id": 44915434,
+        "id_str": "44915434",
+        "name": "Tony Brugman",
+        "screen_name": "tonybrugman",
+        "location": "Arnhem, Netherlands",
+        "url": null,
+        "description": "Information Designer / Data Vizzer 📊 and Trends Detective 🧐. Loves to create impactful visualisations and publications by using data and information 🎨",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 504,
+        "friends_count": 483,
+        "listed_count": 73,
+        "favourites_count": 4436,
+        "statuses_count": 5285,
+        "created_at": "Fri Jun 05 15:24:39 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/503823072311271424/4C5VPneC_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/503823072311271424/4C5VPneC_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44915434/1408956001",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@linnas79 @wouterkeller Ik denk dat we inderdaad Zweden niet als ons voorbeeld of model (hadden) moeten nemen of kunnen nemen. Want zelfs met een milde lockdown hebben nu 4000-8000 Corona doden te betreuren 🙄 dat is in perspectief gezien helaas echt (te) veel",
+        "display_text_range": [
+            24,
+            259
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "linnas79",
+                    "name": "Linda🇳🇿",
+                    "id": 51489126,
+                    "id_str": "51489126",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "wouterkeller",
+                    "name": "Wouter J. Keller",
+                    "id": 323676592,
+                    "id_str": "323676592",
+                    "indices": [
+                        10,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/5T74GsywJA",
+                "expanded_url": "https://twitter.com/i/web/status/1254050183991701505",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "linnas79",
+                "name": "Linda🇳🇿",
+                "id": 51489126,
+                "id_str": "51489126",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "wouterkeller",
+                "name": "Wouter J. Keller",
+                "id": 323676592,
+                "id_str": "323676592",
+                "indices": [
+                    10,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587823837646"
+}

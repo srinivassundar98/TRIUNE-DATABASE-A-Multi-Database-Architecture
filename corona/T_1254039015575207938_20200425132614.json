@@ -1,0 +1,129 @@
+{
+    "created_at": "Sat Apr 25 13:26:14 +0000 2020",
+    "id": 1254039015575207938,
+    "id_str": "1254039015575207938",
+    "text": "I’ve generally accepted this lockdown/corona situation but today I’m just feeling really fucking angry that the dep… https://t.co/9hEg7zD3yr",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 40727031,
+        "id_str": "40727031",
+        "name": "Sarah 🌹",
+        "screen_name": "sglenton",
+        "location": "London",
+        "url": null,
+        "description": "22. Reylo trash.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 454,
+        "friends_count": 1659,
+        "listed_count": 19,
+        "favourites_count": 15773,
+        "statuses_count": 36356,
+        "created_at": "Sun May 17 20:11:14 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164216961917693952/L1QNlUyI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164216961917693952/L1QNlUyI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40727031/1566407546",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "21a9d859b598883a",
+        "url": "https://api.twitter.com/1.1/geo/id/21a9d859b598883a.json",
+        "place_type": "city",
+        "name": "Southall",
+        "full_name": "Southall, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -0.419679,
+                        51.491499
+                    ],
+                    [
+                        -0.419679,
+                        51.559366
+                    ],
+                    [
+                        -0.302681,
+                        51.559366
+                    ],
+                    [
+                        -0.302681,
+                        51.491499
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "I’ve generally accepted this lockdown/corona situation but today I’m just feeling really fucking angry that the depressive episode I’ve been having since basically mid 2019 was just starting to lift in early March and now everything is fucked up again",
+        "display_text_range": [
+            0,
+            251
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/9hEg7zD3yr",
+                "expanded_url": "https://twitter.com/i/web/status/1254039015575207938",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821174888"
+}

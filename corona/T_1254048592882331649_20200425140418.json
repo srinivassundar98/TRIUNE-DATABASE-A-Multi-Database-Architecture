@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:04:18 +0000 2020",
+    "id": 1254048592882331649,
+    "id_str": "1254048592882331649",
+    "text": "@idtodayco Msh jalan donk https://t.co/e6HL6CRSAX",
+    "display_text_range": [
+        11,
+        49
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253876516653391877,
+    "in_reply_to_status_id_str": "1253876516653391877",
+    "in_reply_to_user_id": 1082992095361609728,
+    "in_reply_to_user_id_str": "1082992095361609728",
+    "in_reply_to_screen_name": "idtodayco",
+    "user": {
+        "id": 1247223116645806080,
+        "id_str": "1247223116645806080",
+        "name": "fucek",
+        "screen_name": "fucek57269832",
+        "location": null,
+        "url": null,
+        "description": "vio",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 0,
+        "listed_count": 0,
+        "favourites_count": 4,
+        "statuses_count": 389,
+        "created_at": "Mon Apr 06 18:02:24 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247224863099478018/AEtC5ytk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247224863099478018/AEtC5ytk_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/e6HL6CRSAX",
+                "expanded_url": "https://www.google.com/amp/s/amp.kompas.com/money/read/2020/03/25/170000526/meski-ri-tengah-dilanda-corona-pembangunan-ibu-kota-baru-jalan-terus-",
+                "display_url": "google.com/amp/s/amp.komp…",
+                "indices": [
+                    26,
+                    49
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "idtodayco",
+                "name": "IndonesiaToday",
+                "id": 1082992095361609728,
+                "id_str": "1082992095361609728",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587823458296"
+}

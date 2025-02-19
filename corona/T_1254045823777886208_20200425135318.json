@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 13:53:18 +0000 2020",
+    "id": 1254045823777886208,
+    "id_str": "1254045823777886208",
+    "text": "@Fred73699729 @Frankbarnitzke Polizei rufen. Das ist selbst ohne Corona Beleidigung und versuchte Körperverletzung.",
+    "display_text_range": [
+        30,
+        115
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253730132130443266,
+    "in_reply_to_status_id_str": "1253730132130443266",
+    "in_reply_to_user_id": 1019453362218168321,
+    "in_reply_to_user_id_str": "1019453362218168321",
+    "in_reply_to_screen_name": "Fred73699729",
+    "user": {
+        "id": 704555182579957760,
+        "id_str": "704555182579957760",
+        "name": "Magnus Nufer 🇪🇺🇩🇪 und 284 anderen",
+        "screen_name": "MagnusNufer",
+        "location": "Berlin, Deutschland",
+        "url": null,
+        "description": "IT-Berater und linksgrünversiffter Proeuropäer mit einem Faible für Sportgummis und unser Grundgesetz. Stolzes Mitglied des Gesinnungsmobs. \n\n#FBPE",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 151,
+        "friends_count": 281,
+        "listed_count": 1,
+        "favourites_count": 7885,
+        "statuses_count": 4547,
+        "created_at": "Tue Mar 01 06:33:40 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1122075941021392897/Wz2Wrf8C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1122075941021392897/Wz2Wrf8C_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/704555182579957760/1581790900",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Fred73699729",
+                "name": "🇪🇺 Fred 🇩🇪",
+                "id": 1019453362218168321,
+                "id_str": "1019453362218168321",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Frankbarnitzke",
+                "name": "Frank Barnitzke",
+                "id": 904443442339745793,
+                "id_str": "904443442339745793",
+                "indices": [
+                    14,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822798090"
+}

@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 14:34:39 +0000 2020",
+    "id": 1254056231741857797,
+    "id_str": "1254056231741857797",
+    "text": "@DyolSingh Rahulji bhi chiniyon k saath meeting kar rahe the aur duniya jaanti hai ki corona dunia me kisne failaya… https://t.co/orO7VB8tC0",
+    "display_text_range": [
+        11,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253586260880490497,
+    "in_reply_to_status_id_str": "1253586260880490497",
+    "in_reply_to_user_id": 1003207387602276357,
+    "in_reply_to_user_id_str": "1003207387602276357",
+    "in_reply_to_screen_name": "DyolSingh",
+    "user": {
+        "id": 785862161646182400,
+        "id_str": "785862161646182400",
+        "name": "Man",
+        "screen_name": "devbhumi_uk2001",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 55,
+        "listed_count": 0,
+        "favourites_count": 709,
+        "statuses_count": 110,
+        "created_at": "Tue Oct 11 15:18:34 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@DyolSingh Rahulji bhi chiniyon k saath meeting kar rahe the aur duniya jaanti hai ki corona dunia me kisne failaya, to phir jimmedaar kaun hua?",
+        "display_text_range": [
+            11,
+            144
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DyolSingh",
+                    "name": "PRADEEP SINGH DEOL ↩",
+                    "id": 1003207387602276357,
+                    "id_str": "1003207387602276357",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/orO7VB8tC0",
+                "expanded_url": "https://twitter.com/i/web/status/1254056231741857797",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DyolSingh",
+                "name": "PRADEEP SINGH DEOL ↩",
+                "id": 1003207387602276357,
+                "id_str": "1003207387602276357",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587825279542"
+}

@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun Apr 12 18:34:57 +0000 2020",
+    "id": 1249405660963405825,
+    "id_str": "1249405660963405825",
+    "text": "@amandsxs @DarleyGabriel2 Mano aqui deve tá cheio de corona, sériao, rua mó movimentada tnc",
+    "display_text_range": [
+        26,
+        91
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249402697859641345,
+    "in_reply_to_status_id_str": "1249402697859641345",
+    "in_reply_to_user_id": 2924276190,
+    "in_reply_to_user_id_str": "2924276190",
+    "in_reply_to_screen_name": "amandsxs",
+    "user": {
+        "id": 717149592559755264,
+        "id_str": "717149592559755264",
+        "name": "Augusto",
+        "screen_name": "GuttoJJ",
+        "location": "Tietê",
+        "url": null,
+        "description": "Só não chega muito perto que de longe a convivência não te desaponta 😃\n\ngado de sapatao",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 657,
+        "friends_count": 550,
+        "listed_count": 0,
+        "favourites_count": 44761,
+        "statuses_count": 19776,
+        "created_at": "Tue Apr 05 00:39:21 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249369976030584832/G4DWWuA7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249369976030584832/G4DWWuA7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/717149592559755264/1586565568",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "amandsxs",
+                "name": "a",
+                "id": 2924276190,
+                "id_str": "2924276190",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "DarleyGabriel2",
+                "name": "Darley",
+                "id": 4105785033,
+                "id_str": "4105785033",
+                "indices": [
+                    10,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716497065"
+}

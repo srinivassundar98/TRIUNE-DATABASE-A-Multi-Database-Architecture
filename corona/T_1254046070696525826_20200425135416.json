@@ -1,0 +1,110 @@
+{
+    "created_at": "Sat Apr 25 13:54:16 +0000 2020",
+    "id": 1254046070696525826,
+    "id_str": "1254046070696525826",
+    "text": "@CarlosD30351533 @louisvillemayor https://t.co/HfHd6bPtkm",
+    "display_text_range": [
+        34,
+        57
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254010150509297665,
+    "in_reply_to_status_id_str": "1254010150509297665",
+    "in_reply_to_user_id": 1022190335575896065,
+    "in_reply_to_user_id_str": "1022190335575896065",
+    "in_reply_to_screen_name": "CarlosD30351533",
+    "user": {
+        "id": 760978677186387968,
+        "id_str": "760978677186387968",
+        "name": "Leslie.Omohundro",
+        "screen_name": "LeslieOmohundro",
+        "location": "God’s Heaven on Earth",
+        "url": null,
+        "description": "“As for me and my house, we will serve the Lord Jesus Christ.”",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 195,
+        "friends_count": 754,
+        "listed_count": 1,
+        "favourites_count": 11636,
+        "statuses_count": 9493,
+        "created_at": "Wed Aug 03 23:20:29 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/954083556317376512/C83u8A0a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/954083556317376512/C83u8A0a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760978677186387968/1516306161",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/HfHd6bPtkm",
+                "expanded_url": "https://www.propublica.org/article/coronavirus-tests-are-being-fast-tracked-by-the-fda-but-its-unclear-how-accurate-they-are",
+                "display_url": "propublica.org/article/corona…",
+                "indices": [
+                    34,
+                    57
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CarlosD30351533",
+                "name": "Carlos Stranger",
+                "id": 1022190335575896065,
+                "id_str": "1022190335575896065",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "louisvillemayor",
+                "name": "Mayor Greg Fischer",
+                "id": 244123121,
+                "id_str": "244123121",
+                "indices": [
+                    17,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587822856960"
+}

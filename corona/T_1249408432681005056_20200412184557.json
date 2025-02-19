@@ -1,0 +1,195 @@
+{
+    "created_at": "Sun Apr 12 18:45:57 +0000 2020",
+    "id": 1249408432681005056,
+    "id_str": "1249408432681005056",
+    "text": "@ashokgehlot51 Sir, the SHO of #Makhbara (Currently Hotspot in Kota) allowed the entire family to flew away at morn… https://t.co/NIBcw4NYf6",
+    "display_text_range": [
+        15,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249351887951777793,
+    "in_reply_to_status_id_str": "1249351887951777793",
+    "in_reply_to_user_id": 385926583,
+    "in_reply_to_user_id_str": "385926583",
+    "in_reply_to_screen_name": "ashokgehlot51",
+    "user": {
+        "id": 498873728,
+        "id_str": "498873728",
+        "name": "Shashank Sharma",
+        "screen_name": "anshu201191",
+        "location": "Kota, India",
+        "url": null,
+        "description": "Sadka of my Peer-O-Murshid Sailani Piya and Mahakaleshwar , शिक्षक,  Entrepreneur ,Swimmer,Athelete and .....",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 67,
+        "friends_count": 138,
+        "listed_count": 2,
+        "favourites_count": 390,
+        "statuses_count": 815,
+        "created_at": "Tue Feb 21 14:27:04 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1209094356222636032/PtaQDNgM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209094356222636032/PtaQDNgM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/498873728/1577105771",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5bf2bd72e6a63541",
+        "url": "https://api.twitter.com/1.1/geo/id/5bf2bd72e6a63541.json",
+        "place_type": "city",
+        "name": "Kota",
+        "full_name": "Kota, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        75.623599,
+                        24.768468
+                    ],
+                    [
+                        75.623599,
+                        25.2755
+                    ],
+                    [
+                        76.095887,
+                        25.2755
+                    ],
+                    [
+                        76.095887,
+                        24.768468
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@ashokgehlot51 Sir, the SHO of #Makhbara (Currently Hotspot in Kota) allowed the entire family to flew away at morning 4:45 AM , the family was the neighbour of #Corona positive patient.\nAlso the #SHO has permitted Milkmen in hotspots, same Milkmen are going in other parts too.\n@_lokeshsharma",
+        "display_text_range": [
+            15,
+            293
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Makhbara",
+                    "indices": [
+                        31,
+                        40
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        161,
+                        168
+                    ]
+                },
+                {
+                    "text": "SHO",
+                    "indices": [
+                        196,
+                        200
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ashokgehlot51",
+                    "name": "Ashok Gehlot",
+                    "id": 385926583,
+                    "id_str": "385926583",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "_lokeshsharma",
+                    "name": "Lokesh Sharma",
+                    "id": 109504853,
+                    "id_str": "109504853",
+                    "indices": [
+                        279,
+                        293
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Makhbara",
+                "indices": [
+                    31,
+                    40
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/NIBcw4NYf6",
+                "expanded_url": "https://twitter.com/i/web/status/1249408432681005056",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ashokgehlot51",
+                "name": "Ashok Gehlot",
+                "id": 385926583,
+                "id_str": "385926583",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586717157894"
+}

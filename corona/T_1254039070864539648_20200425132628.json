@@ -1,0 +1,337 @@
+{
+    "created_at": "Sat Apr 25 13:26:28 +0000 2020",
+    "id": 1254039070864539648,
+    "id_str": "1254039070864539648",
+    "text": "Gut geschrieben! #Coronavirus",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2881363565,
+        "id_str": "2881363565",
+        "name": "Carsten Lexa",
+        "screen_name": "kanzlei_lexa",
+        "location": "Würzburg, Germany",
+        "url": "http://www.kanzlei-lexa.de",
+        "description": "Lawyer | Entrepreneur | Lecturer | Speaker | Former President @G20_YEA | Blogger @basicthinking | Posts: German, English | Impressum: https://t.co/Fxjaiy3T9e",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 632,
+        "friends_count": 1024,
+        "listed_count": 159,
+        "favourites_count": 4773,
+        "statuses_count": 5768,
+        "created_at": "Mon Nov 17 17:24:47 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120627981465075713/901eZGBu_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120627981465075713/901eZGBu_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2881363565/1460494954",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "be1902daf0d52bd0",
+        "url": "https://api.twitter.com/1.1/geo/id/be1902daf0d52bd0.json",
+        "place_type": "city",
+        "name": "Würzburg",
+        "full_name": "Würzburg, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        9.87143,
+                        49.710557
+                    ],
+                    [
+                        9.87143,
+                        49.845659
+                    ],
+                    [
+                        10.014285,
+                        49.845659
+                    ],
+                    [
+                        10.014285,
+                        49.710557
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "quoted_status_id": 1253969110448431110,
+    "quoted_status_id_str": "1253969110448431110",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 08:48:28 +0000 2020",
+        "id": 1253969110448431110,
+        "id_str": "1253969110448431110",
+        "text": "Die #Corona-Krise ist nur dann eine Chance, wenn wir JETZT nach vorne denken (Kreativität, Forschung, Innovation, T… https://t.co/O2GNgII0iG",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 16698884,
+            "id_str": "16698884",
+            "name": "Daniel Mack",
+            "screen_name": "danielmack",
+            "location": "Berlin, Deutschland",
+            "url": "http://danielmack.de",
+            "description": "Freedom, Climate Action & Mobility | „The love of invention never ceases.“ - Carl Benz | Former MP | Private",
+            "translator_type": "regular",
+            "protected": false,
+            "verified": true,
+            "followers_count": 37501,
+            "friends_count": 747,
+            "listed_count": 710,
+            "favourites_count": 37201,
+            "statuses_count": 5095,
+            "created_at": "Sat Oct 11 18:57:22 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C7B076",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C1D6E5",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1251079147230842880/giTQRblr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251079147230842880/giTQRblr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16698884/1587060467",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Die #Corona-Krise ist nur dann eine Chance, wenn wir JETZT nach vorne denken (Kreativität, Forschung, Innovation, Technologie), nicht zurück (Degrowth, Unfreiheit, Umverteilung, Minimalismus).\n\nWer mag, dazu @ulfposh, @welt, S2. lesen. https://t.co/yRoeHBLsmT",
+            "display_text_range": [
+                0,
+                235
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            4,
+                            11
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ulfposh",
+                        "name": "Ulf Poschardt",
+                        "id": 1949194382,
+                        "id_str": "1949194382",
+                        "indices": [
+                            208,
+                            216
+                        ]
+                    },
+                    {
+                        "screen_name": "welt",
+                        "name": "WELT",
+                        "id": 8720562,
+                        "id_str": "8720562",
+                        "indices": [
+                            218,
+                            223
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253969103989112832,
+                        "id_str": "1253969103989112832",
+                        "indices": [
+                            236,
+                            259
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWb-QZqWAAAHuG6.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWb-QZqWAAAHuG6.jpg",
+                        "url": "https://t.co/yRoeHBLsmT",
+                        "display_url": "pic.twitter.com/yRoeHBLsmT",
+                        "expanded_url": "https://twitter.com/danielmack/status/1253969110448431110/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 667,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1125,
+                                "h": 2024,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 378,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253969103989112832,
+                        "id_str": "1253969103989112832",
+                        "indices": [
+                            236,
+                            259
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWb-QZqWAAAHuG6.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWb-QZqWAAAHuG6.jpg",
+                        "url": "https://t.co/yRoeHBLsmT",
+                        "display_url": "pic.twitter.com/yRoeHBLsmT",
+                        "expanded_url": "https://twitter.com/danielmack/status/1253969110448431110/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 667,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1125,
+                                "h": 2024,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 378,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 2,
+        "reply_count": 13,
+        "retweet_count": 6,
+        "favorite_count": 31,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        4,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/O2GNgII0iG",
+                    "expanded_url": "https://twitter.com/i/web/status/1253969110448431110",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/ZXeO5bYu1y",
+        "expanded": "https://twitter.com/danielmack/status/1253969110448431110",
+        "display": "twitter.com/danielmack/sta…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Coronavirus",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821188070"
+}

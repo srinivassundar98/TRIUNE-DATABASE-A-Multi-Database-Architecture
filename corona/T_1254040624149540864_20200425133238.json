@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:32:38 +0000 2020",
+    "id": 1254040624149540864,
+    "id_str": "1254040624149540864",
+    "text": "talvez ansiosa por favor corona va embora https://t.co/C2d8D4tTNO",
+    "display_text_range": [
+        0,
+        41
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254038365827194887,
+    "in_reply_to_status_id_str": "1254038365827194887",
+    "in_reply_to_user_id": 967555728054669312,
+    "in_reply_to_user_id_str": "967555728054669312",
+    "in_reply_to_screen_name": "aifosr",
+    "user": {
+        "id": 967555728054669312,
+        "id_str": "967555728054669312",
+        "name": "sharingata",
+        "screen_name": "aifosr",
+        "location": "João Pessoa, Brasil",
+        "url": "http://instagram.com/aifos_ana",
+        "description": "a person who believes in the social, political and economic equality of the sexes",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 253,
+        "friends_count": 227,
+        "listed_count": 0,
+        "favourites_count": 24944,
+        "statuses_count": 13326,
+        "created_at": "Sun Feb 25 00:23:56 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245359787887538182/DdM-HwGo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245359787887538182/DdM-HwGo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/967555728054669312/1521673406",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254040614016081921,
+                "id_str": "1254040614016081921",
+                "indices": [
+                    42,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_S1RXYAEISFl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_S1RXYAEISFl.jpg",
+                "url": "https://t.co/C2d8D4tTNO",
+                "display_url": "pic.twitter.com/C2d8D4tTNO",
+                "expanded_url": "https://twitter.com/aifosr/status/1254040624149540864/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1152,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254040614016081921,
+                "id_str": "1254040614016081921",
+                "indices": [
+                    42,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_S1RXYAEISFl.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_S1RXYAEISFl.jpg",
+                "url": "https://t.co/C2d8D4tTNO",
+                "display_url": "pic.twitter.com/C2d8D4tTNO",
+                "expanded_url": "https://twitter.com/aifosr/status/1254040624149540864/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 1152,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587821558402"
+}

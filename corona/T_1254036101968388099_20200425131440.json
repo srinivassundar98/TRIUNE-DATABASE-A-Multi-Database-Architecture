@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 13:14:40 +0000 2020",
+    "id": 1254036101968388099,
+    "id_str": "1254036101968388099",
+    "text": "@RUtzschmid @Augstein @c_drosten @AlexanderKekule Der eine forscht zu Corona, der andere nicht.",
+    "display_text_range": [
+        50,
+        95
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254002243755479040,
+    "in_reply_to_status_id_str": "1254002243755479040",
+    "in_reply_to_user_id": 3419857035,
+    "in_reply_to_user_id_str": "3419857035",
+    "in_reply_to_screen_name": "RUtzschmid",
+    "user": {
+        "id": 976184134103166976,
+        "id_str": "976184134103166976",
+        "name": "Sebastian 🇪🇺 WaterDe",
+        "screen_name": "MisoWaterde",
+        "location": "Thüringen, Deutschland",
+        "url": null,
+        "description": "ökologisch-sozialer Demokrat,\naus der Region Deutschland 🌳",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 128,
+        "friends_count": 479,
+        "listed_count": 0,
+        "favourites_count": 20477,
+        "statuses_count": 3468,
+        "created_at": "Tue Mar 20 19:50:09 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996366716782497792/6KNfNThp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996366716782497792/6KNfNThp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/976184134103166976/1526387310",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "RUtzschmid",
+                "name": "Renate Utzschmid",
+                "id": 3419857035,
+                "id_str": "3419857035",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "Augstein",
+                "name": "Jakob Augstein",
+                "id": 14619744,
+                "id_str": "14619744",
+                "indices": [
+                    12,
+                    21
+                ]
+            },
+            {
+                "screen_name": "c_drosten",
+                "name": "Christian Drosten",
+                "id": 2804548467,
+                "id_str": "2804548467",
+                "indices": [
+                    22,
+                    32
+                ]
+            },
+            {
+                "screen_name": "AlexanderKekule",
+                "name": "Prof Alexander Kekulé, MD PhD",
+                "id": 1198373197059678208,
+                "id_str": "1198373197059678208",
+                "indices": [
+                    33,
+                    49
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820480230"
+}

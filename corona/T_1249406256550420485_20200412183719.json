@@ -1,0 +1,158 @@
+{
+    "created_at": "Sun Apr 12 18:37:19 +0000 2020",
+    "id": 1249406256550420485,
+    "id_str": "1249406256550420485",
+    "text": "عالمی ادارہ صحت کی رپورٹ کے مطابق دنیا میں ہر سال لگ بھگ 1 کروڑ 80 لاکھ افراد ہارٹ اٹیک سے انتقال کرجاتے ہیں، یعنی… https://t.co/HV4aPs3FEe",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 445663755,
+        "id_str": "445663755",
+        "name": "Imran Asghar",
+        "screen_name": "Imranbold",
+        "location": "Rawalpindi",
+        "url": null,
+        "description": "Working with the leading news channel Express News as  Senior Reporter from Rawalpindi. Earlier, worked with media times daily newspaper, Daily Times.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 882,
+        "friends_count": 379,
+        "listed_count": 0,
+        "favourites_count": 5952,
+        "statuses_count": 2865,
+        "created_at": "Sat Dec 24 17:57:06 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213094727136006145/tubDsycn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213094727136006145/tubDsycn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/445663755/1573205777",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "008a844c675a661b",
+        "url": "https://api.twitter.com/1.1/geo/id/008a844c675a661b.json",
+        "place_type": "city",
+        "name": "Rawalpindi",
+        "full_name": "Rawalpindi, Pakistan",
+        "country_code": "PK",
+        "country": "Pakistan",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        72.952919,
+                        33.53611
+                    ],
+                    [
+                        72.952919,
+                        33.670082
+                    ],
+                    [
+                        73.122971,
+                        33.670082
+                    ],
+                    [
+                        73.122971,
+                        33.53611
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "عالمی ادارہ صحت کی رپورٹ کے مطابق دنیا میں ہر سال لگ بھگ 1 کروڑ 80 لاکھ افراد ہارٹ اٹیک سے انتقال کرجاتے ہیں، یعنی سال کے 365 دن اور ہر روز دنیا میں 49 ہزار 3 سو 15 افراد ہارٹ اٹیک سے جان کی بازی ہار جاتے ہیں! یہ کورونا سے 1000 گنا خطرناک مرض ہے!\n#corona\n@WHO @ImranKhanPTI",
+        "display_text_range": [
+            0,
+            273
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "corona",
+                    "indices": [
+                        247,
+                        254
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "WHO",
+                    "name": "World Health Organization (WHO)",
+                    "id": 14499829,
+                    "id_str": "14499829",
+                    "indices": [
+                        255,
+                        259
+                    ]
+                },
+                {
+                    "screen_name": "ImranKhanPTI",
+                    "name": "Imran Khan",
+                    "id": 122453931,
+                    "id_str": "122453931",
+                    "indices": [
+                        260,
+                        273
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/HV4aPs3FEe",
+                "expanded_url": "https://twitter.com/i/web/status/1249406256550420485",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "ur",
+    "timestamp_ms": "1586716639064"
+}

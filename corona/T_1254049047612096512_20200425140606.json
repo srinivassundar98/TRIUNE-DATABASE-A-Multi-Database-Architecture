@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:06:06 +0000 2020",
+    "id": 1254049047612096512,
+    "id_str": "1254049047612096512",
+    "text": "@neekenduku9999 Corona yena",
+    "display_text_range": [
+        16,
+        27
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254048558879105024,
+    "in_reply_to_status_id_str": "1254048558879105024",
+    "in_reply_to_user_id": 139670561,
+    "in_reply_to_user_id_str": "139670561",
+    "in_reply_to_screen_name": "neekenduku9999",
+    "user": {
+        "id": 2800128409,
+        "id_str": "2800128409",
+        "name": "Arun",
+        "screen_name": "arunchandbala",
+        "location": "Nagpur, India",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 659,
+        "friends_count": 162,
+        "listed_count": 3,
+        "favourites_count": 2572,
+        "statuses_count": 31563,
+        "created_at": "Tue Sep 09 15:21:31 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249026331561480193/AiRkLclS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249026331561480193/AiRkLclS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2800128409/1556099373",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "b850c1bfd38f30e0",
+        "url": "https://api.twitter.com/1.1/geo/id/b850c1bfd38f30e0.json",
+        "place_type": "country",
+        "name": "India",
+        "full_name": "India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        67.997691,
+                        6.622513
+                    ],
+                    [
+                        67.997691,
+                        33.254896
+                    ],
+                    [
+                        97.170672,
+                        33.254896
+                    ],
+                    [
+                        97.170672,
+                        6.622513
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "neekenduku9999",
+                "name": "Save Andhra from ysrcp",
+                "id": 139670561,
+                "id_str": "139670561",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587823566712"
+}

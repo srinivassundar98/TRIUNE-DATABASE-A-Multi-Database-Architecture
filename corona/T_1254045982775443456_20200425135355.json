@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:53:55 +0000 2020",
+    "id": 1254045982775443456,
+    "id_str": "1254045982775443456",
+    "text": "@Airokese Theoretisch kann das ja auch ohne Corona passieren. Des Weiteren muss man den Infektionsherd dann in dies… https://t.co/dsMxezNaTL",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253775972870033408,
+    "in_reply_to_status_id_str": "1253775972870033408",
+    "in_reply_to_user_id": 952384266,
+    "in_reply_to_user_id_str": "952384266",
+    "in_reply_to_screen_name": "Airokese",
+    "user": {
+        "id": 906006001,
+        "id_str": "906006001",
+        "name": "Frederik Paul",
+        "screen_name": "FreddyPaul12",
+        "location": "Alpen, Deutschland",
+        "url": "http://www.jukreiswesel.de",
+        "description": "Student der Politikwissenschaften an der Universität Duisburg-Essen @UniDUE, Kreisvorsitzender @ju_wes - hier privat.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 126,
+        "friends_count": 517,
+        "listed_count": 0,
+        "favourites_count": 508,
+        "statuses_count": 426,
+        "created_at": "Fri Oct 26 13:27:04 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/951139995540172801/zlobBGxz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/951139995540172801/zlobBGxz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/906006001/1550736592",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Airokese Theoretisch kann das ja auch ohne Corona passieren. Des Weiteren muss man den Infektionsherd dann in dieser Schule nachweisen, um eine Schuld ableiteten zu können. Bei den hygienischen Auflagen gehe ich nicht davon aus, dass dies passieren kann.",
+        "display_text_range": [
+            10,
+            255
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Airokese",
+                    "name": "Angelo Simon",
+                    "id": 952384266,
+                    "id_str": "952384266",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/dsMxezNaTL",
+                "expanded_url": "https://twitter.com/i/web/status/1254045982775443456",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Airokese",
+                "name": "Angelo Simon",
+                "id": 952384266,
+                "id_str": "952384266",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822835998"
+}

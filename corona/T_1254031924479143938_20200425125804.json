@@ -1,0 +1,175 @@
+{
+    "created_at": "Sat Apr 25 12:58:04 +0000 2020",
+    "id": 1254031924479143938,
+    "id_str": "1254031924479143938",
+    "text": "@billmaher @jimmyfallon Your show is actual garbage right now. Why dont you just come out and say it? You want ever… https://t.co/259sL6YhjO",
+    "display_text_range": [
+        24,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253838115950571520,
+    "in_reply_to_status_id_str": "1253838115950571520",
+    "in_reply_to_user_id": 19697415,
+    "in_reply_to_user_id_str": "19697415",
+    "in_reply_to_screen_name": "billmaher",
+    "user": {
+        "id": 887206773345533955,
+        "id_str": "887206773345533955",
+        "name": "Chris Elliot",
+        "screen_name": "ChrisJElliot",
+        "location": "Vancouver, British Columbia",
+        "url": null,
+        "description": "Plumber and father",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 32,
+        "friends_count": 46,
+        "listed_count": 0,
+        "favourites_count": 1813,
+        "statuses_count": 4461,
+        "created_at": "Tue Jul 18 07:05:53 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1240487658494681089/2PMjw8F7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240487658494681089/2PMjw8F7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/887206773345533955/1530085106",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5147516179fa9c13",
+        "url": "https://api.twitter.com/1.1/geo/id/5147516179fa9c13.json",
+        "place_type": "city",
+        "name": "Burnaby",
+        "full_name": "Burnaby, British Columbia",
+        "country_code": "CA",
+        "country": "Canada",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -123.024209,
+                        49.180153
+                    ],
+                    [
+                        -123.024209,
+                        49.299154
+                    ],
+                    [
+                        -122.892479,
+                        49.299154
+                    ],
+                    [
+                        -122.892479,
+                        49.180153
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@billmaher @jimmyfallon Your show is actual garbage right now. Why dont you just come out and say it? You want everyone to just get corona so we can go back to normal. Sorry asshole my family  dying isnt gonna make my life normal. Maybe if you cared about anyone but yourself you would understand.",
+        "display_text_range": [
+            24,
+            297
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "billmaher",
+                    "name": "Bill Maher",
+                    "id": 19697415,
+                    "id_str": "19697415",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "jimmyfallon",
+                    "name": "jimmy fallon",
+                    "id": 15485441,
+                    "id_str": "15485441",
+                    "indices": [
+                        11,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/259sL6YhjO",
+                "expanded_url": "https://twitter.com/i/web/status/1254031924479143938",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "billmaher",
+                "name": "Bill Maher",
+                "id": 19697415,
+                "id_str": "19697415",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "jimmyfallon",
+                "name": "jimmy fallon",
+                "id": 15485441,
+                "id_str": "15485441",
+                "indices": [
+                    11,
+                    23
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819484239"
+}

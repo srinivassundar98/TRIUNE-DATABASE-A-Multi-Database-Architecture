@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 14:26:58 +0000 2020",
+    "id": 1254054299077935106,
+    "id_str": "1254054299077935106",
+    "text": "April 25 2020\n@JamesonBW Connects\nLocation 📍: Secret Venue\nHeadliner: Shekhinah \n\nWe could be out having a good tim… https://t.co/ML8P8XgQ51",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254054296678805505,
+    "in_reply_to_status_id_str": "1254054296678805505",
+    "in_reply_to_user_id": 355259332,
+    "in_reply_to_user_id_str": "355259332",
+    "in_reply_to_screen_name": "Andre_Hunter_13",
+    "user": {
+        "id": 355259332,
+        "id_str": "355259332",
+        "name": "eKse’ Sets 〽️agic ◢ ◤",
+        "screen_name": "Andre_Hunter_13",
+        "location": null,
+        "url": null,
+        "description": "Are you really reading my twitter bio? Why? Do you even believe these bios? Ok well I'm sorry I wasted your time not writing one...wow you're still reading?!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 654,
+        "friends_count": 516,
+        "listed_count": 7,
+        "favourites_count": 1014,
+        "statuses_count": 28124,
+        "created_at": "Mon Aug 15 02:33:19 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213390606355095552/xB3khLeO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213390606355095552/xB3khLeO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/355259332/1415560821",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "8a927a7056322151",
+        "url": "https://api.twitter.com/1.1/geo/id/8a927a7056322151.json",
+        "place_type": "country",
+        "name": "Botswana",
+        "full_name": "Botswana",
+        "country_code": "BW",
+        "country": "Botswana",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        19.997675,
+                        -26.907035
+                    ],
+                    [
+                        19.997675,
+                        -17.77823
+                    ],
+                    [
+                        29.371142,
+                        -17.77823
+                    ],
+                    [
+                        29.371142,
+                        -26.907035
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "April 25 2020\n@JamesonBW Connects\nLocation 📍: Secret Venue\nHeadliner: Shekhinah \n\nWe could be out having a good time right about now, ya tla satane bare Corona 🦠Virus  😭😭😭",
+        "display_text_range": [
+            0,
+            171
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JamesonBW",
+                    "name": "Jameson Botswana",
+                    "id": 4853121375,
+                    "id_str": "4853121375",
+                    "indices": [
+                        14,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ML8P8XgQ51",
+                "expanded_url": "https://twitter.com/i/web/status/1254054299077935106",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "JamesonBW",
+                "name": "Jameson Botswana",
+                "id": 4853121375,
+                "id_str": "4853121375",
+                "indices": [
+                    14,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824818759"
+}

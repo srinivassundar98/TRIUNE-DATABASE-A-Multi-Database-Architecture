@@ -1,0 +1,222 @@
+{
+    "created_at": "Sat Apr 25 14:34:31 +0000 2020",
+    "id": 1254056196048388098,
+    "id_str": "1254056196048388098",
+    "text": "Fijn eenduidig nieuws. #corona #COVID19 @rivm #merkel https://t.co/tGTUUgGq15",
+    "display_text_range": [
+        0,
+        53
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 37612879,
+        "id_str": "37612879",
+        "name": "Jeroen Quint",
+        "screen_name": "quinlive",
+        "location": "dutch mountains",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 129,
+        "friends_count": 784,
+        "listed_count": 13,
+        "favourites_count": 17995,
+        "statuses_count": 14162,
+        "created_at": "Mon May 04 06:55:42 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1216795366558924804/cR4A7_-4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216795366558924804/cR4A7_-4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37612879/1575718856",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "c9a1a36f51a52b38",
+        "url": "https://api.twitter.com/1.1/geo/id/c9a1a36f51a52b38.json",
+        "place_type": "city",
+        "name": "Eijsden-Margraten",
+        "full_name": "Eijsden-Margraten, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        5.682042,
+                        50.754777
+                    ],
+                    [
+                        5.682042,
+                        50.855338
+                    ],
+                    [
+                        5.864222,
+                        50.855338
+                    ],
+                    [
+                        5.864222,
+                        50.754777
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    23,
+                    30
+                ]
+            },
+            {
+                "text": "COVID19",
+                "indices": [
+                    31,
+                    39
+                ]
+            },
+            {
+                "text": "merkel",
+                "indices": [
+                    46,
+                    53
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "rivm",
+                "name": "RIVM",
+                "id": 35527415,
+                "id_str": "35527415",
+                "indices": [
+                    40,
+                    45
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254056182664376320,
+                "id_str": "1254056182664376320",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdNdDAXsAAmei6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdNdDAXsAAmei6.jpg",
+                "url": "https://t.co/tGTUUgGq15",
+                "display_url": "pic.twitter.com/tGTUUgGq15",
+                "expanded_url": "https://twitter.com/quinlive/status/1254056196048388098/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1923,
+                        "h": 1124,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 701,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 397,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254056182664376320,
+                "id_str": "1254056182664376320",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdNdDAXsAAmei6.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdNdDAXsAAmei6.jpg",
+                "url": "https://t.co/tGTUUgGq15",
+                "display_url": "pic.twitter.com/tGTUUgGq15",
+                "expanded_url": "https://twitter.com/quinlive/status/1254056196048388098/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1923,
+                        "h": 1124,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 701,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 397,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587825271032"
+}

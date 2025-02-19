@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 14:18:51 +0000 2020",
+    "id": 1254052254686027779,
+    "id_str": "1254052254686027779",
+    "text": "कल रात मैंने एक सपना देखा, जिसमें मैं किसी से मिलने गया हूँ, सामने से एक व्यक्ति मुझसे मिलने आते हैं, मुझसे ज़बरद… https://t.co/OP1IJxLLR7",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 561843900,
+        "id_str": "561843900",
+        "name": "Mohit saxena",
+        "screen_name": "real_fascinated",
+        "location": "Bhopal",
+        "url": "https://www.youtube.com/channel/UCR7sCNvR9yl6IgKRpDHhGXg",
+        "description": "Event Planner !\nKafi Artist Type !\n\nना लगाओ इल्ज़ाम मुझपर न मिलने का तुमसे,\nज़मीर सुधारने में लगा हूँ, वक़्त नहीं मिलता ।",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 115,
+        "friends_count": 146,
+        "listed_count": 0,
+        "favourites_count": 140,
+        "statuses_count": 145,
+        "created_at": "Tue Apr 24 05:50:43 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1089460249436667904/MGZfSgwX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089460249436667904/MGZfSgwX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/561843900/1548582506",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "009fc4b373339a27",
+        "url": "https://api.twitter.com/1.1/geo/id/009fc4b373339a27.json",
+        "place_type": "city",
+        "name": "Bhopal",
+        "full_name": "Bhopal, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.179207,
+                        23.089394
+                    ],
+                    [
+                        77.179207,
+                        23.455596
+                    ],
+                    [
+                        77.629744,
+                        23.455596
+                    ],
+                    [
+                        77.629744,
+                        23.089394
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "कल रात मैंने एक सपना देखा, जिसमें मैं किसी से मिलने गया हूँ, सामने से एक व्यक्ति मुझसे मिलने आते हैं, मुझसे ज़बरदस्ती हाथ मिलाते हैं और गले लगने की कोशिश करते हैं सपने में भी मुझे कोरोना वायरस का डर है, और मैंने साफ़ मना कर दिया ।\n\n#COVID19 #Corona #StayHomeStaySafe",
+        "display_text_range": [
+            0,
+            266
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        232,
+                        240
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        241,
+                        248
+                    ]
+                },
+                {
+                    "text": "StayHomeStaySafe",
+                    "indices": [
+                        249,
+                        266
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/OP1IJxLLR7",
+                "expanded_url": "https://twitter.com/i/web/status/1254052254686027779",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    115,
+                    138
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587824331338"
+}

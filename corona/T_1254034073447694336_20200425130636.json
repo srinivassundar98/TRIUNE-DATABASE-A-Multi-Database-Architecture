@@ -1,0 +1,96 @@
+{
+    "created_at": "Sat Apr 25 13:06:36 +0000 2020",
+    "id": 1254034073447694336,
+    "id_str": "1254034073447694336",
+    "text": "@jsolomonReports i think there is confusion over corona virus and COVID 19 in CATS.  https://t.co/0bun6tUhvx",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 523248016,
+    "in_reply_to_user_id_str": "523248016",
+    "in_reply_to_screen_name": "jsolomonReports",
+    "user": {
+        "id": 2955593500,
+        "id_str": "2955593500",
+        "name": "Kathryn Stock",
+        "screen_name": "scallywag698",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 39,
+        "friends_count": 65,
+        "listed_count": 0,
+        "favourites_count": 2416,
+        "statuses_count": 4142,
+        "created_at": "Thu Jan 01 21:36:49 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183530853512765442/eQE_0NMR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183530853512765442/eQE_0NMR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2955593500/1571010894",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/0bun6tUhvx",
+                "expanded_url": "https://en.wikipedia.org/wiki/Feline_coronavirus",
+                "display_url": "en.wikipedia.org/wiki/Feline_co…",
+                "indices": [
+                    85,
+                    108
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jsolomonReports",
+                "name": "John Solomon",
+                "id": 523248016,
+                "id_str": "523248016",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819996593"
+}

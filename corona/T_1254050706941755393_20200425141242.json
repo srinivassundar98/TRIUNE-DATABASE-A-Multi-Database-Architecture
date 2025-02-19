@@ -1,0 +1,108 @@
+{
+    "created_at": "Sat Apr 25 14:12:42 +0000 2020",
+    "id": 1254050706941755393,
+    "id_str": "1254050706941755393",
+    "text": "@KCChiefs007 @ArrowheadLive @Chiefs Comes with a side of Corona",
+    "display_text_range": [
+        36,
+        63
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253789158155472903,
+    "in_reply_to_status_id_str": "1253789158155472903",
+    "in_reply_to_user_id": 2559850361,
+    "in_reply_to_user_id_str": "2559850361",
+    "in_reply_to_screen_name": "KCChiefs007",
+    "user": {
+        "id": 4754875046,
+        "id_str": "4754875046",
+        "name": "Scott dbrt",
+        "screen_name": "DbrtScott",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 31,
+        "listed_count": 0,
+        "favourites_count": 48,
+        "statuses_count": 130,
+        "created_at": "Wed Jan 13 21:12:19 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248031516145242113/oohZdMbh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248031516145242113/oohZdMbh_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "KCChiefs007",
+                "name": "Your favorite team sucks",
+                "id": 2559850361,
+                "id_str": "2559850361",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "ArrowheadLive",
+                "name": "Arrowhead Live",
+                "id": 1093317430745726977,
+                "id_str": "1093317430745726977",
+                "indices": [
+                    13,
+                    27
+                ]
+            },
+            {
+                "screen_name": "Chiefs",
+                "name": "Kansas City Chiefs",
+                "id": 33583496,
+                "id_str": "33583496",
+                "indices": [
+                    28,
+                    35
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823962327"
+}

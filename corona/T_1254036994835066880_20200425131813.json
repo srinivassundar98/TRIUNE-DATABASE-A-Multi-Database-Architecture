@@ -1,0 +1,134 @@
+{
+    "created_at": "Sat Apr 25 13:18:13 +0000 2020",
+    "id": 1254036994835066880,
+    "id_str": "1254036994835066880",
+    "text": "@greta 1. It's like legalese. You recognize it. They haven't found evidence, whether they looked or not, therefore… https://t.co/RtAJHLitAE",
+    "display_text_range": [
+        7,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254028514019487744,
+    "in_reply_to_status_id_str": "1254028514019487744",
+    "in_reply_to_user_id": 16031927,
+    "in_reply_to_user_id_str": "16031927",
+    "in_reply_to_screen_name": "greta",
+    "user": {
+        "id": 1020440918,
+        "id_str": "1020440918",
+        "name": "Beverly",
+        "screen_name": "SnowyEvergreen",
+        "location": "New York",
+        "url": null,
+        "description": "Connecting dots, musician:\nI luv honesty fairness fidelity Nature.\nI read printed books n LOL@animated films.\nLoving relationships n big hugs warm my heart :)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 191,
+        "friends_count": 127,
+        "listed_count": 8,
+        "favourites_count": 173,
+        "statuses_count": 10307,
+        "created_at": "Tue Dec 18 19:05:44 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "235F7A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "7788DD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000555979337/90de128b170a21d4c8e3cef70f16a7c1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000555979337/90de128b170a21d4c8e3cef70f16a7c1_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1020440918/1585848426",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@greta 1. It's like legalese. You recognize it. They haven't found evidence, whether they looked or not, therefore it doesn't exist until they find it. Not accountable.\n2. So far it looks like a vast number of NYers have already dealt with the virus. We'll see.\nhttps://t.co/bBAN7jboWR",
+        "display_text_range": [
+            7,
+            285
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/bBAN7jboWR",
+                    "expanded_url": "https://time.com/5826686/coronavirus-antibody-tests-new-york/",
+                    "display_url": "time.com/5826686/corona…",
+                    "indices": [
+                        262,
+                        285
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "greta",
+                    "name": "Greta Van Susteren",
+                    "id": 16031927,
+                    "id_str": "16031927",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/RtAJHLitAE",
+                "expanded_url": "https://twitter.com/i/web/status/1254036994835066880",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "greta",
+                "name": "Greta Van Susteren",
+                "id": 16031927,
+                "id_str": "16031927",
+                "indices": [
+                    0,
+                    6
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820693106"
+}

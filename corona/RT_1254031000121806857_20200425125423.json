@@ -1,0 +1,623 @@
+{
+    "created_at": "Sat Apr 25 12:54:23 +0000 2020",
+    "id": 1254031000121806857,
+    "id_str": "1254031000121806857",
+    "text": "RT @Shiv_Shakti001: #RevokeSRO202 https://t.co/1ZCogv5w6S",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1123401222507995136,
+        "id_str": "1123401222507995136",
+        "name": "Sandeep",
+        "screen_name": "Sandeep90792528",
+        "location": null,
+        "url": null,
+        "description": "# be a man of words",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 155,
+        "listed_count": 0,
+        "favourites_count": 537,
+        "statuses_count": 991,
+        "created_at": "Wed May 01 01:38:18 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235550828091432964/mQVhXy8r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235550828091432964/mQVhXy8r_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 09:53:23 +0000 2020",
+        "id": 1253985446666866688,
+        "id_str": "1253985446666866688",
+        "text": "#RevokeSRO202 https://t.co/1ZCogv5w6S",
+        "display_text_range": [
+            0,
+            13
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1239939572605190146,
+            "id_str": "1239939572605190146",
+            "name": "श्वेत 🇮🇳",
+            "screen_name": "Shiv_Shakti001",
+            "location": "Jammu, Jammu And Kashmir",
+            "url": null,
+            "description": "ॐ नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय। नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नम: शिवाय ॥ ॐ",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 276,
+            "friends_count": 653,
+            "listed_count": 0,
+            "favourites_count": 3678,
+            "statuses_count": 1286,
+            "created_at": "Tue Mar 17 15:40:21 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1254011652208570370/oGV2T0um_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254011652208570370/oGV2T0um_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239939572605190146/1587328728",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "63d86c7f890fd0a9",
+            "url": "https://api.twitter.com/1.1/geo/id/63d86c7f890fd0a9.json",
+            "place_type": "city",
+            "name": "Jammu",
+            "full_name": "Jammu, Jammu And Kashmir",
+            "country_code": "PK",
+            "country": "Pakistan",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74.634785,
+                            32.359211
+                        ],
+                        [
+                            74.634785,
+                            32.956485
+                        ],
+                        [
+                            75.502028,
+                            32.956485
+                        ],
+                        [
+                            75.502028,
+                            32.359211
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253984886534344704,
+        "quoted_status_id_str": "1253984886534344704",
+        "quoted_status": {
+            "created_at": "Sat Apr 25 09:51:09 +0000 2020",
+            "id": 1253984886534344704,
+            "id_str": "1253984886534344704",
+            "text": "@rashtrapatibhvn In J&amp;K, a virus exists since 2015 which is more dangerous than corona &amp; that is SRO 202\nIt has men… https://t.co/phWvRQwl8k",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 885487044243238912,
+            "in_reply_to_user_id_str": "885487044243238912",
+            "in_reply_to_screen_name": "rashtrapatibhvn",
+            "user": {
+                "id": 1246109039483707392,
+                "id_str": "1246109039483707392",
+                "name": "Ranveer Sharma",
+                "screen_name": "RanveerLawyer",
+                "location": "New Delhi, India",
+                "url": null,
+                "description": "Law Graduate\nProud to be an Indian\nI love India",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 3,
+                "friends_count": 32,
+                "listed_count": 0,
+                "favourites_count": 164,
+                "statuses_count": 378,
+                "created_at": "Fri Apr 03 16:15:35 +0000 2020",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1246119385695047680/N2lCk0mn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246119385695047680/N2lCk0mn_normal.jpg",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "@rashtrapatibhvn In J&amp;K, a virus exists since 2015 which is more dangerous than corona &amp; that is SRO 202\nIt has mentally attacked the educated youth who burn their blood &amp; nights for atleast 30 years in studies &amp; are rewarded SRO 202\nSRO 202 exists only in J&amp;K &amp; nowhere in India",
+                "display_text_range": [
+                    0,
+                    303
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "rashtrapatibhvn",
+                            "name": "President of India",
+                            "id": 885487044243238912,
+                            "id_str": "885487044243238912",
+                            "indices": [
+                                0,
+                                16
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 1,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/phWvRQwl8k",
+                        "expanded_url": "https://twitter.com/i/web/status/1253984886534344704",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            125,
+                            148
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "rashtrapatibhvn",
+                        "name": "President of India",
+                        "id": 885487044243238912,
+                        "id_str": "885487044243238912",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/ttew0KArXZ",
+            "expanded": "https://twitter.com/RanveerLawyer/status/1253984886534344704",
+            "display": "twitter.com/RanveerLawyer/…"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "RevokeSRO202",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1253985443848339458,
+                    "id_str": "1253985443848339458",
+                    "indices": [
+                        14,
+                        37
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcNHgYXQAI6wu2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcNHgYXQAI6wu2.jpg",
+                    "url": "https://t.co/1ZCogv5w6S",
+                    "display_url": "pic.twitter.com/1ZCogv5w6S",
+                    "expanded_url": "https://twitter.com/Shwet000786/status/1253985446666866688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 719,
+                            "h": 719,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 719,
+                            "h": 719,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1253985443848339458,
+                    "id_str": "1253985443848339458",
+                    "indices": [
+                        14,
+                        37
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcNHgYXQAI6wu2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcNHgYXQAI6wu2.jpg",
+                    "url": "https://t.co/1ZCogv5w6S",
+                    "display_url": "pic.twitter.com/1ZCogv5w6S",
+                    "expanded_url": "https://twitter.com/Shwet000786/status/1253985446666866688/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 719,
+                            "h": 719,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 719,
+                            "h": 719,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "und"
+    },
+    "quoted_status_id": 1253984886534344704,
+    "quoted_status_id_str": "1253984886534344704",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 09:51:09 +0000 2020",
+        "id": 1253984886534344704,
+        "id_str": "1253984886534344704",
+        "text": "@rashtrapatibhvn In J&amp;K, a virus exists since 2015 which is more dangerous than corona &amp; that is SRO 202\nIt has men… https://t.co/phWvRQwl8k",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 885487044243238912,
+        "in_reply_to_user_id_str": "885487044243238912",
+        "in_reply_to_screen_name": "rashtrapatibhvn",
+        "user": {
+            "id": 1246109039483707392,
+            "id_str": "1246109039483707392",
+            "name": "Ranveer Sharma",
+            "screen_name": "RanveerLawyer",
+            "location": "New Delhi, India",
+            "url": null,
+            "description": "Law Graduate\nProud to be an Indian\nI love India",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3,
+            "friends_count": 32,
+            "listed_count": 0,
+            "favourites_count": 164,
+            "statuses_count": 378,
+            "created_at": "Fri Apr 03 16:15:35 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246119385695047680/N2lCk0mn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246119385695047680/N2lCk0mn_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@rashtrapatibhvn In J&amp;K, a virus exists since 2015 which is more dangerous than corona &amp; that is SRO 202\nIt has mentally attacked the educated youth who burn their blood &amp; nights for atleast 30 years in studies &amp; are rewarded SRO 202\nSRO 202 exists only in J&amp;K &amp; nowhere in India",
+            "display_text_range": [
+                0,
+                303
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "rashtrapatibhvn",
+                        "name": "President of India",
+                        "id": 885487044243238912,
+                        "id_str": "885487044243238912",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/phWvRQwl8k",
+                    "expanded_url": "https://twitter.com/i/web/status/1253984886534344704",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        125,
+                        148
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "rashtrapatibhvn",
+                    "name": "President of India",
+                    "id": 885487044243238912,
+                    "id_str": "885487044243238912",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/ttew0KArXZ",
+        "expanded": "https://twitter.com/RanveerLawyer/status/1253984886534344704",
+        "display": "twitter.com/RanveerLawyer/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RevokeSRO202",
+                "indices": [
+                    20,
+                    33
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Shiv_Shakti001",
+                "name": "श्वेत 🇮🇳",
+                "id": 1239939572605190146,
+                "id_str": "1239939572605190146",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1253985443848339458,
+                "id_str": "1253985443848339458",
+                "indices": [
+                    34,
+                    57
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcNHgYXQAI6wu2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcNHgYXQAI6wu2.jpg",
+                "url": "https://t.co/1ZCogv5w6S",
+                "display_url": "pic.twitter.com/1ZCogv5w6S",
+                "expanded_url": "https://twitter.com/Shwet000786/status/1253985446666866688/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 719,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 719,
+                        "h": 719,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1253985446666866688,
+                "source_status_id_str": "1253985446666866688",
+                "source_user_id": 1239939572605190146,
+                "source_user_id_str": "1239939572605190146"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1253985443848339458,
+                "id_str": "1253985443848339458",
+                "indices": [
+                    34,
+                    57
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcNHgYXQAI6wu2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcNHgYXQAI6wu2.jpg",
+                "url": "https://t.co/1ZCogv5w6S",
+                "display_url": "pic.twitter.com/1ZCogv5w6S",
+                "expanded_url": "https://twitter.com/Shwet000786/status/1253985446666866688/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 719,
+                        "h": 719,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 719,
+                        "h": 719,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1253985446666866688,
+                "source_status_id_str": "1253985446666866688",
+                "source_user_id": 1239939572605190146,
+                "source_user_id_str": "1239939572605190146"
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587819263855"
+}

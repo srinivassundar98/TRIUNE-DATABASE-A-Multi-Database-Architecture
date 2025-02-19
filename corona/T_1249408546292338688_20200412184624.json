@@ -1,0 +1,98 @@
+{
+    "created_at": "Sun Apr 12 18:46:24 +0000 2020",
+    "id": 1249408546292338688,
+    "id_str": "1249408546292338688",
+    "text": "@op1npo @Gor316 Gaan we het weer over Corona hebben... Zucht",
+    "display_text_range": [
+        16,
+        60
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249340243179982849,
+    "in_reply_to_status_id_str": "1249340243179982849",
+    "in_reply_to_user_id": 17022916,
+    "in_reply_to_user_id_str": "17022916",
+    "in_reply_to_screen_name": "op1npo",
+    "user": {
+        "id": 150455959,
+        "id_str": "150455959",
+        "name": "Suzanne",
+        "screen_name": "haarverlenging",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 53,
+        "friends_count": 103,
+        "listed_count": 0,
+        "favourites_count": 109,
+        "statuses_count": 816,
+        "created_at": "Tue Jun 01 00:14:46 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1534940651/long-blonde-hair_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1534940651/long-blonde-hair_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "op1npo",
+                "name": "Op1",
+                "id": 17022916,
+                "id_str": "17022916",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "Gor316",
+                "name": "Gor Khatchikyan",
+                "id": 867015738,
+                "id_str": "867015738",
+                "indices": [
+                    8,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586717184981"
+}

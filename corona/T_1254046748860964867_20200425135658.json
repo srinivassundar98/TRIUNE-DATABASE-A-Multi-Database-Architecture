@@ -1,0 +1,120 @@
+{
+    "created_at": "Sat Apr 25 13:56:58 +0000 2020",
+    "id": 1254046748860964867,
+    "id_str": "1254046748860964867",
+    "text": "@nhaerting @c_drosten @SZ Ich weise mal auf \n\nhttps://t.co/9JeKtjtRjr\n\nhin. \n\nIch sehe da genau das Gegenteil zu Ihrem Tweet.",
+    "display_text_range": [
+        26,
+        125
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254040607581966336,
+    "in_reply_to_status_id_str": "1254040607581966336",
+    "in_reply_to_user_id": 843836217523421184,
+    "in_reply_to_user_id_str": "843836217523421184",
+    "in_reply_to_screen_name": "FrankGladisch",
+    "user": {
+        "id": 843836217523421184,
+        "id_str": "843836217523421184",
+        "name": "Frank Gladisch",
+        "screen_name": "FrankGladisch",
+        "location": "Dortmund, Deutschland",
+        "url": "http://www.frankgladisch.de/pageID_369263.html",
+        "description": "Rechtsanwalt; Vielleser, -nachdenker, -schreiber; mag Sonne, Regen, Wind; Musik- und Bücherfan; einfaches Leben-Sucher á la Thoreau;  \nhttp://Three.ma/23R4DZS8",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 434,
+        "friends_count": 490,
+        "listed_count": 4,
+        "favourites_count": 11647,
+        "statuses_count": 32026,
+        "created_at": "Mon Mar 20 14:46:46 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231613835657826304/GLd05w5j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231613835657826304/GLd05w5j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/843836217523421184/1490186222",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/9JeKtjtRjr",
+                "expanded_url": "https://www.sueddeutsche.de/gesundheit/christian-drosten-corona-krise-coronavirus-virologen-1.4887512",
+                "display_url": "sueddeutsche.de/gesundheit/chr…",
+                "indices": [
+                    46,
+                    69
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "nhaerting",
+                "name": "Prof. Niko Härting",
+                "id": 21111724,
+                "id_str": "21111724",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "c_drosten",
+                "name": "Christian Drosten",
+                "id": 2804548467,
+                "id_str": "2804548467",
+                "indices": [
+                    11,
+                    21
+                ]
+            },
+            {
+                "screen_name": "SZ",
+                "name": "Süddeutsche Zeitung",
+                "id": 114508061,
+                "id_str": "114508061",
+                "indices": [
+                    22,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823018647"
+}

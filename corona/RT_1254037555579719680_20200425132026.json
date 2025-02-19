@@ -1,0 +1,358 @@
+{
+    "created_at": "Sat Apr 25 13:20:26 +0000 2020",
+    "id": 1254037555579719680,
+    "id_str": "1254037555579719680",
+    "text": "RT @pete_goodlet: When someone you’ve loved for over 50 years dies during the time of corona it’s so hard not to be with them and your fami…",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 427800838,
+        "id_str": "427800838",
+        "name": "Georgie Leitch",
+        "screen_name": "Billandbecks",
+        "location": null,
+        "url": null,
+        "description": "cook... live at YandoitHills grow fruit ,have bees and live a simple life ...but pretty vigil about World politics...which Complicates the Simple",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3325,
+        "friends_count": 3953,
+        "listed_count": 124,
+        "favourites_count": 84792,
+        "statuses_count": 138021,
+        "created_at": "Sun Dec 04 00:20:49 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192229995449479169/xg_qUrPV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192229995449479169/xg_qUrPV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/427800838/1473410951",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 06:32:29 +0000 2020",
+        "id": 1253934888496979970,
+        "id_str": "1253934888496979970",
+        "text": "When someone you’ve loved for over 50 years dies during the time of corona it’s so hard not to be with them and you… https://t.co/N4oJfy3LeS",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 783528709588389888,
+            "id_str": "783528709588389888",
+            "name": "Pete Goodlet",
+            "screen_name": "pete_goodlet",
+            "location": "Noosa Heads",
+            "url": "http://www.petegoodlet.com/whimsical-gifts/",
+            "description": "Artist and designer 🌈 in Peregian Beach. Pianola performer with my partner David. This planet is our future let’s show it some love! Starting again on Twitter!",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 107,
+            "friends_count": 181,
+            "listed_count": 0,
+            "favourites_count": 1844,
+            "statuses_count": 1694,
+            "created_at": "Wed Oct 05 04:46:16 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248404741685522433/YLEqZjRN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248404741685522433/YLEqZjRN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783528709588389888/1586927429",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "009b89410157afec",
+            "url": "https://api.twitter.com/1.1/geo/id/009b89410157afec.json",
+            "place_type": "city",
+            "name": "Sunshine Coast",
+            "full_name": "Sunshine Coast, Queensland",
+            "country_code": "AU",
+            "country": "Australia",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            152.99692,
+                            -26.853342
+                        ],
+                        [
+                            152.99692,
+                            -26.359623
+                        ],
+                        [
+                            153.151394,
+                            -26.359623
+                        ],
+                        [
+                            153.151394,
+                            -26.853342
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "When someone you’ve loved for over 50 years dies during the time of corona it’s so hard not to be with them and your family. Vale Conni a beautiful sister in law and friend. We love you ❤️ https://t.co/mEcTGQysVz",
+            "display_text_range": [
+                0,
+                188
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253934489501237248,
+                        "id_str": "1253934489501237248",
+                        "indices": [
+                            189,
+                            212
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253934489501237248/pu/img/UNkVsZgF6bQlRdo1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253934489501237248/pu/img/UNkVsZgF6bQlRdo1.jpg",
+                        "url": "https://t.co/mEcTGQysVz",
+                        "display_url": "pic.twitter.com/mEcTGQysVz",
+                        "expanded_url": "https://twitter.com/pete_goodlet/status/1253934888496979970/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                9,
+                                16
+                            ],
+                            "duration_millis": 140000,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253934489501237248/pu/vid/360x640/KJZWHTaBRolvR_Ew.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253934489501237248/pu/vid/320x568/TtwpqO_bymZ0yHQq.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253934489501237248/pu/pl/_e2ZTLpOFLn6a5Us.m3u8?tag=10"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253934489501237248/pu/vid/720x1280/2mNHnC97SvAqTEno.mp4?tag=10"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 383,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253934489501237248,
+                        "id_str": "1253934489501237248",
+                        "indices": [
+                            189,
+                            212
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253934489501237248/pu/img/UNkVsZgF6bQlRdo1.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253934489501237248/pu/img/UNkVsZgF6bQlRdo1.jpg",
+                        "url": "https://t.co/mEcTGQysVz",
+                        "display_url": "pic.twitter.com/mEcTGQysVz",
+                        "expanded_url": "https://twitter.com/pete_goodlet/status/1253934888496979970/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                9,
+                                16
+                            ],
+                            "duration_millis": 140000,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253934489501237248/pu/vid/360x640/KJZWHTaBRolvR_Ew.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 632000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253934489501237248/pu/vid/320x568/TtwpqO_bymZ0yHQq.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253934489501237248/pu/pl/_e2ZTLpOFLn6a5Us.m3u8?tag=10"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253934489501237248/pu/vid/720x1280/2mNHnC97SvAqTEno.mp4?tag=10"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 383,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/N4oJfy3LeS",
+                    "expanded_url": "https://twitter.com/i/web/status/1253934888496979970",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "pete_goodlet",
+                "name": "Pete Goodlet",
+                "id": 783528709588389888,
+                "id_str": "783528709588389888",
+                "indices": [
+                    3,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820826798"
+}

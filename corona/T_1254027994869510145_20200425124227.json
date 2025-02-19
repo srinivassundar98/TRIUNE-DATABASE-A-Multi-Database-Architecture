@@ -1,0 +1,136 @@
+{
+    "created_at": "Sat Apr 25 12:42:27 +0000 2020",
+    "id": 1254027994869510145,
+    "id_str": "1254027994869510145",
+    "text": "Futari kama Mihogo, majimbi, maboga, viazi vikuu na jamii ya hizo ni muhimu Sana hichi kipindi cha Corona mana zita… https://t.co/OjAisqXvTM",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 765729431507853312,
+        "id_str": "765729431507853312",
+        "name": "Ash-han De Hassan",
+        "screen_name": "RealMachochoki",
+        "location": "Kampala, Uganda",
+        "url": null,
+        "description": "🎯Self confidence and motivated always.\n\n🎯Petroleum Geoscience student @MakerereU.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 503,
+        "friends_count": 711,
+        "listed_count": 1,
+        "favourites_count": 5170,
+        "statuses_count": 1376,
+        "created_at": "Wed Aug 17 01:58:17 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765731569554296832/1frl6h2o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/765731569554296832/1frl6h2o_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00a1296e076ab2ef",
+        "url": "https://api.twitter.com/1.1/geo/id/00a1296e076ab2ef.json",
+        "place_type": "admin",
+        "name": "Zanzibar West",
+        "full_name": "Zanzibar West, Tanzania",
+        "country_code": "TZ",
+        "country": "Tanzania",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        39.123634,
+                        -6.326187
+                    ],
+                    [
+                        39.123634,
+                        -6.035538
+                    ],
+                    [
+                        39.317598,
+                        -6.035538
+                    ],
+                    [
+                        39.317598,
+                        -6.326187
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Futari kama Mihogo, majimbi, maboga, viazi vikuu na jamii ya hizo ni muhimu Sana hichi kipindi cha Corona mana zitasababisha social distancing wakati wa kula  bila ata ya kukumbushana 😂😂😅😅😂 #ramadankareem",
+        "display_text_range": [
+            0,
+            204
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ramadankareem",
+                    "indices": [
+                        190,
+                        204
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/OjAisqXvTM",
+                "expanded_url": "https://twitter.com/i/web/status/1254027994869510145",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1587818547347"
+}

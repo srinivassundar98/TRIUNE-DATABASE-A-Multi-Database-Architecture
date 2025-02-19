@@ -1,0 +1,130 @@
+{
+    "created_at": "Sat Apr 25 13:10:08 +0000 2020",
+    "id": 1254034961239355398,
+    "id_str": "1254034961239355398",
+    "text": "So, #Lockerungen also... Na dann freut euch mal über die aktuellen Infektionszahlen. Die steigen schon ganz ohne Lo… https://t.co/l87tCuueSN",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1041365697601921025,
+        "id_str": "1041365697601921025",
+        "name": "KeineMachtDenDoofen",
+        "screen_name": "KDoofen",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 42,
+        "friends_count": 45,
+        "listed_count": 0,
+        "favourites_count": 2425,
+        "statuses_count": 2356,
+        "created_at": "Sun Sep 16 16:38:24 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "So, #Lockerungen also... Na dann freut euch mal über die aktuellen Infektionszahlen. Die steigen schon ganz ohne Lockerungen von vorgestern auf gestern um das 2,5-fache. Ostern war offensichtlich ein großer Erfolg für das Virus. https://t.co/oHx91vf8wA #Corona Ihr seid zu blöd!",
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Lockerungen",
+                    "indices": [
+                        4,
+                        16
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        253,
+                        260
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/oHx91vf8wA",
+                    "expanded_url": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/",
+                    "display_url": "interaktiv.morgenpost.de/corona-virus-k…",
+                    "indices": [
+                        229,
+                        252
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Lockerungen",
+                "indices": [
+                    4,
+                    16
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/l87tCuueSN",
+                "expanded_url": "https://twitter.com/i/web/status/1254034961239355398",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820208259"
+}

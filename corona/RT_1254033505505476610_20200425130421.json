@@ -1,0 +1,808 @@
+{
+    "created_at": "Sat Apr 25 13:04:21 +0000 2020",
+    "id": 1254033505505476610,
+    "id_str": "1254033505505476610",
+    "text": "RT @sixtus: Die @Bild setzt hier gezielt auf einen klickträchtigen Schock-Effekt, wissend, dass die größte Horror-Vorstellung für ihre rege…",
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 216685529,
+        "id_str": "216685529",
+        "name": "Alman McDugan 🏠 in 🇪🇺",
+        "screen_name": "Cyrus_McDugan",
+        "location": "Hamburg, Germany",
+        "url": null,
+        "description": "Software Engineer. 'Nuff said.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 492,
+        "friends_count": 159,
+        "listed_count": 282,
+        "favourites_count": 45644,
+        "statuses_count": 240979,
+        "created_at": "Wed Nov 17 12:56:56 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1169313450553724934/RmljMz31_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169313450553724934/RmljMz31_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216685529/1475513928",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 12:10:48 +0000 2020",
+        "id": 1254020028866887686,
+        "id_str": "1254020028866887686",
+        "text": "Die @Bild setzt hier gezielt auf einen klickträchtigen Schock-Effekt, wissend, dass die größte Horror-Vorstellung f… https://t.co/pSFWThWwNo",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 9334352,
+            "id_str": "9334352",
+            "name": "Mario Sixtus 🇭🇰🇪🇺",
+            "screen_name": "sixtus",
+            "location": "Berlin & Hong Kong",
+            "url": "http://sixtus.net",
+            "description": "Sachbuchautor: http://warumandiezukunftdenken.de 🚀 Drehbuchautor: http://bit.ly/WiiGg 📺 Filmemacher: http://operationnaked.org 👓  http://ichweisswerdubist.de",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 133810,
+            "friends_count": 3351,
+            "listed_count": 2660,
+            "favourites_count": 158288,
+            "statuses_count": 35697,
+            "created_at": "Tue Oct 09 18:57:05 +0000 2007",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "828282",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6E6E6",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/820244357349511170/8-SrUYiP_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/820244357349511170/8-SrUYiP_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/9334352/1580752566",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1253054620559171585,
+        "quoted_status_id_str": "1253054620559171585",
+        "quoted_status": {
+            "created_at": "Wed Apr 22 20:14:36 +0000 2020",
+            "id": 1253054620559171585,
+            "id_str": "1253054620559171585",
+            "text": "In dieser Zeit, in der viele Leute Angst vor den Folgen einer Corona-Infektion haben, tut @BILD so, als könnte man… https://t.co/a0VX2kleWa",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 68511500,
+                "id_str": "68511500",
+                "name": "BILDblog",
+                "screen_name": "BILDblog",
+                "location": "Berlin",
+                "url": "https://bildblog.de",
+                "description": "Das Watchblog für deutschsprachige Medien. Hier kannst Du uns unterstützen: http://bildblog.de/bildblog-unter…",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 194233,
+                "friends_count": 114,
+                "listed_count": 2170,
+                "favourites_count": 6256,
+                "statuses_count": 10372,
+                "created_at": "Mon Aug 24 21:17:53 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "EEEEEE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "888888",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFF33",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1006252649002536960/WF6TmpaR_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006252649002536960/WF6TmpaR_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/68511500/1402270157",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "In dieser Zeit, in der viele Leute Angst vor den Folgen einer Corona-Infektion haben, tut @BILD so, als könnte man als Corona-Patient \"dunkle Haut\" bekommen. Erst ganz am Ende des Artikels die Auflösung: liegt nicht an Corona, sondern an einem Medikament: https://t.co/3cHk2EBpuf https://t.co/3PTCLAQjPK",
+                "display_text_range": [
+                    0,
+                    279
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/3cHk2EBpuf",
+                            "expanded_url": "https://bildblog.de/121263/mit-der-corona-angst-der-leserschaft-zum-meistgeklickten-artikel/",
+                            "display_url": "bildblog.de/121263/mit-der…",
+                            "indices": [
+                                256,
+                                279
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "BILD",
+                            "name": "BILD",
+                            "id": 9204502,
+                            "id_str": "9204502",
+                            "indices": [
+                                90,
+                                95
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253054052260249603,
+                            "id_str": "1253054052260249603",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWO-BYVWAAMDuQC.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWO-BYVWAAMDuQC.jpg",
+                            "url": "https://t.co/3PTCLAQjPK",
+                            "display_url": "pic.twitter.com/3PTCLAQjPK",
+                            "expanded_url": "https://twitter.com/BILDblog/status/1253054620559171585/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 601,
+                                    "h": 343,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 601,
+                                    "h": 343,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 601,
+                                    "h": 343,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1253054072548143104,
+                            "id_str": "1253054072548143104",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWO-Cj6WsAANRGM.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWO-Cj6WsAANRGM.jpg",
+                            "url": "https://t.co/3PTCLAQjPK",
+                            "display_url": "pic.twitter.com/3PTCLAQjPK",
+                            "expanded_url": "https://twitter.com/BILDblog/status/1253054620559171585/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 700,
+                                    "h": 307,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 700,
+                                    "h": 307,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 298,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253054052260249603,
+                            "id_str": "1253054052260249603",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWO-BYVWAAMDuQC.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWO-BYVWAAMDuQC.jpg",
+                            "url": "https://t.co/3PTCLAQjPK",
+                            "display_url": "pic.twitter.com/3PTCLAQjPK",
+                            "expanded_url": "https://twitter.com/BILDblog/status/1253054620559171585/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 601,
+                                    "h": 343,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 601,
+                                    "h": 343,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 601,
+                                    "h": 343,
+                                    "resize": "fit"
+                                }
+                            }
+                        },
+                        {
+                            "id": 1253054072548143104,
+                            "id_str": "1253054072548143104",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWO-Cj6WsAANRGM.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EWO-Cj6WsAANRGM.jpg",
+                            "url": "https://t.co/3PTCLAQjPK",
+                            "display_url": "pic.twitter.com/3PTCLAQjPK",
+                            "expanded_url": "https://twitter.com/BILDblog/status/1253054620559171585/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 700,
+                                    "h": 307,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 700,
+                                    "h": 307,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 298,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 9,
+            "reply_count": 14,
+            "retweet_count": 52,
+            "favorite_count": 377,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/a0VX2kleWa",
+                        "expanded_url": "https://twitter.com/i/web/status/1253054620559171585",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "BILD",
+                        "name": "BILD",
+                        "id": 9204502,
+                        "id_str": "9204502",
+                        "indices": [
+                            90,
+                            95
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/XrhRTk7drV",
+            "expanded": "https://twitter.com/BILDblog/status/1253054620559171585",
+            "display": "twitter.com/BILDblog/statu…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Die @Bild setzt hier gezielt auf einen klickträchtigen Schock-Effekt, wissend, dass die größte Horror-Vorstellung für ihre regelmäßigen Leser nicht Lungenkollaps, Intensivstation und drohender Tod ist, sondern SELBST EIN DUNKELHÄUTIGER ZU SEIN!!1! 🤷🏿‍♀️ https://t.co/XrhRTk7drV",
+            "display_text_range": [
+                0,
+                253
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/XrhRTk7drV",
+                        "expanded_url": "https://twitter.com/BILDblog/status/1253054620559171585",
+                        "display_url": "twitter.com/BILDblog/statu…",
+                        "indices": [
+                            254,
+                            277
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "BILD",
+                        "name": "BILD",
+                        "id": 9204502,
+                        "id_str": "9204502",
+                        "indices": [
+                            4,
+                            9
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 19,
+        "favorite_count": 91,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pSFWThWwNo",
+                    "expanded_url": "https://twitter.com/i/web/status/1254020028866887686",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "BILD",
+                    "name": "BILD",
+                    "id": 9204502,
+                    "id_str": "9204502",
+                    "indices": [
+                        4,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1253054620559171585,
+    "quoted_status_id_str": "1253054620559171585",
+    "quoted_status": {
+        "created_at": "Wed Apr 22 20:14:36 +0000 2020",
+        "id": 1253054620559171585,
+        "id_str": "1253054620559171585",
+        "text": "In dieser Zeit, in der viele Leute Angst vor den Folgen einer Corona-Infektion haben, tut @BILD so, als könnte man… https://t.co/a0VX2kleWa",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 68511500,
+            "id_str": "68511500",
+            "name": "BILDblog",
+            "screen_name": "BILDblog",
+            "location": "Berlin",
+            "url": "https://bildblog.de",
+            "description": "Das Watchblog für deutschsprachige Medien. Hier kannst Du uns unterstützen: http://bildblog.de/bildblog-unter…",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 194233,
+            "friends_count": 114,
+            "listed_count": 2170,
+            "favourites_count": 6256,
+            "statuses_count": 10372,
+            "created_at": "Mon Aug 24 21:17:53 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "EEEEEE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "888888",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFF33",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1006252649002536960/WF6TmpaR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006252649002536960/WF6TmpaR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/68511500/1402270157",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "In dieser Zeit, in der viele Leute Angst vor den Folgen einer Corona-Infektion haben, tut @BILD so, als könnte man als Corona-Patient \"dunkle Haut\" bekommen. Erst ganz am Ende des Artikels die Auflösung: liegt nicht an Corona, sondern an einem Medikament: https://t.co/3cHk2EBpuf https://t.co/3PTCLAQjPK",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/3cHk2EBpuf",
+                        "expanded_url": "https://bildblog.de/121263/mit-der-corona-angst-der-leserschaft-zum-meistgeklickten-artikel/",
+                        "display_url": "bildblog.de/121263/mit-der…",
+                        "indices": [
+                            256,
+                            279
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "BILD",
+                        "name": "BILD",
+                        "id": 9204502,
+                        "id_str": "9204502",
+                        "indices": [
+                            90,
+                            95
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253054052260249603,
+                        "id_str": "1253054052260249603",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWO-BYVWAAMDuQC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWO-BYVWAAMDuQC.jpg",
+                        "url": "https://t.co/3PTCLAQjPK",
+                        "display_url": "pic.twitter.com/3PTCLAQjPK",
+                        "expanded_url": "https://twitter.com/BILDblog/status/1253054620559171585/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 601,
+                                "h": 343,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 601,
+                                "h": 343,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 601,
+                                "h": 343,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1253054072548143104,
+                        "id_str": "1253054072548143104",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWO-Cj6WsAANRGM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWO-Cj6WsAANRGM.jpg",
+                        "url": "https://t.co/3PTCLAQjPK",
+                        "display_url": "pic.twitter.com/3PTCLAQjPK",
+                        "expanded_url": "https://twitter.com/BILDblog/status/1253054620559171585/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 700,
+                                "h": 307,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 700,
+                                "h": 307,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 298,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253054052260249603,
+                        "id_str": "1253054052260249603",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWO-BYVWAAMDuQC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWO-BYVWAAMDuQC.jpg",
+                        "url": "https://t.co/3PTCLAQjPK",
+                        "display_url": "pic.twitter.com/3PTCLAQjPK",
+                        "expanded_url": "https://twitter.com/BILDblog/status/1253054620559171585/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 601,
+                                "h": 343,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 601,
+                                "h": 343,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 601,
+                                "h": 343,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 1253054072548143104,
+                        "id_str": "1253054072548143104",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWO-Cj6WsAANRGM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWO-Cj6WsAANRGM.jpg",
+                        "url": "https://t.co/3PTCLAQjPK",
+                        "display_url": "pic.twitter.com/3PTCLAQjPK",
+                        "expanded_url": "https://twitter.com/BILDblog/status/1253054620559171585/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 700,
+                                "h": 307,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 700,
+                                "h": 307,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 298,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 9,
+        "reply_count": 14,
+        "retweet_count": 52,
+        "favorite_count": 377,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/a0VX2kleWa",
+                    "expanded_url": "https://twitter.com/i/web/status/1253054620559171585",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "BILD",
+                    "name": "BILD",
+                    "id": 9204502,
+                    "id_str": "9204502",
+                    "indices": [
+                        90,
+                        95
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/XrhRTk7drV",
+        "expanded": "https://twitter.com/BILDblog/status/1253054620559171585",
+        "display": "twitter.com/BILDblog/statu…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "sixtus",
+                "name": "Mario Sixtus 🇭🇰🇪🇺",
+                "id": 9334352,
+                "id_str": "9334352",
+                "indices": [
+                    3,
+                    10
+                ]
+            },
+            {
+                "screen_name": "BILD",
+                "name": "BILD",
+                "id": 9204502,
+                "id_str": "9204502",
+                "indices": [
+                    16,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819861185"
+}

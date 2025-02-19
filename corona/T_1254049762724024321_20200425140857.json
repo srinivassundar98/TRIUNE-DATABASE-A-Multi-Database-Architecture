@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 14:08:57 +0000 2020",
+    "id": 1254049762724024321,
+    "id_str": "1254049762724024321",
+    "text": "@CNNent @RealHughJackman @jes_chastain /Do you believe Alicia Keys recent video in support of Corona workers n vict… https://t.co/5WA0Gp4EDv",
+    "display_text_range": [
+        39,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 968128723173236736,
+    "in_reply_to_status_id_str": "968128723173236736",
+    "in_reply_to_user_id": 110458336,
+    "in_reply_to_user_id_str": "110458336",
+    "in_reply_to_screen_name": "CNNent",
+    "user": {
+        "id": 2441995448,
+        "id_str": "2441995448",
+        "name": "bob schoos",
+        "screen_name": "yankeestation1",
+        "location": "US",
+        "url": null,
+        "description": "Hares dictatorship, such as Hitler, Stalin and Trump",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 7,
+        "listed_count": 0,
+        "favourites_count": 143,
+        "statuses_count": 7299,
+        "created_at": "Sun Apr 13 17:24:48 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CNNent @RealHughJackman @jes_chastain /Do you believe Alicia Keys recent video in support of Corona workers n victims was shown on FOX? And if not, do you have an idea why?",
+        "display_text_range": [
+            39,
+            173
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CNNent",
+                    "name": "CNN Entertainment",
+                    "id": 110458336,
+                    "id_str": "110458336",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "RealHughJackman",
+                    "name": "Hugh Jackman",
+                    "id": 27042513,
+                    "id_str": "27042513",
+                    "indices": [
+                        8,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "jes_chastain",
+                    "name": "Jessica Chastain",
+                    "id": 2439032786,
+                    "id_str": "2439032786",
+                    "indices": [
+                        25,
+                        38
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/5WA0Gp4EDv",
+                "expanded_url": "https://twitter.com/i/web/status/1254049762724024321",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CNNent",
+                "name": "CNN Entertainment",
+                "id": 110458336,
+                "id_str": "110458336",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "RealHughJackman",
+                "name": "Hugh Jackman",
+                "id": 27042513,
+                "id_str": "27042513",
+                "indices": [
+                    8,
+                    24
+                ]
+            },
+            {
+                "screen_name": "jes_chastain",
+                "name": "Jessica Chastain",
+                "id": 2439032786,
+                "id_str": "2439032786",
+                "indices": [
+                    25,
+                    38
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823737208"
+}

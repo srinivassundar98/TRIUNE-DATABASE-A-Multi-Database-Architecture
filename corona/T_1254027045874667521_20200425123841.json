@@ -1,0 +1,199 @@
+{
+    "created_at": "Sat Apr 25 12:38:41 +0000 2020",
+    "id": 1254027045874667521,
+    "id_str": "1254027045874667521",
+    "text": "#Corona ist vorbei. \n\nÜberzeugen Sie sich selbst. https://t.co/Zop2Cazzbz",
+    "display_text_range": [
+        0,
+        49
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1038196973545906177,
+        "id_str": "1038196973545906177",
+        "name": "Schlanggl",
+        "screen_name": "schlanggl",
+        "location": "Internetz",
+        "url": null,
+        "description": "Humor zu haben, ist die List zu lachen, wenn es zum Weinen ist.\n𝘾𝙖𝙪𝙩𝙞𝙤𝙣: Hier werd a g'frotzlt\n@CSU #𝘞𝘜 #𝘈𝘶𝘧𝘣𝘳𝘶𝘤𝘩2020 ...Leit', bleibt's gsund!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1419,
+        "friends_count": 192,
+        "listed_count": 5,
+        "favourites_count": 32423,
+        "statuses_count": 26553,
+        "created_at": "Fri Sep 07 22:47:02 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059062894497808389/LGRaOwKU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059062894497808389/LGRaOwKU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1038196973545906177/1536360808",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254026600947109888,
+                "id_str": "1254026600947109888",
+                "indices": [
+                    50,
+                    73
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254026600947109888/pu/img/J7pSYEnmUuvrYjOE.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254026600947109888/pu/img/J7pSYEnmUuvrYjOE.jpg",
+                "url": "https://t.co/Zop2Cazzbz",
+                "display_url": "pic.twitter.com/Zop2Cazzbz",
+                "expanded_url": "https://twitter.com/schlanggl/status/1254027045874667521/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254026600947109888,
+                "id_str": "1254026600947109888",
+                "indices": [
+                    50,
+                    73
+                ],
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254026600947109888/pu/img/J7pSYEnmUuvrYjOE.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254026600947109888/pu/img/J7pSYEnmUuvrYjOE.jpg",
+                "url": "https://t.co/Zop2Cazzbz",
+                "display_url": "pic.twitter.com/Zop2Cazzbz",
+                "expanded_url": "https://twitter.com/schlanggl/status/1254027045874667521/video/1",
+                "type": "video",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 17851,
+                    "variants": [
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254026600947109888/pu/vid/480x270/RjD6c3p6vRYt6cnf.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254026600947109888/pu/vid/640x360/dSBoRXh9DD-mxzMp.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1254026600947109888/pu/vid/1280x720/uQGKxUkdtsww3QSZ.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1254026600947109888/pu/pl/LrcArri-kO3Ze_z9.m3u8?tag=10"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818321089"
+}

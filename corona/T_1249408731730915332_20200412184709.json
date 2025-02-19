@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun Apr 12 18:47:09 +0000 2020",
+    "id": 1249408731730915332,
+    "id_str": "1249408731730915332",
+    "text": "@Raffmeister23 Afulo! Zang’ma a corona cham’ ka tima soli. 😂",
+    "display_text_range": [
+        15,
+        60
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249408357951320065,
+    "in_reply_to_status_id_str": "1249408357951320065",
+    "in_reply_to_user_id": 129853843,
+    "in_reply_to_user_id_str": "129853843",
+    "in_reply_to_screen_name": "Raffmeister23",
+    "user": {
+        "id": 276483597,
+        "id_str": "276483597",
+        "name": "Itty Bitty",
+        "screen_name": "Mzhiki",
+        "location": "Tamale, Ghana",
+        "url": null,
+        "description": "Fashion Designer || iSew ✂👗|| your favourite jumpsuit maker || I tweet in Dagbanli, sometimes. ||Business page   http://instagram.com/hiky_muda/",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 817,
+        "friends_count": 478,
+        "listed_count": 2,
+        "favourites_count": 1727,
+        "statuses_count": 14805,
+        "created_at": "Sun Apr 03 13:05:30 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1177692490603880453/s0pvBFl7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177692490603880453/s0pvBFl7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/276483597/1541956068",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00abb498585a733c",
+        "url": "https://api.twitter.com/1.1/geo/id/00abb498585a733c.json",
+        "place_type": "city",
+        "name": "Tamale",
+        "full_name": "Tamale, Ghana",
+        "country_code": "GH",
+        "country": "Ghana",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -0.894255,
+                        9.365422
+                    ],
+                    [
+                        -0.894255,
+                        9.447177
+                    ],
+                    [
+                        -0.801873,
+                        9.447177
+                    ],
+                    [
+                        -0.801873,
+                        9.365422
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Raffmeister23",
+                "name": "i Sala",
+                "id": 129853843,
+                "id_str": "129853843",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1586717229193"
+}

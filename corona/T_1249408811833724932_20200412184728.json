@@ -1,0 +1,209 @@
+{
+    "created_at": "Sun Apr 12 18:47:28 +0000 2020",
+    "id": 1249408811833724932,
+    "id_str": "1249408811833724932",
+    "text": "Dit.",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 27322611,
+        "id_str": "27322611",
+        "name": "Ismaël | Filmmaker",
+        "screen_name": "ismaellotz",
+        "location": "Groningen, Nederland",
+        "url": "http://lotzlives.com",
+        "description": "Dutch filmmaker who is making his dreams come true while dealing with stage IV lung cancer. #LotzLeeft #LotzLives",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2336,
+        "friends_count": 1037,
+        "listed_count": 77,
+        "favourites_count": 4950,
+        "statuses_count": 13633,
+        "created_at": "Sat Mar 28 22:25:20 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227721951524859905/-skpb-K0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227721951524859905/-skpb-K0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27322611/1581547008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1249376248872284160,
+    "quoted_status_id_str": "1249376248872284160",
+    "quoted_status": {
+        "created_at": "Sun Apr 12 16:38:04 +0000 2020",
+        "id": 1249376248872284160,
+        "id_str": "1249376248872284160",
+        "text": "Door het nieuws niet meer te volgen, creëer je niet minder Corona ellende in de buitenwereld. Maar wel minder Coron… https://t.co/uhvoZ7XKhy",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 860332110,
+            "id_str": "860332110",
+            "name": "Arold Langeveld",
+            "screen_name": "AroldAlheel",
+            "location": "Oud Scheveningen, Den Haag",
+            "url": "http://www.aroldlangeveld.nl",
+            "description": "🔸Counselt/ spreekt / schrijft over Nondualiteit en Verslaving🔸Runt een fantastisch team Speaking Happens-presentatietrainers 🔸Leidt presentatiecoaches op",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1176,
+            "friends_count": 207,
+            "listed_count": 18,
+            "favourites_count": 5703,
+            "statuses_count": 8704,
+            "created_at": "Wed Oct 03 21:03:10 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "84A897",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246696969344557056/kswrWMUb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246696969344557056/kswrWMUb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/860332110/1537708012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "51b867eb5c574fb1",
+            "url": "https://api.twitter.com/1.1/geo/id/51b867eb5c574fb1.json",
+            "place_type": "city",
+            "name": "Haaren",
+            "full_name": "Haaren, Nederland",
+            "country_code": "NL",
+            "country": "Nederland",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.144993,
+                            51.58563
+                        ],
+                        [
+                            5.144993,
+                            51.673935
+                        ],
+                        [
+                            5.316765,
+                            51.673935
+                        ],
+                        [
+                            5.316765,
+                            51.58563
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Door het nieuws niet meer te volgen, creëer je niet minder Corona ellende in de buitenwereld. Maar wel minder Corona emoties in je binnenwereld.",
+            "display_text_range": [
+                0,
+                144
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/uhvoZ7XKhy",
+                    "expanded_url": "https://twitter.com/i/web/status/1249376248872284160",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/JGggP1ge3Z",
+        "expanded": "https://twitter.com/aroldalheel/status/1249376248872284160",
+        "display": "twitter.com/aroldalheel/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1586717248291"
+}

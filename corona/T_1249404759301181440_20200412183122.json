@@ -1,0 +1,109 @@
+{
+    "created_at": "Sun Apr 12 18:31:22 +0000 2020",
+    "id": 1249404759301181440,
+    "id_str": "1249404759301181440",
+    "text": "@FirozManek @timesofindia @TOICitiesNews Na i dont take tension bhai,corona to temporary hai.....gdnt",
+    "display_text_range": [
+        41,
+        101
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249404196841041922,
+    "in_reply_to_status_id_str": "1249404196841041922",
+    "in_reply_to_user_id": 973683164,
+    "in_reply_to_user_id_str": "973683164",
+    "in_reply_to_screen_name": "FirozManek",
+    "user": {
+        "id": 886187189989556225,
+        "id_str": "886187189989556225",
+        "name": "Rahul Vatsa",
+        "screen_name": "RahulVatsa6",
+        "location": "Gujarat, India",
+        "url": null,
+        "description": "Proud Indian......working for a progressive nation",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 89,
+        "listed_count": 1,
+        "favourites_count": 576,
+        "statuses_count": 1430,
+        "created_at": "Sat Jul 15 11:34:25 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247214057184268289/A_xzGQeU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247214057184268289/A_xzGQeU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/886187189989556225/1585549506",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "FirozManek",
+                "name": "Feirouz Manek",
+                "id": 973683164,
+                "id_str": "973683164",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "timesofindia",
+                "name": "The Times Of India",
+                "id": 134758540,
+                "id_str": "134758540",
+                "indices": [
+                    12,
+                    25
+                ]
+            },
+            {
+                "screen_name": "TOICitiesNews",
+                "name": "TOI Cities",
+                "id": 30846824,
+                "id_str": "30846824",
+                "indices": [
+                    26,
+                    40
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716282092"
+}

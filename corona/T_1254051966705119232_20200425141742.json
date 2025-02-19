@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 14:17:42 +0000 2020",
+    "id": 1254051966705119232,
+    "id_str": "1254051966705119232",
+    "text": "@11_Ole @2_Steffenprivat von mir aus spendet das Geld nen Tierschutzverein oder der Krebshilfe. Die haben es notwen… https://t.co/fS3uTk2UIK",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254051543499882496,
+    "in_reply_to_status_id_str": "1254051543499882496",
+    "in_reply_to_user_id": 760055753306673153,
+    "in_reply_to_user_id_str": "760055753306673153",
+    "in_reply_to_screen_name": "Pascha1990",
+    "user": {
+        "id": 760055753306673153,
+        "id_str": "760055753306673153",
+        "name": "3nigma",
+        "screen_name": "Pascha1990",
+        "location": "Bayern, Deutschland",
+        "url": null,
+        "description": "Links, Rechts, Vor und Zurück",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 6,
+        "listed_count": 0,
+        "favourites_count": 130,
+        "statuses_count": 378,
+        "created_at": "Mon Aug 01 10:13:07 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1166702594485604355/OiCqDx_F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166702594485604355/OiCqDx_F_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@11_Ole @2_Steffenprivat von mir aus spendet das Geld nen Tierschutzverein oder der Krebshilfe. Die haben es notwendiger. Auch ich habe wegen Corona finanzielle Engpässe, war aber so schlau über Jahre auch mal was zurückzulegen und nicht immer alles zu versaufen",
+        "display_text_range": [
+            25,
+            262
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "11_Ole",
+                    "name": "Ole",
+                    "id": 392850183,
+                    "id_str": "392850183",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "2_Steffenprivat",
+                    "name": "Steffen",
+                    "id": 1151201191927439360,
+                    "id_str": "1151201191927439360",
+                    "indices": [
+                        8,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/fS3uTk2UIK",
+                "expanded_url": "https://twitter.com/i/web/status/1254051966705119232",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "11_Ole",
+                "name": "Ole",
+                "id": 392850183,
+                "id_str": "392850183",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "2_Steffenprivat",
+                "name": "Steffen",
+                "id": 1151201191927439360,
+                "id_str": "1151201191927439360",
+                "indices": [
+                    8,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824262678"
+}

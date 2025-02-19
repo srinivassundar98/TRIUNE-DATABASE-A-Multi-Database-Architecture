@@ -1,0 +1,179 @@
+{
+    "created_at": "Sat Apr 25 13:30:58 +0000 2020",
+    "id": 1254040206145183744,
+    "id_str": "1254040206145183744",
+    "text": "@brianstelter @drsanjaygupta What if his daughters wrote down the following three things?\n\n#Chloroquine\n#VitaminC a… https://t.co/lXrja9YLCR",
+    "display_text_range": [
+        29,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254035620135141376,
+    "in_reply_to_status_id_str": "1254035620135141376",
+    "in_reply_to_user_id": 14515799,
+    "in_reply_to_user_id_str": "14515799",
+    "in_reply_to_screen_name": "brianstelter",
+    "user": {
+        "id": 968189103530536960,
+        "id_str": "968189103530536960",
+        "name": "Stephen Morris",
+        "screen_name": "momorris1962",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 19,
+        "friends_count": 171,
+        "listed_count": 0,
+        "favourites_count": 945,
+        "statuses_count": 1957,
+        "created_at": "Mon Feb 26 18:20:45 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@brianstelter @drsanjaygupta What if his daughters wrote down the following three things?\n\n#Chloroquine\n#VitaminC and\n#Zinc \n\nGupta'd be like, \"That's preposterous, I've never heard of those things helping the corona virus\n\nI also don't think the grass is green or that the sky is blue",
+        "display_text_range": [
+            29,
+            285
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Chloroquine",
+                    "indices": [
+                        91,
+                        103
+                    ]
+                },
+                {
+                    "text": "VitaminC",
+                    "indices": [
+                        104,
+                        113
+                    ]
+                },
+                {
+                    "text": "Zinc",
+                    "indices": [
+                        118,
+                        123
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "brianstelter",
+                    "name": "Brian Stelter",
+                    "id": 14515799,
+                    "id_str": "14515799",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "drsanjaygupta",
+                    "name": "Dr. Sanjay Gupta",
+                    "id": 18170896,
+                    "id_str": "18170896",
+                    "indices": [
+                        14,
+                        28
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Chloroquine",
+                "indices": [
+                    91,
+                    103
+                ]
+            },
+            {
+                "text": "VitaminC",
+                "indices": [
+                    104,
+                    113
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/lXrja9YLCR",
+                "expanded_url": "https://twitter.com/i/web/status/1254040206145183744",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "brianstelter",
+                "name": "Brian Stelter",
+                "id": 14515799,
+                "id_str": "14515799",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "drsanjaygupta",
+                "name": "Dr. Sanjay Gupta",
+                "id": 18170896,
+                "id_str": "18170896",
+                "indices": [
+                    14,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821458742"
+}

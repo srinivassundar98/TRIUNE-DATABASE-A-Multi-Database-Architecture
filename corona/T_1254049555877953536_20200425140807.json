@@ -1,0 +1,153 @@
+{
+    "created_at": "Sat Apr 25 14:08:07 +0000 2020",
+    "id": 1254049555877953536,
+    "id_str": "1254049555877953536",
+    "text": "@MarkTaylor2976 @ProfKarolSikora Hopefully the option to translate pops up at the bottom for you, should hopefully… https://t.co/1JBNzLmA5d",
+    "display_text_range": [
+        33,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253986969337692160,
+    "in_reply_to_status_id_str": "1253986969337692160",
+    "in_reply_to_user_id": 82635069,
+    "in_reply_to_user_id_str": "82635069",
+    "in_reply_to_screen_name": "MarkTaylor2976",
+    "user": {
+        "id": 873184260538159104,
+        "id_str": "873184260538159104",
+        "name": "Scott Duncan",
+        "screen_name": "SDunc1982",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 75,
+        "friends_count": 248,
+        "listed_count": 1,
+        "favourites_count": 22406,
+        "statuses_count": 3222,
+        "created_at": "Fri Jun 09 14:25:25 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999305988866883585/_bNuiRwq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/999305988866883585/_bNuiRwq_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@MarkTaylor2976 @ProfKarolSikora Hopefully the option to translate pops up at the bottom for you, should hopefully help put your mind at ease. Quick version, 9 year old French boy was covid positive, contact tracing showed he had contact with 172 people, none caught covid from him.\n\nhttps://t.co/u6y7WMGWjY",
+        "display_text_range": [
+            33,
+            307
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/u6y7WMGWjY",
+                    "expanded_url": "https://www.n-tv.de/panorama/172-Kontaktpersonen-von-Corona-verschont-article21727469.html",
+                    "display_url": "n-tv.de/panorama/172-K…",
+                    "indices": [
+                        284,
+                        307
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "MarkTaylor2976",
+                    "name": "Mark Taylor",
+                    "id": 82635069,
+                    "id_str": "82635069",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "ProfKarolSikora",
+                    "name": "Professor Karol Sikora",
+                    "id": 1235849797191401472,
+                    "id_str": "1235849797191401472",
+                    "indices": [
+                        16,
+                        32
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/1JBNzLmA5d",
+                "expanded_url": "https://twitter.com/i/web/status/1254049555877953536",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "MarkTaylor2976",
+                "name": "Mark Taylor",
+                "id": 82635069,
+                "id_str": "82635069",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "ProfKarolSikora",
+                "name": "Professor Karol Sikora",
+                "id": 1235849797191401472,
+                "id_str": "1235849797191401472",
+                "indices": [
+                    16,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823687892"
+}

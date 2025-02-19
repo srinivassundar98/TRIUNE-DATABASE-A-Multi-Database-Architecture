@@ -1,0 +1,153 @@
+{
+    "created_at": "Sat Apr 25 14:00:21 +0000 2020",
+    "id": 1254047598446555136,
+    "id_str": "1254047598446555136",
+    "text": "Kan ikke skade å ta C og D vitaminer \nhttps://t.co/AsN7RqSMDs #COVID2019 #corona #koronavirus #koronaNorge #korona",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 25986491,
+        "id_str": "25986491",
+        "name": "Kjetil Eek Bergo",
+        "screen_name": "kjetilbergo",
+        "location": "Bergen",
+        "url": "http://appartisten.blogspot.no/",
+        "description": "I have a son and a daughter.. #Sony. #canon #Android. #huawei #xperia #skbrann #manutd #fcbarcelona #arbeiderpartiet",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 238,
+        "friends_count": 565,
+        "listed_count": 7,
+        "favourites_count": 3922,
+        "statuses_count": 4588,
+        "created_at": "Mon Mar 23 11:43:35 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585787777717051392/5Q6HMeIl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585787777717051392/5Q6HMeIl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25986491/1493229561",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "2260fcb4a77f2bad",
+        "url": "https://api.twitter.com/1.1/geo/id/2260fcb4a77f2bad.json",
+        "place_type": "city",
+        "name": "Bergen",
+        "full_name": "Bergen, Norge",
+        "country_code": "NO",
+        "country": "Norge",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        5.16027,
+                        60.184854
+                    ],
+                    [
+                        5.16027,
+                        60.533545
+                    ],
+                    [
+                        5.686685,
+                        60.533545
+                    ],
+                    [
+                        5.686685,
+                        60.184854
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "COVID2019",
+                "indices": [
+                    62,
+                    72
+                ]
+            },
+            {
+                "text": "corona",
+                "indices": [
+                    73,
+                    80
+                ]
+            },
+            {
+                "text": "koronavirus",
+                "indices": [
+                    81,
+                    93
+                ]
+            },
+            {
+                "text": "koronaNorge",
+                "indices": [
+                    94,
+                    106
+                ]
+            },
+            {
+                "text": "korona",
+                "indices": [
+                    107,
+                    114
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/AsN7RqSMDs",
+                "expanded_url": "https://www.eurekalert.org/pub_releases/2020-04/osu-dsa042320.php",
+                "display_url": "eurekalert.org/pub_releases/2…",
+                "indices": [
+                    38,
+                    61
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "no",
+    "timestamp_ms": "1587823221204"
+}

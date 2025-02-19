@@ -1,0 +1,128 @@
+{
+    "created_at": "Sat Apr 25 13:11:35 +0000 2020",
+    "id": 1254035326059905024,
+    "id_str": "1254035326059905024",
+    "text": "Shiv Sena Govt. will not be able to control the situation.Reason is that Sonia Gandhi wants complete destruction of… https://t.co/tLvYwbHKAB",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1594721924,
+        "id_str": "1594721924",
+        "name": "Long Live India",
+        "screen_name": "alertpune",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 119,
+        "friends_count": 80,
+        "listed_count": 5,
+        "favourites_count": 8451,
+        "statuses_count": 16917,
+        "created_at": "Mon Jul 15 01:53:52 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "42B300",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/546705042367971329/n0wJ1GoA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/546705042367971329/n0wJ1GoA_normal.jpeg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "0a063651d547b2b9",
+        "url": "https://api.twitter.com/1.1/geo/id/0a063651d547b2b9.json",
+        "place_type": "city",
+        "name": "Haveli",
+        "full_name": "Haveli, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        73.624695,
+                        18.280103
+                    ],
+                    [
+                        73.624695,
+                        18.73622
+                    ],
+                    [
+                        74.195459,
+                        18.73622
+                    ],
+                    [
+                        74.195459,
+                        18.280103
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Shiv Sena Govt. will not be able to control the situation.Reason is that Sonia Gandhi wants complete destruction of Maharashtra &amp; Shiv Sena can not oppose her.Congress is deliberately encouraging indiscipline &amp; spread of Corona Virus. MH is doomed if Lock Down is further extended",
+        "display_text_range": [
+            0,
+            288
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/tLvYwbHKAB",
+                "expanded_url": "https://twitter.com/i/web/status/1254035326059905024",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820295239"
+}

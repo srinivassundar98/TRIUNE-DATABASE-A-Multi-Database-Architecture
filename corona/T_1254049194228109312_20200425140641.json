@@ -1,0 +1,177 @@
+{
+    "created_at": "Sat Apr 25 14:06:41 +0000 2020",
+    "id": 1254049194228109312,
+    "id_str": "1254049194228109312",
+    "text": "@thehill Bill Gates on how quickly we could see a Corona virus vaccine https://t.co/ZCrYIb9QHb https://t.co/icPcwriMRl",
+    "display_text_range": [
+        9,
+        94
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254036720800194562,
+    "in_reply_to_status_id_str": "1254036720800194562",
+    "in_reply_to_user_id": 1917731,
+    "in_reply_to_user_id_str": "1917731",
+    "in_reply_to_screen_name": "thehill",
+    "user": {
+        "id": 1248978761174769674,
+        "id_str": "1248978761174769674",
+        "name": "Tanvir Ahmed",
+        "screen_name": "TanvirA80714326",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 0,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 1455,
+        "created_at": "Sat Apr 11 14:19:07 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ZCrYIb9QHb",
+                "expanded_url": "https://bit.ly/3a1TiBF",
+                "display_url": "bit.ly/3a1TiBF",
+                "indices": [
+                    71,
+                    94
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "thehill",
+                "name": "The Hill",
+                "id": 1917731,
+                "id_str": "1917731",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254049182840545282,
+                "id_str": "1254049182840545282",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdHFmoUYAIy0Oz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdHFmoUYAIy0Oz.jpg",
+                "url": "https://t.co/icPcwriMRl",
+                "display_url": "pic.twitter.com/icPcwriMRl",
+                "expanded_url": "https://twitter.com/TanvirA80714326/status/1254049194228109312/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 273,
+                        "h": 185,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 273,
+                        "h": 185,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 273,
+                        "h": 185,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254049182840545282,
+                "id_str": "1254049182840545282",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdHFmoUYAIy0Oz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdHFmoUYAIy0Oz.jpg",
+                "url": "https://t.co/icPcwriMRl",
+                "display_url": "pic.twitter.com/icPcwriMRl",
+                "expanded_url": "https://twitter.com/TanvirA80714326/status/1254049194228109312/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 273,
+                        "h": 185,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 273,
+                        "h": 185,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 273,
+                        "h": 185,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823601668"
+}

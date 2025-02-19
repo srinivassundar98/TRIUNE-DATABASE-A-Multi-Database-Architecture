@@ -1,0 +1,145 @@
+{
+    "created_at": "Sat Apr 25 13:42:47 +0000 2020",
+    "id": 1254043180699443201,
+    "id_str": "1254043180699443201",
+    "text": "RT @netzpolitik_org: Quarantäne-Durchsetzung: Hat Sachsen-Anhalt die Übermittlung von Coronalisten an die Polizei v… https://t.co/DjeJMaoo2h",
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 15663428,
+        "id_str": "15663428",
+        "name": "𝗺𝗲𝗱𝗶𝗮𝗿𝗲𝗹𝗼𝗮𝗱𝗲𝗱@home",
+        "screen_name": "mediareloaded",
+        "location": "Deutschland",
+        "url": "https://mediareloaded.de",
+        "description": "Interessantes zu Medien und Datenschutz, kann kleine Dosen Politik & Boulevard enthalten... | Peter Cohrs | Imprint: http://lmy.de/4ZS17",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 584,
+        "friends_count": 419,
+        "listed_count": 103,
+        "favourites_count": 587,
+        "statuses_count": 20444,
+        "created_at": "Wed Jul 30 17:51:56 +0000 2008",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "9E1616",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1146059306497744897/xJXH-VYF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146059306497744897/xJXH-VYF_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15663428/1443737059",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "RT @netzpolitik_org: Quarantäne-Durchsetzung: Hat Sachsen-Anhalt die Übermittlung von Coronalisten an die Polizei vertuscht? | https://t.co/w6PNAmNPbB #Corona #Daten",
+        "display_text_range": [
+            0,
+            165
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        151,
+                        158
+                    ]
+                },
+                {
+                    "text": "Daten",
+                    "indices": [
+                        159,
+                        165
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/w6PNAmNPbB",
+                    "expanded_url": "https://netzpolitik.org/2020/hat-sachsen-anhalt-die-uebermittlung-von-coronalisten-an-die-polizei-vertuscht/",
+                    "display_url": "netzpolitik.org/2020/hat-sachs…",
+                    "indices": [
+                        127,
+                        150
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "netzpolitik_org",
+                    "name": "netzpolitik.org",
+                    "id": 724500636365144064,
+                    "id_str": "724500636365144064",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/DjeJMaoo2h",
+                "expanded_url": "https://twitter.com/i/web/status/1254043180699443201",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "netzpolitik_org",
+                "name": "netzpolitik.org",
+                "id": 724500636365144064,
+                "id_str": "724500636365144064",
+                "indices": [
+                    3,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822167931"
+}

@@ -1,0 +1,402 @@
+{
+    "created_at": "Sat Apr 25 14:10:03 +0000 2020",
+    "id": 1254050040353521664,
+    "id_str": "1254050040353521664",
+    "text": "RT @vikrantgupta73: I will be hosting Three World Cup winners @harbhajan_singh @ImRaina and Mr Sunil Gavaskar on @aajtak at 3pm today. Plea…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1253541481316601859,
+        "id_str": "1253541481316601859",
+        "name": "Anmolbadge",
+        "screen_name": "Anmolbadge3",
+        "location": null,
+        "url": null,
+        "description": "At. Bhiwapur.Nagpur ( MH)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 10,
+        "listed_count": 0,
+        "favourites_count": 9,
+        "statuses_count": 7,
+        "created_at": "Fri Apr 24 04:29:27 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253542133128212480/Wd7XWWKu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253542133128212480/Wd7XWWKu_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 04:41:07 +0000 2020",
+        "id": 1253906865907363842,
+        "id_str": "1253906865907363842",
+        "text": "I will be hosting Three World Cup winners @harbhajan_singh @ImRaina and Mr Sunil Gavaskar on @aajtak at 3pm today.… https://t.co/mUWzDuNjJQ",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 135110894,
+            "id_str": "135110894",
+            "name": "Vikrant Gupta",
+            "screen_name": "vikrantgupta73",
+            "location": "New Delhi, India",
+            "url": "http://Instagram.com/vikrant.gupta73",
+            "description": "Senior Executive Editor, Aaj Tak/India Today. Forever a student of life: What do they know of Cricket who only Cricket know. Views/RTs personal opinion",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 326192,
+            "friends_count": 316,
+            "listed_count": 328,
+            "favourites_count": 17388,
+            "statuses_count": 26303,
+            "created_at": "Tue Apr 20 10:57:44 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1225116427843072001/AmyYaoDb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225116427843072001/AmyYaoDb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/135110894/1579671367",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "64231a922dea526e",
+            "url": "https://api.twitter.com/1.1/geo/id/64231a922dea526e.json",
+            "place_type": "city",
+            "name": "Gurgaon",
+            "full_name": "Gurgaon, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            76.707671,
+                            28.199529
+                        ],
+                        [
+                            76.707671,
+                            28.537521
+                        ],
+                        [
+                            77.241711,
+                            28.537521
+                        ],
+                        [
+                            77.241711,
+                            28.199529
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "I will be hosting Three World Cup winners @harbhajan_singh @ImRaina and Mr Sunil Gavaskar on @aajtak at 3pm today. Please do send in your Qs and tune in #Corona #eAgendaAajtak https://t.co/rDSmajySTU",
+            "display_text_range": [
+                0,
+                175
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            153,
+                            160
+                        ]
+                    },
+                    {
+                        "text": "eAgendaAajtak",
+                        "indices": [
+                            161,
+                            175
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "harbhajan_singh",
+                        "name": "Harbhajan Turbanator",
+                        "id": 92945681,
+                        "id_str": "92945681",
+                        "indices": [
+                            42,
+                            58
+                        ]
+                    },
+                    {
+                        "screen_name": "ImRaina",
+                        "name": "Suresh Raina🇮🇳",
+                        "id": 121044171,
+                        "id_str": "121044171",
+                        "indices": [
+                            59,
+                            67
+                        ]
+                    },
+                    {
+                        "screen_name": "aajtak",
+                        "name": "AajTak",
+                        "id": 42606652,
+                        "id_str": "42606652",
+                        "indices": [
+                            93,
+                            100
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253906849197244416,
+                        "id_str": "1253906849197244416",
+                        "indices": [
+                            176,
+                            199
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWbFosfUwAA4PKm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWbFosfUwAA4PKm.jpg",
+                        "url": "https://t.co/rDSmajySTU",
+                        "display_url": "pic.twitter.com/rDSmajySTU",
+                        "expanded_url": "https://twitter.com/vikrantgupta73/status/1253906865907363842/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 481,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 595,
+                                "h": 842,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 595,
+                                "h": 842,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253906849197244416,
+                        "id_str": "1253906849197244416",
+                        "indices": [
+                            176,
+                            199
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWbFosfUwAA4PKm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWbFosfUwAA4PKm.jpg",
+                        "url": "https://t.co/rDSmajySTU",
+                        "display_url": "pic.twitter.com/rDSmajySTU",
+                        "expanded_url": "https://twitter.com/vikrantgupta73/status/1253906865907363842/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 481,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 595,
+                                "h": 842,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 595,
+                                "h": 842,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 3,
+        "reply_count": 57,
+        "retweet_count": 70,
+        "favorite_count": 1799,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/mUWzDuNjJQ",
+                    "expanded_url": "https://twitter.com/i/web/status/1253906865907363842",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "harbhajan_singh",
+                    "name": "Harbhajan Turbanator",
+                    "id": 92945681,
+                    "id_str": "92945681",
+                    "indices": [
+                        42,
+                        58
+                    ]
+                },
+                {
+                    "screen_name": "ImRaina",
+                    "name": "Suresh Raina🇮🇳",
+                    "id": 121044171,
+                    "id_str": "121044171",
+                    "indices": [
+                        59,
+                        67
+                    ]
+                },
+                {
+                    "screen_name": "aajtak",
+                    "name": "AajTak",
+                    "id": 42606652,
+                    "id_str": "42606652",
+                    "indices": [
+                        93,
+                        100
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "vikrantgupta73",
+                "name": "Vikrant Gupta",
+                "id": 135110894,
+                "id_str": "135110894",
+                "indices": [
+                    3,
+                    18
+                ]
+            },
+            {
+                "screen_name": "harbhajan_singh",
+                "name": "Harbhajan Turbanator",
+                "id": 92945681,
+                "id_str": "92945681",
+                "indices": [
+                    62,
+                    78
+                ]
+            },
+            {
+                "screen_name": "ImRaina",
+                "name": "Suresh Raina🇮🇳",
+                "id": 121044171,
+                "id_str": "121044171",
+                "indices": [
+                    79,
+                    87
+                ]
+            },
+            {
+                "screen_name": "aajtak",
+                "name": "AajTak",
+                "id": 42606652,
+                "id_str": "42606652",
+                "indices": [
+                    113,
+                    120
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823803400"
+}

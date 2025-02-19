@@ -1,0 +1,334 @@
+{
+    "created_at": "Sat Apr 25 13:22:50 +0000 2020",
+    "id": 1254038157185540096,
+    "id_str": "1254038157185540096",
+    "text": "@CarnetDLaPatria @NicolasMaduro @VTVcanal8 @laradiodelsur @PartidoPSUV @rafaelcalles @jaarreaza @drodriven2… https://t.co/OmDl2TgNH8",
+    "display_text_range": [
+        117,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253685082478587906,
+    "in_reply_to_status_id_str": "1253685082478587906",
+    "in_reply_to_user_id": 814613151392157698,
+    "in_reply_to_user_id_str": "814613151392157698",
+    "in_reply_to_screen_name": "CarnetDLaPatria",
+    "user": {
+        "id": 1156590053692456965,
+        "id_str": "1156590053692456965",
+        "name": "Jose",
+        "screen_name": "Jose10251746",
+        "location": null,
+        "url": null,
+        "description": "escribir policia q venezuela sea un paisaje libre de toda falsedad",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 34,
+        "listed_count": 0,
+        "favourites_count": 6,
+        "statuses_count": 70,
+        "created_at": "Wed Jul 31 15:38:51 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01c93e351e3122fb",
+        "url": "https://api.twitter.com/1.1/geo/id/01c93e351e3122fb.json",
+        "place_type": "admin",
+        "name": "Miranda",
+        "full_name": "Miranda, Venezuela",
+        "country_code": "VE",
+        "country": "Venezuela",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -67.220209,
+                        9.934294
+                    ],
+                    [
+                        -67.220209,
+                        10.649628
+                    ],
+                    [
+                        -65.428322,
+                        10.649628
+                    ],
+                    [
+                        -65.428322,
+                        9.934294
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CarnetDLaPatria @NicolasMaduro @VTVcanal8 @laradiodelsur @PartidoPSUV @rafaelcalles @jaarreaza @drodriven2 @rhm1947 @dcabellor @nicmaduroguerra @ConCiliaFlores Una harina con un sueldo mensual solo te compras una harina y el salado cuando lo vas a comprar osea la gente se están muriendo de hambre no los mata el corona virus pero x l hambre si",
+        "display_text_range": [
+            161,
+            345
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CarnetDLaPatria",
+                    "name": "Carnet de la patria",
+                    "id": 814613151392157698,
+                    "id_str": "814613151392157698",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "NicolasMaduro",
+                    "name": "Nicolás Maduro",
+                    "id": 1252764865,
+                    "id_str": "1252764865",
+                    "indices": [
+                        17,
+                        31
+                    ]
+                },
+                {
+                    "screen_name": "VTVcanal8",
+                    "name": "VTV CANAL 8",
+                    "id": 118864905,
+                    "id_str": "118864905",
+                    "indices": [
+                        32,
+                        42
+                    ]
+                },
+                {
+                    "screen_name": "laradiodelsur",
+                    "name": "La Radio del Sur",
+                    "id": 122498057,
+                    "id_str": "122498057",
+                    "indices": [
+                        43,
+                        57
+                    ]
+                },
+                {
+                    "screen_name": "PartidoPSUV",
+                    "name": "PSUV",
+                    "id": 102094084,
+                    "id_str": "102094084",
+                    "indices": [
+                        58,
+                        70
+                    ]
+                },
+                {
+                    "screen_name": "rafaelcalles",
+                    "name": "Rafael Calles",
+                    "id": 140672861,
+                    "id_str": "140672861",
+                    "indices": [
+                        71,
+                        84
+                    ]
+                },
+                {
+                    "screen_name": "jaarreaza",
+                    "name": "Jorge Arreaza M",
+                    "id": 138212728,
+                    "id_str": "138212728",
+                    "indices": [
+                        85,
+                        95
+                    ]
+                },
+                {
+                    "screen_name": "drodriven2",
+                    "name": "Delcy Rodríguez",
+                    "id": 1241867391711272960,
+                    "id_str": "1241867391711272960",
+                    "indices": [
+                        96,
+                        107
+                    ]
+                },
+                {
+                    "screen_name": "rhm1947",
+                    "name": "Roberto Hernández Montoya",
+                    "id": 108505438,
+                    "id_str": "108505438",
+                    "indices": [
+                        108,
+                        116
+                    ]
+                },
+                {
+                    "screen_name": "dcabellor",
+                    "name": "Diosdado Cabello R",
+                    "id": 128262354,
+                    "id_str": "128262354",
+                    "indices": [
+                        117,
+                        127
+                    ]
+                },
+                {
+                    "screen_name": "nicmaduroguerra",
+                    "name": "NicolasMaduroGuerra",
+                    "id": 98776227,
+                    "id_str": "98776227",
+                    "indices": [
+                        128,
+                        144
+                    ]
+                },
+                {
+                    "screen_name": "ConCiliaFlores",
+                    "name": "Cilia Flores",
+                    "id": 3300052996,
+                    "id_str": "3300052996",
+                    "indices": [
+                        145,
+                        160
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/OmDl2TgNH8",
+                "expanded_url": "https://twitter.com/i/web/status/1254038157185540096",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    109,
+                    132
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CarnetDLaPatria",
+                "name": "Carnet de la patria",
+                "id": 814613151392157698,
+                "id_str": "814613151392157698",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "NicolasMaduro",
+                "name": "Nicolás Maduro",
+                "id": 1252764865,
+                "id_str": "1252764865",
+                "indices": [
+                    17,
+                    31
+                ]
+            },
+            {
+                "screen_name": "VTVcanal8",
+                "name": "VTV CANAL 8",
+                "id": 118864905,
+                "id_str": "118864905",
+                "indices": [
+                    32,
+                    42
+                ]
+            },
+            {
+                "screen_name": "laradiodelsur",
+                "name": "La Radio del Sur",
+                "id": 122498057,
+                "id_str": "122498057",
+                "indices": [
+                    43,
+                    57
+                ]
+            },
+            {
+                "screen_name": "PartidoPSUV",
+                "name": "PSUV",
+                "id": 102094084,
+                "id_str": "102094084",
+                "indices": [
+                    58,
+                    70
+                ]
+            },
+            {
+                "screen_name": "rafaelcalles",
+                "name": "Rafael Calles",
+                "id": 140672861,
+                "id_str": "140672861",
+                "indices": [
+                    71,
+                    84
+                ]
+            },
+            {
+                "screen_name": "jaarreaza",
+                "name": "Jorge Arreaza M",
+                "id": 138212728,
+                "id_str": "138212728",
+                "indices": [
+                    85,
+                    95
+                ]
+            },
+            {
+                "screen_name": "drodriven2",
+                "name": "Delcy Rodríguez",
+                "id": 1241867391711272960,
+                "id_str": "1241867391711272960",
+                "indices": [
+                    96,
+                    107
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587820970232"
+}

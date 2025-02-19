@@ -1,0 +1,93 @@
+{
+    "created_at": "Sat Apr 25 12:55:08 +0000 2020",
+    "id": 1254031187795947522,
+    "id_str": "1254031187795947522",
+    "text": "https://t.co/qmF6xGhDut #corona",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 235930890,
+        "id_str": "235930890",
+        "name": "Gutmensch.",
+        "screen_name": "impooortant",
+        "location": null,
+        "url": null,
+        "description": "„Scheitern ist nur eine Zwischenstufe zum Erfolg“ Karl Marx",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 143,
+        "friends_count": 43,
+        "listed_count": 22,
+        "favourites_count": 5252,
+        "statuses_count": 20322,
+        "created_at": "Sun Jan 09 12:05:22 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "E2001A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159514848566403072/4sCyyInG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159514848566403072/4sCyyInG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/235930890/1565284858",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    24,
+                    31
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/qmF6xGhDut",
+                "expanded_url": "https://feynsinn.org/?p=12866",
+                "display_url": "feynsinn.org/?p=12866",
+                "indices": [
+                    0,
+                    23
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587819308600"
+}

@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 13:01:43 +0000 2020",
+    "id": 1254032842100625409,
+    "id_str": "1254032842100625409",
+    "text": "@sinheroin @farahadhst @masyaAIIah Yaampun kak sama, sodara jauh ku juga di anggap meninggal karna corona, jadi ada… https://t.co/CQDZrQWwhW",
+    "display_text_range": [
+        35,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253880248539549696,
+    "in_reply_to_status_id_str": "1253880248539549696",
+    "in_reply_to_user_id": 1096054548966199296,
+    "in_reply_to_user_id_str": "1096054548966199296",
+    "in_reply_to_screen_name": "sinheroin",
+    "user": {
+        "id": 1212551207329226752,
+        "id_str": "1212551207329226752",
+        "name": "varah~",
+        "screen_name": "navaraaaaa",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 0,
+        "listed_count": 0,
+        "favourites_count": 45,
+        "statuses_count": 4,
+        "created_at": "Thu Jan 02 01:48:44 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1212553986756108288/Dz7GekZ8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212553986756108288/Dz7GekZ8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1212551207329226752/1577930397",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@sinheroin @farahadhst @masyaAIIah Yaampun kak sama, sodara jauh ku juga di anggap meninggal karna corona, jadi ada yg nyebar gosip kalo dia abis dari luar kota dan meninggal nya itu karna corona\nPadahal dia sama sekali ga keluar kota, dia cuma ke puskesmas berobat, dan meninggal nya juga karna serangan jantung :(",
+        "display_text_range": [
+            35,
+            315
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sinheroin",
+                    "name": "potato",
+                    "id": 1096054548966199296,
+                    "id_str": "1096054548966199296",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "farahadhst",
+                    "name": "FARAPUCINNO🌻",
+                    "id": 1122046350,
+                    "id_str": "1122046350",
+                    "indices": [
+                        11,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "masyaAIIah",
+                    "name": "Nadin",
+                    "id": 1733610175,
+                    "id_str": "1733610175",
+                    "indices": [
+                        23,
+                        34
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/CQDZrQWwhW",
+                "expanded_url": "https://twitter.com/i/web/status/1254032842100625409",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sinheroin",
+                "name": "potato",
+                "id": 1096054548966199296,
+                "id_str": "1096054548966199296",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "farahadhst",
+                "name": "FARAPUCINNO🌻",
+                "id": 1122046350,
+                "id_str": "1122046350",
+                "indices": [
+                    11,
+                    22
+                ]
+            },
+            {
+                "screen_name": "masyaAIIah",
+                "name": "Nadin",
+                "id": 1733610175,
+                "id_str": "1733610175",
+                "indices": [
+                    23,
+                    34
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819703017"
+}

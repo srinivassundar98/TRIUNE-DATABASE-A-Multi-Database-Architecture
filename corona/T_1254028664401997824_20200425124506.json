@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 12:45:06 +0000 2020",
+    "id": 1254028664401997824,
+    "id_str": "1254028664401997824",
+    "text": "@rragdolll Hallo Käpt*in, klar. Schauen Sie mal hier (§2 Nr. 17) https://t.co/Wt9ZJTCa8h Viele Grüße und bleiben Sie gesund",
+    "display_text_range": [
+        11,
+        123
+    ],
+    "source": "<a href=\"https://swat.io/\" rel=\"nofollow\">Swat.io</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254025655420891136,
+    "in_reply_to_status_id_str": "1254025655420891136",
+    "in_reply_to_user_id": 2820425200,
+    "in_reply_to_user_id_str": "2820425200",
+    "in_reply_to_screen_name": "rragdolll",
+    "user": {
+        "id": 965505304610865153,
+        "id_str": "965505304610865153",
+        "name": "Hessisches Ministerium für Soziales u. Integration",
+        "screen_name": "SozialHessen",
+        "location": "Wiesbaden, Deutschland",
+        "url": "https://soziales.hessen.de/impressum-8",
+        "description": "Hier twittert die Pressestelle des Hessischen Ministeriums für Soziales und Integration.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2715,
+        "friends_count": 160,
+        "listed_count": 53,
+        "favourites_count": 569,
+        "statuses_count": 735,
+        "created_at": "Mon Feb 19 08:36:17 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090148435217563648/3TnXZDah_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090148435217563648/3TnXZDah_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965505304610865153/1573654636",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Wt9ZJTCa8h",
+                "expanded_url": "https://soziales.hessen.de/gesundheit/infektionsschutz/corona-hessen/kitas-weiter-geschlossen-notbetreuung-sichergestellt",
+                "display_url": "soziales.hessen.de/gesundheit/inf…",
+                "indices": [
+                    65,
+                    88
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "rragdolll",
+                "name": "Käpt*in Future",
+                "id": 2820425200,
+                "id_str": "2820425200",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587818706976"
+}

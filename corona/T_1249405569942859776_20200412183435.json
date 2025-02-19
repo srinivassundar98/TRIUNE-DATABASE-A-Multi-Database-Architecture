@@ -1,0 +1,162 @@
+{
+    "created_at": "Sun Apr 12 18:34:35 +0000 2020",
+    "id": 1249405569942859776,
+    "id_str": "1249405569942859776",
+    "text": "@CMOfficeUP @UPGovt @myogiadityanath shree c.m sir\nMaharastra me mera bhai hai wo corona se to bach jayega lekin wo… https://t.co/naldnZkthj",
+    "display_text_range": [
+        37,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249370859132706817,
+    "in_reply_to_status_id_str": "1249370859132706817",
+    "in_reply_to_user_id": 2587240482,
+    "in_reply_to_user_id_str": "2587240482",
+    "in_reply_to_screen_name": "CMOfficeUP",
+    "user": {
+        "id": 1246479891979096064,
+        "id_str": "1246479891979096064",
+        "name": "Bipin pandey",
+        "screen_name": "Bipinpa35185922",
+        "location": null,
+        "url": null,
+        "description": "I am a indian",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 23,
+        "listed_count": 0,
+        "favourites_count": 4,
+        "statuses_count": 1,
+        "created_at": "Sat Apr 04 16:49:21 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246480231176654849/iOVkuRcb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246480231176654849/iOVkuRcb_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CMOfficeUP @UPGovt @myogiadityanath shree c.m sir\nMaharastra me mera bhai hai wo corona se to bach jayega lekin wo aur uska pariwar bhookh se mar jayega. pranam maharaj",
+        "display_text_range": [
+            37,
+            169
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CMOfficeUP",
+                    "name": "CM Office, GoUP",
+                    "id": 2587240482,
+                    "id_str": "2587240482",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "UPGovt",
+                    "name": "Government of UP",
+                    "id": 2588841246,
+                    "id_str": "2588841246",
+                    "indices": [
+                        12,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "myogiadityanath",
+                    "name": "Yogi Adityanath",
+                    "id": 3437532637,
+                    "id_str": "3437532637",
+                    "indices": [
+                        20,
+                        36
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/naldnZkthj",
+                "expanded_url": "https://twitter.com/i/web/status/1249405569942859776",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CMOfficeUP",
+                "name": "CM Office, GoUP",
+                "id": 2587240482,
+                "id_str": "2587240482",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "UPGovt",
+                "name": "Government of UP",
+                "id": 2588841246,
+                "id_str": "2588841246",
+                "indices": [
+                    12,
+                    19
+                ]
+            },
+            {
+                "screen_name": "myogiadityanath",
+                "name": "Yogi Adityanath",
+                "id": 3437532637,
+                "id_str": "3437532637",
+                "indices": [
+                    20,
+                    36
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1586716475364"
+}

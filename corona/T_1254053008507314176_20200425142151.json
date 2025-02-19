@@ -1,0 +1,174 @@
+{
+    "created_at": "Sat Apr 25 14:21:51 +0000 2020",
+    "id": 1254053008507314176,
+    "id_str": "1254053008507314176",
+    "text": "@anpbcn @Bigudes1 Ha desaparecido de la escena política demasiada gente los de sindicatos, muchos de los ministros,… https://t.co/1nngW20G9H",
+    "display_text_range": [
+        18,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253636716730167296,
+    "in_reply_to_status_id_str": "1253636716730167296",
+    "in_reply_to_user_id": 1686360960,
+    "in_reply_to_user_id_str": "1686360960",
+    "in_reply_to_screen_name": "anpbcn",
+    "user": {
+        "id": 490473662,
+        "id_str": "490473662",
+        "name": "JESÚS M ROS LATIENDA",
+        "screen_name": "JESSMROSLATIEND",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 52,
+        "friends_count": 336,
+        "listed_count": 0,
+        "favourites_count": 3109,
+        "statuses_count": 5009,
+        "created_at": "Sun Feb 12 15:56:03 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "3afc29d1fe76301f",
+        "url": "https://api.twitter.com/1.1/geo/id/3afc29d1fe76301f.json",
+        "place_type": "city",
+        "name": "Zaragoza",
+        "full_name": "Zaragoza, España",
+        "country_code": "ES",
+        "country": "España",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -1.174093,
+                        41.451835
+                    ],
+                    [
+                        -1.174093,
+                        41.931438
+                    ],
+                    [
+                        -0.680572,
+                        41.931438
+                    ],
+                    [
+                        -0.680572,
+                        41.451835
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@anpbcn @Bigudes1 Ha desaparecido de la escena política demasiada gente los de sindicatos, muchos de los ministros, muchos diputados de primera fila ¿qué hacen?, o intrigan. ¿No hay más vida política que el corona? Hay mucho Maquiavelo, hacedores hay muchos menos. Me gustaría saber qué maquinan",
+        "display_text_range": [
+            18,
+            295
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "anpbcn",
+                    "name": "Antoni",
+                    "id": 1686360960,
+                    "id_str": "1686360960",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "Bigudes1",
+                    "name": "Toy frayá",
+                    "id": 1229413694725066755,
+                    "id_str": "1229413694725066755",
+                    "indices": [
+                        8,
+                        17
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/1nngW20G9H",
+                "expanded_url": "https://twitter.com/i/web/status/1254053008507314176",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "anpbcn",
+                "name": "Antoni",
+                "id": 1686360960,
+                "id_str": "1686360960",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "Bigudes1",
+                "name": "Toy frayá",
+                "id": 1229413694725066755,
+                "id_str": "1229413694725066755",
+                "indices": [
+                    8,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587824511063"
+}

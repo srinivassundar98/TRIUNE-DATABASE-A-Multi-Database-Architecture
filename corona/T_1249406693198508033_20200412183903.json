@@ -1,0 +1,114 @@
+{
+    "created_at": "Sun Apr 12 18:39:03 +0000 2020",
+    "id": 1249406693198508033,
+    "id_str": "1249406693198508033",
+    "text": "Kardeşim en iyi ses Ersin'de diyor corona gidince hemen kulak doktoruna gidicez evet sjksjxlsjxlsklssklsksks #survivor2020",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2889283205,
+        "id_str": "2889283205",
+        "name": "Ay'",
+        "screen_name": "hantolker",
+        "location": "istanbul uzay",
+        "url": null,
+        "description": "BürsinErçelSarıtaşCansevenBölükbaşı\n@tolgaakeremm",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1038,
+        "friends_count": 266,
+        "listed_count": 4,
+        "favourites_count": 89718,
+        "statuses_count": 77063,
+        "created_at": "Sun Nov 23 14:48:11 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1170809733390962693/qu8LRhXD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170809733390962693/qu8LRhXD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2889283205/1568457322",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5e02a0f0d91c76d2",
+        "url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+        "place_type": "city",
+        "name": "İstanbul",
+        "full_name": "İstanbul, Türkiye",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        28.632104,
+                        40.802734
+                    ],
+                    [
+                        28.632104,
+                        41.239907
+                    ],
+                    [
+                        29.378341,
+                        41.239907
+                    ],
+                    [
+                        29.378341,
+                        40.802734
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "survivor2020",
+                "indices": [
+                    109,
+                    122
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586716743169"
+}

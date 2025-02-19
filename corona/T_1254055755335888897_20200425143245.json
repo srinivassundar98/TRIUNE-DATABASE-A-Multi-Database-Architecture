@@ -1,0 +1,168 @@
+{
+    "created_at": "Sat Apr 25 14:32:45 +0000 2020",
+    "id": 1254055755335888897,
+    "id_str": "1254055755335888897",
+    "text": "@fikeuri Pulang, corona. https://t.co/Eo1wzBjL1f",
+    "display_text_range": [
+        9,
+        24
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254055516172509185,
+    "in_reply_to_status_id_str": "1254055516172509185",
+    "in_reply_to_user_id": 611446693,
+    "in_reply_to_user_id_str": "611446693",
+    "in_reply_to_screen_name": "fikeuri",
+    "user": {
+        "id": 132474635,
+        "id_str": "132474635",
+        "name": "yayas",
+        "screen_name": "Meidiyas_",
+        "location": null,
+        "url": "https://open.spotify.com/user/td9avr7gfhap3f0e331hp8sgl/playlist/0L0OQyEQG4MnKYXgx6Nxgl?si=3DRcv6JoQ",
+        "description": "🌞",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2976,
+        "friends_count": 816,
+        "listed_count": 3,
+        "favourites_count": 10435,
+        "statuses_count": 69518,
+        "created_at": "Tue Apr 13 10:06:27 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "141112",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253144973035241473/kbVRnWNV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253144973035241473/kbVRnWNV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/132474635/1585262211",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "fikeuri",
+                "name": "𝑩𝒆𝒌𝒔",
+                "id": 611446693,
+                "id_str": "611446693",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254055744179068930,
+                "id_str": "1254055744179068930",
+                "indices": [
+                    25,
+                    48
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdNDhhU4AIwBHA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdNDhhU4AIwBHA.jpg",
+                "url": "https://t.co/Eo1wzBjL1f",
+                "display_url": "pic.twitter.com/Eo1wzBjL1f",
+                "expanded_url": "https://twitter.com/Meidiyas_/status/1254055755335888897/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254055744179068930,
+                "id_str": "1254055744179068930",
+                "indices": [
+                    25,
+                    48
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdNDhhU4AIwBHA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdNDhhU4AIwBHA.jpg",
+                "url": "https://t.co/Eo1wzBjL1f",
+                "display_url": "pic.twitter.com/Eo1wzBjL1f",
+                "expanded_url": "https://twitter.com/Meidiyas_/status/1254055755335888897/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 768,
+                        "h": 1024,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tl",
+    "timestamp_ms": "1587825165958"
+}

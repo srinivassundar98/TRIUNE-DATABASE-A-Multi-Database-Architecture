@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:04:18 +0000 2020",
+    "id": 1254048593184526336,
+    "id_str": "1254048593184526336",
+    "text": "@hitz_lara @StettlerRoger @jonas_kampus 5. Es geht um die Reifeprüfung für Universitäten. Wenn wegen Corona die Prü… https://t.co/8UPNqhQxMl",
+    "display_text_range": [
+        40,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254048464129929216,
+    "in_reply_to_status_id_str": "1254048464129929216",
+    "in_reply_to_user_id": 902853449246793728,
+    "in_reply_to_user_id_str": "902853449246793728",
+    "in_reply_to_screen_name": "FurbieMiller",
+    "user": {
+        "id": 902853449246793728,
+        "id_str": "902853449246793728",
+        "name": "Furbie Miller",
+        "screen_name": "FurbieMiller",
+        "location": "Schweiz",
+        "url": null,
+        "description": "Patriot und Befürworter der direkten Demokratie. Das #InstA schwächt unsere Arbeitnehmer und gefährdet unseren demokratischen Erfolg. \nRT & Follow ≠ Anerkennung",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 168,
+        "friends_count": 515,
+        "listed_count": 1,
+        "favourites_count": 12576,
+        "statuses_count": 6111,
+        "created_at": "Wed Aug 30 11:20:11 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068901272231776257/KgozHdDw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068901272231776257/KgozHdDw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/902853449246793728/1581171541",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@hitz_lara @StettlerRoger @jonas_kampus 5. Es geht um die Reifeprüfung für Universitäten. Wenn wegen Corona die Prüfungen ausgesetzt werden gute Nacht an der Uni. Das hat wenig mit Reife zu tun sondern im Gegenteil. Das ist Unfähigkeit sich zu arrangieren und insofern gerade das Gegenteil von selbständig.",
+        "display_text_range": [
+            40,
+            306
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hitz_lara",
+                    "name": "Lara Hitz",
+                    "id": 1130067108728070144,
+                    "id_str": "1130067108728070144",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "StettlerRoger",
+                    "name": "Roger Stettler",
+                    "id": 1132573709800267776,
+                    "id_str": "1132573709800267776",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "jonas_kampus",
+                    "name": "Jonas Kampus",
+                    "id": 4025413023,
+                    "id_str": "4025413023",
+                    "indices": [
+                        26,
+                        39
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/8UPNqhQxMl",
+                "expanded_url": "https://twitter.com/i/web/status/1254048593184526336",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "hitz_lara",
+                "name": "Lara Hitz",
+                "id": 1130067108728070144,
+                "id_str": "1130067108728070144",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "StettlerRoger",
+                "name": "Roger Stettler",
+                "id": 1132573709800267776,
+                "id_str": "1132573709800267776",
+                "indices": [
+                    11,
+                    25
+                ]
+            },
+            {
+                "screen_name": "jonas_kampus",
+                "name": "Jonas Kampus",
+                "id": 4025413023,
+                "id_str": "4025413023",
+                "indices": [
+                    26,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823458368"
+}

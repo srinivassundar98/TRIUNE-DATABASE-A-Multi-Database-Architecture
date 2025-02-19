@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 13:35:16 +0000 2020",
+    "id": 1254041287554207746,
+    "id_str": "1254041287554207746",
+    "text": "++ Corona-Zahlen aus Trier und dem Landkreis: Eine Patientin verstorben ++ - https://t.co/lIPB2nu60s https://t.co/YSrXGGHesG",
+    "display_text_range": [
+        0,
+        100
+    ],
+    "source": "<a href=\"http://lokalo.de\" rel=\"nofollow\">http://lokalo.de</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 342927775,
+        "id_str": "342927775",
+        "name": "Lokalo.de",
+        "screen_name": "LokaloDE",
+        "location": "Trier",
+        "url": "http://www.lokalo.de",
+        "description": "http://Lokalo.de - das Newsportal für Region Trier, Eifel, Luxemburg und Saarland. #wirssinddieregion",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1361,
+        "friends_count": 46,
+        "listed_count": 10,
+        "favourites_count": 20,
+        "statuses_count": 25719,
+        "created_at": "Tue Jul 26 20:07:08 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2261058924/lupe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2261058924/lupe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342927775/1537199839",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/lIPB2nu60s",
+                "expanded_url": "http://lokalo.de/artikel/193894/corona-zahlen-aus-trier-und-dem-landkreis-eine-patientin-verstorben/",
+                "display_url": "lokalo.de/artikel/193894…",
+                "indices": [
+                    77,
+                    100
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254041285104676867,
+                "id_str": "1254041285104676867",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_55RWsAMKKEN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_55RWsAMKKEN.jpg",
+                "url": "https://t.co/YSrXGGHesG",
+                "display_url": "pic.twitter.com/YSrXGGHesG",
+                "expanded_url": "https://twitter.com/LokaloDE/status/1254041287554207746/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 900,
+                        "h": 582,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 582,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 440,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254041285104676867,
+                "id_str": "1254041285104676867",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc_55RWsAMKKEN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc_55RWsAMKKEN.jpg",
+                "url": "https://t.co/YSrXGGHesG",
+                "display_url": "pic.twitter.com/YSrXGGHesG",
+                "expanded_url": "https://twitter.com/LokaloDE/status/1254041287554207746/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 900,
+                        "h": 582,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 582,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 440,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821716570"
+}

@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:04:24 +0000 2020",
+    "id": 1254033517454884864,
+    "id_str": "1254033517454884864",
+    "text": "mantan lagi pda kumpul, udah tau corona https://t.co/revYwkO0DF",
+    "display_text_range": [
+        0,
+        39
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 132551768,
+        "id_str": "132551768",
+        "name": "kyla jkt48",
+        "screen_name": "safafoster",
+        "location": null,
+        "url": null,
+        "description": "there's no perfect in this world. the one u should do is make everything to be different. -ss",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1136,
+        "friends_count": 697,
+        "listed_count": 8,
+        "favourites_count": 12872,
+        "statuses_count": 47897,
+        "created_at": "Tue Apr 13 15:07:49 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A161A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "E647E6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "4D3B0D",
+        "profile_text_color": "2780D9",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254031737023131649/ulzMQKU2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254031737023131649/ulzMQKU2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/132551768/1584626075",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254033503726874624,
+                "id_str": "1254033503726874624",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc409YUMAAttvB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc409YUMAAttvB.jpg",
+                "url": "https://t.co/revYwkO0DF",
+                "display_url": "pic.twitter.com/revYwkO0DF",
+                "expanded_url": "https://twitter.com/safafoster/status/1254033517454884864/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 555,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 882,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 882,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254033503726874624,
+                "id_str": "1254033503726874624",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc409YUMAAttvB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc409YUMAAttvB.jpg",
+                "url": "https://t.co/revYwkO0DF",
+                "display_url": "pic.twitter.com/revYwkO0DF",
+                "expanded_url": "https://twitter.com/safafoster/status/1254033517454884864/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 555,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 882,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 882,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819864034"
+}

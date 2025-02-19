@@ -1,0 +1,142 @@
+{
+    "created_at": "Sat Apr 25 13:00:24 +0000 2020",
+    "id": 1254032511065260033,
+    "id_str": "1254032511065260033",
+    "text": "@Rina_Araujofmln @nayibbukele De estudio de doctorado no tiene nada señora un medico sabe que es el corona virus me… https://t.co/MCvxWGpUyS",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253795264118341636,
+    "in_reply_to_status_id_str": "1253795264118341636",
+    "in_reply_to_user_id": 926526791929430016,
+    "in_reply_to_user_id_str": "926526791929430016",
+    "in_reply_to_screen_name": "Rina_Araujofmln",
+    "user": {
+        "id": 1244022589217034241,
+        "id_str": "1244022589217034241",
+        "name": "jaime",
+        "screen_name": "jaime01624736",
+        "location": null,
+        "url": null,
+        "description": "you",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 2,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 9,
+        "created_at": "Sat Mar 28 22:04:45 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244022792015798272/BK71Agju_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244022792015798272/BK71Agju_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Rina_Araujofmln @nayibbukele De estudio de doctorado no tiene nada señora un medico sabe que es el corona virus me gusaria preguntarle en que lugar se graduo de doctora",
+        "display_text_range": [
+            30,
+            169
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Rina_Araujofmln",
+                    "name": "Rina Araujo",
+                    "id": 926526791929430016,
+                    "id_str": "926526791929430016",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "nayibbukele",
+                    "name": "Nayib Bukele",
+                    "id": 20736511,
+                    "id_str": "20736511",
+                    "indices": [
+                        17,
+                        29
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/MCvxWGpUyS",
+                "expanded_url": "https://twitter.com/i/web/status/1254032511065260033",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Rina_Araujofmln",
+                "name": "Rina Araujo",
+                "id": 926526791929430016,
+                "id_str": "926526791929430016",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "nayibbukele",
+                "name": "Nayib Bukele",
+                "id": 20736511,
+                "id_str": "20736511",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587819624092"
+}

@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 13:12:33 +0000 2020",
+    "id": 1254035571107913734,
+    "id_str": "1254035571107913734",
+    "text": "@carlosaviana @SF_Moro Caro amigo @carlosaviana isso não é página comum. Foi muito mais que uma \"simples\" troca min… https://t.co/x7CiGi9uvn",
+    "display_text_range": [
+        23,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253764783612080128,
+    "in_reply_to_status_id_str": "1253764783612080128",
+    "in_reply_to_user_id": 74309518,
+    "in_reply_to_user_id_str": "74309518",
+    "in_reply_to_screen_name": "carlosaviana",
+    "user": {
+        "id": 39535632,
+        "id_str": "39535632",
+        "name": "Roger",
+        "screen_name": "TeologiaLivre",
+        "location": "Nürnberg",
+        "url": "http://teologia-livre.blogspot.com/",
+        "description": "Espaço que busca pensar em Deus e nas coisas espirituais sem se limitar às paredes do formalismo teológico ou de uma linha religiosa qualquer.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1134,
+        "friends_count": 18,
+        "listed_count": 34,
+        "favourites_count": 155,
+        "statuses_count": 9156,
+        "created_at": "Tue May 12 16:29:56 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/445111241325821953/E_4NIYlC_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/445111241325821953/E_4NIYlC_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39535632/1363781034",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@carlosaviana @SF_Moro Caro amigo @carlosaviana isso não é página comum. Foi muito mais que uma \"simples\" troca ministerial. Concordo, a vida continua, mas há um problema a mais para se preocupar. E quem o gerou não está focado no combate do corona, mas em não perder a \"corona\".",
+        "display_text_range": [
+            23,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "carlosaviana",
+                    "name": "Carlos Viana",
+                    "id": 74309518,
+                    "id_str": "74309518",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "SF_Moro",
+                    "name": "Sergio Moro",
+                    "id": 1113094855281008641,
+                    "id_str": "1113094855281008641",
+                    "indices": [
+                        14,
+                        22
+                    ]
+                },
+                {
+                    "screen_name": "carlosaviana",
+                    "name": "Carlos Viana",
+                    "id": 74309518,
+                    "id_str": "74309518",
+                    "indices": [
+                        34,
+                        47
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/x7CiGi9uvn",
+                "expanded_url": "https://twitter.com/i/web/status/1254035571107913734",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "carlosaviana",
+                "name": "Carlos Viana",
+                "id": 74309518,
+                "id_str": "74309518",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "SF_Moro",
+                "name": "Sergio Moro",
+                "id": 1113094855281008641,
+                "id_str": "1113094855281008641",
+                "indices": [
+                    14,
+                    22
+                ]
+            },
+            {
+                "screen_name": "carlosaviana",
+                "name": "Carlos Viana",
+                "id": 74309518,
+                "id_str": "74309518",
+                "indices": [
+                    34,
+                    47
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587820353663"
+}

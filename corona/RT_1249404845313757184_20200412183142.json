@@ -1,0 +1,762 @@
+{
+    "created_at": "Sun Apr 12 18:31:42 +0000 2020",
+    "id": 1249404845313757184,
+    "id_str": "1249404845313757184",
+    "text": "RT @BBCsarika: Height of racism . हिम्मत है तो वायरस पर अटैक कर लो।😂",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 101444113,
+        "id_str": "101444113",
+        "name": "Corona Warrior (ᴀʀʏᴀɴ ᴀsʜʀᴀғ)",
+        "screen_name": "hikerbaba1",
+        "location": "india",
+        "url": null,
+        "description": "A human Being.\nPeace | Humanity | Muslim🇮🇳Hindu | \n | Vfx Artist | \n... Proud Indian Jai Hind",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 197,
+        "friends_count": 521,
+        "listed_count": 0,
+        "favourites_count": 49272,
+        "statuses_count": 11725,
+        "created_at": "Sun Jan 03 09:43:10 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248736239190065153/frzDDabb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248736239190065153/frzDDabb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/101444113/1585503274",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 17:47:18 +0000 2020",
+        "id": 1249393670656110593,
+        "id_str": "1249393670656110593",
+        "text": "Height of racism . हिम्मत है तो वायरस पर अटैक कर लो।😂",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 722695371349168129,
+            "id_str": "722695371349168129",
+            "name": "Sarika Singh",
+            "screen_name": "BBCsarika",
+            "location": null,
+            "url": null,
+            "description": "work with BBC \nand Work with a mission to bring the world closer, together.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 20735,
+            "friends_count": 229,
+            "listed_count": 12,
+            "favourites_count": 3837,
+            "statuses_count": 3056,
+            "created_at": "Wed Apr 20 07:56:18 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1233092915653681152/ZDG_L-mN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233092915653681152/ZDG_L-mN_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/722695371349168129/1564130728",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "317fcc4b21a604d5",
+            "url": "https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json",
+            "place_type": "city",
+            "name": "New Delhi",
+            "full_name": "New Delhi, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            76.84252,
+                            28.397657
+                        ],
+                        [
+                            76.84252,
+                            28.879322
+                        ],
+                        [
+                            77.347652,
+                            28.879322
+                        ],
+                        [
+                            77.347652,
+                            28.397657
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1249349545982492678,
+        "quoted_status_id_str": "1249349545982492678",
+        "quoted_status": {
+            "created_at": "Sun Apr 12 14:51:58 +0000 2020",
+            "id": 1249349545982492678,
+            "id_str": "1249349545982492678",
+            "text": "\"They called me China Ka Maal &amp; Half-Corona\"- disgusting racism that Jwala Gutta, @GuttaJwala has been subjected to… https://t.co/dRsK83h1EX",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 19929890,
+                "id_str": "19929890",
+                "name": "barkha dutt",
+                "screen_name": "BDUTT",
+                "location": "India",
+                "url": "https://www.youtube.com/channel/UCrdPiSPVW0rtRsI002BX8iw",
+                "description": "Barkha Rani Jamke Barasti Hai. Emmy Nominated Reporter. Columnist @WashingtonPost. Editor, Mojo. Argumentative! Yaaron Ka Yaar",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 7123467,
+                "friends_count": 2477,
+                "listed_count": 10649,
+                "favourites_count": 53307,
+                "statuses_count": 131082,
+                "created_at": "Mon Feb 02 20:36:36 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "642D8B",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/857238305443684352/DS0dW8JX_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/857238305443684352/DS0dW8JX_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/19929890/1448649648",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "\"They called me China Ka Maal &amp; Half-Corona\"- disgusting racism that Jwala Gutta, @GuttaJwala has been subjected to because she has a Chinese Mother. \"I won for India. Ive sung the Anthem more times than any troll\"- Watch this excerpt, full conversation at https://t.co/eRvfX0SJVJ https://t.co/0nqMYepkKc",
+                "display_text_range": [
+                    0,
+                    284
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/eRvfX0SJVJ",
+                            "expanded_url": "https://www.youtube.com/watch?v=h8QgIYzjO18&t=18s",
+                            "display_url": "youtube.com/watch?v=h8QgIY…",
+                            "indices": [
+                                261,
+                                284
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Guttajwala",
+                            "name": "Gutta Jwala",
+                            "id": 222516693,
+                            "id_str": "222516693",
+                            "indices": [
+                                86,
+                                97
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1249043913525956608,
+                            "id_str": "1249043913525956608",
+                            "indices": [
+                                285,
+                                308
+                            ],
+                            "additional_media_info": {
+                                "title": "How Racists treated one of India's top sportswomen in Age of Corona",
+                                "description": "",
+                                "embeddable": true,
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/media/EVaUxFjU0AYR24_.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVaUxFjU0AYR24_.jpg",
+                            "url": "https://t.co/0nqMYepkKc",
+                            "display_url": "pic.twitter.com/0nqMYepkKc",
+                            "expanded_url": "https://twitter.com/BDUTT/status/1249349545982492678/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 531800,
+                                "variants": [
+                                    {
+                                        "bitrate": 288000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/480x270/_F67t1g6-cHTojIj.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/1280x720/t5_rmVMD76pC3jH6.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/640x360/-dLur2ftF-Zmjkt_.mp4?tag=13"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1249043913525956608/pl/tMEPh4Pkjj7pIthY.m3u8?tag=13"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1249043913525956608,
+                            "id_str": "1249043913525956608",
+                            "indices": [
+                                285,
+                                308
+                            ],
+                            "additional_media_info": {
+                                "title": "How Racists treated one of India's top sportswomen in Age of Corona",
+                                "description": "",
+                                "embeddable": true,
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/media/EVaUxFjU0AYR24_.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVaUxFjU0AYR24_.jpg",
+                            "url": "https://t.co/0nqMYepkKc",
+                            "display_url": "pic.twitter.com/0nqMYepkKc",
+                            "expanded_url": "https://twitter.com/BDUTT/status/1249349545982492678/video/1",
+                            "type": "video",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 531800,
+                                "variants": [
+                                    {
+                                        "bitrate": 288000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/480x270/_F67t1g6-cHTojIj.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/1280x720/t5_rmVMD76pC3jH6.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/640x360/-dLur2ftF-Zmjkt_.mp4?tag=13"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1249043913525956608/pl/tMEPh4Pkjj7pIthY.m3u8?tag=13"
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 108,
+            "reply_count": 315,
+            "retweet_count": 928,
+            "favorite_count": 3379,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/dRsK83h1EX",
+                        "expanded_url": "https://twitter.com/i/web/status/1249349545982492678",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "Guttajwala",
+                        "name": "Gutta Jwala",
+                        "id": 222516693,
+                        "id_str": "222516693",
+                        "indices": [
+                            86,
+                            97
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/R4xtzh0IL2",
+            "expanded": "https://twitter.com/BDUTT/status/1249349545982492678",
+            "display": "twitter.com/BDUTT/status/1…"
+        },
+        "is_quote_status": true,
+        "quote_count": 5,
+        "reply_count": 18,
+        "retweet_count": 12,
+        "favorite_count": 124,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "hi"
+    },
+    "quoted_status_id": 1249349545982492678,
+    "quoted_status_id_str": "1249349545982492678",
+    "quoted_status": {
+        "created_at": "Sun Apr 12 14:51:58 +0000 2020",
+        "id": 1249349545982492678,
+        "id_str": "1249349545982492678",
+        "text": "\"They called me China Ka Maal &amp; Half-Corona\"- disgusting racism that Jwala Gutta, @GuttaJwala has been subjected to… https://t.co/dRsK83h1EX",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 19929890,
+            "id_str": "19929890",
+            "name": "barkha dutt",
+            "screen_name": "BDUTT",
+            "location": "India",
+            "url": "https://www.youtube.com/channel/UCrdPiSPVW0rtRsI002BX8iw",
+            "description": "Barkha Rani Jamke Barasti Hai. Emmy Nominated Reporter. Columnist @WashingtonPost. Editor, Mojo. Argumentative! Yaaron Ka Yaar",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 7123467,
+            "friends_count": 2477,
+            "listed_count": 10649,
+            "favourites_count": 53307,
+            "statuses_count": 131082,
+            "created_at": "Mon Feb 02 20:36:36 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "642D8B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/857238305443684352/DS0dW8JX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/857238305443684352/DS0dW8JX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19929890/1448649648",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "\"They called me China Ka Maal &amp; Half-Corona\"- disgusting racism that Jwala Gutta, @GuttaJwala has been subjected to because she has a Chinese Mother. \"I won for India. Ive sung the Anthem more times than any troll\"- Watch this excerpt, full conversation at https://t.co/eRvfX0SJVJ https://t.co/0nqMYepkKc",
+            "display_text_range": [
+                0,
+                284
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/eRvfX0SJVJ",
+                        "expanded_url": "https://www.youtube.com/watch?v=h8QgIYzjO18&t=18s",
+                        "display_url": "youtube.com/watch?v=h8QgIY…",
+                        "indices": [
+                            261,
+                            284
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "Guttajwala",
+                        "name": "Gutta Jwala",
+                        "id": 222516693,
+                        "id_str": "222516693",
+                        "indices": [
+                            86,
+                            97
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1249043913525956608,
+                        "id_str": "1249043913525956608",
+                        "indices": [
+                            285,
+                            308
+                        ],
+                        "additional_media_info": {
+                            "title": "How Racists treated one of India's top sportswomen in Age of Corona",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/media/EVaUxFjU0AYR24_.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVaUxFjU0AYR24_.jpg",
+                        "url": "https://t.co/0nqMYepkKc",
+                        "display_url": "pic.twitter.com/0nqMYepkKc",
+                        "expanded_url": "https://twitter.com/BDUTT/status/1249349545982492678/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 531800,
+                            "variants": [
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/480x270/_F67t1g6-cHTojIj.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/1280x720/t5_rmVMD76pC3jH6.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/640x360/-dLur2ftF-Zmjkt_.mp4?tag=13"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1249043913525956608/pl/tMEPh4Pkjj7pIthY.m3u8?tag=13"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1249043913525956608,
+                        "id_str": "1249043913525956608",
+                        "indices": [
+                            285,
+                            308
+                        ],
+                        "additional_media_info": {
+                            "title": "How Racists treated one of India's top sportswomen in Age of Corona",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/media/EVaUxFjU0AYR24_.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVaUxFjU0AYR24_.jpg",
+                        "url": "https://t.co/0nqMYepkKc",
+                        "display_url": "pic.twitter.com/0nqMYepkKc",
+                        "expanded_url": "https://twitter.com/BDUTT/status/1249349545982492678/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 531800,
+                            "variants": [
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/480x270/_F67t1g6-cHTojIj.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/1280x720/t5_rmVMD76pC3jH6.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1249043913525956608/vid/640x360/-dLur2ftF-Zmjkt_.mp4?tag=13"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1249043913525956608/pl/tMEPh4Pkjj7pIthY.m3u8?tag=13"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 108,
+        "reply_count": 315,
+        "retweet_count": 928,
+        "favorite_count": 3379,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dRsK83h1EX",
+                    "expanded_url": "https://twitter.com/i/web/status/1249349545982492678",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "Guttajwala",
+                    "name": "Gutta Jwala",
+                    "id": 222516693,
+                    "id_str": "222516693",
+                    "indices": [
+                        86,
+                        97
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/R4xtzh0IL2",
+        "expanded": "https://twitter.com/BDUTT/status/1249349545982492678",
+        "display": "twitter.com/BDUTT/status/1…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "BBCsarika",
+                "name": "Sarika Singh",
+                "id": 722695371349168129,
+                "id_str": "722695371349168129",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1586716302599"
+}

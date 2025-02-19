@@ -1,0 +1,156 @@
+{
+    "created_at": "Sun Apr 12 18:35:36 +0000 2020",
+    "id": 1249405828345536512,
+    "id_str": "1249405828345536512",
+    "text": "Corona biterse olacağımız mood, temsili aynı böyle https://t.co/0RqOOyLCtK",
+    "display_text_range": [
+        0,
+        50
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1245400347994132483,
+        "id_str": "1245400347994132483",
+        "name": "Irem Kbk",
+        "screen_name": "kbk_irem",
+        "location": "Balıkesir, Türkiye",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 41,
+        "listed_count": 0,
+        "favourites_count": 14,
+        "statuses_count": 4,
+        "created_at": "Wed Apr 01 17:19:35 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246324665146126336/y-c9vTm2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246324665146126336/y-c9vTm2_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1249405822779744259,
+                "id_str": "1249405822779744259",
+                "indices": [
+                    51,
+                    74
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbH-ecXYAMBth_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbH-ecXYAMBth_.jpg",
+                "url": "https://t.co/0RqOOyLCtK",
+                "display_url": "pic.twitter.com/0RqOOyLCtK",
+                "expanded_url": "https://twitter.com/kbk_irem/status/1249405828345536512/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 640,
+                        "h": 532,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 532,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 532,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1249405822779744259,
+                "id_str": "1249405822779744259",
+                "indices": [
+                    51,
+                    74
+                ],
+                "media_url": "http://pbs.twimg.com/media/EVbH-ecXYAMBth_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVbH-ecXYAMBth_.jpg",
+                "url": "https://t.co/0RqOOyLCtK",
+                "display_url": "pic.twitter.com/0RqOOyLCtK",
+                "expanded_url": "https://twitter.com/kbk_irem/status/1249405828345536512/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 640,
+                        "h": 532,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 640,
+                        "h": 532,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 640,
+                        "h": 532,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1586716536972"
+}

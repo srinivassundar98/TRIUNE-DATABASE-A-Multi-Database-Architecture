@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 13:48:11 +0000 2020",
+    "id": 1254044539809083392,
+    "id_str": "1254044539809083392",
+    "text": "@weneedtoleave @WinterfellT Nope since almost all flu deaths happened in the winter (49-15) it makes it even more n… https://t.co/MylDj1LVX1",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254035674157719553,
+    "in_reply_to_status_id_str": "1254035674157719553",
+    "in_reply_to_user_id": 834351812325015553,
+    "in_reply_to_user_id_str": "834351812325015553",
+    "in_reply_to_screen_name": "weneedtoleave",
+    "user": {
+        "id": 206428850,
+        "id_str": "206428850",
+        "name": "Alex J-Williams",
+        "screen_name": "Trudgeteacher",
+        "location": null,
+        "url": "https://callfromthewilderness.wordpress.com",
+        "description": "Head of Maths. A level Stats network; ask me about A level Statistics! Level 3 Maths Lead NW1. SLE. #tfm will follow anyone with maths or stats in your bio!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1622,
+        "friends_count": 2410,
+        "listed_count": 16,
+        "favourites_count": 34717,
+        "statuses_count": 32069,
+        "created_at": "Fri Oct 22 23:24:27 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1022144757521416192/npsmt4Pd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1022144757521416192/npsmt4Pd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/206428850/1532533276",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@weneedtoleave @WinterfellT Nope since almost all flu deaths happened in the winter (49-15) it makes it even more nefarious in attempt to create false information. Even if flu deaths happened evenly throughout the year (they don’t) you would need to project the corona graph 4-5 times here.",
+        "display_text_range": [
+            28,
+            290
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "weneedtoleave",
+                    "name": "Ring the Bells",
+                    "id": 834351812325015553,
+                    "id_str": "834351812325015553",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "WinterfellT",
+                    "name": "Mark Lees #stayathome",
+                    "id": 824892463722553345,
+                    "id_str": "824892463722553345",
+                    "indices": [
+                        15,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/MylDj1LVX1",
+                "expanded_url": "https://twitter.com/i/web/status/1254044539809083392",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "weneedtoleave",
+                "name": "Ring the Bells",
+                "id": 834351812325015553,
+                "id_str": "834351812325015553",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "WinterfellT",
+                "name": "Mark Lees #stayathome",
+                "id": 824892463722553345,
+                "id_str": "824892463722553345",
+                "indices": [
+                    15,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822491968"
+}

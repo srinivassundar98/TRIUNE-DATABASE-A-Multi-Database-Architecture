@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 12:24:01 +0000 2020",
+    "id": 1254023355973468161,
+    "id_str": "1254023355973468161",
+    "text": "@monasso Nogmaals, jij kunt niet weten wat hij precies heeft bedoeld. Nu lees ik toch echt een aanname. Dat ik coro… https://t.co/Tyo5kqUXBb",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254018373635067904,
+    "in_reply_to_status_id_str": "1254018373635067904",
+    "in_reply_to_user_id": 22976238,
+    "in_reply_to_user_id_str": "22976238",
+    "in_reply_to_screen_name": "monasso",
+    "user": {
+        "id": 43968825,
+        "id_str": "43968825",
+        "name": "Laura",
+        "screen_name": "HetismijLaura",
+        "location": " ",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 584,
+        "friends_count": 404,
+        "listed_count": 21,
+        "favourites_count": 1073,
+        "statuses_count": 41569,
+        "created_at": "Mon Jun 01 20:47:46 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "DECCA2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "960348",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "917B64",
+        "profile_text_color": "332209",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250185931816087553/Pdj0zQut_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250185931816087553/Pdj0zQut_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@monasso Nogmaals, jij kunt niet weten wat hij precies heeft bedoeld. Nu lees ik toch echt een aanname. Dat ik corona niet serieus neem. Dat is niet waar alleen heel jammer dat corona misbruikt wordt en er niet gesproken wordt over versterken immuunsysteem.",
+        "display_text_range": [
+            9,
+            257
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "monasso",
+                    "name": "Hans Monasso",
+                    "id": 22976238,
+                    "id_str": "22976238",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Tyo5kqUXBb",
+                "expanded_url": "https://twitter.com/i/web/status/1254023355973468161",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "monasso",
+                "name": "Hans Monasso",
+                "id": 22976238,
+                "id_str": "22976238",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587817441348"
+}

@@ -1,0 +1,185 @@
+{
+    "created_at": "Sat Apr 25 13:07:43 +0000 2020",
+    "id": 1254034353396555777,
+    "id_str": "1254034353396555777",
+    "text": "@CDCgov @realDonaldTrump We hereby honor to announce that we have developed a brand new treatment method using UV r… https://t.co/ZjahhNg61d",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253085285161803777,
+    "in_reply_to_status_id_str": "1253085285161803777",
+    "in_reply_to_user_id": 146569971,
+    "in_reply_to_user_id_str": "146569971",
+    "in_reply_to_screen_name": "CDCgov",
+    "user": {
+        "id": 1091660129894838272,
+        "id_str": "1091660129894838272",
+        "name": "Milli teknoloji",
+        "screen_name": "milliteknoloj",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2296,
+        "friends_count": 6709,
+        "listed_count": 0,
+        "favourites_count": 352,
+        "statuses_count": 397,
+        "created_at": "Sat Feb 02 11:30:31 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091660364436201472/LzKrHqH1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091660364436201472/LzKrHqH1_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CDCgov @realDonaldTrump We hereby honor to announce that we have developed a brand new treatment method using UV rays / Laser Ray that might be used effectively for preventing all mankind from infectious virus.\n\n#covid #covid19 #Covid_19 #corona #vascular #FoxNews",
+        "display_text_range": [
+            25,
+            265
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "covid",
+                    "indices": [
+                        213,
+                        219
+                    ]
+                },
+                {
+                    "text": "covid19",
+                    "indices": [
+                        220,
+                        228
+                    ]
+                },
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        229,
+                        238
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        239,
+                        246
+                    ]
+                },
+                {
+                    "text": "vascular",
+                    "indices": [
+                        247,
+                        256
+                    ]
+                },
+                {
+                    "text": "FoxNews",
+                    "indices": [
+                        257,
+                        265
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CDCgov",
+                    "name": "CDC",
+                    "id": 146569971,
+                    "id_str": "146569971",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        8,
+                        24
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ZjahhNg61d",
+                "expanded_url": "https://twitter.com/i/web/status/1254034353396555777",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CDCgov",
+                "name": "CDC",
+                "id": 146569971,
+                "id_str": "146569971",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    8,
+                    24
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820063338"
+}

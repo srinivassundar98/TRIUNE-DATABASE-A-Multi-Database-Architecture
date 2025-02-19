@@ -1,0 +1,92 @@
+{
+    "created_at": "Sat Apr 25 12:54:16 +0000 2020",
+    "id": 1254030969616642048,
+    "id_str": "1254030969616642048",
+    "text": "Soll man darüber lachen oder weinen? #corona https://t.co/FXSFHVnh6p",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 438488689,
+        "id_str": "438488689",
+        "name": "Viktor Niedermayr",
+        "screen_name": "niedervi2",
+        "location": "Wien, Österreich",
+        "url": null,
+        "description": "| Türkiser | Presse @k_edtstadler | hier privat |",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 193,
+        "friends_count": 504,
+        "listed_count": 5,
+        "favourites_count": 1914,
+        "statuses_count": 782,
+        "created_at": "Fri Dec 16 17:04:05 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/948305633903771648/zmQs-a9w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/948305633903771648/zmQs-a9w_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    37,
+                    44
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/FXSFHVnh6p",
+                "expanded_url": "https://www.google.at/amp/s/amp2.handelsblatt.com/politik/deutschland/coronavirus-verschwoerungstheorien-sorgen-fuer-anschlaege-auf-5g-masten/25770420.html",
+                "display_url": "google.at/amp/s/amp2.han…",
+                "indices": [
+                    45,
+                    68
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819256582"
+}

@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 13:02:32 +0000 2020",
+    "id": 1254033050469531651,
+    "id_str": "1254033050469531651",
+    "text": "@wesbury People keep talking about corona virus being a black swan event. It feels like the world governmental resp… https://t.co/NEX95WIdpw",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253805448173703169,
+    "in_reply_to_status_id_str": "1253805448173703169",
+    "in_reply_to_user_id": 23136887,
+    "in_reply_to_user_id_str": "23136887",
+    "in_reply_to_screen_name": "wesbury",
+    "user": {
+        "id": 2198402120,
+        "id_str": "2198402120",
+        "name": "jimmy mac",
+        "screen_name": "jimmyillini24",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 46,
+        "friends_count": 65,
+        "listed_count": 2,
+        "favourites_count": 373,
+        "statuses_count": 5519,
+        "created_at": "Sat Nov 16 20:55:10 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/759129708873256960/jcNmlALJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/759129708873256960/jcNmlALJ_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@wesbury People keep talking about corona virus being a black swan event. It feels like the world governmental response is the black swan. A middle ground approach would have been better than these extreme measures.",
+        "display_text_range": [
+            9,
+            215
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "wesbury",
+                    "name": "Brian Wesbury",
+                    "id": 23136887,
+                    "id_str": "23136887",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/NEX95WIdpw",
+                "expanded_url": "https://twitter.com/i/web/status/1254033050469531651",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "wesbury",
+                "name": "Brian Wesbury",
+                "id": 23136887,
+                "id_str": "23136887",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819752696"
+}

@@ -1,0 +1,139 @@
+{
+    "created_at": "Sat Apr 25 13:55:36 +0000 2020",
+    "id": 1254046405645070341,
+    "id_str": "1254046405645070341",
+    "text": "@gurgaonpolice Will you bring a cake for me too? Will you come home and celebrate my birthday too? 😍🥺\n\n#birthday #Gurgaon #Corona",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2538968462,
+    "in_reply_to_user_id_str": "2538968462",
+    "in_reply_to_screen_name": "gurgaonpolice",
+    "user": {
+        "id": 1246025170575175680,
+        "id_str": "1246025170575175680",
+        "name": "Raaghav S",
+        "screen_name": "raaghav_s",
+        "location": "गुड़गांव, भारत",
+        "url": "http://amazon.in/aarunya",
+        "description": "🦈Enterprenuer \n☕Creative Thinker\n\nFollow : https://www.instagram.com/thehouseofaarunya",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 15,
+        "friends_count": 7,
+        "listed_count": 0,
+        "favourites_count": 5,
+        "statuses_count": 36,
+        "created_at": "Fri Apr 03 10:42:30 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246025588000706560/tj39GKwm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246025588000706560/tj39GKwm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246025170575175680/1587814283",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "64231a922dea526e",
+        "url": "https://api.twitter.com/1.1/geo/id/64231a922dea526e.json",
+        "place_type": "city",
+        "name": "Gurgaon",
+        "full_name": "Gurgaon, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        76.707671,
+                        28.199529
+                    ],
+                    [
+                        76.707671,
+                        28.537521
+                    ],
+                    [
+                        77.241711,
+                        28.537521
+                    ],
+                    [
+                        77.241711,
+                        28.199529
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "birthday",
+                "indices": [
+                    103,
+                    112
+                ]
+            },
+            {
+                "text": "Gurgaon",
+                "indices": [
+                    113,
+                    121
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    122,
+                    129
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "gurgaonpolice",
+                "name": "Gurugram Police",
+                "id": 2538968462,
+                "id_str": "2538968462",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822936818"
+}

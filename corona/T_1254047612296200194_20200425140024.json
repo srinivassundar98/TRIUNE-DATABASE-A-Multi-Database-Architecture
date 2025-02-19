@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:00:24 +0000 2020",
+    "id": 1254047612296200194,
+    "id_str": "1254047612296200194",
+    "text": "@AliancaParadise @TeichNelson Faz arminha que o corona foge kkkk",
+    "display_text_range": [
+        30,
+        64
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253760858347507715,
+    "in_reply_to_status_id_str": "1253760858347507715",
+    "in_reply_to_user_id": 1205487014780526594,
+    "in_reply_to_user_id_str": "1205487014780526594",
+    "in_reply_to_screen_name": "AliancaParadise",
+    "user": {
+        "id": 828296040809893888,
+        "id_str": "828296040809893888",
+        "name": "Carvalho",
+        "screen_name": "__felipeca",
+        "location": "Manaus, Brasil",
+        "url": null,
+        "description": "Desenvolvedor de software e jornalista de formação.\nMembro do @pynorte.\nManauara em SP.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 418,
+        "friends_count": 398,
+        "listed_count": 5,
+        "favourites_count": 35386,
+        "statuses_count": 17976,
+        "created_at": "Sun Feb 05 17:35:39 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1133424473712025600/G-1HAf3a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133424473712025600/G-1HAf3a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/828296040809893888/1486316932",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AliancaParadise",
+                "name": "AliançaParadise🇧🇷",
+                "id": 1205487014780526594,
+                "id_str": "1205487014780526594",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "TeichNelson",
+                "name": "Nelson Teich",
+                "id": 1218707751364448256,
+                "id_str": "1218707751364448256",
+                "indices": [
+                    17,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587823224506"
+}

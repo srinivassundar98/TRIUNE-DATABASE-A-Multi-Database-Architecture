@@ -1,0 +1,153 @@
+{
+    "created_at": "Sat Apr 25 13:21:46 +0000 2020",
+    "id": 1254037889693908997,
+    "id_str": "1254037889693908997",
+    "text": "@LMU_Muenchen @HKuechenhoff Bis wann ist mit den Ergebnissen der Antikörpertests zu rechnen, oder hab' ich die über… https://t.co/OqYVKZevoh",
+    "display_text_range": [
+        28,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1250803174761521152,
+    "in_reply_to_status_id_str": "1250803174761521152",
+    "in_reply_to_user_id": 91982547,
+    "in_reply_to_user_id_str": "91982547",
+    "in_reply_to_screen_name": "LMU_Muenchen",
+    "user": {
+        "id": 1244761670569922560,
+        "id_str": "1244761670569922560",
+        "name": "EKa.Systemanalysen",
+        "screen_name": "systemanalysen",
+        "location": "Styria & the world",
+        "url": null,
+        "description": "#justuseyourbrain #ask4infected0 #GIGO\n\nmy Hobby: Photoshop \nmy Profession: Mathematics/Complex Systems\nmy Confession: there are just no metrics 4 it in 3D",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 27,
+        "friends_count": 71,
+        "listed_count": 0,
+        "favourites_count": 652,
+        "statuses_count": 1309,
+        "created_at": "Mon Mar 30 23:01:36 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244762374504157184/kvB90vHP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244762374504157184/kvB90vHP_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@LMU_Muenchen @HKuechenhoff Bis wann ist mit den Ergebnissen der Antikörpertests zu rechnen, oder hab' ich die übersehen?\n\nhttps://t.co/RzQAjdEnRo",
+        "display_text_range": [
+            28,
+            146
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/RzQAjdEnRo",
+                    "expanded_url": "https://www.br.de/nachrichten/bayern/lmu-vermeldet-positives-echo-auf-corona-antikoeper-studie,Rvr3tsA",
+                    "display_url": "br.de/nachrichten/ba…",
+                    "indices": [
+                        123,
+                        146
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "LMU_Muenchen",
+                    "name": "Universität München",
+                    "id": 91982547,
+                    "id_str": "91982547",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "HKuechenhoff",
+                    "name": "Helmut Küchenhoff",
+                    "id": 3437690770,
+                    "id_str": "3437690770",
+                    "indices": [
+                        14,
+                        27
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/OqYVKZevoh",
+                "expanded_url": "https://twitter.com/i/web/status/1254037889693908997",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "LMU_Muenchen",
+                "name": "Universität München",
+                "id": 91982547,
+                "id_str": "91982547",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "HKuechenhoff",
+                "name": "Helmut Küchenhoff",
+                "id": 3437690770,
+                "id_str": "3437690770",
+                "indices": [
+                    14,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820906457"
+}

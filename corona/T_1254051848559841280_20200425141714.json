@@ -1,0 +1,300 @@
+{
+    "created_at": "Sat Apr 25 14:17:14 +0000 2020",
+    "id": 1254051848559841280,
+    "id_str": "1254051848559841280",
+    "text": "@PMOIndia @myogiadityanath @OfficerGhazipur @ndtvindia @ajitanjum @BhimArmyChief @abhisar_sharma @BBCHindi… https://t.co/ADPBDMWlxS",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 471741741,
+    "in_reply_to_user_id_str": "471741741",
+    "in_reply_to_screen_name": "PMOIndia",
+    "user": {
+        "id": 1253367435404533761,
+        "id_str": "1253367435404533761",
+        "name": "Arshad Khan",
+        "screen_name": "ArshadK10187204",
+        "location": null,
+        "url": null,
+        "description": "soch badi honi chahiye",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 80,
+        "listed_count": 0,
+        "favourites_count": 1,
+        "statuses_count": 1,
+        "created_at": "Thu Apr 23 16:58:07 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253367786945957888/Xg-9etwb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253367786945957888/Xg-9etwb_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "133eafffa4b1ca86",
+        "url": "https://api.twitter.com/1.1/geo/id/133eafffa4b1ca86.json",
+        "place_type": "admin",
+        "name": "Uttar Pradesh",
+        "full_name": "Uttar Pradesh, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.096236,
+                        23.871941
+                    ],
+                    [
+                        77.096236,
+                        30.407576
+                    ],
+                    [
+                        84.638873,
+                        30.407576
+                    ],
+                    [
+                        84.638873,
+                        23.871941
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@PMOIndia @myogiadityanath @OfficerGhazipur @ndtvindia @ajitanjum @BhimArmyChief @abhisar_sharma @BBCHindi @afzaltiger113\n aaj dildarnagar thana ke SHO or CO zamaniya aur SDM aajan na dene ka unwritten order diya hai, corona pe Hindu-Muslim kis hadd tak hoga ?",
+        "display_text_range": [
+            0,
+            260
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PMOIndia",
+                    "name": "PMO India",
+                    "id": 471741741,
+                    "id_str": "471741741",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "myogiadityanath",
+                    "name": "Yogi Adityanath",
+                    "id": 3437532637,
+                    "id_str": "3437532637",
+                    "indices": [
+                        10,
+                        26
+                    ]
+                },
+                {
+                    "screen_name": "OfficerGhazipur",
+                    "name": "District Information Office Ghazipur",
+                    "id": 1012567470832402432,
+                    "id_str": "1012567470832402432",
+                    "indices": [
+                        27,
+                        43
+                    ]
+                },
+                {
+                    "screen_name": "ndtvindia",
+                    "name": "ndtvindia",
+                    "id": 321271735,
+                    "id_str": "321271735",
+                    "indices": [
+                        44,
+                        54
+                    ]
+                },
+                {
+                    "screen_name": "ajitanjum",
+                    "name": "Ajit Anjum",
+                    "id": 102646919,
+                    "id_str": "102646919",
+                    "indices": [
+                        55,
+                        65
+                    ]
+                },
+                {
+                    "screen_name": "BhimArmyChief",
+                    "name": "Chandra Shekhar Aazad",
+                    "id": 968482448253140993,
+                    "id_str": "968482448253140993",
+                    "indices": [
+                        66,
+                        80
+                    ]
+                },
+                {
+                    "screen_name": "abhisar_sharma",
+                    "name": "Abhisar Sharma",
+                    "id": 56627441,
+                    "id_str": "56627441",
+                    "indices": [
+                        81,
+                        96
+                    ]
+                },
+                {
+                    "screen_name": "BBCHindi",
+                    "name": "BBC News Hindi",
+                    "id": 372754427,
+                    "id_str": "372754427",
+                    "indices": [
+                        97,
+                        106
+                    ]
+                },
+                {
+                    "screen_name": "afzaltiger113",
+                    "name": "Afzal Khan",
+                    "id": 810538695388438530,
+                    "id_str": "810538695388438530",
+                    "indices": [
+                        107,
+                        121
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ADPBDMWlxS",
+                "expanded_url": "https://twitter.com/i/web/status/1254051848559841280",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    108,
+                    131
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "PMOIndia",
+                "name": "PMO India",
+                "id": 471741741,
+                "id_str": "471741741",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "myogiadityanath",
+                "name": "Yogi Adityanath",
+                "id": 3437532637,
+                "id_str": "3437532637",
+                "indices": [
+                    10,
+                    26
+                ]
+            },
+            {
+                "screen_name": "OfficerGhazipur",
+                "name": "District Information Office Ghazipur",
+                "id": 1012567470832402432,
+                "id_str": "1012567470832402432",
+                "indices": [
+                    27,
+                    43
+                ]
+            },
+            {
+                "screen_name": "ndtvindia",
+                "name": "ndtvindia",
+                "id": 321271735,
+                "id_str": "321271735",
+                "indices": [
+                    44,
+                    54
+                ]
+            },
+            {
+                "screen_name": "ajitanjum",
+                "name": "Ajit Anjum",
+                "id": 102646919,
+                "id_str": "102646919",
+                "indices": [
+                    55,
+                    65
+                ]
+            },
+            {
+                "screen_name": "BhimArmyChief",
+                "name": "Chandra Shekhar Aazad",
+                "id": 968482448253140993,
+                "id_str": "968482448253140993",
+                "indices": [
+                    66,
+                    80
+                ]
+            },
+            {
+                "screen_name": "abhisar_sharma",
+                "name": "Abhisar Sharma",
+                "id": 56627441,
+                "id_str": "56627441",
+                "indices": [
+                    81,
+                    96
+                ]
+            },
+            {
+                "screen_name": "BBCHindi",
+                "name": "BBC News Hindi",
+                "id": 372754427,
+                "id_str": "372754427",
+                "indices": [
+                    97,
+                    106
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587824234510"
+}

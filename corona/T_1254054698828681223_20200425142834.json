@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:28:34 +0000 2020",
+    "id": 1254054698828681223,
+    "id_str": "1254054698828681223",
+    "text": "#Aslında Bir Teşekkürü Haketti #Corona#\n#Sayesinde Dünya Temizlendi#",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 710426768,
+        "id_str": "710426768",
+        "name": "T.C Saadet yılmaz",
+        "screen_name": "ysaadet",
+        "location": "istanbul",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 850,
+        "friends_count": 950,
+        "listed_count": 1,
+        "favourites_count": 2270,
+        "statuses_count": 5547,
+        "created_at": "Sun Jul 22 09:35:35 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237727747063132160/DM81a0Cl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237727747063132160/DM81a0Cl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/710426768/1584215735",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5e02a0f0d91c76d2",
+        "url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+        "place_type": "city",
+        "name": "İstanbul",
+        "full_name": "İstanbul, Türkiye",
+        "country_code": "TR",
+        "country": "Türkiye",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        28.632104,
+                        40.802734
+                    ],
+                    [
+                        28.632104,
+                        41.239907
+                    ],
+                    [
+                        29.378341,
+                        41.239907
+                    ],
+                    [
+                        29.378341,
+                        40.802734
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Aslında",
+                "indices": [
+                    0,
+                    8
+                ]
+            },
+            {
+                "text": "Sayesinde",
+                "indices": [
+                    40,
+                    50
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "tr",
+    "timestamp_ms": "1587824914067"
+}

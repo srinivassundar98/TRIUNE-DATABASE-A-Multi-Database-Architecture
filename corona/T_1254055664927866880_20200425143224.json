@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Apr 25 14:32:24 +0000 2020",
+    "id": 1254055664927866880,
+    "id_str": "1254055664927866880",
+    "text": "@SkyNewsAust @realDonaldTrump US President Donald Trump Suggests Disinfectant Against Corona\nUS President Donald Tr… https://t.co/V4iogpoZdZ",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253515932795899906,
+    "in_reply_to_status_id_str": "1253515932795899906",
+    "in_reply_to_user_id": 16834659,
+    "in_reply_to_user_id_str": "16834659",
+    "in_reply_to_screen_name": "SkyNewsAust",
+    "user": {
+        "id": 1031211525736808449,
+        "id_str": "1031211525736808449",
+        "name": "Top German News",
+        "screen_name": "topnews43",
+        "location": "Chittagong, Bangladesh",
+        "url": "http://www.topnews43.com",
+        "description": "This blog is made for top german news, Germany news, german newspaper, german news slow, the german newspaper in English, german news in English.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 167,
+        "friends_count": 3497,
+        "listed_count": 0,
+        "favourites_count": 57,
+        "statuses_count": 3178,
+        "created_at": "Sun Aug 19 16:09:21 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192421993884205057/oq_5cv6N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192421993884205057/oq_5cv6N_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031211525736808449/1573130534",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@SkyNewsAust @realDonaldTrump US President Donald Trump Suggests Disinfectant Against Corona\nUS President Donald Trump suggests disinfectant against Corona -researchers stunned - now there is an absurd excuse. Read More\nhttps://t.co/JK73cZWz5N",
+        "display_text_range": [
+            30,
+            243
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JK73cZWz5N",
+                    "expanded_url": "https://www.topnews43.com/2020/04/us-president-donald-trump-suggests-disinfectant.html",
+                    "display_url": "topnews43.com/2020/04/us-pre…",
+                    "indices": [
+                        220,
+                        243
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "SkyNewsAust",
+                    "name": "Sky News Australia",
+                    "id": 16834659,
+                    "id_str": "16834659",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        13,
+                        29
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/V4iogpoZdZ",
+                "expanded_url": "https://twitter.com/i/web/status/1254055664927866880",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "SkyNewsAust",
+                "name": "Sky News Australia",
+                "id": 16834659,
+                "id_str": "16834659",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    13,
+                    29
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587825144403"
+}

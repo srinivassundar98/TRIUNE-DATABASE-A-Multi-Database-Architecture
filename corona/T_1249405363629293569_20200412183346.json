@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun Apr 12 18:33:46 +0000 2020",
+    "id": 1249405363629293569,
+    "id_str": "1249405363629293569",
+    "text": "@Vicdum09 @adames__24 festa junina???ai amiga depende do corona",
+    "display_text_range": [
+        22,
+        63
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249404954865020930,
+    "in_reply_to_status_id_str": "1249404954865020930",
+    "in_reply_to_user_id": 797925115547754496,
+    "in_reply_to_user_id_str": "797925115547754496",
+    "in_reply_to_screen_name": "Vicdum09",
+    "user": {
+        "id": 1109168203958226945,
+        "id_str": "1109168203958226945",
+        "name": "tinky winky",
+        "screen_name": "zadoralessa",
+        "location": "Uberlândia, Brasil",
+        "url": null,
+        "description": "totalmente fora dos padrões de beleza\nmas o importante é ser feliz....\ntambém não sou feliz",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 458,
+        "friends_count": 456,
+        "listed_count": 0,
+        "favourites_count": 10326,
+        "statuses_count": 11087,
+        "created_at": "Fri Mar 22 19:01:21 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246652368114024449/yKjGPJ4__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246652368114024449/yKjGPJ4__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109168203958226945/1584209229",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Vicdum09",
+                "name": "Vick",
+                "id": 797925115547754496,
+                "id_str": "797925115547754496",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "adames__24",
+                "name": "Pedro Lindo",
+                "id": 1245527639294648320,
+                "id_str": "1245527639294648320",
+                "indices": [
+                    10,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716426175"
+}

@@ -1,0 +1,151 @@
+{
+    "created_at": "Sat Apr 25 13:11:35 +0000 2020",
+    "id": 1254035327536291840,
+    "id_str": "1254035327536291840",
+    "text": "@DaRaginga @Joerg_Meuthen Ich gewinne den Eindruck, dass die Mehrheit der Bevölkerung hinter der Position von Frau… https://t.co/wu0rFSmmdJ",
+    "display_text_range": [
+        26,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254016064092061697,
+    "in_reply_to_status_id_str": "1254016064092061697",
+    "in_reply_to_user_id": 608776113,
+    "in_reply_to_user_id_str": "608776113",
+    "in_reply_to_screen_name": "DaRaginga",
+    "user": {
+        "id": 974558120,
+        "id_str": "974558120",
+        "name": "markus",
+        "screen_name": "smartmax900",
+        "location": "frankfurt, ger",
+        "url": null,
+        "description": "fucking furious",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 215,
+        "friends_count": 296,
+        "listed_count": 14,
+        "favourites_count": 6211,
+        "statuses_count": 25569,
+        "created_at": "Tue Nov 27 19:46:41 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/617380135688388609/NJQ8YOSg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/617380135688388609/NJQ8YOSg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/974558120/1386539319",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@DaRaginga @Joerg_Meuthen Ich gewinne den Eindruck, dass die Mehrheit der Bevölkerung hinter der Position von Frau Merkel steht, zumindest in puncto #Corona . Dass sich Rechtspopulisten dranhängen....\nGeschenkt.",
+        "display_text_range": [
+            26,
+            211
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        149,
+                        156
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DaRaginga",
+                    "name": "Dara Ginga",
+                    "id": 608776113,
+                    "id_str": "608776113",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "Joerg_Meuthen",
+                    "name": "Prof. Dr. Jörg Meuthen",
+                    "id": 710201540116652033,
+                    "id_str": "710201540116652033",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/wu0rFSmmdJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254035327536291840",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "DaRaginga",
+                "name": "Dara Ginga",
+                "id": 608776113,
+                "id_str": "608776113",
+                "indices": [
+                    0,
+                    10
+                ]
+            },
+            {
+                "screen_name": "Joerg_Meuthen",
+                "name": "Prof. Dr. Jörg Meuthen",
+                "id": 710201540116652033,
+                "id_str": "710201540116652033",
+                "indices": [
+                    11,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820295591"
+}

@@ -1,0 +1,193 @@
+{
+    "created_at": "Sat Apr 25 14:22:45 +0000 2020",
+    "id": 1254053238892085250,
+    "id_str": "1254053238892085250",
+    "text": "@CDCgov just now\nfoods that strengthen immunity to #coronavirus https://t.co/LVXp83XxHm\n#coronavirusdeutschland nav… https://t.co/AJuGKtxmdp",
+    "display_text_range": [
+        8,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253818998942314496,
+    "in_reply_to_status_id_str": "1253818998942314496",
+    "in_reply_to_user_id": 146569971,
+    "in_reply_to_user_id_str": "146569971",
+    "in_reply_to_screen_name": "CDCgov",
+    "user": {
+        "id": 1254040288131190788,
+        "id_str": "1254040288131190788",
+        "name": "Sue",
+        "screen_name": "Sue83180147",
+        "location": null,
+        "url": null,
+        "description": "just now\nfoods that strengthen immunity to #coronavirus https://tinyurl.com/y8k7jf7h\n#coronavirusdeutschland nav\n#Corona #CoronavirusOutbreak",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 0,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 14,
+        "created_at": "Sat Apr 25 13:31:30 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254049292765069312/UOQZdGym_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254049292765069312/UOQZdGym_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CDCgov just now\nfoods that strengthen immunity to #coronavirus https://t.co/LVXp83XxHm\n#coronavirusdeutschland nav\n#Corona #CoronavirusOutbreak\n #covid2019",
+        "display_text_range": [
+            8,
+            156
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "coronavirus",
+                    "indices": [
+                        51,
+                        63
+                    ]
+                },
+                {
+                    "text": "coronavirusdeutschland",
+                    "indices": [
+                        88,
+                        111
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        116,
+                        123
+                    ]
+                },
+                {
+                    "text": "CoronavirusOutbreak",
+                    "indices": [
+                        124,
+                        144
+                    ]
+                },
+                {
+                    "text": "covid2019",
+                    "indices": [
+                        146,
+                        156
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/LVXp83XxHm",
+                    "expanded_url": "https://tinyurl.com/y8k7jf7h",
+                    "display_url": "tinyurl.com/y8k7jf7h",
+                    "indices": [
+                        64,
+                        87
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "CDCgov",
+                    "name": "CDC",
+                    "id": 146569971,
+                    "id_str": "146569971",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "coronavirus",
+                "indices": [
+                    51,
+                    63
+                ]
+            },
+            {
+                "text": "coronavirusdeutschland",
+                "indices": [
+                    88,
+                    111
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/LVXp83XxHm",
+                "expanded_url": "https://tinyurl.com/y8k7jf7h",
+                "display_url": "tinyurl.com/y8k7jf7h",
+                "indices": [
+                    64,
+                    87
+                ]
+            },
+            {
+                "url": "https://t.co/AJuGKtxmdp",
+                "expanded_url": "https://twitter.com/i/web/status/1254053238892085250",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CDCgov",
+                "name": "CDC",
+                "id": 146569971,
+                "id_str": "146569971",
+                "indices": [
+                    0,
+                    7
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824565991"
+}

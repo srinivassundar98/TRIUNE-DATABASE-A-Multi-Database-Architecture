@@ -1,0 +1,131 @@
+{
+    "created_at": "Sat Apr 25 13:47:03 +0000 2020",
+    "id": 1254044253413670913,
+    "id_str": "1254044253413670913",
+    "text": "@homeswthole @heyitslunafae Corona***",
+    "display_text_range": [
+        28,
+        37
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254044026157793283,
+    "in_reply_to_status_id_str": "1254044026157793283",
+    "in_reply_to_user_id": 3050857136,
+    "in_reply_to_user_id_str": "3050857136",
+    "in_reply_to_screen_name": "homeswthole",
+    "user": {
+        "id": 20525495,
+        "id_str": "20525495",
+        "name": "Nutty Neil",
+        "screen_name": "neilthenurse",
+        "location": "aberdeenshire - he/him ⚤",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 469,
+        "friends_count": 1256,
+        "listed_count": 19,
+        "favourites_count": 43733,
+        "statuses_count": 1462,
+        "created_at": "Tue Feb 10 16:52:17 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245130026959462413/nqDWARgz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245130026959462413/nqDWARgz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20525495/1585902409",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "55701be586aa7250",
+        "url": "https://api.twitter.com/1.1/geo/id/55701be586aa7250.json",
+        "place_type": "city",
+        "name": "Huntly",
+        "full_name": "Huntly, Scotland",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -2.803417,
+                        57.441222
+                    ],
+                    [
+                        -2.803417,
+                        57.453542
+                    ],
+                    [
+                        -2.775148,
+                        57.453542
+                    ],
+                    [
+                        -2.775148,
+                        57.441222
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "homeswthole",
+                "name": ".han",
+                "id": 3050857136,
+                "id_str": "3050857136",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "heyitslunafae",
+                "name": "luna",
+                "id": 3972608315,
+                "id_str": "3972608315",
+                "indices": [
+                    13,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587822423686"
+}

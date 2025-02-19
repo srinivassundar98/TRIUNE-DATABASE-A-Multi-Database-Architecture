@@ -1,0 +1,174 @@
+{
+    "created_at": "Sat Apr 25 12:35:55 +0000 2020",
+    "id": 1254026351742345216,
+    "id_str": "1254026351742345216",
+    "text": "#Lebanon Coronavirus Deaths at 24 Persons https://t.co/AbMbGBxMJh https://t.co/P1h6xAKSDt",
+    "display_text_range": [
+        0,
+        65
+    ],
+    "source": "<a href=\"http://www.tradingeconomics.com/\" rel=\"nofollow\">Trading Economics</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 49510088,
+        "id_str": "49510088",
+        "name": "Trading Economics",
+        "screen_name": "tEconomics",
+        "location": "NYC",
+        "url": "http://www.tradingeconomics.com",
+        "description": "Trading Economics provides historical data, forecasts and news for more than 300.000 economic indicators from nearly 200 countries.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 20759,
+        "friends_count": 0,
+        "listed_count": 863,
+        "favourites_count": 0,
+        "statuses_count": 85090,
+        "created_at": "Mon Jun 22 02:35:25 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2189810859/logo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2189810859/logo_normal.png",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Lebanon",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/AbMbGBxMJh",
+                "expanded_url": "https://tradingeconomics.com/lebanon/coronavirus-deaths",
+                "display_url": "tradingeconomics.com/lebanon/corona…",
+                "indices": [
+                    42,
+                    65
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254026350345814016,
+                "id_str": "1254026350345814016",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcyUk9XgAA00cj.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWcyUk9XgAA00cj.png",
+                "url": "https://t.co/P1h6xAKSDt",
+                "display_url": "pic.twitter.com/P1h6xAKSDt",
+                "expanded_url": "https://twitter.com/tEconomics/status/1254026351742345216/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 730,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 317,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 730,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254026350345814016,
+                "id_str": "1254026350345814016",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcyUk9XgAA00cj.png",
+                "media_url_https": "https://pbs.twimg.com/media/EWcyUk9XgAA00cj.png",
+                "url": "https://t.co/P1h6xAKSDt",
+                "display_url": "pic.twitter.com/P1h6xAKSDt",
+                "expanded_url": "https://twitter.com/tEconomics/status/1254026351742345216/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 730,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 317,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 730,
+                        "h": 340,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ca",
+    "timestamp_ms": "1587818155595"
+}

@@ -1,0 +1,138 @@
+{
+    "created_at": "Sat Apr 25 13:25:21 +0000 2020",
+    "id": 1254038793650425856,
+    "id_str": "1254038793650425856",
+    "text": "Over 650 @ucddublin international students are seeking a partial refund of the fees they paid the university, due t… https://t.co/SRmfbI1E9G",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 987367088,
+        "id_str": "987367088",
+        "name": "Brian Mahon",
+        "screen_name": "_BrianMahon_",
+        "location": "Dublin ",
+        "url": null,
+        "description": "Politics and some more politics. Writing for @thetimesie atm. Got any stories? Email me brian.mahon@the-times.ie or slide into my DMs there.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1049,
+        "friends_count": 3585,
+        "listed_count": 14,
+        "favourites_count": 15236,
+        "statuses_count": 12456,
+        "created_at": "Mon Dec 03 20:27:18 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145017290905329669/RJ_nGhG9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145017290905329669/RJ_nGhG9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/987367088/1521644258",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Over 650 @ucddublin international students are seeking a partial refund of the fees they paid the university, due to #COVID19ireland. \n https://t.co/mDbDuncTFW",
+        "display_text_range": [
+            0,
+            159
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19ireland",
+                    "indices": [
+                        117,
+                        132
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/mDbDuncTFW",
+                    "expanded_url": "https://www.thetimes.co.uk/article/coronavirus-in-ireland-ucd-international-students-ask-for-refund-kvt8khcl3",
+                    "display_url": "thetimes.co.uk/article/corona…",
+                    "indices": [
+                        136,
+                        159
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "ucddublin",
+                    "name": "University College Dublin",
+                    "id": 22132266,
+                    "id_str": "22132266",
+                    "indices": [
+                        9,
+                        19
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/SRmfbI1E9G",
+                "expanded_url": "https://twitter.com/i/web/status/1254038793650425856",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "ucddublin",
+                "name": "University College Dublin",
+                "id": 22132266,
+                "id_str": "22132266",
+                "indices": [
+                    9,
+                    19
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821121977"
+}

@@ -1,0 +1,131 @@
+{
+    "created_at": "Sat Apr 25 12:25:15 +0000 2020",
+    "id": 1254023668889460737,
+    "id_str": "1254023668889460737",
+    "text": "@GsaLegrand @SimianE 3metros de alto por uno ancho de cypress... Mas riesgo de alergia polen que corona, pero brindamos carburando a pastis",
+    "display_text_range": [
+        21,
+        139
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254022286266576897,
+    "in_reply_to_status_id_str": "1254022286266576897",
+    "in_reply_to_user_id": 883550947,
+    "in_reply_to_user_id_str": "883550947",
+    "in_reply_to_screen_name": "GsaLegrand",
+    "user": {
+        "id": 308969238,
+        "id_str": "308969238",
+        "name": "JAZPOL",
+        "screen_name": "JAZPOLive",
+        "location": "Aix en Provence",
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 223,
+        "friends_count": 918,
+        "listed_count": 21,
+        "favourites_count": 980,
+        "statuses_count": 6222,
+        "created_at": "Wed Jun 01 09:23:12 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636254565621477376/ihEm_vTD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636254565621477376/ihEm_vTD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/308969238/1440529907",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "028d5bf867be7f9d",
+        "url": "https://api.twitter.com/1.1/geo/id/028d5bf867be7f9d.json",
+        "place_type": "city",
+        "name": "Simiane-Collongue",
+        "full_name": "Simiane-Collongue, France",
+        "country_code": "FR",
+        "country": "France",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        5.392251,
+                        43.383188
+                    ],
+                    [
+                        5.392251,
+                        43.447381
+                    ],
+                    [
+                        5.479526,
+                        43.447381
+                    ],
+                    [
+                        5.479526,
+                        43.383188
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "GsaLegrand",
+                "name": "Gaelle Legrand 💚",
+                "id": 883550947,
+                "id_str": "883550947",
+                "indices": [
+                    0,
+                    11
+                ]
+            },
+            {
+                "screen_name": "SimianE",
+                "name": "Gary Stanton",
+                "id": 15863406,
+                "id_str": "15863406",
+                "indices": [
+                    12,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587817515953"
+}

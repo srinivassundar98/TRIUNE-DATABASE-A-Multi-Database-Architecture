@@ -1,0 +1,220 @@
+{
+    "created_at": "Sat Apr 25 14:29:32 +0000 2020",
+    "id": 1254054943834554373,
+    "id_str": "1254054943834554373",
+    "text": "Pertahanan terbaik hadapi Virus Corona adalah kedisiplinan kita sendiri\nKalo ga penting2 amat ga usah keluar rumah.… https://t.co/X2SwScAtH0",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 49285299,
+        "id_str": "49285299",
+        "name": "Yudi",
+        "screen_name": "kudaliarr",
+        "location": "Kab. Tabalong - KalSel",
+        "url": "http://www.yudifebrianda.wordpress.com",
+        "description": "| pernah sakolah di Antropologi | Pekerja di Warung Kopi | 100% Indonesia. punya KTP Depok dan SIM Tabalong | Petualang #ACIdetikcom |",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3386,
+        "friends_count": 1226,
+        "listed_count": 39,
+        "favourites_count": 167,
+        "statuses_count": 41379,
+        "created_at": "Sun Jun 21 10:22:37 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249295377515216901/Xf9RVoOQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249295377515216901/Xf9RVoOQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49285299/1418004900",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "67ee4e65b49cb758",
+        "url": "https://api.twitter.com/1.1/geo/id/67ee4e65b49cb758.json",
+        "place_type": "admin",
+        "name": "South Borneo",
+        "full_name": "South Borneo, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        114.345859,
+                        -5.585365
+                    ],
+                    [
+                        114.345859,
+                        -1.315037
+                    ],
+                    [
+                        116.5559,
+                        -1.315037
+                    ],
+                    [
+                        116.5559,
+                        -5.585365
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Pertahanan terbaik hadapi Virus Corona adalah kedisiplinan kita sendiri\nKalo ga penting2 amat ga usah keluar rumah. #StayHome\nKalo pun keluar rumah jgn lupa pake masker, cuci tangan, tdk kontak langsung dgn siapapun dan jaga jarak\nBahkan Kami di rumah pun tetap pakai masker https://t.co/jHhPdodppj",
+        "display_text_range": [
+            0,
+            274
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "StayHome",
+                    "indices": [
+                        116,
+                        125
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254054903003017216,
+                    "id_str": "1254054903003017216",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdMSj5U8AAl9xz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdMSj5U8AAl9xz.jpg",
+                    "url": "https://t.co/jHhPdodppj",
+                    "display_url": "pic.twitter.com/jHhPdodppj",
+                    "expanded_url": "https://twitter.com/kudaliarr/status/1254054943834554373/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 505,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 891,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1520,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254054903003017216,
+                    "id_str": "1254054903003017216",
+                    "indices": [
+                        275,
+                        298
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWdMSj5U8AAl9xz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWdMSj5U8AAl9xz.jpg",
+                    "url": "https://t.co/jHhPdodppj",
+                    "display_url": "pic.twitter.com/jHhPdodppj",
+                    "expanded_url": "https://twitter.com/kudaliarr/status/1254054943834554373/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "small": {
+                            "w": 680,
+                            "h": 505,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 891,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1520,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/X2SwScAtH0",
+                "expanded_url": "https://twitter.com/i/web/status/1254054943834554373",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587824972481"
+}

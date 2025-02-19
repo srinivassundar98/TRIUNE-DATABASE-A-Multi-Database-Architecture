@@ -1,0 +1,430 @@
+{
+    "created_at": "Sat Apr 25 13:12:25 +0000 2020",
+    "id": 1254035538312601601,
+    "id_str": "1254035538312601601",
+    "text": "RT @MayanoaK: Tak for udfordringen @TBeskytter 👋🏼 Pga corona-krisen kan Veganerpartiet ikke komme på gaden og samle vælgereklæringer. Vær s…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 24592936,
+        "id_str": "24592936",
+        "name": "Morten",
+        "screen_name": "mortenbrando",
+        "location": "Copenhagen, Denmark",
+        "url": "http://www.shorthand.dk",
+        "description": "Founder of Shorthand Event Content Marketing, M.A. Communications & Public Health. Editor, Event Designer, sailor Married to my lovely wife, father of 3.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 173,
+        "friends_count": 802,
+        "listed_count": 4,
+        "favourites_count": 932,
+        "statuses_count": 960,
+        "created_at": "Sun Mar 15 21:50:54 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "F6E0E0",
+        "profile_sidebar_border_color": "A0BABB",
+        "profile_sidebar_fill_color": "95ECE2",
+        "profile_text_color": "190434",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3184946873/a61ee454b70faaa1477220bb4229a569_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3184946873/a61ee454b70faaa1477220bb4229a569_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24592936/1440227577",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 13:57:07 +0000 2020",
+        "id": 1253684397976571905,
+        "id_str": "1253684397976571905",
+        "text": "Tak for udfordringen @TBeskytter 👋🏼 Pga corona-krisen kan Veganerpartiet ikke komme på gaden og samle vælgereklærin… https://t.co/BjAtxJpdpB",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 230412475,
+            "id_str": "230412475",
+            "name": "Mayanoa Kjærgård",
+            "screen_name": "MayanoaK",
+            "location": "Copenhagen, Denmark",
+            "url": "http://www.veganerpartiet.dk",
+            "description": "Veganerpartiet: Hovedbestyrelse, kreativ & strategisk udvikler. cand.ling.merc. fra CBS",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 188,
+            "friends_count": 512,
+            "listed_count": 3,
+            "favourites_count": 682,
+            "statuses_count": 264,
+            "created_at": "Sat Dec 25 11:05:58 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1122878105981526016/CooXrtC-_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1122878105981526016/CooXrtC-_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/230412475/1578440297",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "936b83f20956cd4c",
+            "url": "https://api.twitter.com/1.1/geo/id/936b83f20956cd4c.json",
+            "place_type": "city",
+            "name": "Copenhagen",
+            "full_name": "Copenhagen, Denmark",
+            "country_code": "DK",
+            "country": "Denmark",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.453064,
+                            55.613717
+                        ],
+                        [
+                            12.453064,
+                            55.731834
+                        ],
+                        [
+                            12.652201,
+                            55.731834
+                        ],
+                        [
+                            12.652201,
+                            55.613717
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Tak for udfordringen @TBeskytter 👋🏼 Pga corona-krisen kan Veganerpartiet ikke komme på gaden og samle vælgereklæringer. Vær sød at hjælpe med her ✍🏻 https://t.co/2kDDIhjveb Jeg udfordrer @BuusVGPT  @lisel_vp  og @SoleyVGPT https://t.co/wnx1HQaSbX",
+            "display_text_range": [
+                0,
+                222
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/2kDDIhjveb",
+                        "expanded_url": "http://vgpt.dk/underskriv",
+                        "display_url": "vgpt.dk/underskriv",
+                        "indices": [
+                            149,
+                            172
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "TBeskytter",
+                        "name": "Tobias Holm (Dyrenes Beskytter)",
+                        "id": 984126915266129921,
+                        "id_str": "984126915266129921",
+                        "indices": [
+                            21,
+                            32
+                        ]
+                    },
+                    {
+                        "screen_name": "BuusVGPT",
+                        "name": "Buus_Veganerpartiet",
+                        "id": 888653819034435584,
+                        "id_str": "888653819034435584",
+                        "indices": [
+                            187,
+                            196
+                        ]
+                    },
+                    {
+                        "screen_name": "lisel_vp",
+                        "name": "Lisel_Veganerpartiet",
+                        "id": 1171309564563722240,
+                        "id_str": "1171309564563722240",
+                        "indices": [
+                            198,
+                            207
+                        ]
+                    },
+                    {
+                        "screen_name": "SoleyVGPT",
+                        "name": "Sóley Jónsdóttir",
+                        "id": 1250200907897331715,
+                        "id_str": "1250200907897331715",
+                        "indices": [
+                            212,
+                            222
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253684334130802689,
+                        "id_str": "1253684334130802689",
+                        "indices": [
+                            223,
+                            246
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253684334130802689/pu/img/ZZWnd1xY8Sb2sUs0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253684334130802689/pu/img/ZZWnd1xY8Sb2sUs0.jpg",
+                        "url": "https://t.co/wnx1HQaSbX",
+                        "display_url": "pic.twitter.com/wnx1HQaSbX",
+                        "expanded_url": "https://twitter.com/MayanoaK/status/1253684397976571905/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 9467,
+                            "variants": [
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253684334130802689/pu/vid/320x320/Xy_HsE7rXpTZLZXA.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253684334130802689/pu/vid/720x720/Cj4AIYe4aNTzipx9.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253684334130802689/pu/vid/480x480/LJeiNqHXTusX43gH.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253684334130802689/pu/pl/_pO_aLRbbHkMQh6_.m3u8?tag=10"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253684334130802689,
+                        "id_str": "1253684334130802689",
+                        "indices": [
+                            223,
+                            246
+                        ],
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253684334130802689/pu/img/ZZWnd1xY8Sb2sUs0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253684334130802689/pu/img/ZZWnd1xY8Sb2sUs0.jpg",
+                        "url": "https://t.co/wnx1HQaSbX",
+                        "display_url": "pic.twitter.com/wnx1HQaSbX",
+                        "expanded_url": "https://twitter.com/MayanoaK/status/1253684397976571905/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 9467,
+                            "variants": [
+                                {
+                                    "bitrate": 432000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253684334130802689/pu/vid/320x320/Xy_HsE7rXpTZLZXA.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253684334130802689/pu/vid/720x720/Cj4AIYe4aNTzipx9.mp4?tag=10"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253684334130802689/pu/vid/480x480/LJeiNqHXTusX43gH.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1253684334130802689/pu/pl/_pO_aLRbbHkMQh6_.m3u8?tag=10"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 4,
+        "favorite_count": 6,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/BjAtxJpdpB",
+                    "expanded_url": "https://twitter.com/i/web/status/1253684397976571905",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "TBeskytter",
+                    "name": "Tobias Holm (Dyrenes Beskytter)",
+                    "id": 984126915266129921,
+                    "id_str": "984126915266129921",
+                    "indices": [
+                        21,
+                        32
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "da"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "MayanoaK",
+                "name": "Mayanoa Kjærgård",
+                "id": 230412475,
+                "id_str": "230412475",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "TBeskytter",
+                "name": "Tobias Holm (Dyrenes Beskytter)",
+                "id": 984126915266129921,
+                "id_str": "984126915266129921",
+                "indices": [
+                    35,
+                    46
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "da",
+    "timestamp_ms": "1587820345844"
+}

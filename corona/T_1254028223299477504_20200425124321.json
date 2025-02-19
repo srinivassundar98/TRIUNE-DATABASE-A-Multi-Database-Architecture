@@ -1,0 +1,291 @@
+{
+    "created_at": "Sat Apr 25 12:43:21 +0000 2020",
+    "id": 1254028223299477504,
+    "id_str": "1254028223299477504",
+    "text": "Jo saath dede saara India\nPhir muskurayega India\nPhir jeet jaayega India 😁\n#StayAtHome #StaySafe #StayHealthy… https://t.co/sVSYNnBIGo",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1062282775695216640,
+        "id_str": "1062282775695216640",
+        "name": "Sakshi Jain",
+        "screen_name": "SakshiJ64863901",
+        "location": "Roorkee, India",
+        "url": null,
+        "description": "😇😇😇😇😇😇😇😇",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4,
+        "friends_count": 12,
+        "listed_count": 0,
+        "favourites_count": 17,
+        "statuses_count": 18,
+        "created_at": "Tue Nov 13 09:55:24 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243128036695793664/yQXMywBl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243128036695793664/yQXMywBl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1062282775695216640/1558347810",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "07d9d10eab081000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9d10eab081000.json",
+        "place_type": "poi",
+        "name": "Uttarakhand, india",
+        "full_name": "Uttarakhand, india",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.894718,
+                        29.874345
+                    ],
+                    [
+                        77.894718,
+                        29.874345
+                    ],
+                    [
+                        77.894718,
+                        29.874345
+                    ],
+                    [
+                        77.894718,
+                        29.874345
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Jo saath dede saara India\nPhir muskurayega India\nPhir jeet jaayega India 😁\n#StayAtHome #StaySafe #StayHealthy #COVID #Corona #muskurayegaindia #QuarantineLife #Quarantine https://t.co/Cnnam2n01j",
+        "display_text_range": [
+            0,
+            170
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "StayAtHome",
+                    "indices": [
+                        75,
+                        86
+                    ]
+                },
+                {
+                    "text": "StaySafe",
+                    "indices": [
+                        87,
+                        96
+                    ]
+                },
+                {
+                    "text": "StayHealthy",
+                    "indices": [
+                        97,
+                        109
+                    ]
+                },
+                {
+                    "text": "COVID",
+                    "indices": [
+                        110,
+                        116
+                    ]
+                },
+                {
+                    "text": "Corona",
+                    "indices": [
+                        117,
+                        124
+                    ]
+                },
+                {
+                    "text": "muskurayegaindia",
+                    "indices": [
+                        125,
+                        142
+                    ]
+                },
+                {
+                    "text": "QuarantineLife",
+                    "indices": [
+                        143,
+                        158
+                    ]
+                },
+                {
+                    "text": "Quarantine",
+                    "indices": [
+                        159,
+                        170
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254028205867982848,
+                    "id_str": "1254028205867982848",
+                    "indices": [
+                        171,
+                        194
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc0AlUU4AA-8fL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc0AlUU4AA-8fL.jpg",
+                    "url": "https://t.co/Cnnam2n01j",
+                    "display_url": "pic.twitter.com/Cnnam2n01j",
+                    "expanded_url": "https://twitter.com/SakshiJ64863901/status/1254028223299477504/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1079,
+                            "h": 1079,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1079,
+                            "h": 1079,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254028205867982848,
+                    "id_str": "1254028205867982848",
+                    "indices": [
+                        171,
+                        194
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc0AlUU4AA-8fL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc0AlUU4AA-8fL.jpg",
+                    "url": "https://t.co/Cnnam2n01j",
+                    "display_url": "pic.twitter.com/Cnnam2n01j",
+                    "expanded_url": "https://twitter.com/SakshiJ64863901/status/1254028223299477504/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1079,
+                            "h": 1079,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1079,
+                            "h": 1079,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "StayAtHome",
+                "indices": [
+                    75,
+                    86
+                ]
+            },
+            {
+                "text": "StaySafe",
+                "indices": [
+                    87,
+                    96
+                ]
+            },
+            {
+                "text": "StayHealthy",
+                "indices": [
+                    97,
+                    109
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/sVSYNnBIGo",
+                "expanded_url": "https://twitter.com/i/web/status/1254028223299477504",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    111,
+                    134
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587818601809"
+}

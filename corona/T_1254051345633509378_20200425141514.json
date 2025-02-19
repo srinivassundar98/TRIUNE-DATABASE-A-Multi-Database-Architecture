@@ -1,0 +1,100 @@
+{
+    "created_at": "Sat Apr 25 14:15:14 +0000 2020",
+    "id": 1254051345633509378,
+    "id_str": "1254051345633509378",
+    "text": "@CarpeDonktum Silver does that.  https://t.co/W9Yc3qqqFL",
+    "display_text_range": [
+        14,
+        56
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253759473304420352,
+    "in_reply_to_status_id_str": "1253759473304420352",
+    "in_reply_to_user_id": 14895030,
+    "in_reply_to_user_id_str": "14895030",
+    "in_reply_to_screen_name": "CarpeDonktum",
+    "user": {
+        "id": 891340380616237057,
+        "id_str": "891340380616237057",
+        "name": "John Crane",
+        "screen_name": "Redguard36",
+        "location": null,
+        "url": null,
+        "description": "American.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 394,
+        "friends_count": 353,
+        "listed_count": 1,
+        "favourites_count": 91676,
+        "statuses_count": 60797,
+        "created_at": "Sat Jul 29 16:51:21 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1016703590788947968/vTFjw8tQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016703590788947968/vTFjw8tQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/891340380616237057/1586956227",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/W9Yc3qqqFL",
+                "expanded_url": "https://healthwyze.org/reports/1034-naturally-treating-the-wuhan-corona-virus-covid-19",
+                "display_url": "healthwyze.org/reports/1034-n…",
+                "indices": [
+                    33,
+                    56
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CarpeDonktum",
+                "name": "Carpe Donktum🔹",
+                "id": 14895030,
+                "id_str": "14895030",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824114603"
+}

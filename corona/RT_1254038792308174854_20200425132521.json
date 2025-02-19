@@ -1,0 +1,402 @@
+{
+    "created_at": "Sat Apr 25 13:25:21 +0000 2020",
+    "id": 1254038792308174854,
+    "id_str": "1254038792308174854",
+    "text": "RT @maischberger: \"Viele haben das am Anfang nicht ernstgenommen.\"\n@ardmoma-Moderatorin Anna Planken war selbst mit Corona infiziert. Warum…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1234847298720600064,
+        "id_str": "1234847298720600064",
+        "name": "U.Krüger",
+        "screen_name": "UKrger4",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 51,
+        "listed_count": 0,
+        "favourites_count": 223,
+        "statuses_count": 127,
+        "created_at": "Tue Mar 03 14:25:34 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Apr 22 21:35:47 +0000 2020",
+        "id": 1253075048740663298,
+        "id_str": "1253075048740663298",
+        "text": "\"Viele haben das am Anfang nicht ernstgenommen.\"\n@ardmoma-Moderatorin Anna Planken war selbst mit Corona infiziert.… https://t.co/Ewb7kXAniR",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1860407786,
+            "id_str": "1860407786",
+            "name": "Maischberger",
+            "screen_name": "maischberger",
+            "location": "Köln // Berlin",
+            "url": "http://maischberger.de",
+            "description": "Die Themen und die Menschen der aktuellen Woche – \"maischberger. die woche\" mittwochs 22:45 im Ersten //  es twittert die Redaktion. Impressum: https://t.co/oaXLo77Vnd",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 41260,
+            "friends_count": 559,
+            "listed_count": 348,
+            "favourites_count": 845,
+            "statuses_count": 5994,
+            "created_at": "Fri Sep 13 12:05:27 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1089106049297207297/icdjWXQy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089106049297207297/icdjWXQy_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860407786/1574786529",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "\"Viele haben das am Anfang nicht ernstgenommen.\"\n@ardmoma-Moderatorin Anna Planken war selbst mit Corona infiziert. Warum die Krankheit ihren Erfahrungen nach so tückisch ist.\n#maischberger #diewoche @DasErste #covid19 #coronavirus https://t.co/RGPtP5MGjv",
+            "display_text_range": [
+                0,
+                231
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "maischberger",
+                        "indices": [
+                            176,
+                            189
+                        ]
+                    },
+                    {
+                        "text": "diewoche",
+                        "indices": [
+                            190,
+                            199
+                        ]
+                    },
+                    {
+                        "text": "covid19",
+                        "indices": [
+                            210,
+                            218
+                        ]
+                    },
+                    {
+                        "text": "coronavirus",
+                        "indices": [
+                            219,
+                            231
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ardmoma",
+                        "name": "ARD Morgenmagazin",
+                        "id": 2829468550,
+                        "id_str": "2829468550",
+                        "indices": [
+                            49,
+                            57
+                        ]
+                    },
+                    {
+                        "screen_name": "DasErste",
+                        "name": "Das Erste",
+                        "id": 28964208,
+                        "id_str": "28964208",
+                        "indices": [
+                            200,
+                            209
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253074209527541760,
+                        "id_str": "1253074209527541760",
+                        "indices": [
+                            232,
+                            255
+                        ],
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1253074209527541760/img/GoShgYlzE5pXxQpI.jpg",
+                        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1253074209527541760/img/GoShgYlzE5pXxQpI.jpg",
+                        "url": "https://t.co/RGPtP5MGjv",
+                        "display_url": "pic.twitter.com/RGPtP5MGjv",
+                        "expanded_url": "https://twitter.com/maischberger/status/1253075048740663298/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 25959,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253074209527541760/vid/640x360/LnHXzq42yKagWRnK.mp4?tag=13"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1253074209527541760/pl/KkNlaLOVjBIGHJro.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253074209527541760/vid/1280x720/cBsCQEPCkQIEaFAR.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253074209527541760/vid/480x270/6dvCUn41uaKhD4tr.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253074209527541760,
+                        "id_str": "1253074209527541760",
+                        "indices": [
+                            232,
+                            255
+                        ],
+                        "additional_media_info": {
+                            "title": "",
+                            "description": "",
+                            "embeddable": true,
+                            "monetizable": false
+                        },
+                        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1253074209527541760/img/GoShgYlzE5pXxQpI.jpg",
+                        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1253074209527541760/img/GoShgYlzE5pXxQpI.jpg",
+                        "url": "https://t.co/RGPtP5MGjv",
+                        "display_url": "pic.twitter.com/RGPtP5MGjv",
+                        "expanded_url": "https://twitter.com/maischberger/status/1253075048740663298/video/1",
+                        "type": "video",
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 25959,
+                            "variants": [
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253074209527541760/vid/640x360/LnHXzq42yKagWRnK.mp4?tag=13"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/amplify_video/1253074209527541760/pl/KkNlaLOVjBIGHJro.m3u8?tag=13"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253074209527541760/vid/1280x720/cBsCQEPCkQIEaFAR.mp4?tag=13"
+                                },
+                                {
+                                    "bitrate": 288000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/amplify_video/1253074209527541760/vid/480x270/6dvCUn41uaKhD4tr.mp4?tag=13"
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 2,
+        "reply_count": 20,
+        "retweet_count": 15,
+        "favorite_count": 46,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Ewb7kXAniR",
+                    "expanded_url": "https://twitter.com/i/web/status/1253075048740663298",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "ardmoma",
+                    "name": "ARD Morgenmagazin",
+                    "id": 2829468550,
+                    "id_str": "2829468550",
+                    "indices": [
+                        49,
+                        57
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "maischberger",
+                "name": "Maischberger",
+                "id": 1860407786,
+                "id_str": "1860407786",
+                "indices": [
+                    3,
+                    16
+                ]
+            },
+            {
+                "screen_name": "ardmoma",
+                "name": "ARD Morgenmagazin",
+                "id": 2829468550,
+                "id_str": "2829468550",
+                "indices": [
+                    67,
+                    75
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587821121657"
+}

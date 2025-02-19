@@ -1,0 +1,842 @@
+{
+    "created_at": "Sat Apr 25 14:11:46 +0000 2020",
+    "id": 1254050474795335681,
+    "id_str": "1254050474795335681",
+    "text": "RT @ergroovt: Weil der Lautsprecher von #FridaysForFuture , Nick Heubeck, gerade in der @bayern2 - Radiowelt von „kein Corona-Hilfsgeld an…",
+    "source": "<a href=\"https://xdiamond7.xyz\" rel=\"nofollow\">OurFuture-BOT</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1217568030043115521,
+        "id_str": "1217568030043115521",
+        "name": "OurFuture - BOT",
+        "screen_name": "OurFutureBot",
+        "location": "Italy",
+        "url": null,
+        "description": "I'm a retweetter-bot of #FridaysForFuture and #PlasticFree My creator @GiuseppeHuman",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 829,
+        "friends_count": 2,
+        "listed_count": 9,
+        "favourites_count": 12,
+        "statuses_count": 54469,
+        "created_at": "Wed Jan 15 22:03:41 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217825840203026436/A7Sf0b8s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217825840203026436/A7Sf0b8s_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 06:38:13 +0000 2020",
+        "id": 1253573947175702531,
+        "id_str": "1253573947175702531",
+        "text": "Weil der Lautsprecher von #FridaysForFuture , Nick Heubeck, gerade in der @bayern2 - Radiowelt von „kein Corona-Hil… https://t.co/TKRvDgCh4U",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 886701763407093760,
+            "id_str": "886701763407093760",
+            "name": "DerB(🏡)",
+            "screen_name": "ergroovt",
+            "location": "Tu felix Bavaria!",
+            "url": null,
+            "description": "Ex nihilo nihil fit.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3112,
+            "friends_count": 489,
+            "listed_count": 17,
+            "favourites_count": 103319,
+            "statuses_count": 51822,
+            "created_at": "Sun Jul 16 21:39:09 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250484901834633217/n5aA-uJ8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250484901834633217/n5aA-uJ8_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/886701763407093760/1500733126",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "0209669eb0d079a3",
+            "url": "https://api.twitter.com/1.1/geo/id/0209669eb0d079a3.json",
+            "place_type": "admin",
+            "name": "Bayreuth",
+            "full_name": "Bayreuth, Bayern",
+            "country_code": "DE",
+            "country": "Germany",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            11.184123,
+                            49.613943
+                        ],
+                        [
+                            11.184123,
+                            50.133791
+                        ],
+                        [
+                            11.917969,
+                            50.133791
+                        ],
+                        [
+                            11.917969,
+                            49.613943
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1251089604960309248,
+        "quoted_status_id_str": "1251089604960309248",
+        "quoted_status": {
+            "created_at": "Fri Apr 17 10:06:20 +0000 2020",
+            "id": 1251089604960309248,
+            "id_str": "1251089604960309248",
+            "text": "Weil die Klimakrise auch in Zeiten von #Corona keine Pause macht, streiken wir am 24. April gemeinsam online mit… https://t.co/Tx0VqI3Fk4",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1688226782,
+                "id_str": "1688226782",
+                "name": "Fossil Free Deutschland",
+                "screen_name": "FossilFreeDe",
+                "location": null,
+                "url": "http://gofossilfree.org/de",
+                "description": "#FossilFree ist ein Projekt von @350. Weltweit bauen Lokalgruppen eine Welt ohne Kohle, Öl & Gas auf! #Divestment #Divest #Defund #KeepItInTheGround",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 5605,
+                "friends_count": 1209,
+                "listed_count": 129,
+                "favourites_count": 11197,
+                "statuses_count": 9070,
+                "created_at": "Wed Aug 21 12:42:23 +0000 2013",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "DB511F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_link_color": "FF691F",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1252205546167558150/zn2-v6oI_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252205546167558150/zn2-v6oI_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688226782/1573121390",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Weil die Klimakrise auch in Zeiten von #Corona keine Pause macht, streiken wir am 24. April gemeinsam online mit @FridayForFuture und fordern eine echte sozial-ökologische Wende. Bist du dabei? ➡️ https://t.co/4f3XY4Y7rI\n#NetzstreikFürsKlima #FightEveryCrisis https://t.co/Fw3656KlsT",
+                "display_text_range": [
+                    0,
+                    259
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Corona",
+                            "indices": [
+                                39,
+                                46
+                            ]
+                        },
+                        {
+                            "text": "NetzstreikFürsKlima",
+                            "indices": [
+                                221,
+                                241
+                            ]
+                        },
+                        {
+                            "text": "FightEveryCrisis",
+                            "indices": [
+                                242,
+                                259
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/4f3XY4Y7rI",
+                            "expanded_url": "http://klima-streik.org",
+                            "display_url": "klima-streik.org",
+                            "indices": [
+                                197,
+                                220
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "FridayForFuture",
+                            "name": "Fridays For Future Germany",
+                            "id": 1072187272815149057,
+                            "id_str": "1072187272815149057",
+                            "indices": [
+                                113,
+                                129
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1251084128126148610,
+                            "id_str": "1251084128126148610",
+                            "indices": [
+                                260,
+                                283
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVy-YtEWoAI0d3a.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVy-YtEWoAI0d3a.jpg",
+                            "url": "https://t.co/Fw3656KlsT",
+                            "display_url": "pic.twitter.com/Fw3656KlsT",
+                            "expanded_url": "https://twitter.com/FossilFreeDe/status/1251089604960309248/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1251084128126148610,
+                            "id_str": "1251084128126148610",
+                            "indices": [
+                                260,
+                                283
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVy-YtEWoAI0d3a.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVy-YtEWoAI0d3a.jpg",
+                            "url": "https://t.co/Fw3656KlsT",
+                            "display_url": "pic.twitter.com/Fw3656KlsT",
+                            "expanded_url": "https://twitter.com/FossilFreeDe/status/1251089604960309248/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 2,
+            "reply_count": 4,
+            "retweet_count": 9,
+            "favorite_count": 35,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            39,
+                            46
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/Tx0VqI3Fk4",
+                        "expanded_url": "https://twitter.com/i/web/status/1251089604960309248",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/GwkcjAx98r",
+            "expanded": "https://twitter.com/FossilFreeDe/status/1251089604960309248",
+            "display": "twitter.com/FossilFreeDe/s…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Weil der Lautsprecher von #FridaysForFuture , Nick Heubeck, gerade in der @bayern2 - Radiowelt von „kein Corona-Hilfsgeld an Fossile“ schwadronierte: In Zukunft also kein Strom mehr für Krankenhäuser, inkl. ICUs und Beatmungsmaschinen, ab Mitternacht? \n#NetzstreikFuersKlima https://t.co/GwkcjAx98r https://t.co/eGTInBtCPn",
+            "display_text_range": [
+                0,
+                298
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FridaysForFuture",
+                        "indices": [
+                            26,
+                            43
+                        ]
+                    },
+                    {
+                        "text": "NetzstreikFuersKlima",
+                        "indices": [
+                            253,
+                            274
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/GwkcjAx98r",
+                        "expanded_url": "https://twitter.com/FossilFreeDe/status/1251089604960309248",
+                        "display_url": "twitter.com/FossilFreeDe/s…",
+                        "indices": [
+                            275,
+                            298
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "bayern2",
+                        "name": "Bayern 2",
+                        "id": 595551879,
+                        "id_str": "595551879",
+                        "indices": [
+                            74,
+                            82
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253573928863313920,
+                        "id_str": "1253573928863313920",
+                        "indices": [
+                            299,
+                            322
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWWW2LmWsAA8Tbn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWWW2LmWsAA8Tbn.jpg",
+                        "url": "https://t.co/eGTInBtCPn",
+                        "display_url": "pic.twitter.com/eGTInBtCPn",
+                        "expanded_url": "https://twitter.com/ergroovt/status/1253573947175702531/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 780,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2035,
+                                "h": 1323,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 442,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253573928863313920,
+                        "id_str": "1253573928863313920",
+                        "indices": [
+                            299,
+                            322
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWWW2LmWsAA8Tbn.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWWW2LmWsAA8Tbn.jpg",
+                        "url": "https://t.co/eGTInBtCPn",
+                        "display_url": "pic.twitter.com/eGTInBtCPn",
+                        "expanded_url": "https://twitter.com/ergroovt/status/1253573947175702531/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 780,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2035,
+                                "h": 1323,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 442,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 4,
+        "favorite_count": 23,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FridaysForFuture",
+                    "indices": [
+                        26,
+                        43
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/TKRvDgCh4U",
+                    "expanded_url": "https://twitter.com/i/web/status/1253573947175702531",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "bayern2",
+                    "name": "Bayern 2",
+                    "id": 595551879,
+                    "id_str": "595551879",
+                    "indices": [
+                        74,
+                        82
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1251089604960309248,
+    "quoted_status_id_str": "1251089604960309248",
+    "quoted_status": {
+        "created_at": "Fri Apr 17 10:06:20 +0000 2020",
+        "id": 1251089604960309248,
+        "id_str": "1251089604960309248",
+        "text": "Weil die Klimakrise auch in Zeiten von #Corona keine Pause macht, streiken wir am 24. April gemeinsam online mit… https://t.co/Tx0VqI3Fk4",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1688226782,
+            "id_str": "1688226782",
+            "name": "Fossil Free Deutschland",
+            "screen_name": "FossilFreeDe",
+            "location": null,
+            "url": "http://gofossilfree.org/de",
+            "description": "#FossilFree ist ein Projekt von @350. Weltweit bauen Lokalgruppen eine Welt ohne Kohle, Öl & Gas auf! #Divestment #Divest #Defund #KeepItInTheGround",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 5605,
+            "friends_count": 1209,
+            "listed_count": 129,
+            "favourites_count": 11197,
+            "statuses_count": 9070,
+            "created_at": "Wed Aug 21 12:42:23 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "DB511F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252205546167558150/zn2-v6oI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252205546167558150/zn2-v6oI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688226782/1573121390",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Weil die Klimakrise auch in Zeiten von #Corona keine Pause macht, streiken wir am 24. April gemeinsam online mit @FridayForFuture und fordern eine echte sozial-ökologische Wende. Bist du dabei? ➡️ https://t.co/4f3XY4Y7rI\n#NetzstreikFürsKlima #FightEveryCrisis https://t.co/Fw3656KlsT",
+            "display_text_range": [
+                0,
+                259
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            39,
+                            46
+                        ]
+                    },
+                    {
+                        "text": "NetzstreikFürsKlima",
+                        "indices": [
+                            221,
+                            241
+                        ]
+                    },
+                    {
+                        "text": "FightEveryCrisis",
+                        "indices": [
+                            242,
+                            259
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/4f3XY4Y7rI",
+                        "expanded_url": "http://klima-streik.org",
+                        "display_url": "klima-streik.org",
+                        "indices": [
+                            197,
+                            220
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "FridayForFuture",
+                        "name": "Fridays For Future Germany",
+                        "id": 1072187272815149057,
+                        "id_str": "1072187272815149057",
+                        "indices": [
+                            113,
+                            129
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1251084128126148610,
+                        "id_str": "1251084128126148610",
+                        "indices": [
+                            260,
+                            283
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVy-YtEWoAI0d3a.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVy-YtEWoAI0d3a.jpg",
+                        "url": "https://t.co/Fw3656KlsT",
+                        "display_url": "pic.twitter.com/Fw3656KlsT",
+                        "expanded_url": "https://twitter.com/FossilFreeDe/status/1251089604960309248/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1251084128126148610,
+                        "id_str": "1251084128126148610",
+                        "indices": [
+                            260,
+                            283
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVy-YtEWoAI0d3a.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVy-YtEWoAI0d3a.jpg",
+                        "url": "https://t.co/Fw3656KlsT",
+                        "display_url": "pic.twitter.com/Fw3656KlsT",
+                        "expanded_url": "https://twitter.com/FossilFreeDe/status/1251089604960309248/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 1200,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 2,
+        "reply_count": 4,
+        "retweet_count": 9,
+        "favorite_count": 35,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        39,
+                        46
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Tx0VqI3Fk4",
+                    "expanded_url": "https://twitter.com/i/web/status/1251089604960309248",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        114,
+                        137
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/GwkcjAx98r",
+        "expanded": "https://twitter.com/FossilFreeDe/status/1251089604960309248",
+        "display": "twitter.com/FossilFreeDe/s…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "FridaysForFuture",
+                "indices": [
+                    40,
+                    57
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ergroovt",
+                "name": "DerB(🏡)",
+                "id": 886701763407093760,
+                "id_str": "886701763407093760",
+                "indices": [
+                    3,
+                    12
+                ]
+            },
+            {
+                "screen_name": "bayern2",
+                "name": "Bayern 2",
+                "id": 595551879,
+                "id_str": "595551879",
+                "indices": [
+                    88,
+                    96
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823906979"
+}

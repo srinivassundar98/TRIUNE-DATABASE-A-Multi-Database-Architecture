@@ -1,0 +1,99 @@
+{
+    "created_at": "Sun Apr 12 18:35:09 +0000 2020",
+    "id": 1249405712213540865,
+    "id_str": "1249405712213540865",
+    "text": "@notafanofdonald @owillis We do call it something; COVID 19 an Corona Virus.",
+    "display_text_range": [
+        26,
+        76
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1248980277168242689,
+    "in_reply_to_status_id_str": "1248980277168242689",
+    "in_reply_to_user_id": 806911604868558848,
+    "in_reply_to_user_id_str": "806911604868558848",
+    "in_reply_to_screen_name": "notafanofdonald",
+    "user": {
+        "id": 161016133,
+        "id_str": "161016133",
+        "name": "Olivia Bolden",
+        "screen_name": "boldollie",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 128,
+        "friends_count": 104,
+        "listed_count": 1,
+        "favourites_count": 99065,
+        "statuses_count": 22263,
+        "created_at": "Tue Jun 29 19:20:28 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/822613582785421314/OPUZ_flP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/822613582785421314/OPUZ_flP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/161016133/1484961334",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "notafanofdonald",
+                "name": "Just A Guy",
+                "id": 806911604868558848,
+                "id_str": "806911604868558848",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "owillis",
+                "name": "Oliver Willis",
+                "id": 3497941,
+                "id_str": "3497941",
+                "indices": [
+                    17,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716509284"
+}

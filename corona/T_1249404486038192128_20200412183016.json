@@ -1,0 +1,163 @@
+{
+    "created_at": "Sun Apr 12 18:30:16 +0000 2020",
+    "id": 1249404486038192128,
+    "id_str": "1249404486038192128",
+    "text": "@andreastirez @verbeke_t @brechtdv Waren in Nederland de bedden niet gewoon op? Dan kan je uiteraard niemand opneme… https://t.co/O4Du6Rcoke",
+    "display_text_range": [
+        35,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249362286709522437,
+    "in_reply_to_status_id_str": "1249362286709522437",
+    "in_reply_to_user_id": 149831530,
+    "in_reply_to_user_id_str": "149831530",
+    "in_reply_to_screen_name": "andreastirez",
+    "user": {
+        "id": 925000569303060480,
+        "id_str": "925000569303060480",
+        "name": "Peter Verpoorten",
+        "screen_name": "PeterVerpoorten",
+        "location": "Herentals, België",
+        "url": null,
+        "description": "Trotse papa van 4 kindjes, advocaat, ondernemer, politicus",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 889,
+        "friends_count": 536,
+        "listed_count": 6,
+        "favourites_count": 42033,
+        "statuses_count": 5936,
+        "created_at": "Mon Oct 30 14:04:56 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061937826550419459/HSxpnmmx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061937826550419459/HSxpnmmx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/925000569303060480/1542020627",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@andreastirez @verbeke_t @brechtdv Waren in Nederland de bedden niet gewoon op? Dan kan je uiteraard niemand opnemen. En die 'corona - sterftecijfers' zijn ook gewoon niet te vergelijken, heb ik begrepen. We moeten kijken naar oversterfte om echt te kunnen vergelijken.",
+        "display_text_range": [
+            35,
+            269
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "andreastirez",
+                    "name": "Test-and-Trace",
+                    "id": 149831530,
+                    "id_str": "149831530",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "verbeke_t",
+                    "name": "Tom Verbeke",
+                    "id": 3149303001,
+                    "id_str": "3149303001",
+                    "indices": [
+                        14,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "brechtdv",
+                    "name": "Brecht Devleesschauwer",
+                    "id": 1114553046753792000,
+                    "id_str": "1114553046753792000",
+                    "indices": [
+                        25,
+                        34
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/O4Du6Rcoke",
+                "expanded_url": "https://twitter.com/i/web/status/1249404486038192128",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "andreastirez",
+                "name": "Test-and-Trace",
+                "id": 149831530,
+                "id_str": "149831530",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "verbeke_t",
+                "name": "Tom Verbeke",
+                "id": 3149303001,
+                "id_str": "3149303001",
+                "indices": [
+                    14,
+                    24
+                ]
+            },
+            {
+                "screen_name": "brechtdv",
+                "name": "Brecht Devleesschauwer",
+                "id": 1114553046753792000,
+                "id_str": "1114553046753792000",
+                "indices": [
+                    25,
+                    34
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586716216941"
+}

@@ -1,0 +1,122 @@
+{
+    "created_at": "Sun Apr 12 18:29:07 +0000 2020",
+    "id": 1249404195834396673,
+    "id_str": "1249404195834396673",
+    "text": "@CHVNoticias Respira mientras puedas corrupto reql, terminando el corona te llenamos la plaza nuevamente, fuera la… https://t.co/mgi6jSZLVH",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249356484003205120,
+    "in_reply_to_status_id_str": "1249356484003205120",
+    "in_reply_to_user_id": 51326671,
+    "in_reply_to_user_id_str": "51326671",
+    "in_reply_to_screen_name": "CHVNoticias",
+    "user": {
+        "id": 112475059,
+        "id_str": "112475059",
+        "name": "Luis Fuentes Piña",
+        "screen_name": "RockSalser",
+        "location": "Chile",
+        "url": null,
+        "description": "Rockero y Salsero de corazon.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 13,
+        "friends_count": 26,
+        "listed_count": 0,
+        "favourites_count": 5,
+        "statuses_count": 21,
+        "created_at": "Mon Feb 08 16:47:22 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/683516425/foto_rockera_2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/683516425/foto_rockera_2_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CHVNoticias Respira mientras puedas corrupto reql, terminando el corona te llenamos la plaza nuevamente, fuera la corrupción del gobierno puto.",
+        "display_text_range": [
+            13,
+            144
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CHVNoticias",
+                    "name": "CHV Noticias",
+                    "id": 51326671,
+                    "id_str": "51326671",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/mgi6jSZLVH",
+                "expanded_url": "https://twitter.com/i/web/status/1249404195834396673",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CHVNoticias",
+                "name": "CHV Noticias",
+                "id": 51326671,
+                "id_str": "51326671",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1586716147751"
+}

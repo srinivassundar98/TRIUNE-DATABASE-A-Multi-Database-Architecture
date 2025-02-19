@@ -1,0 +1,888 @@
+{
+    "created_at": "Sat Apr 25 12:52:12 +0000 2020",
+    "id": 1254030450420527104,
+    "id_str": "1254030450420527104",
+    "text": "RT @QUIPZONE7: @LadyChesapeake @WaydeDe @TammyChabot @warrenwarmachi1 @mal1976retaf @GunderzT @Lynn80217236 @TheAkmed @GiboneyDavid @dianne…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 745034624674390017,
+        "id_str": "745034624674390017",
+        "name": "Harold Henshall",
+        "screen_name": "HenshallHarold",
+        "location": "Highlands, TX",
+        "url": null,
+        "description": "🇺🇸Trump 2020 🇺🇸.        MAGA KAG 4 more years Drain the Swamp Build the Wall Never vote for a Democrat",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 11710,
+        "friends_count": 12858,
+        "listed_count": 10,
+        "favourites_count": 11725,
+        "statuses_count": 240899,
+        "created_at": "Mon Jun 20 23:24:31 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/862046105101418496/0i-vSYPF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/862046105101418496/0i-vSYPF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/745034624674390017/1494634154",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 12:38:43 +0000 2020",
+        "id": 1254027054292467712,
+        "id_str": "1254027054292467712",
+        "text": "@LadyChesapeake @WaydeDe @TammyChabot @warrenwarmachi1 @mal1976retaf @GunderzT @Lynn80217236 @TheAkmed… https://t.co/RbpOhYTJpP",
+        "display_text_range": [
+            117,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1254025607932977153,
+        "in_reply_to_status_id_str": "1254025607932977153",
+        "in_reply_to_user_id": 23025131,
+        "in_reply_to_user_id_str": "23025131",
+        "in_reply_to_screen_name": "LadyChesapeake",
+        "user": {
+            "id": 436427452,
+            "id_str": "436427452",
+            "name": "Katos wehttam",
+            "screen_name": "QUIPZONE7",
+            "location": null,
+            "url": null,
+            "description": "Senior,  Trump supporter! NRA MEMBER! CONSTITUTION LOVER!\nOUR RIGHTS WERE NOT GIVEN TO US BY A GOVERNMENT,  THEY WERE GIVEN TO US BY GOD!!",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4596,
+            "friends_count": 5048,
+            "listed_count": 4,
+            "favourites_count": 41573,
+            "statuses_count": 82841,
+            "created_at": "Wed Dec 14 05:12:57 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/415581876724588544/M3ftIris_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/415581876724588544/M3ftIris_normal.jpeg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "737fcb9daae404ac",
+            "url": "https://api.twitter.com/1.1/geo/id/737fcb9daae404ac.json",
+            "place_type": "city",
+            "name": "Boise",
+            "full_name": "Boise, ID",
+            "country_code": "US",
+            "country": "United States",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -116.374494,
+                            43.510172
+                        ],
+                        [
+                            -116.374494,
+                            43.685894
+                        ],
+                        [
+                            -116.101508,
+                            43.685894
+                        ],
+                        [
+                            -116.101508,
+                            43.510172
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@LadyChesapeake @WaydeDe @TammyChabot @warrenwarmachi1 @mal1976retaf @GunderzT @Lynn80217236 @TheAkmed @GiboneyDavid @dianne1h @MSNDeplorable52 @ChipCunningham3 @GelicaAF @_edwardmondini_ @mimirussom @JamesMHalloran1 @Richard4m @AzDerbyGirl @ClwtrBkAtty @lavo323 @RobbySkyKiller @1USMarine4MAGA @Louise49153139 @chimera414 @CWarrior17 @JamesCali3 @whywouldyoulis1 @greekfries @howienudet @WickensBob @praisin7 @Brenro4 @Rabbit70414459 @GiacomoCeraolo @Adorable_Todd @MeShellVaTech @thehawkguardian @PRDDEPLBL0157 @TAwakened1 @tehipisehaka @real_darrin @NoLeftyEsty @William84912647 @jetfan1964 @TheCryptKeepe14 @baldeguy56 @HarrietNix @EliLuca1 @FlashToso @GOPChairwoman I am also old,&amp; treasure every day of life. if you look around at most of AMERICA,this virus is a non event. Wyoming,  8 dead. North Dakota,  18 dead. South Dakota,  9 dead, Idaho 49 dead, Utah, 37 dead. Most of these are not actually corona dearhs. Theyre just labeled as such",
+            "display_text_range": [
+                671,
+                952
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "LadyChesapeake",
+                        "name": "🇺🇸❌Carol Wood❌🇺🇸",
+                        "id": 23025131,
+                        "id_str": "23025131",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "WaydeDe",
+                        "name": "Wayde Delafield",
+                        "id": 48533154,
+                        "id_str": "48533154",
+                        "indices": [
+                            16,
+                            24
+                        ]
+                    },
+                    {
+                        "screen_name": "TammyChabot",
+                        "name": "Tammy M.🇺🇸❤️🇺🇸",
+                        "id": 1052985848336175104,
+                        "id_str": "1052985848336175104",
+                        "indices": [
+                            25,
+                            37
+                        ]
+                    },
+                    {
+                        "screen_name": "warrenwarmachi1",
+                        "name": "Warren C Wainscott",
+                        "id": 714903361242460160,
+                        "id_str": "714903361242460160",
+                        "indices": [
+                            38,
+                            54
+                        ]
+                    },
+                    {
+                        "screen_name": "mal1976retaf",
+                        "name": "mal1976retaf",
+                        "id": 984632317519060992,
+                        "id_str": "984632317519060992",
+                        "indices": [
+                            55,
+                            68
+                        ]
+                    },
+                    {
+                        "screen_name": "GunderzT",
+                        "name": "GunderzThunder",
+                        "id": 1108772204936859648,
+                        "id_str": "1108772204936859648",
+                        "indices": [
+                            69,
+                            78
+                        ]
+                    },
+                    {
+                        "screen_name": "Lynn80217236",
+                        "name": "Lynn",
+                        "id": 1229185611199926273,
+                        "id_str": "1229185611199926273",
+                        "indices": [
+                            79,
+                            92
+                        ]
+                    },
+                    {
+                        "screen_name": "TheAkmed",
+                        "name": "Deplorable Akmed The Engaging Terrorist Cat",
+                        "id": 1054881563874275328,
+                        "id_str": "1054881563874275328",
+                        "indices": [
+                            93,
+                            102
+                        ]
+                    },
+                    {
+                        "screen_name": "GiboneyDavid",
+                        "name": "David Giboney",
+                        "id": 758751597983703040,
+                        "id_str": "758751597983703040",
+                        "indices": [
+                            103,
+                            116
+                        ]
+                    },
+                    {
+                        "screen_name": "dianne1h",
+                        "name": "DianneH",
+                        "id": 1598576042,
+                        "id_str": "1598576042",
+                        "indices": [
+                            117,
+                            126
+                        ]
+                    },
+                    {
+                        "screen_name": "MSNDeplorable52",
+                        "name": "MSNDeplorable52",
+                        "id": 1227667678816604160,
+                        "id_str": "1227667678816604160",
+                        "indices": [
+                            127,
+                            143
+                        ]
+                    },
+                    {
+                        "screen_name": "ChipCunningham3",
+                        "name": "Chip Cunningham",
+                        "id": 1129820523221807105,
+                        "id_str": "1129820523221807105",
+                        "indices": [
+                            144,
+                            160
+                        ]
+                    },
+                    {
+                        "screen_name": "GelicaAF",
+                        "name": "Anna Gelica",
+                        "id": 1151441341861249024,
+                        "id_str": "1151441341861249024",
+                        "indices": [
+                            161,
+                            170
+                        ]
+                    },
+                    {
+                        "screen_name": "_edwardmondini_",
+                        "name": "_edwardmondini_",
+                        "id": 731568881131790336,
+                        "id_str": "731568881131790336",
+                        "indices": [
+                            171,
+                            187
+                        ]
+                    },
+                    {
+                        "screen_name": "mimirussom",
+                        "name": "mimirussom",
+                        "id": 1164740343029518336,
+                        "id_str": "1164740343029518336",
+                        "indices": [
+                            188,
+                            199
+                        ]
+                    },
+                    {
+                        "screen_name": "JamesMHalloran1",
+                        "name": "James M. Halloran",
+                        "id": 1029824095171436545,
+                        "id_str": "1029824095171436545",
+                        "indices": [
+                            200,
+                            216
+                        ]
+                    },
+                    {
+                        "screen_name": "Richard4m",
+                        "name": "❌🇺🇸 Richard M Masliah 🇺🇸❌ B. Sc, LLL. LLB 🇮🇱",
+                        "id": 1337422884,
+                        "id_str": "1337422884",
+                        "indices": [
+                            217,
+                            227
+                        ]
+                    },
+                    {
+                        "screen_name": "AzDerbyGirl",
+                        "name": "Dee",
+                        "id": 1559922674,
+                        "id_str": "1559922674",
+                        "indices": [
+                            228,
+                            240
+                        ]
+                    },
+                    {
+                        "screen_name": "ClwtrBkAtty",
+                        "name": "Carol A Lawson, Esq.",
+                        "id": 27716208,
+                        "id_str": "27716208",
+                        "indices": [
+                            241,
+                            253
+                        ]
+                    },
+                    {
+                        "screen_name": "lavo323",
+                        "name": "velumon",
+                        "id": 2353621128,
+                        "id_str": "2353621128",
+                        "indices": [
+                            254,
+                            262
+                        ]
+                    },
+                    {
+                        "screen_name": "RobbySkyKiller",
+                        "name": "Robby Sky Killer",
+                        "id": 1015812784951459840,
+                        "id_str": "1015812784951459840",
+                        "indices": [
+                            263,
+                            278
+                        ]
+                    },
+                    {
+                        "screen_name": "1USMarine4MAGA",
+                        "name": "^v^ 𝕳𝖆𝖗𝖉𝕮𝖔𝖗𝖊𝕸𝖆𝖗𝖎𝖓𝖊 ^v^",
+                        "id": 2176227350,
+                        "id_str": "2176227350",
+                        "indices": [
+                            279,
+                            294
+                        ]
+                    },
+                    {
+                        "screen_name": "Louise49153139",
+                        "name": "Louise ⭐️⭐️⭐️",
+                        "id": 954193648480145408,
+                        "id_str": "954193648480145408",
+                        "indices": [
+                            295,
+                            310
+                        ]
+                    },
+                    {
+                        "screen_name": "chimera414",
+                        "name": "💧🌿🏝Ross McPherson🐳🐟🐬",
+                        "id": 860412132109697025,
+                        "id_str": "860412132109697025",
+                        "indices": [
+                            311,
+                            322
+                        ]
+                    },
+                    {
+                        "screen_name": "CWarrior17",
+                        "name": "CensorshipWarrior17",
+                        "id": 1213519395776937984,
+                        "id_str": "1213519395776937984",
+                        "indices": [
+                            323,
+                            334
+                        ]
+                    },
+                    {
+                        "screen_name": "JamesCali3",
+                        "name": "Jim❌in❌Cali ⭐⭐⭐",
+                        "id": 797201639795032064,
+                        "id_str": "797201639795032064",
+                        "indices": [
+                            335,
+                            346
+                        ]
+                    },
+                    {
+                        "screen_name": "whywouldyoulis1",
+                        "name": "whywouldyoulistentome",
+                        "id": 1221188816490389504,
+                        "id_str": "1221188816490389504",
+                        "indices": [
+                            347,
+                            363
+                        ]
+                    },
+                    {
+                        "screen_name": "greekfries",
+                        "name": "Nell Fenwick: STAY HOME STAY AWAY 6' 🏁",
+                        "id": 149198227,
+                        "id_str": "149198227",
+                        "indices": [
+                            364,
+                            375
+                        ]
+                    },
+                    {
+                        "screen_name": "howienudet",
+                        "name": "Elevator Man, 🇺🇸☘️🇮🇪🇺🇸",
+                        "id": 916655610741100544,
+                        "id_str": "916655610741100544",
+                        "indices": [
+                            376,
+                            387
+                        ]
+                    },
+                    {
+                        "screen_name": "WickensBob",
+                        "name": "Bob Wickens",
+                        "id": 892744056207536128,
+                        "id_str": "892744056207536128",
+                        "indices": [
+                            388,
+                            399
+                        ]
+                    },
+                    {
+                        "screen_name": "praisin7",
+                        "name": "rawdescipleofchrist",
+                        "id": 198728956,
+                        "id_str": "198728956",
+                        "indices": [
+                            400,
+                            409
+                        ]
+                    },
+                    {
+                        "screen_name": "Brenro4",
+                        "name": "Brenda Wyers Ross ⭐️⭐️⭐️",
+                        "id": 2685226237,
+                        "id_str": "2685226237",
+                        "indices": [
+                            410,
+                            418
+                        ]
+                    },
+                    {
+                        "screen_name": "Rabbit70414459",
+                        "name": "🌴🌺🇺🇸Maui #MAGA Rabbit Trump#45 Locked N’Loaded",
+                        "id": 1157019099060326401,
+                        "id_str": "1157019099060326401",
+                        "indices": [
+                            419,
+                            434
+                        ]
+                    },
+                    {
+                        "screen_name": "GiacomoCeraolo",
+                        "name": "JimmySmalls",
+                        "id": 1081424953403166722,
+                        "id_str": "1081424953403166722",
+                        "indices": [
+                            435,
+                            450
+                        ]
+                    },
+                    {
+                        "screen_name": "Adorable_Todd",
+                        "name": "Adorable Patriot Todd 🇺🇸",
+                        "id": 611052628,
+                        "id_str": "611052628",
+                        "indices": [
+                            451,
+                            465
+                        ]
+                    },
+                    {
+                        "screen_name": "MeShellVaTech",
+                        "name": "Michelle ❤️🇺🇸",
+                        "id": 4032263535,
+                        "id_str": "4032263535",
+                        "indices": [
+                            466,
+                            480
+                        ]
+                    },
+                    {
+                        "screen_name": "thehawkguardian",
+                        "name": "Hawk Guardian",
+                        "id": 797892107977523204,
+                        "id_str": "797892107977523204",
+                        "indices": [
+                            481,
+                            497
+                        ]
+                    },
+                    {
+                        "screen_name": "PRDDEPLBL0157",
+                        "name": "PROUD DEPLORABLE ✝️🙏🏻🇺🇸🔯💥👍🏻☘️",
+                        "id": 824265379337932800,
+                        "id_str": "824265379337932800",
+                        "indices": [
+                            498,
+                            512
+                        ]
+                    },
+                    {
+                        "screen_name": "TAwakened1",
+                        "name": "TheAwakened1",
+                        "id": 1094071769378377728,
+                        "id_str": "1094071769378377728",
+                        "indices": [
+                            513,
+                            524
+                        ]
+                    },
+                    {
+                        "screen_name": "tehipisehaka",
+                        "name": "🇺🇸NotABot Nationalist🇺🇸🇮🇹🇵🇱⭐️⭐️Text TRUMP to 88022",
+                        "id": 2454317240,
+                        "id_str": "2454317240",
+                        "indices": [
+                            525,
+                            538
+                        ]
+                    },
+                    {
+                        "screen_name": "real_darrin",
+                        "name": "Darrin Real",
+                        "id": 839303106714296324,
+                        "id_str": "839303106714296324",
+                        "indices": [
+                            539,
+                            551
+                        ]
+                    },
+                    {
+                        "screen_name": "NoLeftyEsty",
+                        "name": "Stellar MAGA Lady",
+                        "id": 715069165,
+                        "id_str": "715069165",
+                        "indices": [
+                            552,
+                            564
+                        ]
+                    },
+                    {
+                        "screen_name": "William84912647",
+                        "name": "William Joseph",
+                        "id": 788054484593184769,
+                        "id_str": "788054484593184769",
+                        "indices": [
+                            565,
+                            581
+                        ]
+                    },
+                    {
+                        "screen_name": "jetfan1964",
+                        "name": "Hypajet",
+                        "id": 227111459,
+                        "id_str": "227111459",
+                        "indices": [
+                            582,
+                            593
+                        ]
+                    },
+                    {
+                        "screen_name": "TheCryptKeepe14",
+                        "name": "“The Crypt Keeper” Trump#45 LibTurd’s Voting Place",
+                        "id": 1207520207427850240,
+                        "id_str": "1207520207427850240",
+                        "indices": [
+                            594,
+                            610
+                        ]
+                    },
+                    {
+                        "screen_name": "baldeguy56",
+                        "name": "baldeguy56❌",
+                        "id": 134229245,
+                        "id_str": "134229245",
+                        "indices": [
+                            611,
+                            622
+                        ]
+                    },
+                    {
+                        "screen_name": "HarrietNix",
+                        "name": "Harriet Nix, The Egyptian Queen",
+                        "id": 858501829,
+                        "id_str": "858501829",
+                        "indices": [
+                            623,
+                            634
+                        ]
+                    },
+                    {
+                        "screen_name": "EliLuca1",
+                        "name": "D!nah",
+                        "id": 995371118511865856,
+                        "id_str": "995371118511865856",
+                        "indices": [
+                            635,
+                            644
+                        ]
+                    },
+                    {
+                        "screen_name": "FlashToso",
+                        "name": "Michael Toso",
+                        "id": 175150086,
+                        "id_str": "175150086",
+                        "indices": [
+                            645,
+                            655
+                        ]
+                    },
+                    {
+                        "screen_name": "GOPChairwoman",
+                        "name": "Ronna McDaniel",
+                        "id": 2353605901,
+                        "id_str": "2353605901",
+                        "indices": [
+                            656,
+                            670
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/RbpOhYTJpP",
+                    "expanded_url": "https://twitter.com/i/web/status/1254027054292467712",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        104,
+                        127
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "LadyChesapeake",
+                    "name": "🇺🇸❌Carol Wood❌🇺🇸",
+                    "id": 23025131,
+                    "id_str": "23025131",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "WaydeDe",
+                    "name": "Wayde Delafield",
+                    "id": 48533154,
+                    "id_str": "48533154",
+                    "indices": [
+                        16,
+                        24
+                    ]
+                },
+                {
+                    "screen_name": "TammyChabot",
+                    "name": "Tammy M.🇺🇸❤️🇺🇸",
+                    "id": 1052985848336175104,
+                    "id_str": "1052985848336175104",
+                    "indices": [
+                        25,
+                        37
+                    ]
+                },
+                {
+                    "screen_name": "warrenwarmachi1",
+                    "name": "Warren C Wainscott",
+                    "id": 714903361242460160,
+                    "id_str": "714903361242460160",
+                    "indices": [
+                        38,
+                        54
+                    ]
+                },
+                {
+                    "screen_name": "mal1976retaf",
+                    "name": "mal1976retaf",
+                    "id": 984632317519060992,
+                    "id_str": "984632317519060992",
+                    "indices": [
+                        55,
+                        68
+                    ]
+                },
+                {
+                    "screen_name": "GunderzT",
+                    "name": "GunderzThunder",
+                    "id": 1108772204936859648,
+                    "id_str": "1108772204936859648",
+                    "indices": [
+                        69,
+                        78
+                    ]
+                },
+                {
+                    "screen_name": "Lynn80217236",
+                    "name": "Lynn",
+                    "id": 1229185611199926273,
+                    "id_str": "1229185611199926273",
+                    "indices": [
+                        79,
+                        92
+                    ]
+                },
+                {
+                    "screen_name": "TheAkmed",
+                    "name": "Deplorable Akmed The Engaging Terrorist Cat",
+                    "id": 1054881563874275328,
+                    "id_str": "1054881563874275328",
+                    "indices": [
+                        93,
+                        102
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "QUIPZONE7",
+                "name": "Katos wehttam",
+                "id": 436427452,
+                "id_str": "436427452",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "LadyChesapeake",
+                "name": "🇺🇸❌Carol Wood❌🇺🇸",
+                "id": 23025131,
+                "id_str": "23025131",
+                "indices": [
+                    15,
+                    30
+                ]
+            },
+            {
+                "screen_name": "WaydeDe",
+                "name": "Wayde Delafield",
+                "id": 48533154,
+                "id_str": "48533154",
+                "indices": [
+                    31,
+                    39
+                ]
+            },
+            {
+                "screen_name": "TammyChabot",
+                "name": "Tammy M.🇺🇸❤️🇺🇸",
+                "id": 1052985848336175104,
+                "id_str": "1052985848336175104",
+                "indices": [
+                    40,
+                    52
+                ]
+            },
+            {
+                "screen_name": "warrenwarmachi1",
+                "name": "Warren C Wainscott",
+                "id": 714903361242460160,
+                "id_str": "714903361242460160",
+                "indices": [
+                    53,
+                    69
+                ]
+            },
+            {
+                "screen_name": "mal1976retaf",
+                "name": "mal1976retaf",
+                "id": 984632317519060992,
+                "id_str": "984632317519060992",
+                "indices": [
+                    70,
+                    83
+                ]
+            },
+            {
+                "screen_name": "GunderzT",
+                "name": "GunderzThunder",
+                "id": 1108772204936859648,
+                "id_str": "1108772204936859648",
+                "indices": [
+                    84,
+                    93
+                ]
+            },
+            {
+                "screen_name": "Lynn80217236",
+                "name": "Lynn",
+                "id": 1229185611199926273,
+                "id_str": "1229185611199926273",
+                "indices": [
+                    94,
+                    107
+                ]
+            },
+            {
+                "screen_name": "TheAkmed",
+                "name": "Deplorable Akmed The Engaging Terrorist Cat",
+                "id": 1054881563874275328,
+                "id_str": "1054881563874275328",
+                "indices": [
+                    108,
+                    117
+                ]
+            },
+            {
+                "screen_name": "GiboneyDavid",
+                "name": "David Giboney",
+                "id": 758751597983703040,
+                "id_str": "758751597983703040",
+                "indices": [
+                    118,
+                    131
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819132796"
+}

@@ -1,0 +1,153 @@
+{
+    "created_at": "Sat Apr 25 12:21:58 +0000 2020",
+    "id": 1254022840417804288,
+    "id_str": "1254022840417804288",
+    "text": "@sanofi @GSK Colgate plax a good hygeinic solution to clean mouth among corona virus and other possible solutions a… https://t.co/tm91yfEcKy",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1250038414797426689,
+    "in_reply_to_status_id_str": "1250038414797426689",
+    "in_reply_to_user_id": 35846368,
+    "in_reply_to_user_id_str": "35846368",
+    "in_reply_to_screen_name": "sanofi",
+    "user": {
+        "id": 952226761797984257,
+        "id_str": "952226761797984257",
+        "name": "the man",
+        "screen_name": "theman55254601",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 23,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 26,
+        "created_at": "Sat Jan 13 17:12:06 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@sanofi @GSK Colgate plax a good hygeinic solution to clean mouth among corona virus and other possible solutions as in this video, we are just looking for any authority, company to conduct research on some hygeininc solutions of covid 19, video link https://t.co/S3id7hrlba",
+        "display_text_range": [
+            13,
+            274
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/S3id7hrlba",
+                    "expanded_url": "https://youtu.be/9st14uTtqKg",
+                    "display_url": "youtu.be/9st14uTtqKg",
+                    "indices": [
+                        251,
+                        274
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "sanofi",
+                    "name": "Sanofi",
+                    "id": 35846368,
+                    "id_str": "35846368",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "GSK",
+                    "name": "GSK",
+                    "id": 5383942,
+                    "id_str": "5383942",
+                    "indices": [
+                        8,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/tm91yfEcKy",
+                "expanded_url": "https://twitter.com/i/web/status/1254022840417804288",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "sanofi",
+                "name": "Sanofi",
+                "id": 35846368,
+                "id_str": "35846368",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "GSK",
+                "name": "GSK",
+                "id": 5383942,
+                "id_str": "5383942",
+                "indices": [
+                    8,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817318430"
+}

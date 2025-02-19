@@ -1,0 +1,131 @@
+{
+    "created_at": "Sat Apr 25 13:01:14 +0000 2020",
+    "id": 1254032721548136449,
+    "id_str": "1254032721548136449",
+    "text": "@manusiarandom4 @mwv_mystic Tp krn corona tahanan kan pd dilepasin lagi",
+    "display_text_range": [
+        28,
+        71
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254031190752808962,
+    "in_reply_to_status_id_str": "1254031190752808962",
+    "in_reply_to_user_id": 1246417655268954112,
+    "in_reply_to_user_id_str": "1246417655268954112",
+    "in_reply_to_screen_name": "manusiarandom4",
+    "user": {
+        "id": 53322619,
+        "id_str": "53322619",
+        "name": "r. goestama",
+        "screen_name": "SayaBukanSiwon",
+        "location": "Jakarta",
+        "url": null,
+        "description": "A half pohon toge",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 277,
+        "friends_count": 488,
+        "listed_count": 2,
+        "favourites_count": 2309,
+        "statuses_count": 11661,
+        "created_at": "Fri Jul 03 07:19:43 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "4312E6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "9B3ED1",
+        "profile_sidebar_border_color": "090736",
+        "profile_sidebar_fill_color": "36D1D1",
+        "profile_text_color": "577DF0",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244202861321314304/sR9TfjZh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244202861321314304/sR9TfjZh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53322619/1486094830",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "741a800e40e6f5e0",
+        "url": "https://api.twitter.com/1.1/geo/id/741a800e40e6f5e0.json",
+        "place_type": "city",
+        "name": "Duren Sawit",
+        "full_name": "Duren Sawit, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.898751,
+                        -6.2634
+                    ],
+                    [
+                        106.898751,
+                        -6.214895
+                    ],
+                    [
+                        106.965919,
+                        -6.214895
+                    ],
+                    [
+                        106.965919,
+                        -6.2634
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "manusiarandom4",
+                "name": "manusia random",
+                "id": 1246417655268954112,
+                "id_str": "1246417655268954112",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "mwv_mystic",
+                "name": "mwv.mystic",
+                "id": 1179451804280479744,
+                "id_str": "1179451804280479744",
+                "indices": [
+                    16,
+                    27
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819674275"
+}

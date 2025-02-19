@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 13:36:59 +0000 2020",
+    "id": 1254041720058150914,
+    "id_str": "1254041720058150914",
+    "text": "@worriedviking @EUDeplorable Kjøpte dette i februar som sikkerhet dersom Corona skulle vise seg å være livstruende… https://t.co/zf8dEExTOK",
+    "display_text_range": [
+        29,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253815191038504961,
+    "in_reply_to_status_id_str": "1253815191038504961",
+    "in_reply_to_user_id": 966074454425194496,
+    "in_reply_to_user_id_str": "966074454425194496",
+    "in_reply_to_screen_name": "worriedviking",
+    "user": {
+        "id": 866892602293051392,
+        "id_str": "866892602293051392",
+        "name": "RGT",
+        "screen_name": "RTeofanovic",
+        "location": null,
+        "url": "http://website.com",
+        "description": "🙂",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 32,
+        "friends_count": 270,
+        "listed_count": 0,
+        "favourites_count": 566,
+        "statuses_count": 189,
+        "created_at": "Tue May 23 05:44:37 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1077211969441148928/KGXMCX0A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077211969441148928/KGXMCX0A_normal.jpg",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@worriedviking @EUDeplorable Kjøpte dette i februar som sikkerhet dersom Corona skulle vise seg å være livstruende (lol nå i ettertid). \nKan ikke avsløre hvordan det ble tatt inn i landet, men det lar seg få tak i...\nButikken: https://t.co/Io4pY3tYRS\nInfo: https://t.co/KNPSotlfwu",
+        "display_text_range": [
+            29,
+            280
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Io4pY3tYRS",
+                    "expanded_url": "http://www.mmsaustralia.com.au/",
+                    "display_url": "mmsaustralia.com.au",
+                    "indices": [
+                        227,
+                        250
+                    ]
+                },
+                {
+                    "url": "https://t.co/KNPSotlfwu",
+                    "expanded_url": "https://jimhumble.co/",
+                    "display_url": "jimhumble.co",
+                    "indices": [
+                        257,
+                        280
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "worriedviking",
+                    "name": "NorwegianViking",
+                    "id": 966074454425194496,
+                    "id_str": "966074454425194496",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "EUDeplorable",
+                    "name": "Lilith aka EU Deplorable",
+                    "id": 970274718547836928,
+                    "id_str": "970274718547836928",
+                    "indices": [
+                        15,
+                        28
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/zf8dEExTOK",
+                "expanded_url": "https://twitter.com/i/web/status/1254041720058150914",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "worriedviking",
+                "name": "NorwegianViking",
+                "id": 966074454425194496,
+                "id_str": "966074454425194496",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "EUDeplorable",
+                "name": "Lilith aka EU Deplorable",
+                "id": 970274718547836928,
+                "id_str": "970274718547836928",
+                "indices": [
+                    15,
+                    28
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "no",
+    "timestamp_ms": "1587821819687"
+}

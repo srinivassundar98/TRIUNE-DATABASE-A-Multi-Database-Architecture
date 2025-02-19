@@ -1,0 +1,132 @@
+{
+    "created_at": "Sat Apr 25 14:25:18 +0000 2020",
+    "id": 1254053877839802371,
+    "id_str": "1254053877839802371",
+    "text": "@KFCBarstool Yes let’s make fun of all the people who have lost loved ones due to Corona.  I’m sure your pal… https://t.co/2s9JgVVK1l",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254052807134588928,
+    "in_reply_to_status_id_str": "1254052807134588928",
+    "in_reply_to_user_id": 119758732,
+    "in_reply_to_user_id_str": "119758732",
+    "in_reply_to_screen_name": "KFCBarstool",
+    "user": {
+        "id": 1239372389600972801,
+        "id_str": "1239372389600972801",
+        "name": "Jerry Silver",
+        "screen_name": "Jumbo5124",
+        "location": null,
+        "url": null,
+        "description": "Since I am going to be roasting all of your teams, it’s only fair I pledge my allegiance’s.  JETS, YANKEES, RANGERS, KNICKS.  Now let’s get it!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 9,
+        "friends_count": 337,
+        "listed_count": 0,
+        "favourites_count": 13,
+        "statuses_count": 515,
+        "created_at": "Mon Mar 16 02:06:30 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239372493405773826/PI-RizeD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239372493405773826/PI-RizeD_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@KFCBarstool Yes let’s make fun of all the people who have lost loved ones due to Corona.  I’m sure your pal @Jared_Carrabis finds this HYSTERICAL!",
+        "display_text_range": [
+            13,
+            147
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KFCBarstool",
+                    "name": "KFC",
+                    "id": 119758732,
+                    "id_str": "119758732",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "Jared_Carrabis",
+                    "name": "Jared Carrabis",
+                    "id": 59345386,
+                    "id_str": "59345386",
+                    "indices": [
+                        109,
+                        124
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/2s9JgVVK1l",
+                "expanded_url": "https://twitter.com/i/web/status/1254053877839802371",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    110,
+                    133
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "KFCBarstool",
+                "name": "KFC",
+                "id": 119758732,
+                "id_str": "119758732",
+                "indices": [
+                    0,
+                    12
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587824718328"
+}

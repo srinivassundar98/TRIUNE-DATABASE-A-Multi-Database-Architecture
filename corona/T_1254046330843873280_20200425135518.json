@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:55:18 +0000 2020",
+    "id": 1254046330843873280,
+    "id_str": "1254046330843873280",
+    "text": "ihh siapa coba yang mau corona, siapa yang mau skripsinya kehambat, siapaaa gaada anjirr https://t.co/2bSE11cMgC",
+    "display_text_range": [
+        0,
+        88
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1242641308004438016,
+        "id_str": "1242641308004438016",
+        "name": "sasya 🌙",
+        "screen_name": "plumprada",
+        "location": "@ purrsteaal ‘s alter ego",
+        "url": null,
+        "description": "please look for some ice tea before me",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 522,
+        "friends_count": 507,
+        "listed_count": 0,
+        "favourites_count": 60,
+        "statuses_count": 1485,
+        "created_at": "Wed Mar 25 02:35:56 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253559904847065089/ZB6Bpah7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253559904847065089/ZB6Bpah7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242641308004438016/1587232063",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254046315614359552,
+                "id_str": "1254046315614359552",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdEetYU0AAZAXi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdEetYU0AAZAXi.jpg",
+                "url": "https://t.co/2bSE11cMgC",
+                "display_url": "pic.twitter.com/2bSE11cMgC",
+                "expanded_url": "https://twitter.com/plumprada/status/1254046330843873280/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 749,
+                        "h": 808,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 749,
+                        "h": 808,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 630,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254046315614359552,
+                "id_str": "1254046315614359552",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdEetYU0AAZAXi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdEetYU0AAZAXi.jpg",
+                "url": "https://t.co/2bSE11cMgC",
+                "display_url": "pic.twitter.com/2bSE11cMgC",
+                "expanded_url": "https://twitter.com/plumprada/status/1254046330843873280/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 749,
+                        "h": 808,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 749,
+                        "h": 808,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 630,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587822918984"
+}

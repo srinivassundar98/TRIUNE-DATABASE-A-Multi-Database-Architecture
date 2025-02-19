@@ -1,0 +1,152 @@
+{
+    "created_at": "Sat Apr 25 13:13:36 +0000 2020",
+    "id": 1254035835235602433,
+    "id_str": "1254035835235602433",
+    "text": "*IKUTI NGAJI ONLINE*\n\nRamadhan telah tiba...mari  perbanyak ibadah untuk mendapat Ridho-Nya...\nJangan tinggalkan ma… https://t.co/xE0KGb5tH5",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1121972888041484288,
+        "id_str": "1121972888041484288",
+        "name": "Masjid Al Akbar Surabaya",
+        "screen_name": "masjid_alakbar",
+        "location": "Kota Surabaya, Jawa Timur",
+        "url": "https://masjidalakbar.or.id",
+        "description": "Masjid Nasional Al Akbar ialah masjid terbesar kedua di Indonesia | Jl. Masjid Al-Akbar Utara No.1| Wa 08139292912 | IG @masjidalakbarsurabaya",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 106,
+        "friends_count": 31,
+        "listed_count": 3,
+        "favourites_count": 6,
+        "statuses_count": 484,
+        "created_at": "Sat Apr 27 03:02:36 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121973308222689281/TWTirFel_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121973308222689281/TWTirFel_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1121972888041484288/1556704544",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            -7.33668381,
+            112.71560133
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            112.71560133,
+            -7.33668381
+        ]
+    },
+    "place": {
+        "id": "d39b7595359017a6",
+        "url": "https://api.twitter.com/1.1/geo/id/d39b7595359017a6.json",
+        "place_type": "city",
+        "name": "Jambangan",
+        "full_name": "Jambangan, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        112.706483,
+                        -7.344615
+                    ],
+                    [
+                        112.706483,
+                        -7.307313
+                    ],
+                    [
+                        112.727734,
+                        -7.307313
+                    ],
+                    [
+                        112.727734,
+                        -7.344615
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "*IKUTI NGAJI ONLINE*\n\nRamadhan telah tiba...mari  perbanyak ibadah untuk mendapat Ridho-Nya...\nJangan tinggalkan majelis ilmu hanya gara-gara Wabah Corona... Masjid Nasional Al Akbar Surabaya hadir memberikan solusi… https://t.co/Y2s94M0XLO",
+        "display_text_range": [
+            0,
+            240
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Y2s94M0XLO",
+                    "expanded_url": "https://www.instagram.com/p/B_Z7U-sp42l/?igshid=tf0p894n2vt3",
+                    "display_url": "instagram.com/p/B_Z7U-sp42l/…",
+                    "indices": [
+                        217,
+                        240
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/xE0KGb5tH5",
+                "expanded_url": "https://twitter.com/i/web/status/1254035835235602433",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587820416636"
+}

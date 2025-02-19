@@ -1,0 +1,434 @@
+{
+    "created_at": "Sat Apr 25 13:19:20 +0000 2020",
+    "id": 1254037276461498368,
+    "id_str": "1254037276461498368",
+    "text": "@iamda_saint opinion on the effects of Corona Virus\n.\nFollow @abuja_gist\n#explore #bbnaijaupdate #bbnaija… https://t.co/o2ZL0Zf25x",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 540332717,
+    "in_reply_to_user_id_str": "540332717",
+    "in_reply_to_screen_name": "iamda_saint",
+    "user": {
+        "id": 1156173643573055491,
+        "id_str": "1156173643573055491",
+        "name": "AbujaGist",
+        "screen_name": "abuja_gist",
+        "location": "Abuja, Nigeria",
+        "url": null,
+        "description": "Happenings in Abuja Be it #Events #People #Places #Brands Identification & much more !!! Dm us your picture to get featured Contact us for Hype",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 195,
+        "friends_count": 291,
+        "listed_count": 0,
+        "favourites_count": 1500,
+        "statuses_count": 381,
+        "created_at": "Tue Jul 30 12:04:12 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1156174627808395264/Wnd36Akm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156174627808395264/Wnd36Akm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156173643573055491/1570451206",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "00e55e2b4c491c5f",
+        "url": "https://api.twitter.com/1.1/geo/id/00e55e2b4c491c5f.json",
+        "place_type": "city",
+        "name": "Abuja",
+        "full_name": "Abuja, Nigeria",
+        "country_code": "NG",
+        "country": "Nigeria",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        7.304554,
+                        8.961887
+                    ],
+                    [
+                        7.304554,
+                        9.185441
+                    ],
+                    [
+                        7.543634,
+                        9.185441
+                    ],
+                    [
+                        7.543634,
+                        8.961887
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@iamda_saint opinion on the effects of Corona Virus\n.\nFollow @abuja_gist\n#explore #bbnaijaupdate #bbnaija #funnyafricanvideos #funnyvid #funnyafricanvideos #funnyvid #funnyisfunny #funnyvideosdaily #brodashaggi #stayathome #socialdistancing #selfisolation #abujagist #abuja_gist https://t.co/J05GhtsaDy",
+        "display_text_range": [
+            0,
+            278
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "explore",
+                    "indices": [
+                        73,
+                        81
+                    ]
+                },
+                {
+                    "text": "bbnaijaupdate",
+                    "indices": [
+                        82,
+                        96
+                    ]
+                },
+                {
+                    "text": "bbnaija",
+                    "indices": [
+                        97,
+                        105
+                    ]
+                },
+                {
+                    "text": "funnyafricanvideos",
+                    "indices": [
+                        106,
+                        125
+                    ]
+                },
+                {
+                    "text": "funnyvid",
+                    "indices": [
+                        126,
+                        135
+                    ]
+                },
+                {
+                    "text": "funnyafricanvideos",
+                    "indices": [
+                        136,
+                        155
+                    ]
+                },
+                {
+                    "text": "funnyvid",
+                    "indices": [
+                        156,
+                        165
+                    ]
+                },
+                {
+                    "text": "funnyisfunny",
+                    "indices": [
+                        166,
+                        179
+                    ]
+                },
+                {
+                    "text": "funnyvideosdaily",
+                    "indices": [
+                        180,
+                        197
+                    ]
+                },
+                {
+                    "text": "brodashaggi",
+                    "indices": [
+                        198,
+                        210
+                    ]
+                },
+                {
+                    "text": "stayathome",
+                    "indices": [
+                        211,
+                        222
+                    ]
+                },
+                {
+                    "text": "socialdistancing",
+                    "indices": [
+                        223,
+                        240
+                    ]
+                },
+                {
+                    "text": "selfisolation",
+                    "indices": [
+                        241,
+                        255
+                    ]
+                },
+                {
+                    "text": "abujagist",
+                    "indices": [
+                        256,
+                        266
+                    ]
+                },
+                {
+                    "text": "abuja_gist",
+                    "indices": [
+                        267,
+                        278
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "iamda_saint",
+                    "name": "Mc Da Saint",
+                    "id": 540332717,
+                    "id_str": "540332717",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "abuja_gist",
+                    "name": "AbujaGist",
+                    "id": 1156173643573055491,
+                    "id_str": "1156173643573055491",
+                    "indices": [
+                        61,
+                        72
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254036961372917761,
+                    "id_str": "1254036961372917761",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254036961372917761/pu/img/oqqlR1ZDKz9pOYx_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254036961372917761/pu/img/oqqlR1ZDKz9pOYx_.jpg",
+                    "url": "https://t.co/J05GhtsaDy",
+                    "display_url": "pic.twitter.com/J05GhtsaDy",
+                    "expanded_url": "https://twitter.com/abuja_gist/status/1254037276461498368/video/1",
+                    "type": "video",
+                    "video_info": {
+                        "aspect_ratio": [
+                            20,
+                            11
+                        ],
+                        "duration_millis": 119980,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1254036961372917761/pu/vid/640x352/0u3UJBvCKAw0nHcx.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1254036961372917761/pu/vid/490x270/atcJFCBjoB2lflaq.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1254036961372917761/pu/pl/HhH7RbDWv5M7xNEe.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254036961372917761,
+                    "id_str": "1254036961372917761",
+                    "indices": [
+                        279,
+                        302
+                    ],
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1254036961372917761/pu/img/oqqlR1ZDKz9pOYx_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1254036961372917761/pu/img/oqqlR1ZDKz9pOYx_.jpg",
+                    "url": "https://t.co/J05GhtsaDy",
+                    "display_url": "pic.twitter.com/J05GhtsaDy",
+                    "expanded_url": "https://twitter.com/abuja_gist/status/1254037276461498368/video/1",
+                    "type": "video",
+                    "video_info": {
+                        "aspect_ratio": [
+                            20,
+                            11
+                        ],
+                        "duration_millis": 119980,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1254036961372917761/pu/vid/640x352/0u3UJBvCKAw0nHcx.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1254036961372917761/pu/vid/490x270/atcJFCBjoB2lflaq.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1254036961372917761/pu/pl/HhH7RbDWv5M7xNEe.m3u8?tag=10"
+                            }
+                        ]
+                    },
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 352,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "explore",
+                "indices": [
+                    73,
+                    81
+                ]
+            },
+            {
+                "text": "bbnaijaupdate",
+                "indices": [
+                    82,
+                    96
+                ]
+            },
+            {
+                "text": "bbnaija",
+                "indices": [
+                    97,
+                    105
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/o2ZL0Zf25x",
+                "expanded_url": "https://twitter.com/i/web/status/1254037276461498368",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    107,
+                    130
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "iamda_saint",
+                "name": "Mc Da Saint",
+                "id": 540332717,
+                "id_str": "540332717",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "abuja_gist",
+                "name": "AbujaGist",
+                "id": 1156173643573055491,
+                "id_str": "1156173643573055491",
+                "indices": [
+                    61,
+                    72
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820760251"
+}

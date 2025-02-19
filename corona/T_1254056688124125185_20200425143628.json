@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 14:36:28 +0000 2020",
+    "id": 1254056688124125185,
+    "id_str": "1254056688124125185",
+    "text": "@lazzer__ @hassebath Men var det läge för ”Corona-undantag” eftersom ingen kunde gå upp?",
+    "display_text_range": [
+        21,
+        88
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254051185121808385,
+    "in_reply_to_status_id_str": "1254051185121808385",
+    "in_reply_to_user_id": 306935101,
+    "in_reply_to_user_id_str": "306935101",
+    "in_reply_to_screen_name": "lazzer__",
+    "user": {
+        "id": 745988624,
+        "id_str": "745988624",
+        "name": "Jens Henriksson",
+        "screen_name": "SuperJenkki",
+        "location": "Umeå",
+        "url": "http://idrottshistoria.blogspot.com",
+        "description": "Finlandssvensk kvaddad akademiker som lever i exil i Umeå sedan 10 år. Håller på Björklöven! Twittrar mest om Sport, men även om Populärkultur och lite annat.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 88,
+        "friends_count": 709,
+        "listed_count": 3,
+        "favourites_count": 1210,
+        "statuses_count": 2346,
+        "created_at": "Wed Aug 08 21:37:14 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3122903264/697bbe020a41e455d2b8999a7c5a2ada_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3122903264/697bbe020a41e455d2b8999a7c5a2ada_normal.jpeg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "lazzer__",
+                "name": "Mattias",
+                "id": 306935101,
+                "id_str": "306935101",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "hassebath",
+                "name": "Hasse Båth",
+                "id": 371795997,
+                "id_str": "371795997",
+                "indices": [
+                    10,
+                    20
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1587825388352"
+}

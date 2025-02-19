@@ -1,0 +1,879 @@
+{
+    "created_at": "Sat Apr 25 13:49:53 +0000 2020",
+    "id": 1254044965048549376,
+    "id_str": "1254044965048549376",
+    "text": "RT @Earthfriend21: @BillenGisela Absolut. Siehe auch https://t.co/dXcGXWNxsH",
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3128919813,
+        "id_str": "3128919813",
+        "name": "Cat in Chief",
+        "screen_name": "CatInChief",
+        "location": "Ruhrpott",
+        "url": null,
+        "description": "#refugeeswelcome Communitymasken: http://team-othman.jimdosite.com Keine Maskenfragen nach 20 Uhr und am WE bitte!",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2507,
+        "friends_count": 783,
+        "listed_count": 105,
+        "favourites_count": 111314,
+        "statuses_count": 151588,
+        "created_at": "Mon Mar 30 13:02:11 +0000 2015",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585124717725671424/lXPAm1tH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585124717725671424/lXPAm1tH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3128919813/1470937671",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 19:29:34 +0000 2020",
+        "id": 1253768062781833227,
+        "id_str": "1253768062781833227",
+        "text": "@BillenGisela Absolut. Siehe auch https://t.co/dXcGXWNxsH",
+        "display_text_range": [
+            14,
+            57
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1253764249077387265,
+        "in_reply_to_status_id_str": "1253764249077387265",
+        "in_reply_to_user_id": 1154409297851428865,
+        "in_reply_to_user_id_str": "1154409297851428865",
+        "in_reply_to_screen_name": "BillenGisela",
+        "user": {
+            "id": 249620286,
+            "id_str": "249620286",
+            "name": "🌈Rainbow-Warrior21☯️",
+            "screen_name": "Earthfriend21",
+            "location": "Im wilden Süden ;-) !",
+            "url": "http://www.baden.gegen-stuttgart-21.de",
+            "description": "Undogmatisch-autonomer Freidenker, Humanist & GG-Fan 🙂No #S21 No Nazis. Vielseitig interessiert. Gern ähnlich vernetzt💞 😉#DasNetzwerk #ReconquistaInternet",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1254,
+            "friends_count": 3442,
+            "listed_count": 33,
+            "favourites_count": 41919,
+            "statuses_count": 45898,
+            "created_at": "Wed Feb 09 12:40:36 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1234922429379743745/NwsUXJpP_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234922429379743745/NwsUXJpP_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/249620286/1357552805",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "9a660de8cd0ae00d",
+            "url": "https://api.twitter.com/1.1/geo/id/9a660de8cd0ae00d.json",
+            "place_type": "admin",
+            "name": "Karlsruhe",
+            "full_name": "Karlsruhe, Baden-Württemberg",
+            "country_code": "DE",
+            "country": "Deutschland",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.258406,
+                            48.812218
+                        ],
+                        [
+                            8.258406,
+                            49.290148
+                        ],
+                        [
+                            8.894391,
+                            49.290148
+                        ],
+                        [
+                            8.894391,
+                            48.812218
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253332487440265216,
+        "quoted_status_id_str": "1253332487440265216",
+        "quoted_status": {
+            "created_at": "Thu Apr 23 14:38:45 +0000 2020",
+            "id": 1253332487440265216,
+            "id_str": "1253332487440265216",
+            "text": "Dank fleißiger Expert*innen von @lobbycontrol können wir uns tiefer m. d. Frage befassen : @ArminLaschet s #Corona-… https://t.co/GgUTfINu8W",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 249620286,
+                "id_str": "249620286",
+                "name": "🌈Rainbow-Warrior21☯️",
+                "screen_name": "Earthfriend21",
+                "location": "Im wilden Süden ;-) !",
+                "url": "http://www.baden.gegen-stuttgart-21.de",
+                "description": "Undogmatisch-autonomer Freidenker, Humanist & GG-Fan 🙂No #S21 No Nazis. Vielseitig interessiert. Gern ähnlich vernetzt💞 😉#DasNetzwerk #ReconquistaInternet",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 1254,
+                "friends_count": 3442,
+                "listed_count": 33,
+                "favourites_count": 41919,
+                "statuses_count": 45898,
+                "created_at": "Wed Feb 09 12:40:36 +0000 2011",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1234922429379743745/NwsUXJpP_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234922429379743745/NwsUXJpP_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/249620286/1357552805",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "9a660de8cd0ae00d",
+                "url": "https://api.twitter.com/1.1/geo/id/9a660de8cd0ae00d.json",
+                "place_type": "admin",
+                "name": "Karlsruhe",
+                "full_name": "Karlsruhe, Baden-Württemberg",
+                "country_code": "DE",
+                "country": "Deutschland",
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                8.258406,
+                                48.812218
+                            ],
+                            [
+                                8.258406,
+                                49.290148
+                            ],
+                            [
+                                8.894391,
+                                49.290148
+                            ],
+                            [
+                                8.894391,
+                                48.812218
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "quoted_status_id": 1253042428220710913,
+            "quoted_status_id_str": "1253042428220710913",
+            "is_quote_status": true,
+            "extended_tweet": {
+                "full_text": "Dank fleißiger Expert*innen von @lobbycontrol können wir uns tiefer m. d. Frage befassen : @ArminLaschet s #Corona-Rat: Sind Parteispenden \"Trumpf\"? 🤔\n(Passt auch zum #Thread von @BerlinVic 👍😉 https://t.co/jYq7DEjEbV ) \n\"Expertenräte\" in d. #Coronakrise https://t.co/bclZworcN5 https://t.co/kmeF56WcId",
+                "display_text_range": [
+                    0,
+                    277
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Corona",
+                            "indices": [
+                                107,
+                                114
+                            ]
+                        },
+                        {
+                            "text": "Thread",
+                            "indices": [
+                                167,
+                                174
+                            ]
+                        },
+                        {
+                            "text": "Coronakrise",
+                            "indices": [
+                                241,
+                                253
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/jYq7DEjEbV",
+                            "expanded_url": "https://twitter.com/BerlinVic/status/1253042428220710913",
+                            "display_url": "twitter.com/BerlinVic/stat…",
+                            "indices": [
+                                193,
+                                216
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/bclZworcN5",
+                            "expanded_url": "https://www.lobbycontrol.de/2020/04/expertenraete-in-der-coronakrise/",
+                            "display_url": "lobbycontrol.de/2020/04/expert…",
+                            "indices": [
+                                254,
+                                277
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "lobbycontrol",
+                            "name": "LobbyControl",
+                            "id": 38444282,
+                            "id_str": "38444282",
+                            "indices": [
+                                32,
+                                45
+                            ]
+                        },
+                        {
+                            "screen_name": "ArminLaschet",
+                            "name": "Armin Laschet",
+                            "id": 835541664,
+                            "id_str": "835541664",
+                            "indices": [
+                                91,
+                                104
+                            ]
+                        },
+                        {
+                            "screen_name": "BerlinVic",
+                            "name": "Vic",
+                            "id": 1151940365718609920,
+                            "id_str": "1151940365718609920",
+                            "indices": [
+                                179,
+                                189
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1253331738979258369,
+                            "id_str": "1253331738979258369",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWS6k3-U0AEN40F.png",
+                            "media_url_https": "https://pbs.twimg.com/media/EWS6k3-U0AEN40F.png",
+                            "url": "https://t.co/kmeF56WcId",
+                            "display_url": "pic.twitter.com/kmeF56WcId",
+                            "expanded_url": "https://twitter.com/Earthfriend21/status/1253332487440265216/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 536,
+                                    "h": 282,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 536,
+                                    "h": 282,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 536,
+                                    "h": 282,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1253331738979258369,
+                            "id_str": "1253331738979258369",
+                            "indices": [
+                                278,
+                                301
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EWS6k3-U0AEN40F.png",
+                            "media_url_https": "https://pbs.twimg.com/media/EWS6k3-U0AEN40F.png",
+                            "url": "https://t.co/kmeF56WcId",
+                            "display_url": "pic.twitter.com/kmeF56WcId",
+                            "expanded_url": "https://twitter.com/Earthfriend21/status/1253332487440265216/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 536,
+                                    "h": 282,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 536,
+                                    "h": 282,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 536,
+                                    "h": 282,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 9,
+            "favorite_count": 7,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            107,
+                            114
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/GgUTfINu8W",
+                        "expanded_url": "https://twitter.com/i/web/status/1253332487440265216",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "lobbycontrol",
+                        "name": "LobbyControl",
+                        "id": 38444282,
+                        "id_str": "38444282",
+                        "indices": [
+                            32,
+                            45
+                        ]
+                    },
+                    {
+                        "screen_name": "ArminLaschet",
+                        "name": "Armin Laschet",
+                        "id": 835541664,
+                        "id_str": "835541664",
+                        "indices": [
+                            91,
+                            104
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/dXcGXWNxsH",
+            "expanded": "https://twitter.com/Earthfriend21/status/1253332487440265216",
+            "display": "twitter.com/Earthfriend21/…"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 3,
+        "favorite_count": 7,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dXcGXWNxsH",
+                    "expanded_url": "https://twitter.com/Earthfriend21/status/1253332487440265216",
+                    "display_url": "twitter.com/Earthfriend21/…",
+                    "indices": [
+                        34,
+                        57
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "BillenGisela",
+                    "name": "Gisela Billen",
+                    "id": 1154409297851428865,
+                    "id_str": "1154409297851428865",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1253332487440265216,
+    "quoted_status_id_str": "1253332487440265216",
+    "quoted_status": {
+        "created_at": "Thu Apr 23 14:38:45 +0000 2020",
+        "id": 1253332487440265216,
+        "id_str": "1253332487440265216",
+        "text": "Dank fleißiger Expert*innen von @lobbycontrol können wir uns tiefer m. d. Frage befassen : @ArminLaschet s #Corona-… https://t.co/GgUTfINu8W",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 249620286,
+            "id_str": "249620286",
+            "name": "🌈Rainbow-Warrior21☯️",
+            "screen_name": "Earthfriend21",
+            "location": "Im wilden Süden ;-) !",
+            "url": "http://www.baden.gegen-stuttgart-21.de",
+            "description": "Undogmatisch-autonomer Freidenker, Humanist & GG-Fan 🙂No #S21 No Nazis. Vielseitig interessiert. Gern ähnlich vernetzt💞 😉#DasNetzwerk #ReconquistaInternet",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1254,
+            "friends_count": 3442,
+            "listed_count": 33,
+            "favourites_count": 41919,
+            "statuses_count": 45898,
+            "created_at": "Wed Feb 09 12:40:36 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1234922429379743745/NwsUXJpP_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234922429379743745/NwsUXJpP_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/249620286/1357552805",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "9a660de8cd0ae00d",
+            "url": "https://api.twitter.com/1.1/geo/id/9a660de8cd0ae00d.json",
+            "place_type": "admin",
+            "name": "Karlsruhe",
+            "full_name": "Karlsruhe, Baden-Württemberg",
+            "country_code": "DE",
+            "country": "Deutschland",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            8.258406,
+                            48.812218
+                        ],
+                        [
+                            8.258406,
+                            49.290148
+                        ],
+                        [
+                            8.894391,
+                            49.290148
+                        ],
+                        [
+                            8.894391,
+                            48.812218
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1253042428220710913,
+        "quoted_status_id_str": "1253042428220710913",
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Dank fleißiger Expert*innen von @lobbycontrol können wir uns tiefer m. d. Frage befassen : @ArminLaschet s #Corona-Rat: Sind Parteispenden \"Trumpf\"? 🤔\n(Passt auch zum #Thread von @BerlinVic 👍😉 https://t.co/jYq7DEjEbV ) \n\"Expertenräte\" in d. #Coronakrise https://t.co/bclZworcN5 https://t.co/kmeF56WcId",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Corona",
+                        "indices": [
+                            107,
+                            114
+                        ]
+                    },
+                    {
+                        "text": "Thread",
+                        "indices": [
+                            167,
+                            174
+                        ]
+                    },
+                    {
+                        "text": "Coronakrise",
+                        "indices": [
+                            241,
+                            253
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/jYq7DEjEbV",
+                        "expanded_url": "https://twitter.com/BerlinVic/status/1253042428220710913",
+                        "display_url": "twitter.com/BerlinVic/stat…",
+                        "indices": [
+                            193,
+                            216
+                        ]
+                    },
+                    {
+                        "url": "https://t.co/bclZworcN5",
+                        "expanded_url": "https://www.lobbycontrol.de/2020/04/expertenraete-in-der-coronakrise/",
+                        "display_url": "lobbycontrol.de/2020/04/expert…",
+                        "indices": [
+                            254,
+                            277
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "lobbycontrol",
+                        "name": "LobbyControl",
+                        "id": 38444282,
+                        "id_str": "38444282",
+                        "indices": [
+                            32,
+                            45
+                        ]
+                    },
+                    {
+                        "screen_name": "ArminLaschet",
+                        "name": "Armin Laschet",
+                        "id": 835541664,
+                        "id_str": "835541664",
+                        "indices": [
+                            91,
+                            104
+                        ]
+                    },
+                    {
+                        "screen_name": "BerlinVic",
+                        "name": "Vic",
+                        "id": 1151940365718609920,
+                        "id_str": "1151940365718609920",
+                        "indices": [
+                            179,
+                            189
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253331738979258369,
+                        "id_str": "1253331738979258369",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWS6k3-U0AEN40F.png",
+                        "media_url_https": "https://pbs.twimg.com/media/EWS6k3-U0AEN40F.png",
+                        "url": "https://t.co/kmeF56WcId",
+                        "display_url": "pic.twitter.com/kmeF56WcId",
+                        "expanded_url": "https://twitter.com/Earthfriend21/status/1253332487440265216/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 536,
+                                "h": 282,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 536,
+                                "h": 282,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 536,
+                                "h": 282,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253331738979258369,
+                        "id_str": "1253331738979258369",
+                        "indices": [
+                            278,
+                            301
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWS6k3-U0AEN40F.png",
+                        "media_url_https": "https://pbs.twimg.com/media/EWS6k3-U0AEN40F.png",
+                        "url": "https://t.co/kmeF56WcId",
+                        "display_url": "pic.twitter.com/kmeF56WcId",
+                        "expanded_url": "https://twitter.com/Earthfriend21/status/1253332487440265216/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 536,
+                                "h": 282,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 536,
+                                "h": 282,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 536,
+                                "h": 282,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 9,
+        "favorite_count": 7,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        107,
+                        114
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/GgUTfINu8W",
+                    "expanded_url": "https://twitter.com/i/web/status/1253332487440265216",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "lobbycontrol",
+                    "name": "LobbyControl",
+                    "id": 38444282,
+                    "id_str": "38444282",
+                    "indices": [
+                        32,
+                        45
+                    ]
+                },
+                {
+                    "screen_name": "ArminLaschet",
+                    "name": "Armin Laschet",
+                    "id": 835541664,
+                    "id_str": "835541664",
+                    "indices": [
+                        91,
+                        104
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/dXcGXWNxsH",
+        "expanded": "https://twitter.com/Earthfriend21/status/1253332487440265216",
+        "display": "twitter.com/Earthfriend21/…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/dXcGXWNxsH",
+                "expanded_url": "https://twitter.com/Earthfriend21/status/1253332487440265216",
+                "display_url": "twitter.com/Earthfriend21/…",
+                "indices": [
+                    53,
+                    76
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Earthfriend21",
+                "name": "🌈Rainbow-Warrior21☯️",
+                "id": 249620286,
+                "id_str": "249620286",
+                "indices": [
+                    3,
+                    17
+                ]
+            },
+            {
+                "screen_name": "BillenGisela",
+                "name": "Gisela Billen",
+                "id": 1154409297851428865,
+                "id_str": "1154409297851428865",
+                "indices": [
+                    19,
+                    32
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822593353"
+}

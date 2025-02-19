@@ -1,0 +1,98 @@
+{
+    "created_at": "Sun Apr 12 18:28:45 +0000 2020",
+    "id": 1249404100493684741,
+    "id_str": "1249404100493684741",
+    "text": "@MeganMsschln @Mariem_Idr die is duidelijk getroffen door Corona",
+    "display_text_range": [
+        14,
+        64
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249331916953866245,
+    "in_reply_to_status_id_str": "1249331916953866245",
+    "in_reply_to_user_id": 881812068663529473,
+    "in_reply_to_user_id_str": "881812068663529473",
+    "in_reply_to_screen_name": "MeganMsschln",
+    "user": {
+        "id": 823639353167646722,
+        "id_str": "823639353167646722",
+        "name": "l'inconnu 🇲🇦",
+        "screen_name": "7xmxhxjj",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 38,
+        "friends_count": 43,
+        "listed_count": 0,
+        "favourites_count": 27,
+        "statuses_count": 4,
+        "created_at": "Mon Jan 23 21:11:39 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1163445289652502528/8UVR1g_r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163445289652502528/8UVR1g_r_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "MeganMsschln",
+                "name": "Marc Van Ranst fan acc",
+                "id": 881812068663529473,
+                "id_str": "881812068663529473",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "Mariem_Idr",
+                "name": "Mariem",
+                "id": 4849395297,
+                "id_str": "4849395297",
+                "indices": [
+                    14,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586716125020"
+}

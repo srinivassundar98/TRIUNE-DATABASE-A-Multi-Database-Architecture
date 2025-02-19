@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:06:21 +0000 2020",
+    "id": 1254034010658893826,
+    "id_str": "1254034010658893826",
+    "text": "@jrt64 Som Obamas stabschef sagde: \"Man skal aldrig lade en god krise gå til spilde\". Og de politiske udnævnelser i… https://t.co/IRDRsKtS8V",
+    "display_text_range": [
+        7,
+        140
+    ],
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253962164311920640,
+    "in_reply_to_status_id_str": "1253962164311920640",
+    "in_reply_to_user_id": 17121611,
+    "in_reply_to_user_id_str": "17121611",
+    "in_reply_to_screen_name": "jrt64",
+    "user": {
+        "id": 160474020,
+        "id_str": "160474020",
+        "name": "Christian Staerk",
+        "screen_name": "cstaerk",
+        "location": "Copenhagen",
+        "url": "http://www.strong.dk",
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 54,
+        "friends_count": 94,
+        "listed_count": 0,
+        "favourites_count": 68,
+        "statuses_count": 186,
+        "created_at": "Mon Jun 28 07:57:09 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1871927596/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1871927596/image_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/160474020/1408352319",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@jrt64 Som Obamas stabschef sagde: \"Man skal aldrig lade en god krise gå til spilde\". Og de politiske udnævnelser i embedsapparatet, centralisering i Statsministeriet osv. osv. begyndte endda inden Corona. Der er i den grad grund til at være på vagt.",
+        "display_text_range": [
+            7,
+            250
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jrt64",
+                    "name": "Jørgen Thyme",
+                    "id": 17121611,
+                    "id_str": "17121611",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/IRDRsKtS8V",
+                "expanded_url": "https://twitter.com/i/web/status/1254034010658893826",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jrt64",
+                "name": "Jørgen Thyme",
+                "id": 17121611,
+                "id_str": "17121611",
+                "indices": [
+                    0,
+                    6
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "da",
+    "timestamp_ms": "1587819981623"
+}

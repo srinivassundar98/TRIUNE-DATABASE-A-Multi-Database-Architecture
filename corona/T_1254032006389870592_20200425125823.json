@@ -1,0 +1,93 @@
+{
+    "created_at": "Sat Apr 25 12:58:23 +0000 2020",
+    "id": 1254032006389870592,
+    "id_str": "1254032006389870592",
+    "text": "RIVM: dodental #corona stijgt met 120 naar 4409 https://t.co/3NF1rn2ZgX",
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 250572576,
+        "id_str": "250572576",
+        "name": "Hollanda Haberler",
+        "screen_name": "turkinfo",
+        "location": "The Netherlands",
+        "url": "http://www.turkinfo.nl",
+        "description": "Hollanda Türk Toplumu / Turken in Nederland... Türkçe Haber / Turks nieuws",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3775,
+        "friends_count": 1190,
+        "listed_count": 15,
+        "favourites_count": 136,
+        "statuses_count": 28530,
+        "created_at": "Fri Feb 11 10:57:41 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241974982/iphone_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241974982/iphone_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/250572576/1353102762",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "corona",
+                "indices": [
+                    15,
+                    22
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/3NF1rn2ZgX",
+                "expanded_url": "https://ift.tt/2znyVSG",
+                "display_url": "ift.tt/2znyVSG",
+                "indices": [
+                    48,
+                    71
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587819503768"
+}

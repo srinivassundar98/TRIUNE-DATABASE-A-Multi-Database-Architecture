@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:28:01 +0000 2020",
+    "id": 1254054561788149761,
+    "id_str": "1254054561788149761",
+    "text": "@kateg_Imperativ @florianaigner Darf ich das einrahmen? \n\n*** Corona ist in spätestens 2 Jahren vergessen. ***",
+    "display_text_range": [
+        32,
+        110
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254054239799840773,
+    "in_reply_to_status_id_str": "1254054239799840773",
+    "in_reply_to_user_id": 1883462918,
+    "in_reply_to_user_id_str": "1883462918",
+    "in_reply_to_screen_name": "kateg_Imperativ",
+    "user": {
+        "id": 210493889,
+        "id_str": "210493889",
+        "name": "Channel Austria 🌏",
+        "screen_name": "medienkontrolle",
+        "location": "Austria ",
+        "url": null,
+        "description": "FOLLOW IF HUMAN",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 554,
+        "friends_count": 2430,
+        "listed_count": 22,
+        "favourites_count": 8727,
+        "statuses_count": 15278,
+        "created_at": "Sun Oct 31 15:30:19 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1206519770637643776/OB7Z-BjN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1206519770637643776/OB7Z-BjN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/210493889/1587198273",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "kateg_Imperativ",
+                "name": "Kategor_Imperativ",
+                "id": 1883462918,
+                "id_str": "1883462918",
+                "indices": [
+                    0,
+                    16
+                ]
+            },
+            {
+                "screen_name": "florianaigner",
+                "name": "Florian Aigner",
+                "id": 433607851,
+                "id_str": "433607851",
+                "indices": [
+                    17,
+                    31
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824881394"
+}

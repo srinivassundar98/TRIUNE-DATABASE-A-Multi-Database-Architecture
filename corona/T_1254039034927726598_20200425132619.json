@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:26:19 +0000 2020",
+    "id": 1254039034927726598,
+    "id_str": "1254039034927726598",
+    "text": "@grace_ashe I started on corona, coors light &amp; rockshore they’re v easy to drink I drink heaaaaaps of them now",
+    "display_text_range": [
+        12,
+        114
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253987891220529152,
+    "in_reply_to_status_id_str": "1253987891220529152",
+    "in_reply_to_user_id": 430201309,
+    "in_reply_to_user_id_str": "430201309",
+    "in_reply_to_screen_name": "grace_ashe",
+    "user": {
+        "id": 763055535948169216,
+        "id_str": "763055535948169216",
+        "name": "its yo gurl clare 👽",
+        "screen_name": "clarebrownn_",
+        "location": "Dublin City, Ireland",
+        "url": "http://Instagram.com/clarebrownn_",
+        "description": "𝐂𝐋𝐀𝐑𝐄 𝐈𝐒𝐀𝐁𝐄𝐋𝐋𝐀 𝐁𝐑𝐎𝐖𝐍 🥀",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3354,
+        "friends_count": 660,
+        "listed_count": 1,
+        "favourites_count": 21739,
+        "statuses_count": 6474,
+        "created_at": "Tue Aug 09 16:53:11 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250152283159101440/EFyX9cCV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250152283159101440/EFyX9cCV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/763055535948169216/1578494944",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -6.387438,
+                        53.298745
+                    ],
+                    [
+                        -6.387438,
+                        53.41106
+                    ],
+                    [
+                        -6.107805,
+                        53.41106
+                    ],
+                    [
+                        -6.107805,
+                        53.298745
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "grace_ashe",
+                "name": "Grace Ashe",
+                "id": 430201309,
+                "id_str": "430201309",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587821179502"
+}

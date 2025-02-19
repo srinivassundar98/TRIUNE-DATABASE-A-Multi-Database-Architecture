@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun Apr 12 18:37:54 +0000 2020",
+    "id": 1249406405569679360,
+    "id_str": "1249406405569679360",
+    "text": "@dighyodiss Gabolee, kan corona",
+    "display_text_range": [
+        12,
+        31
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249405474899820544,
+    "in_reply_to_status_id_str": "1249405474899820544",
+    "in_reply_to_user_id": 1130076042847109120,
+    "in_reply_to_user_id_str": "1130076042847109120",
+    "in_reply_to_screen_name": "dighyodiss",
+    "user": {
+        "id": 1356760268,
+        "id_str": "1356760268",
+        "name": "Irma Fitriani",
+        "screen_name": "fitrianiirmaa",
+        "location": "Daerah Istimewa Yogyakarta",
+        "url": null,
+        "description": "Ig/fitrianiirma ||\n\nManagement, Faculty of Economics and Business UGM",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 666,
+        "friends_count": 269,
+        "listed_count": 3,
+        "favourites_count": 935,
+        "statuses_count": 55697,
+        "created_at": "Tue Apr 16 12:26:32 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C5DFEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "F50C0C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123560533129482240/qecBhOL1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123560533129482240/qecBhOL1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356760268/1435890158",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "985d2f4ed1a2b7ef",
+        "url": "https://api.twitter.com/1.1/geo/id/985d2f4ed1a2b7ef.json",
+        "place_type": "city",
+        "name": "Kalasan",
+        "full_name": "Kalasan, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        110.43971,
+                        -7.785058
+                    ],
+                    [
+                        110.43971,
+                        -7.703707
+                    ],
+                    [
+                        110.490705,
+                        -7.703707
+                    ],
+                    [
+                        110.490705,
+                        -7.785058
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "dighyodiss",
+                "name": "Atlet Tidur",
+                "id": 1130076042847109120,
+                "id_str": "1130076042847109120",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1586716674593"
+}

@@ -1,0 +1,153 @@
+{
+    "created_at": "Sat Apr 25 13:52:22 +0000 2020",
+    "id": 1254045589089681409,
+    "id_str": "1254045589089681409",
+    "text": "#Google und #Apple stärken #Datenschutz bei #Plattform für #Corona-Apps\n\nhttps://t.co/KlyQfIxC2w",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 19064185,
+        "id_str": "19064185",
+        "name": "Michael Voß",
+        "screen_name": "michael_voss",
+        "location": "Leipzig, Deutschland",
+        "url": "http://www.michael-voss.de",
+        "description": "Journalist und Christ |  Meinungen und Meldungen | Digitales und Analoges u.a. bei @MDRaktuell | Impressum: http://michael-voss.eu/impressum/",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 976,
+        "friends_count": 2507,
+        "listed_count": 79,
+        "favourites_count": 324,
+        "statuses_count": 34266,
+        "created_at": "Fri Jan 16 12:28:31 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232909130249199616/Ki-rn8fG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232909130249199616/Ki-rn8fG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19064185/1559679113",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5eefdd08491a1c89",
+        "url": "https://api.twitter.com/1.1/geo/id/5eefdd08491a1c89.json",
+        "place_type": "city",
+        "name": "Leipzig",
+        "full_name": "Leipzig, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        12.229826,
+                        51.238024
+                    ],
+                    [
+                        12.229826,
+                        51.445007
+                    ],
+                    [
+                        12.543579,
+                        51.445007
+                    ],
+                    [
+                        12.543579,
+                        51.238024
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Google",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "text": "Apple",
+                "indices": [
+                    12,
+                    18
+                ]
+            },
+            {
+                "text": "Datenschutz",
+                "indices": [
+                    27,
+                    39
+                ]
+            },
+            {
+                "text": "Plattform",
+                "indices": [
+                    44,
+                    54
+                ]
+            },
+            {
+                "text": "Corona",
+                "indices": [
+                    59,
+                    66
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/KlyQfIxC2w",
+                "expanded_url": "https://www.spiegel.de/netzwelt/apps/corona-eindaemmung-google-und-apple-staerken-datenschutz-bei-plattform-fuer-tracing-apps-a-8efca303-b3db-49ec-8425-1814db05931d?sara_ecid=soci_upd_wbMbjhOSvViISjc8RPU89NcCvtlFcJ",
+                "display_url": "spiegel.de/netzwelt/apps/…",
+                "indices": [
+                    73,
+                    96
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822742136"
+}

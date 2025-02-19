@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 14:11:36 +0000 2020",
+    "id": 1254050432130994176,
+    "id_str": "1254050432130994176",
+    "text": "@RadiumHoxcy @juvvct @Conflits_FR C'est faux. Le MERS Corona s'attaquait au système sanguin, digestif, rénal &amp; immu… https://t.co/37SYpXnjFs",
+    "display_text_range": [
+        34,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254033527655600130,
+    "in_reply_to_status_id_str": "1254033527655600130",
+    "in_reply_to_user_id": 1162051959454613504,
+    "in_reply_to_user_id_str": "1162051959454613504",
+    "in_reply_to_screen_name": "RadiumHoxcy",
+    "user": {
+        "id": 944944041225084928,
+        "id_str": "944944041225084928",
+        "name": "Cellofrag",
+        "screen_name": "Cellofrag",
+        "location": "France",
+        "url": "https://www.youtube.com/c/Cellofrag",
+        "description": "Guild Wars 2 Player & Cellist, Youtuber.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 7139,
+        "friends_count": 2281,
+        "listed_count": 3,
+        "favourites_count": 394,
+        "statuses_count": 540,
+        "created_at": "Sun Dec 24 14:53:10 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1083993854032912386/W84jue9w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083993854032912386/W84jue9w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/944944041225084928/1549201467",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@RadiumHoxcy @juvvct @Conflits_FR C'est faux. Le MERS Corona s'attaquait au système sanguin, digestif, rénal &amp; immunitaire, et avec un taux de létalité de 33%, contre 0,5% pour le COVID19.\n Quand on connait pas on raconte pas n'importe quoi.",
+        "display_text_range": [
+            34,
+            245
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "RadiumHoxcy",
+                    "name": "Hoxcy",
+                    "id": 1162051959454613504,
+                    "id_str": "1162051959454613504",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "juvvct",
+                    "name": "Juvvct",
+                    "id": 997184353653460992,
+                    "id_str": "997184353653460992",
+                    "indices": [
+                        13,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "Conflits_FR",
+                    "name": "Conflits",
+                    "id": 1214315619031478272,
+                    "id_str": "1214315619031478272",
+                    "indices": [
+                        21,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/37SYpXnjFs",
+                "expanded_url": "https://twitter.com/i/web/status/1254050432130994176",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "RadiumHoxcy",
+                "name": "Hoxcy",
+                "id": 1162051959454613504,
+                "id_str": "1162051959454613504",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "juvvct",
+                "name": "Juvvct",
+                "id": 997184353653460992,
+                "id_str": "997184353653460992",
+                "indices": [
+                    13,
+                    20
+                ]
+            },
+            {
+                "screen_name": "Conflits_FR",
+                "name": "Conflits",
+                "id": 1214315619031478272,
+                "id_str": "1214315619031478272",
+                "indices": [
+                    21,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587823896807"
+}

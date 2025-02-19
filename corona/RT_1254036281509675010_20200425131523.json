@@ -1,0 +1,382 @@
+{
+    "created_at": "Sat Apr 25 13:15:23 +0000 2020",
+    "id": 1254036281509675010,
+    "id_str": "1254036281509675010",
+    "text": "RT @AyalaniMaendra: #RamadanMubarak #DKJNEWS \n\nBreaking news Desh Ki Jagir\n\nThe Corona virus has killed 25,549 people in Italy so far @Gius…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1250244503861989382,
+        "id_str": "1250244503861989382",
+        "name": "Desh Ki Jagir News",
+        "screen_name": "JagirKi",
+        "location": "Rajkot, India",
+        "url": null,
+        "description": "desh ki jagir news pepar news today news channle",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 8,
+        "friends_count": 2,
+        "listed_count": 0,
+        "favourites_count": 393,
+        "statuses_count": 208,
+        "created_at": "Wed Apr 15 02:08:23 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250244950836400128/8gpFhsnI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250244950836400128/8gpFhsnI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250244503861989382/1586916622",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Fri Apr 24 21:06:22 +0000 2020",
+        "id": 1253792421353345026,
+        "id_str": "1253792421353345026",
+        "text": "#RamadanMubarak #DKJNEWS \n\nBreaking news Desh Ki Jagir\n\nThe Corona virus has killed 25,549 people in Italy so far… https://t.co/AL2mdCed7D",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1246533103918538753,
+            "id_str": "1246533103918538753",
+            "name": "Mahendra ayalani",
+            "screen_name": "AyalaniMaendra",
+            "location": "Rajkot, India",
+            "url": null,
+            "description": "Managing Editor..Desh Ki Jagir News Pepar... journalist news today news chennle",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 178,
+            "friends_count": 55,
+            "listed_count": 0,
+            "favourites_count": 2818,
+            "statuses_count": 3857,
+            "created_at": "Sat Apr 04 20:20:35 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246535734674067456/3i6YPu4U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246535734674067456/3i6YPu4U_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246533103918538753/1586903021",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "427c27cd45726e87",
+            "url": "https://api.twitter.com/1.1/geo/id/427c27cd45726e87.json",
+            "place_type": "city",
+            "name": "Rajkot",
+            "full_name": "Rajkot, India",
+            "country_code": "IN",
+            "country": "India",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            70.694641,
+                            22.04699
+                        ],
+                        [
+                            70.694641,
+                            22.477865
+                        ],
+                        [
+                            71.097384,
+                            22.477865
+                        ],
+                        [
+                            71.097384,
+                            22.04699
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#RamadanMubarak #DKJNEWS \n\nBreaking news Desh Ki Jagir\n\nThe Corona virus has killed 25,549 people in Italy so far @GiuseppeConteIT\n@eucopresident\n@CharlesMichel\n@SOPHIEWILMES\n\nManagement editor\nmahendra ayalani https://t.co/DXliveJGb4",
+            "display_text_range": [
+                0,
+                210
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "RamadanMubarak",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    },
+                    {
+                        "text": "DKJNEWS",
+                        "indices": [
+                            16,
+                            24
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "GiuseppeConteIT",
+                        "name": "Giuseppe Conte",
+                        "id": 999578121123848192,
+                        "id_str": "999578121123848192",
+                        "indices": [
+                            114,
+                            130
+                        ]
+                    },
+                    {
+                        "screen_name": "eucopresident",
+                        "name": "Charles Michel",
+                        "id": 196994616,
+                        "id_str": "196994616",
+                        "indices": [
+                            131,
+                            145
+                        ]
+                    },
+                    {
+                        "screen_name": "CharlesMichel",
+                        "name": "Charles Michel",
+                        "id": 98639150,
+                        "id_str": "98639150",
+                        "indices": [
+                            146,
+                            160
+                        ]
+                    },
+                    {
+                        "screen_name": "SOPHIEWILMES",
+                        "name": "SOPHIE WILMES",
+                        "id": 515369562,
+                        "id_str": "515369562",
+                        "indices": [
+                            161,
+                            174
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253792408808181762,
+                        "id_str": "1253792408808181762",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWZdjY0X0AInGPt.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWZdjY0X0AInGPt.jpg",
+                        "url": "https://t.co/DXliveJGb4",
+                        "display_url": "pic.twitter.com/DXliveJGb4",
+                        "expanded_url": "https://twitter.com/AyalaniMaendra/status/1253792421353345026/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 796,
+                                "h": 724,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 796,
+                                "h": 724,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 618,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253792408808181762,
+                        "id_str": "1253792408808181762",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWZdjY0X0AInGPt.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWZdjY0X0AInGPt.jpg",
+                        "url": "https://t.co/DXliveJGb4",
+                        "display_url": "pic.twitter.com/DXliveJGb4",
+                        "expanded_url": "https://twitter.com/AyalaniMaendra/status/1253792421353345026/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 796,
+                                "h": 724,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 796,
+                                "h": 724,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 618,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "RamadanMubarak",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "text": "DKJNEWS",
+                    "indices": [
+                        16,
+                        24
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/AL2mdCed7D",
+                    "expanded_url": "https://twitter.com/i/web/status/1253792421353345026",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "RamadanMubarak",
+                "indices": [
+                    20,
+                    35
+                ]
+            },
+            {
+                "text": "DKJNEWS",
+                "indices": [
+                    36,
+                    44
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "AyalaniMaendra",
+                "name": "Mahendra ayalani",
+                "id": 1246533103918538753,
+                "id_str": "1246533103918538753",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587820523036"
+}

@@ -1,0 +1,207 @@
+{
+    "created_at": "Sat Apr 25 13:03:26 +0000 2020",
+    "id": 1254033277960273920,
+    "id_str": "1254033277960273920",
+    "text": "@aiims_jodhpur से निवेदन है कल शाम को एक #Corona मरीज वहा admit है  पुष्करणा ब्राह्मण होने की वजह से प्याज लहसुन वा… https://t.co/gEb697nSwa",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1240945376208666625,
+    "in_reply_to_user_id_str": "1240945376208666625",
+    "in_reply_to_screen_name": "aiims_jodhpur",
+    "user": {
+        "id": 79144294,
+        "id_str": "79144294",
+        "name": "🇮🇳🚩 देवेन्द्र पुरोहित 🚩🇮🇳",
+        "screen_name": "Dev4Nation",
+        "location": "Jodhpur, India",
+        "url": null,
+        "description": "स्वयं सेवक @ राष्ट्रीय स्वयंसेवक संघ\nHypernationalist  Nation First",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 434,
+        "friends_count": 1801,
+        "listed_count": 0,
+        "favourites_count": 24943,
+        "statuses_count": 4218,
+        "created_at": "Fri Oct 02 10:05:54 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1169593337386422275/2fnSHUS2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1169593337386422275/2fnSHUS2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79144294/1427275654",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "4093957f0fab11d6",
+        "url": "https://api.twitter.com/1.1/geo/id/4093957f0fab11d6.json",
+        "place_type": "city",
+        "name": "Jodhpur",
+        "full_name": "Jodhpur, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        72.610097,
+                        25.852856
+                    ],
+                    [
+                        72.610097,
+                        26.49437
+                    ],
+                    [
+                        73.452475,
+                        26.49437
+                    ],
+                    [
+                        73.452475,
+                        25.852856
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@aiims_jodhpur से निवेदन है कल शाम को एक #Corona मरीज वहा admit है  पुष्करणा ब्राह्मण होने की वजह से प्याज लहसुन वाला खाना नही खा सकता है इसलिए वहकल से भूखा है अस्पताल प्रशासन ने अभी तक कोई व्यवस्था नहीं की है उचित व्यवस्था करे \n@gssjodhpur @GSOjhaBJP @Igp_Jodhpur @JodhpurPcr",
+        "display_text_range": [
+            0,
+            276
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        41,
+                        48
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "aiims_jodhpur",
+                    "name": "AIIMSJodhpur",
+                    "id": 1240945376208666625,
+                    "id_str": "1240945376208666625",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "gssjodhpur",
+                    "name": "Gajendra Singh Shekhawat",
+                    "id": 2371536685,
+                    "id_str": "2371536685",
+                    "indices": [
+                        229,
+                        240
+                    ]
+                },
+                {
+                    "screen_name": "GSOjhaBJP",
+                    "name": "Ghanshyam Ojha",
+                    "id": 3107935845,
+                    "id_str": "3107935845",
+                    "indices": [
+                        241,
+                        251
+                    ]
+                },
+                {
+                    "screen_name": "Igp_Jodhpur",
+                    "name": "Jodhpur Range Police",
+                    "id": 882469945950339073,
+                    "id_str": "882469945950339073",
+                    "indices": [
+                        252,
+                        264
+                    ]
+                },
+                {
+                    "screen_name": "JodhpurPcr",
+                    "name": "Jodhpur Police",
+                    "id": 1002516190181277696,
+                    "id_str": "1002516190181277696",
+                    "indices": [
+                        265,
+                        276
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    41,
+                    48
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/gEb697nSwa",
+                "expanded_url": "https://twitter.com/i/web/status/1254033277960273920",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "aiims_jodhpur",
+                "name": "AIIMSJodhpur",
+                "id": 1240945376208666625,
+                "id_str": "1240945376208666625",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587819806934"
+}

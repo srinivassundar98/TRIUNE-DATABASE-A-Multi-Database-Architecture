@@ -1,0 +1,621 @@
+{
+    "created_at": "Sun Apr 12 18:29:53 +0000 2020",
+    "id": 1249404389745442817,
+    "id_str": "1249404389745442817",
+    "text": "RT @JackMarsman: Waarom in godsnaam denken die debielen bij de #Rijksoverheid toch altijd dat alle NL'se gezinnen bestaan uit een donkere m…",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1248144058062712833,
+        "id_str": "1248144058062712833",
+        "name": "Veltman.A",
+        "screen_name": "VeltmanA1",
+        "location": "West Friesland.",
+        "url": null,
+        "description": "Ras Patriot. 🇳🇱🇳🇮 Veel pro's & veel anti's twittert voornamelijk op gevoel.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 59,
+        "friends_count": 141,
+        "listed_count": 0,
+        "favourites_count": 72,
+        "statuses_count": 37,
+        "created_at": "Thu Apr 09 07:02:18 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248171871113076738/PH-Xp1EV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248171871113076738/PH-Xp1EV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248144058062712833/1586422535",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 09:45:07 +0000 2020",
+        "id": 1249272326237159424,
+        "id_str": "1249272326237159424",
+        "text": "Waarom in godsnaam denken die debielen bij de #Rijksoverheid toch altijd dat alle NL'se gezinnen bestaan uit een do… https://t.co/6PIBhPcTcP",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1187136625,
+            "id_str": "1187136625",
+            "name": "Jack Marsman 🚜",
+            "screen_name": "JackMarsman",
+            "location": "Sint-Petersburg, Rusland",
+            "url": null,
+            "description": "Onafhankelijk, ongenuanceerd, altijd op zoek naar de waarheid. Tweet in English, Dutch, Spanish, Italian and Russian. I love Russia & Novorossiya !!",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4475,
+            "friends_count": 3043,
+            "listed_count": 306,
+            "favourites_count": 245234,
+            "statuses_count": 342553,
+            "created_at": "Sat Feb 16 18:55:41 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/523836814432296960/BY7PA4Pp_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/523836814432296960/BY7PA4Pp_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1187136625/1490795150",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1249230531969064961,
+        "quoted_status_id_str": "1249230531969064961",
+        "quoted_status": {
+            "created_at": "Sun Apr 12 06:59:03 +0000 2020",
+            "id": 1249230531969064961,
+            "id_str": "1249230531969064961",
+            "text": "Dit jaar schuiven we digitaal bij elkaar aan voor een lekker paasmaal. Want alleen samen krijgen we corona onder co… https://t.co/MjhE0SULlL",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 11082502,
+                "id_str": "11082502",
+                "name": "Ministerie IenW",
+                "screen_name": "MinIenW",
+                "location": "Den Haag, Nederland",
+                "url": "http://rijksoverheid.nl/ministeries/ienw",
+                "description": "Vragen over het coronavirus? Bezoek http://Rijksoverheid.nl/coronavirus of bel 0800-1351 | Officieel account ministerie van Infrastructuur en Waterstaat",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 44629,
+                "friends_count": 178,
+                "listed_count": 588,
+                "favourites_count": 1686,
+                "statuses_count": 8384,
+                "created_at": "Wed Dec 12 10:09:26 +0000 2007",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "046F96",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "007BC7",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DEEFF6",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/495182208420704257/Zbzz4JvM_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/495182208420704257/Zbzz4JvM_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/11082502/1585130557",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Dit jaar schuiven we digitaal bij elkaar aan voor een lekker paasmaal. Want alleen samen krijgen we corona onder controle. Fijne #paasdagen! 🐣🐰 #AlleenSamen #HouVol https://t.co/YQF0xGxPTd",
+                "display_text_range": [
+                    0,
+                    164
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "paasdagen",
+                            "indices": [
+                                129,
+                                139
+                            ]
+                        },
+                        {
+                            "text": "AlleenSamen",
+                            "indices": [
+                                144,
+                                156
+                            ]
+                        },
+                        {
+                            "text": "HouVol",
+                            "indices": [
+                                157,
+                                164
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1249230526982037504,
+                            "id_str": "1249230526982037504",
+                            "indices": [
+                                165,
+                                188
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVYoi6tWoAABpTl.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVYoi6tWoAABpTl.jpg",
+                            "url": "https://t.co/YQF0xGxPTd",
+                            "display_url": "pic.twitter.com/YQF0xGxPTd",
+                            "expanded_url": "https://twitter.com/MinIenW/status/1249230531969064961/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1920,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1249230526982037504,
+                            "id_str": "1249230526982037504",
+                            "indices": [
+                                165,
+                                188
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EVYoi6tWoAABpTl.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EVYoi6tWoAABpTl.jpg",
+                            "url": "https://t.co/YQF0xGxPTd",
+                            "display_url": "pic.twitter.com/YQF0xGxPTd",
+                            "expanded_url": "https://twitter.com/MinIenW/status/1249230531969064961/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1920,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 33,
+            "reply_count": 74,
+            "retweet_count": 8,
+            "favorite_count": 22,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/MjhE0SULlL",
+                        "expanded_url": "https://twitter.com/i/web/status/1249230531969064961",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/vfoe8GP3zl",
+            "expanded": "https://twitter.com/MinIenW/status/1249230531969064961",
+            "display": "twitter.com/MinIenW/status…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Waarom in godsnaam denken die debielen bij de #Rijksoverheid toch altijd dat alle NL'se gezinnen bestaan uit een donkere man en een blanke vrouw ????",
+            "display_text_range": [
+                0,
+                149
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Rijksoverheid",
+                        "indices": [
+                            46,
+                            60
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 11,
+        "reply_count": 58,
+        "retweet_count": 96,
+        "favorite_count": 195,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Rijksoverheid",
+                    "indices": [
+                        46,
+                        60
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/6PIBhPcTcP",
+                    "expanded_url": "https://twitter.com/i/web/status/1249272326237159424",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_id": 1249230531969064961,
+    "quoted_status_id_str": "1249230531969064961",
+    "quoted_status": {
+        "created_at": "Sun Apr 12 06:59:03 +0000 2020",
+        "id": 1249230531969064961,
+        "id_str": "1249230531969064961",
+        "text": "Dit jaar schuiven we digitaal bij elkaar aan voor een lekker paasmaal. Want alleen samen krijgen we corona onder co… https://t.co/MjhE0SULlL",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 11082502,
+            "id_str": "11082502",
+            "name": "Ministerie IenW",
+            "screen_name": "MinIenW",
+            "location": "Den Haag, Nederland",
+            "url": "http://rijksoverheid.nl/ministeries/ienw",
+            "description": "Vragen over het coronavirus? Bezoek http://Rijksoverheid.nl/coronavirus of bel 0800-1351 | Officieel account ministerie van Infrastructuur en Waterstaat",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 44629,
+            "friends_count": 178,
+            "listed_count": 588,
+            "favourites_count": 1686,
+            "statuses_count": 8384,
+            "created_at": "Wed Dec 12 10:09:26 +0000 2007",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "046F96",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "007BC7",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DEEFF6",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/495182208420704257/Zbzz4JvM_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/495182208420704257/Zbzz4JvM_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11082502/1585130557",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Dit jaar schuiven we digitaal bij elkaar aan voor een lekker paasmaal. Want alleen samen krijgen we corona onder controle. Fijne #paasdagen! 🐣🐰 #AlleenSamen #HouVol https://t.co/YQF0xGxPTd",
+            "display_text_range": [
+                0,
+                164
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "paasdagen",
+                        "indices": [
+                            129,
+                            139
+                        ]
+                    },
+                    {
+                        "text": "AlleenSamen",
+                        "indices": [
+                            144,
+                            156
+                        ]
+                    },
+                    {
+                        "text": "HouVol",
+                        "indices": [
+                            157,
+                            164
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1249230526982037504,
+                        "id_str": "1249230526982037504",
+                        "indices": [
+                            165,
+                            188
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVYoi6tWoAABpTl.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVYoi6tWoAABpTl.jpg",
+                        "url": "https://t.co/YQF0xGxPTd",
+                        "display_url": "pic.twitter.com/YQF0xGxPTd",
+                        "expanded_url": "https://twitter.com/MinIenW/status/1249230531969064961/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1249230526982037504,
+                        "id_str": "1249230526982037504",
+                        "indices": [
+                            165,
+                            188
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EVYoi6tWoAABpTl.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EVYoi6tWoAABpTl.jpg",
+                        "url": "https://t.co/YQF0xGxPTd",
+                        "display_url": "pic.twitter.com/YQF0xGxPTd",
+                        "expanded_url": "https://twitter.com/MinIenW/status/1249230531969064961/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1920,
+                                "h": 1080,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 33,
+        "reply_count": 74,
+        "retweet_count": 8,
+        "favorite_count": 22,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/MjhE0SULlL",
+                    "expanded_url": "https://twitter.com/i/web/status/1249230531969064961",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/vfoe8GP3zl",
+        "expanded": "https://twitter.com/MinIenW/status/1249230531969064961",
+        "display": "twitter.com/MinIenW/status…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Rijksoverheid",
+                "indices": [
+                    63,
+                    77
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "JackMarsman",
+                "name": "Jack Marsman 🚜",
+                "id": 1187136625,
+                "id_str": "1187136625",
+                "indices": [
+                    3,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1586716193983"
+}

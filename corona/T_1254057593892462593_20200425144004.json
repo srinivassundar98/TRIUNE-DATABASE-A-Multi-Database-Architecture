@@ -1,0 +1,162 @@
+{
+    "created_at": "Sat Apr 25 14:40:04 +0000 2020",
+    "id": 1254057593892462593,
+    "id_str": "1254057593892462593",
+    "text": "@kindtell_NL @NokNokSeven4u @rivm Echter in mijn berekening zit een groter aantal corona doden dan de aantallen die… https://t.co/ghjVQ4NPtQ",
+    "display_text_range": [
+        34,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254055538603765760,
+    "in_reply_to_status_id_str": "1254055538603765760",
+    "in_reply_to_user_id": 1178048658161459200,
+    "in_reply_to_user_id_str": "1178048658161459200",
+    "in_reply_to_screen_name": "kindtell_NL",
+    "user": {
+        "id": 1249113827003727873,
+        "id_str": "1249113827003727873",
+        "name": "W. Westerveld",
+        "screen_name": "westerveld_w",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 2,
+        "listed_count": 0,
+        "favourites_count": 97,
+        "statuses_count": 542,
+        "created_at": "Sat Apr 11 23:15:29 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249253585449295873/mtt2IsEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249253585449295873/mtt2IsEE_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@kindtell_NL @NokNokSeven4u @rivm Echter in mijn berekening zit een groter aantal corona doden dan de aantallen die Rivm noemt. \nHoeveel meer is niet 100% duidelijk.\n\nGemakshalve ongeveer 1450 corona doden.\n\n(24x60×7):1450 =~7",
+        "display_text_range": [
+            34,
+            226
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kindtell_NL",
+                    "name": "Ik #blijfthuis #houdafstand #1xperweekboodschappen",
+                    "id": 1178048658161459200,
+                    "id_str": "1178048658161459200",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "NokNokSeven4u",
+                    "name": "NokNok",
+                    "id": 1244339728255721472,
+                    "id_str": "1244339728255721472",
+                    "indices": [
+                        13,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "rivm",
+                    "name": "RIVM",
+                    "id": 35527415,
+                    "id_str": "35527415",
+                    "indices": [
+                        28,
+                        33
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/ghjVQ4NPtQ",
+                "expanded_url": "https://twitter.com/i/web/status/1254057593892462593",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "kindtell_NL",
+                "name": "Ik #blijfthuis #houdafstand #1xperweekboodschappen",
+                "id": 1178048658161459200,
+                "id_str": "1178048658161459200",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "NokNokSeven4u",
+                "name": "NokNok",
+                "id": 1244339728255721472,
+                "id_str": "1244339728255721472",
+                "indices": [
+                    13,
+                    27
+                ]
+            },
+            {
+                "screen_name": "rivm",
+                "name": "RIVM",
+                "id": 35527415,
+                "id_str": "35527415",
+                "indices": [
+                    28,
+                    33
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587825604304"
+}

@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:03:03 +0000 2020",
+    "id": 1254033178077118464,
+    "id_str": "1254033178077118464",
+    "text": "@GemeenteLeiden Ik heb een vraag over de 1,5 meter afstand. Hou je alleen afstand wanneer je er zin in hebt of als… https://t.co/qioaOACefa",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254002216769409030,
+    "in_reply_to_status_id_str": "1254002216769409030",
+    "in_reply_to_user_id": 72798332,
+    "in_reply_to_user_id_str": "72798332",
+    "in_reply_to_screen_name": "GemeenteLeiden",
+    "user": {
+        "id": 1233530349013078017,
+        "id_str": "1233530349013078017",
+        "name": "Rien van Vliet",
+        "screen_name": "Rien86050080",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 0,
+        "friends_count": 1,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 2,
+        "created_at": "Fri Feb 28 23:12:30 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1233532080182743041/fShphT6X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233532080182743041/fShphT6X_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233530349013078017/1582932838",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@GemeenteLeiden Ik heb een vraag over de 1,5 meter afstand. Hou je alleen afstand wanneer je er zin in hebt of als je er toevallig aan denkt of wanneer Handhaving zegt dat het moet? Want op dit moment, 15.00 uur, is de Haarlemmerstraat bijna net zo druk als voor corona.",
+        "display_text_range": [
+            16,
+            270
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "GemeenteLeiden",
+                    "name": "Gemeente Leiden",
+                    "id": 72798332,
+                    "id_str": "72798332",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/qioaOACefa",
+                "expanded_url": "https://twitter.com/i/web/status/1254033178077118464",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "GemeenteLeiden",
+                "name": "Gemeente Leiden",
+                "id": 72798332,
+                "id_str": "72798332",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587819783120"
+}

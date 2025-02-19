@@ -1,0 +1,183 @@
+{
+    "created_at": "Sat Apr 25 12:29:41 +0000 2020",
+    "id": 1254024784452739074,
+    "id_str": "1254024784452739074",
+    "text": "@chicagoslie @JeffreyGuterman @realDonaldTrump @TripleH Parents send sick kids to school people don’t wash their ha… https://t.co/TtRFSzo8Lk",
+    "display_text_range": [
+        56,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254022918461362176,
+    "in_reply_to_status_id_str": "1254022918461362176",
+    "in_reply_to_user_id": 271237248,
+    "in_reply_to_user_id_str": "271237248",
+    "in_reply_to_screen_name": "chicagoslie",
+    "user": {
+        "id": 825890250434211842,
+        "id_str": "825890250434211842",
+        "name": "Salatrel",
+        "screen_name": "Salatrel42",
+        "location": "Pelham, NH",
+        "url": null,
+        "description": "News Politics",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 166,
+        "friends_count": 339,
+        "listed_count": 0,
+        "favourites_count": 14663,
+        "statuses_count": 12704,
+        "created_at": "Mon Jan 30 02:15:54 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247735795643043840/mmgUA8ZW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247735795643043840/mmgUA8ZW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/825890250434211842/1586318371",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@chicagoslie @JeffreyGuterman @realDonaldTrump @TripleH Parents send sick kids to school people don’t wash their hands stores dont follow health and safety practices if it costs them money  and business prevents sick calls. This is human nature and a certainty . And a return to these practices will flare corona and flu again",
+        "display_text_range": [
+            56,
+            326
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "chicagoslie",
+                    "name": "NoVote2020",
+                    "id": 271237248,
+                    "id_str": "271237248",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "JeffreyGuterman",
+                    "name": "Jeffrey Guterman",
+                    "id": 246103,
+                    "id_str": "246103",
+                    "indices": [
+                        13,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "realDonaldTrump",
+                    "name": "Donald J. Trump",
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        30,
+                        46
+                    ]
+                },
+                {
+                    "screen_name": "TripleH",
+                    "name": "Triple H",
+                    "id": 355708717,
+                    "id_str": "355708717",
+                    "indices": [
+                        47,
+                        55
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/TtRFSzo8Lk",
+                "expanded_url": "https://twitter.com/i/web/status/1254024784452739074",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "chicagoslie",
+                "name": "NoVote2020",
+                "id": 271237248,
+                "id_str": "271237248",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "JeffreyGuterman",
+                "name": "Jeffrey Guterman",
+                "id": 246103,
+                "id_str": "246103",
+                "indices": [
+                    13,
+                    29
+                ]
+            },
+            {
+                "screen_name": "realDonaldTrump",
+                "name": "Donald J. Trump",
+                "id": 25073877,
+                "id_str": "25073877",
+                "indices": [
+                    30,
+                    46
+                ]
+            },
+            {
+                "screen_name": "TripleH",
+                "name": "Triple H",
+                "id": 355708717,
+                "id_str": "355708717",
+                "indices": [
+                    47,
+                    55
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817781924"
+}

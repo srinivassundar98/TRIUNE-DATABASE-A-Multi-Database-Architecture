@@ -1,0 +1,155 @@
+{
+    "created_at": "Sat Apr 25 13:28:58 +0000 2020",
+    "id": 1254039701448777729,
+    "id_str": "1254039701448777729",
+    "text": "@BeingSalmanKhan Ap ghar pe hona bhai Jan. Samajlo sab gharpe hain    jo bhokhe marrahe hai unka kya corona se mare… https://t.co/gU4jAgcYip",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254023935877767168,
+    "in_reply_to_status_id_str": "1254023935877767168",
+    "in_reply_to_user_id": 132385468,
+    "in_reply_to_user_id_str": "132385468",
+    "in_reply_to_screen_name": "BeingSalmanKhan",
+    "user": {
+        "id": 2461950614,
+        "id_str": "2461950614",
+        "name": "kamruddin",
+        "screen_name": "kamrudd89335117",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 5,
+        "friends_count": 162,
+        "listed_count": 0,
+        "favourites_count": 83,
+        "statuses_count": 105,
+        "created_at": "Thu Apr 24 17:12:30 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/502139654900940800/QaWD1Ruo_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/502139654900940800/QaWD1Ruo_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2461950614/1408554447",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "7929cea6bd5b32bd",
+        "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+        "place_type": "city",
+        "name": "Mumbai",
+        "full_name": "Mumbai, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        72.74484,
+                        18.845343
+                    ],
+                    [
+                        72.74484,
+                        19.502937
+                    ],
+                    [
+                        73.003648,
+                        19.502937
+                    ],
+                    [
+                        73.003648,
+                        18.845343
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@BeingSalmanKhan Ap ghar pe hona bhai Jan. Samajlo sab gharpe hain    jo bhokhe marrahe hai unka kya corona se marein ya bhokhe   ghosit to corona ka hi hoga  jo Marta  hai apne mut se o bhi corona",
+        "display_text_range": [
+            17,
+            197
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BeingSalmanKhan",
+                    "name": "Salman Khan",
+                    "id": 132385468,
+                    "id_str": "132385468",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/gU4jAgcYip",
+                "expanded_url": "https://twitter.com/i/web/status/1254039701448777729",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "BeingSalmanKhan",
+                "name": "Salman Khan",
+                "id": 132385468,
+                "id_str": "132385468",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "hi",
+    "timestamp_ms": "1587821338413"
+}

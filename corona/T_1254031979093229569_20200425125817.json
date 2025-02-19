@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 12:58:17 +0000 2020",
+    "id": 1254031979093229569,
+    "id_str": "1254031979093229569",
+    "text": "@PMOIndia Jai Hind Sir\nI am from khajpura, patna, Bihar. \nIn my locality corona patient being increase per day. But… https://t.co/RAjMAvHSXh",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253577774469574656,
+    "in_reply_to_status_id_str": "1253577774469574656",
+    "in_reply_to_user_id": 471741741,
+    "in_reply_to_user_id_str": "471741741",
+    "in_reply_to_screen_name": "PMOIndia",
+    "user": {
+        "id": 2296415762,
+        "id_str": "2296415762",
+        "name": "Bipin kumar singh",
+        "screen_name": "bipinsingh29886",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 2,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 1,
+        "created_at": "Fri Jan 17 16:45:04 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@PMOIndia Jai Hind Sir\nI am from khajpura, patna, Bihar. \nIn my locality corona patient being increase per day. But Some shops are still opening in gali and people gathering here to purchasing things. No police man or any official visiting in this gali. \nPlease help us.",
+        "display_text_range": [
+            10,
+            270
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "PMOIndia",
+                    "name": "PMO India",
+                    "id": 471741741,
+                    "id_str": "471741741",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/RAjMAvHSXh",
+                "expanded_url": "https://twitter.com/i/web/status/1254031979093229569",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "PMOIndia",
+                "name": "PMO India",
+                "id": 471741741,
+                "id_str": "471741741",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819497260"
+}

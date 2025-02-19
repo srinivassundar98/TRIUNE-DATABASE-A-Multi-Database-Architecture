@@ -1,0 +1,655 @@
+{
+    "created_at": "Sun Apr 12 18:40:04 +0000 2020",
+    "id": 1249406951580147715,
+    "id_str": "1249406951580147715",
+    "text": "RT @BerndWilke1: @visualpersist @alicialamalicia",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 91899366,
+        "id_str": "91899366",
+        "name": "Matt 🌊",
+        "screen_name": "VisualPersist",
+        "location": null,
+        "url": "http://www.linkedin.com/in/VisualPersist",
+        "description": "Livelihoods, Marine #Biodiversity & Human Ecology 🌍\nOutreach & Innovation 🎥\nConsultant @UN @FAO 🐟\nHonRes @ExeterMarine\nFounder @ReefScan\n#scubadiver",
+        "translator_type": "regular",
+        "protected": false,
+        "verified": false,
+        "followers_count": 21039,
+        "friends_count": 2952,
+        "listed_count": 2237,
+        "favourites_count": 65820,
+        "statuses_count": 276227,
+        "created_at": "Mon Nov 23 00:19:19 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1179341722440146944/e0MbYHBz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179341722440146944/e0MbYHBz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/91899366/1566141597",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Apr 09 06:22:32 +0000 2020",
+        "id": 1248134181248479233,
+        "id_str": "1248134181248479233",
+        "text": "@visualpersist @alicialamalicia",
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 91899366,
+        "in_reply_to_user_id_str": "91899366",
+        "in_reply_to_screen_name": "VisualPersist",
+        "user": {
+            "id": 1497684913,
+            "id_str": "1497684913",
+            "name": "Bernd Wilke",
+            "screen_name": "BerndWilke1",
+            "location": "Zürich",
+            "url": "http://www.swissre.com",
+            "description": "Senior Emerging Risk Manager, Geographer,  Risk Engineer, Journalist, Communicator, Traveler\nWorking for Swiss Re. Views are my own.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 509,
+            "friends_count": 470,
+            "listed_count": 192,
+            "favourites_count": 8082,
+            "statuses_count": 9840,
+            "created_at": "Mon Jun 10 07:56:43 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000019248453/2299c62f5314b3ade0b679b8fe49f0d7_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000019248453/2299c62f5314b3ade0b679b8fe49f0d7_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497684913/1483722964",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1248133754071035904,
+        "quoted_status_id_str": "1248133754071035904",
+        "quoted_status": {
+            "created_at": "Thu Apr 09 06:20:50 +0000 2020",
+            "id": 1248133754071035904,
+            "id_str": "1248133754071035904",
+            "text": "After #corona the Next #catastrophes are coming for sure. How will a society carrying the burden of the #pandemic d… https://t.co/SwbKnFCBws",
+            "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1497684913,
+                "id_str": "1497684913",
+                "name": "Bernd Wilke",
+                "screen_name": "BerndWilke1",
+                "location": "Zürich",
+                "url": "http://www.swissre.com",
+                "description": "Senior Emerging Risk Manager, Geographer,  Risk Engineer, Journalist, Communicator, Traveler\nWorking for Swiss Re. Views are my own.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 509,
+                "friends_count": 470,
+                "listed_count": 192,
+                "favourites_count": 8082,
+                "statuses_count": 9840,
+                "created_at": "Mon Jun 10 07:56:43 +0000 2013",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000019248453/2299c62f5314b3ade0b679b8fe49f0d7_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000019248453/2299c62f5314b3ade0b679b8fe49f0d7_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497684913/1483722964",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "After #corona the Next #catastrophes are coming for sure. How will a society carrying the burden of the #pandemic deal with #hurricane #flood #earthquake #storm and #climatechange ? #reinsurance #hurricanedorian #insurance #foodsecurity  #sustainability https://t.co/xB0o5oyleA",
+                "display_text_range": [
+                    0,
+                    277
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "corona",
+                            "indices": [
+                                6,
+                                13
+                            ]
+                        },
+                        {
+                            "text": "catastrophes",
+                            "indices": [
+                                23,
+                                36
+                            ]
+                        },
+                        {
+                            "text": "pandemic",
+                            "indices": [
+                                104,
+                                113
+                            ]
+                        },
+                        {
+                            "text": "hurricane",
+                            "indices": [
+                                124,
+                                134
+                            ]
+                        },
+                        {
+                            "text": "flood",
+                            "indices": [
+                                135,
+                                141
+                            ]
+                        },
+                        {
+                            "text": "earthquake",
+                            "indices": [
+                                142,
+                                153
+                            ]
+                        },
+                        {
+                            "text": "storm",
+                            "indices": [
+                                154,
+                                160
+                            ]
+                        },
+                        {
+                            "text": "climatechange",
+                            "indices": [
+                                165,
+                                179
+                            ]
+                        },
+                        {
+                            "text": "reinsurance",
+                            "indices": [
+                                182,
+                                194
+                            ]
+                        },
+                        {
+                            "text": "hurricanedorian",
+                            "indices": [
+                                195,
+                                211
+                            ]
+                        },
+                        {
+                            "text": "insurance",
+                            "indices": [
+                                212,
+                                222
+                            ]
+                        },
+                        {
+                            "text": "foodsecurity",
+                            "indices": [
+                                223,
+                                236
+                            ]
+                        },
+                        {
+                            "text": "sustainability",
+                            "indices": [
+                                238,
+                                253
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/xB0o5oyleA",
+                            "expanded_url": "https://lnkd.in/gWXsRuy",
+                            "display_url": "lnkd.in/gWXsRuy",
+                            "indices": [
+                                254,
+                                277
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 0,
+            "retweet_count": 4,
+            "favorite_count": 4,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "corona",
+                        "indices": [
+                            6,
+                            13
+                        ]
+                    },
+                    {
+                        "text": "catastrophes",
+                        "indices": [
+                            23,
+                            36
+                        ]
+                    },
+                    {
+                        "text": "pandemic",
+                        "indices": [
+                            104,
+                            113
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/SwbKnFCBws",
+                        "expanded_url": "https://twitter.com/i/web/status/1248133754071035904",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/6vCjKTxpB4",
+            "expanded": "https://twitter.com/BerndWilke1/status/1248133754071035904",
+            "display": "twitter.com/BerndWilke1/st…"
+        },
+        "is_quote_status": true,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "VisualPersist",
+                    "name": "Matt 🌊",
+                    "id": 91899366,
+                    "id_str": "91899366",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "alicialamalicia",
+                    "name": "Alicia Montoya",
+                    "id": 70198432,
+                    "id_str": "70198432",
+                    "indices": [
+                        15,
+                        31
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "und"
+    },
+    "quoted_status_id": 1248133754071035904,
+    "quoted_status_id_str": "1248133754071035904",
+    "quoted_status": {
+        "created_at": "Thu Apr 09 06:20:50 +0000 2020",
+        "id": 1248133754071035904,
+        "id_str": "1248133754071035904",
+        "text": "After #corona the Next #catastrophes are coming for sure. How will a society carrying the burden of the #pandemic d… https://t.co/SwbKnFCBws",
+        "source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1497684913,
+            "id_str": "1497684913",
+            "name": "Bernd Wilke",
+            "screen_name": "BerndWilke1",
+            "location": "Zürich",
+            "url": "http://www.swissre.com",
+            "description": "Senior Emerging Risk Manager, Geographer,  Risk Engineer, Journalist, Communicator, Traveler\nWorking for Swiss Re. Views are my own.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 509,
+            "friends_count": 470,
+            "listed_count": 192,
+            "favourites_count": 8082,
+            "statuses_count": 9840,
+            "created_at": "Mon Jun 10 07:56:43 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000019248453/2299c62f5314b3ade0b679b8fe49f0d7_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000019248453/2299c62f5314b3ade0b679b8fe49f0d7_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497684913/1483722964",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "After #corona the Next #catastrophes are coming for sure. How will a society carrying the burden of the #pandemic deal with #hurricane #flood #earthquake #storm and #climatechange ? #reinsurance #hurricanedorian #insurance #foodsecurity  #sustainability https://t.co/xB0o5oyleA",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "corona",
+                        "indices": [
+                            6,
+                            13
+                        ]
+                    },
+                    {
+                        "text": "catastrophes",
+                        "indices": [
+                            23,
+                            36
+                        ]
+                    },
+                    {
+                        "text": "pandemic",
+                        "indices": [
+                            104,
+                            113
+                        ]
+                    },
+                    {
+                        "text": "hurricane",
+                        "indices": [
+                            124,
+                            134
+                        ]
+                    },
+                    {
+                        "text": "flood",
+                        "indices": [
+                            135,
+                            141
+                        ]
+                    },
+                    {
+                        "text": "earthquake",
+                        "indices": [
+                            142,
+                            153
+                        ]
+                    },
+                    {
+                        "text": "storm",
+                        "indices": [
+                            154,
+                            160
+                        ]
+                    },
+                    {
+                        "text": "climatechange",
+                        "indices": [
+                            165,
+                            179
+                        ]
+                    },
+                    {
+                        "text": "reinsurance",
+                        "indices": [
+                            182,
+                            194
+                        ]
+                    },
+                    {
+                        "text": "hurricanedorian",
+                        "indices": [
+                            195,
+                            211
+                        ]
+                    },
+                    {
+                        "text": "insurance",
+                        "indices": [
+                            212,
+                            222
+                        ]
+                    },
+                    {
+                        "text": "foodsecurity",
+                        "indices": [
+                            223,
+                            236
+                        ]
+                    },
+                    {
+                        "text": "sustainability",
+                        "indices": [
+                            238,
+                            253
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/xB0o5oyleA",
+                        "expanded_url": "https://lnkd.in/gWXsRuy",
+                        "display_url": "lnkd.in/gWXsRuy",
+                        "indices": [
+                            254,
+                            277
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 4,
+        "favorite_count": 4,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "corona",
+                    "indices": [
+                        6,
+                        13
+                    ]
+                },
+                {
+                    "text": "catastrophes",
+                    "indices": [
+                        23,
+                        36
+                    ]
+                },
+                {
+                    "text": "pandemic",
+                    "indices": [
+                        104,
+                        113
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/SwbKnFCBws",
+                    "expanded_url": "https://twitter.com/i/web/status/1248133754071035904",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/6vCjKTxpB4",
+        "expanded": "https://twitter.com/BerndWilke1/status/1248133754071035904",
+        "display": "twitter.com/BerndWilke1/st…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "BerndWilke1",
+                "name": "Bernd Wilke",
+                "id": 1497684913,
+                "id_str": "1497684913",
+                "indices": [
+                    3,
+                    15
+                ]
+            },
+            {
+                "screen_name": "VisualPersist",
+                "name": "Matt 🌊",
+                "id": 91899366,
+                "id_str": "91899366",
+                "indices": [
+                    17,
+                    31
+                ]
+            },
+            {
+                "screen_name": "alicialamalicia",
+                "name": "Alicia Montoya",
+                "id": 70198432,
+                "id_str": "70198432",
+                "indices": [
+                    32,
+                    48
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1586716804772"
+}

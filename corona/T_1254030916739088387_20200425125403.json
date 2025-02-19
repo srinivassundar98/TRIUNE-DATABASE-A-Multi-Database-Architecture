@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 12:54:03 +0000 2020",
+    "id": 1254030916739088387,
+    "id_str": "1254030916739088387",
+    "text": "@CallMeAgent00 When Popeyes close cuz of corona https://t.co/lzgjL7MziG",
+    "display_text_range": [
+        15,
+        47
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253817568504283137,
+    "in_reply_to_status_id_str": "1253817568504283137",
+    "in_reply_to_user_id": 1105604004,
+    "in_reply_to_user_id_str": "1105604004",
+    "in_reply_to_screen_name": "CallMeAgent00",
+    "user": {
+        "id": 1155228870850863104,
+        "id_str": "1155228870850863104",
+        "name": "Itz_Randy",
+        "screen_name": "Itz_RandyPE",
+        "location": null,
+        "url": null,
+        "description": "im back and better.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 15,
+        "friends_count": 54,
+        "listed_count": 0,
+        "favourites_count": 35,
+        "statuses_count": 258,
+        "created_at": "Sat Jul 27 21:30:00 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1157673181102125056/_V-tIlMS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157673181102125056/_V-tIlMS_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "CallMeAgent00",
+                "name": "AMP Agent ⚡",
+                "id": 1105604004,
+                "id_str": "1105604004",
+                "indices": [
+                    0,
+                    14
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254030908400771072,
+                "id_str": "1254030908400771072",
+                "indices": [
+                    48,
+                    71
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc2d5CWoAA-kuI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc2d5CWoAA-kuI.jpg",
+                "url": "https://t.co/lzgjL7MziG",
+                "display_url": "pic.twitter.com/lzgjL7MziG",
+                "expanded_url": "https://twitter.com/Itz_RandyPE/status/1254030916739088387/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 568,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 970,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 322,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254030908400771072,
+                "id_str": "1254030908400771072",
+                "indices": [
+                    48,
+                    71
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc2d5CWoAA-kuI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc2d5CWoAA-kuI.jpg",
+                "url": "https://t.co/lzgjL7MziG",
+                "display_url": "pic.twitter.com/lzgjL7MziG",
+                "expanded_url": "https://twitter.com/Itz_RandyPE/status/1254030916739088387/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 568,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 970,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 322,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819243975"
+}

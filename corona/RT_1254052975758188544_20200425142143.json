@@ -1,0 +1,368 @@
+{
+    "created_at": "Sat Apr 25 14:21:43 +0000 2020",
+    "id": 1254052975758188544,
+    "id_str": "1254052975758188544",
+    "text": "RT @macinside: c'est bizarre le logo @iledefrance se fait plus discret d'un coup ...  https://t.co/OAGJrbHVWp https://t.co/6JVb34AZb7",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1090339596481806336,
+        "id_str": "1090339596481806336",
+        "name": "Gayet Brayann (Végéta prince des saiyans)",
+        "screen_name": "BrayannGayet",
+        "location": "Lorient, France",
+        "url": null,
+        "description": "Passionné par les TC (Transport en Communs) et les Sapeurs-Pompiers",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 48,
+        "friends_count": 323,
+        "listed_count": 2,
+        "favourites_count": 6171,
+        "statuses_count": 9432,
+        "created_at": "Tue Jan 29 20:03:12 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253033870548783104/rk6eEpox_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253033870548783104/rk6eEpox_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090339596481806336/1587581828",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sat Apr 25 10:05:41 +0000 2020",
+        "id": 1253988542243655685,
+        "id_str": "1253988542243655685",
+        "text": "c'est bizarre le logo @iledefrance se fait plus discret d'un coup ...  https://t.co/OAGJrbHVWp https://t.co/6JVb34AZb7",
+        "display_text_range": [
+            0,
+            94
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 7084742,
+            "id_str": "7084742",
+            "name": "macinside",
+            "screen_name": "macinside",
+            "location": null,
+            "url": "http://www.macg.co",
+            "description": "mon meilleur achat technologique de ces 5 dernières est un lave vaisselle. #Troll de compétition. modérateur des forums de macgeneration",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1120,
+            "friends_count": 314,
+            "listed_count": 108,
+            "favourites_count": 22645,
+            "statuses_count": 87857,
+            "created_at": "Tue Jun 26 07:26:27 +0000 2007",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "87BC44",
+            "profile_sidebar_fill_color": "E0FF92",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1224653179628990464/5Jq68Jy8_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224653179628990464/5Jq68Jy8_normal.jpg",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 3,
+        "favorite_count": 10,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/OAGJrbHVWp",
+                    "expanded_url": "https://actu.fr/societe/coronavirus/essonne-distribution-masques-petites-entreprises-commercants_33229742.html",
+                    "display_url": "actu.fr/societe/corona…",
+                    "indices": [
+                        71,
+                        94
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "iledefrance",
+                    "name": "Région Île-de-France",
+                    "id": 40848062,
+                    "id_str": "40848062",
+                    "indices": [
+                        22,
+                        34
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1253988442461126657,
+                    "id_str": "1253988442461126657",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcP2DFXQAEh44f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcP2DFXQAEh44f.jpg",
+                    "url": "https://t.co/6JVb34AZb7",
+                    "display_url": "pic.twitter.com/6JVb34AZb7",
+                    "expanded_url": "https://twitter.com/macinside/status/1253988542243655685/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 854,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 854,
+                            "h": 641,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1253988442461126657,
+                    "id_str": "1253988442461126657",
+                    "indices": [
+                        95,
+                        118
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWcP2DFXQAEh44f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWcP2DFXQAEh44f.jpg",
+                    "url": "https://t.co/6JVb34AZb7",
+                    "display_url": "pic.twitter.com/6JVb34AZb7",
+                    "expanded_url": "https://twitter.com/macinside/status/1253988542243655685/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 854,
+                            "h": 641,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 854,
+                            "h": 641,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "fr"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/OAGJrbHVWp",
+                "expanded_url": "https://actu.fr/societe/coronavirus/essonne-distribution-masques-petites-entreprises-commercants_33229742.html",
+                "display_url": "actu.fr/societe/corona…",
+                "indices": [
+                    86,
+                    109
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "macinside",
+                "name": "macinside",
+                "id": 7084742,
+                "id_str": "7084742",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "iledefrance",
+                "name": "Région Île-de-France",
+                "id": 40848062,
+                "id_str": "40848062",
+                "indices": [
+                    37,
+                    49
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1253988442461126657,
+                "id_str": "1253988442461126657",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcP2DFXQAEh44f.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcP2DFXQAEh44f.jpg",
+                "url": "https://t.co/6JVb34AZb7",
+                "display_url": "pic.twitter.com/6JVb34AZb7",
+                "expanded_url": "https://twitter.com/macinside/status/1253988542243655685/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 854,
+                        "h": 641,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 854,
+                        "h": 641,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1253988542243655685,
+                "source_status_id_str": "1253988542243655685",
+                "source_user_id": 7084742,
+                "source_user_id_str": "7084742"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1253988442461126657,
+                "id_str": "1253988442461126657",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcP2DFXQAEh44f.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcP2DFXQAEh44f.jpg",
+                "url": "https://t.co/6JVb34AZb7",
+                "display_url": "pic.twitter.com/6JVb34AZb7",
+                "expanded_url": "https://twitter.com/macinside/status/1253988542243655685/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 854,
+                        "h": 641,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 854,
+                        "h": 641,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1253988542243655685,
+                "source_status_id_str": "1253988542243655685",
+                "source_user_id": 7084742,
+                "source_user_id_str": "7084742"
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "fr",
+    "timestamp_ms": "1587824503255"
+}

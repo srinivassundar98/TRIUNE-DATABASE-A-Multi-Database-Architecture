@@ -1,0 +1,109 @@
+{
+    "created_at": "Sun Apr 12 18:47:05 +0000 2020",
+    "id": 1249408715104665600,
+    "id_str": "1249408715104665600",
+    "text": "@mathauspauxis @ehnoizFC @ultimadivisao O Corona pegou ele, melhoras....",
+    "display_text_range": [
+        40,
+        72
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249408463014330372,
+    "in_reply_to_status_id_str": "1249408463014330372",
+    "in_reply_to_user_id": 955093051441020929,
+    "in_reply_to_user_id_str": "955093051441020929",
+    "in_reply_to_screen_name": "mathauspauxis",
+    "user": {
+        "id": 64836589,
+        "id_str": "64836589",
+        "name": "Φοίνιξ",
+        "screen_name": "WalterSena",
+        "location": "Belém, Brasil",
+        "url": null,
+        "description": "Eu sou como você: sou da espécie humana, sou capaz de errar. O erro não é falha de caráter, errar faz parte da Natureza Humana.\n\nTorcedor do @clubedoremo",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1986,
+        "friends_count": 853,
+        "listed_count": 46,
+        "favourites_count": 10738,
+        "statuses_count": 17766,
+        "created_at": "Tue Aug 11 21:55:02 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "94FA0F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "05F009",
+        "profile_sidebar_border_color": "21C912",
+        "profile_sidebar_fill_color": "100E8A",
+        "profile_text_color": "141308",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248634861776261120/fboAJUDd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248634861776261120/fboAJUDd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64836589/1574863536",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "mathauspauxis",
+                "name": "Mathaus Almeida Pauxis 📋 #PedeA24",
+                "id": 955093051441020929,
+                "id_str": "955093051441020929",
+                "indices": [
+                    0,
+                    14
+                ]
+            },
+            {
+                "screen_name": "ehnoizFC",
+                "name": "Eh Noiz Queiroz",
+                "id": 4870175805,
+                "id_str": "4870175805",
+                "indices": [
+                    15,
+                    24
+                ]
+            },
+            {
+                "screen_name": "ultimadivisao",
+                "name": "Última Divisão",
+                "id": 19036383,
+                "id_str": "19036383",
+                "indices": [
+                    25,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586717225229"
+}

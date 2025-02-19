@@ -1,0 +1,122 @@
+{
+    "created_at": "Sat Apr 25 13:39:50 +0000 2020",
+    "id": 1254042435132555266,
+    "id_str": "1254042435132555266",
+    "text": "@demorgen Een triest verhaal.  Journalisten die - ondanks de pandemie - mensen blijven verdedigen die geen enkele i… https://t.co/tRtZ6nUFcJ",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253729168090685442,
+    "in_reply_to_status_id_str": "1253729168090685442",
+    "in_reply_to_user_id": 5499602,
+    "in_reply_to_user_id_str": "5499602",
+    "in_reply_to_screen_name": "demorgen",
+    "user": {
+        "id": 27443507,
+        "id_str": "27443507",
+        "name": "JohanV",
+        "screen_name": "jvans",
+        "location": "Belgium",
+        "url": null,
+        "description": "Windows | Mac OS | IT Security |  Movies  | News  |  Dogs | Music | Retired",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 155,
+        "friends_count": 354,
+        "listed_count": 15,
+        "favourites_count": 2848,
+        "statuses_count": 4547,
+        "created_at": "Sun Mar 29 15:34:46 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/683970162261889024/tSisMOee_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/683970162261889024/tSisMOee_normal.png",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@demorgen Een triest verhaal.  Journalisten die - ondanks de pandemie - mensen blijven verdedigen die geen enkele idee hadden over de impact van corona. Al die briljante geesten die corona niet hebben zien aankomen. Dat ze daar eens een antwoord op geven.",
+        "display_text_range": [
+            10,
+            255
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "demorgen",
+                    "name": "De Morgen",
+                    "id": 5499602,
+                    "id_str": "5499602",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/tRtZ6nUFcJ",
+                "expanded_url": "https://twitter.com/i/web/status/1254042435132555266",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "demorgen",
+                "name": "De Morgen",
+                "id": 5499602,
+                "id_str": "5499602",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587821990174"
+}

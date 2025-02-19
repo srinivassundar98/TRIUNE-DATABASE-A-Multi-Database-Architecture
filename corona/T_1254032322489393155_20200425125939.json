@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:59:39 +0000 2020",
+    "id": 1254032322489393155,
+    "id_str": "1254032322489393155",
+    "text": "@jep_ @faznet Ihr wollt doch nicht behaupten, dass  die Mortalität in den teilnehmenden Ländern zusammen außerhalb… https://t.co/xK6tLshgb8",
+    "display_text_range": [
+        14,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253955009399701504,
+    "in_reply_to_status_id_str": "1253955009399701504",
+    "in_reply_to_user_id": 18717137,
+    "in_reply_to_user_id_str": "18717137",
+    "in_reply_to_screen_name": "jep_",
+    "user": {
+        "id": 1239268984006074369,
+        "id_str": "1239268984006074369",
+        "name": "Umba Bukele",
+        "screen_name": "UBukele",
+        "location": "Cape Town, South Africa, ",
+        "url": null,
+        "description": "The New York Times: A black right wing agitator. EXPAT, currently in germany. 🇩🇪",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 22,
+        "friends_count": 92,
+        "listed_count": 0,
+        "favourites_count": 2681,
+        "statuses_count": 1805,
+        "created_at": "Sun Mar 15 19:15:53 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246835542567849984/V1JLKL69_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246835542567849984/V1JLKL69_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239268984006074369/1586103734",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@jep_ @faznet Ihr wollt doch nicht behaupten, dass  die Mortalität in den teilnehmenden Ländern zusammen außerhalb von corona fast null ist, wie die Grafik behauptet!?",
+        "display_text_range": [
+            14,
+            167
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jep_",
+                    "name": "Jan-Eric Peters",
+                    "id": 18717137,
+                    "id_str": "18717137",
+                    "indices": [
+                        0,
+                        5
+                    ]
+                },
+                {
+                    "screen_name": "faznet",
+                    "name": "Frankfurter Allgemeine",
+                    "id": 18047862,
+                    "id_str": "18047862",
+                    "indices": [
+                        6,
+                        13
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/xK6tLshgb8",
+                "expanded_url": "https://twitter.com/i/web/status/1254032322489393155",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "jep_",
+                "name": "Jan-Eric Peters",
+                "id": 18717137,
+                "id_str": "18717137",
+                "indices": [
+                    0,
+                    5
+                ]
+            },
+            {
+                "screen_name": "faznet",
+                "name": "Frankfurter Allgemeine",
+                "id": 18047862,
+                "id_str": "18047862",
+                "indices": [
+                    6,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819579132"
+}

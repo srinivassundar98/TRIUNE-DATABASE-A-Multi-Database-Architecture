@@ -1,0 +1,99 @@
+{
+    "created_at": "Sat Apr 25 14:17:02 +0000 2020",
+    "id": 1254051799994114049,
+    "id_str": "1254051799994114049",
+    "text": "@hugomercierf @jujucapita Tô fora desse corona kkkkk",
+    "display_text_range": [
+        26,
+        52
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253923598215110656,
+    "in_reply_to_status_id_str": "1253923598215110656",
+    "in_reply_to_user_id": 1083176009720102917,
+    "in_reply_to_user_id_str": "1083176009720102917",
+    "in_reply_to_screen_name": "hugomercierf",
+    "user": {
+        "id": 999388712365674496,
+        "id_str": "999388712365674496",
+        "name": "Malvadão",
+        "screen_name": "fardin_renan",
+        "location": "Aracruz, Brasil",
+        "url": "https://www.instagram.com/renan_fardin/",
+        "description": "Seja progressivo ⚡",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 589,
+        "friends_count": 377,
+        "listed_count": 0,
+        "favourites_count": 20590,
+        "statuses_count": 4190,
+        "created_at": "Wed May 23 20:36:51 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1234548473325858819/uNgmRw-q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234548473325858819/uNgmRw-q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/999388712365674496/1583174763",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "hugomercierf",
+                "name": "hugostoso",
+                "id": 1083176009720102917,
+                "id_str": "1083176009720102917",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "jujucapita",
+                "name": "ai papai, apaixonei...",
+                "id": 1115534560077516801,
+                "id_str": "1115534560077516801",
+                "indices": [
+                    14,
+                    25
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587824222931"
+}

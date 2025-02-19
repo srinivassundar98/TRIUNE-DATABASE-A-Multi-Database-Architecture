@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 12:53:43 +0000 2020",
+    "id": 1254030832005722115,
+    "id_str": "1254030832005722115",
+    "text": "@polenz_r Einmal auf Experten hören und die die es richtig draufhaben und solche Tweets würde es nicht geben...aber… https://t.co/wujrnPWZZb",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254002160150470656,
+    "in_reply_to_status_id_str": "1254002160150470656",
+    "in_reply_to_user_id": 3082383264,
+    "in_reply_to_user_id_str": "3082383264",
+    "in_reply_to_screen_name": "polenz_r",
+    "user": {
+        "id": 23298925,
+        "id_str": "23298925",
+        "name": "B.O.f.H.",
+        "screen_name": "BOFH72",
+        "location": "München, Bayern",
+        "url": null,
+        "description": "#LKdo BY#IT-Nerd #BastardOperatorfromHell Liebhaber #DieDreiFragezeichen Versteher. Verliebt in #Schottland.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 63,
+        "friends_count": 338,
+        "listed_count": 1,
+        "favourites_count": 2147,
+        "statuses_count": 2451,
+        "created_at": "Sun Mar 08 11:13:15 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/884100854516731905/QZxk4lbC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/884100854516731905/QZxk4lbC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23298925/1499623067",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@polenz_r Einmal auf Experten hören und die die es richtig draufhaben und solche Tweets würde es nicht geben...aber so ist unsere Politik..Experten nur wenn es den eigenen Interessen dient. Für mich wird es erst eine Corona App geben wenn der CCC sein Gütesiegel draufmacht :-)",
+        "display_text_range": [
+            10,
+            277
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "polenz_r",
+                    "name": "Ruprecht Polenz",
+                    "id": 3082383264,
+                    "id_str": "3082383264",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/wujrnPWZZb",
+                "expanded_url": "https://twitter.com/i/web/status/1254030832005722115",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "polenz_r",
+                "name": "Ruprecht Polenz",
+                "id": 3082383264,
+                "id_str": "3082383264",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587819223773"
+}

@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 12:25:08 +0000 2020",
+    "id": 1254023637700501504,
+    "id_str": "1254023637700501504",
+    "text": "@narendramodi Sir this paninting for corona fighters. https://t.co/H7tkTQO8fa",
+    "display_text_range": [
+        14,
+        53
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253695904764309504,
+    "in_reply_to_status_id_str": "1253695904764309504",
+    "in_reply_to_user_id": 18839785,
+    "in_reply_to_user_id_str": "18839785",
+    "in_reply_to_screen_name": "narendramodi",
+    "user": {
+        "id": 1251897780819202051,
+        "id_str": "1251897780819202051",
+        "name": "Yug Agrawal",
+        "screen_name": "YugAgra00324449",
+        "location": null,
+        "url": null,
+        "description": "Fitness lover cool nature  business man in mathura.  Tiktok I’d yugagrawal19930.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 3,
+        "friends_count": 81,
+        "listed_count": 0,
+        "favourites_count": 7,
+        "statuses_count": 7,
+        "created_at": "Sun Apr 19 15:37:59 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251898007273893890/PUnGdPFM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251898007273893890/PUnGdPFM_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "narendramodi",
+                "name": "Narendra Modi",
+                "id": 18839785,
+                "id_str": "18839785",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254023622760345601,
+                "id_str": "1254023622760345601",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcv1z6UMAE8Qlf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcv1z6UMAE8Qlf.jpg",
+                "url": "https://t.co/H7tkTQO8fa",
+                "display_url": "pic.twitter.com/H7tkTQO8fa",
+                "expanded_url": "https://twitter.com/YugAgra00324449/status/1254023637700501504/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 508,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 956,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 896,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254023622760345601,
+                "id_str": "1254023622760345601",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWcv1z6UMAE8Qlf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWcv1z6UMAE8Qlf.jpg",
+                "url": "https://t.co/H7tkTQO8fa",
+                "display_url": "pic.twitter.com/H7tkTQO8fa",
+                "expanded_url": "https://twitter.com/YugAgra00324449/status/1254023637700501504/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 508,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 956,
+                        "h": 1280,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 896,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587817508517"
+}

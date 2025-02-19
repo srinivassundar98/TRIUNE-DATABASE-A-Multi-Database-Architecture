@@ -1,0 +1,203 @@
+{
+    "created_at": "Sat Apr 25 12:27:11 +0000 2020",
+    "id": 1254024152551493632,
+    "id_str": "1254024152551493632",
+    "text": "@geertjanhahn @MyrtheHilkens @Koen_Verhelst Sprak vorig weekend een Syrisch Koerdische vriendin van me in Stockholm… https://t.co/tkA6lBffCI",
+    "display_text_range": [
+        44,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254021956661391361,
+    "in_reply_to_status_id_str": "1254021956661391361",
+    "in_reply_to_user_id": 34553942,
+    "in_reply_to_user_id_str": "34553942",
+    "in_reply_to_screen_name": "geertjanhahn",
+    "user": {
+        "id": 19417982,
+        "id_str": "19417982",
+        "name": "Rena Netjes 🍓",
+        "screen_name": "RenaNetjes",
+        "location": "Istanbul ",
+        "url": "https://m.youtube.com/watch?v=O0XGHPTm-vw",
+        "description": "Studied Arabic & Hebrew. Fmr Egypt/Libya corresp @BNR @Parool. Joined the Conflict Research Unit of @Clingendaelorg as Associate Fellow. rnetjes@clingendael.org",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 22204,
+        "friends_count": 7096,
+        "listed_count": 749,
+        "favourites_count": 75229,
+        "statuses_count": 230470,
+        "created_at": "Fri Jan 23 22:31:33 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102308656757002242/Mjb4dONp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102308656757002242/Mjb4dONp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19417982/1553327998",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5e02a0f0d91c76d2",
+        "url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json",
+        "place_type": "city",
+        "name": "İstanbul",
+        "full_name": "İstanbul, Türkiye",
+        "country_code": "TR",
+        "country": "Turkey",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        28.632104,
+                        40.802734
+                    ],
+                    [
+                        28.632104,
+                        41.239907
+                    ],
+                    [
+                        29.378341,
+                        41.239907
+                    ],
+                    [
+                        29.378341,
+                        40.802734
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@geertjanhahn @MyrtheHilkens @Koen_Verhelst Sprak vorig weekend een Syrisch Koerdische vriendin van me in Stockholm uitgebreid, zij kent alleen al uit haar kennisenkring 18 mensen die zijn overleden aan #Corona  :-(( Turkse en Syrische Koerden, Syriacs.",
+        "display_text_range": [
+            44,
+            253
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        203,
+                        210
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "geertjanhahn",
+                    "name": "Geert Jan Hahn",
+                    "id": 34553942,
+                    "id_str": "34553942",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "MyrtheHilkens",
+                    "name": "Myrthe Hilkens",
+                    "id": 992454394611490816,
+                    "id_str": "992454394611490816",
+                    "indices": [
+                        14,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "Koen_Verhelst",
+                    "name": "Koen Verhelst",
+                    "id": 56366337,
+                    "id_str": "56366337",
+                    "indices": [
+                        29,
+                        43
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/tkA6lBffCI",
+                "expanded_url": "https://twitter.com/i/web/status/1254024152551493632",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "geertjanhahn",
+                "name": "Geert Jan Hahn",
+                "id": 34553942,
+                "id_str": "34553942",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "MyrtheHilkens",
+                "name": "Myrthe Hilkens",
+                "id": 992454394611490816,
+                "id_str": "992454394611490816",
+                "indices": [
+                    14,
+                    28
+                ]
+            },
+            {
+                "screen_name": "Koen_Verhelst",
+                "name": "Koen Verhelst",
+                "id": 56366337,
+                "id_str": "56366337",
+                "indices": [
+                    29,
+                    43
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587817631267"
+}

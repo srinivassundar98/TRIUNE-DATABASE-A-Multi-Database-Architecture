@@ -1,0 +1,98 @@
+{
+    "created_at": "Sat Apr 25 13:55:40 +0000 2020",
+    "id": 1254046421826879489,
+    "id_str": "1254046421826879489",
+    "text": "@VelmatheRed @nytimes Of course, being 100 years old had nothing to do with his dead. Corona did it",
+    "display_text_range": [
+        22,
+        99
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254034267455344640,
+    "in_reply_to_status_id_str": "1254034267455344640",
+    "in_reply_to_user_id": 1373724055,
+    "in_reply_to_user_id_str": "1373724055",
+    "in_reply_to_screen_name": "VelmatheRed",
+    "user": {
+        "id": 1253142724796207104,
+        "id_str": "1253142724796207104",
+        "name": "Mr_Armz",
+        "screen_name": "mr_armz",
+        "location": null,
+        "url": null,
+        "description": "VP Operations Essential WV Business, classic physique competitor, cold brew coffees.   Basically, the human equivalent of a flame thrower.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 14,
+        "friends_count": 13,
+        "listed_count": 0,
+        "favourites_count": 5,
+        "statuses_count": 16,
+        "created_at": "Thu Apr 23 02:04:50 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253142959110991875/_Q7LJd7g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253142959110991875/_Q7LJd7g_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "VelmatheRed",
+                "name": "Velma Michelle",
+                "id": 1373724055,
+                "id_str": "1373724055",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "nytimes",
+                "name": "The New York Times",
+                "id": 807095,
+                "id_str": "807095",
+                "indices": [
+                    13,
+                    21
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822940676"
+}

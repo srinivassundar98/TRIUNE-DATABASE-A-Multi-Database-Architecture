@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 14:47:34 +0000 2020",
+    "id": 1254059481123651584,
+    "id_str": "1254059481123651584",
+    "text": "@JudithRosmalen @univgroningen @lifelines PTSS komt toch sowieso vaak voor bij IC-patiënten. Is niet specifiek voor corona toch?",
+    "display_text_range": [
+        42,
+        128
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1253969821194170368,
+    "in_reply_to_status_id_str": "1253969821194170368",
+    "in_reply_to_user_id": 1541463427,
+    "in_reply_to_user_id_str": "1541463427",
+    "in_reply_to_screen_name": "JudithRosmalen",
+    "user": {
+        "id": 539848705,
+        "id_str": "539848705",
+        "name": "Lilian Schneider",
+        "screen_name": "LilianSchrijft",
+        "location": "Groningen area",
+        "url": "http://www.lilianschneider.nl",
+        "description": "Dutch writer. \nThrillers 'Aquamarijn' (2014) en 'Een wreed voorjaar' (2018) uitgeverij Passage\n\nmotto: 'Carpe Diem'",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 879,
+        "friends_count": 765,
+        "listed_count": 21,
+        "favourites_count": 5002,
+        "statuses_count": 3359,
+        "created_at": "Thu Mar 29 10:03:02 +0000 2012",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243549668031836160/WlTEEEis_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243549668031836160/WlTEEEis_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/539848705/1546465518",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "JudithRosmalen",
+                "name": "Judith Rosmalen",
+                "id": 1541463427,
+                "id_str": "1541463427",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "univgroningen",
+                "name": "University Groningen",
+                "id": 33535466,
+                "id_str": "33535466",
+                "indices": [
+                    16,
+                    30
+                ]
+            },
+            {
+                "screen_name": "lifelines",
+                "name": "parag",
+                "id": 109953979,
+                "id_str": "109953979",
+                "indices": [
+                    31,
+                    41
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587826054255"
+}

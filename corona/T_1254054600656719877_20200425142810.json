@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 14:28:10 +0000 2020",
+    "id": 1254054600656719877,
+    "id_str": "1254054600656719877",
+    "text": "@wi00194 Interessante Präsentation zum Zusammenhang zwischen #Corona und der #DIgitalisierung.\n\nLeider fehlen mir e… https://t.co/zO5zlXLLAl",
+    "display_text_range": [
+        9,
+        140
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253990597079285761,
+    "in_reply_to_status_id_str": "1253990597079285761",
+    "in_reply_to_user_id": 37161522,
+    "in_reply_to_user_id_str": "37161522",
+    "in_reply_to_screen_name": "wi00194",
+    "user": {
+        "id": 247294227,
+        "id_str": "247294227",
+        "name": "change your mind",
+        "screen_name": "smegworx",
+        "location": "Germany",
+        "url": null,
+        "description": "Digitaler Wandel, Datenschutz, Demokratie - wollen GESTALTET werden  //   Manchmal muss es einfach Klartext sein 😎 // HSV // WOW",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1119,
+        "friends_count": 894,
+        "listed_count": 268,
+        "favourites_count": 7583,
+        "statuses_count": 51044,
+        "created_at": "Fri Feb 04 14:11:14 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214195791792705536/kxTwIpAD_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214195791792705536/kxTwIpAD_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/247294227/1577909741",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@wi00194 Interessante Präsentation zum Zusammenhang zwischen #Corona und der #DIgitalisierung.\n\nLeider fehlen mir ein paar  konkrete (!) Impulse, wie wir mittels #eGov / #Digitalisierung besser auf das \"nächste\" mal vorbereitet sein können.",
+        "display_text_range": [
+            9,
+            240
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Corona",
+                    "indices": [
+                        61,
+                        68
+                    ]
+                },
+                {
+                    "text": "DIgitalisierung",
+                    "indices": [
+                        77,
+                        93
+                    ]
+                },
+                {
+                    "text": "eGov",
+                    "indices": [
+                        162,
+                        167
+                    ]
+                },
+                {
+                    "text": "Digitalisierung",
+                    "indices": [
+                        170,
+                        186
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "wi00194",
+                    "name": "Joern von Lucke",
+                    "id": 37161522,
+                    "id_str": "37161522",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "Corona",
+                "indices": [
+                    61,
+                    68
+                ]
+            },
+            {
+                "text": "DIgitalisierung",
+                "indices": [
+                    77,
+                    93
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/zO5zlXLLAl",
+                "expanded_url": "https://twitter.com/i/web/status/1254054600656719877",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "wi00194",
+                "name": "Joern von Lucke",
+                "id": 37161522,
+                "id_str": "37161522",
+                "indices": [
+                    0,
+                    8
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587824890661"
+}

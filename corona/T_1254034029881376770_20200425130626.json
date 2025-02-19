@@ -1,0 +1,106 @@
+{
+    "created_at": "Sat Apr 25 13:06:26 +0000 2020",
+    "id": 1254034029881376770,
+    "id_str": "1254034029881376770",
+    "text": "Corona\nCepet selesai yuk\nBiar ak bs ngerasain lagi ketupat sayur buatan Mbah uti",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 843243317097771008,
+        "id_str": "843243317097771008",
+        "name": "Parhan",
+        "screen_name": "farhanaliii_",
+        "location": "Jawa Barat, Indonesia",
+        "url": "https://www.instagram.com/p/B0qW9LoJ5kE/?igshid=d7zmj2emqc4w",
+        "description": "spesialis hati ambyar",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 110,
+        "friends_count": 583,
+        "listed_count": 0,
+        "favourites_count": 594,
+        "statuses_count": 549,
+        "created_at": "Sat Mar 18 23:30:48 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1181689248983867393/oo0EDujj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181689248983867393/oo0EDujj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/843243317097771008/1566463782",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "1a29683becc7959b",
+        "url": "https://api.twitter.com/1.1/geo/id/1a29683becc7959b.json",
+        "place_type": "city",
+        "name": "Bekasi Timur",
+        "full_name": "Bekasi Timur, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.974561,
+                        -6.301652
+                    ],
+                    [
+                        106.974561,
+                        -6.20717
+                    ],
+                    [
+                        107.048951,
+                        -6.20717
+                    ],
+                    [
+                        107.048951,
+                        -6.301652
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819986206"
+}

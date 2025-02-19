@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 12:32:31 +0000 2020",
+    "id": 1254025494221197318,
+    "id_str": "1254025494221197318",
+    "text": "@burgvander2014 @lewinskylou2 Ach welnee, Dan is het geen corona meer @rivm Die 1,5 meter is ook flauw kul. Behalve… https://t.co/NkH2DKVfRR",
+    "display_text_range": [
+        30,
+        140
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254021815997026309,
+    "in_reply_to_status_id_str": "1254021815997026309",
+    "in_reply_to_user_id": 994849024070086656,
+    "in_reply_to_user_id_str": "994849024070086656",
+    "in_reply_to_screen_name": "burgvander2014",
+    "user": {
+        "id": 1248888069765423104,
+        "id_str": "1248888069765423104",
+        "name": "Civilization in decline ~ KGB'er ~ Arnold",
+        "screen_name": "AltEgo191160",
+        "location": "Schorteldoeksesteeg",
+        "url": "https://www.youtube.com/watch?v=ag8XcMG1EX4",
+        "description": "ZoMaar (n)iemand~Onbelangrijk~Doet niet ter zake ~ Heeft de wijsheid verpacht~Domme mensen bestaan niet wel onwetenden~Graag of niet~Uit vrije wil",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 12,
+        "friends_count": 20,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 306,
+        "created_at": "Sat Apr 11 08:18:31 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1249614136000032773/Kjh0Eri2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249614136000032773/Kjh0Eri2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1248888069765423104/1586938292",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@burgvander2014 @lewinskylou2 Ach welnee, Dan is het geen corona meer @rivm Die 1,5 meter is ook flauw kul. Behalve het OV waar vrijwel geen hond in zit ga je dat nergens zien. Is godsonmogelijk",
+        "display_text_range": [
+            30,
+            194
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "burgvander2014",
+                    "name": "erikvanderburg",
+                    "id": 994849024070086656,
+                    "id_str": "994849024070086656",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "lewinskylou2",
+                    "name": "Lou Lewinsky 2",
+                    "id": 1089608328257376261,
+                    "id_str": "1089608328257376261",
+                    "indices": [
+                        16,
+                        29
+                    ]
+                },
+                {
+                    "screen_name": "rivm",
+                    "name": "RIVM",
+                    "id": 35527415,
+                    "id_str": "35527415",
+                    "indices": [
+                        70,
+                        75
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/NkH2DKVfRR",
+                "expanded_url": "https://twitter.com/i/web/status/1254025494221197318",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "burgvander2014",
+                "name": "erikvanderburg",
+                "id": 994849024070086656,
+                "id_str": "994849024070086656",
+                "indices": [
+                    0,
+                    15
+                ]
+            },
+            {
+                "screen_name": "lewinskylou2",
+                "name": "Lou Lewinsky 2",
+                "id": 1089608328257376261,
+                "id_str": "1089608328257376261",
+                "indices": [
+                    16,
+                    29
+                ]
+            },
+            {
+                "screen_name": "rivm",
+                "name": "RIVM",
+                "id": 35527415,
+                "id_str": "35527415",
+                "indices": [
+                    70,
+                    75
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587817951146"
+}

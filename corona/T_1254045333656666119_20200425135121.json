@@ -1,0 +1,181 @@
+{
+    "created_at": "Sat Apr 25 13:51:21 +0000 2020",
+    "id": 1254045333656666119,
+    "id_str": "1254045333656666119",
+    "text": "@PascalinEdwards Corona be looking at you like https://t.co/k6rO1BSsUb",
+    "display_text_range": [
+        17,
+        46
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254032533802663938,
+    "in_reply_to_status_id_str": "1254032533802663938",
+    "in_reply_to_user_id": 169490617,
+    "in_reply_to_user_id_str": "169490617",
+    "in_reply_to_screen_name": "PascalinEdwards",
+    "user": {
+        "id": 2288671236,
+        "id_str": "2288671236",
+        "name": "Apt!",
+        "screen_name": "apt_11x",
+        "location": "United Kingdom",
+        "url": null,
+        "description": "IT enthusiast || Cyber security expert || BSc || Msc || PhD Candidate.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 148,
+        "friends_count": 72,
+        "listed_count": 0,
+        "favourites_count": 6276,
+        "statuses_count": 5196,
+        "created_at": "Sun Jan 12 21:01:59 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136674975581184001/rDoDTTJG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136674975581184001/rDoDTTJG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2288671236/1557213278",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "PascalinEdwards",
+                "name": "Pascaline Edwards",
+                "id": 169490617,
+                "id_str": "169490617",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254045319362498560,
+                "id_str": "1254045319362498560",
+                "indices": [
+                    47,
+                    70
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdDkuDX0AAG9pH.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdDkuDX0AAG9pH.jpg",
+                "url": "https://t.co/k6rO1BSsUb",
+                "display_url": "pic.twitter.com/k6rO1BSsUb",
+                "expanded_url": "https://twitter.com/apt_11x/status/1254045333656666119/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 300,
+                        "h": 356,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 300,
+                        "h": 356,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 300,
+                        "h": 356,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254045319362498560,
+                "id_str": "1254045319362498560",
+                "indices": [
+                    47,
+                    70
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWdDkuDX0AAG9pH.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWdDkuDX0AAG9pH.jpg",
+                "url": "https://t.co/k6rO1BSsUb",
+                "display_url": "pic.twitter.com/k6rO1BSsUb",
+                "expanded_url": "https://twitter.com/apt_11x/status/1254045333656666119/photo/1",
+                "type": "animated_gif",
+                "video_info": {
+                    "aspect_ratio": [
+                        75,
+                        89
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EWdDkuDX0AAG9pH.mp4"
+                        }
+                    ]
+                },
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 300,
+                        "h": 356,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 300,
+                        "h": 356,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 300,
+                        "h": 356,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587822681236"
+}

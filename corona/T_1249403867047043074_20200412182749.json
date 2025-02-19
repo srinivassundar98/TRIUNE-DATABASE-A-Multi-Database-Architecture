@@ -1,0 +1,163 @@
+{
+    "created_at": "Sun Apr 12 18:27:49 +0000 2020",
+    "id": 1249403867047043074,
+    "id_str": "1249403867047043074",
+    "text": "@nalfager @mariafinlandia @M_Abrahamsson Ja, vi får se vad överdödligheten landar på till sist. Samtidigt tycker ja… https://t.co/uYbe3e4KjX",
+    "display_text_range": [
+        41,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249401376431538180,
+    "in_reply_to_status_id_str": "1249401376431538180",
+    "in_reply_to_user_id": 1896390163,
+    "in_reply_to_user_id_str": "1896390163",
+    "in_reply_to_screen_name": "nalfager",
+    "user": {
+        "id": 1118035435,
+        "id_str": "1118035435",
+        "name": "Christer Stolpe",
+        "screen_name": "christerstolpe",
+        "location": null,
+        "url": null,
+        "description": "Inser att jag borde presentera mig lite bättre här. Jag får jobba på det. Profilbild: Check. Sidhuvud: Check. Presentation: Den kommer ... 🙄 Update: Snart ...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 47,
+        "friends_count": 229,
+        "listed_count": 0,
+        "favourites_count": 16060,
+        "statuses_count": 783,
+        "created_at": "Fri Jan 25 00:19:00 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115711833359437824/ma--Dpst_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115711833359437824/ma--Dpst_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1118035435/1554843389",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@nalfager @mariafinlandia @M_Abrahamsson Ja, vi får se vad överdödligheten landar på till sist. Samtidigt tycker jag det är ett misstag att spela ned corona och jämföra den med vanlig influensa, som en del gör. Se hur många som har dött globalt, på relativt kort tid, TROTS alla stenhårda restriktioner som man har ifört.",
+        "display_text_range": [
+            41,
+            321
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "nalfager",
+                    "name": "Nalfager 🐘",
+                    "id": 1896390163,
+                    "id_str": "1896390163",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "mariafinlandia",
+                    "name": "Maria",
+                    "id": 637355752,
+                    "id_str": "637355752",
+                    "indices": [
+                        10,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "M_Abrahamsson",
+                    "name": "Maria Abrahamsson",
+                    "id": 73100393,
+                    "id_str": "73100393",
+                    "indices": [
+                        26,
+                        40
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/uYbe3e4KjX",
+                "expanded_url": "https://twitter.com/i/web/status/1249403867047043074",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "nalfager",
+                "name": "Nalfager 🐘",
+                "id": 1896390163,
+                "id_str": "1896390163",
+                "indices": [
+                    0,
+                    9
+                ]
+            },
+            {
+                "screen_name": "mariafinlandia",
+                "name": "Maria",
+                "id": 637355752,
+                "id_str": "637355752",
+                "indices": [
+                    10,
+                    25
+                ]
+            },
+            {
+                "screen_name": "M_Abrahamsson",
+                "name": "Maria Abrahamsson",
+                "id": 73100393,
+                "id_str": "73100393",
+                "indices": [
+                    26,
+                    40
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "sv",
+    "timestamp_ms": "1586716069362"
+}

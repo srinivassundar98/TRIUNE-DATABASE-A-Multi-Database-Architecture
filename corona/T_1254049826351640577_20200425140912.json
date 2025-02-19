@@ -1,0 +1,109 @@
+{
+    "created_at": "Sat Apr 25 14:09:12 +0000 2020",
+    "id": 1254049826351640577,
+    "id_str": "1254049826351640577",
+    "text": "@ladiesmaned @pdgfess @pisangkapick Kalau zaman2 corona ni mahal gais",
+    "display_text_range": [
+        36,
+        69
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254045174637801472,
+    "in_reply_to_status_id_str": "1254045174637801472",
+    "in_reply_to_user_id": 1224927573127225344,
+    "in_reply_to_user_id_str": "1224927573127225344",
+    "in_reply_to_screen_name": "ladiesmaned",
+    "user": {
+        "id": 944044747097640960,
+        "id_str": "944044747097640960",
+        "name": "KenArok",
+        "screen_name": "nafa_aditia",
+        "location": "Padang Barat, Indonesia",
+        "url": "https://youtu.be/T6a6ayqveD4",
+        "description": "A Man Behind The Scene",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 69,
+        "friends_count": 167,
+        "listed_count": 0,
+        "favourites_count": 45,
+        "statuses_count": 188,
+        "created_at": "Fri Dec 22 03:19:42 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1148541852200476672/A94sHDja_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148541852200476672/A94sHDja_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/944044747097640960/1562668689",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ladiesmaned",
+                "name": "Jek",
+                "id": 1224927573127225344,
+                "id_str": "1224927573127225344",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "pdgfess",
+                "name": "pdgfess • auto dm ON",
+                "id": 372489640,
+                "id_str": "372489640",
+                "indices": [
+                    13,
+                    21
+                ]
+            },
+            {
+                "screen_name": "pisangkapick",
+                "name": "pisangkapick",
+                "id": 1141653353996275712,
+                "id_str": "1141653353996275712",
+                "indices": [
+                    22,
+                    35
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587823752378"
+}

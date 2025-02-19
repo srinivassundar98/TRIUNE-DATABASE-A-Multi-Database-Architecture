@@ -1,0 +1,97 @@
+{
+    "created_at": "Sat Apr 25 13:29:24 +0000 2020",
+    "id": 1254039812685824000,
+    "id_str": "1254039812685824000",
+    "text": "@SaskiaSlotboom volgens de corona-richtlijn moet nu half nederland de hele dag binnen blijven #symptomen",
+    "display_text_range": [
+        16,
+        104
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254039027705163782,
+    "in_reply_to_status_id_str": "1254039027705163782",
+    "in_reply_to_user_id": 365437061,
+    "in_reply_to_user_id_str": "365437061",
+    "in_reply_to_screen_name": "SaskiaSlotboom",
+    "user": {
+        "id": 40220874,
+        "id_str": "40220874",
+        "name": "Jop de Vrieze",
+        "screen_name": "Jopinie",
+        "location": "Amsterdam",
+        "url": "http://www.jopinie.nl",
+        "description": "Kritisch wetenschapsjournalist. Medisch bioloog. Infectieziektenepidemiologie. Global health. AAAS Kavli Award. VK/Science/Quest/deGroene/Newscientist/Nieuwsuur",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 4467,
+        "friends_count": 1193,
+        "listed_count": 123,
+        "favourites_count": 6843,
+        "statuses_count": 41195,
+        "created_at": "Fri May 15 11:25:59 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1144977552852889600/wcgUFRfi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144977552852889600/wcgUFRfi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40220874/1482921566",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "symptomen",
+                "indices": [
+                    94,
+                    104
+                ]
+            }
+        ],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "SaskiaSlotboom",
+                "name": "Saskia Slotboom",
+                "id": 365437061,
+                "id_str": "365437061",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587821364934"
+}

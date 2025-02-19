@@ -1,0 +1,157 @@
+{
+    "created_at": "Sat Apr 25 13:43:58 +0000 2020",
+    "id": 1254043477517774849,
+    "id_str": "1254043477517774849",
+    "text": "wehe es gibt eine 2 Corona Welle &amp; ich muss das Wintersemester wieder online abhalten https://t.co/Ue7USUi07L",
+    "display_text_range": [
+        0,
+        89
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254043265718005760,
+    "in_reply_to_status_id_str": "1254043265718005760",
+    "in_reply_to_user_id": 1023324440875163651,
+    "in_reply_to_user_id_str": "1023324440875163651",
+    "in_reply_to_screen_name": "itsyaagirlval",
+    "user": {
+        "id": 1023324440875163651,
+        "id_str": "1023324440875163651",
+        "name": "val",
+        "screen_name": "itsyaagirlval",
+        "location": "Moskau / Cologne 📍",
+        "url": "https://www.instagram.com/valeriav.x",
+        "description": "ich weiß nicht was ich hier mache",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2457,
+        "friends_count": 810,
+        "listed_count": 4,
+        "favourites_count": 28080,
+        "statuses_count": 26933,
+        "created_at": "Sat Jul 28 21:48:53 +0000 2018",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229844076188622848/m-3syeoT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229844076188622848/m-3syeoT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023324440875163651/1581939540",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254043473889673219,
+                "id_str": "1254043473889673219",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdB5TIXQAMH7pY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdB5TIXQAMH7pY.jpg",
+                "url": "https://t.co/Ue7USUi07L",
+                "display_url": "pic.twitter.com/Ue7USUi07L",
+                "expanded_url": "https://twitter.com/itsyaagirlval/status/1254043477517774849/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 190,
+                        "h": 358,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 190,
+                        "h": 358,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 190,
+                        "h": 358,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254043473889673219,
+                "id_str": "1254043473889673219",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdB5TIXQAMH7pY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdB5TIXQAMH7pY.jpg",
+                "url": "https://t.co/Ue7USUi07L",
+                "display_url": "pic.twitter.com/Ue7USUi07L",
+                "expanded_url": "https://twitter.com/itsyaagirlval/status/1254043477517774849/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 190,
+                        "h": 358,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 190,
+                        "h": 358,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 190,
+                        "h": 358,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587822238698"
+}

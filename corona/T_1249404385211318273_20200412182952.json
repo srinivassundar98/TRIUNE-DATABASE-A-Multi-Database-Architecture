@@ -1,0 +1,216 @@
+{
+    "created_at": "Sun Apr 12 18:29:52 +0000 2020",
+    "id": 1249404385211318273,
+    "id_str": "1249404385211318273",
+    "text": "Report suspected corona cases around you and it will be displayed on our the map to enable proper practice of socia… https://t.co/Fj1eAWqS8N",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1243874221928955904,
+        "id_str": "1243874221928955904",
+        "name": "Covid TR",
+        "screen_name": "CovidTR3",
+        "location": null,
+        "url": null,
+        "description": "This is a corona virus reporting app. it enables you report a suspected case and also know location of suspected (infected) individual on the map. #",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 14,
+        "listed_count": 0,
+        "favourites_count": 0,
+        "statuses_count": 13,
+        "created_at": "Sat Mar 28 12:15:11 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243874564758740993/LU7DMJQU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243874564758740993/LU7DMJQU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243874221928955904/1585398077",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Report suspected corona cases around you and it will be displayed on our the map to enable proper practice of social distancing.\n#LagosUnrest #Covid_19 #Easter #StayHome #lockdown https://t.co/UZiOa7EiJE",
+        "display_text_range": [
+            0,
+            179
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LagosUnrest",
+                    "indices": [
+                        129,
+                        141
+                    ]
+                },
+                {
+                    "text": "Covid_19",
+                    "indices": [
+                        142,
+                        151
+                    ]
+                },
+                {
+                    "text": "Easter",
+                    "indices": [
+                        152,
+                        159
+                    ]
+                },
+                {
+                    "text": "StayHome",
+                    "indices": [
+                        160,
+                        169
+                    ]
+                },
+                {
+                    "text": "lockdown",
+                    "indices": [
+                        170,
+                        179
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1249404380123709440,
+                    "id_str": "1249404380123709440",
+                    "indices": [
+                        180,
+                        203
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbGqgIXQAAbkN5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbGqgIXQAAbkN5.jpg",
+                    "url": "https://t.co/UZiOa7EiJE",
+                    "display_url": "pic.twitter.com/UZiOa7EiJE",
+                    "expanded_url": "https://twitter.com/CovidTR3/status/1249404385211318273/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 490,
+                            "h": 912,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 490,
+                            "h": 912,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 365,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1249404380123709440,
+                    "id_str": "1249404380123709440",
+                    "indices": [
+                        180,
+                        203
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EVbGqgIXQAAbkN5.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVbGqgIXQAAbkN5.jpg",
+                    "url": "https://t.co/UZiOa7EiJE",
+                    "display_url": "pic.twitter.com/UZiOa7EiJE",
+                    "expanded_url": "https://twitter.com/CovidTR3/status/1249404385211318273/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 490,
+                            "h": 912,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 490,
+                            "h": 912,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 365,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/Fj1eAWqS8N",
+                "expanded_url": "https://twitter.com/i/web/status/1249404385211318273",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716192902"
+}

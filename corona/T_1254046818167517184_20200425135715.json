@@ -1,0 +1,163 @@
+{
+    "created_at": "Sat Apr 25 13:57:15 +0000 2020",
+    "id": 1254046818167517184,
+    "id_str": "1254046818167517184",
+    "text": "@News18India @AcharyaPramodk @prateektv N chupate n kisi pe hmla krte or nhi kisi ko Jehad ke liye bolte ki corona… https://t.co/M8b915IDSb",
+    "display_text_range": [
+        40,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254045652352294912,
+    "in_reply_to_status_id_str": "1254045652352294912",
+    "in_reply_to_user_id": 98362607,
+    "in_reply_to_user_id_str": "98362607",
+    "in_reply_to_screen_name": "News18India",
+    "user": {
+        "id": 1249695744296009730,
+        "id_str": "1249695744296009730",
+        "name": "Selwam Shekhar",
+        "screen_name": "SelwamShekhar",
+        "location": "India",
+        "url": null,
+        "description": "students",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 2,
+        "friends_count": 57,
+        "listed_count": 0,
+        "favourites_count": 604,
+        "statuses_count": 32,
+        "created_at": "Mon Apr 13 13:47:58 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250427915503685633/dEWbcM52_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250427915503685633/dEWbcM52_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249695744296009730/1586960436",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@News18India @AcharyaPramodk @prateektv N chupate n kisi pe hmla krte or nhi kisi ko Jehad ke liye bolte ki corona spite करके या पेशाब करके फैलाते।",
+        "display_text_range": [
+            40,
+            147
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "News18India",
+                    "name": "News18 India",
+                    "id": 98362607,
+                    "id_str": "98362607",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "AcharyaPramodk",
+                    "name": "Acharya Pramod",
+                    "id": 2583217418,
+                    "id_str": "2583217418",
+                    "indices": [
+                        13,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "prateektv",
+                    "name": "Prateek Trivedi",
+                    "id": 4345269798,
+                    "id_str": "4345269798",
+                    "indices": [
+                        29,
+                        39
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/M8b915IDSb",
+                "expanded_url": "https://twitter.com/i/web/status/1254046818167517184",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "News18India",
+                "name": "News18 India",
+                "id": 98362607,
+                "id_str": "98362607",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "AcharyaPramodk",
+                "name": "Acharya Pramod",
+                "id": 2583217418,
+                "id_str": "2583217418",
+                "indices": [
+                    13,
+                    28
+                ]
+            },
+            {
+                "screen_name": "prateektv",
+                "name": "Prateek Trivedi",
+                "id": 4345269798,
+                "id_str": "4345269798",
+                "indices": [
+                    29,
+                    39
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "und",
+    "timestamp_ms": "1587823035171"
+}

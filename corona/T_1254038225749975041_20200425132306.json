@@ -1,0 +1,175 @@
+{
+    "created_at": "Sat Apr 25 13:23:06 +0000 2020",
+    "id": 1254038225749975041,
+    "id_str": "1254038225749975041",
+    "text": "Corona: meer inwoners met geldzorgen - https://t.co/ZzN5tSiT1y #goeiedag https://t.co/PuW3DWSd9N",
+    "display_text_range": [
+        0,
+        72
+    ],
+    "source": "<a href=\"https://goeiedag.be\" rel=\"nofollow\">Goeiedag-tweets</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1916479638,
+        "id_str": "1916479638",
+        "name": "Goeiedag magazine",
+        "screen_name": "GoeiedagBE",
+        "location": "Asse",
+        "url": "https://goeiedag.be",
+        "description": "Huis-aan-huismagazine met vijf edities in 19 gemeenten",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 669,
+        "friends_count": 261,
+        "listed_count": 5,
+        "favourites_count": 5,
+        "statuses_count": 11221,
+        "created_at": "Sun Sep 29 07:55:06 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1246157282251100161/w1lMsn86_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246157282251100161/w1lMsn86_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916479638/1398249099",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "goeiedag",
+                "indices": [
+                    63,
+                    72
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/ZzN5tSiT1y",
+                "expanded_url": "https://goeiedag.be/regio/2020/04/corona-meer-inwoners-met-geldzorgen/",
+                "display_url": "goeiedag.be/regio/2020/04/…",
+                "indices": [
+                    39,
+                    62
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254038223711584257,
+                "id_str": "1254038223711584257",
+                "indices": [
+                    73,
+                    96
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc9HssXQAEKRLF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc9HssXQAEKRLF.jpg",
+                "url": "https://t.co/PuW3DWSd9N",
+                "display_url": "pic.twitter.com/PuW3DWSd9N",
+                "expanded_url": "https://twitter.com/GoeiedagBE/status/1254038225749975041/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1100,
+                        "h": 672,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 415,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1100,
+                        "h": 672,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254038223711584257,
+                "id_str": "1254038223711584257",
+                "indices": [
+                    73,
+                    96
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWc9HssXQAEKRLF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWc9HssXQAEKRLF.jpg",
+                "url": "https://t.co/PuW3DWSd9N",
+                "display_url": "pic.twitter.com/PuW3DWSd9N",
+                "expanded_url": "https://twitter.com/GoeiedagBE/status/1254038225749975041/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1100,
+                        "h": 672,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 415,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1100,
+                        "h": 672,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587820986579"
+}

@@ -1,0 +1,408 @@
+{
+    "created_at": "Sun Apr 12 18:38:40 +0000 2020",
+    "id": 1249406596255485960,
+    "id_str": "1249406596255485960",
+    "text": "RT @ismail_kupeli: \"Auf Twitter sind es Personen wie Hans-Georg Maaßen, die als falsch entlarvte Nachrichten teilen und sie damit einem grö…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 869169696280633344,
+        "id_str": "869169696280633344",
+        "name": "Bruno Dietel",
+        "screen_name": "bruno_dietel",
+        "location": "Berlin, Deutschland",
+        "url": null,
+        "description": "moderiert bei @FRITZde | reportiert bei @rbbinforadio | hier wie alle sonst auch privat",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 321,
+        "friends_count": 1087,
+        "listed_count": 7,
+        "favourites_count": 35554,
+        "statuses_count": 12441,
+        "created_at": "Mon May 29 12:32:58 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1131586501333196801/dEtbydQ8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131586501333196801/dEtbydQ8_normal.png",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Sun Apr 12 06:12:41 +0000 2020",
+        "id": 1249218865537654784,
+        "id_str": "1249218865537654784",
+        "text": "\"Auf Twitter sind es Personen wie Hans-Georg Maaßen, die als falsch entlarvte Nachrichten teilen und sie damit eine… https://t.co/dudazOd8WF",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 281984152,
+            "id_str": "281984152",
+            "name": "Ismail Küpeli",
+            "screen_name": "ismail_kupeli",
+            "location": "Duisburg, Deutschland",
+            "url": "http://ismail-kupeli.eu/",
+            "description": "Politikwissenschaftler & Historiker | Anfragen für Interviews,Vorträge & Texte an: Ismail.Kuepeli@ruhr-uni-bochum.de | Foto: @felixhuesmann",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 32371,
+            "friends_count": 387,
+            "listed_count": 468,
+            "favourites_count": 7922,
+            "statuses_count": 3294,
+            "created_at": "Thu Apr 14 10:44:59 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1244682092367183874/kiMnhwlW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244682092367183874/kiMnhwlW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/281984152/1585226150",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 1248836967783071745,
+        "quoted_status_id_str": "1248836967783071745",
+        "quoted_status": {
+            "created_at": "Sat Apr 11 04:55:10 +0000 2020",
+            "id": 1248836967783071745,
+            "id_str": "1248836967783071745",
+            "text": "Desinformationen zur Corona-Krise verbreiten sich im Internet, obwohl Konzerne wie Facebook und Youtube dagegen vor… https://t.co/7EI4tDXgWa",
+            "source": "<a href=\"http://www.sueddeutsche.de/\" rel=\"nofollow\">SZ.de Twitterbot - Main</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 114508061,
+                "id_str": "114508061",
+                "name": "Süddeutsche Zeitung",
+                "screen_name": "SZ",
+                "location": "München, Deutschland",
+                "url": "http://www.sz.de",
+                "description": "Der offizielle Twitter-Account der Süddeutschen Zeitung. Alle Redakteure und Kanäle: http://sz.de/twitterdetails · Impressum: http://sz.de/impressum",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 1609978,
+                "friends_count": 411,
+                "listed_count": 7159,
+                "favourites_count": 990,
+                "statuses_count": 155770,
+                "created_at": "Mon Feb 15 17:10:14 +0000 2010",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F2F2F2",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "333333",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1243573833010946049/zWamOI0T_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243573833010946049/zWamOI0T_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/114508061/1585845883",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Desinformationen zur Corona-Krise verbreiten sich im Internet, obwohl Konzerne wie Facebook und Youtube dagegen vorgehen. Ein Problem: Oft verbreiten Politiker und Prominente Irreführendes weiter https://t.co/qMfEwziom1",
+                "display_text_range": [
+                    0,
+                    219
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/qMfEwziom1",
+                            "expanded_url": "https://sz.de/1.4873470",
+                            "display_url": "sz.de/1.4873470",
+                            "indices": [
+                                196,
+                                219
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 10,
+            "reply_count": 41,
+            "retweet_count": 44,
+            "favorite_count": 90,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/7EI4tDXgWa",
+                        "expanded_url": "https://twitter.com/i/web/status/1248836967783071745",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "de"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/Jercdkzn67",
+            "expanded": "https://twitter.com/SZ/status/1248836967783071745",
+            "display": "twitter.com/SZ/status/1248…"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "\"Auf Twitter sind es Personen wie Hans-Georg Maaßen, die als falsch entlarvte Nachrichten teilen und sie damit einem größeren Publikum zugänglich machen. Der ehemalige Verfassungsschutz-Chef hat sich zu einem wichtigen Influencer in rechts-konservativen Kreisen entwickelt\"",
+            "display_text_range": [
+                0,
+                273
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 3,
+        "reply_count": 13,
+        "retweet_count": 105,
+        "favorite_count": 350,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dudazOd8WF",
+                    "expanded_url": "https://twitter.com/i/web/status/1249218865537654784",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_id": 1248836967783071745,
+    "quoted_status_id_str": "1248836967783071745",
+    "quoted_status": {
+        "created_at": "Sat Apr 11 04:55:10 +0000 2020",
+        "id": 1248836967783071745,
+        "id_str": "1248836967783071745",
+        "text": "Desinformationen zur Corona-Krise verbreiten sich im Internet, obwohl Konzerne wie Facebook und Youtube dagegen vor… https://t.co/7EI4tDXgWa",
+        "source": "<a href=\"http://www.sueddeutsche.de/\" rel=\"nofollow\">SZ.de Twitterbot - Main</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 114508061,
+            "id_str": "114508061",
+            "name": "Süddeutsche Zeitung",
+            "screen_name": "SZ",
+            "location": "München, Deutschland",
+            "url": "http://www.sz.de",
+            "description": "Der offizielle Twitter-Account der Süddeutschen Zeitung. Alle Redakteure und Kanäle: http://sz.de/twitterdetails · Impressum: http://sz.de/impressum",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 1609978,
+            "friends_count": 411,
+            "listed_count": 7159,
+            "favourites_count": 990,
+            "statuses_count": 155770,
+            "created_at": "Mon Feb 15 17:10:14 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F2F2F2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "333333",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1243573833010946049/zWamOI0T_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243573833010946049/zWamOI0T_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/114508061/1585845883",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Desinformationen zur Corona-Krise verbreiten sich im Internet, obwohl Konzerne wie Facebook und Youtube dagegen vorgehen. Ein Problem: Oft verbreiten Politiker und Prominente Irreführendes weiter https://t.co/qMfEwziom1",
+            "display_text_range": [
+                0,
+                219
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/qMfEwziom1",
+                        "expanded_url": "https://sz.de/1.4873470",
+                        "display_url": "sz.de/1.4873470",
+                        "indices": [
+                            196,
+                            219
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 10,
+        "reply_count": 41,
+        "retweet_count": 44,
+        "favorite_count": 90,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/7EI4tDXgWa",
+                    "expanded_url": "https://twitter.com/i/web/status/1248836967783071745",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "de"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/Jercdkzn67",
+        "expanded": "https://twitter.com/SZ/status/1248836967783071745",
+        "display": "twitter.com/SZ/status/1248…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "ismail_kupeli",
+                "name": "Ismail Küpeli",
+                "id": 281984152,
+                "id_str": "281984152",
+                "indices": [
+                    3,
+                    17
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1586716720056"
+}

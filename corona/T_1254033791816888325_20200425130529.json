@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 13:05:29 +0000 2020",
+    "id": 1254033791816888325,
+    "id_str": "1254033791816888325",
+    "text": "@Indria_Ria Gak podo was was corona.?",
+    "display_text_range": [
+        12,
+        37
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254028304438329345,
+    "in_reply_to_status_id_str": "1254028304438329345",
+    "in_reply_to_user_id": 419574034,
+    "in_reply_to_user_id_str": "419574034",
+    "in_reply_to_screen_name": "Indria_Ria",
+    "user": {
+        "id": 177843061,
+        "id_str": "177843061",
+        "name": "Muta'allimin",
+        "screen_name": "azhom_m",
+        "location": "Jatilengger, Ponggok, Blitar",
+        "url": "http://www.mutaallimin.my.id",
+        "description": "Penikmat Wifi Gratis · Pemuja Blendrang Tewel",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 481,
+        "friends_count": 192,
+        "listed_count": 0,
+        "favourites_count": 5735,
+        "statuses_count": 9083,
+        "created_at": "Fri Aug 13 05:40:15 +0000 2010",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "2D9909",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252451890366779394/I6luHFnf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252451890366779394/I6luHFnf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/177843061/1577875111",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "d74066a958870db1",
+        "url": "https://api.twitter.com/1.1/geo/id/d74066a958870db1.json",
+        "place_type": "city",
+        "name": "Kebayoran Lama",
+        "full_name": "Kebayoran Lama, Indonesia",
+        "country_code": "ID",
+        "country": "Indonesia",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        106.770437,
+                        -6.297602
+                    ],
+                    [
+                        106.770437,
+                        -6.202102
+                    ],
+                    [
+                        106.805699,
+                        -6.202102
+                    ],
+                    [
+                        106.805699,
+                        -6.297602
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Indria_Ria",
+                "name": "Ria",
+                "id": 419574034,
+                "id_str": "419574034",
+                "indices": [
+                    0,
+                    11
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "in",
+    "timestamp_ms": "1587819929447"
+}

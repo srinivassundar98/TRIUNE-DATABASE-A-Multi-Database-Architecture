@@ -1,0 +1,336 @@
+{
+    "created_at": "Sat Apr 25 12:36:28 +0000 2020",
+    "id": 1254026487826731008,
+    "id_str": "1254026487826731008",
+    "text": "De Beijing bikini sneuvelt in de corona-preventie 😅",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 56370461,
+        "id_str": "56370461",
+        "name": "Saskia 🤷🏼‍♀️",
+        "screen_name": "SaskiaBvR",
+        "location": "Amsterdam, The Netherlands",
+        "url": null,
+        "description": "Groninger in ❌❌❌ | news junkie | boxing bookworm 🥊 | footy and food | rugby and cricket | once Sydneysider, Londoner and Hong Konger",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 604,
+        "friends_count": 294,
+        "listed_count": 25,
+        "favourites_count": 22103,
+        "statuses_count": 54296,
+        "created_at": "Mon Jul 13 13:23:13 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "040C1A",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253770621793849345/yAKPa-zt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253770621793849345/yAKPa-zt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56370461/1531088169",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, The Netherlands",
+        "country_code": "NL",
+        "country": "The Netherlands",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        4.7289,
+                        52.278227
+                    ],
+                    [
+                        4.7289,
+                        52.431229
+                    ],
+                    [
+                        5.079207,
+                        52.431229
+                    ],
+                    [
+                        5.079207,
+                        52.278227
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "quoted_status_id": 1253995571502694401,
+    "quoted_status_id_str": "1253995571502694401",
+    "quoted_status": {
+        "created_at": "Sat Apr 25 10:33:37 +0000 2020",
+        "id": 1253995571502694401,
+        "id_str": "1253995571502694401",
+        "text": "#Beijing announces new laws from June 1: \n-cover face when coughing or sneezing in public places,\n-wear #masks when… https://t.co/BPbXF2s533",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 49616273,
+            "id_str": "49616273",
+            "name": "Global Times",
+            "screen_name": "globaltimesnews",
+            "location": "Beijing, China",
+            "url": "https://www.globaltimes.cn/",
+            "description": "China's national English language newspaper, under the People's Daily. Apps: http://bit.ly/1UEg2hp",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 1736949,
+            "friends_count": 514,
+            "listed_count": 4241,
+            "favourites_count": 280,
+            "statuses_count": 146755,
+            "created_at": "Mon Jun 22 12:41:39 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "E2F2F5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CFEBFC",
+            "profile_text_color": "242326",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1246507687178715136/6QKcEtxB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246507687178715136/6QKcEtxB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/49616273/1586025568",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "#Beijing announces new laws from June 1: \n-cover face when coughing or sneezing in public places,\n-wear #masks when dealing with all #infectious respiratory diseases,\n-total ban #Beijingbikini in public places. https://t.co/mXAF492xiQ",
+            "display_text_range": [
+                0,
+                210
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Beijing",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    },
+                    {
+                        "text": "masks",
+                        "indices": [
+                            104,
+                            110
+                        ]
+                    },
+                    {
+                        "text": "infectious",
+                        "indices": [
+                            133,
+                            144
+                        ]
+                    },
+                    {
+                        "text": "Beijingbikini",
+                        "indices": [
+                            178,
+                            192
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1253995498576306177,
+                        "id_str": "1253995498576306177",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcWQxKUYAEPvo0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcWQxKUYAEPvo0.jpg",
+                        "url": "https://t.co/mXAF492xiQ",
+                        "display_url": "pic.twitter.com/mXAF492xiQ",
+                        "expanded_url": "https://twitter.com/globaltimesnews/status/1253995571502694401/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 426,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 426,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 426,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1253995498576306177,
+                        "id_str": "1253995498576306177",
+                        "indices": [
+                            211,
+                            234
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EWcWQxKUYAEPvo0.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EWcWQxKUYAEPvo0.jpg",
+                        "url": "https://t.co/mXAF492xiQ",
+                        "display_url": "pic.twitter.com/mXAF492xiQ",
+                        "expanded_url": "https://twitter.com/globaltimesnews/status/1253995571502694401/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 640,
+                                "h": 426,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 640,
+                                "h": 426,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 640,
+                                "h": 426,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 13,
+        "reply_count": 9,
+        "retweet_count": 19,
+        "favorite_count": 35,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Beijing",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "text": "masks",
+                    "indices": [
+                        104,
+                        110
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/BPbXF2s533",
+                    "expanded_url": "https://twitter.com/i/web/status/1253995571502694401",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+    },
+    "quoted_status_permalink": {
+        "url": "https://t.co/3NnTgenxun",
+        "expanded": "https://twitter.com/globaltimesnews/status/1253995571502694401",
+        "display": "twitter.com/globaltimesnew…"
+    },
+    "is_quote_status": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587818188040"
+}

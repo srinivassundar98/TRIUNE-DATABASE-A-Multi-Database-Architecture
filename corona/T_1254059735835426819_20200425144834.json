@@ -1,0 +1,121 @@
+{
+    "created_at": "Sat Apr 25 14:48:34 +0000 2020",
+    "id": 1254059735835426819,
+    "id_str": "1254059735835426819",
+    "text": "@viniciulopes11 Corona",
+    "display_text_range": [
+        16,
+        22
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254058241597804545,
+    "in_reply_to_status_id_str": "1254058241597804545",
+    "in_reply_to_user_id": 854495833810755584,
+    "in_reply_to_user_id_str": "854495833810755584",
+    "in_reply_to_screen_name": "viniciulopes11",
+    "user": {
+        "id": 703251475921813504,
+        "id_str": "703251475921813504",
+        "name": "Lp ",
+        "screen_name": "Lprlq",
+        "location": "🥃🤯",
+        "url": "https://www.instagram.com/lprlq/",
+        "description": "Peterson Rodrigues, te amo irmão eterno em meu coração ❤️👼 / O teu passado terá pouca importância, comparado com o futuro maravilhoso que te espera-Jó 8:7 🙏🏾",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1591,
+        "friends_count": 1057,
+        "listed_count": 17,
+        "favourites_count": 21577,
+        "statuses_count": 72390,
+        "created_at": "Fri Feb 26 16:13:12 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1253348933558054912/_ENoKUHU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1253348933558054912/_ENoKUHU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/703251475921813504/1497473527",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "97bcdfca1a2dca59",
+        "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json",
+        "place_type": "city",
+        "name": "Rio de Janeiro",
+        "full_name": "Rio de Janeiro, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -43.795449,
+                        -23.08302
+                    ],
+                    [
+                        -43.795449,
+                        -22.739823
+                    ],
+                    [
+                        -43.087707,
+                        -22.739823
+                    ],
+                    [
+                        -43.087707,
+                        -23.08302
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "viniciulopes11",
+                "name": "Vinicius",
+                "id": 854495833810755584,
+                "id_str": "854495833810755584",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es",
+    "timestamp_ms": "1587826114983"
+}

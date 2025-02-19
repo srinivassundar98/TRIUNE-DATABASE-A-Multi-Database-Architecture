@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 14:11:16 +0000 2020",
+    "id": 1254050346126635008,
+    "id_str": "1254050346126635008",
+    "text": "@drwatson_sh @RameshPV2010 govt guidance ivvagaladhu anthe, memu tirugutham, housie aadatham, corona techukuntam an… https://t.co/r67YjOszwC",
+    "display_text_range": [
+        27,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254050019289657345,
+    "in_reply_to_status_id_str": "1254050019289657345",
+    "in_reply_to_user_id": 1113361026580307968,
+    "in_reply_to_user_id_str": "1113361026580307968",
+    "in_reply_to_screen_name": "drwatson_sh",
+    "user": {
+        "id": 1185604924232458240,
+        "id_str": "1185604924232458240",
+        "name": "Maximus has not",
+        "screen_name": "shaw1337",
+        "location": null,
+        "url": null,
+        "description": "Security Engineer. Java Script. #VizagTwitter",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 194,
+        "friends_count": 663,
+        "listed_count": 0,
+        "favourites_count": 326,
+        "statuses_count": 3100,
+        "created_at": "Sat Oct 19 17:14:09 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1236657040077930496/dx_4dgUd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236657040077930496/dx_4dgUd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1185604924232458240/1571509951",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@drwatson_sh @RameshPV2010 govt guidance ivvagaladhu anthe, memu tirugutham, housie aadatham, corona techukuntam ante evvadu kapadaledu veellani, idi lakshalloki pothadi ila aithe.",
+        "display_text_range": [
+            27,
+            180
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "drwatson_sh",
+                    "name": "Dr. Watson",
+                    "id": 1113361026580307968,
+                    "id_str": "1113361026580307968",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "RameshPV2010",
+                    "name": "PV Ramesh",
+                    "id": 161055868,
+                    "id_str": "161055868",
+                    "indices": [
+                        13,
+                        26
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/r67YjOszwC",
+                "expanded_url": "https://twitter.com/i/web/status/1254050346126635008",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "drwatson_sh",
+                "name": "Dr. Watson",
+                "id": 1113361026580307968,
+                "id_str": "1113361026580307968",
+                "indices": [
+                    0,
+                    12
+                ]
+            },
+            {
+                "screen_name": "RameshPV2010",
+                "name": "PV Ramesh",
+                "id": 161055868,
+                "id_str": "161055868",
+                "indices": [
+                    13,
+                    26
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "et",
+    "timestamp_ms": "1587823876302"
+}

@@ -1,0 +1,119 @@
+{
+    "created_at": "Sat Apr 25 12:23:35 +0000 2020",
+    "id": 1254023246284013569,
+    "id_str": "1254023246284013569",
+    "text": "@Saidemoniaco @velhosfzdmerda @gaaclemente @oieusouyas É eu querendo sair, mas a consciência me segura para não  pegar corona.",
+    "display_text_range": [
+        55,
+        126
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1254016663902736384,
+    "in_reply_to_status_id_str": "1254016663902736384",
+    "in_reply_to_user_id": 1178481838542725121,
+    "in_reply_to_user_id_str": "1178481838542725121",
+    "in_reply_to_screen_name": "Saidemoniaco",
+    "user": {
+        "id": 1251245266004520970,
+        "id_str": "1251245266004520970",
+        "name": "Lhara",
+        "screen_name": "brevelhara",
+        "location": null,
+        "url": null,
+        "description": "seila..",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 6,
+        "friends_count": 28,
+        "listed_count": 0,
+        "favourites_count": 20,
+        "statuses_count": 34,
+        "created_at": "Fri Apr 17 20:25:03 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251245643395469312/vhpEJ2fr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251245643395469312/vhpEJ2fr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251245266004520970/1587155439",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "Saidemoniaco",
+                "name": "Said",
+                "id": 1178481838542725121,
+                "id_str": "1178481838542725121",
+                "indices": [
+                    0,
+                    13
+                ]
+            },
+            {
+                "screen_name": "velhosfzdmerda",
+                "name": "velhos fazendo merda",
+                "id": 1253081282625654787,
+                "id_str": "1253081282625654787",
+                "indices": [
+                    14,
+                    29
+                ]
+            },
+            {
+                "screen_name": "gaaclemente",
+                "name": "Gabitcoin",
+                "id": 1246244011339325441,
+                "id_str": "1246244011339325441",
+                "indices": [
+                    30,
+                    42
+                ]
+            },
+            {
+                "screen_name": "oieusouyas",
+                "name": "yad",
+                "id": 465662600,
+                "id_str": "465662600",
+                "indices": [
+                    43,
+                    54
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1587817415196"
+}

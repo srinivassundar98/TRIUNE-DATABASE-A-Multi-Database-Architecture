@@ -1,0 +1,167 @@
+{
+    "created_at": "Sat Apr 25 14:03:08 +0000 2020",
+    "id": 1254048298933116928,
+    "id_str": "1254048298933116928",
+    "text": "Alsfeld muss man erleben, auch in Corona-Zeiten - https://t.co/6ynZoBKyS2 https://t.co/CpzEJ3UXXL",
+    "display_text_range": [
+        0,
+        73
+    ],
+    "source": "<a href=\"http://www.oberhessen-live.de \" rel=\"nofollow\">Oberhessen-Live.de</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2605297334,
+        "id_str": "2605297334",
+        "name": "oberhessen-live.de",
+        "screen_name": "OberhessenLive",
+        "location": "Alsfeld ",
+        "url": "http://www.oberhessen-live.de",
+        "description": "Schnellere News, spannendere Storys: Wir sind das journalistisches Online-Magazin speziell für die Region Oberhessen",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 561,
+        "friends_count": 161,
+        "listed_count": 14,
+        "favourites_count": 5,
+        "statuses_count": 11104,
+        "created_at": "Sat Jul 05 11:10:30 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/485385643896229888/GPHDgkPs_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/485385643896229888/GPHDgkPs_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2605297334/1404560154",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/6ynZoBKyS2",
+                "expanded_url": "https://www.oberhessen-live.de/?p=228248",
+                "display_url": "oberhessen-live.de/?p=228248",
+                "indices": [
+                    50,
+                    73
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+            {
+                "id": 1254048296781438976,
+                "id_str": "1254048296781438976",
+                "indices": [
+                    74,
+                    97
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdGSBzXYAAN_99.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdGSBzXYAAN_99.jpg",
+                "url": "https://t.co/CpzEJ3UXXL",
+                "display_url": "pic.twitter.com/CpzEJ3UXXL",
+                "expanded_url": "https://twitter.com/OberhessenLive/status/1254048298933116928/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 840,
+                        "h": 560,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 840,
+                        "h": 560,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1254048296781438976,
+                "id_str": "1254048296781438976",
+                "indices": [
+                    74,
+                    97
+                ],
+                "media_url": "http://pbs.twimg.com/media/EWdGSBzXYAAN_99.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EWdGSBzXYAAN_99.jpg",
+                "url": "https://t.co/CpzEJ3UXXL",
+                "display_url": "pic.twitter.com/CpzEJ3UXXL",
+                "expanded_url": "https://twitter.com/OberhessenLive/status/1254048298933116928/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 453,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 840,
+                        "h": 560,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 840,
+                        "h": 560,
+                        "resize": "fit"
+                    }
+                }
+            }
+        ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587823388213"
+}

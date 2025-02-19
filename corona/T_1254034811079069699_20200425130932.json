@@ -1,0 +1,118 @@
+{
+    "created_at": "Sat Apr 25 13:09:32 +0000 2020",
+    "id": 1254034811079069699,
+    "id_str": "1254034811079069699",
+    "text": "@rtvnoord wordt het niet eens tijd te stoppen met die corona cijfers op het liveblog in de headlines? Minder doden… https://t.co/bpPxNEknST",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14907733,
+    "in_reply_to_user_id_str": "14907733",
+    "in_reply_to_screen_name": "rtvnoord",
+    "user": {
+        "id": 1243467004801093632,
+        "id_str": "1243467004801093632",
+        "name": "Bert van Putten",
+        "screen_name": "BertPutten",
+        "location": null,
+        "url": null,
+        "description": null,
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1,
+        "friends_count": 13,
+        "listed_count": 0,
+        "favourites_count": 32,
+        "statuses_count": 38,
+        "created_at": "Fri Mar 27 09:17:06 +0000 2020",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1243467253061910529/HIbOR_7i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243467253061910529/HIbOR_7i_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@rtvnoord wordt het niet eens tijd te stoppen met die corona cijfers op het liveblog in de headlines? Minder doden zullen het niet worden denk ik.",
+        "display_text_range": [
+            0,
+            146
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rtvnoord",
+                    "name": "RTV Noord",
+                    "id": 14907733,
+                    "id_str": "14907733",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/bpPxNEknST",
+                "expanded_url": "https://twitter.com/i/web/status/1254034811079069699",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "rtvnoord",
+                "name": "RTV Noord",
+                "id": 14907733,
+                "id_str": "14907733",
+                "indices": [
+                    0,
+                    9
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "nl",
+    "timestamp_ms": "1587820172458"
+}

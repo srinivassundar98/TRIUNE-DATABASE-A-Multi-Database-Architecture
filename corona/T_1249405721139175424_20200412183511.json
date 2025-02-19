@@ -1,0 +1,155 @@
+{
+    "created_at": "Sun Apr 12 18:35:11 +0000 2020",
+    "id": 1249405721139175424,
+    "id_str": "1249405721139175424",
+    "text": "@Prakash12441483 When the corona was confirmed on January 30, then no corona-infected person would have reached the… https://t.co/l4VpW6k9qd",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1249404275190427653,
+    "in_reply_to_status_id_str": "1249404275190427653",
+    "in_reply_to_user_id": 1207673867801702407,
+    "in_reply_to_user_id_str": "1207673867801702407",
+    "in_reply_to_screen_name": "Prakash12441483",
+    "user": {
+        "id": 2666987689,
+        "id_str": "2666987689",
+        "name": "Ehd__",
+        "screen_name": "khaanInd",
+        "location": "New Delhi🇮🇳",
+        "url": null,
+        "description": "Love for Humanity what u love for yourself The prophet Muhammad (peace be upon him)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 217,
+        "friends_count": 1800,
+        "listed_count": 0,
+        "favourites_count": 32681,
+        "statuses_count": 6054,
+        "created_at": "Mon Jul 21 19:48:36 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248513412763734016/XvfMWikc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248513412763734016/XvfMWikc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2666987689/1584985592",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "2e6064382c71b343",
+        "url": "https://api.twitter.com/1.1/geo/id/2e6064382c71b343.json",
+        "place_type": "city",
+        "name": "Noida",
+        "full_name": "Noida, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        77.302126,
+                        28.443981
+                    ],
+                    [
+                        77.302126,
+                        28.647131
+                    ],
+                    [
+                        77.695326,
+                        28.647131
+                    ],
+                    [
+                        77.695326,
+                        28.443981
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@Prakash12441483 When the corona was confirmed on January 30, then no corona-infected person would have reached the crowd of the event organized in the name of Namaste Trump on 24 February?  \nWhile a large part of the people from this event came from abroad,",
+        "display_text_range": [
+            17,
+            258
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Prakash12441483",
+                    "name": "Prakash Choudhary",
+                    "id": 1207673867801702407,
+                    "id_str": "1207673867801702407",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/l4VpW6k9qd",
+                "expanded_url": "https://twitter.com/i/web/status/1249405721139175424",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "Prakash12441483",
+                "name": "Prakash Choudhary",
+                "id": 1207673867801702407,
+                "id_str": "1207673867801702407",
+                "indices": [
+                    0,
+                    16
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716511412"
+}

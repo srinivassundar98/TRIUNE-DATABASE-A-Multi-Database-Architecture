@@ -1,0 +1,143 @@
+{
+    "created_at": "Sat Apr 25 12:22:34 +0000 2020",
+    "id": 1254022991152844801,
+    "id_str": "1254022991152844801",
+    "text": "@CHKrey @HegeRH Hansker er for corona-hysterikere. Roser er verdt litt blod siden de er så ROSENRØDE akkurat som bl… https://t.co/YymVijmH9l",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254022518635139073,
+    "in_reply_to_status_id_str": "1254022518635139073",
+    "in_reply_to_user_id": 344031866,
+    "in_reply_to_user_id_str": "344031866",
+    "in_reply_to_screen_name": "CHKrey",
+    "user": {
+        "id": 303666305,
+        "id_str": "303666305",
+        "name": "@hfrendal",
+        "screen_name": "hfrendal",
+        "location": "Trondheim, Norway",
+        "url": null,
+        "description": "card sharp, agnostic and a Sith Lord. Heroes dont wear capes, they wear dog tags.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 237,
+        "friends_count": 322,
+        "listed_count": 7,
+        "favourites_count": 61,
+        "statuses_count": 8440,
+        "created_at": "Mon May 23 08:03:43 +0000 2011",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/777632194340724736/Lv8BumGO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/777632194340724736/Lv8BumGO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/303666305/1474236752",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@CHKrey @HegeRH Hansker er for corona-hysterikere. Roser er verdt litt blod siden de er så ROSENRØDE akkurat som blod. (jeg tror ikke dette ble en vits men jeg ler litt likevel)",
+        "display_text_range": [
+            16,
+            177
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CHKrey",
+                    "name": "Tsundoku",
+                    "id": 344031866,
+                    "id_str": "344031866",
+                    "indices": [
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "screen_name": "HegeRH",
+                    "name": "Hege.H",
+                    "id": 257147949,
+                    "id_str": "257147949",
+                    "indices": [
+                        8,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/YymVijmH9l",
+                "expanded_url": "https://twitter.com/i/web/status/1254022991152844801",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "CHKrey",
+                "name": "Tsundoku",
+                "id": 344031866,
+                "id_str": "344031866",
+                "indices": [
+                    0,
+                    7
+                ]
+            },
+            {
+                "screen_name": "HegeRH",
+                "name": "Hege.H",
+                "id": 257147949,
+                "id_str": "257147949",
+                "indices": [
+                    8,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "no",
+    "timestamp_ms": "1587817354368"
+}

@@ -1,0 +1,509 @@
+{
+    "created_at": "Sat Apr 25 13:02:57 +0000 2020",
+    "id": 1254033153339068416,
+    "id_str": "1254033153339068416",
+    "text": "Harvest of #cress at home grown on #Mars and #moon #soil simulant. Drying in my home made solar oven. Harvest was m… https://t.co/dM3PViyFJx",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2759592250,
+        "id_str": "2759592250",
+        "name": "Wieger Wamelink",
+        "screen_name": "wamelink_wieger",
+        "location": "Wageningen, the Netherlands",
+        "url": null,
+        "description": "Is it possible to grow crops on Mars and Moon soil? Caretaker ecological gardens WUR. Climate change, biodiversity, nitrogen deposition",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 652,
+        "friends_count": 168,
+        "listed_count": 25,
+        "favourites_count": 2731,
+        "statuses_count": 2188,
+        "created_at": "Tue Sep 02 17:54:10 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671966142680817664/f9YPfDxi_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671966142680817664/f9YPfDxi_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2759592250/1554969888",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "93923fc03e6964e9",
+        "url": "https://api.twitter.com/1.1/geo/id/93923fc03e6964e9.json",
+        "place_type": "city",
+        "name": "Wageningen",
+        "full_name": "Wageningen, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        5.605844,
+                        51.936351
+                    ],
+                    [
+                        5.605844,
+                        52.00057
+                    ],
+                    [
+                        5.724424,
+                        52.00057
+                    ],
+                    [
+                        5.724424,
+                        51.936351
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "Harvest of #cress at home grown on #Mars and #moon #soil simulant. Drying in my home made solar oven. Harvest was ment for tv show @OmroepGLD and @rijnijssel #wageningen. #corona canceled. @WUR @WURenvironment @AmandaGTeach @SciGeekJulie @martiansoil @Martian_Garden https://t.co/oVb3nspoNX",
+        "display_text_range": [
+            0,
+            266
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "cress",
+                    "indices": [
+                        11,
+                        17
+                    ]
+                },
+                {
+                    "text": "Mars",
+                    "indices": [
+                        35,
+                        40
+                    ]
+                },
+                {
+                    "text": "moon",
+                    "indices": [
+                        45,
+                        50
+                    ]
+                },
+                {
+                    "text": "soil",
+                    "indices": [
+                        51,
+                        56
+                    ]
+                },
+                {
+                    "text": "wageningen",
+                    "indices": [
+                        158,
+                        169
+                    ]
+                },
+                {
+                    "text": "corona",
+                    "indices": [
+                        171,
+                        178
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "OmroepGLD",
+                    "name": "Omroep Gelderland",
+                    "id": 59130732,
+                    "id_str": "59130732",
+                    "indices": [
+                        131,
+                        141
+                    ]
+                },
+                {
+                    "screen_name": "rijnijssel",
+                    "name": "rijnijssel",
+                    "id": 36673653,
+                    "id_str": "36673653",
+                    "indices": [
+                        146,
+                        157
+                    ]
+                },
+                {
+                    "screen_name": "WUR",
+                    "name": "Wageningen U&R",
+                    "id": 20045134,
+                    "id_str": "20045134",
+                    "indices": [
+                        189,
+                        193
+                    ]
+                },
+                {
+                    "screen_name": "WURenvironment",
+                    "name": "WUR Environmental",
+                    "id": 38430893,
+                    "id_str": "38430893",
+                    "indices": [
+                        194,
+                        209
+                    ]
+                },
+                {
+                    "screen_name": "AmandaGTeach",
+                    "name": "Amanda Green 🇨🇦",
+                    "id": 577651379,
+                    "id_str": "577651379",
+                    "indices": [
+                        210,
+                        223
+                    ]
+                },
+                {
+                    "screen_name": "SciGeekJulie",
+                    "name": "Julie Arsenault",
+                    "id": 587716534,
+                    "id_str": "587716534",
+                    "indices": [
+                        224,
+                        237
+                    ]
+                },
+                {
+                    "screen_name": "martiansoil",
+                    "name": "Martian Soil 🚀🔴👨‍🚀👩‍🚀",
+                    "id": 14916626,
+                    "id_str": "14916626",
+                    "indices": [
+                        238,
+                        250
+                    ]
+                },
+                {
+                    "screen_name": "Martian_Garden",
+                    "name": "The Martian Garden",
+                    "id": 764257244481409024,
+                    "id_str": "764257244481409024",
+                    "indices": [
+                        251,
+                        266
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1254033125883228160,
+                    "id_str": "1254033125883228160",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc4e9zXsAAh0GQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc4e9zXsAAh0GQ.jpg",
+                    "url": "https://t.co/oVb3nspoNX",
+                    "display_url": "pic.twitter.com/oVb3nspoNX",
+                    "expanded_url": "https://twitter.com/wamelink_wieger/status/1254033153339068416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254033125874774016,
+                    "id_str": "1254033125874774016",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc4e9xWsAATfVR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc4e9xWsAATfVR.jpg",
+                    "url": "https://t.co/oVb3nspoNX",
+                    "display_url": "pic.twitter.com/oVb3nspoNX",
+                    "expanded_url": "https://twitter.com/wamelink_wieger/status/1254033153339068416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254033126872973318,
+                    "id_str": "1254033126872973318",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc4fBfWAAYutTs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc4fBfWAAYutTs.jpg",
+                    "url": "https://t.co/oVb3nspoNX",
+                    "display_url": "pic.twitter.com/oVb3nspoNX",
+                    "expanded_url": "https://twitter.com/wamelink_wieger/status/1254033153339068416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1254033125883228160,
+                    "id_str": "1254033125883228160",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc4e9zXsAAh0GQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc4e9zXsAAh0GQ.jpg",
+                    "url": "https://t.co/oVb3nspoNX",
+                    "display_url": "pic.twitter.com/oVb3nspoNX",
+                    "expanded_url": "https://twitter.com/wamelink_wieger/status/1254033153339068416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254033125874774016,
+                    "id_str": "1254033125874774016",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc4e9xWsAATfVR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc4e9xWsAATfVR.jpg",
+                    "url": "https://t.co/oVb3nspoNX",
+                    "display_url": "pic.twitter.com/oVb3nspoNX",
+                    "expanded_url": "https://twitter.com/wamelink_wieger/status/1254033153339068416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    }
+                },
+                {
+                    "id": 1254033126872973318,
+                    "id_str": "1254033126872973318",
+                    "indices": [
+                        267,
+                        290
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EWc4fBfWAAYutTs.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EWc4fBfWAAYutTs.jpg",
+                    "url": "https://t.co/oVb3nspoNX",
+                    "display_url": "pic.twitter.com/oVb3nspoNX",
+                    "expanded_url": "https://twitter.com/wamelink_wieger/status/1254033153339068416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1536,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 900,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 510,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "cress",
+                "indices": [
+                    11,
+                    17
+                ]
+            },
+            {
+                "text": "Mars",
+                "indices": [
+                    35,
+                    40
+                ]
+            },
+            {
+                "text": "moon",
+                "indices": [
+                    45,
+                    50
+                ]
+            },
+            {
+                "text": "soil",
+                "indices": [
+                    51,
+                    56
+                ]
+            }
+        ],
+        "urls": [
+            {
+                "url": "https://t.co/dM3PViyFJx",
+                "expanded_url": "https://twitter.com/i/web/status/1254033153339068416",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587819777222"
+}

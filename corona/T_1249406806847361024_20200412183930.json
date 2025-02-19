@@ -1,0 +1,121 @@
+{
+    "created_at": "Sun Apr 12 18:39:30 +0000 2020",
+    "id": 1249406806847361024,
+    "id_str": "1249406806847361024",
+    "text": "@carouugarcia Eu não pego corona",
+    "display_text_range": [
+        14,
+        32
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 1249406588445691906,
+    "in_reply_to_status_id_str": "1249406588445691906",
+    "in_reply_to_user_id": 821731055891783680,
+    "in_reply_to_user_id_str": "821731055891783680",
+    "in_reply_to_screen_name": "carouugarcia",
+    "user": {
+        "id": 1140800466332344320,
+        "id_str": "1140800466332344320",
+        "name": "eu sou um anjo!🥺",
+        "screen_name": "Alysondg4",
+        "location": "Porto Alegre, Brasil",
+        "url": null,
+        "description": "📍Vb ZL🏠 Atleta Football player loading...💪🏼 não importa quem você seja, eu só abaixo a cabeça pra rezar 👊🏼🤯✌🏽 @nbuenojj ♥️",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 676,
+        "friends_count": 513,
+        "listed_count": 0,
+        "favourites_count": 13451,
+        "statuses_count": 14559,
+        "created_at": "Tue Jun 18 01:56:41 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244155206625091584/LBkoDBQX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244155206625091584/LBkoDBQX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140800466332344320/1586075914",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "894146230dd1d42d",
+        "url": "https://api.twitter.com/1.1/geo/id/894146230dd1d42d.json",
+        "place_type": "city",
+        "name": "Porto Alegre",
+        "full_name": "Porto Alegre, Brasil",
+        "country_code": "BR",
+        "country": "Brasil",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -51.306148,
+                        -30.268807
+                    ],
+                    [
+                        -51.306148,
+                        -29.930865
+                    ],
+                    [
+                        -51.012471,
+                        -29.930865
+                    ],
+                    [
+                        -51.012471,
+                        -30.268807
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "carouugarcia",
+                "name": "Cg",
+                "id": 821731055891783680,
+                "id_str": "821731055891783680",
+                "indices": [
+                    0,
+                    13
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1586716770265"
+}

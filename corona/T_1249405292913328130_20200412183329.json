@@ -1,0 +1,140 @@
+{
+    "created_at": "Sun Apr 12 18:33:29 +0000 2020",
+    "id": 1249405292913328130,
+    "id_str": "1249405292913328130",
+    "text": "\"but the cases now are in millions, and so many people do not know yet that they are infected, \"\n05-03-2020AD\nImam… https://t.co/dsq0qkTEXt",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 825756790990241793,
+        "id_str": "825756790990241793",
+        "name": "seef eldeen",
+        "screen_name": "seefeldeen90",
+        "location": null,
+        "url": "https://www.nasser-yamani.com",
+        "description": "‏أنا من أنصار الإمام المهدي المنتظر ناصر محمد اليماني...\nI am supporter Of The Awaited Imam Mahdi (Nasser Mohammad Al Yamani)",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 118,
+        "friends_count": 227,
+        "listed_count": 1,
+        "favourites_count": 1233,
+        "statuses_count": 2959,
+        "created_at": "Sun Jan 29 17:25:35 +0000 2017",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1180088134626877441/cn6xrJ_5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180088134626877441/cn6xrJ_5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/825756790990241793/1486322512",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "01d0cd182297354e",
+        "url": "https://api.twitter.com/1.1/geo/id/01d0cd182297354e.json",
+        "place_type": "admin",
+        "name": "Cairo",
+        "full_name": "Cairo, Egypt",
+        "country_code": "EG",
+        "country": "Egypt",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        31.200959,
+                        28.963851
+                    ],
+                    [
+                        31.200959,
+                        30.228647
+                    ],
+                    [
+                        31.940253,
+                        30.228647
+                    ],
+                    [
+                        31.940253,
+                        28.963851
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "\"but the cases now are in millions, and so many people do not know yet that they are infected, \"\n05-03-2020AD\nImam Nasser Mohammad Al-Yemeni\n\nhttps://t.co/0Mbfn1Gx3b\nHappy Easter Yemen COVID19 CORONA عيد سعيد خليك بالبيت فصح مجيد فيروس كورونا",
+        "display_text_range": [
+            0,
+            242
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/0Mbfn1Gx3b",
+                    "expanded_url": "https://www.nasser-yamani.com/showthread.php?p=325080",
+                    "display_url": "nasser-yamani.com/showthread.php…",
+                    "indices": [
+                        142,
+                        165
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/dsq0qkTEXt",
+                "expanded_url": "https://twitter.com/i/web/status/1249405292913328130",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    116,
+                    139
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "ca",
+    "timestamp_ms": "1586716409315"
+}

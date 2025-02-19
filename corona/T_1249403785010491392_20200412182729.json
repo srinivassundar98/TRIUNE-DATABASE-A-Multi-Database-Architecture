@@ -1,0 +1,160 @@
+{
+    "created_at": "Sun Apr 12 18:27:29 +0000 2020",
+    "id": 1249403785010491392,
+    "id_str": "1249403785010491392",
+    "text": "We’r all going thru a difficult time due to Corona, so keeping the spirit &amp; hope of Easter in mind, we must help th… https://t.co/OzcwoorbdF",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 2504569774,
+        "id_str": "2504569774",
+        "name": "shahid bhatti",
+        "screen_name": "gmlahore",
+        "location": "Lahore, Pakistan",
+        "url": "http://www.efulife.com",
+        "description": "ZM-GM EFU LIFE...",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 36,
+        "friends_count": 73,
+        "listed_count": 0,
+        "favourites_count": 3,
+        "statuses_count": 74,
+        "created_at": "Wed Apr 23 18:13:31 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652888956183425025/ft0-UhgU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652888956183425025/ft0-UhgU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2504569774/1520788360",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            31.5497,
+            74.3436
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            74.3436,
+            31.5497
+        ]
+    },
+    "place": {
+        "id": "003d5766281b4194",
+        "url": "https://api.twitter.com/1.1/geo/id/003d5766281b4194.json",
+        "place_type": "city",
+        "name": "Lahore",
+        "full_name": "Lahore, Pakistan",
+        "country_code": "PK",
+        "country": "Pakistan",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        74.267586,
+                        31.451222
+                    ],
+                    [
+                        74.267586,
+                        31.612417
+                    ],
+                    [
+                        74.449387,
+                        31.612417
+                    ],
+                    [
+                        74.449387,
+                        31.451222
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "We’r all going thru a difficult time due to Corona, so keeping the spirit &amp; hope of Easter in mind, we must help the less fortunate, take precaution &amp; celebrate at home to prevent the spread of this virus!\n#covid19… https://t.co/ZRueFRCqI4",
+        "display_text_range": [
+            0,
+            247
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "covid19",
+                    "indices": [
+                        214,
+                        222
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ZRueFRCqI4",
+                    "expanded_url": "https://www.instagram.com/p/B-5A1wnpMAm/?igshid=fo0mf9vsd3xb",
+                    "display_url": "instagram.com/p/B-5A1wnpMAm/…",
+                    "indices": [
+                        224,
+                        247
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/OzcwoorbdF",
+                "expanded_url": "https://twitter.com/i/web/status/1249403785010491392",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    121,
+                    144
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1586716049803"
+}

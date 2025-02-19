@@ -1,0 +1,123 @@
+{
+    "created_at": "Sat Apr 25 13:11:34 +0000 2020",
+    "id": 1254035322834505730,
+    "id_str": "1254035322834505730",
+    "text": "@HGMaassen \"Wir wissen aus Südkorea und Taiwan, dass die Zusammenführung von Bewegungsdaten bei der Beherrschung de… https://t.co/TX8P3gV9gu",
+    "display_text_range": [
+        11,
+        140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1254009446398857216,
+    "in_reply_to_status_id_str": "1254009446398857216",
+    "in_reply_to_user_id": 843210563190771713,
+    "in_reply_to_user_id_str": "843210563190771713",
+    "in_reply_to_screen_name": "HGMaassen",
+    "user": {
+        "id": 1167825723240980482,
+        "id_str": "1167825723240980482",
+        "name": "Hannes",
+        "screen_name": "Hannes77022932",
+        "location": null,
+        "url": null,
+        "description": "Frei wie ein Vogel!\nRetweets bedeuten keine Zustimmung, lediglich Interesse.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 97,
+        "friends_count": 256,
+        "listed_count": 0,
+        "favourites_count": 3917,
+        "statuses_count": 2481,
+        "created_at": "Sat Aug 31 15:45:41 +0000 2019",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1168479641151127553/kM-acT-q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168479641151127553/kM-acT-q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167825723240980482/1569164994",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@HGMaassen \"Wir wissen aus Südkorea und Taiwan, dass die Zusammenführung von Bewegungsdaten bei der Beherrschung der Pandemie eine zentrale Rolle spielt.\"\n\nNicht nur dafür ist eine Daten-App geeignet. Big Brother may be watching You, even after Corona!",
+        "display_text_range": [
+            11,
+            252
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HGMaassen",
+                    "name": "Hans-Georg Maaßen",
+                    "id": 843210563190771713,
+                    "id_str": "843210563190771713",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/TX8P3gV9gu",
+                "expanded_url": "https://twitter.com/i/web/status/1254035322834505730",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "HGMaassen",
+                "name": "Hans-Georg Maaßen",
+                "id": 843210563190771713,
+                "id_str": "843210563190771713",
+                "indices": [
+                    0,
+                    10
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "de",
+    "timestamp_ms": "1587820294470"
+}

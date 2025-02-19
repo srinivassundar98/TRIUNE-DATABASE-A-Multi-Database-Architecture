@@ -1,0 +1,154 @@
+{
+    "created_at": "Sat Apr 25 13:58:31 +0000 2020",
+    "id": 1254047138989793281,
+    "id_str": "1254047138989793281",
+    "text": "@NairShilpa1308 TN Government predicted last week that Corona virus would be  contained in 3 to 4 days.\nToday MHA s… https://t.co/dqGllUctSK",
+    "display_text_range": [
+        16,
+        140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1253968617579745280,
+    "in_reply_to_status_id_str": "1253968617579745280",
+    "in_reply_to_user_id": 2918539369,
+    "in_reply_to_user_id_str": "2918539369",
+    "in_reply_to_screen_name": "NairShilpa1308",
+    "user": {
+        "id": 85549298,
+        "id_str": "85549298",
+        "name": "Masilamani.R",
+        "screen_name": "masilamani53",
+        "location": "Chennai,Tamil Nadu, India.",
+        "url": null,
+        "description": "Steadfastly a left oriented person in political commitment..\nRTs do not mean endorsement.",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 123,
+        "friends_count": 135,
+        "listed_count": 3,
+        "favourites_count": 44580,
+        "statuses_count": 52952,
+        "created_at": "Tue Oct 27 11:23:12 +0000 2009",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1051823858708230145/W9mxeK2k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051823858708230145/W9mxeK2k_normal.jpg",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+        "id": "5db3a8824a6d3205",
+        "url": "https://api.twitter.com/1.1/geo/id/5db3a8824a6d3205.json",
+        "place_type": "city",
+        "name": "Perambur Purasavakam",
+        "full_name": "Perambur Purasavakam, India",
+        "country_code": "IN",
+        "country": "India",
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        80.193424,
+                        13.080055
+                    ],
+                    [
+                        80.193424,
+                        13.129347
+                    ],
+                    [
+                        80.272486,
+                        13.129347
+                    ],
+                    [
+                        80.272486,
+                        13.080055
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+        "full_text": "@NairShilpa1308 TN Government predicted last week that Corona virus would be  contained in 3 to 4 days.\nToday MHA says situation in Chennai is serious.",
+        "display_text_range": [
+            16,
+            151
+        ],
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "NairShilpa1308",
+                    "name": "Shilpa Nair",
+                    "id": 2918539369,
+                    "id_str": "2918539369",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [
+            {
+                "url": "https://t.co/dqGllUctSK",
+                "expanded_url": "https://twitter.com/i/web/status/1254047138989793281",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                    117,
+                    140
+                ]
+            }
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "NairShilpa1308",
+                "name": "Shilpa Nair",
+                "id": 2918539369,
+                "id_str": "2918539369",
+                "indices": [
+                    0,
+                    15
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "en",
+    "timestamp_ms": "1587823111661"
+}
